@@ -1,2 +1,4 @@
 [2022-05-30 23:42:09] BUY
 Var Alw has bought LUNA2 for $10.62425
+[2022-05-30 23:48:05] SOLD
+Var Alw has sold LUNA2 for $10.62425. Profit was 0.001971903899098848%.
