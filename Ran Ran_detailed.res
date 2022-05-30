@@ -76,3 +76,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   17
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-30 23:27:49] BUY
+Ran Ran has bought: Name: ALGOUSD
+Altname: ALGOUSD
+Wsname: ALGO/USD
+Base: Name = ALGO
+Altname = ALGO
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2.5
+Data about this tradable pair of assets:
+
+        Current:                    0.42219
+        Maximum:                    2.834467
+        Minimum:                    2.364625
+        Variance:                   0.16576
+        Mean:                       2.639113
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.428571
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.625
+        Is falling:                 True
+        Current fall duration:      13
+        Trending downwards:         False
+        Average local maximum:      0.383827
+        Number of local maximums:   21
+        Average local minimum:      0.378868
+        Number of local minimums:   24
+
+---------------------------------------------------------------------------

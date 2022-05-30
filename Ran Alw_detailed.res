@@ -115,3 +115,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   21
 
 ---------------------------------------------------------------------------
+[2022-05-30 23:27:49] SOLD
+Ran Alw has sold: Name: AKTUSD
+Altname: AKTUSD
+Wsname: AKT/USD
+Base: Name = AKT
+Altname = AKT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 3
+Data about this tradable pair of assets:
+
+        Current:                    0.429
+        Maximum:                    2.503756
+        Minimum:                    2.303617
+        Variance:                   0.079935
+        Mean:                       2.413325
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.52
+        Is ascending:               True
+        Current ascension duration: 9
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.571429
+        Is falling:                 True
+        Current fall duration:      11
+        Trending downwards:         False
+        Average local maximum:      0.415908
+        Number of local maximums:   25
+        Average local minimum:      0.4179
+        Number of local minimums:   21
+Profit was -0.0%.
+---------------------------------------------------------------------------
