@@ -154,3 +154,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   21
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-30 23:32:53] BUY
+Ran Alw has bought: Name: AGLDUSD
+Altname: AGLDUSD
+Wsname: AGLD/USD
+Base: Name = AGLD
+Altname = AGLD
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.5615
+        Maximum:                    2.052967
+        Minimum:                    1.780944
+        Variance:                   0.132502
+        Mean:                       1.943286
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.5
+        Is ascending:               True
+        Current ascension duration: 11
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.0
+        Is falling:                 True
+        Current fall duration:      99
+        Trending downwards:         False
+        Average local maximum:      0.517537
+        Number of local maximums:   8
+        Average local minimum:      0.52125
+        Number of local minimums:   12
+
+---------------------------------------------------------------------------
