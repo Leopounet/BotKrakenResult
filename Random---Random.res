@@ -64,3 +64,5 @@ Random---Random has bought MINA for $0.97
 Random---Random has sold MINA for $0.97. Profit was 0.005154639175257714%.
 [2022-05-31 12:38:39] BUY
 Random---Random has bought APE for $6.8552
+[2022-05-31 12:50:36] SOLD
+Random---Random has sold APE for $6.8552. Profit was -0.004274127669506411%.
