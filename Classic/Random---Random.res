@@ -42,3 +42,5 @@ Random---Random has sold STEP for $0.0917. Profit was -0.0%.
 Random---Random has bought BNC for $0.398
 [2022-05-31 23:53:40] SOLD
 Random---Random has sold BNC for $0.398. Profit was -0.0%.
+[2022-05-31 23:56:37] BUY
+Random---Random has bought SHIB for $1.167e-05
