@@ -22,3 +22,5 @@ Random---Always has sold PERP for $1.284. Profit was -0.0%.
 Random---Always has bought BICO for $0.728
 [2022-05-31 09:10:32] SOLD
 Random---Always has sold BICO for $0.728. Profit was -0.0%.
+[2022-05-31 09:16:28] BUY
+Random---Always has bought PLA for $0.5777

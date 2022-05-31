@@ -12,3 +12,5 @@ Random---Random has bought OCEAN for $0.2541
 Random---Random has sold OCEAN for $0.2541. Profit was -0.0047225501770955525%.
 [2022-05-31 09:10:32] BUY
 Random---Random has bought TRIBE for $0.2695
+[2022-05-31 09:16:28] SOLD
+Random---Random has sold TRIBE for $0.2695. Profit was -0.0%.
