@@ -26,3 +26,5 @@ Random---Random has sold CFG for $0.2763. Profit was -0.0%.
 Random---Random has bought ZAUD for $0.71803
 [2022-05-31 02:36:27] SOLD
 Random---Random has sold ZAUD for $0.71803. Profit was 0.0006963497346907932%.
+[2022-05-31 02:42:22] BUY
+Random---Random has bought MOVR for $23.6866

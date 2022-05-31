@@ -54,3 +54,5 @@ Random---Always has sold XXRP for $0.41633. Profit was 0.00434751279033474%.
 Random---Always has bought SHIB for $1.214e-05
 [2022-05-31 02:36:27] SOLD
 Random---Always has sold SHIB for $1.214e-05. Profit was -0.0008237232289950436%.
+[2022-05-31 02:42:22] BUY
+Random---Always has bought XMLN for $29.434
