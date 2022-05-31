@@ -134,3 +134,5 @@ RecentMinimum---Always has sold POWR for $0.2767. Profit was -0.0191543187567764
 RecentMinimum---Always has bought ZUSD for $128.937
 [2022-05-31 16:31:40] SOLD
 RecentMinimum---Always has sold ZUSD for $128.937. Profit was -0.0%.
+[2022-05-31 16:37:44] BUY
+RecentMinimum---Always has bought ZUSD for $128.937
