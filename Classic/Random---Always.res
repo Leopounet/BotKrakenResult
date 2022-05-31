@@ -74,3 +74,5 @@ Random---Always has sold STORJ for $0.58976. Profit was -0.0%.
 Random---Always has bought GALA for $0.0835
 [2022-05-31 23:50:43] SOLD
 Random---Always has sold GALA for $0.0837. Profit was 0.0023952095808381646%.
+[2022-05-31 23:53:40] BUY
+Random---Always has bought YGG for $0.704

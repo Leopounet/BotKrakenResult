@@ -958,3 +958,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0020280398553920165%.
 ---------------------------------------------------------------------------
+[2022-05-31 23:53:40] BUY
+Variance Lower All Local Minimums---Random has bought: Name: USTUSD
+Altname: USTUSD
+Wsname: UST/USD
+Base: Name = UST
+Altname = UST
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 100
+Data about this tradable pair of assets:
+
+        Current:                    0.02131
+        Maximum:                    50.301811
+        Minimum:                    29.282577
+        Variance:                   0.417862
+        Mean:                       40.604716
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.857143
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.333333
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.025426
+        Number of local maximums:   21
+        Average local minimum:      0.025158
+        Number of local minimums:   27
+True
+
+---------------------------------------------------------------------------

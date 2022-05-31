@@ -1518,3 +1518,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.0023952095808381646%.
 ---------------------------------------------------------------------------
+[2022-05-31 23:53:40] BUY
+Random---Always has bought: Name: YGGUSD
+Altname: YGGUSD
+Wsname: YGG/USD
+Base: Name = YGG
+Altname = YGG
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    0.704
+        Maximum:                    1.683502
+        Minimum:                    1.283697
+        Variance:                   0.237484
+        Mean:                       1.521322
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.322581
+        Is ascending:               True
+        Current ascension duration: 8
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.875
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      0.678419
+        Number of local maximums:   31
+        Average local minimum:      0.647583
+        Number of local minimums:   24
+True
+
+---------------------------------------------------------------------------
