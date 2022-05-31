@@ -16,3 +16,5 @@ Recent Minimum---Always has bought OCEAN for $0.2324
 Recent Minimum---Always has sold OCEAN for $0.2324. Profit was -0.0%.
 [2022-05-31 22:21:23] BUY
 Recent Minimum---Always has bought MSOL for $49.91
+[2022-05-31 22:24:33] SOLD
+Recent Minimum---Always has sold MSOL for $49.91. Profit was -0.0%.
