@@ -817,3 +817,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   18
 
 ---------------------------------------------------------------------------
+[2022-05-31 10:10:03] SOLD
+Random---Always has sold: Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base: Name = AAVE
+Altname = AAVE
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.02
+Data about this tradable pair of assets:
+
+        Current:                    116.81
+        Maximum:                    0.010904
+        Minimum:                    0.008235
+        Variance:                   0.24475
+        Mean:                       0.009799
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.076923
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.333333
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      104.979615
+        Number of local maximums:   26
+        Average local minimum:      102.226667
+        Number of local minimums:   18
+Profit was -0.001540963958565289%.
+---------------------------------------------------------------------------

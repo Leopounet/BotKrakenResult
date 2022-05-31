@@ -22,3 +22,5 @@ Random---Random has sold KP3R for $143.8. Profit was -0.02016689847009745%.
 Random---Random has bought XMLN for $28.818
 [2022-05-31 10:04:05] SOLD
 Random---Random has sold XMLN for $28.818. Profit was -0.0%.
+[2022-05-31 10:10:03] BUY
+Random---Random has bought FET for $0.1663
