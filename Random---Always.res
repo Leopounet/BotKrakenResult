@@ -80,3 +80,5 @@ Random---Always has bought NANO for $1.253398
 Random---Always has sold NANO for $1.253398. Profit was -0.008570302489712023%.
 [2022-05-31 12:03:00] BUY
 Random---Always has bought KNC for $2.2395
+[2022-05-31 12:08:57] SOLD
+Random---Always has sold KNC for $2.2395. Profit was -0.00250055816030359%.

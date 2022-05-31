@@ -1597,3 +1597,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   21
 
 ---------------------------------------------------------------------------
+[2022-05-31 12:08:57] SOLD
+Random---Always has sold: Name: KNCUSD
+Altname: KNCUSD
+Wsname: KNC/USD
+Base: Name = KNC
+Altname = KNC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    2.2395
+        Maximum:                    0.556359
+        Minimum:                    0.412524
+        Variance:                   0.258529
+        Mean:                       0.493695
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.333333
+        Is ascending:               True
+        Current ascension duration: 4
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.857143
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      2.018693
+        Number of local maximums:   27
+        Average local minimum:      2.099438
+        Number of local minimums:   21
+Profit was -0.00250055816030359%.
+---------------------------------------------------------------------------
