@@ -1,4 +1,4 @@
-[2022-05-31 22:11:00] SUMMARY
+[2022-05-31 22:14:11] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,45 +51,9 @@ Random.
 Random.
 {}
 {}
-Name: SHIBUSD
-Altname: SHIBUSD
-Wsname: SHIB/USD
-Base: Name = SHIB
-Altname = SHIB
-decimals = 5
-displayed_decimals = 0
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 500000
-Data about this tradable pair of assets:
-
-        Current:                    1.2e-05
-        Maximum:                    93023.255814
-        Minimum:                    80971.659919
-        Variance:                   0.129555
-        Mean:                       85379.922366
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          4.3125
-        Is ascending:               False
-        Current ascension duration: 0
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.086957
-        Is falling:                 True
-        Current fall duration:      3
-        Trending downwards:         False
-        Average local maximum:      1.2e-05
-        Number of local maximums:   16
-        Average local minimum:      1.2e-05
-        Number of local minimums:   23
-True
+None
 0
-2
+3
 0.0
 Best score: 
 Variance Lower All Local Minimums---Random
@@ -97,7 +61,43 @@ Looks for the asset for which the current price is lower than all previous local
 Random.
 {}
 {}
-None
+Name: LUNAUSD
+Altname: LUNAUSD
+Wsname: LUNA/USD
+Base: Name = LUNA
+Altname = LUNA
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 50000
+Data about this tradable pair of assets:
+
+        Current:                    0.000113
+        Maximum:                    12658.227848
+        Minimum:                    5263.157895
+        Variance:                   0.584211
+        Mean:                       8734.625224
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.5
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.571429
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      0.000121
+        Number of local maximums:   18
+        Average local minimum:      0.000118
+        Number of local minimums:   21
+True
 0
 2
 -0.007825563042492267

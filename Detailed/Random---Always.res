@@ -238,3 +238,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.00047841311092333694%.
 ---------------------------------------------------------------------------
+[2022-05-31 22:14:11] BUY
+Random---Always has bought: Name: OXTUSD
+Altname: OXTUSD
+Wsname: OXT/USD
+Base: Name = OXT
+Altname = OXT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.13792
+        Maximum:                    7.949758
+        Minimum:                    6.838074
+        Variance:                   0.139839
+        Mean:                       7.457653
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.0
+        Is ascending:               True
+        Current ascension duration: 10
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.5
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.134387
+        Number of local maximums:   30
+        Average local minimum:      0.13253
+        Number of local minimums:   20
+True
+
+---------------------------------------------------------------------------

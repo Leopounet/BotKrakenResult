@@ -10,3 +10,5 @@ Random---Always has sold XZEC for $93.18. Profit was 0.0030139935414423835%.
 Random---Always has bought LUNA2 for $8.31917
 [2022-05-31 22:11:00] SOLD
 Random---Always has sold LUNA2 for $8.31519. Profit was -0.00047841311092333694%.
+[2022-05-31 22:14:11] BUY
+Random---Always has bought OXT for $0.13792
