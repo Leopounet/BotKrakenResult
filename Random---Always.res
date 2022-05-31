@@ -162,3 +162,5 @@ Random---Always has sold CTSI for $0.2092. Profit was -0.001434034416825991%.
 Random---Always has bought UNI for $5.682
 [2022-05-31 17:56:08] SOLD
 Random---Always has sold UNI for $5.682. Profit was -0.0%.
+[2022-05-31 18:02:24] BUY
+Random---Always has bought CVC for $0.1749

@@ -96,3 +96,5 @@ Random---Random has bought XREP for $10.768
 Random---Random has sold XREP for $10.768. Profit was -0.0%.
 [2022-05-31 17:31:51] BUY
 Random---Random has bought KP3R for $141.2
+[2022-05-31 18:02:24] SOLD
+Random---Random has sold KP3R for $141.2. Profit was 0.009206798866855603%.
