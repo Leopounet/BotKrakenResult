@@ -112,3 +112,5 @@ Random---Always has bought LDO for $1.14
 Random---Always has sold LDO for $1.14. Profit was -0.0%.
 [2022-05-31 13:38:22] BUY
 Random---Always has bought YGG for $0.717
+[2022-05-31 13:44:20] SOLD
+Random---Always has sold YGG for $0.717. Profit was -0.0%.
