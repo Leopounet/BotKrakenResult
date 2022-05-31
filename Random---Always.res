@@ -20,3 +20,5 @@ Random---Always has bought CHZ for $0.1229
 Random---Always has sold CHZ for $0.1229. Profit was -0.0%.
 [2022-05-31 00:53:37] BUY
 Random---Always has bought GLMR for $1.377
+[2022-05-31 00:59:32] SOLD
+Random---Always has sold GLMR for $1.377. Profit was -0.0%.

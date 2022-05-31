@@ -20,3 +20,5 @@ LowerAllLocalMinimums---Always has bought USDC for $0.9999
 LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was 0.00010001000100001711%.
 [2022-05-31 00:53:37] BUY
 LowerAllLocalMinimums---Always has bought ZGBP for $1.26228
+[2022-05-31 00:59:32] SOLD
+LowerAllLocalMinimums---Always has sold ZGBP for $1.26228. Profit was -0.0002614316950281248%.
