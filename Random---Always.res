@@ -92,3 +92,5 @@ Random---Always has bought ADA for $0.636086
 Random---Always has sold ADA for $0.636086. Profit was -0.0012969944315707194%.
 [2022-05-31 12:38:39] BUY
 Random---Always has bought XTZ for $2.0792
+[2022-05-31 12:44:36] SOLD
+Random---Always has sold XTZ for $2.0792. Profit was -0.0005290496344748652%.

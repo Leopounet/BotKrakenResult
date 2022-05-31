@@ -92,3 +92,5 @@ Variance---Always has bought WAVES for $9.0253
 Variance---Always has sold WAVES for $9.0253. Profit was 0.011235083598329032%.
 [2022-05-31 12:38:39] BUY
 Variance---Always has bought WAVES for $8.9947
+[2022-05-31 12:44:36] SOLD
+Variance---Always has sold WAVES for $8.9947. Profit was -0.0057478292772410455%.
