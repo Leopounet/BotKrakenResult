@@ -190,3 +190,5 @@ Random---Always has sold KIN for $1.392e-05. Profit was -0.0%.
 Random---Always has bought MIR for $0.294
 [2022-05-31 19:20:52] SOLD
 Random---Always has sold MIR for $0.294. Profit was -0.006802721088435382%.
+[2022-05-31 19:26:51] BUY
+Random---Always has bought SC for $0.00556

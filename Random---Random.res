@@ -120,3 +120,5 @@ Random---Random has bought ADA for $0.60042
 Random---Random has sold ADA for $0.60042. Profit was -0.004794976849538557%.
 [2022-05-31 19:20:52] BUY
 Random---Random has bought SCRT for $1.641
+[2022-05-31 19:26:51] SOLD
+Random---Random has sold SCRT for $1.641. Profit was 0.004265691651432091%.
