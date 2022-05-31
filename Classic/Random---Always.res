@@ -60,3 +60,5 @@ Random---Always has bought 1INCH for $0.97
 Random---Always has sold 1INCH for $0.97. Profit was -0.0%.
 [2022-05-31 23:30:02] BUY
 Random---Always has bought LRC for $0.5642
+[2022-05-31 23:32:58] SOLD
+Random---Always has sold LRC for $0.5642. Profit was -0.0%.
