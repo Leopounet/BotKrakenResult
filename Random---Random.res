@@ -28,3 +28,5 @@ Random---Random has bought FET for $0.1663
 Random---Random has sold FET for $0.1663. Profit was -0.0%.
 [2022-05-31 10:27:51] BUY
 Random---Random has bought SNX for $3.22
+[2022-05-31 10:33:49] SOLD
+Random---Random has sold SNX for $3.22. Profit was 0.00496894409937898%.
