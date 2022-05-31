@@ -54,3 +54,5 @@ Random---Always has sold ATOM for $10.389. Profit was -0.0008663008951774742%.
 Random---Always has bought API3 for $1.732
 [2022-05-31 10:45:42] SOLD
 Random---Always has sold API3 for $1.732. Profit was -0.0%.
+[2022-05-31 10:51:37] BUY
+Random---Always has bought RNDR for $0.8822

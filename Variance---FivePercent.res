@@ -6,3 +6,5 @@ Variance---FivePercent has sold WAVES for $8.3865. Profit was 0.0661777857270613
 Variance---FivePercent has bought WAVES for $8.8363
 [2022-05-31 10:45:42] SOLD
 Variance---FivePercent has sold WAVES for $8.8363. Profit was 0.058361531410205725%.
+[2022-05-31 10:51:37] BUY
+Variance---FivePercent has bought WAVES for $9.2213
