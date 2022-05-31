@@ -22,3 +22,5 @@ Random---Random has sold RARE for $0.2667. Profit was -0.0%.
 Random---Random has bought NANO for $1.183778
 [2022-05-31 22:42:56] SOLD
 Random---Random has sold NANO for $1.183778. Profit was -0.0%.
+[2022-05-31 22:45:52] BUY
+Random---Random has bought XLTC for $68.96
