@@ -14,3 +14,5 @@ Recent Minimum---Random has bought OCEAN for $0.2328
 Recent Minimum---Random has sold OCEAN for $0.2328. Profit was -0.0%.
 [2022-05-31 21:33:01] BUY
 Recent Minimum---Random has bought OCEAN for $0.2322
+[2022-05-31 21:35:58] SOLD
+Recent Minimum---Random has sold OCEAN for $0.2327. Profit was 0.0021533161068045814%.

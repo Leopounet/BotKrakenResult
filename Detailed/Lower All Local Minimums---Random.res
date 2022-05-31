@@ -198,3 +198,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.00010001000100001711%.
 ---------------------------------------------------------------------------
+[2022-05-31 21:35:58] BUY
+Lower All Local Minimums---Random has bought: Name: USDCUSD
+Altname: USDCUSD
+Wsname: USDC/USD
+Base: Name = USDC
+Altname = USDC
+decimals = 8
+displayed_decimals = 4
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.9999
+        Maximum:                    1.0001
+        Minimum:                    1.0
+        Variance:                   0.0001
+        Mean:                       1.000048
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.548387
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               5.8125
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.999974
+        Number of local maximums:   62
+        Average local minimum:      0.999956
+        Number of local minimums:   32
+True
+
+---------------------------------------------------------------------------

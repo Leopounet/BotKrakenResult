@@ -8,3 +8,5 @@ Random---Random has sold CRV for $1.385. Profit was 0.005809731299927456%.
 Random---Random has bought JASMY for $0.01354
 [2022-05-31 21:33:01] SOLD
 Random---Random has sold JASMY for $0.01354. Profit was -0.0%.
+[2022-05-31 21:35:58] BUY
+Random---Random has bought STEP for $0.0929

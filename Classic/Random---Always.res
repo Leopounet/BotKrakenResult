@@ -14,3 +14,5 @@ Random---Always has bought TBTC for $30068.5
 Random---Always has sold TBTC for $30068.5. Profit was -0.0%.
 [2022-05-31 21:33:01] BUY
 Random---Always has bought SHIB for $1.177e-05
+[2022-05-31 21:35:58] SOLD
+Random---Always has sold SHIB for $1.177e-05. Profit was -0.0%.
