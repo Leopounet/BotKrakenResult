@@ -1051,3 +1051,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   15
 
 ---------------------------------------------------------------------------
+[2022-05-31 10:45:42] SOLD
+Random---Always has sold: Name: API3USD
+Altname: API3USD
+Wsname: API3/USD
+Base: Name = API3
+Altname = API3
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2.5
+Data about this tradable pair of assets:
+
+        Current:                    1.732
+        Maximum:                    0.643087
+        Minimum:                    0.55371
+        Variance:                   0.138981
+        Mean:                       0.603414
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.090909
+        Is ascending:               True
+        Current ascension duration: 97
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.2
+        Is falling:                 True
+        Current fall duration:      46
+        Trending downwards:         False
+        Average local maximum:      1.691
+        Number of local maximums:   11
+        Average local minimum:      1.682667
+        Number of local minimums:   15
+Profit was -0.0%.
+---------------------------------------------------------------------------

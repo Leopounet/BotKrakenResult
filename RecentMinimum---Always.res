@@ -52,3 +52,5 @@ RecentMinimum---Always has bought POWR for $0.2767
 RecentMinimum---Always has sold POWR for $0.2767. Profit was -0.0%.
 [2022-05-31 10:39:47] BUY
 RecentMinimum---Always has bought POWR for $0.2767
+[2022-05-31 10:45:42] SOLD
+RecentMinimum---Always has sold POWR for $0.2767. Profit was -0.0%.
