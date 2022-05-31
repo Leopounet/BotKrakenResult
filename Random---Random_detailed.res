@@ -817,3 +817,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   28
 
 ---------------------------------------------------------------------------
+[2022-05-31 11:27:18] SOLD
+Random---Random has sold: Name: KILTUSD
+Altname: KILTUSD
+Wsname: KILT/USD
+Base: Name = KILT
+Altname = KILT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    0.815
+        Maximum:                    1.347709
+        Minimum:                    1.203369
+        Variance:                   0.1071
+        Mean:                       1.276857
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.545455
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.535714
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      0.783576
+        Number of local maximums:   33
+        Average local minimum:      0.783464
+        Number of local minimums:   28
+Profit was -0.0%.
+---------------------------------------------------------------------------

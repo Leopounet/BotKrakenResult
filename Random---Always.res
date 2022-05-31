@@ -66,3 +66,5 @@ Random---Always has sold ICP for $8.352. Profit was -0.0%.
 Random---Always has bought FIL for $8.155
 [2022-05-31 11:21:22] SOLD
 Random---Always has sold FIL for $8.155. Profit was -0.0%.
+[2022-05-31 11:27:18] BUY
+Random---Always has bought MOVR for $23.1904
