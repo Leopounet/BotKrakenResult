@@ -16,3 +16,5 @@ Random---Random has bought NYM for $0.4497
 Random---Random has sold NYM for $0.4497. Profit was -0.0%.
 [2022-05-31 01:43:10] BUY
 Random---Random has bought USDT for $0.9993
+[2022-05-31 01:55:01] SOLD
+Random---Random has sold USDT for $0.9993. Profit was -0.0%.

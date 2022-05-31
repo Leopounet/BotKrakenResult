@@ -38,3 +38,5 @@ Random---Always has sold CHZ for $0.1228. Profit was -0.0%.
 Random---Always has bought PHA for $0.1324
 [2022-05-31 01:49:06] SOLD
 Random---Always has sold PHA for $0.1324. Profit was -0.0%.
+[2022-05-31 01:55:01] BUY
+Random---Always has bought LUNA for $0.00011904
