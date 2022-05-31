@@ -56,3 +56,5 @@ Random---Random has bought ROOK for $43.93
 Random---Random has sold ROOK for $43.93. Profit was -0.0%.
 [2022-05-31 12:08:57] BUY
 Random---Random has bought ZGBP for $1.25952
+[2022-05-31 12:20:50] SOLD
+Random---Random has sold ZGBP for $1.25952. Profit was -0.0006113440040650397%.

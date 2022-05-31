@@ -84,3 +84,5 @@ Random---Always has bought KNC for $2.2395
 Random---Always has sold KNC for $2.2395. Profit was -0.00250055816030359%.
 [2022-05-31 12:14:54] BUY
 Random---Always has bought ENJ for $0.702
+[2022-05-31 12:20:50] SOLD
+Random---Always has sold ENJ for $0.702. Profit was -0.0%.
