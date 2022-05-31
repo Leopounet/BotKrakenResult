@@ -505,3 +505,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   6
 
 ---------------------------------------------------------------------------
+[2022-05-31 09:22:26] SOLD
+Random---Always has sold: Name: PLAUSD
+Altname: PLAUSD
+Wsname: PLA/USD
+Base: Name = PLA
+Altname = PLA
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.5777
+        Maximum:                    1.943257
+        Minimum:                    1.731002
+        Variance:                   0.109226
+        Mean:                       1.877932
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.5
+        Is ascending:               True
+        Current ascension duration: 53
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.0
+        Is falling:                 True
+        Current fall duration:      116
+        Trending downwards:         False
+        Average local maximum:      0.536875
+        Number of local maximums:   4
+        Average local minimum:      0.53655
+        Number of local minimums:   6
+Profit was -0.0%.
+---------------------------------------------------------------------------
