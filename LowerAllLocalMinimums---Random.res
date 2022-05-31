@@ -74,3 +74,5 @@ LowerAllLocalMinimums---Random has sold GST for $1.286. Profit was -0.0%.
 LowerAllLocalMinimums---Random has bought DAI for $0.99976
 [2022-05-31 13:08:32] SOLD
 LowerAllLocalMinimums---Random has sold DAI for $0.99976. Profit was 8.001920460909417e-05%.
+[2022-05-31 13:14:29] BUY
+LowerAllLocalMinimums---Random has bought PAXG for $1847.24

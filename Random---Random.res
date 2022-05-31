@@ -70,3 +70,5 @@ Random---Random has sold APE for $6.8552. Profit was -0.004274127669506411%.
 Random---Random has bought LDO for $1.131
 [2022-05-31 13:08:32] SOLD
 Random---Random has sold LDO for $1.131. Profit was 0.007957559681697424%.
+[2022-05-31 13:14:29] BUY
+Random---Random has bought GRT for $0.15491

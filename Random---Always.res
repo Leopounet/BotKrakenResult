@@ -102,3 +102,5 @@ Random---Always has sold ZUSD for $1.26683. Profit was 5.525603277467539e-05%.
 Random---Always has bought OMG for $2.703565
 [2022-05-31 13:08:32] SOLD
 Random---Always has sold OMG for $2.703565. Profit was -0.0%.
+[2022-05-31 13:14:29] BUY
+Random---Always has bought KINT for $4.07
