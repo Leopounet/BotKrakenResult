@@ -310,3 +310,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   25
 Profit was -0.0004624010172822324%.
 ---------------------------------------------------------------------------
+[2022-05-31 08:47:19] BUY
+Random---Always has bought: Name: PERPUSD
+Altname: PERPUSD
+Wsname: PERP/USD
+Base: Name = PERP
+Altname = PERP
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    1.284
+        Maximum:                    0.866551
+        Minimum:                    0.733676
+        Variance:                   0.153338
+        Mean:                       0.795309
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.714286
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.423077
+        Is falling:                 True
+        Current fall duration:      18
+        Trending downwards:         False
+        Average local maximum:      1.255571
+        Number of local maximums:   21
+        Average local minimum:      1.259808
+        Number of local minimums:   26
+
+---------------------------------------------------------------------------
