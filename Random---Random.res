@@ -108,3 +108,5 @@ Random---Random has bought PSTAKE for $0.2571
 Random---Random has sold PSTAKE for $0.2571. Profit was -0.0%.
 [2022-05-31 18:32:42] BUY
 Random---Random has bought QTUM for $4.12197
+[2022-05-31 18:50:45] SOLD
+Random---Random has sold QTUM for $4.12197. Profit was -0.0%.
