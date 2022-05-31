@@ -1,4 +1,4 @@
-[2022-05-31 22:24:33] SUMMARY
+[2022-05-31 22:27:47] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -92,13 +92,13 @@ True
 3
 0.0
 Best score: 
-Variance Lower All Local Minimums---Always
+Variance Lower All Local Minimums---Random
 Looks for the asset for which the current price is lower than all previous local minimums.
-Always sells.
+Random.
 {}
 {}
 None
 0
-5
--0.00027031487754136663
+4
+-0.00659729183175084
 ---------------------------------------------------------------------------

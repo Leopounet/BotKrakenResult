@@ -18,3 +18,5 @@ Random---Always has sold OXT for $0.13792. Profit was -0.0%.
 Random---Always has bought NANO for $1.182794
 [2022-05-31 22:24:33] SOLD
 Random---Always has sold NANO for $1.182794. Profit was -0.0%.
+[2022-05-31 22:27:47] BUY
+Random---Always has bought JASMY for $0.01327
