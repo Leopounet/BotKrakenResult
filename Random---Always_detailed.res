@@ -1636,3 +1636,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   21
 Profit was -0.00250055816030359%.
 ---------------------------------------------------------------------------
+[2022-05-31 12:14:54] BUY
+Random---Always has bought: Name: ENJUSD
+Altname: ENJUSD
+Wsname: ENJ/USD
+Base: Name = ENJ
+Altname = ENJ
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    0.702
+        Maximum:                    1.718213
+        Minimum:                    1.396648
+        Variance:                   0.187151
+        Mean:                       1.577434
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.333333
+        Is ascending:               True
+        Current ascension duration: 6
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.7
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.629815
+        Number of local maximums:   27
+        Average local minimum:      0.6291
+        Number of local minimums:   30
+
+---------------------------------------------------------------------------
