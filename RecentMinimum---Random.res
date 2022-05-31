@@ -26,3 +26,5 @@ RecentMinimum---Random has sold POWR for $0.2765. Profit was -0.0%.
 RecentMinimum---Random has bought POWR for $0.2765
 [2022-05-31 01:25:28] SOLD
 RecentMinimum---Random has sold POWR for $0.2765. Profit was -0.0%.
+[2022-05-31 01:31:21] BUY
+RecentMinimum---Random has bought POWR for $0.2767
