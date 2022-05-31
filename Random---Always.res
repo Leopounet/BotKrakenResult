@@ -168,3 +168,5 @@ Random---Always has bought CVC for $0.1749
 Random---Always has sold CVC for $0.1749. Profit was -0.0%.
 [2022-05-31 18:14:39] BUY
 Random---Always has bought PERP for $1.404
+[2022-05-31 18:20:36] SOLD
+Random---Always has sold PERP for $1.404. Profit was -0.004273504273504258%.

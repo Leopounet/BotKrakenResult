@@ -3313,3 +3313,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   23
 
 ---------------------------------------------------------------------------
+[2022-05-31 18:20:36] SOLD
+Random---Always has sold: Name: PERPUSD
+Altname: PERPUSD
+Wsname: PERP/USD
+Base: Name = PERP
+Altname = PERP
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    1.404
+        Maximum:                    0.841751
+        Minimum:                    0.645161
+        Variance:                   0.233548
+        Mean:                       0.783109
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.45
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.608696
+        Is falling:                 True
+        Current fall duration:      3
+        Trending downwards:         False
+        Average local maximum:      1.27985
+        Number of local maximums:   20
+        Average local minimum:      1.267565
+        Number of local minimums:   23
+Profit was -0.004273504273504258%.
+---------------------------------------------------------------------------

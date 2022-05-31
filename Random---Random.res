@@ -102,3 +102,5 @@ Random---Random has sold KP3R for $141.2. Profit was 0.009206798866855603%.
 Random---Random has bought SBR for $0.01058
 [2022-05-31 18:14:39] SOLD
 Random---Random has sold SBR for $0.01058. Profit was -0.0%.
+[2022-05-31 18:20:36] BUY
+Random---Random has bought PSTAKE for $0.2571
