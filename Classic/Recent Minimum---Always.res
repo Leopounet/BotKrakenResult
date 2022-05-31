@@ -46,3 +46,5 @@ Recent Minimum---Always has sold MSOL for $49.91. Profit was -0.0%.
 Recent Minimum---Always has bought MSOL for $49.91
 [2022-05-31 23:06:34] SOLD
 Recent Minimum---Always has sold MSOL for $49.91. Profit was -0.0%.
+[2022-05-31 23:09:33] BUY
+Recent Minimum---Always has bought MSOL for $49.91

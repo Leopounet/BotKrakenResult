@@ -28,3 +28,5 @@ Random---Random has bought XLTC for $68.96
 Random---Random has sold XLTC for $69.02. Profit was 0.0008700696055685686%.
 [2022-05-31 22:57:43] BUY
 Random---Random has bought SAND for $1.462
+[2022-05-31 23:09:33] SOLD
+Random---Random has sold SAND for $1.4629. Profit was 0.0006155950752395611%.

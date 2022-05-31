@@ -46,3 +46,5 @@ Random---Always has sold CRV for $1.396. Profit was 0.009399855386840184%.
 Random---Always has bought RARI for $3.39
 [2022-05-31 23:06:34] SOLD
 Random---Always has sold RARI for $3.39. Profit was -0.0%.
+[2022-05-31 23:09:33] BUY
+Random---Always has bought SDN for $0.411
