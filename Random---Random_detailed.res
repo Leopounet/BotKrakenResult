@@ -700,3 +700,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   28
 Profit was 0.00033932813030213005%.
 ---------------------------------------------------------------------------
+[2022-05-31 03:23:49] BUY
+Random---Random has bought: Name: MATICUSD
+Altname: MATICUSD
+Wsname: MATIC/USD
+Base: Name = MATIC
+Altname = MATIC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2.5
+Data about this tradable pair of assets:
+
+        Current:                    0.6695
+        Maximum:                    1.741553
+        Minimum:                    1.486547
+        Variance:                   0.146425
+        Mean:                       1.644637
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.818182
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.357143
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.605909
+        Number of local maximums:   22
+        Average local minimum:      0.603557
+        Number of local minimums:   28
+
+---------------------------------------------------------------------------
