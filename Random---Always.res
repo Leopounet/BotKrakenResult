@@ -164,3 +164,5 @@ Random---Always has bought UNI for $5.682
 Random---Always has sold UNI for $5.682. Profit was -0.0%.
 [2022-05-31 18:02:24] BUY
 Random---Always has bought CVC for $0.1749
+[2022-05-31 18:08:28] SOLD
+Random---Always has sold CVC for $0.1749. Profit was -0.0%.
