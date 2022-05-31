@@ -194,3 +194,5 @@ Random---Always has sold MIR for $0.294. Profit was -0.006802721088435382%.
 Random---Always has bought SC for $0.00556
 [2022-05-31 19:33:00] SOLD
 Random---Always has sold SC for $0.00556. Profit was 0.003597122302158251%.
+[2022-05-31 19:38:59] BUY
+Random---Always has bought SNX for $3.091

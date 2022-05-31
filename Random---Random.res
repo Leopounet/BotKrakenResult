@@ -124,3 +124,5 @@ Random---Random has bought SCRT for $1.641
 Random---Random has sold SCRT for $1.641. Profit was 0.004265691651432091%.
 [2022-05-31 19:33:00] BUY
 Random---Random has bought RAD for $2.285
+[2022-05-31 19:38:59] SOLD
+Random---Random has sold RAD for $2.285. Profit was -0.0%.
