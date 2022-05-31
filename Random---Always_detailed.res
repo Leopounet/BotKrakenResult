@@ -193,3 +193,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   28
 
 ---------------------------------------------------------------------------
+[2022-05-31 08:29:24] SOLD
+Random---Always has sold: Name: INJUSD
+Altname: INJUSD
+Wsname: INJ/USD
+Base: Name = INJ
+Altname = INJ
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.5
+Data about this tradable pair of assets:
+
+        Current:                    2.218
+        Maximum:                    0.512558
+        Minimum:                    0.447427
+        Variance:                   0.127069
+        Mean:                       0.475322
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.36
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.678571
+        Is falling:                 True
+        Current fall duration:      19
+        Trending downwards:         False
+        Average local maximum:      2.11884
+        Number of local maximums:   25
+        Average local minimum:      2.128286
+        Number of local minimums:   28
+Profit was -0.00901713255184855%.
+---------------------------------------------------------------------------
