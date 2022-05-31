@@ -388,3 +388,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   32
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 02:00:54] BUY
+Random---Random has bought: Name: CFGUSD
+Altname: CFGUSD
+Wsname: CFG/USD
+Base: Name = CFG
+Altname = CFG
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.2763
+        Maximum:                    3.738318
+        Minimum:                    2.993116
+        Variance:                   0.199342
+        Mean:                       3.455896
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.645161
+        Is ascending:               True
+        Current ascension duration: 36
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               5.470588
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         True
+        Average local maximum:      0.288484
+        Number of local maximums:   31
+        Average local minimum:      0.297788
+        Number of local minimums:   17
+
+---------------------------------------------------------------------------
