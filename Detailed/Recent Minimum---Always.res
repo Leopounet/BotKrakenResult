@@ -718,3 +718,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 22:51:48] BUY
+Recent Minimum---Always has bought: Name: MSOLUSD
+Altname: MSOLUSD
+Wsname: MSOL/USD
+Base: Name = MSOL
+Altname = MSOL
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.02
+Data about this tradable pair of assets:
+
+        Current:                    49.91
+        Maximum:                    0.021739
+        Minimum:                    0.015667
+        Variance:                   0.279336
+        Mean:                       0.019975
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.857143
+        Is ascending:               True
+        Current ascension duration: 9
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.846154
+        Is falling:                 True
+        Current fall duration:      18
+        Trending downwards:         True
+        Average local maximum:      49.055238
+        Number of local maximums:   21
+        Average local minimum:      49.855385
+        Number of local minimums:   13
+True
+
+---------------------------------------------------------------------------

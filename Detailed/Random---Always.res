@@ -718,3 +718,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.004515220663203312%.
 ---------------------------------------------------------------------------
+[2022-05-31 22:51:48] BUY
+Random---Always has bought: Name: AGLDUSD
+Altname: AGLDUSD
+Wsname: AGLD/USD
+Base: Name = AGLD
+Altname = AGLD
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.5599
+        Maximum:                    1.992826
+        Minimum:                    1.72117
+        Variance:                   0.136317
+        Mean:                       1.861449
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.75
+        Is ascending:               True
+        Current ascension duration: 46
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.272727
+        Is falling:                 True
+        Current fall duration:      16
+        Trending downwards:         False
+        Average local maximum:      0.544042
+        Number of local maximums:   12
+        Average local minimum:      0.542782
+        Number of local minimums:   11
+True
+
+---------------------------------------------------------------------------
