@@ -16,3 +16,5 @@ LowerAllLocalMinimums---Random has bought UST for $0.0212
 LowerAllLocalMinimums---Random has sold UST for $0.0212. Profit was 0.004716981132075526%.
 [2022-05-31 09:22:26] BUY
 LowerAllLocalMinimums---Random has bought UST for $0.0214
+[2022-05-31 09:34:19] SOLD
+LowerAllLocalMinimums---Random has sold UST for $0.0214. Profit was 0.026635514018691575%.

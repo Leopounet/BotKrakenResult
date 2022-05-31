@@ -28,3 +28,5 @@ Random---Always has bought PLA for $0.5777
 Random---Always has sold PLA for $0.5777. Profit was -0.0%.
 [2022-05-31 09:28:22] BUY
 Random---Always has bought DYDX for $1.97
+[2022-05-31 09:34:19] SOLD
+Random---Always has sold DYDX for $1.97. Profit was 0.001522842639593902%.
