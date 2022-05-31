@@ -1987,3 +1987,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   20
 
 ---------------------------------------------------------------------------
+[2022-05-31 18:14:39] SOLD
+Random---Random has sold: Name: SBRUSD
+Altname: SBRUSD
+Wsname: SBR/USD
+Base: Name = SBR
+Altname = SBR
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 500
+Data about this tradable pair of assets:
+
+        Current:                    0.01058
+        Maximum:                    120.048019
+        Minimum:                    93.10987
+        Variance:                   0.224395
+        Mean:                       105.184735
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.608696
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.45
+        Is falling:                 True
+        Current fall duration:      20
+        Trending downwards:         False
+        Average local maximum:      0.009588
+        Number of local maximums:   23
+        Average local minimum:      0.00959
+        Number of local minimums:   20
+Profit was -0.0%.
+---------------------------------------------------------------------------
