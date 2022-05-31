@@ -24,3 +24,5 @@ Random---Random has bought XMLN for $28.818
 Random---Random has sold XMLN for $28.818. Profit was -0.0%.
 [2022-05-31 10:10:03] BUY
 Random---Random has bought FET for $0.1663
+[2022-05-31 10:21:55] SOLD
+Random---Random has sold FET for $0.1663. Profit was -0.0%.
