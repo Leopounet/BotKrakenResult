@@ -24,3 +24,5 @@ Random---Always has bought GLMR for $1.377
 Random---Always has sold GLMR for $1.377. Profit was -0.0%.
 [2022-05-31 01:05:27] BUY
 Random---Always has bought OGN for $0.24
+[2022-05-31 01:13:39] SOLD
+Random---Always has sold OGN for $0.24. Profit was -0.0%.

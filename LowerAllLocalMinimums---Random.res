@@ -8,3 +8,5 @@ LowerAllLocalMinimums---Random has bought GST for $1.359
 LowerAllLocalMinimums---Random has sold GST for $1.359. Profit was 0.11037527593818974%.
 [2022-05-31 00:47:42] BUY
 LowerAllLocalMinimums---Random has bought ZGBP for $1.26263
+[2022-05-31 01:13:39] SOLD
+LowerAllLocalMinimums---Random has sold ZGBP for $1.26263. Profit was -0.0005464783824238317%.
