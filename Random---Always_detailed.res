@@ -1285,3 +1285,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   23
 
 ---------------------------------------------------------------------------
+[2022-05-31 03:11:58] SOLD
+Random---Always has sold: Name: GNOUSD
+Altname: GNOUSD
+Wsname: GNO/USD
+Base: Name = GNO
+Altname = GNO
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.01
+Data about this tradable pair of assets:
+
+        Current:                    207.9
+        Maximum:                    0.005361
+        Minimum:                    0.004743
+        Variance:                   0.11539
+        Mean:                       0.005153
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.0
+        Is ascending:               True
+        Current ascension duration: 10
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.0
+        Is falling:                 True
+        Current fall duration:      7
+        Trending downwards:         False
+        Average local maximum:      194.559565
+        Number of local maximums:   23
+        Average local minimum:      196.102609
+        Number of local minimums:   23
+Profit was -0.012746512746512728%.
+---------------------------------------------------------------------------
