@@ -114,3 +114,5 @@ Random---Random has sold QTUM for $4.12197. Profit was -0.0%.
 Random---Random has bought ATOM for $10.1475
 [2022-05-31 19:02:54] SOLD
 Random---Random has sold ATOM for $10.1475. Profit was -0.002601626016260239%.
+[2022-05-31 19:08:55] BUY
+Random---Random has bought ADA for $0.60042
