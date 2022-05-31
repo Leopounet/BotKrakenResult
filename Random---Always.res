@@ -36,3 +36,5 @@ Random---Always has bought DYDX for $1.973
 Random---Always has sold DYDX for $1.973. Profit was -0.0%.
 [2022-05-31 09:52:07] BUY
 Random---Always has bought OGN for $0.2573
+[2022-05-31 09:58:08] SOLD
+Random---Always has sold OGN for $0.2573. Profit was -0.01593470656820828%.
