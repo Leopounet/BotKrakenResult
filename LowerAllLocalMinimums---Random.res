@@ -108,3 +108,5 @@ LowerAllLocalMinimums---Random has bought ZUSD for $1.26452
 LowerAllLocalMinimums---Random has sold ZUSD for $1.26452. Profit was 0.00010280580773724957%.
 [2022-05-31 15:31:45] BUY
 LowerAllLocalMinimums---Random has bought UST for $0.02089
+[2022-05-31 15:37:44] SOLD
+LowerAllLocalMinimums---Random has sold UST for $0.02089. Profit was -0.015797032072762063%.
