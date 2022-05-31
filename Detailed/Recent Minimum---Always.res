@@ -1478,3 +1478,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-05-31 23:50:43] SOLD
+Recent Minimum---Always has sold: Name: ENSUSD
+Altname: ENSUSD
+Wsname: ENS/USD
+Base: Name = ENS
+Altname = ENS
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.1
+Data about this tradable pair of assets:
+
+        Current:                    12.0
+        Maximum:                    0.1001
+        Minimum:                    0.076278
+        Variance:                   0.237986
+        Mean:                       0.086797
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.8
+        Is ascending:               True
+        Current ascension duration: 10
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.875
+        Is falling:                 True
+        Current fall duration:      56
+        Trending downwards:         False
+        Average local maximum:      12.0
+        Number of local maximums:   15
+        Average local minimum:      11.652083
+        Number of local minimums:   24
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
