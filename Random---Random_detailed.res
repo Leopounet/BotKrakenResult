@@ -1168,3 +1168,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   24
 Profit was -0.0006113440040650397%.
 ---------------------------------------------------------------------------
+[2022-05-31 12:26:47] BUY
+Random---Random has bought: Name: MINAUSD
+Altname: MINAUSD
+Wsname: MINA/USD
+Base: Name = MINA
+Altname = MINA
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    0.97
+        Maximum:                    1.22549
+        Minimum:                    1.003009
+        Variance:                   0.181545
+        Mean:                       1.099318
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.0
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.0
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.91012
+        Number of local maximums:   25
+        Average local minimum:      0.91016
+        Number of local minimums:   25
+
+---------------------------------------------------------------------------
