@@ -28,3 +28,5 @@ Random---Always has bought OGN for $0.24
 Random---Always has sold OGN for $0.24. Profit was -0.0%.
 [2022-05-31 01:19:34] BUY
 Random---Always has bought KSM for $78.3
+[2022-05-31 01:25:28] SOLD
+Random---Always has sold KSM for $78.3. Profit was -0.006768837803320604%.
