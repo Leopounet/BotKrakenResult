@@ -52,3 +52,5 @@ Random---Always has bought SDN for $0.411
 Random---Always has sold SDN for $0.411. Profit was -0.0%.
 [2022-05-31 23:18:15] BUY
 Random---Always has bought FXS for $7.489
+[2022-05-31 23:21:11] SOLD
+Random---Always has sold FXS for $7.489. Profit was -0.0%.
