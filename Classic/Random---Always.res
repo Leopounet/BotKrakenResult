@@ -42,3 +42,5 @@ Random---Always has sold AGLD for $0.5599. Profit was -0.0%.
 Random---Always has bought CRV for $1.383
 [2022-05-31 23:00:41] SOLD
 Random---Always has sold CRV for $1.396. Profit was 0.009399855386840184%.
+[2022-05-31 23:03:38] BUY
+Random---Always has bought RARI for $3.39
