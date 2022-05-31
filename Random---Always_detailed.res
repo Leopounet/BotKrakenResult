@@ -1246,3 +1246,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   35
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 11:15:26] BUY
+Random---Always has bought: Name: FILUSD
+Altname: FILUSD
+Wsname: FIL/USD
+Base: Name = FIL
+Altname = FIL
+decimals = 10
+displayed_decimals = 6
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.5
+Data about this tradable pair of assets:
+
+        Current:                    8.155
+        Maximum:                    0.136203
+        Minimum:                    0.120106
+        Variance:                   0.118184
+        Mean:                       0.128407
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.6
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.5
+        Is falling:                 True
+        Current fall duration:      9
+        Trending downwards:         False
+        Average local maximum:      7.7186
+        Number of local maximums:   20
+        Average local minimum:      7.833875
+        Number of local minimums:   24
+
+---------------------------------------------------------------------------
