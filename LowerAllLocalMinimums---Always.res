@@ -42,3 +42,5 @@ LowerAllLocalMinimums---Always has sold GST for $1.294. Profit was -0.0%.
 LowerAllLocalMinimums---Always has bought USDC for $0.9999
 [2022-05-31 10:10:03] SOLD
 LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was 0.00010001000100001711%.
+[2022-05-31 10:16:00] BUY
+LowerAllLocalMinimums---Always has bought PAXG for $1849.72
