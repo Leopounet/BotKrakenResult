@@ -1168,3 +1168,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   29
 Profit was 0.0068011788710042875%.
 ---------------------------------------------------------------------------
+[2022-05-31 11:03:32] BUY
+Random---Always has bought: Name: ICPUSD
+Altname: ICPUSD
+Wsname: ICP/USD
+Base: Name = ICP
+Altname = ICP
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.25
+Data about this tradable pair of assets:
+
+        Current:                    8.352
+        Maximum:                    0.143349
+        Minimum:                    0.114877
+        Variance:                   0.198621
+        Mean:                       0.132679
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.0
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.0
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         False
+        Average local maximum:      7.559457
+        Number of local maximums:   35
+        Average local minimum:      7.567514
+        Number of local minimums:   35
+
+---------------------------------------------------------------------------

@@ -58,3 +58,5 @@ Random---Always has sold API3 for $1.732. Profit was -0.0%.
 Random---Always has bought RNDR for $0.8822
 [2022-05-31 10:57:34] SOLD
 Random---Always has sold RNDR for $0.8822. Profit was 0.0068011788710042875%.
+[2022-05-31 11:03:32] BUY
+Random---Always has bought ICP for $8.352

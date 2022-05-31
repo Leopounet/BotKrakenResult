@@ -700,3 +700,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   11
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 11:03:32] BUY
+Random---Random has bought: Name: KINTUSD
+Altname: KINTUSD
+Wsname: KINT/USD
+Base: Name = KINT
+Altname = KINT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    4.09
+        Maximum:                    0.277778
+        Minimum:                    0.204918
+        Variance:                   0.262295
+        Mean:                       0.251165
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.315789
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.714286
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      3.908947
+        Number of local maximums:   19
+        Average local minimum:      4.156667
+        Number of local minimums:   21
+
+---------------------------------------------------------------------------

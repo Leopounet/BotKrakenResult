@@ -34,3 +34,5 @@ Random---Random has sold SNX for $3.22. Profit was 0.00496894409937898%.
 Random---Random has bought MASK for $2.118
 [2022-05-31 10:57:34] SOLD
 Random---Random has sold MASK for $2.118. Profit was -0.0%.
+[2022-05-31 11:03:32] BUY
+Random---Random has bought KINT for $4.09
