@@ -48,3 +48,5 @@ Random---Always has bought RARI for $3.39
 Random---Always has sold RARI for $3.39. Profit was -0.0%.
 [2022-05-31 23:09:33] BUY
 Random---Always has bought SDN for $0.411
+[2022-05-31 23:15:17] SOLD
+Random---Always has sold SDN for $0.411. Profit was -0.0%.
