@@ -156,3 +156,5 @@ LowerAllLocalMinimums---Always has bought USDC for $0.9999
 LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was 0.00010001000100001711%.
 [2022-05-31 15:55:43] BUY
 LowerAllLocalMinimums---Always has bought ZUSD for $1.26403
+[2022-05-31 16:01:41] SOLD
+LowerAllLocalMinimums---Always has sold ZUSD for $1.26403. Profit was 8.702325103038255e-05%.
