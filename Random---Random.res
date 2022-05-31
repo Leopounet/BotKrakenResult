@@ -28,3 +28,5 @@ Random---Random has bought ZAUD for $0.71803
 Random---Random has sold ZAUD for $0.71803. Profit was 0.0006963497346907932%.
 [2022-05-31 02:42:22] BUY
 Random---Random has bought MOVR for $23.6866
+[2022-05-31 03:00:09] SOLD
+Random---Random has sold MOVR for $23.6866. Profit was 0.003955823123622748%.

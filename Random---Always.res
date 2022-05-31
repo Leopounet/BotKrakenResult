@@ -60,3 +60,5 @@ Random---Always has bought XMLN for $29.434
 Random---Always has sold XMLN for $29.434. Profit was -0.0%.
 [2022-05-31 02:54:13] BUY
 Random---Always has bought MASK for $1.999
+[2022-05-31 03:00:09] SOLD
+Random---Always has sold MASK for $1.999. Profit was -0.0%.
