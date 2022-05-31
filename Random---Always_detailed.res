@@ -622,3 +622,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   20
 Profit was 0.001522842639593902%.
 ---------------------------------------------------------------------------
+[2022-05-31 09:40:15] BUY
+Random---Always has bought: Name: DYDXUSD
+Altname: DYDXUSD
+Wsname: DYDX/USD
+Base: Name = DYDX
+Altname = DYDX
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2.5
+Data about this tradable pair of assets:
+
+        Current:                    1.973
+        Maximum:                    0.609756
+        Minimum:                    0.47259
+        Variance:                   0.224953
+        Mean:                       0.551509
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.307692
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.9
+        Is falling:                 False
+        Current fall duration:      2
+        Trending downwards:         False
+        Average local maximum:      1.833154
+        Number of local maximums:   26
+        Average local minimum:      1.82195
+        Number of local minimums:   20
+
+---------------------------------------------------------------------------
