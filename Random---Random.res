@@ -48,3 +48,5 @@ Random---Random has bought PERP for $1.283
 Random---Random has sold PERP for $1.283. Profit was -0.0%.
 [2022-05-31 11:45:08] BUY
 Random---Random has bought MOVR for $23.2279
+[2022-05-31 11:51:05] SOLD
+Random---Random has sold MOVR for $23.2279. Profit was -0.0016101326422105489%.

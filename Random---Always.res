@@ -74,3 +74,5 @@ Random---Always has sold MOVR for $23.1904. Profit was -0.0%.
 Random---Always has bought AVAX for $27.31
 [2022-05-31 11:45:08] SOLD
 Random---Always has sold AVAX for $27.31. Profit was -0.0007323324789454411%.
+[2022-05-31 11:51:05] BUY
+Random---Always has bought NANO for $1.253398
