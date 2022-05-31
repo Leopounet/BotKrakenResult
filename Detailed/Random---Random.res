@@ -318,3 +318,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 22:33:45] BUY
+Random---Random has bought: Name: RAREUSD
+Altname: RAREUSD
+Wsname: RARE/USD
+Base: Name = RARE
+Altname = RARE
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.2667
+        Maximum:                    4.224757
+        Minimum:                    3.388682
+        Variance:                   0.197899
+        Mean:                       3.763995
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.521739
+        Is ascending:               True
+        Current ascension duration: 20
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.555556
+        Is falling:                 True
+        Current fall duration:      10
+        Trending downwards:         False
+        Average local maximum:      0.26277
+        Number of local maximums:   23
+        Average local minimum:      0.267674
+        Number of local minimums:   27
+True
+
+---------------------------------------------------------------------------
