@@ -1012,3 +1012,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   27
 Profit was 0.0064702947535242306%.
 ---------------------------------------------------------------------------
+[2022-05-31 02:48:16] BUY
+Variance---Random has bought: Name: LUNA2USD
+Altname: LUNA2USD
+Wsname: LUNA2/USD
+Base: Name = LUNA2
+Altname = LUNA2
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    10.50681
+        Maximum:                    0.238095
+        Minimum:                    0.081842
+        Variance:                   0.656261
+        Mean:                       0.157444
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.375
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.666667
+        Is falling:                 True
+        Current fall duration:      6
+        Trending downwards:         False
+        Average local maximum:      6.873738
+        Number of local maximums:   24
+        Average local minimum:      6.20012
+        Number of local minimums:   27
+
+---------------------------------------------------------------------------
