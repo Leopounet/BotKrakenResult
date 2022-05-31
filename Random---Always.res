@@ -12,3 +12,5 @@ Random---Always has bought INJ for $2.218
 Random---Always has sold INJ for $2.218. Profit was -0.00901713255184855%.
 [2022-05-31 08:35:22] BUY
 Random---Always has bought DOT for $10.3806
+[2022-05-31 08:41:20] SOLD
+Random---Always has sold DOT for $10.3806. Profit was -0.0004624010172822324%.

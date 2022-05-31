@@ -271,3 +271,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   25
 
 ---------------------------------------------------------------------------
+[2022-05-31 08:41:20] SOLD
+Random---Always has sold: Name: DOTUSD
+Altname: DOTUSD
+Wsname: DOT/USD
+Base: Name = DOT
+Altname = DOT
+decimals = 10
+displayed_decimals = 8
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.2
+Data about this tradable pair of assets:
+
+        Current:                    10.3806
+        Maximum:                    0.107179
+        Minimum:                    0.093581
+        Variance:                   0.126868
+        Mean:                       0.099922
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.75
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.4
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      10.055435
+        Number of local maximums:   20
+        Average local minimum:      9.935092
+        Number of local minimums:   25
+Profit was -0.0004624010172822324%.
+---------------------------------------------------------------------------
