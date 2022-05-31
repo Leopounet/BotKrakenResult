@@ -118,3 +118,5 @@ LowerAllLocalMinimums---Random has sold USDC for $0.9999. Profit was 0.000100010
 LowerAllLocalMinimums---Random has bought ZUSD for $1.26403
 [2022-05-31 16:07:41] SOLD
 LowerAllLocalMinimums---Random has sold ZUSD for $1.26403. Profit was -0.00030062577628697795%.
+[2022-05-31 16:13:41] BUY
+LowerAllLocalMinimums---Random has bought DAI for $0.99979
