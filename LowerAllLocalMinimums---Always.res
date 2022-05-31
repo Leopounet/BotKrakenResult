@@ -48,3 +48,5 @@ LowerAllLocalMinimums---Always has bought USDC for $0.9999
 LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was 0.00010001000100001711%.
 [2022-05-31 02:18:40] BUY
 LowerAllLocalMinimums---Always has bought USDC for $0.9999
+[2022-05-31 02:24:36] SOLD
+LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was -0.0%.
