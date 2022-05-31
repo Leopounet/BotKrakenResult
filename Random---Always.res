@@ -78,3 +78,5 @@ Random---Always has sold BAND for $1.842. Profit was -0.0%.
 Random---Always has bought BAL for $7.93
 [2022-05-31 03:47:29] SOLD
 Random---Always has sold BAL for $7.93. Profit was -0.0%.
+[2022-05-31 03:53:24] BUY
+Random---Always has bought SAMO for $0.005721

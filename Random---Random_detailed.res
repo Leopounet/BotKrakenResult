@@ -856,3 +856,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   15
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 03:53:24] BUY
+Random---Random has bought: Name: USDTZUSD
+Altname: USDTUSD
+Wsname: USDT/USD
+Base: Name = USDT
+Altname = USDT
+decimals = 8
+displayed_decimals = 4
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.9992
+        Maximum:                    1.001201
+        Minimum:                    1.0006
+        Variance:                   0.0006
+        Mean:                       1.000966
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.660714
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               5.419355
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.999048
+        Number of local maximums:   56
+        Average local minimum:      0.999029
+        Number of local minimums:   31
+
+---------------------------------------------------------------------------
