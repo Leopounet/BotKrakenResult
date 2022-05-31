@@ -12,3 +12,5 @@ Recent Minimum---Always has bought OCEAN for $0.2324
 Recent Minimum---Always has sold OCEAN for $0.2324. Profit was -0.0%.
 [2022-05-31 22:14:11] BUY
 Recent Minimum---Always has bought OCEAN for $0.2324
+[2022-05-31 22:18:02] SOLD
+Recent Minimum---Always has sold OCEAN for $0.2324. Profit was -0.0%.
