@@ -6,3 +6,5 @@ Random---Always has sold MANA for $1.07802. Profit was 0.002189198716164853%.
 Random---Always has bought ALICE for $3.094
 [2022-05-31 08:17:27] SOLD
 Random---Always has sold ALICE for $3.094. Profit was -0.0%.
+[2022-05-31 08:23:26] BUY
+Random---Always has bought INJ for $2.218
