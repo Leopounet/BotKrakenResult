@@ -36,3 +36,5 @@ Recent Minimum---Random has bought MSOL for $49.91
 Recent Minimum---Random has sold MSOL for $49.91. Profit was -0.0%.
 [2022-05-31 23:15:17] BUY
 Recent Minimum---Random has bought ENS for $12.0
+[2022-05-31 23:18:15] SOLD
+Recent Minimum---Random has sold ENS for $12.0. Profit was -0.0%.
