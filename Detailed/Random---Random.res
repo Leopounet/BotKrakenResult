@@ -78,3 +78,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-05-31 21:23:24] SOLD
+Random---Random has sold: Name: CRVUSD
+Altname: CRVUSD
+Wsname: CRV/USD
+Base: Name = CRV
+Altname = CRV
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.377
+        Maximum:                    0.838926
+        Minimum:                    0.686342
+        Variance:                   0.181881
+        Mean:                       0.76212
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.210526
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.071429
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      1.316632
+        Number of local maximums:   19
+        Average local minimum:      1.312214
+        Number of local minimums:   14
+True
+Profit was 0.005809731299927456%.
+---------------------------------------------------------------------------
