@@ -427,3 +427,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   16
 
 ---------------------------------------------------------------------------
+[2022-05-31 09:10:32] SOLD
+Random---Always has sold: Name: BICOUSD
+Altname: BICOUSD
+Wsname: BICO/USD
+Base: Name = BICO
+Altname = BICO
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 4
+Data about this tradable pair of assets:
+
+        Current:                    0.728
+        Maximum:                    1.589825
+        Minimum:                    1.322751
+        Variance:                   0.167989
+        Mean:                       1.498584
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.692308
+        Is ascending:               True
+        Current ascension duration: 52
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.4375
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.670692
+        Number of local maximums:   13
+        Average local minimum:      0.667188
+        Number of local minimums:   16
+Profit was -0.0%.
+---------------------------------------------------------------------------

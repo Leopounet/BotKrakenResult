@@ -10,3 +10,5 @@ Random---Random has sold XLTC for $68.78. Profit was -0.00029078220412903644%.
 Random---Random has bought OCEAN for $0.2541
 [2022-05-31 08:59:13] SOLD
 Random---Random has sold OCEAN for $0.2541. Profit was -0.0047225501770955525%.
+[2022-05-31 09:10:32] BUY
+Random---Random has bought TRIBE for $0.2695
