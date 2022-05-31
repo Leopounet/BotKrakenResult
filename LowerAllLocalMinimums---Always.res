@@ -46,3 +46,5 @@ LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was 0.000100010
 LowerAllLocalMinimums---Always has bought PAXG for $1849.72
 [2022-05-31 10:21:55] SOLD
 LowerAllLocalMinimums---Always has sold PAXG for $1849.72. Profit was -0.0%.
+[2022-05-31 10:27:51] BUY
+LowerAllLocalMinimums---Always has bought USDC for $0.9999

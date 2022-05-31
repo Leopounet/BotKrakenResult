@@ -46,3 +46,5 @@ Random---Always has sold AAVE for $116.81. Profit was -0.001540963958565289%.
 Random---Always has bought EOS for $1.3601
 [2022-05-31 10:21:55] SOLD
 Random---Always has sold EOS for $1.3601. Profit was -0.004705536357620943%.
+[2022-05-31 10:27:51] BUY
+Random---Always has bought ATOM for $10.389
