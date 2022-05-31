@@ -132,3 +132,5 @@ Random---Always has bought BAND for $1.681
 Random---Always has sold BAND for $1.681. Profit was 0.006543723973825077%.
 [2022-05-31 16:25:40] BUY
 Random---Always has bought RARI for $3.51
+[2022-05-31 16:31:40] SOLD
+Random---Always has sold RARI for $3.51. Profit was -0.0%.

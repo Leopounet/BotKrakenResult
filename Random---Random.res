@@ -86,3 +86,5 @@ Random---Random has sold SCRT for $1.647. Profit was -0.0%.
 Random---Random has bought QTUM for $4.03427
 [2022-05-31 16:25:40] SOLD
 Random---Random has sold QTUM for $4.03427. Profit was 0.01774794448561945%.
+[2022-05-31 16:31:40] BUY
+Random---Random has bought CRV for $1.431

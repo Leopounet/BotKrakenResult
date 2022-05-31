@@ -166,3 +166,5 @@ LowerAllLocalMinimums---Always has sold ZUSD for $1.26365. Profit was 3.95679183
 LowerAllLocalMinimums---Always has bought USDC for $0.9999
 [2022-05-31 16:25:40] SOLD
 LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was 0.00010001000100001711%.
+[2022-05-31 16:31:40] BUY
+LowerAllLocalMinimums---Always has bought DAI for $0.99978

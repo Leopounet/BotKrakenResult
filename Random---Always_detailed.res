@@ -2611,3 +2611,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   34
 
 ---------------------------------------------------------------------------
+[2022-05-31 16:31:40] SOLD
+Random---Always has sold: Name: RARIUSD
+Altname: RARIUSD
+Wsname: RARI/USD
+Base: Name = RARI
+Altname = RARI
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.3
+Data about this tradable pair of assets:
+
+        Current:                    3.51
+        Maximum:                    0.332226
+        Minimum:                    0.283286
+        Variance:                   0.147309
+        Mean:                       0.312508
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.290323
+        Is ascending:               True
+        Current ascension duration: 3
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.735294
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      3.179032
+        Number of local maximums:   31
+        Average local minimum:      3.239706
+        Number of local minimums:   34
+Profit was -0.0%.
+---------------------------------------------------------------------------

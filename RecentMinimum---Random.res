@@ -84,3 +84,5 @@ RecentMinimum---Random has bought POWR for $0.2767
 RecentMinimum---Random has sold POWR for $0.2767. Profit was -0.019154318756776423%.
 [2022-05-31 16:25:40] BUY
 RecentMinimum---Random has bought ZUSD for $128.937
+[2022-05-31 16:31:40] SOLD
+RecentMinimum---Random has sold ZUSD for $128.937. Profit was -0.0%.
