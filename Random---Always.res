@@ -58,3 +58,5 @@ Random---Always has sold SHIB for $1.214e-05. Profit was -0.0008237232289950436%
 Random---Always has bought XMLN for $29.434
 [2022-05-31 02:48:16] SOLD
 Random---Always has sold XMLN for $29.434. Profit was -0.0%.
+[2022-05-31 02:54:13] BUY
+Random---Always has bought MASK for $1.999
