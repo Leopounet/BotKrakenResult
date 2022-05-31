@@ -116,3 +116,5 @@ Random---Random has bought ATOM for $10.1475
 Random---Random has sold ATOM for $10.1475. Profit was -0.002601626016260239%.
 [2022-05-31 19:08:55] BUY
 Random---Random has bought ADA for $0.60042
+[2022-05-31 19:14:53] SOLD
+Random---Random has sold ADA for $0.60042. Profit was -0.004794976849538557%.

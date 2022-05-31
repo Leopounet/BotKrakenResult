@@ -2299,3 +2299,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   24
 
 ---------------------------------------------------------------------------
+[2022-05-31 19:14:53] SOLD
+Random---Random has sold: Name: ADAUSD
+Altname: ADAUSD
+Wsname: ADA/USD
+Base: Name = ADA
+Altname = ADA
+decimals = 8
+displayed_decimals = 6
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2.5
+Data about this tradable pair of assets:
+
+        Current:                    0.60042
+        Maximum:                    2.164577
+        Minimum:                    1.469929
+        Variance:                   0.320916
+        Mean:                       1.868629
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          5.142857
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.75
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.522651
+        Number of local maximums:   14
+        Average local minimum:      0.547877
+        Number of local minimums:   24
+Profit was -0.004794976849538557%.
+---------------------------------------------------------------------------

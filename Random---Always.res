@@ -186,3 +186,5 @@ Random---Always has sold ZUSD for $0.95779. Profit was 0.0005115943996074623%.
 Random---Always has bought KIN for $1.392e-05
 [2022-05-31 19:08:55] SOLD
 Random---Always has sold KIN for $1.392e-05. Profit was -0.0%.
+[2022-05-31 19:14:53] BUY
+Random---Always has bought MIR for $0.294
