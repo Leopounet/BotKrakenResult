@@ -14,3 +14,5 @@ Random---Always has sold LUNA2 for $8.31519. Profit was -0.00047841311092333694%
 Random---Always has bought OXT for $0.13792
 [2022-05-31 22:18:02] SOLD
 Random---Always has sold OXT for $0.13792. Profit was -0.0%.
+[2022-05-31 22:21:23] BUY
+Random---Always has bought NANO for $1.182794

@@ -1,4 +1,4 @@
-[2022-05-31 22:18:02] SUMMARY
+[2022-05-31 22:21:23] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -92,49 +92,49 @@ True
 3
 0.0
 Best score: 
-Variance Lower All Local Minimums---Random
-Looks for the asset for which the current price is lower than all previous local minimums.
+Mean---Random
+Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
 Random.
 {}
 {}
-Name: LUNAUSD
-Altname: LUNAUSD
-Wsname: LUNA/USD
-Base: Name = LUNA
-Altname = LUNA
-decimals = 8
-displayed_decimals = 5
+Name: SHIBUSD
+Altname: SHIBUSD
+Wsname: SHIB/USD
+Base: Name = SHIB
+Altname = SHIB
+decimals = 5
+displayed_decimals = 0
 Quote: Name = ZUSD
 Altname = USD
 decimals = 4
 displayed_decimals = 2
 Fee: 0.26
-Min order: 50000
+Min order: 500000
 Data about this tradable pair of assets:
 
-        Current:                    0.000113
-        Maximum:                    12658.227848
-        Minimum:                    5263.157895
-        Variance:                   0.584211
-        Mean:                       8734.625224
+        Current:                    1.2e-05
+        Maximum:                    93023.255814
+        Minimum:                    80971.659919
+        Variance:                   0.129555
+        Mean:                       85359.576657
         Longest ascension:          3
         Shortest ascension:         3
-        Average ascension:          3.5
+        Average ascension:          3.882353
         Is ascending:               False
-        Current ascension duration: 0
+        Current ascension duration: 2
         Trending upwards:           True
         Longest fall:               3
         Shortest fall:              3
-        Average fall:               2.571429
+        Average fall:               2.318182
         Is falling:                 False
-        Current fall duration:      1
+        Current fall duration:      0
         Trending downwards:         False
-        Average local maximum:      0.000121
-        Number of local maximums:   18
-        Average local minimum:      0.000118
-        Number of local minimums:   21
+        Average local maximum:      1.2e-05
+        Number of local maximums:   17
+        Average local minimum:      1.2e-05
+        Number of local minimums:   22
 True
 0
-2
--0.007825563042492267
+3
+-0.0017050298380221207
 ---------------------------------------------------------------------------
