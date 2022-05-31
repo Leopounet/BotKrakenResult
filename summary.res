@@ -1,4 +1,4 @@
-[2022-05-31 23:44:49] SUMMARY
+[2022-05-31 23:47:47] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: BNCUSD
+Altname: BNCUSD
+Wsname: BNC/USD
+Base: Name = BNC
+Altname = BNC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.398
+        Maximum:                    3.267974
+        Minimum:                    2.277904
+        Variance:                   0.302961
+        Mean:                       2.917852
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.807692
+        Is ascending:               True
+        Current ascension duration: 6
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.363636
+        Is falling:                 True
+        Current fall duration:      13
+        Trending downwards:         False
+        Average local maximum:      0.350846
+        Number of local maximums:   26
+        Average local minimum:      0.364606
+        Number of local minimums:   33
+True
 0
 10
 0.0014856646808081297
