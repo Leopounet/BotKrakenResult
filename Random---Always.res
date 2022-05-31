@@ -106,3 +106,5 @@ Random---Always has sold OMG for $2.703565. Profit was -0.0%.
 Random---Always has bought KINT for $4.07
 [2022-05-31 13:20:26] SOLD
 Random---Always has sold KINT for $4.07. Profit was -0.0%.
+[2022-05-31 13:26:22] BUY
+Random---Always has bought LDO for $1.14
