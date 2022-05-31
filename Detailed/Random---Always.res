@@ -1198,3 +1198,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 23:30:02] BUY
+Random---Always has bought: Name: LRCUSD
+Altname: LRCUSD
+Wsname: LRC/USD
+Base: Name = LRC
+Altname = LRC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 15
+Data about this tradable pair of assets:
+
+        Current:                    0.5642
+        Maximum:                    2.079867
+        Minimum:                    1.739433
+        Variance:                   0.163681
+        Mean:                       1.882082
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.28
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.947368
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      0.526312
+        Number of local maximums:   25
+        Average local minimum:      0.530605
+        Number of local minimums:   19
+True
+
+---------------------------------------------------------------------------
