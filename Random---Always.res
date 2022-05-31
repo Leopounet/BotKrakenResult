@@ -16,3 +16,5 @@ Random---Always has bought DOT for $10.3806
 Random---Always has sold DOT for $10.3806. Profit was -0.0004624010172822324%.
 [2022-05-31 08:47:19] BUY
 Random---Always has bought PERP for $1.284
+[2022-05-31 08:53:16] SOLD
+Random---Always has sold PERP for $1.284. Profit was -0.0%.
