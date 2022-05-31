@@ -142,3 +142,5 @@ LowerAllLocalMinimums---Random has sold ZUSD for $1.26322. Profit was -0.0%.
 LowerAllLocalMinimums---Random has bought ZUSD for $1.26365
 [2022-05-31 17:44:01] SOLD
 LowerAllLocalMinimums---Random has sold ZUSD for $1.26365. Profit was -0.00015827167332727043%.
+[2022-05-31 17:50:07] BUY
+LowerAllLocalMinimums---Random has bought DAI for $0.99978

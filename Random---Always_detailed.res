@@ -3118,3 +3118,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   35
 Profit was -0.001434034416825991%.
 ---------------------------------------------------------------------------
+[2022-05-31 17:50:07] BUY
+Random---Always has bought: Name: UNIUSD
+Altname: UNIUSD
+Wsname: UNI/USD
+Base: Name = UNI
+Altname = UNI
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.2
+Data about this tradable pair of assets:
+
+        Current:                    5.682
+        Maximum:                    0.208203
+        Minimum:                    0.170561
+        Variance:                   0.180795
+        Mean:                       0.188994
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          5.25
+        Is ascending:               True
+        Current ascension duration: 12
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.714286
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      5.336938
+        Number of local maximums:   16
+        Average local minimum:      5.271929
+        Number of local minimums:   28
+
+---------------------------------------------------------------------------

@@ -158,3 +158,5 @@ Random---Always has sold RLC for $0.9773. Profit was -0.0%.
 Random---Always has bought CTSI for $0.2092
 [2022-05-31 17:44:01] SOLD
 Random---Always has sold CTSI for $0.2092. Profit was -0.001434034416825991%.
+[2022-05-31 17:50:07] BUY
+Random---Always has bought UNI for $5.682
