@@ -76,3 +76,5 @@ Random---Always has bought BAND for $1.842
 Random---Always has sold BAND for $1.842. Profit was -0.0%.
 [2022-05-31 03:41:34] BUY
 Random---Always has bought BAL for $7.93
+[2022-05-31 03:47:29] SOLD
+Random---Always has sold BAL for $7.93. Profit was -0.0%.

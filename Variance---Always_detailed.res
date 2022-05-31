@@ -1519,3 +1519,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   30
 
 ---------------------------------------------------------------------------
+[2022-05-31 03:47:29] SOLD
+Variance---Always has sold: Name: WAVESUSD
+Altname: WAVESUSD
+Wsname: WAVES/USD
+Base: Name = WAVES
+Altname = WAVES
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.2
+Data about this tradable pair of assets:
+
+        Current:                    9.6008
+        Maximum:                    0.241622
+        Minimum:                    0.097536
+        Variance:                   0.596327
+        Mean:                       0.202587
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.913043
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.3
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      4.9705
+        Number of local maximums:   23
+        Average local minimum:      5.190537
+        Number of local minimums:   30
+Profit was -0.011946921089909135%.
+---------------------------------------------------------------------------

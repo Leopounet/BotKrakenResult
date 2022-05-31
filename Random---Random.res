@@ -40,3 +40,5 @@ Random---Random has bought MATIC for $0.6695
 Random---Random has sold MATIC for $0.6695. Profit was -0.0005974607916354735%.
 [2022-05-31 03:41:34] BUY
 Random---Random has bought MASK for $1.999
+[2022-05-31 03:47:29] SOLD
+Random---Random has sold MASK for $1.999. Profit was -0.0%.

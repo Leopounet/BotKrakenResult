@@ -1519,3 +1519,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   33
 
 ---------------------------------------------------------------------------
+[2022-05-31 03:47:29] SOLD
+Random---Always has sold: Name: BALUSD
+Altname: BALUSD
+Wsname: BAL/USD
+Base: Name = BAL
+Altname = BAL
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.15
+Data about this tradable pair of assets:
+
+        Current:                    7.93
+        Maximum:                    0.153139
+        Minimum:                    0.125471
+        Variance:                   0.180678
+        Mean:                       0.142105
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.807692
+        Is ascending:               True
+        Current ascension duration: 4
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.363636
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      7.091923
+        Number of local maximums:   26
+        Average local minimum:      6.966364
+        Number of local minimums:   33
+Profit was -0.0%.
+---------------------------------------------------------------------------
