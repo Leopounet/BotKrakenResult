@@ -1,4 +1,4 @@
-[2022-05-31 22:45:52] SUMMARY
+[2022-05-31 22:48:51] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -92,49 +92,49 @@ True
 6
 0.0
 Best score: 
-Mean---Random
-Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
+Random---Random
+Random.
 Random.
 {}
 {}
-Name: SHIBUSD
-Altname: SHIBUSD
-Wsname: SHIB/USD
-Base: Name = SHIB
-Altname = SHIB
-decimals = 5
-displayed_decimals = 0
+Name: XLTCZUSD
+Altname: LTCUSD
+Wsname: LTC/USD
+Base: Name = XLTC
+Altname = LTC
+decimals = 10
+displayed_decimals = 5
 Quote: Name = ZUSD
 Altname = USD
 decimals = 4
 displayed_decimals = 2
 Fee: 0.26
-Min order: 500000
+Min order: 0.03
 Data about this tradable pair of assets:
 
-        Current:                    1.2e-05
-        Maximum:                    93023.255814
-        Minimum:                    80971.659919
-        Variance:                   0.129555
-        Mean:                       85315.369083
+        Current:                    68.96
+        Maximum:                    0.015969
+        Minimum:                    0.01438
+        Variance:                   0.099511
+        Mean:                       0.015035
         Longest ascension:          3
         Shortest ascension:         3
-        Average ascension:          3.5
+        Average ascension:          2.217391
         Is ascending:               False
-        Current ascension duration: 2
+        Current ascension duration: 0
         Trending upwards:           True
         Longest fall:               3
         Shortest fall:              3
-        Average fall:               2.571429
-        Is falling:                 False
-        Current fall duration:      0
+        Average fall:               4.058824
+        Is falling:                 True
+        Current fall duration:      10
         Trending downwards:         False
-        Average local maximum:      1.2e-05
-        Number of local maximums:   18
-        Average local minimum:      1.2e-05
-        Number of local minimums:   21
+        Average local maximum:      67.55913
+        Number of local maximums:   23
+        Average local minimum:      66.740588
+        Number of local minimums:   17
 True
 0
 6
--0.0008423522871560118
+0.0
 ---------------------------------------------------------------------------

@@ -32,3 +32,5 @@ Random---Always has bought MKR for $1315.4
 Random---Always has sold MKR for $1315.4. Profit was -0.0%.
 [2022-05-31 22:45:52] BUY
 Random---Always has bought BCH for $205.97
+[2022-05-31 22:48:51] SOLD
+Random---Always has sold BCH for $206.9. Profit was 0.004515220663203312%.

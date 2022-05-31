@@ -678,3 +678,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-05-31 22:48:51] SOLD
+Random---Always has sold: Name: BCHUSD
+Altname: BCHUSD
+Wsname: BCH/USD
+Base: Name = BCH
+Altname = BCH
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.01
+Data about this tradable pair of assets:
+
+        Current:                    205.97
+        Maximum:                    0.005572
+        Minimum:                    0.004855
+        Variance:                   0.12866
+        Mean:                       0.005243
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.777778
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.24
+        Is falling:                 True
+        Current fall duration:      13
+        Trending downwards:         False
+        Average local maximum:      189.644815
+        Number of local maximums:   27
+        Average local minimum:      192.0412
+        Number of local minimums:   25
+True
+Profit was 0.004515220663203312%.
+---------------------------------------------------------------------------
