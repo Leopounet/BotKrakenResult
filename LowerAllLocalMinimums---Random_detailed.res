@@ -1909,3 +1909,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   35
 
 ---------------------------------------------------------------------------
+[2022-05-31 14:43:55] SOLD
+LowerAllLocalMinimums---Random has sold: Name: DAIUSD
+Altname: DAIUSD
+Wsname: DAI/USD
+Base: Name = DAI
+Altname = DAI
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.99979
+        Maximum:                    1.0004
+        Minimum:                    0.99992
+        Variance:                   0.00048
+        Mean:                       1.000108
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.692308
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.342857
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.999911
+        Number of local maximums:   39
+        Average local minimum:      0.999879
+        Number of local minimums:   35
+Profit was 1.0002100441219852e-05%.
+---------------------------------------------------------------------------

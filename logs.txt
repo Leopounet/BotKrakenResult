@@ -1,2 +1,3 @@
 HTTPSConnectionPool(host='api.kraken.com', port=443): Max retries exceeded with url: /0/public/Assets (Caused by SSLError(SSLCertVerificationError("hostname 'api.kraken.com' doesn't match either of '*.numericable.fr', 'numericable.fr'")))
 unsupported operand type(s) for /: 'NoneType' and 'NoneType'
+unsupported operand type(s) for -: 'NoneType' and 'NoneType'
