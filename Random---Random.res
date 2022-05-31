@@ -60,3 +60,5 @@ Random---Random has bought ZGBP for $1.25952
 Random---Random has sold ZGBP for $1.25952. Profit was -0.0006113440040650397%.
 [2022-05-31 12:26:47] BUY
 Random---Random has bought MINA for $0.97
+[2022-05-31 12:32:42] SOLD
+Random---Random has sold MINA for $0.97. Profit was 0.005154639175257714%.
