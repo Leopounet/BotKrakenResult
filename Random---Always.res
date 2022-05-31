@@ -50,3 +50,5 @@ Random---Always has sold COMP for $64.41. Profit was 0.005744449619624392%.
 Random---Always has bought XXRP for $0.41633
 [2022-05-31 02:24:36] SOLD
 Random---Always has sold XXRP for $0.41633. Profit was 0.00434751279033474%.
+[2022-05-31 02:30:31] BUY
+Random---Always has bought SHIB for $1.214e-05
