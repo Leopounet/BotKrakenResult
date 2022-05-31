@@ -622,3 +622,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   26
 Profit was 0.00496894409937898%.
 ---------------------------------------------------------------------------
+[2022-05-31 10:39:47] BUY
+Random---Random has bought: Name: MASKUSD
+Altname: MASKUSD
+Wsname: MASK/USD
+Base: Name = MASK
+Altname = MASK
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    2.118
+        Maximum:                    0.59312
+        Minimum:                    0.465116
+        Variance:                   0.215814
+        Mean:                       0.537199
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          5.5
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.636364
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      1.801333
+        Number of local maximums:   6
+        Average local minimum:      1.849091
+        Number of local minimums:   11
+
+---------------------------------------------------------------------------

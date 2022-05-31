@@ -50,3 +50,5 @@ Random---Always has sold EOS for $1.3601. Profit was -0.004705536357620943%.
 Random---Always has bought ATOM for $10.389
 [2022-05-31 10:33:49] SOLD
 Random---Always has sold ATOM for $10.389. Profit was -0.0008663008951774742%.
+[2022-05-31 10:39:47] BUY
+Random---Always has bought API3 for $1.732
