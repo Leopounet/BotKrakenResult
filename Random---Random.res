@@ -66,3 +66,5 @@ Random---Random has sold MINA for $0.97. Profit was 0.005154639175257714%.
 Random---Random has bought APE for $6.8552
 [2022-05-31 12:50:36] SOLD
 Random---Random has sold APE for $6.8552. Profit was -0.004274127669506411%.
+[2022-05-31 12:56:40] BUY
+Random---Random has bought LDO for $1.131
