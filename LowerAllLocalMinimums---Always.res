@@ -70,3 +70,5 @@ LowerAllLocalMinimums---Always has sold PAXG for $1850.58. Profit was -0.0%.
 LowerAllLocalMinimums---Always has bought ZGBP for $1.26258
 [2022-05-31 03:23:49] SOLD
 LowerAllLocalMinimums---Always has sold ZGBP for $1.26258. Profit was -0.00017424638438756634%.
+[2022-05-31 03:29:45] BUY
+LowerAllLocalMinimums---Always has bought ZGBP for $1.2623
