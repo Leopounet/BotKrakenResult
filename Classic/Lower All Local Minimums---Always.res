@@ -10,3 +10,5 @@ Lower All Local Minimums---Always has sold 1INCH for $0.969. Profit was 0.002068
 Lower All Local Minimums---Always has bought AAVE for $113.89
 [2022-05-31 21:49:30] SOLD
 Lower All Local Minimums---Always has sold AAVE for $113.89. Profit was -0.0%.
+[2022-05-31 21:51:32] BUY
+Lower All Local Minimums---Always has bought AAVE for $113.89

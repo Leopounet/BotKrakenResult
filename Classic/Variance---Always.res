@@ -10,3 +10,5 @@ Variance---Always has sold AAVE for $113.89. Profit was -0.0%.
 Variance---Always has bought AAVE for $113.89
 [2022-05-31 21:49:30] SOLD
 Variance---Always has sold AAVE for $113.89. Profit was -0.0%.
+[2022-05-31 21:51:32] BUY
+Variance---Always has bought AAVE for $113.89
