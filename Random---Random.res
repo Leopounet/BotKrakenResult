@@ -80,3 +80,5 @@ Random---Random has bought GMT for $1.135
 Random---Random has sold GMT for $1.135. Profit was -0.012334801762114544%.
 [2022-05-31 14:20:02] BUY
 Random---Random has bought SCRT for $1.647
+[2022-05-31 14:26:00] SOLD
+Random---Random has sold SCRT for $1.647. Profit was -0.0%.

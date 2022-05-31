@@ -1597,3 +1597,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   40
 
 ---------------------------------------------------------------------------
+[2022-05-31 14:26:00] SOLD
+Random---Random has sold: Name: SCRTUSD
+Altname: SCRTUSD
+Wsname: SCRT/USD
+Base: Name = SCRT
+Altname = SCRT
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.647
+        Maximum:                    0.672948
+        Minimum:                    0.566251
+        Variance:                   0.15855
+        Mean:                       0.617827
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.870968
+        Is ascending:               True
+        Current ascension duration: 9
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.325
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      1.636387
+        Number of local maximums:   31
+        Average local minimum:      1.611325
+        Number of local minimums:   40
+Profit was -0.0%.
+---------------------------------------------------------------------------
