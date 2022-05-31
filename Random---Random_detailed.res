@@ -1792,3 +1792,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   16
 Profit was -0.002795248078266921%.
 ---------------------------------------------------------------------------
+[2022-05-31 17:01:38] BUY
+Random---Random has bought: Name: XREPZUSD
+Altname: REPUSD
+Wsname: REP/USD
+Base: Name = XREP
+Altname = REP
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.15
+Data about this tradable pair of assets:
+
+        Current:                    10.768
+        Maximum:                    0.094958
+        Minimum:                    0.081301
+        Variance:                   0.143821
+        Mean:                       0.089344
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.172414
+        Is ascending:               True
+        Current ascension duration: 6
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.142857
+        Is falling:                 True
+        Current fall duration:      23
+        Trending downwards:         True
+        Average local maximum:      11.30069
+        Number of local maximums:   29
+        Average local minimum:      11.24319
+        Number of local minimums:   21
+
+---------------------------------------------------------------------------

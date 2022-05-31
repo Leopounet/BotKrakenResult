@@ -90,3 +90,5 @@ Random---Random has sold QTUM for $4.03427. Profit was 0.01774794448561945%.
 Random---Random has bought CRV for $1.431
 [2022-05-31 16:55:41] SOLD
 Random---Random has sold CRV for $1.431. Profit was -0.002795248078266921%.
+[2022-05-31 17:01:38] BUY
+Random---Random has bought XREP for $10.768

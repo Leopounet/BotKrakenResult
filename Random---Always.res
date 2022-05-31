@@ -142,3 +142,5 @@ Random---Always has sold GARI for $0.6486. Profit was -0.0%.
 Random---Always has bought GMT for $1.17
 [2022-05-31 16:55:41] SOLD
 Random---Always has sold GMT for $1.17. Profit was -0.0%.
+[2022-05-31 17:01:38] BUY
+Random---Always has bought CRV for $1.427
