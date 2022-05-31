@@ -6,3 +6,5 @@ LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was 0.000100010
 LowerAllLocalMinimums---Always has bought GST for $1.359
 [2022-05-31 00:12:08] SOLD
 LowerAllLocalMinimums---Always has sold GST for $1.359. Profit was -0.0%.
+[2022-05-31 00:18:02] BUY
+LowerAllLocalMinimums---Always has bought GST for $1.359
