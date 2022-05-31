@@ -232,3 +232,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   5
 Profit was -0.1133050552484558%.
 ---------------------------------------------------------------------------
+[2022-05-31 00:29:53] BUY
+RecentMinimum---Always has bought: Name: TBTCUSD
+Altname: TBTCUSD
+Wsname: TBTC/USD
+Base: Name = TBTC
+Altname = TBTC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.0001
+Data about this tradable pair of assets:
+
+        Current:                    30060.2
+        Maximum:                    3.5e-05
+        Minimum:                    2.9e-05
+        Variance:                   0.16604
+        Mean:                       3.3e-05
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          5.0
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.8
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      29063.466667
+        Number of local maximums:   3
+        Average local minimum:      30527.94
+        Number of local minimums:   5
+
+---------------------------------------------------------------------------
