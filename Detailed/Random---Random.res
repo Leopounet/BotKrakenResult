@@ -1,0 +1,80 @@
+[2022-05-31 21:11:16] BUY
+Random---Random has bought: Name: ORCAUSD
+Altname: ORCAUSD
+Wsname: ORCA/USD
+Base: Name = ORCA
+Altname = ORCA
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.851
+        Maximum:                    1.25
+        Minimum:                    1.017294
+        Variance:                   0.186165
+        Mean:                       1.123032
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.75
+        Is ascending:               True
+        Current ascension duration: 21
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.4
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.876375
+        Number of local maximums:   8
+        Average local minimum:      0.9283
+        Number of local minimums:   10
+True
+
+---------------------------------------------------------------------------
+[2022-05-31 21:13:52] BUY
+Random---Random has bought: Name: CRVUSD
+Altname: CRVUSD
+Wsname: CRV/USD
+Base: Name = CRV
+Altname = CRV
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.377
+        Maximum:                    0.838926
+        Minimum:                    0.686342
+        Variance:                   0.181881
+        Mean:                       0.76212
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.210526
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.071429
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      1.316632
+        Number of local maximums:   19
+        Average local minimum:      1.312214
+        Number of local minimums:   14
+True
+
+---------------------------------------------------------------------------
