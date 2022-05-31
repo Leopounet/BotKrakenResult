@@ -46,3 +46,5 @@ LowerAllLocalMinimums---Random has sold UST for $0.02129. Profit was 0.019257867
 LowerAllLocalMinimums---Random has bought USDC for $0.9999
 [2022-05-31 11:39:12] SOLD
 LowerAllLocalMinimums---Random has sold USDC for $0.9999. Profit was -0.0%.
+[2022-05-31 11:45:08] BUY
+LowerAllLocalMinimums---Random has bought GST for $1.287

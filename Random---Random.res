@@ -46,3 +46,5 @@ Random---Random has sold KILT for $0.815. Profit was -0.0%.
 Random---Random has bought PERP for $1.283
 [2022-05-31 11:39:12] SOLD
 Random---Random has sold PERP for $1.283. Profit was -0.0%.
+[2022-05-31 11:45:08] BUY
+Random---Random has bought MOVR for $23.2279

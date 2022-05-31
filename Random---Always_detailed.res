@@ -1441,3 +1441,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   22
 
 ---------------------------------------------------------------------------
+[2022-05-31 11:45:08] SOLD
+Random---Always has sold: Name: AVAXUSD
+Altname: AVAXUSD
+Wsname: AVAX/USD
+Base: Name = AVAX
+Altname = AVAX
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.1
+Data about this tradable pair of assets:
+
+        Current:                    27.31
+        Maximum:                    0.041911
+        Minimum:                    0.034423
+        Variance:                   0.178657
+        Mean:                       0.037874
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.666667
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.454545
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         False
+        Average local maximum:      26.578333
+        Number of local maximums:   18
+        Average local minimum:      26.48
+        Number of local minimums:   22
+Profit was -0.0007323324789454411%.
+---------------------------------------------------------------------------

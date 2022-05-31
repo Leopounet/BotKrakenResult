@@ -72,3 +72,5 @@ Random---Always has bought MOVR for $23.1904
 Random---Always has sold MOVR for $23.1904. Profit was -0.0%.
 [2022-05-31 11:39:12] BUY
 Random---Always has bought AVAX for $27.31
+[2022-05-31 11:45:08] SOLD
+Random---Always has sold AVAX for $27.31. Profit was -0.0007323324789454411%.
