@@ -36,3 +36,5 @@ Random---Random has bought LPT for $12.89
 Random---Random has sold LPT for $12.89. Profit was -0.0%.
 [2022-05-31 23:24:08] BUY
 Random---Random has bought STEP for $0.0917
+[2022-05-31 23:44:49] SOLD
+Random---Random has sold STEP for $0.0917. Profit was -0.0%.

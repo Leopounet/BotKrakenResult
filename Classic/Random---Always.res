@@ -68,3 +68,5 @@ Random---Always has bought ALCX for $32.35
 Random---Always has sold ALCX for $32.35. Profit was -0.0%.
 [2022-05-31 23:41:52] BUY
 Random---Always has bought STORJ for $0.58976
+[2022-05-31 23:44:49] SOLD
+Random---Always has sold STORJ for $0.58976. Profit was -0.0%.
