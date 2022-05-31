@@ -60,3 +60,5 @@ Random---Always has bought RNDR for $0.8822
 Random---Always has sold RNDR for $0.8822. Profit was 0.0068011788710042875%.
 [2022-05-31 11:03:32] BUY
 Random---Always has bought ICP for $8.352
+[2022-05-31 11:09:29] SOLD
+Random---Always has sold ICP for $8.352. Profit was -0.0%.
