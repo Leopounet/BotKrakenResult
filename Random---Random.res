@@ -76,3 +76,5 @@ Random---Random has bought GRT for $0.15491
 Random---Random has sold GRT for $0.15491. Profit was -0.024917694144987457%.
 [2022-05-31 13:56:13] BUY
 Random---Random has bought GMT for $1.135
+[2022-05-31 14:14:05] SOLD
+Random---Random has sold GMT for $1.135. Profit was -0.012334801762114544%.

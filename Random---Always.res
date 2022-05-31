@@ -122,3 +122,5 @@ Random---Always has sold NYM for $0.4253. Profit was -0.0%.
 Random---Always has bought OXT for $0.13393
 [2022-05-31 14:08:07] SOLD
 Random---Always has sold OXT for $0.13393. Profit was -0.008063913984917459%.
+[2022-05-31 14:14:05] BUY
+Random---Always has bought LINK for $7.22387
