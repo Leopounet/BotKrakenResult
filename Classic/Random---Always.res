@@ -10,3 +10,5 @@ Random---Always has bought PAXG for $1838.01
 Random---Always has sold PAXG for $1838.01. Profit was -0.0%.
 [2022-05-31 21:26:51] BUY
 Random---Always has bought TBTC for $30068.5
+[2022-05-31 21:29:57] SOLD
+Random---Always has sold TBTC for $30068.5. Profit was -0.0%.
