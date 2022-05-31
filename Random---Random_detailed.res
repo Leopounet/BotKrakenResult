@@ -76,3 +76,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   17
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 08:17:27] BUY
+Random---Random has bought: Name: XLTCZUSD
+Altname: LTCUSD
+Wsname: LTC/USD
+Base: Name = XLTC
+Altname = LTC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.03
+Data about this tradable pair of assets:
+
+        Current:                    68.78
+        Maximum:                    0.016171
+        Minimum:                    0.01438
+        Variance:                   0.110728
+        Mean:                       0.015352
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.869565
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.136364
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      66.795217
+        Number of local maximums:   23
+        Average local minimum:      64.747727
+        Number of local minimums:   22
+
+---------------------------------------------------------------------------
