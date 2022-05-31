@@ -388,3 +388,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   27
 Profit was 0.00010001000100001711%.
 ---------------------------------------------------------------------------
+[2022-05-31 00:53:37] BUY
+LowerAllLocalMinimums---Always has bought: Name: ZGBPZUSD
+Altname: GBPUSD
+Wsname: GBP/USD
+Base: Name = ZGBP
+Altname = GBP
+decimals = 4
+displayed_decimals = 2
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    1.26228
+        Maximum:                    0.792242
+        Minimum:                    0.789422
+        Variance:                   0.00356
+        Mean:                       0.791195
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          7.384615
+        Is ascending:               True
+        Current ascension duration: 7
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.21875
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      1.263711
+        Number of local maximums:   13
+        Average local minimum:      1.263784
+        Number of local minimums:   32
+
+---------------------------------------------------------------------------

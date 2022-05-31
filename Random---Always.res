@@ -18,3 +18,5 @@ Random---Always has sold QNT for $72.82. Profit was -0.0%.
 Random---Always has bought CHZ for $0.1229
 [2022-05-31 00:47:42] SOLD
 Random---Always has sold CHZ for $0.1229. Profit was -0.0%.
+[2022-05-31 00:53:37] BUY
+Random---Always has bought GLMR for $1.377

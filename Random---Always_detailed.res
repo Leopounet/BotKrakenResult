@@ -388,3 +388,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   23
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 00:53:37] BUY
+Random---Always has bought: Name: GLMRUSD
+Altname: GLMRUSD
+Wsname: GLMR/USD
+Base: Name = GLMR
+Altname = GLMR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.377
+        Maximum:                    0.855432
+        Minimum:                    0.705219
+        Variance:                   0.175599
+        Mean:                       0.799525
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.9
+        Is ascending:               True
+        Current ascension duration: 3
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.103448
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      1.231767
+        Number of local maximums:   30
+        Average local minimum:      1.237241
+        Number of local minimums:   29
+
+---------------------------------------------------------------------------
