@@ -136,3 +136,5 @@ Random---Always has bought RARI for $3.51
 Random---Always has sold RARI for $3.51. Profit was -0.0%.
 [2022-05-31 16:37:44] BUY
 Random---Always has bought GARI for $0.6486
+[2022-05-31 16:43:42] SOLD
+Random---Always has sold GARI for $0.6486. Profit was -0.0%.
