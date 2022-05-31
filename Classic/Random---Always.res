@@ -64,3 +64,5 @@ Random---Always has bought LRC for $0.5642
 Random---Always has sold LRC for $0.5642. Profit was -0.0%.
 [2022-05-31 23:35:55] BUY
 Random---Always has bought ALCX for $32.35
+[2022-05-31 23:38:55] SOLD
+Random---Always has sold ALCX for $32.35. Profit was -0.0%.
