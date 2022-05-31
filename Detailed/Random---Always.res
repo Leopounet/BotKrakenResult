@@ -198,3 +198,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-05-31 22:11:00] SOLD
+Random---Always has sold: Name: LUNA2USD
+Altname: LUNA2USD
+Wsname: LUNA2/USD
+Base: Name = LUNA2
+Altname = LUNA2
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    8.31917
+        Maximum:                    0.180001
+        Minimum:                    0.081842
+        Variance:                   0.545324
+        Mean:                       0.136147
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.25
+        Is ascending:               True
+        Current ascension duration: 3
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.0
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      7.802155
+        Number of local maximums:   24
+        Average local minimum:      7.266468
+        Number of local minimums:   18
+True
+Profit was -0.00047841311092333694%.
+---------------------------------------------------------------------------

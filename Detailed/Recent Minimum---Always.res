@@ -198,3 +198,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-05-31 22:11:00] SOLD
+Recent Minimum---Always has sold: Name: OCEANUSD
+Altname: OCEANUSD
+Wsname: OCEAN/USD
+Base: Name = OCEAN
+Altname = OCEAN
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.2324
+        Maximum:                    4.923683
+        Minimum:                    3.792188
+        Variance:                   0.229807
+        Mean:                       4.436353
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.818182
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.357143
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      0.225682
+        Number of local maximums:   22
+        Average local minimum:      0.224379
+        Number of local minimums:   28
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
