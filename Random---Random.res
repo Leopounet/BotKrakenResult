@@ -8,3 +8,5 @@ Random---Random has bought XLTC for $68.78
 Random---Random has sold XLTC for $68.78. Profit was -0.00029078220412903644%.
 [2022-05-31 08:47:19] BUY
 Random---Random has bought OCEAN for $0.2541
+[2022-05-31 08:59:13] SOLD
+Random---Random has sold OCEAN for $0.2541. Profit was -0.0047225501770955525%.
