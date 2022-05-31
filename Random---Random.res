@@ -52,3 +52,5 @@ Random---Random has bought MOVR for $23.2279
 Random---Random has sold MOVR for $23.2279. Profit was -0.0016101326422105489%.
 [2022-05-31 11:57:03] BUY
 Random---Random has bought ROOK for $43.93
+[2022-05-31 12:03:00] SOLD
+Random---Random has sold ROOK for $43.93. Profit was -0.0%.
