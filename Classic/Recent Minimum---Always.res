@@ -54,3 +54,5 @@ Recent Minimum---Always has sold MSOL for $49.91. Profit was -0.0%.
 Recent Minimum---Always has bought ENS for $12.0
 [2022-05-31 23:21:11] SOLD
 Recent Minimum---Always has sold ENS for $12.0. Profit was -0.0%.
+[2022-05-31 23:24:08] BUY
+Recent Minimum---Always has bought ENS for $12.0

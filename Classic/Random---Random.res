@@ -34,3 +34,5 @@ Random---Random has sold SAND for $1.4629. Profit was 0.0006155950752395611%.
 Random---Random has bought LPT for $12.89
 [2022-05-31 23:21:11] SOLD
 Random---Random has sold LPT for $12.89. Profit was -0.0%.
+[2022-05-31 23:24:08] BUY
+Random---Random has bought STEP for $0.0917

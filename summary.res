@@ -1,4 +1,4 @@
-[2022-05-31 23:21:11] SUMMARY
+[2022-05-31 23:24:08] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: STEPUSD
+Altname: STEPUSD
+Wsname: STEP/USD
+Base: Name = STEP
+Altname = STEP
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 15
+Data about this tradable pair of assets:
+
+        Current:                    0.0917
+        Maximum:                    12.254902
+        Minimum:                    9.442871
+        Variance:                   0.229462
+        Mean:                       10.716977
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.485714
+        Is ascending:               True
+        Current ascension duration: 12
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.62069
+        Is falling:                 False
+        Current fall duration:      2
+        Trending downwards:         True
+        Average local maximum:      0.093654
+        Number of local maximums:   35
+        Average local minimum:      0.094848
+        Number of local minimums:   29
+True
 0
 9
 0.0014856646808081297
