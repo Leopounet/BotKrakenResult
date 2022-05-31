@@ -38,3 +38,5 @@ Variance Lower All Local Minimums---Random has sold LUNA for $0.00011335. Profit
 Variance Lower All Local Minimums---Random has bought LUNA for $0.00011367
 [2022-05-31 23:32:59] SOLD
 Variance Lower All Local Minimums---Random has sold LUNA for $0.00011443. Profit was 0.0066860209378023505%.
+[2022-05-31 23:35:55] BUY
+Variance Lower All Local Minimums---Random has bought UST for $0.0213
