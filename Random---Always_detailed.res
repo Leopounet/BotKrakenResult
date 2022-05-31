@@ -3703,3 +3703,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   23
 
 ---------------------------------------------------------------------------
+[2022-05-31 19:20:52] SOLD
+Random---Always has sold: Name: MIRUSD
+Altname: MIRUSD
+Wsname: MIR/USD
+Base: Name = MIR
+Altname = MIR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.294
+        Maximum:                    3.558719
+        Minimum:                    2.906977
+        Variance:                   0.18314
+        Mean:                       3.213774
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.136364
+        Is ascending:               True
+        Current ascension duration: 8
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.869565
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.315227
+        Number of local maximums:   22
+        Average local minimum:      0.312261
+        Number of local minimums:   23
+Profit was -0.006802721088435382%.
+---------------------------------------------------------------------------
