@@ -1246,3 +1246,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   29
 Profit was -9.504498796086835e-05%.
 ---------------------------------------------------------------------------
+[2022-05-31 03:06:04] BUY
+LowerAllLocalMinimums---Always has bought: Name: PAXGUSD
+Altname: PAXGUSD
+Wsname: PAXG/USD
+Base: Name = PAXG
+Altname = PAXG
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.004
+Data about this tradable pair of assets:
+
+        Current:                    1850.58
+        Maximum:                    0.000541
+        Minimum:                    0.000536
+        Variance:                   0.009302
+        Mean:                       0.000539
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.973684
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.56
+        Is falling:                 True
+        Current fall duration:      6
+        Trending downwards:         True
+        Average local maximum:      1856.339474
+        Number of local maximums:   38
+        Average local minimum:      1857.2272
+        Number of local minimums:   25
+
+---------------------------------------------------------------------------
