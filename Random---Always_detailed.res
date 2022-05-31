@@ -2728,3 +2728,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   10
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 16:49:43] BUY
+Random---Always has bought: Name: GMTUSD
+Altname: GMTUSD
+Wsname: GMT/USD
+Base: Name = GMT
+Altname = GMT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2.5
+Data about this tradable pair of assets:
+
+        Current:                    1.17
+        Maximum:                    1.088139
+        Minimum:                    0.777605
+        Variance:                   0.285381
+        Mean:                       0.878364
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.333333
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.857143
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      1.152611
+        Number of local maximums:   18
+        Average local minimum:      1.159286
+        Number of local minimums:   14
+
+---------------------------------------------------------------------------

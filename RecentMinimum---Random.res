@@ -90,3 +90,5 @@ RecentMinimum---Random has sold ZUSD for $128.937. Profit was -0.0%.
 RecentMinimum---Random has bought ZUSD for $128.937
 [2022-05-31 16:43:42] SOLD
 RecentMinimum---Random has sold ZUSD for $128.937. Profit was -0.0%.
+[2022-05-31 16:49:43] BUY
+RecentMinimum---Random has bought ZUSD for $128.937

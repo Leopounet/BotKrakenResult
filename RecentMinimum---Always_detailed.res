@@ -2728,3 +2728,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   17
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 16:49:43] BUY
+RecentMinimum---Always has bought: Name: ZUSDZJPY
+Altname: USDJPY
+Wsname: USD/JPY
+Base: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Quote: Name = ZJPY
+Altname = JPY
+decimals = 2
+displayed_decimals = 0
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    128.937
+        Maximum:                    0.007878
+        Minimum:                    0.007752
+        Variance:                   0.016054
+        Mean:                       0.007831
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.909091
+        Is ascending:               True
+        Current ascension duration: 4
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.833333
+        Is falling:                 True
+        Current fall duration:      9
+        Trending downwards:         False
+        Average local maximum:      127.567455
+        Number of local maximums:   11
+        Average local minimum:      127.923056
+        Number of local minimums:   18
+
+---------------------------------------------------------------------------
