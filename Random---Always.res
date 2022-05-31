@@ -12,3 +12,5 @@ Random---Always has bought XXBT for $31632.6
 Random---Always has sold XXBT for $31632.6. Profit was -6.006461688246034e-05%.
 [2022-05-31 00:29:53] BUY
 Random---Always has bought QNT for $72.82
+[2022-05-31 00:35:53] SOLD
+Random---Always has sold QNT for $72.82. Profit was -0.0%.

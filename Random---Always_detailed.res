@@ -271,3 +271,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   23
 
 ---------------------------------------------------------------------------
+[2022-05-31 00:35:53] SOLD
+Random---Always has sold: Name: QNTUSD
+Altname: QNTUSD
+Wsname: QNT/USD
+Base: Name = QNT
+Altname = QNT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.05
+Data about this tradable pair of assets:
+
+        Current:                    72.82
+        Maximum:                    0.015746
+        Minimum:                    0.013572
+        Variance:                   0.138029
+        Mean:                       0.014872
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.136364
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.869565
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      67.277273
+        Number of local maximums:   22
+        Average local minimum:      67.721739
+        Number of local minimums:   23
+Profit was -0.0%.
+---------------------------------------------------------------------------
