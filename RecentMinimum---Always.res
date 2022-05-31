@@ -180,3 +180,5 @@ RecentMinimum---Always has bought ZUSD for $128.937
 RecentMinimum---Always has sold ZUSD for $128.937. Profit was -0.0%.
 [2022-05-31 18:50:45] BUY
 RecentMinimum---Always has bought ZUSD for $128.937
+[2022-05-31 18:56:43] SOLD
+RecentMinimum---Always has sold ZUSD for $128.937. Profit was 2.3267176993302385e-05%.
