@@ -26,3 +26,5 @@ Random---Always has sold GLMR for $1.377. Profit was -0.0%.
 Random---Always has bought OGN for $0.24
 [2022-05-31 01:13:39] SOLD
 Random---Always has sold OGN for $0.24. Profit was -0.0%.
+[2022-05-31 01:19:34] BUY
+Random---Always has bought KSM for $78.3

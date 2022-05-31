@@ -22,3 +22,5 @@ RecentMinimum---Random has sold TBTC for $30060.2. Profit was -0.0%.
 RecentMinimum---Random has bought POWR for $0.2765
 [2022-05-31 01:13:39] SOLD
 RecentMinimum---Random has sold POWR for $0.2765. Profit was -0.0%.
+[2022-05-31 01:19:34] BUY
+RecentMinimum---Random has bought POWR for $0.2765
