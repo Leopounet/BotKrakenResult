@@ -2,3 +2,4 @@ HTTPSConnectionPool(host='api.kraken.com', port=443): Max retries exceeded with 
 unsupported operand type(s) for /: 'NoneType' and 'NoneType'
 unsupported operand type(s) for -: 'NoneType' and 'NoneType'
 unsupported operand type(s) for -: 'NoneType' and 'NoneType'
+unsupported operand type(s) for -: 'int' and 'NoneType'

@@ -134,3 +134,5 @@ LowerAllLocalMinimums---Always has sold ZUSD for $1.2637. Profit was 6.330616443
 LowerAllLocalMinimums---Always has bought ZUSD for $1.26377
 [2022-05-31 14:49:53] SOLD
 LowerAllLocalMinimums---Always has sold ZUSD for $1.26377. Profit was -0.0004352057732024406%.
+[2022-05-31 14:55:51] BUY
+LowerAllLocalMinimums---Always has bought UST for $0.02077
