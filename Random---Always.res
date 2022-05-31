@@ -86,3 +86,5 @@ Random---Always has sold SAMO for $0.005721. Profit was -0.0%.
 Random---Always has bought PERP for $1.302
 [2022-05-31 04:11:11] SOLD
 Random---Always has sold PERP for $1.302. Profit was 0.004608294930875667%.
+[2022-05-31 04:17:06] BUY
+Random---Always has bought LSK for $1.306778
