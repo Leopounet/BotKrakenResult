@@ -1441,3 +1441,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   26
 
 ---------------------------------------------------------------------------
+[2022-05-31 03:35:40] SOLD
+Random---Always has sold: Name: BANDUSD
+Altname: BANDUSD
+Wsname: BAND/USD
+Base: Name = BAND
+Altname = BAND
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.842
+        Maximum:                    0.694927
+        Minimum:                    0.542888
+        Variance:                   0.218784
+        Mean:                       0.634342
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.875
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.846154
+        Is falling:                 True
+        Current fall duration:      20
+        Trending downwards:         False
+        Average local maximum:      1.568563
+        Number of local maximums:   16
+        Average local minimum:      1.669038
+        Number of local minimums:   26
+Profit was -0.0%.
+---------------------------------------------------------------------------

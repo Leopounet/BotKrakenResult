@@ -72,3 +72,5 @@ Random---Always has bought MASK for $1.999
 Random---Always has sold MASK for $1.999. Profit was -0.0%.
 [2022-05-31 03:29:45] BUY
 Random---Always has bought BAND for $1.842
+[2022-05-31 03:35:40] SOLD
+Random---Always has sold BAND for $1.842. Profit was -0.0%.

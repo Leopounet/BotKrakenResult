@@ -36,3 +36,5 @@ Random---Random has bought RBC for $0.08841
 Random---Random has sold RBC for $0.08841. Profit was 0.00033932813030213005%.
 [2022-05-31 03:23:49] BUY
 Random---Random has bought MATIC for $0.6695
+[2022-05-31 03:35:40] SOLD
+Random---Random has sold MATIC for $0.6695. Profit was -0.0005974607916354735%.
