@@ -66,3 +66,5 @@ Random---Always has sold MASK for $1.999. Profit was -0.0%.
 Random---Always has bought GNO for $207.9
 [2022-05-31 03:11:58] SOLD
 Random---Always has sold GNO for $207.9. Profit was -0.012746512746512728%.
+[2022-05-31 03:17:53] BUY
+Random---Always has bought MASK for $1.999

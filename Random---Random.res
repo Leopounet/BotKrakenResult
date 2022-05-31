@@ -32,3 +32,5 @@ Random---Random has bought MOVR for $23.6866
 Random---Random has sold MOVR for $23.6866. Profit was 0.003955823123622748%.
 [2022-05-31 03:06:04] BUY
 Random---Random has bought RBC for $0.08841
+[2022-05-31 03:17:53] SOLD
+Random---Random has sold RBC for $0.08841. Profit was 0.00033932813030213005%.

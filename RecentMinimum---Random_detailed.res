@@ -1051,3 +1051,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   15
 
 ---------------------------------------------------------------------------
+[2022-05-31 03:17:53] SOLD
+RecentMinimum---Random has sold: Name: POWRUSD
+Altname: POWRUSD
+Wsname: POWR/USD
+Base: Name = POWR
+Altname = POWR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.2767
+        Maximum:                    4.014452
+        Minimum:                    3.614022
+        Variance:                   0.099747
+        Mean:                       3.870357
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          11.25
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               0.8
+        Is falling:                 True
+        Current fall duration:      367
+        Trending downwards:         False
+        Average local maximum:      0.251525
+        Number of local maximums:   4
+        Average local minimum:      0.258253
+        Number of local minimums:   15
+Profit was -0.0%.
+---------------------------------------------------------------------------
