@@ -3040,3 +3040,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   14
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 17:38:00] BUY
+Random---Always has bought: Name: CTSIUSD
+Altname: CTSIUSD
+Wsname: CTSI/USD
+Base: Name = CTSI
+Altname = CTSI
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.2092
+        Maximum:                    5.589715
+        Minimum:                    4.570384
+        Variance:                   0.182358
+        Mean:                       5.122268
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.387097
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.657143
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.195684
+        Number of local maximums:   31
+        Average local minimum:      0.197254
+        Number of local minimums:   35
+
+---------------------------------------------------------------------------
