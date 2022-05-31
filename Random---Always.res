@@ -104,3 +104,5 @@ Random---Always has bought OMG for $2.703565
 Random---Always has sold OMG for $2.703565. Profit was -0.0%.
 [2022-05-31 13:14:29] BUY
 Random---Always has bought KINT for $4.07
+[2022-05-31 13:20:26] SOLD
+Random---Always has sold KINT for $4.07. Profit was -0.0%.
