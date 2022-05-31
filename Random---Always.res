@@ -88,3 +88,5 @@ Random---Always has bought PERP for $1.302
 Random---Always has sold PERP for $1.302. Profit was 0.004608294930875667%.
 [2022-05-31 04:17:06] BUY
 Random---Always has bought LSK for $1.306778
+[2022-05-31 04:23:03] SOLD
+Random---Always has sold LSK for $1.306778. Profit was -0.0%.
