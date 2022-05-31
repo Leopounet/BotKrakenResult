@@ -349,3 +349,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   27
 
 ---------------------------------------------------------------------------
+[2022-05-31 00:47:42] SOLD
+LowerAllLocalMinimums---Always has sold: Name: USDCUSD
+Altname: USDCUSD
+Wsname: USDC/USD
+Base: Name = USDC
+Altname = USDC
+decimals = 8
+displayed_decimals = 4
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.9999
+        Maximum:                    1.0001
+        Minimum:                    1.0
+        Variance:                   0.0001
+        Mean:                       1.000052
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.372881
+        Is ascending:               True
+        Current ascension duration: 3
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               6.555556
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.999966
+        Number of local maximums:   59
+        Average local minimum:      0.999956
+        Number of local minimums:   27
+Profit was 0.00010001000100001711%.
+---------------------------------------------------------------------------

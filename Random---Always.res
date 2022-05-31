@@ -16,3 +16,5 @@ Random---Always has bought QNT for $72.82
 Random---Always has sold QNT for $72.82. Profit was -0.0%.
 [2022-05-31 00:41:47] BUY
 Random---Always has bought CHZ for $0.1229
+[2022-05-31 00:47:42] SOLD
+Random---Always has sold CHZ for $0.1229. Profit was -0.0%.
