@@ -148,3 +148,5 @@ Random---Always has bought CRV for $1.427
 Random---Always has sold CRV for $1.427. Profit was -0.009110021023125525%.
 [2022-05-31 17:13:37] BUY
 Random---Always has bought RAY for $1.023
+[2022-05-31 17:19:37] SOLD
+Random---Always has sold RAY for $1.023. Profit was 0.003910068426197455%.
