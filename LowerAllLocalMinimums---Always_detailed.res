@@ -2728,3 +2728,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   32
 Profit was 0.006259027443427989%.
 ---------------------------------------------------------------------------
+[2022-05-31 15:07:46] BUY
+LowerAllLocalMinimums---Always has bought: Name: DAIUSD
+Altname: DAIUSD
+Wsname: DAI/USD
+Base: Name = DAI
+Altname = DAI
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.99979
+        Maximum:                    1.0004
+        Minimum:                    0.99992
+        Variance:                   0.00048
+        Mean:                       1.000109
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.615385
+        Is ascending:               True
+        Current ascension duration: 3
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.441176
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.999911
+        Number of local maximums:   39
+        Average local minimum:      0.999877
+        Number of local minimums:   34
+
+---------------------------------------------------------------------------
