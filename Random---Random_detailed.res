@@ -271,3 +271,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   18
 
 ---------------------------------------------------------------------------
+[2022-05-31 01:37:15] SOLD
+Random---Random has sold: Name: NYMUSD
+Altname: NYMUSD
+Wsname: NYM/USD
+Base: Name = NYM
+Altname = NYM
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.4497
+        Maximum:                    2.667378
+        Minimum:                    2.222222
+        Variance:                   0.166889
+        Mean:                       2.49348
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.842105
+        Is ascending:               True
+        Current ascension duration: 17
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.166667
+        Is falling:                 True
+        Current fall duration:      14
+        Trending downwards:         False
+        Average local maximum:      0.405058
+        Number of local maximums:   19
+        Average local minimum:      0.403106
+        Number of local minimums:   18
+Profit was -0.0%.
+---------------------------------------------------------------------------

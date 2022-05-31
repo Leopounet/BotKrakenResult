@@ -12,3 +12,5 @@ Random---Random has bought AAVE for $118.32
 Random---Random has sold AAVE for $118.32. Profit was -0.012339418526031043%.
 [2022-05-31 00:47:42] BUY
 Random---Random has bought NYM for $0.4497
+[2022-05-31 01:37:15] SOLD
+Random---Random has sold NYM for $0.4497. Profit was -0.0%.

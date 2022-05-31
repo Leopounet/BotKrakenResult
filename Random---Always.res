@@ -32,3 +32,5 @@ Random---Always has bought KSM for $78.3
 Random---Always has sold KSM for $78.3. Profit was -0.006768837803320604%.
 [2022-05-31 01:31:21] BUY
 Random---Always has bought CHZ for $0.1228
+[2022-05-31 01:37:15] SOLD
+Random---Always has sold CHZ for $0.1228. Profit was -0.0%.

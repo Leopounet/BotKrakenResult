@@ -661,3 +661,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   24
 
 ---------------------------------------------------------------------------
+[2022-05-31 01:37:15] SOLD
+Random---Always has sold: Name: CHZUSD
+Altname: CHZUSD
+Wsname: CHZ/USD
+Base: Name = CHZ
+Altname = CHZ
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.1228
+        Maximum:                    9.13242
+        Minimum:                    8.136697
+        Variance:                   0.109032
+        Mean:                       8.723097
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.571429
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.5
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      0.114761
+        Number of local maximums:   28
+        Average local minimum:      0.115042
+        Number of local minimums:   24
+Profit was -0.0%.
+---------------------------------------------------------------------------
