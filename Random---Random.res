@@ -20,3 +20,5 @@ Random---Random has bought USDT for $0.9993
 Random---Random has sold USDT for $0.9993. Profit was -0.0%.
 [2022-05-31 02:00:54] BUY
 Random---Random has bought CFG for $0.2763
+[2022-05-31 02:06:49] SOLD
+Random---Random has sold CFG for $0.2763. Profit was -0.0%.

@@ -42,3 +42,5 @@ Random---Always has sold PHA for $0.1324. Profit was -0.0%.
 Random---Always has bought LUNA for $0.00011904
 [2022-05-31 02:00:54] SOLD
 Random---Always has sold LUNA for $0.00011904. Profit was -0.011760752688172005%.
+[2022-05-31 02:06:49] BUY
+Random---Always has bought COMP for $64.41

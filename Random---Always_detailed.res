@@ -856,3 +856,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   19
 Profit was -0.011760752688172005%.
 ---------------------------------------------------------------------------
+[2022-05-31 02:06:49] BUY
+Random---Always has bought: Name: COMPUSD
+Altname: COMPUSD
+Wsname: COMP/USD
+Base: Name = COMP
+Altname = COMP
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.1
+Data about this tradable pair of assets:
+
+        Current:                    64.41
+        Maximum:                    0.018034
+        Minimum:                    0.015214
+        Variance:                   0.156397
+        Mean:                       0.017156
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.7
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.432432
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      57.807
+        Number of local maximums:   30
+        Average local minimum:      58.390541
+        Number of local minimums:   37
+
+---------------------------------------------------------------------------
