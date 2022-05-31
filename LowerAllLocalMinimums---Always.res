@@ -10,3 +10,5 @@ LowerAllLocalMinimums---Always has sold UST for $0.02185. Profit was 0.003203661
 LowerAllLocalMinimums---Always has bought DAI for $0.99984
 [2022-05-31 08:29:24] SOLD
 LowerAllLocalMinimums---Always has sold DAI for $0.99984. Profit was 3.000480076820189e-05%.
+[2022-05-31 08:35:22] BUY
+LowerAllLocalMinimums---Always has bought DAI for $0.99976
