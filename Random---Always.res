@@ -98,3 +98,5 @@ Random---Always has sold XTZ for $2.0792. Profit was -0.0005290496344748652%.
 Random---Always has bought ZUSD for $1.26683
 [2022-05-31 12:56:40] SOLD
 Random---Always has sold ZUSD for $1.26683. Profit was 5.525603277467539e-05%.
+[2022-05-31 13:02:35] BUY
+Random---Always has bought OMG for $2.703565

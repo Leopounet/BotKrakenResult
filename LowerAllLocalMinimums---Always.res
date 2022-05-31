@@ -98,3 +98,5 @@ LowerAllLocalMinimums---Always has sold GST for $1.266. Profit was 0.01579778830
 LowerAllLocalMinimums---Always has bought GST for $1.286
 [2022-05-31 12:56:40] SOLD
 LowerAllLocalMinimums---Always has sold GST for $1.286. Profit was -0.0%.
+[2022-05-31 13:02:35] BUY
+LowerAllLocalMinimums---Always has bought DAI for $0.99976
