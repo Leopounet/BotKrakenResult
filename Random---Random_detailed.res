@@ -2221,3 +2221,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   19
 
 ---------------------------------------------------------------------------
+[2022-05-31 19:02:54] SOLD
+Random---Random has sold: Name: ATOMUSD
+Altname: ATOMUSD
+Wsname: ATOM/USD
+Base: Name = ATOM
+Altname = ATOM
+decimals = 8
+displayed_decimals = 6
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.15
+Data about this tradable pair of assets:
+
+        Current:                    10.1475
+        Maximum:                    0.107875
+        Minimum:                    0.092569
+        Variance:                   0.141889
+        Mean:                       0.099541
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.478261
+        Is ascending:               True
+        Current ascension duration: 10
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.631579
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      10.132343
+        Number of local maximums:   23
+        Average local minimum:      10.1608
+        Number of local minimums:   19
+Profit was -0.002601626016260239%.
+---------------------------------------------------------------------------
