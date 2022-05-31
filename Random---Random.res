@@ -94,3 +94,5 @@ Random---Random has sold CRV for $1.431. Profit was -0.002795248078266921%.
 Random---Random has bought XREP for $10.768
 [2022-05-31 17:25:36] SOLD
 Random---Random has sold XREP for $10.768. Profit was -0.0%.
+[2022-05-31 17:31:51] BUY
+Random---Random has bought KP3R for $141.2

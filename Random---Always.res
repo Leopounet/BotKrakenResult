@@ -152,3 +152,5 @@ Random---Always has bought RAY for $1.023
 Random---Always has sold RAY for $1.023. Profit was 0.003910068426197455%.
 [2022-05-31 17:25:36] BUY
 Random---Always has bought RLC for $0.9773
+[2022-05-31 17:31:51] SOLD
+Random---Always has sold RLC for $0.9773. Profit was -0.0%.
