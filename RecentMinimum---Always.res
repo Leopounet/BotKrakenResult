@@ -192,3 +192,5 @@ RecentMinimum---Always has bought ZUSD for $128.94
 RecentMinimum---Always has sold ZUSD for $128.94. Profit was -0.0%.
 [2022-05-31 19:26:51] BUY
 RecentMinimum---Always has bought XXBT for $31670.7
+[2022-05-31 19:33:00] SOLD
+RecentMinimum---Always has sold XXBT for $31670.7. Profit was 0.0015408563751353466%.

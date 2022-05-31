@@ -3781,3 +3781,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   23
 
 ---------------------------------------------------------------------------
+[2022-05-31 19:33:00] SOLD
+Random---Always has sold: Name: SCUSD
+Altname: SCUSD
+Wsname: SC/USD
+Base: Name = SC
+Altname = SC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 280
+Data about this tradable pair of assets:
+
+        Current:                    0.00556
+        Maximum:                    189.393939
+        Minimum:                    171.232877
+        Variance:                   0.09589
+        Mean:                       180.45361
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.76
+        Is ascending:               True
+        Current ascension duration: 13
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.26087
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      0.005519
+        Number of local maximums:   25
+        Average local minimum:      0.005578
+        Number of local minimums:   23
+Profit was 0.003597122302158251%.
+---------------------------------------------------------------------------

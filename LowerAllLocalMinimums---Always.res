@@ -226,3 +226,5 @@ LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was 0.000100010
 LowerAllLocalMinimums---Always has bought DAI for $0.99978
 [2022-05-31 19:26:51] SOLD
 LowerAllLocalMinimums---Always has sold DAI for $0.99978. Profit was -1.0002200484082735e-05%.
+[2022-05-31 19:33:00] BUY
+LowerAllLocalMinimums---Always has bought DAI for $0.99977
