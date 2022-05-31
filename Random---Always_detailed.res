@@ -1987,3 +1987,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   18
 
 ---------------------------------------------------------------------------
+[2022-05-31 13:08:32] SOLD
+Random---Always has sold: Name: OMGUSD
+Altname: OMGUSD
+Wsname: OMG/USD
+Base: Name = OMG
+Altname = OMG
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.5
+Data about this tradable pair of assets:
+
+        Current:                    2.703565
+        Maximum:                    0.423438
+        Minimum:                    0.352661
+        Variance:                   0.167149
+        Mean:                       0.384044
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.7
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.333333
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      2.601108
+        Number of local maximums:   20
+        Average local minimum:      2.609043
+        Number of local minimums:   18
+Profit was -0.0%.
+---------------------------------------------------------------------------

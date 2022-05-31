@@ -1363,3 +1363,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   16
 
 ---------------------------------------------------------------------------
+[2022-05-31 13:08:32] SOLD
+Random---Random has sold: Name: LDOUSD
+Altname: LDOUSD
+Wsname: LDO/USD
+Base: Name = LDO
+Altname = LDO
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.131
+        Maximum:                    0.981354
+        Minimum:                    0.787402
+        Variance:                   0.197638
+        Mean:                       0.872713
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.0
+        Is ascending:               True
+        Current ascension duration: 33
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.5
+        Is falling:                 True
+        Current fall duration:      22
+        Trending downwards:         False
+        Average local maximum:      1.151167
+        Number of local maximums:   24
+        Average local minimum:      1.133375
+        Number of local minimums:   16
+Profit was 0.007957559681697424%.
+---------------------------------------------------------------------------
