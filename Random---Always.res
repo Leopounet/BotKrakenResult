@@ -124,3 +124,5 @@ Random---Always has bought OXT for $0.13393
 Random---Always has sold OXT for $0.13393. Profit was -0.008063913984917459%.
 [2022-05-31 14:14:05] BUY
 Random---Always has bought LINK for $7.22387
+[2022-05-31 14:20:02] SOLD
+Random---Always has sold LINK for $7.22387. Profit was 0.011558901253760023%.
