@@ -3079,3 +3079,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   31
 
 ---------------------------------------------------------------------------
+[2022-05-31 18:38:48] SOLD
+LowerAllLocalMinimums---Random has sold: Name: USTUSD
+Altname: USTUSD
+Wsname: UST/USD
+Base: Name = UST
+Altname = UST
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 100
+Data about this tradable pair of assets:
+
+        Current:                    0.0212
+        Maximum:                    50.301811
+        Minimum:                    29.282577
+        Variance:                   0.417862
+        Mean:                       39.97453
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.875
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.322581
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.025336
+        Number of local maximums:   24
+        Average local minimum:      0.02513
+        Number of local minimums:   31
+Profit was -0.022169811320754795%.
+---------------------------------------------------------------------------
