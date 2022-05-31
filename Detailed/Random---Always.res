@@ -118,3 +118,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-05-31 22:04:35] SOLD
+Random---Always has sold: Name: XZECZUSD
+Altname: ZECUSD
+Wsname: ZEC/USD
+Base: Name = XZEC
+Altname = ZEC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.035
+Data about this tradable pair of assets:
+
+        Current:                    92.9
+        Maximum:                    0.011579
+        Minimum:                    0.01001
+        Variance:                   0.135536
+        Mean:                       0.010724
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.428571
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.705882
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      93.44381
+        Number of local maximums:   21
+        Average local minimum:      92.187059
+        Number of local minimums:   17
+True
+Profit was 0.0030139935414423835%.
+---------------------------------------------------------------------------

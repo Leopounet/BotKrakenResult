@@ -1,4 +1,4 @@
-[2022-05-31 22:01:21] SUMMARY
+[2022-05-31 22:04:35] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,21 +51,11 @@ Random.
 Random.
 {}
 {}
-None
-0
-1
-0.0
-Best score: 
-Variance---Always
-Looks for the asset which has the highest Variance.
-Always sells.
-{}
-{}
-Name: ACHUSD
-Altname: ACHUSD
-Wsname: ACH/USD
-Base: Name = ACH
-Altname = ACH
+Name: XMLNZUSD
+Altname: MLNUSD
+Wsname: MLN/USD
+Base: Name = XMLN
+Altname = MLN
 decimals = 10
 displayed_decimals = 5
 Quote: Name = ZUSD
@@ -73,32 +63,42 @@ Altname = USD
 decimals = 4
 displayed_decimals = 2
 Fee: 0.26
-Min order: 250
+Min order: 0.15
 Data about this tradable pair of assets:
 
-        Current:                    0.01787
-        Maximum:                    59.665871
-        Minimum:                    11.764706
-        Variance:                   0.802824
-        Mean:                       51.025038
+        Current:                    28.524
+        Maximum:                    0.037019
+        Minimum:                    0.032491
+        Variance:                   0.122328
+        Mean:                       0.035341
         Longest ascension:          3
         Shortest ascension:         3
-        Average ascension:          1.5
-        Is ascending:               False
-        Current ascension duration: 2
-        Trending upwards:           False
+        Average ascension:          3.625
+        Is ascending:               True
+        Current ascension duration: 7
+        Trending upwards:           True
         Longest fall:               3
         Shortest fall:              3
-        Average fall:               6.0
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         True
-        Average local maximum:      0.03487
-        Number of local maximums:   4
-        Average local minimum:      0.051935
-        Number of local minimums:   2
+        Average fall:               2.482759
+        Is falling:                 True
+        Current fall duration:      16
+        Trending downwards:         False
+        Average local maximum:      28.403292
+        Number of local maximums:   24
+        Average local minimum:      28.282069
+        Number of local minimums:   29
 True
 0
 1
--0.005804749340369564
+0.0
+Best score: 
+Variance Lower All Local Minimums---Random
+Looks for the asset for which the current price is lower than all previous local minimums.
+Random.
+{}
+{}
+None
+0
+1
+-0.006146821215314402
 ---------------------------------------------------------------------------
