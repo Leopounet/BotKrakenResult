@@ -44,3 +44,5 @@ Random---Random has bought MASK for $1.999
 Random---Random has sold MASK for $1.999. Profit was -0.0%.
 [2022-05-31 03:53:24] BUY
 Random---Random has bought USDT for $0.9992
+[2022-05-31 04:46:45] SOLD
+Random---Random has sold USDT for $0.9992. Profit was -0.0%.
