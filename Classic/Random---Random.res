@@ -12,3 +12,5 @@ Random---Random has bought SHIB for $1.173e-05
 Random---Random has sold SHIB for $1.173e-05. Profit was -0.0%.
 [2022-05-31 22:18:02] BUY
 Random---Random has bought AIR for $0.0256
+[2022-05-31 22:30:47] SOLD
+Random---Random has sold AIR for $0.0256. Profit was -0.0%.

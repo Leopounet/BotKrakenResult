@@ -438,3 +438,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-05-31 22:30:47] SOLD
+Random---Always has sold: Name: JASMYUSD
+Altname: JASMYUSD
+Wsname: JASMY/USD
+Base: Name = JASMY
+Altname = JASMY
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 100
+Data about this tradable pair of assets:
+
+        Current:                    0.01327
+        Maximum:                    85.106383
+        Minimum:                    71.174377
+        Variance:                   0.163701
+        Mean:                       78.415426
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.125
+        Is ascending:               True
+        Current ascension duration: 11
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.235294
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         False
+        Average local maximum:      0.012846
+        Number of local maximums:   24
+        Average local minimum:      0.012952
+        Number of local minimums:   17
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

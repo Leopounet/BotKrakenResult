@@ -278,3 +278,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-05-31 22:30:47] SOLD
+Random---Random has sold: Name: AIRUSD
+Altname: AIRUSD
+Wsname: AIR/USD
+Base: Name = AIR
+Altname = AIR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 250
+Data about this tradable pair of assets:
+
+        Current:                    0.0256
+        Maximum:                    41.407867
+        Minimum:                    36.764706
+        Variance:                   0.112132
+        Mean:                       38.212832
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.875
+        Is ascending:               True
+        Current ascension duration: 17
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.130435
+        Is falling:                 True
+        Current fall duration:      20
+        Trending downwards:         False
+        Average local maximum:      0.026003
+        Number of local maximums:   24
+        Average local minimum:      0.026385
+        Number of local minimums:   23
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

@@ -20,3 +20,5 @@ Random---Always has bought NANO for $1.182794
 Random---Always has sold NANO for $1.182794. Profit was -0.0%.
 [2022-05-31 22:27:47] BUY
 Random---Always has bought JASMY for $0.01327
+[2022-05-31 22:30:47] SOLD
+Random---Always has sold JASMY for $0.01327. Profit was -0.0%.
