@@ -74,3 +74,5 @@ Random---Random has sold LDO for $1.131. Profit was 0.007957559681697424%.
 Random---Random has bought GRT for $0.15491
 [2022-05-31 13:50:17] SOLD
 Random---Random has sold GRT for $0.15491. Profit was -0.024917694144987457%.
+[2022-05-31 13:56:13] BUY
+Random---Random has bought GMT for $1.135

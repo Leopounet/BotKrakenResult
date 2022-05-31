@@ -86,3 +86,5 @@ LowerAllLocalMinimums---Random has sold PAXG for $1847.24. Profit was 0.00319936
 LowerAllLocalMinimums---Random has bought UST for $0.02147
 [2022-05-31 13:50:17] SOLD
 LowerAllLocalMinimums---Random has sold UST for $0.02147. Profit was -0.0%.
+[2022-05-31 13:56:13] BUY
+LowerAllLocalMinimums---Random has bought ZUSD for $1.26451
