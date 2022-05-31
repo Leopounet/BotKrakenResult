@@ -114,3 +114,5 @@ LowerAllLocalMinimums---Always has sold PAXG for $1847.24. Profit was 0.00372988
 LowerAllLocalMinimums---Always has bought UST for $0.0213
 [2022-05-31 13:44:20] SOLD
 LowerAllLocalMinimums---Always has sold UST for $0.0213. Profit was 0.00798122065727691%.
+[2022-05-31 13:50:17] BUY
+LowerAllLocalMinimums---Always has bought UST for $0.02147

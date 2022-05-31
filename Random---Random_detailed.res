@@ -1441,3 +1441,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   19
 
 ---------------------------------------------------------------------------
+[2022-05-31 13:50:17] SOLD
+Random---Random has sold: Name: GRTUSD
+Altname: GRTUSD
+Wsname: GRT/USD
+Base: Name = GRT
+Altname = GRT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 25
+Data about this tradable pair of assets:
+
+        Current:                    0.15491
+        Maximum:                    7.48223
+        Minimum:                    6.25
+        Variance:                   0.164688
+        Mean:                       6.807039
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.714286
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.315789
+        Is falling:                 True
+        Current fall duration:      3
+        Trending downwards:         False
+        Average local maximum:      0.146249
+        Number of local maximums:   21
+        Average local minimum:      0.148275
+        Number of local minimums:   19
+Profit was -0.024917694144987457%.
+---------------------------------------------------------------------------
