@@ -16,3 +16,5 @@ Random---Random has bought TRIBE for $0.2695
 Random---Random has sold TRIBE for $0.2695. Profit was -0.0%.
 [2022-05-31 09:22:26] BUY
 Random---Random has bought KP3R for $143.8
+[2022-05-31 09:52:07] SOLD
+Random---Random has sold KP3R for $143.8. Profit was -0.02016689847009745%.
