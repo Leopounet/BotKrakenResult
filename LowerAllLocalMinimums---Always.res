@@ -174,3 +174,5 @@ LowerAllLocalMinimums---Always has sold DAI for $0.99978. Profit was -5.00110024
 LowerAllLocalMinimums---Always has bought ZUSD for $1.2633
 [2022-05-31 16:49:43] SOLD
 LowerAllLocalMinimums---Always has sold ZUSD for $1.2633. Profit was 0.0006886725243409053%.
+[2022-05-31 16:55:41] BUY
+LowerAllLocalMinimums---Always has bought DAI for $0.99979
