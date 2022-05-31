@@ -26,3 +26,5 @@ Random---Always has sold JASMY for $0.01327. Profit was -0.0%.
 Random---Always has bought LPT for $12.85
 [2022-05-31 22:36:49] SOLD
 Random---Always has sold LPT for $12.85. Profit was -0.0%.
+[2022-05-31 22:39:54] BUY
+Random---Always has bought MKR for $1315.4
