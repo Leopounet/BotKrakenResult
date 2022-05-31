@@ -68,3 +68,5 @@ Random---Always has bought FIL for $8.155
 Random---Always has sold FIL for $8.155. Profit was -0.0%.
 [2022-05-31 11:27:18] BUY
 Random---Always has bought MOVR for $23.1904
+[2022-05-31 11:33:16] SOLD
+Random---Always has sold MOVR for $23.1904. Profit was -0.0%.

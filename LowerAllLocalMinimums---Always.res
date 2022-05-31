@@ -68,3 +68,5 @@ LowerAllLocalMinimums---Always has bought UST for $0.0214
 LowerAllLocalMinimums---Always has sold UST for $0.0214. Profit was 0.014018691588785215%.
 [2022-05-31 11:27:18] BUY
 LowerAllLocalMinimums---Always has bought USDC for $0.9999
+[2022-05-31 11:33:16] SOLD
+LowerAllLocalMinimums---Always has sold USDC for $0.9999. Profit was 0.00010001000100001711%.
