@@ -114,3 +114,5 @@ LowerAllLocalMinimums---Random has sold UST for $0.02089. Profit was -0.01579703
 LowerAllLocalMinimums---Random has bought USDC for $0.9999
 [2022-05-31 15:49:44] SOLD
 LowerAllLocalMinimums---Random has sold USDC for $0.9999. Profit was 0.00010001000100001711%.
+[2022-05-31 15:55:43] BUY
+LowerAllLocalMinimums---Random has bought ZUSD for $1.26403
