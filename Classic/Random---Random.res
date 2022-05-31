@@ -20,3 +20,5 @@ Random---Random has bought RARE for $0.2667
 Random---Random has sold RARE for $0.2667. Profit was -0.0%.
 [2022-05-31 22:39:54] BUY
 Random---Random has bought NANO for $1.183778
+[2022-05-31 22:42:56] SOLD
+Random---Random has sold NANO for $1.183778. Profit was -0.0%.
