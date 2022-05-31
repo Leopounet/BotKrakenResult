@@ -84,3 +84,5 @@ Random---Always has bought SAMO for $0.005721
 Random---Always has sold SAMO for $0.005721. Profit was -0.0%.
 [2022-05-31 04:05:17] BUY
 Random---Always has bought PERP for $1.302
+[2022-05-31 04:11:11] SOLD
+Random---Always has sold PERP for $1.302. Profit was 0.004608294930875667%.
