@@ -176,3 +176,5 @@ Random---Always has bought XETH for $1961.6
 Random---Always has sold XETH for $1961.6. Profit was -0.0016262234910275897%.
 [2022-05-31 18:38:48] BUY
 Random---Always has bought KIN for $1.406e-05
+[2022-05-31 18:44:48] SOLD
+Random---Always has sold KIN for $1.406e-05. Profit was -0.006401137980085236%.
