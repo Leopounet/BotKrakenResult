@@ -118,3 +118,5 @@ Random---Always has sold YGG for $0.717. Profit was -0.0%.
 Random---Always has bought NYM for $0.4253
 [2022-05-31 13:56:13] SOLD
 Random---Always has sold NYM for $0.4253. Profit was -0.0%.
+[2022-05-31 14:02:10] BUY
+Random---Always has bought OXT for $0.13393
