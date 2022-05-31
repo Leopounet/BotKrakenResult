@@ -2182,3 +2182,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   30
 Profit was 0.003729888915354751%.
 ---------------------------------------------------------------------------
+[2022-05-31 13:38:22] BUY
+LowerAllLocalMinimums---Always has bought: Name: USTUSD
+Altname: USTUSD
+Wsname: UST/USD
+Base: Name = UST
+Altname = UST
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 100
+Data about this tradable pair of assets:
+
+        Current:                    0.0213
+        Maximum:                    47.281324
+        Minimum:                    29.282577
+        Variance:                   0.380673
+        Mean:                       39.475237
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.25
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.117647
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.025558
+        Number of local maximums:   24
+        Average local minimum:      0.024989
+        Number of local minimums:   34
+
+---------------------------------------------------------------------------
