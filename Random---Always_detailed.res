@@ -193,3 +193,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   20
 
 ---------------------------------------------------------------------------
+[2022-05-31 00:23:58] SOLD
+Random---Always has sold: Name: XXBTZUSD
+Altname: XBTUSD
+Wsname: XBT/USD
+Base: Name = XXBT
+Altname = XBT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.0001
+Data about this tradable pair of assets:
+
+        Current:                    31632.6
+        Maximum:                    3.5e-05
+        Minimum:                    3.1e-05
+        Variance:                   0.096724
+        Mean:                       3.4e-05
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.608696
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.45
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      29788.286957
+        Number of local maximums:   23
+        Average local minimum:      30057.23
+        Number of local minimums:   20
+Profit was -6.006461688246034e-05%.
+---------------------------------------------------------------------------
