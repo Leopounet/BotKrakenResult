@@ -70,3 +70,5 @@ Variance---Random has sold LUNA2 for $9.7087. Profit was 0.004202416389423869%.
 Variance---Random has bought WAVES for $9.6008
 [2022-05-31 03:53:24] SOLD
 Variance---Random has sold WAVES for $9.6008. Profit was -0.010676193650529076%.
+[2022-05-31 03:59:21] BUY
+Variance---Random has bought WAVES for $9.505

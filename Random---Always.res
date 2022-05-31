@@ -80,3 +80,5 @@ Random---Always has bought BAL for $7.93
 Random---Always has sold BAL for $7.93. Profit was -0.0%.
 [2022-05-31 03:53:24] BUY
 Random---Always has bought SAMO for $0.005721
+[2022-05-31 03:59:21] SOLD
+Random---Always has sold SAMO for $0.005721. Profit was -0.0%.
