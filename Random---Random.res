@@ -106,3 +106,5 @@ Random---Random has sold SBR for $0.01058. Profit was -0.0%.
 Random---Random has bought PSTAKE for $0.2571
 [2022-05-31 18:26:34] SOLD
 Random---Random has sold PSTAKE for $0.2571. Profit was -0.0%.
+[2022-05-31 18:32:42] BUY
+Random---Random has bought QTUM for $4.12197

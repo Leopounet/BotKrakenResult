@@ -172,3 +172,5 @@ Random---Always has bought PERP for $1.404
 Random---Always has sold PERP for $1.404. Profit was -0.004273504273504258%.
 [2022-05-31 18:26:34] BUY
 Random---Always has bought XETH for $1961.6
+[2022-05-31 18:32:42] SOLD
+Random---Always has sold XETH for $1961.6. Profit was -0.0016262234910275897%.
