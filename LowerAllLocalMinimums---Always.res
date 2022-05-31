@@ -36,3 +36,5 @@ LowerAllLocalMinimums---Always has bought ZGBP for $1.26211
 LowerAllLocalMinimums---Always has sold ZGBP for $1.26211. Profit was -0.0004912408585623362%.
 [2022-05-31 01:43:10] BUY
 LowerAllLocalMinimums---Always has bought ZGBP for $1.26194
+[2022-05-31 01:49:06] SOLD
+LowerAllLocalMinimums---Always has sold ZGBP for $1.26194. Profit was 0.001236191895018779%.
