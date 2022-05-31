@@ -84,3 +84,5 @@ Random---Random has bought SCRT for $1.647
 Random---Random has sold SCRT for $1.647. Profit was -0.0%.
 [2022-05-31 14:37:56] BUY
 Random---Random has bought QTUM for $4.03427
+[2022-05-31 16:25:40] SOLD
+Random---Random has sold QTUM for $4.03427. Profit was 0.01774794448561945%.

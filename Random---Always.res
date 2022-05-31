@@ -130,3 +130,5 @@ Random---Always has sold LINK for $7.22387. Profit was 0.011558901253760023%.
 Random---Always has bought BAND for $1.681
 [2022-05-31 14:37:56] SOLD
 Random---Always has sold BAND for $1.681. Profit was 0.006543723973825077%.
+[2022-05-31 16:25:40] BUY
+Random---Always has bought RARI for $3.51

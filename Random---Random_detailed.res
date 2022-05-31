@@ -1675,3 +1675,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   32
 
 ---------------------------------------------------------------------------
+[2022-05-31 16:25:40] SOLD
+Random---Random has sold: Name: QTUMUSD
+Altname: QTUMUSD
+Wsname: QTUM/USD
+Base: Name = QTUM
+Altname = QTUM
+decimals = 10
+displayed_decimals = 6
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.5
+Data about this tradable pair of assets:
+
+        Current:                    4.03427
+        Maximum:                    0.271323
+        Minimum:                    0.236072
+        Variance:                   0.129924
+        Mean:                       0.252557
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.823529
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.1875
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      3.97725
+        Number of local maximums:   34
+        Average local minimum:      4.007586
+        Number of local minimums:   32
+Profit was 0.01774794448561945%.
+---------------------------------------------------------------------------
