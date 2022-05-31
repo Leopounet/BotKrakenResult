@@ -8,3 +8,5 @@ Random---Always has sold GST for $1.186. Profit was -0.0%.
 Random---Always has bought PAXG for $1838.01
 [2022-05-31 21:23:24] SOLD
 Random---Always has sold PAXG for $1838.01. Profit was -0.0%.
+[2022-05-31 21:26:51] BUY
+Random---Always has bought TBTC for $30068.5
