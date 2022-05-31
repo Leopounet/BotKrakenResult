@@ -50,3 +50,5 @@ Random---Random has sold PERP for $1.283. Profit was -0.0%.
 Random---Random has bought MOVR for $23.2279
 [2022-05-31 11:51:05] SOLD
 Random---Random has sold MOVR for $23.2279. Profit was -0.0016101326422105489%.
+[2022-05-31 11:57:03] BUY
+Random---Random has bought ROOK for $43.93

@@ -1012,3 +1012,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   34
 Profit was -0.0016101326422105489%.
 ---------------------------------------------------------------------------
+[2022-05-31 11:57:03] BUY
+Random---Random has bought: Name: ROOKUSD
+Altname: ROOKUSD
+Wsname: ROOK/USD
+Base: Name = ROOK
+Altname = ROOK
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.05
+Data about this tradable pair of assets:
+
+        Current:                    43.93
+        Maximum:                    0.027778
+        Minimum:                    0.020416
+        Variance:                   0.265006
+        Mean:                       0.025117
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.181818
+        Is ascending:               True
+        Current ascension duration: 29
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.125
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      42.451818
+        Number of local maximums:   11
+        Average local minimum:      43.88875
+        Number of local minimums:   8
+
+---------------------------------------------------------------------------

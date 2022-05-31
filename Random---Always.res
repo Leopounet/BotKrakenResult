@@ -76,3 +76,5 @@ Random---Always has bought AVAX for $27.31
 Random---Always has sold AVAX for $27.31. Profit was -0.0007323324789454411%.
 [2022-05-31 11:51:05] BUY
 Random---Always has bought NANO for $1.253398
+[2022-05-31 11:57:03] SOLD
+Random---Always has sold NANO for $1.253398. Profit was -0.008570302489712023%.
