@@ -108,3 +108,5 @@ Random---Always has bought KINT for $4.07
 Random---Always has sold KINT for $4.07. Profit was -0.0%.
 [2022-05-31 13:26:22] BUY
 Random---Always has bought LDO for $1.14
+[2022-05-31 13:32:22] SOLD
+Random---Always has sold LDO for $1.14. Profit was -0.0%.
