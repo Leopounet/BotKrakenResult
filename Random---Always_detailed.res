@@ -1870,3 +1870,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   25
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-05-31 04:40:51] BUY
+Random---Always has bought: Name: STEPUSD
+Altname: STEPUSD
+Wsname: STEP/USD
+Base: Name = STEP
+Altname = STEP
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 15
+Data about this tradable pair of assets:
+
+        Current:                    0.096
+        Maximum:                    11.83432
+        Minimum:                    9.442871
+        Variance:                   0.202077
+        Mean:                       10.629379
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.636364
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.413793
+        Is falling:                 True
+        Current fall duration:      29
+        Trending downwards:         False
+        Average local maximum:      0.094806
+        Number of local maximums:   33
+        Average local minimum:      0.094903
+        Number of local minimums:   29
+
+---------------------------------------------------------------------------

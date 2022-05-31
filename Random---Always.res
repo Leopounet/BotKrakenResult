@@ -94,3 +94,5 @@ Random---Always has sold LSK for $1.306778. Profit was -0.0%.
 Random---Always has bought YGG for $0.728
 [2022-05-31 04:34:58] SOLD
 Random---Always has sold YGG for $0.728. Profit was -0.0%.
+[2022-05-31 04:40:51] BUY
+Random---Always has bought STEP for $0.096
