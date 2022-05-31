@@ -934,3 +934,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   37
 Profit was 0.005744449619624392%.
 ---------------------------------------------------------------------------
+[2022-05-31 02:18:40] BUY
+Random---Always has bought: Name: XXRPZUSD
+Altname: XRPUSD
+Wsname: XRP/USD
+Base: Name = XXRP
+Altname = XRP
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.41633
+        Maximum:                    2.633381
+        Minimum:                    2.367088
+        Variance:                   0.101122
+        Mean:                       2.548912
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.217391
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.058824
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         False
+        Average local maximum:      0.392733
+        Number of local maximums:   23
+        Average local minimum:      0.393671
+        Number of local minimums:   17
+
+---------------------------------------------------------------------------

@@ -46,3 +46,5 @@ Random---Always has sold LUNA for $0.00011904. Profit was -0.011760752688172005%
 Random---Always has bought COMP for $64.41
 [2022-05-31 02:12:44] SOLD
 Random---Always has sold COMP for $64.41. Profit was 0.005744449619624392%.
+[2022-05-31 02:18:40] BUY
+Random---Always has bought XXRP for $0.41633

@@ -28,3 +28,5 @@ LowerAllLocalMinimums---Random has bought USDC for $0.9999
 LowerAllLocalMinimums---Random has sold USDC for $0.9999. Profit was -0.0%.
 [2022-05-31 02:12:44] BUY
 LowerAllLocalMinimums---Random has bought PAXG for $1850.0
+[2022-05-31 02:18:40] SOLD
+LowerAllLocalMinimums---Random has sold PAXG for $1850.0. Profit was -0.0%.
