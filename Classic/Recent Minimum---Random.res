@@ -24,3 +24,5 @@ Recent Minimum---Random has bought MSOL for $49.91
 Recent Minimum---Random has sold MSOL for $49.91. Profit was -0.0%.
 [2022-05-31 22:54:45] BUY
 Recent Minimum---Random has bought MSOL for $49.91
+[2022-05-31 22:57:43] SOLD
+Recent Minimum---Random has sold MSOL for $49.91. Profit was -0.0%.

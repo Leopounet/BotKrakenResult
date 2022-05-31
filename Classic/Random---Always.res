@@ -38,3 +38,5 @@ Random---Always has sold BCH for $206.9. Profit was 0.004515220663203312%.
 Random---Always has bought AGLD for $0.5599
 [2022-05-31 22:54:45] SOLD
 Random---Always has sold AGLD for $0.5599. Profit was -0.0%.
+[2022-05-31 22:57:43] BUY
+Random---Always has bought CRV for $1.383

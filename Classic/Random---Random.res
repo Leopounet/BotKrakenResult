@@ -26,3 +26,5 @@ Random---Random has sold NANO for $1.183778. Profit was -0.0%.
 Random---Random has bought XLTC for $68.96
 [2022-05-31 22:54:45] SOLD
 Random---Random has sold XLTC for $69.02. Profit was 0.0008700696055685686%.
+[2022-05-31 22:57:43] BUY
+Random---Random has bought SAND for $1.462
