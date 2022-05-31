@@ -1792,3 +1792,42 @@ Data about this tradable pair of assets:
         Number of local minimums:   23
 Profit was -0.0012969944315707194%.
 ---------------------------------------------------------------------------
+[2022-05-31 12:38:39] BUY
+Random---Always has bought: Name: XTZUSD
+Altname: XTZUSD
+Wsname: XTZ/USD
+Base: Name = XTZ
+Altname = XTZ
+decimals = 8
+displayed_decimals = 6
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    2.0792
+        Maximum:                    0.522657
+        Minimum:                    0.455063
+        Variance:                   0.129329
+        Mean:                       0.485893
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.142857
+        Is ascending:               True
+        Current ascension duration: 5
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.2
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      2.078868
+        Number of local maximums:   28
+        Average local minimum:      2.05518
+        Number of local minimums:   20
+
+---------------------------------------------------------------------------

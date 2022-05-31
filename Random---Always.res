@@ -90,3 +90,5 @@ Random---Always has sold ENJ for $0.702. Profit was -0.0%.
 Random---Always has bought ADA for $0.636086
 [2022-05-31 12:32:42] SOLD
 Random---Always has sold ADA for $0.636086. Profit was -0.0012969944315707194%.
+[2022-05-31 12:38:39] BUY
+Random---Always has bought XTZ for $2.0792
