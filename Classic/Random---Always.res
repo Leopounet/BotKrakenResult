@@ -270,3 +270,5 @@ Random---Always has sold ORCA for $0.84. Profit was -0.0%.
 Random---Always has bought ATLAS for $0.00895
 [2022-06-01 04:44:15] SOLD
 Random---Always has sold ATLAS for $0.00895. Profit was -0.0%.
+[2022-06-01 04:47:19] BUY
+Random---Always has bought CFG for $0.2707

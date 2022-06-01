@@ -194,3 +194,5 @@ Random---Random has sold XMLN for $28.369. Profit was -0.0%.
 Random---Random has bought ANKR for $0.03936
 [2022-06-01 04:44:15] SOLD
 Random---Random has sold ANKR for $0.03947. Profit was 0.0027947154471543723%.
+[2022-06-01 04:47:19] BUY
+Random---Random has bought AUDIO for $0.4625
