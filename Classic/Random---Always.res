@@ -18,3 +18,5 @@ Random---Always has sold IMX for $1.074. Profit was -0.0%.
 Random---Always has bought RLC for $0.9884
 [2022-06-01 12:40:09] SOLD
 Random---Always has sold RLC for $0.9884. Profit was -0.0%.
+[2022-06-01 12:43:11] BUY
+Random---Always has bought GARI for $0.6475

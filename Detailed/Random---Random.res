@@ -250,3 +250,45 @@ Data about this pair of assets (ATOMUSD):
 Is init: True
 Profit was 0.6387853370611873%.
 ---------------------------------------------------------------------------
+[2022-06-01 12:43:11] BUY
+Random---Random has bought: 
+Name: SDNUSD
+Altname: SDNUSD
+Wsname: SDN/USD
+Base:
+ 	Name: SDN
+	Altname: SDN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (SDNUSD):
+	Current:                    0.413
+	Maximum:                    2.724796
+	Minimum:                    2.202643
+	Variance:                   0.19163
+	Mean:                       2.413621
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         False
+	Average local maximum:      0.41105
+	Number of local maximums:   20
+	Average local minimum:      0.4171
+	Number of local minimums:   20
+Is init: True
+
+---------------------------------------------------------------------------
