@@ -46,3 +46,7 @@ Random---Always now has $9742.689975720059
 Random---Always has sold SUPER for $0.2234. Profit was -0.52%.
 Random---Always now has $9692.027987846315
 ---------------------------------------------------------------------------
+[2022-06-01 14:17:11] BUY
+Random---Always has bought ZUSD for $1.26314
+Random---Always now has $9692.027987846315
+---------------------------------------------------------------------------
