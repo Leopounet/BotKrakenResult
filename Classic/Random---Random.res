@@ -372,3 +372,5 @@ Random---Random has bought OCEAN for $0.2325
 Random---Random has sold OCEAN for $0.2325. Profit was -0.0%.
 [2022-06-01 11:27:02] BUY
 Random---Random has bought XZEC for $93.09
+[2022-06-01 11:39:09] SOLD
+Random---Random has sold XZEC for $93.28. Profit was 0.002041035556987758%.
