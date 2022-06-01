@@ -10838,3 +10838,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 11:51:23] SOLD
+Random---Always has sold: Name: MSOLUSD
+Altname: MSOLUSD
+Wsname: MSOL/USD
+Base: Name = MSOL
+Altname = MSOL
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.02
+Data about this tradable pair of assets:
+
+        Current:                    46.56
+        Maximum:                    0.021739
+        Minimum:                    0.015667
+        Variance:                   0.279336
+        Mean:                       0.019801
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.833333
+        Is ascending:               True
+        Current ascension duration: 12
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.909091
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      48.928889
+        Number of local maximums:   18
+        Average local minimum:      50.674545
+        Number of local minimums:   11
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

@@ -7558,3 +7558,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 11:51:23] SOLD
+Random---Random has sold: Name: SOLUSD
+Altname: SOLUSD
+Wsname: SOL/USD
+Base: Name = SOL
+Altname = SOL
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.02
+Data about this tradable pair of assets:
+
+        Current:                    44.27
+        Maximum:                    0.022589
+        Minimum:                    0.020803
+        Variance:                   0.079051
+        Mean:                       0.021749
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.555556
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.521739
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      45.808519
+        Number of local maximums:   27
+        Average local minimum:      46.188696
+        Number of local minimums:   23
+True
+Profit was 0.002484752654167588%.
+---------------------------------------------------------------------------

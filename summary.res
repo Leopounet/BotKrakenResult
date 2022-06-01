@@ -1,4 +1,4 @@
-[2022-06-01 11:48:09] SUMMARY
+[2022-06-01 11:51:23] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,90 +51,18 @@ Random.
 Random.
 {}
 {}
-Name: SOLUSD
-Altname: SOLUSD
-Wsname: SOL/USD
-Base: Name = SOL
-Altname = SOL
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 0.02
-Data about this tradable pair of assets:
-
-        Current:                    44.27
-        Maximum:                    0.022589
-        Minimum:                    0.020803
-        Variance:                   0.079051
-        Mean:                       0.021749
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          2.555556
-        Is ascending:               False
-        Current ascension duration: 2
-        Trending upwards:           False
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               3.521739
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         True
-        Average local maximum:      45.808519
-        Number of local maximums:   27
-        Average local minimum:      46.188696
-        Number of local minimums:   23
-True
+None
 0
-94
-0.07178232609103585
+95
+0.07426707874520344
 Best score: 
 Recent Minimum---Random
 Looks for the asset which is closer to its previous local minimum.
 Random.
 {}
 {}
-Name: TBTCUSD
-Altname: TBTCUSD
-Wsname: TBTC/USD
-Base: Name = TBTC
-Altname = TBTC
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 0.0001
-Data about this tradable pair of assets:
-
-        Current:                    33899.8
-        Maximum:                    3.3e-05
-        Minimum:                    2.9e-05
-        Variance:                   0.113305
-        Mean:                       3.3e-05
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          4.0
-        Is ascending:               True
-        Current ascension duration: 13
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.25
-        Is falling:                 True
-        Current fall duration:      210
-        Trending downwards:         False
-        Average local maximum:      30204.066667
-        Number of local maximums:   3
-        Average local minimum:      31395.825
-        Number of local minimums:   4
-True
+None
 0
-95
+96
 -0.1929261336990138
 ---------------------------------------------------------------------------
