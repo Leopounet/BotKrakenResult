@@ -3180,3 +3180,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $8596.250490000244
 ---------------------------------------------------------------------------
+[2022-06-01 19:32:07] BUY
+Random---Random has bought: 
+Name: BNCUSD
+Altname: BNCUSD
+Wsname: BNC/USD
+Base:
+ 	Name: BNC
+	Altname: BNC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (BNCUSD):
+	Current:                    0.343
+	Maximum:                    3.205128
+	Minimum:                    2.277904
+	Variance:                   0.289294
+	Mean:                       2.76651
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.909091
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.09375
+	Is falling:                 True
+	Current fall duration:      22
+	Trending downwards:         False
+	Average local maximum:      0.364788
+	Number of local maximums:   33
+	Average local minimum:      0.378469
+	Number of local minimums:   32
+Is init: True
+
+Random---Random now has $8596.250490000244
+---------------------------------------------------------------------------
