@@ -182,3 +182,7 @@ Random---Random now has $9216.70226709374
 Random---Random has sold ZEUR for $1.06406. Profit was -0.4%.
 Random---Random now has $9179.835458025365
 ---------------------------------------------------------------------------
+[2022-06-01 16:56:06] BUY
+Random---Random has bought MINA for $0.89
+Random---Random now has $9179.835458025365
+---------------------------------------------------------------------------
