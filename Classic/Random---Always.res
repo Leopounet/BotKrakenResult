@@ -92,3 +92,5 @@ Random---Always has bought FXS for $7.566
 Random---Always has sold FXS for $7.566. Profit was -0.0%.
 [2022-06-01 00:17:20] BUY
 Random---Always has bought KEEP for $0.22865
+[2022-06-01 00:20:16] SOLD
+Random---Always has sold KEEP for $0.22947. Profit was 0.0035862672206430357%.
