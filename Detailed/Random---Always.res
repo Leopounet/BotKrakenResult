@@ -8518,3 +8518,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 08:50:13] SOLD
+Random---Always has sold: Name: XETHZUSD
+Altname: ETHUSD
+Wsname: ETH/USD
+Base: Name = XETH
+Altname = ETH
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.001
+Data about this tradable pair of assets:
+
+        Current:                    1932.81
+        Maximum:                    0.000558
+        Minimum:                    0.000498
+        Variance:                   0.107069
+        Mean:                       0.000519
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.678571
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.36
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      1933.568929
+        Number of local maximums:   28
+        Average local minimum:      1922.9832
+        Number of local minimums:   25
+True
+Profit was 9.312865724009356e-05%.
+---------------------------------------------------------------------------

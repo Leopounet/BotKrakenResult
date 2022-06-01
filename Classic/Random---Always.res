@@ -424,3 +424,5 @@ Random---Always has bought ICX for $0.4057
 Random---Always has sold ICX for $0.4057. Profit was -0.0%.
 [2022-06-01 08:47:10] BUY
 Random---Always has bought XETH for $1932.81
+[2022-06-01 08:50:13] SOLD
+Random---Always has sold XETH for $1932.99. Profit was 9.312865724009356e-05%.
