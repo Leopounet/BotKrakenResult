@@ -196,3 +196,5 @@ Recent Minimum---Always has bought ATLAS for $0.00902
 Recent Minimum---Always has sold ATLAS for $0.00902. Profit was -0.0%.
 [2022-06-01 02:50:39] BUY
 Recent Minimum---Always has bought ATLAS for $0.00902
+[2022-06-01 02:53:35] SOLD
+Recent Minimum---Always has sold ATLAS for $0.00902. Profit was -0.0%.
