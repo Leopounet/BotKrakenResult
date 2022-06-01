@@ -316,3 +316,5 @@ Random---Always has bought ASTR for $0.0646
 Random---Always has sold ASTR for $0.0646. Profit was -0.0%.
 [2022-06-01 05:55:20] BUY
 Random---Always has bought GMT for $1.158
+[2022-06-01 05:58:31] SOLD
+Random---Always has sold GMT for $1.158. Profit was -0.0%.
