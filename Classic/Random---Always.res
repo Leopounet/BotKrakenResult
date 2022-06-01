@@ -506,3 +506,5 @@ Random---Always has sold ENJ for $0.679. Profit was -0.0%.
 Random---Always has bought ALICE for $3.069
 [2022-06-01 10:56:08] SOLD
 Random---Always has sold ALICE for $3.069. Profit was -0.0%.
+[2022-06-01 10:59:20] BUY
+Random---Always has bought NMR for $12.74

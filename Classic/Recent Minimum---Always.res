@@ -506,3 +506,5 @@ Recent Minimum---Always has sold LUNA2 for $7.19167. Profit was -0.0049533239155
 Recent Minimum---Always has bought LUNA2 for $7.17564
 [2022-06-01 10:56:08] SOLD
 Recent Minimum---Always has sold LUNA2 for $7.2196. Profit was 0.006126282812404238%.
+[2022-06-01 10:59:20] BUY
+Recent Minimum---Always has bought TBTC for $33899.8
