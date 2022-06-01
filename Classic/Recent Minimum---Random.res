@@ -114,3 +114,5 @@ Recent Minimum---Random has sold LPT for $12.9. Profit was -0.0%.
 Recent Minimum---Random has bought ATLAS for $0.00902
 [2022-06-01 02:21:14] SOLD
 Recent Minimum---Random has sold ATLAS for $0.00902. Profit was -0.0%.
+[2022-06-01 02:24:12] BUY
+Recent Minimum---Random has bought ATLAS for $0.00902
