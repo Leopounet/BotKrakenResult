@@ -4198,3 +4198,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 05:17:23] SOLD
+Random---Random has sold: Name: ORCAUSD
+Altname: ORCAUSD
+Wsname: ORCA/USD
+Base: Name = ORCA
+Altname = ORCA
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.84
+        Maximum:                    1.231527
+        Minimum:                    1.017294
+        Variance:                   0.173957
+        Mean:                       1.121893
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.75
+        Is ascending:               True
+        Current ascension duration: 93
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.4
+        Is falling:                 True
+        Current fall duration:      42
+        Trending downwards:         False
+        Average local maximum:      0.867875
+        Number of local maximums:   8
+        Average local minimum:      0.9187
+        Number of local minimums:   10
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
