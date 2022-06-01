@@ -3078,3 +3078,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 01:48:56] SOLD
+Random---Always has sold: Name: ZUSDZCAD
+Altname: USDCAD
+Wsname: USD/CAD
+Base: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Quote: Name = ZCAD
+Altname = CAD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    1.26458
+        Maximum:                    0.791634
+        Minimum:                    0.785781
+        Variance:                   0.007394
+        Mean:                       0.789045
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.206897
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.806452
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         True
+        Average local maximum:      1.267194
+        Number of local maximums:   29
+        Average local minimum:      1.267214
+        Number of local minimums:   31
+True
+Profit was -7.907763842629478e-06%.
+---------------------------------------------------------------------------
