@@ -216,3 +216,5 @@ Random---Random has bought TBTC for $30068.5
 Random---Random has sold TBTC for $30068.5. Profit was -0.0%.
 [2022-06-01 05:26:45] BUY
 Random---Random has bought MOVR for $22.7693
+[2022-06-01 05:29:45] SOLD
+Random---Random has sold MOVR for $22.6582. Profit was -0.004879377055948209%.

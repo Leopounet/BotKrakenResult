@@ -1,4 +1,4 @@
-[2022-06-01 05:26:45] SUMMARY
+[2022-06-01 05:29:45] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,46 +51,10 @@ Random.
 Random.
 {}
 {}
-Name: MOVRUSD
-Altname: MOVRUSD
-Wsname: MOVR/USD
-Base: Name = MOVR
-Altname = MOVR
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 0.2
-Data about this tradable pair of assets:
-
-        Current:                    22.7693
-        Maximum:                    0.046184
-        Minimum:                    0.04192
-        Variance:                   0.092337
-        Mean:                       0.043943
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          2.806452
-        Is ascending:               False
-        Current ascension duration: 2
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               3.206897
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         False
-        Average local maximum:      22.871032
-        Number of local maximums:   31
-        Average local minimum:      22.782476
-        Number of local minimums:   29
-True
+None
 0
-54
-0.07293360616735511
+55
+0.0680542291114069
 Best score: 
 Recent Minimum---Random
 Looks for the asset which is closer to its previous local minimum.
