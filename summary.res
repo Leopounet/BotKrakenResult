@@ -1,4 +1,4 @@
-[2022-06-01 19:47:30] SUMMARY
+[2022-06-01 19:50:38] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BALUSD
-	Altname: BALUSD
-	Wsname: BAL/USD
-	Base:
-	 	Name: BAL
-		Altname: BAL
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.15
-	Data about this pair of assets (BALUSD):
-		Current:                    6.83
-		Maximum:                    0.147275
-		Minimum:                    0.125471
-		Variance:                   0.148055
-		Mean:                       0.134169
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.15625
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.173913
-		Is falling:                 True
-		Current fall duration:      7
-		Trending downwards:         True
-		Average local maximum:      7.455
-		Number of local maximums:   32
-		Average local minimum:      7.518261
-		Number of local minimums:   23
-	Is init: True
+	None
 Wins: 0
-Losses: 58
-Total points: -35.31425550096807%
-Wallet: 7014.329032359465
+Losses: 59
+Total points: -35.83425550096808%
+Wallet: 6977.854521391196
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CTSIUSD
-	Altname: CTSIUSD
-	Wsname: CTSI/USD
-	Base:
-	 	Name: CTSI
-		Altname: CTSI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (CTSIUSD):
-		Current:                    0.1903
-		Maximum:                    5.555556
-		Minimum:                    4.570384
-		Variance:                   0.177331
-		Mean:                       4.970644
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.333333
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.7
-		Is falling:                 True
-		Current fall duration:      7
-		Trending downwards:         True
-		Average local maximum:      0.199969
-		Number of local maximums:   36
-		Average local minimum:      0.20265
-		Number of local minimums:   40
-	Is init: True
+	None
 Wins: 6
-Losses: 52
-Total points: -29.714246699668557%
-Wallet: 7387.846443615052
+Losses: 53
+Total points: -30.234246699668557%
+Wallet: 7349.429642108254
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
