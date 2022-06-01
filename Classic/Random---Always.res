@@ -538,3 +538,5 @@ Random---Always has sold XZEC for $93.28. Profit was 0.002041035556987758%.
 Random---Always has bought MASK for $1.99
 [2022-06-01 11:45:08] SOLD
 Random---Always has sold MASK for $1.99. Profit was -0.0%.
+[2022-06-01 11:48:08] BUY
+Random---Always has bought MSOL for $46.56
