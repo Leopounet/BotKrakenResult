@@ -2062,3 +2062,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $8677.52503427057
 ---------------------------------------------------------------------------
+[2022-06-01 16:08:26] BUY
+Random---Always has bought: 
+Name: OXYUSD
+Altname: OXYUSD
+Wsname: OXY/USD
+Base:
+ 	Name: OXY
+	Altname: OXY
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (OXYUSD):
+	Current:                    0.09
+	Maximum:                    11.402509
+	Minimum:                    10.559662
+	Variance:                   0.073918
+	Mean:                       10.918128
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.730769
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.2
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.091085
+	Number of local maximums:   26
+	Average local minimum:      0.091913
+	Number of local minimums:   15
+Is init: True
+
+Random---Always now has $8677.52503427057
+---------------------------------------------------------------------------

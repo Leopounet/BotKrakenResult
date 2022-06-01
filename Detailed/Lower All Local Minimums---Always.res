@@ -2062,3 +2062,46 @@ Is init: True
 Profit was -1.7791815320041944%.
 Lower All Local Minimums---Always now has $8289.046586602988
 ---------------------------------------------------------------------------
+[2022-06-01 16:08:26] BUY
+Lower All Local Minimums---Always has bought: 
+Name: CTSIUSD
+Altname: CTSIUSD
+Wsname: CTSI/USD
+Base:
+ 	Name: CTSI
+	Altname: CTSI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (CTSIUSD):
+	Current:                    0.1882
+	Maximum:                    5.313496
+	Minimum:                    4.570384
+	Variance:                   0.139854
+	Mean:                       4.941056
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.75
+	Is ascending:               True
+	Current ascension duration: 14
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.4
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.201709
+	Number of local maximums:   32
+	Average local minimum:      0.20312
+	Number of local minimums:   40
+Is init: True
+
+Lower All Local Minimums---Always now has $8289.046586602988
+---------------------------------------------------------------------------
