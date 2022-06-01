@@ -7638,3 +7638,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 07:40:58] SOLD
+Random---Always has sold: Name: LSKUSD
+Altname: LSKUSD
+Wsname: LSK/USD
+Base: Name = LSK
+Altname = LSK
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.344419
+        Maximum:                    0.823337
+        Minimum:                    0.732361
+        Variance:                   0.110496
+        Mean:                       0.770867
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.24
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.777778
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      1.304353
+        Number of local maximums:   25
+        Average local minimum:      1.299308
+        Number of local minimums:   27
+True
+Profit was -0.003198407639285028%.
+---------------------------------------------------------------------------
