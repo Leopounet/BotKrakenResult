@@ -1,4 +1,4 @@
-[2022-06-01 03:23:23] SUMMARY
+[2022-06-01 03:26:18] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: ACAUSD
+Altname: ACAUSD
+Wsname: ACA/USD
+Base: Name = ACA
+Altname = ACA
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.414
+        Maximum:                    2.808989
+        Minimum:                    2.227171
+        Variance:                   0.207127
+        Mean:                       2.451718
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.875
+        Is ascending:               True
+        Current ascension duration: 44
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.322581
+        Is falling:                 True
+        Current fall duration:      26
+        Trending downwards:         False
+        Average local maximum:      0.419708
+        Number of local maximums:   24
+        Average local minimum:      0.407613
+        Number of local minimums:   31
+True
 0
 40
 0.0803430542114365
@@ -61,44 +97,8 @@ Looks for the asset which is closer to its previous local minimum.
 Random.
 {}
 {}
-Name: ZEURZUSD
-Altname: EURUSD
-Wsname: EUR/USD
-Base: Name = ZEUR
-Altname = EUR
-decimals = 4
-displayed_decimals = 2
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.2
-Min order: 5
-Data about this tradable pair of assets:
-
-        Current:                    1.07182
-        Maximum:                    0.936312
-        Minimum:                    0.927076
-        Variance:                   0.009864
-        Mean:                       0.930813
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          3.15
-        Is ascending:               False
-        Current ascension duration: 1
-        Trending upwards:           False
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.857143
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         True
-        Average local maximum:      1.074808
-        Number of local maximums:   20
-        Average local minimum:      1.074982
-        Number of local minimums:   21
-True
+None
 0
-36
--0.06505593773256357
+37
+-0.0650372778829621
 ---------------------------------------------------------------------------

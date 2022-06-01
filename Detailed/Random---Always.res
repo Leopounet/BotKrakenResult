@@ -4398,3 +4398,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.002331002331002363%.
 ---------------------------------------------------------------------------
+[2022-06-01 03:26:18] BUY
+Random---Always has bought: Name: MKRUSD
+Altname: MKRUSD
+Wsname: MKR/USD
+Base: Name = MKR
+Altname = MKR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.002
+Data about this tradable pair of assets:
+
+        Current:                    1292.1
+        Maximum:                    0.00085
+        Minimum:                    0.000725
+        Variance:                   0.147528
+        Mean:                       0.000774
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.222222
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.793103
+        Is falling:                 False
+        Current fall duration:      2
+        Trending downwards:         False
+        Average local maximum:      1294.862963
+        Number of local maximums:   27
+        Average local minimum:      1289.889655
+        Number of local minimums:   29
+True
+
+---------------------------------------------------------------------------

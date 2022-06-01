@@ -144,3 +144,5 @@ Recent Minimum---Random has bought ZEUR for $1.0719
 Recent Minimum---Random has sold ZEUR for $1.07204. Profit was 0.00013060919861929143%.
 [2022-06-01 03:17:24] BUY
 Recent Minimum---Random has bought ZEUR for $1.07182
+[2022-06-01 03:26:18] SOLD
+Recent Minimum---Random has sold ZEUR for $1.07184. Profit was 1.8659849601476708e-05%.
