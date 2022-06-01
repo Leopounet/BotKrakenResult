@@ -5674,3 +5674,46 @@ Is init: True
 Profit was -0.26576872043674493%.
 Random---Random now has $7704.721880571322
 ---------------------------------------------------------------------------
+[2022-06-01 23:46:33] BUY
+Random---Random has bought: 
+Name: ZGBPZUSD
+Altname: GBPUSD
+Wsname: GBP/USD
+Base:
+ 	Name: ZGBP
+	Altname: GBP
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (ZGBPZUSD):
+	Current:                    1.24901
+	Maximum:                    0.802195
+	Minimum:                    0.789422
+	Variance:                   0.015923
+	Mean:                       0.793791
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.176471
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.833333
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.257432
+	Number of local maximums:   17
+	Average local minimum:      1.260095
+	Number of local minimums:   18
+Is init: True
+
+Random---Random now has $7704.721880571322
+---------------------------------------------------------------------------
