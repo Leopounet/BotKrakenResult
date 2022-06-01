@@ -360,3 +360,5 @@ Recent Minimum---Random has bought LUNA2 for $7.19167
 Recent Minimum---Random has sold LUNA2 for $7.2196. Profit was 0.0038836598453488858%.
 [2022-06-01 10:59:20] BUY
 Recent Minimum---Random has bought TBTC for $33899.8
+[2022-06-01 11:11:41] SOLD
+Recent Minimum---Random has sold TBTC for $33899.8. Profit was -0.0%.
