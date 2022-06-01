@@ -6749,3 +6749,46 @@ Is init: True
 
 Random---Always now has $6879.884287892834
 ---------------------------------------------------------------------------
+[2022-06-01 21:56:47] SOLD
+Random---Always has sold: 
+Name: SPELLUSD
+Altname: SPELLUSD
+Wsname: SPELL/USD
+Base:
+ 	Name: SPELL
+	Altname: SPELL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1000
+Data about this pair of assets (SPELLUSD):
+	Current:                    0.001218
+	Maximum:                    821.018062
+	Minimum:                    716.845878
+	Variance:                   0.126882
+	Mean:                       758.009623
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.225806
+	Is ascending:               True
+	Current ascension duration: 14
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.043478
+	Is falling:                 True
+	Current fall duration:      11
+	Trending downwards:         True
+	Average local maximum:      0.001312
+	Number of local maximums:   31
+	Average local minimum:      0.001322
+	Number of local minimums:   23
+Is init: True
+Profit was -0.52%.
+Random---Always now has $6844.108889595792
+---------------------------------------------------------------------------
