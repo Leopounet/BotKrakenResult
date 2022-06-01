@@ -6638,3 +6638,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.00042973785990541025%.
 ---------------------------------------------------------------------------
+[2022-06-01 09:46:33] BUY
+Random---Random has bought: Name: RNDRUSD
+Altname: RNDRUSD
+Wsname: RNDR/USD
+Base: Name = RNDR
+Altname = RNDR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 3
+Data about this tradable pair of assets:
+
+        Current:                    0.8302
+        Maximum:                    1.421262
+        Minimum:                    1.116196
+        Variance:                   0.214644
+        Mean:                       1.229538
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.571429
+        Is ascending:               True
+        Current ascension duration: 28
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.96875
+        Is falling:                 True
+        Current fall duration:      16
+        Trending downwards:         False
+        Average local maximum:      0.827214
+        Number of local maximums:   21
+        Average local minimum:      0.817062
+        Number of local minimums:   32
+True
+
+---------------------------------------------------------------------------

@@ -460,3 +460,5 @@ Random---Always has bought EOS for $1.3637
 Random---Always has sold EOS for $1.3635. Profit was -0.00014665982254158383%.
 [2022-06-01 09:43:25] BUY
 Random---Always has bought OXT for $0.13889
+[2022-06-01 09:46:33] SOLD
+Random---Always has sold OXT for $0.13889. Profit was -0.0%.
