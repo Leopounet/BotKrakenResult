@@ -528,3 +528,5 @@ Random---Always has bought MC for $1.052
 Random---Always has sold MC for $1.06. Profit was 0.0076045627376426506%.
 [2022-06-01 11:30:07] BUY
 Random---Always has bought XETC for $23.499
+[2022-06-01 11:33:06] SOLD
+Random---Always has sold XETC for $23.499. Profit was -0.0%.
