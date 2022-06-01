@@ -230,3 +230,5 @@ Random---Always has sold KAVA for $2.7209. Profit was 0.003985092801003454%.
 Random---Always has bought MNGO for $0.0566
 [2022-06-01 03:41:13] SOLD
 Random---Always has sold MNGO for $0.0566. Profit was -0.0%.
+[2022-06-01 03:44:10] BUY
+Random---Always has bought TOKE for $4.08
