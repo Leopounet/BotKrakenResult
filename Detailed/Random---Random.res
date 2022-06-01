@@ -2918,3 +2918,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 02:59:35] SOLD
+Random---Random has sold: Name: CVCUSD
+Altname: CVCUSD
+Wsname: CVC/USD
+Base: Name = CVC
+Altname = CVC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 25
+Data about this tradable pair of assets:
+
+        Current:                    0.1764
+        Maximum:                    6.289308
+        Minimum:                    5.567929
+        Variance:                   0.114699
+        Mean:                       5.889892
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.785714
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.230769
+        Is falling:                 True
+        Current fall duration:      18
+        Trending downwards:         False
+        Average local maximum:      0.171379
+        Number of local maximums:   14
+        Average local minimum:      0.1704
+        Number of local minimums:   13
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

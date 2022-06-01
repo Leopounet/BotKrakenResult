@@ -144,3 +144,5 @@ Random---Random has bought BCH for $201.3
 Random---Random has sold BCH for $201.39. Profit was 0.00044709388971675423%.
 [2022-06-01 02:56:33] BUY
 Random---Random has bought CVC for $0.1764
+[2022-06-01 02:59:35] SOLD
+Random---Random has sold CVC for $0.1764. Profit was -0.0%.
