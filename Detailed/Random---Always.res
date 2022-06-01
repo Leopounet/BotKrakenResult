@@ -2878,3 +2878,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 01:34:16] BUY
+Random---Always has bought: Name: RBCUSD
+Altname: RBCUSD
+Wsname: RBC/USD
+Base: Name = RBC
+Altname = RBC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 50
+Data about this tradable pair of assets:
+
+        Current:                    0.08212
+        Maximum:                    13.806434
+        Minimum:                    10.501995
+        Variance:                   0.23934
+        Mean:                       12.017703
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.777778
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.24
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         False
+        Average local maximum:      0.082826
+        Number of local maximums:   27
+        Average local minimum:      0.081424
+        Number of local minimums:   25
+True
+
+---------------------------------------------------------------------------

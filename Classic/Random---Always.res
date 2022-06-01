@@ -142,3 +142,5 @@ Random---Always has sold XRT for $3.73. Profit was -0.0%.
 Random---Always has bought ICP for $8.322
 [2022-06-01 01:31:18] SOLD
 Random---Always has sold ICP for $8.322. Profit was -0.0%.
+[2022-06-01 01:34:16] BUY
+Random---Always has bought RBC for $0.08212
