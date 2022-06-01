@@ -372,3 +372,5 @@ Random---Always has bought QNT for $70.71
 Random---Always has sold QNT for $70.71. Profit was -0.0%.
 [2022-06-01 07:25:18] BUY
 Random---Always has bought ZEUR for $1.07253
+[2022-06-01 07:28:26] SOLD
+Random---Always has sold ZEUR for $1.07266. Profit was 0.00012120873075804894%.

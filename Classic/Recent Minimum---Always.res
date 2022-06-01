@@ -372,3 +372,5 @@ Recent Minimum---Always has bought GARI for $0.6488
 Recent Minimum---Always has sold GARI for $0.6488. Profit was -0.0%.
 [2022-06-01 07:25:18] BUY
 Recent Minimum---Always has bought AIR for $0.02804
+[2022-06-01 07:28:26] SOLD
+Recent Minimum---Always has sold AIR for $0.02804. Profit was -0.0%.

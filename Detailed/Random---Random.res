@@ -5398,3 +5398,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 07:28:26] SOLD
+Random---Random has sold: Name: GHSTUSD
+Altname: GHSTUSD
+Wsname: GHST/USD
+Base: Name = GHST
+Altname = GHST
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    1.5025
+        Maximum:                    0.677094
+        Minimum:                    0.656987
+        Variance:                   0.029696
+        Mean:                       0.666785
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.0
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.0
+        Is falling:                 True
+        Current fall duration:      19
+        Trending downwards:         False
+        Average local maximum:      1.498609
+        Number of local maximums:   23
+        Average local minimum:      1.500783
+        Number of local minimums:   23
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
