@@ -650,3 +650,7 @@ Random---Always now has $6740.583046651382
 Random---Always has bought XETC for $21.87
 Random---Always now has $6740.583046651382
 ---------------------------------------------------------------------------
+[2022-06-01 22:15:10] SOLD
+Random---Always has sold XETC for $21.87. Profit was -0.52%.
+Random---Always now has $6705.532014808795
+---------------------------------------------------------------------------
