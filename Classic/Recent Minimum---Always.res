@@ -178,3 +178,7 @@ Recent Minimum---Always now has $8627.212092036727
 Recent Minimum---Always has bought TBTC for $33899.8
 Recent Minimum---Always now has $8627.212092036727
 ---------------------------------------------------------------------------
+[2022-06-01 15:58:33] SOLD
+Recent Minimum---Always has sold TBTC for $33899.8. Profit was -0.52%.
+Recent Minimum---Always now has $8582.350589158135
+---------------------------------------------------------------------------
