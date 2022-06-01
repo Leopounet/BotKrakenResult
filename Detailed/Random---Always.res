@@ -82,3 +82,45 @@ Data about this pair of assets (ATOMUSD):
 Is init: True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 12:18:12] BUY
+Random---Always has bought: 
+Name: KARUSD
+Altname: KARUSD
+Wsname: KAR/USD
+Base:
+ 	Name: KAR
+	Altname: KAR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (KARUSD):
+	Current:                    0.594
+	Maximum:                    1.980198
+	Minimum:                    1.636661
+	Variance:                   0.173486
+	Mean:                       1.771263
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.45
+	Is ascending:               True
+	Current ascension duration: 43
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.608696
+	Is falling:                 True
+	Current fall duration:      20
+	Trending downwards:         False
+	Average local maximum:      0.56855
+	Number of local maximums:   20
+	Average local minimum:      0.56687
+	Number of local minimums:   23
+Is init: True
+
+---------------------------------------------------------------------------
