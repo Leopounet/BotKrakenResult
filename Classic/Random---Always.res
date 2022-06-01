@@ -330,3 +330,5 @@ Random---Always has sold T for $0.0692. Profit was -0.010014306151645336%.
 Random---Always has bought ANKR for $0.03975
 [2022-06-01 06:17:15] SOLD
 Random---Always has sold ANKR for $0.03975. Profit was -0.0%.
+[2022-06-01 06:20:25] BUY
+Random---Always has bought GLMR for $1.331
