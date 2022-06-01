@@ -454,3 +454,5 @@ Random---Always has sold XETC for $23.661. Profit was -0.0%.
 Random---Always has bought LINK for $7.55792
 [2022-06-01 09:34:15] SOLD
 Random---Always has sold LINK for $7.55792. Profit was -0.0%.
+[2022-06-01 09:37:16] BUY
+Random---Always has bought EOS for $1.3637

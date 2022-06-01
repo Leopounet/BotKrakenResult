@@ -326,3 +326,5 @@ Random---Random has sold XREP for $10.037. Profit was -0.0%.
 Random---Random has bought RAD for $2.198
 [2022-06-01 09:34:15] SOLD
 Random---Random has sold RAD for $2.198. Profit was -0.0%.
+[2022-06-01 09:37:16] BUY
+Random---Random has bought OCEAN for $0.2327
