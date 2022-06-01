@@ -276,3 +276,5 @@ Random---Random has bought API3 for $1.774
 Random---Random has sold API3 for $1.774. Profit was -0.0%.
 [2022-06-01 07:47:29] BUY
 Random---Random has bought RARE for $0.275
+[2022-06-01 07:53:57] SOLD
+Random---Random has sold RARE for $0.2636. Profit was -0.04145454545454552%.
