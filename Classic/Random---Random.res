@@ -266,3 +266,5 @@ Random---Random has sold SOL for $45.01. Profit was 0.004687499999999956%.
 Random---Random has bought RLC for $0.9874
 [2022-06-01 07:18:16] SOLD
 Random---Random has sold RLC for $0.9874. Profit was -0.0%.
+[2022-06-01 07:22:05] BUY
+Random---Random has bought GHST for $1.5025

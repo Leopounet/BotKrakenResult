@@ -258,3 +258,5 @@ Recent Minimum---Random has sold GARI for $0.6488. Profit was -0.0%.
 Recent Minimum---Random has bought GARI for $0.6488
 [2022-06-01 07:18:16] SOLD
 Recent Minimum---Random has sold GARI for $0.6488. Profit was -0.0%.
+[2022-06-01 07:22:05] BUY
+Recent Minimum---Random has bought AIR for $0.02804

@@ -7398,3 +7398,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 07:22:05] SOLD
+Variance Lower All Local Minimums---Always has sold: Name: LUNAUSD
+Altname: LUNAUSD
+Wsname: LUNA/USD
+Base: Name = LUNA
+Altname = LUNA
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 50000
+Data about this tradable pair of assets:
+
+        Current:                    0.000106
+        Maximum:                    11013.215859
+        Minimum:                    5263.157895
+        Variance:                   0.522105
+        Mean:                       8286.222026
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.789474
+        Is ascending:               True
+        Current ascension duration: 4
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.375
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.000123
+        Number of local maximums:   19
+        Average local minimum:      0.00012
+        Number of local minimums:   24
+True
+Profit was -0.01301272984441304%.
+---------------------------------------------------------------------------
