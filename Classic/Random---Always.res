@@ -346,3 +346,5 @@ Random---Always has sold FXS for $7.397. Profit was -0.0%.
 Random---Always has bought BNT for $1.329
 [2022-06-01 06:41:42] SOLD
 Random---Always has sold BNT for $1.329. Profit was -0.0%.
+[2022-06-01 06:44:46] BUY
+Random---Always has bought WAVES for $8.6962

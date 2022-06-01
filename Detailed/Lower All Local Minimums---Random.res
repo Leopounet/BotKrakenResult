@@ -4478,3 +4478,43 @@ Data about this tradable pair of assets:
 True
 Profit was 4.3563968241899786e-05%.
 ---------------------------------------------------------------------------
+[2022-06-01 06:44:46] BUY
+Lower All Local Minimums---Random has bought: Name: GSTUSD
+Altname: GSTUSD
+Wsname: GST/USD
+Base: Name = GST
+Altname = GST
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.146
+        Maximum:                    0.900901
+        Minimum:                    0.629327
+        Variance:                   0.301447
+        Mean:                       0.754987
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.727273
+        Is ascending:               True
+        Current ascension duration: 6
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.3
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      1.335576
+        Number of local maximums:   33
+        Average local minimum:      1.3246
+        Number of local minimums:   30
+True
+
+---------------------------------------------------------------------------
