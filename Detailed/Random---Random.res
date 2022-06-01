@@ -5998,3 +5998,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.000375340152012793%.
 ---------------------------------------------------------------------------
+[2022-06-01 08:40:58] BUY
+Random---Random has bought: Name: ANTUSD
+Altname: ANTUSD
+Wsname: ANT/USD
+Base: Name = ANT
+Altname = ANT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    2.0918
+        Maximum:                    0.560507
+        Minimum:                    0.458442
+        Variance:                   0.182093
+        Mean:                       0.495185
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.125
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.88
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      2.024133
+        Number of local maximums:   24
+        Average local minimum:      2.00948
+        Number of local minimums:   25
+True
+
+---------------------------------------------------------------------------
