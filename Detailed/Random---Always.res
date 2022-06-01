@@ -82,3 +82,45 @@ Data about this pair of assets (API3USD):
 Is init: True
 Profit was -0.26%.
 ---------------------------------------------------------------------------
+[2022-06-01 13:00:44] BUY
+Random---Always has bought: 
+Name: UNIUSD
+Altname: UNIUSD
+Wsname: UNI/USD
+Base:
+ 	Name: UNI
+	Altname: UNI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (UNIUSD):
+	Current:                    5.689
+	Maximum:                    0.203252
+	Minimum:                    0.170561
+	Variance:                   0.160839
+	Mean:                       0.180015
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.789474
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.375
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         False
+	Average local maximum:      5.557842
+	Number of local maximums:   19
+	Average local minimum:      5.492625
+	Number of local minimums:   24
+Is init: True
+
+---------------------------------------------------------------------------

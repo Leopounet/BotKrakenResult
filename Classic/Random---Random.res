@@ -1,2 +1,4 @@
 [2022-06-01 12:54:25] BUY
 Random---Random has bought SDN for $0.415
+[2022-06-01 13:00:44] SOLD
+Random---Random has sold SDN for $0.414. Profit was -0.5009638554216831%.
