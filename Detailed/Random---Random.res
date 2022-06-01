@@ -6878,3 +6878,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 10:18:09] BUY
+Random---Random has bought: Name: KP3RUSD
+Altname: KP3RUSD
+Wsname: KP3R/USD
+Base: Name = KP3R
+Altname = KP3R
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.025
+Data about this tradable pair of assets:
+
+        Current:                    139.7
+        Maximum:                    0.007657
+        Minimum:                    0.006636
+        Variance:                   0.133378
+        Mean:                       0.007076
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.857143
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.15
+        Is falling:                 True
+        Current fall duration:      24
+        Trending downwards:         False
+        Average local maximum:      142.842857
+        Number of local maximums:   21
+        Average local minimum:      140.985
+        Number of local minimums:   20
+True
+
+---------------------------------------------------------------------------
