@@ -9518,3 +9518,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 10:08:47] BUY
+Recent Minimum---Always has bought: Name: CVCUSD
+Altname: CVCUSD
+Wsname: CVC/USD
+Base: Name = CVC
+Altname = CVC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 25
+Data about this tradable pair of assets:
+
+        Current:                    0.1797
+        Maximum:                    6.142506
+        Minimum:                    5.530973
+        Variance:                   0.099558
+        Mean:                       5.812861
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.769231
+        Is ascending:               True
+        Current ascension duration: 15
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.25
+        Is falling:                 True
+        Current fall duration:      3
+        Trending downwards:         False
+        Average local maximum:      0.172515
+        Number of local maximums:   13
+        Average local minimum:      0.17425
+        Number of local minimums:   12
+True
+
+---------------------------------------------------------------------------
