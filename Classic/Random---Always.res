@@ -122,3 +122,5 @@ Random---Always has sold SBR for $0.01017. Profit was -0.0%.
 Random---Always has bought TRX for $0.08371
 [2022-06-01 01:01:46] SOLD
 Random---Always has sold TRX for $0.083732. Profit was 0.0002628120893559682%.
+[2022-06-01 01:04:44] BUY
+Random---Always has bought YFI for $8155.0
