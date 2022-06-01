@@ -80,3 +80,5 @@ Recent Minimum---Always has bought ENS for $12.0
 Recent Minimum---Always has sold ENS for $12.0. Profit was -0.0%.
 [2022-05-31 23:59:34] BUY
 Recent Minimum---Always has bought ENS for $11.81
+[2022-06-01 00:02:33] SOLD
+Recent Minimum---Always has sold ENS for $11.81. Profit was -0.0%.
