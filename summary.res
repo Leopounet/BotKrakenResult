@@ -1,4 +1,4 @@
-[2022-06-01 00:49:56] SUMMARY
+[2022-06-01 00:52:53] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: ORCAUSD
+Altname: ORCAUSD
+Wsname: ORCA/USD
+Base: Name = ORCA
+Altname = ORCA
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.912
+        Maximum:                    1.231527
+        Minimum:                    1.017294
+        Variance:                   0.173957
+        Mean:                       1.122401
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.75
+        Is ascending:               True
+        Current ascension duration: 42
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.4
+        Is falling:                 True
+        Current fall duration:      45
+        Trending downwards:         True
+        Average local maximum:      0.87875
+        Number of local maximums:   8
+        Average local minimum:      0.9302
+        Number of local minimums:   10
+True
 0
 19
 -0.023050967709931425
@@ -61,7 +97,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: ORCAUSD
+Altname: ORCAUSD
+Wsname: ORCA/USD
+Base: Name = ORCA
+Altname = ORCA
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.912
+        Maximum:                    1.231527
+        Minimum:                    1.017294
+        Variance:                   0.173957
+        Mean:                       1.122401
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.75
+        Is ascending:               True
+        Current ascension duration: 42
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.4
+        Is falling:                 True
+        Current fall duration:      45
+        Trending downwards:         True
+        Average local maximum:      0.87875
+        Number of local maximums:   8
+        Average local minimum:      0.9302
+        Number of local minimums:   10
+True
 0
 19
 -0.023050967709931425

@@ -114,3 +114,5 @@ Random---Always has sold REN for $0.1595. Profit was -0.0%.
 Random---Always has bought KSM for $81.73
 [2022-06-01 00:49:56] SOLD
 Random---Always has sold KSM for $81.55. Profit was -0.002202373669399349%.
+[2022-06-01 00:52:53] BUY
+Random---Always has bought SBR for $0.01017

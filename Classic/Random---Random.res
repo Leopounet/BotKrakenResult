@@ -74,3 +74,5 @@ Random---Random has sold OXT for $0.13866. Profit was -0.0%.
 Random---Random has bought REN for $0.1595
 [2022-06-01 00:49:56] SOLD
 Random---Random has sold REN for $0.1595. Profit was -0.0%.
+[2022-06-01 00:52:53] BUY
+Random---Random has bought ORCA for $0.912

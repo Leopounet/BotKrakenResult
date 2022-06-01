@@ -1598,3 +1598,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 00:52:53] BUY
+Recent Minimum---Random has bought: Name: RAYUSD
+Altname: RAYUSD
+Wsname: RAY/USD
+Base: Name = RAY
+Altname = RAY
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    1.018
+        Maximum:                    1.113586
+        Minimum:                    0.94162
+        Variance:                   0.154426
+        Mean:                       1.015372
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.0
+        Is ascending:               True
+        Current ascension duration: 5
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.0
+        Is falling:                 True
+        Current fall duration:      65
+        Trending downwards:         False
+        Average local maximum:      0.981455
+        Number of local maximums:   11
+        Average local minimum:      0.985455
+        Number of local minimums:   11
+True
+
+---------------------------------------------------------------------------

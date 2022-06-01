@@ -2318,3 +2318,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.002202373669399349%.
 ---------------------------------------------------------------------------
+[2022-06-01 00:52:53] BUY
+Random---Always has bought: Name: SBRUSD
+Altname: SBRUSD
+Wsname: SBR/USD
+Base: Name = SBR
+Altname = SBR
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 500
+Data about this tradable pair of assets:
+
+        Current:                    0.01017
+        Maximum:                    120.048019
+        Minimum:                    93.10987
+        Variance:                   0.224395
+        Mean:                       104.274404
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.15
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.857143
+        Is falling:                 True
+        Current fall duration:      33
+        Trending downwards:         False
+        Average local maximum:      0.009701
+        Number of local maximums:   20
+        Average local minimum:      0.009608
+        Number of local minimums:   21
+True
+
+---------------------------------------------------------------------------
