@@ -324,3 +324,5 @@ Random---Always has bought CRV for $1.374
 Random---Always has sold CRV for $1.374. Profit was -0.0%.
 [2022-06-01 06:08:04] BUY
 Random---Always has bought T for $0.0699
+[2022-06-01 06:11:13] SOLD
+Random---Always has sold T for $0.0692. Profit was -0.010014306151645336%.
