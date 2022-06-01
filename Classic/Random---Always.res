@@ -192,3 +192,5 @@ Random---Always has bought ANT for $2.1306
 Random---Always has sold ANT for $2.1306. Profit was -0.0%.
 [2022-06-01 02:44:49] BUY
 Random---Always has bought ATOM for $10.241
+[2022-06-01 02:47:45] SOLD
+Random---Always has sold ATOM for $10.241. Profit was -0.0%.

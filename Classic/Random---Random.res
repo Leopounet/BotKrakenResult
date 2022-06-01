@@ -136,3 +136,5 @@ Random---Random has bought ENJ for $0.683
 Random---Random has sold ENJ for $0.683. Profit was -0.0%.
 [2022-06-01 02:44:49] BUY
 Random---Random has bought NANO for $1.201438
+[2022-06-01 02:47:45] SOLD
+Random---Random has sold NANO for $1.201225. Profit was -0.00017728755041879207%.

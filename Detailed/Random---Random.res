@@ -2758,3 +2758,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 02:47:45] SOLD
+Random---Random has sold: Name: NANOUSD
+Altname: NANOUSD
+Wsname: NANO/USD
+Base: Name = NANO
+Altname = NANO
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1.5
+Data about this tradable pair of assets:
+
+        Current:                    1.201438
+        Maximum:                    0.9233
+        Minimum:                    0.797831
+        Variance:                   0.135891
+        Mean:                       0.855169
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.7
+        Is ascending:               True
+        Current ascension duration: 8
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.333333
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      1.174719
+        Number of local maximums:   30
+        Average local minimum:      1.170345
+        Number of local minimums:   27
+True
+Profit was -0.00017728755041879207%.
+---------------------------------------------------------------------------
