@@ -434,3 +434,5 @@ Random---Always has sold ICP for $8.092. Profit was 0.002229378251176639%.
 Random---Always has bought SAMO for $0.005717
 [2022-06-01 09:02:47] SOLD
 Random---Always has sold SAMO for $0.005717. Profit was -0.0%.
+[2022-06-01 09:06:05] BUY
+Random---Always has bought SOL for $44.83
