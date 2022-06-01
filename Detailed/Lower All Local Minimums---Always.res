@@ -10118,3 +10118,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 10:56:08] SOLD
+Lower All Local Minimums---Always has sold: Name: GSTUSD
+Altname: GSTUSD
+Wsname: GST/USD
+Base: Name = GST
+Altname = GST
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.113
+        Maximum:                    0.900901
+        Minimum:                    0.629327
+        Variance:                   0.301447
+        Mean:                       0.764971
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.526316
+        Is ascending:               True
+        Current ascension duration: 12
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.5625
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         True
+        Average local maximum:      1.305737
+        Number of local maximums:   38
+        Average local minimum:      1.301437
+        Number of local minimums:   32
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

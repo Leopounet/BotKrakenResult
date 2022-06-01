@@ -10118,3 +10118,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 10:56:08] SOLD
+Random---Always has sold: Name: ALICEUSD
+Altname: ALICEUSD
+Wsname: ALICE/USD
+Base: Name = ALICE
+Altname = ALICE
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    3.069
+        Maximum:                    0.345543
+        Minimum:                    0.308166
+        Variance:                   0.108166
+        Mean:                       0.319531
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.0
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.0
+        Is falling:                 True
+        Current fall duration:      79
+        Trending downwards:         False
+        Average local maximum:      3.117429
+        Number of local maximums:   21
+        Average local minimum:      3.128952
+        Number of local minimums:   21
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
