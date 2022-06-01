@@ -8838,3 +8838,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 09:15:38] SOLD
+Random---Always has sold: Name: EWTUSD
+Altname: EWTUSD
+Wsname: EWT/USD
+Base: Name = EWT
+Altname = EWT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.5
+Data about this tradable pair of assets:
+
+        Current:                    2.984
+        Maximum:                    0.372439
+        Minimum:                    0.315159
+        Variance:                   0.153798
+        Mean:                       0.347097
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.689655
+        Is ascending:               True
+        Current ascension duration: 3
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.346154
+        Is falling:                 True
+        Current fall duration:      16
+        Trending downwards:         False
+        Average local maximum:      2.889793
+        Number of local maximums:   29
+        Average local minimum:      2.877923
+        Number of local minimums:   26
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

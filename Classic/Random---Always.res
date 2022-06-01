@@ -440,3 +440,5 @@ Random---Always has bought SOL for $44.83
 Random---Always has sold SOL for $44.89. Profit was 0.0013383894713361322%.
 [2022-06-01 09:12:35] BUY
 Random---Always has bought EWT for $2.984
+[2022-06-01 09:15:38] SOLD
+Random---Always has sold EWT for $2.984. Profit was -0.0%.
