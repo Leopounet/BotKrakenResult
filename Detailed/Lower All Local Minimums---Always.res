@@ -11038,3 +11038,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.057605760576057596%.
 ---------------------------------------------------------------------------
+[2022-06-01 12:06:27] BUY
+Lower All Local Minimums---Always has bought: Name: KINTUSD
+Altname: KINTUSD
+Wsname: KINT/USD
+Base: Name = KINT
+Altname = KINT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    3.58
+        Maximum:                    0.27933
+        Minimum:                    0.204918
+        Variance:                   0.266393
+        Mean:                       0.252014
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.136364
+        Is ascending:               True
+        Current ascension duration: 4
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.869565
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      3.871364
+        Number of local maximums:   22
+        Average local minimum:      4.087391
+        Number of local minimums:   23
+True
+
+---------------------------------------------------------------------------

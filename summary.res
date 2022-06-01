@@ -1,4 +1,4 @@
-[2022-06-01 12:03:27] SUMMARY
+[2022-06-01 12:06:27] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,45 +51,9 @@ Random.
 Random.
 {}
 {}
-Name: SRMUSD
-Altname: SRMUSD
-Wsname: SRM/USD
-Base: Name = SRM
-Altname = SRM
-decimals = 8
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 1
-Data about this tradable pair of assets:
-
-        Current:                    1.145
-        Maximum:                    0.969932
-        Minimum:                    0.848896
-        Variance:                   0.124788
-        Mean:                       0.890512
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          3.0
-        Is ascending:               True
-        Current ascension duration: 16
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               3.0
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         False
-        Average local maximum:      1.120524
-        Number of local maximums:   21
-        Average local minimum:      1.114762
-        Number of local minimums:   21
-True
+None
 0
-95
+96
 0.07426707874520344
 Best score: 
 Recent Minimum---Random
