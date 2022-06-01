@@ -64,3 +64,5 @@ Random---Random has bought SOL for $45.63
 Random---Random has sold SOL for $45.41. Profit was -0.004821389436774237%.
 [2022-06-01 00:35:06] BUY
 Random---Random has bought GNO for $204.8
+[2022-06-01 00:38:04] SOLD
+Random---Random has sold GNO for $204.8. Profit was -0.0%.

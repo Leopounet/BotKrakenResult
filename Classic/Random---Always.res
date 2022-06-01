@@ -104,3 +104,5 @@ Random---Always has bought FIDA for $0.503
 Random---Always has sold FIDA for $0.503. Profit was -0.0%.
 [2022-06-01 00:35:06] BUY
 Random---Always has bought SC for $0.00561
+[2022-06-01 00:38:04] SOLD
+Random---Always has sold SC for $0.00564. Profit was 0.005347593582887722%.
