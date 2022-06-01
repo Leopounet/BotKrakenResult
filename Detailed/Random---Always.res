@@ -4798,3 +4798,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0005932124012613116%.
 ---------------------------------------------------------------------------
+[2022-06-01 03:56:04] BUY
+Random---Always has bought: Name: ZUSDZJPY
+Altname: USDJPY
+Wsname: USD/JPY
+Base: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Quote: Name = ZJPY
+Altname = JPY
+decimals = 2
+displayed_decimals = 0
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    129.416
+        Maximum:                    0.007878
+        Minimum:                    0.007726
+        Variance:                   0.019323
+        Mean:                       0.007814
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.923077
+        Is ascending:               True
+        Current ascension duration: 19
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.294118
+        Is falling:                 True
+        Current fall duration:      16
+        Trending downwards:         False
+        Average local maximum:      127.915
+        Number of local maximums:   13
+        Average local minimum:      128.088765
+        Number of local minimums:   17
+True
+
+---------------------------------------------------------------------------
