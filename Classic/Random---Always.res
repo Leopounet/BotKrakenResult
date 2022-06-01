@@ -312,3 +312,5 @@ Random---Always has bought REN for $0.1559
 Random---Always has sold REN for $0.1559. Profit was -0.0%.
 [2022-06-01 05:48:59] BUY
 Random---Always has bought ASTR for $0.0646
+[2022-06-01 05:52:10] SOLD
+Random---Always has sold ASTR for $0.0646. Profit was -0.0%.

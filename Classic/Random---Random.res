@@ -226,3 +226,5 @@ Random---Random has sold SCRT for $1.699. Profit was 0.009506833036244888%.
 Random---Random has bought COMP for $64.89
 [2022-06-01 05:48:59] SOLD
 Random---Random has sold COMP for $64.89. Profit was -0.0%.
+[2022-06-01 05:52:10] BUY
+Random---Random has bought ANKR for $0.03965

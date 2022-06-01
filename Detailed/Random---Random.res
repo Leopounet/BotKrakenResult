@@ -4558,3 +4558,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 05:52:10] BUY
+Random---Random has bought: Name: ANKRUSD
+Altname: ANKRUSD
+Wsname: ANKR/USD
+Base: Name = ANKR
+Altname = ANKR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 50
+Data about this tradable pair of assets:
+
+        Current:                    0.03965
+        Maximum:                    27.901786
+        Minimum:                    24.981264
+        Variance:                   0.104671
+        Mean:                       26.075462
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.5
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.571429
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         False
+        Average local maximum:      0.038367
+        Number of local maximums:   24
+        Average local minimum:      0.038102
+        Number of local minimums:   28
+True
+
+---------------------------------------------------------------------------
