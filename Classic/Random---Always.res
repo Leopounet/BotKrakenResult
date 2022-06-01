@@ -224,3 +224,5 @@ Random---Always has bought MKR for $1292.1
 Random---Always has sold MKR for $1292.1. Profit was -0.0%.
 [2022-06-01 03:32:12] BUY
 Random---Always has bought KAVA for $2.7101
+[2022-06-01 03:35:08] SOLD
+Random---Always has sold KAVA for $2.7209. Profit was 0.003985092801003454%.

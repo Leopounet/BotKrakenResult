@@ -164,3 +164,5 @@ Random---Random has bought ACA for $0.414
 Random---Random has sold ACA for $0.414. Profit was -0.0%.
 [2022-06-01 03:32:12] BUY
 Random---Random has bought STORJ for $0.58393
+[2022-06-01 03:35:08] SOLD
+Random---Random has sold STORJ for $0.58393. Profit was -0.0%.

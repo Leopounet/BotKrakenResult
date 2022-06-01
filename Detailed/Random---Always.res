@@ -4518,3 +4518,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 03:35:08] SOLD
+Random---Always has sold: Name: KAVAUSD
+Altname: KAVAUSD
+Wsname: KAVA/USD
+Base: Name = KAVA
+Altname = KAVA
+decimals = 8
+displayed_decimals = 6
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    2.7101
+        Maximum:                    0.428614
+        Minimum:                    0.320246
+        Variance:                   0.252834
+        Mean:                       0.377749
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.3
+        Is ascending:               True
+        Current ascension duration: 7
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.727273
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      2.674895
+        Number of local maximums:   20
+        Average local minimum:      2.610064
+        Number of local minimums:   22
+True
+Profit was 0.003985092801003454%.
+---------------------------------------------------------------------------
