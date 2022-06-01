@@ -386,3 +386,5 @@ Random---Always has sold LSK for $1.340119. Profit was -0.003198407639285028%.
 Random---Always has bought API3 for $1.774
 [2022-06-01 07:47:29] SOLD
 Random---Always has sold API3 for $1.774. Profit was -0.0%.
+[2022-06-01 07:50:46] BUY
+Random---Always has bought BICO for $0.835
