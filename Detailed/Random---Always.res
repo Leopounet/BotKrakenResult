@@ -4158,3 +4158,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 03:08:33] BUY
+Random---Always has bought: Name: OXYUSD
+Altname: OXYUSD
+Wsname: OXY/USD
+Base: Name = OXY
+Altname = OXY
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 50
+Data about this tradable pair of assets:
+
+        Current:                    0.0929
+        Maximum:                    11.402509
+        Minimum:                    10.615711
+        Variance:                   0.069002
+        Mean:                       11.012197
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.695652
+        Is ascending:               True
+        Current ascension duration: 75
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               5.307692
+        Is falling:                 True
+        Current fall duration:      72
+        Trending downwards:         False
+        Average local maximum:      0.090448
+        Number of local maximums:   23
+        Average local minimum:      0.090977
+        Number of local minimums:   13
+True
+
+---------------------------------------------------------------------------
