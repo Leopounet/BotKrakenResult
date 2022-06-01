@@ -750,3 +750,7 @@ Random---Always now has $6130.495257417424
 Random---Always has sold CVC for $0.169. Profit was -0.52%.
 Random---Always now has $6098.616682078853
 ---------------------------------------------------------------------------
+[2022-06-01 23:31:34] BUY
+Random---Always has bought BADGER for $5.739
+Random---Always now has $6098.616682078853
+---------------------------------------------------------------------------
