@@ -142,3 +142,7 @@ Random---Random now has $9460.120654627066
 Random---Random has sold GRT for $0.15106. Profit was -0.52%.
 Random---Random now has $9410.928027223004
 ---------------------------------------------------------------------------
+[2022-06-01 16:18:06] BUY
+Random---Random has bought BADGER for $5.856
+Random---Random now has $9410.928027223004
+---------------------------------------------------------------------------
