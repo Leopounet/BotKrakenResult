@@ -362,3 +362,5 @@ Random---Always has sold OXY for $0.0918. Profit was -0.0%.
 Random---Always has bought RBC for $0.08599
 [2022-06-01 07:06:56] SOLD
 Random---Always has sold RBC for $0.08599. Profit was -0.0%.
+[2022-06-01 07:10:50] BUY
+Random---Always has bought TBTC for $30068.5
