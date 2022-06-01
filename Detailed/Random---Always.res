@@ -5760,3 +5760,46 @@ Is init: True
 Profit was -1.3350328277111152%.
 Random---Always now has $6635.797187327084
 ---------------------------------------------------------------------------
+[2022-06-01 20:42:23] BUY
+Random---Always has bought: 
+Name: TOKEUSD
+Altname: TOKEUSD
+Wsname: TOKE/USD
+Base:
+ 	Name: TOKE
+	Altname: TOKE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.3
+Data about this pair of assets (TOKEUSD):
+	Current:                    3.49
+	Maximum:                    0.286533
+	Minimum:                    0.23753
+	Variance:                   0.171021
+	Mean:                       0.248083
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.5
+	Is ascending:               True
+	Current ascension duration: 540
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.0
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      3.961667
+	Number of local maximums:   6
+	Average local minimum:      4.043333
+	Number of local minimums:   3
+Is init: True
+
+Random---Always now has $6635.797187327084
+---------------------------------------------------------------------------
