@@ -1,4 +1,4 @@
-[2022-06-01 04:41:18] SUMMARY
+[2022-06-01 04:44:15] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,46 +51,10 @@ Random.
 Random.
 {}
 {}
-Name: ANKRUSD
-Altname: ANKRUSD
-Wsname: ANKR/USD
-Base: Name = ANKR
-Altname = ANKR
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 50
-Data about this tradable pair of assets:
-
-        Current:                    0.03936
-        Maximum:                    27.901786
-        Minimum:                    24.981264
-        Variance:                   0.104671
-        Mean:                       26.12305
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          3.36
-        Is ascending:               False
-        Current ascension duration: 0
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.678571
-        Is falling:                 True
-        Current fall duration:      5
-        Trending downwards:         False
-        Average local maximum:      0.038281
-        Number of local maximums:   25
-        Average local minimum:      0.038107
-        Number of local minimums:   28
-True
+None
 0
-48
-0.07099725981891314
+49
+0.07379197526606751
 Best score: 
 Recent Minimum---Random
 Looks for the asset which is closer to its previous local minimum.
