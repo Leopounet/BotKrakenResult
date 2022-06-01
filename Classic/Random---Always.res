@@ -512,3 +512,5 @@ Random---Always has bought NMR for $12.74
 Random---Always has sold NMR for $12.74. Profit was -0.0%.
 [2022-06-01 11:05:33] BUY
 Random---Always has bought GHST for $1.5025
+[2022-06-01 11:08:39] SOLD
+Random---Always has sold GHST for $1.5025. Profit was -0.0%.
