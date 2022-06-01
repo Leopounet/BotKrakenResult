@@ -258,3 +258,5 @@ Random---Always has sold MC for $1.048. Profit was -0.0%.
 Random---Always has bought USDC for $1.0
 [2022-06-01 04:26:12] SOLD
 Random---Always has sold USDC for $1.0. Profit was -0.0%.
+[2022-06-01 04:29:18] BUY
+Random---Always has bought RARI for $3.26
