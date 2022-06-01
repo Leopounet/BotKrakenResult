@@ -3758,3 +3758,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 04:35:15] BUY
+Random---Random has bought: Name: XMLNZUSD
+Altname: MLNUSD
+Wsname: MLN/USD
+Base: Name = XMLN
+Altname = MLN
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.15
+Data about this tradable pair of assets:
+
+        Current:                    28.369
+        Maximum:                    0.037019
+        Minimum:                    0.032491
+        Variance:                   0.122328
+        Mean:                       0.035232
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.24
+        Is ascending:               True
+        Current ascension duration: 6
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.777778
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      28.44696
+        Number of local maximums:   25
+        Average local minimum:      28.450815
+        Number of local minimums:   27
+True
+
+---------------------------------------------------------------------------

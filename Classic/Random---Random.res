@@ -186,3 +186,5 @@ Random---Random has sold AIR for $0.0256. Profit was -0.0%.
 Random---Random has bought WBTC for $31454.1
 [2022-06-01 04:32:14] SOLD
 Random---Random has sold WBTC for $31454.1. Profit was -0.0%.
+[2022-06-01 04:35:15] BUY
+Random---Random has bought XMLN for $28.369

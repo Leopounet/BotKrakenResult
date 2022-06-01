@@ -262,3 +262,5 @@ Random---Always has sold USDC for $1.0. Profit was -0.0%.
 Random---Always has bought RARI for $3.26
 [2022-06-01 04:32:14] SOLD
 Random---Always has sold RARI for $3.26. Profit was -0.0%.
+[2022-06-01 04:35:15] BUY
+Random---Always has bought ORCA for $0.84
