@@ -416,3 +416,5 @@ Random---Always has bought KINT for $3.77
 Random---Always has sold KINT for $3.77. Profit was -0.0%.
 [2022-06-01 08:34:49] BUY
 Random---Always has bought SUSHI for $1.768
+[2022-06-01 08:37:50] SOLD
+Random---Always has sold SUSHI for $1.772. Profit was 0.002262443438914019%.

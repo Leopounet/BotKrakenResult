@@ -296,3 +296,5 @@ Random---Random has bought T for $0.062
 Random---Random has sold T for $0.0642. Profit was 0.03548387096774186%.
 [2022-06-01 08:34:49] BUY
 Random---Random has bought LUNA for $0.00010657
+[2022-06-01 08:37:50] SOLD
+Random---Random has sold LUNA for $0.00010661. Profit was 0.000375340152012793%.
