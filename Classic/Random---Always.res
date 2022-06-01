@@ -82,3 +82,5 @@ Random---Always has sold YGG for $0.704. Profit was -0.0%.
 Random---Always has bought ICP for $8.305
 [2022-06-01 00:02:33] SOLD
 Random---Always has sold ICP for $8.305. Profit was -0.0%.
+[2022-06-01 00:05:31] BUY
+Random---Always has bought SAND for $1.4572
