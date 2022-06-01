@@ -1,4 +1,4 @@
-[2022-06-01 06:48:02] SUMMARY
+[2022-06-01 06:51:01] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -97,44 +97,8 @@ Looks for the asset which is closer to its previous local minimum.
 Random.
 {}
 {}
-Name: GARIUSD
-Altname: GARIUSD
-Wsname: GARI/USD
-Base: Name = GARI
-Altname = GARI
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 15
-Data about this tradable pair of assets:
-
-        Current:                    0.6526
-        Maximum:                    1.560793
-        Minimum:                    1.519295
-        Variance:                   0.026588
-        Mean:                       1.53574
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          3.375
-        Is ascending:               True
-        Current ascension duration: 19
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.666667
-        Is falling:                 True
-        Current fall duration:      180
-        Trending downwards:         False
-        Average local maximum:      0.652475
-        Number of local maximums:   8
-        Average local minimum:      0.6527
-        Number of local minimums:   9
-True
+None
 0
-61
--0.0650372778829621
+62
+-0.07147307316337881
 ---------------------------------------------------------------------------

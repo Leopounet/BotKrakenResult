@@ -350,3 +350,5 @@ Random---Always has sold BNT for $1.329. Profit was -0.0%.
 Random---Always has bought WAVES for $8.6962
 [2022-06-01 06:48:02] SOLD
 Random---Always has sold WAVES for $8.5861. Profit was -0.012660702375750232%.
+[2022-06-01 06:51:01] BUY
+Random---Always has bought CVC for $0.1789
