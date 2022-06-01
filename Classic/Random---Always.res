@@ -18,3 +18,7 @@ Random---Always now has $9896.2704
 Random---Always has bought WBTC for $31697.7
 Random---Always now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-01 13:55:41] SOLD
+Random---Always has sold WBTC for $31697.7. Profit was -0.52%.
+Random---Always now has $9844.80979392
+---------------------------------------------------------------------------
