@@ -108,3 +108,5 @@ Recent Minimum---Random has bought LPT for $12.97
 Recent Minimum---Random has sold LPT for $12.97. Profit was -0.0%.
 [2022-06-01 01:54:51] BUY
 Recent Minimum---Random has bought LPT for $12.9
+[2022-06-01 02:03:41] SOLD
+Recent Minimum---Random has sold LPT for $12.9. Profit was -0.0%.

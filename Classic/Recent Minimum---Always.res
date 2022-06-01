@@ -162,3 +162,5 @@ Recent Minimum---Always has sold LPT for $12.9. Profit was -0.005397070161912154
 Recent Minimum---Always has bought LPT for $12.9
 [2022-06-01 02:00:44] SOLD
 Recent Minimum---Always has sold LPT for $12.9. Profit was -0.0%.
+[2022-06-01 02:03:41] BUY
+Recent Minimum---Always has bought LPT for $12.9

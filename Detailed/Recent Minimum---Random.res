@@ -2198,3 +2198,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 02:03:41] SOLD
+Recent Minimum---Random has sold: Name: LPTUSD
+Altname: LPTUSD
+Wsname: LPT/USD
+Base: Name = LPT
+Altname = LPT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.2
+Data about this tradable pair of assets:
+
+        Current:                    12.9
+        Maximum:                    0.081169
+        Minimum:                    0.07278
+        Variance:                   0.103348
+        Mean:                       0.076924
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.227273
+        Is ascending:               True
+        Current ascension duration: 9
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.129032
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      12.978182
+        Number of local maximums:   22
+        Average local minimum:      13.004516
+        Number of local minimums:   31
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

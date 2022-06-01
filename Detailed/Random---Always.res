@@ -3278,3 +3278,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.00010001000100001711%.
 ---------------------------------------------------------------------------
+[2022-06-01 02:03:41] BUY
+Random---Always has bought: Name: OMGUSD
+Altname: OMGUSD
+Wsname: OMG/USD
+Base: Name = OMG
+Altname = OMG
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.5
+Data about this tradable pair of assets:
+
+        Current:                    2.799761
+        Maximum:                    0.407035
+        Minimum:                    0.352661
+        Variance:                   0.133586
+        Mean:                       0.373396
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.347826
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.833333
+        Is falling:                 True
+        Current fall duration:      8
+        Trending downwards:         False
+        Average local maximum:      2.676296
+        Number of local maximums:   23
+        Average local minimum:      2.691254
+        Number of local minimums:   18
+True
+
+---------------------------------------------------------------------------
