@@ -300,3 +300,5 @@ Random---Always has bought WAVES for $7.9944
 Random---Always has sold WAVES for $8.0046. Profit was 0.0012758931251877215%.
 [2022-06-01 05:29:45] BUY
 Random---Always has bought ZUSD for $0.96179
+[2022-06-01 05:32:47] SOLD
+Random---Always has sold ZUSD for $0.96182. Profit was 3.119184021449506e-05%.

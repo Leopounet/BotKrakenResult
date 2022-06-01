@@ -300,3 +300,5 @@ Variance Lower All Local Minimums---Always has bought ACH for $0.01692
 Variance Lower All Local Minimums---Always has sold ACH for $0.019. Profit was 0.1229314420803782%.
 [2022-06-01 05:29:45] BUY
 Variance Lower All Local Minimums---Always has bought LUNA for $0.00011008
+[2022-06-01 05:32:47] SOLD
+Variance Lower All Local Minimums---Always has sold LUNA for $0.00011036. Profit was 0.0025436046511626564%.

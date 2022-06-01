@@ -6038,3 +6038,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 05:32:47] SOLD
+Random---Always has sold: Name: USDCHF
+Altname: USDCHF
+Wsname: USD/CHF
+Base: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Quote: Name = CHF
+Altname = CHF
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.96179
+        Maximum:                    1.048427
+        Minimum:                    1.039728
+        Variance:                   0.008297
+        Mean:                       1.043493
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.375
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.666667
+        Is falling:                 False
+        Current fall duration:      2
+        Trending downwards:         False
+        Average local maximum:      0.95794
+        Number of local maximums:   24
+        Average local minimum:      0.958224
+        Number of local minimums:   27
+True
+Profit was 3.119184021449506e-05%.
+---------------------------------------------------------------------------
