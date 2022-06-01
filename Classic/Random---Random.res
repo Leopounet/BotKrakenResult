@@ -94,3 +94,5 @@ Random---Random has sold SDN for $0.408. Profit was -0.0%.
 Random---Random has bought SPELL for $0.001338
 [2022-06-01 01:19:31] SOLD
 Random---Random has sold SPELL for $0.001338. Profit was -0.0%.
+[2022-06-01 01:22:28] BUY
+Random---Random has bought BCH for $205.57

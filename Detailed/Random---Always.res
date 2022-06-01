@@ -2718,3 +2718,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 01:22:28] BUY
+Random---Always has bought: Name: XRTUSD
+Altname: XRTUSD
+Wsname: XRT/USD
+Base: Name = XRT
+Altname = XRT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    3.73
+        Maximum:                    0.295858
+        Minimum:                    0.240385
+        Variance:                   0.1875
+        Mean:                       0.260977
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.142857
+        Is ascending:               True
+        Current ascension duration: 45
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.2
+        Is falling:                 True
+        Current fall duration:      42
+        Trending downwards:         True
+        Average local maximum:      3.802381
+        Number of local maximums:   21
+        Average local minimum:      3.846
+        Number of local minimums:   15
+True
+
+---------------------------------------------------------------------------
