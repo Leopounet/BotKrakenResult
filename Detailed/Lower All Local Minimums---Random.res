@@ -4358,3 +4358,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 06:26:23] SOLD
+Lower All Local Minimums---Random has sold: Name: PAXGUSD
+Altname: PAXGUSD
+Wsname: PAXG/USD
+Base: Name = PAXG
+Altname = PAXG
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.004
+Data about this tradable pair of assets:
+
+        Current:                    1836.38
+        Maximum:                    0.000545
+        Minimum:                    0.000536
+        Variance:                   0.017067
+        Mean:                       0.00054
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.166667
+        Is ascending:               True
+        Current ascension duration: 11
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.153846
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         True
+        Average local maximum:      1851.903056
+        Number of local maximums:   36
+        Average local minimum:      1852.626538
+        Number of local minimums:   26
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

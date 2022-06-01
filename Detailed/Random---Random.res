@@ -4758,3 +4758,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 06:26:23] SOLD
+Random---Random has sold: Name: SGBUSD
+Altname: SGBUSD
+Wsname: SGB/USD
+Base: Name = SGB
+Altname = SGB
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 150
+Data about this tradable pair of assets:
+
+        Current:                    0.0391
+        Maximum:                    29.154519
+        Minimum:                    25.380711
+        Variance:                   0.129442
+        Mean:                       27.147101
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.142857
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.2
+        Is falling:                 True
+        Current fall duration:      14
+        Trending downwards:         False
+        Average local maximum:      0.036783
+        Number of local maximums:   35
+        Average local minimum:      0.036512
+        Number of local minimums:   25
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

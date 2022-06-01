@@ -6718,3 +6718,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0007513148009015147%.
 ---------------------------------------------------------------------------
+[2022-06-01 06:26:23] BUY
+Random---Always has bought: Name: SUPERUSD
+Altname: SUPERUSD
+Wsname: SUPER/USD
+Base: Name = SUPER
+Altname = SUPER
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 25
+Data about this tradable pair of assets:
+
+        Current:                    0.2228
+        Maximum:                    5.586592
+        Minimum:                    3.773585
+        Variance:                   0.324528
+        Mean:                       4.625545
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.351351
+        Is ascending:               True
+        Current ascension duration: 13
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.827586
+        Is falling:                 True
+        Current fall duration:      7
+        Trending downwards:         False
+        Average local maximum:      0.218559
+        Number of local maximums:   37
+        Average local minimum:      0.218231
+        Number of local minimums:   29
+True
+
+---------------------------------------------------------------------------
