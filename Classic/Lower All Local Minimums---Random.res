@@ -46,3 +46,7 @@ Lower All Local Minimums---Random now has $9502.466281856956
 Lower All Local Minimums---Random has sold GST for $0.884. Profit was -3.4837760702524774%.
 Lower All Local Minimums---Random now has $9171.421635445813
 ---------------------------------------------------------------------------
+[2022-06-01 14:41:30] BUY
+Lower All Local Minimums---Random has bought CTSI for $0.1927
+Lower All Local Minimums---Random now has $9171.421635445813
+---------------------------------------------------------------------------
