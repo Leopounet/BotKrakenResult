@@ -110,3 +110,7 @@ Random---Random now has $9427.793391483816
 Random---Random has sold ACA for $0.4. Profit was -0.52%.
 Random---Random now has $9378.7688658481
 ---------------------------------------------------------------------------
+[2022-06-01 15:42:51] BUY
+Random---Random has bought LUNA for $9.6e-05
+Random---Random now has $9378.7688658481
+---------------------------------------------------------------------------
