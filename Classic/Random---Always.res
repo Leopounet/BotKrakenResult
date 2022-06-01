@@ -82,3 +82,7 @@ Random---Always now has $9503.450736946537
 Random---Always has bought ANKR for $0.03947
 Random---Always now has $9503.450736946537
 ---------------------------------------------------------------------------
+[2022-06-01 14:44:31] SOLD
+Random---Always has sold ANKR for $0.03947. Profit was -0.52%.
+Random---Always now has $9454.032793114415
+---------------------------------------------------------------------------
