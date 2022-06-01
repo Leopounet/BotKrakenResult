@@ -1,4 +1,4 @@
-[2022-06-01 05:39:20] SUMMARY
+[2022-06-01 05:42:41] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,21 +51,11 @@ Random.
 Random.
 {}
 {}
-None
-0
-56
-0.0775610621476518
-Best score: 
-Recent Minimum---Random
-Looks for the asset which is closer to its previous local minimum.
-Random.
-{}
-{}
-Name: GARIUSD
-Altname: GARIUSD
-Wsname: GARI/USD
-Base: Name = GARI
-Altname = GARI
+Name: COMPUSD
+Altname: COMPUSD
+Wsname: COMP/USD
+Base: Name = COMP
+Altname = COMP
 decimals = 10
 displayed_decimals = 5
 Quote: Name = ZUSD
@@ -73,32 +63,42 @@ Altname = USD
 decimals = 4
 displayed_decimals = 2
 Fee: 0.26
-Min order: 15
+Min order: 0.1
 Data about this tradable pair of assets:
 
-        Current:                    0.6526
-        Maximum:                    1.560793
-        Minimum:                    1.519295
-        Variance:                   0.026588
-        Mean:                       1.535951
+        Current:                    64.89
+        Maximum:                    0.017803
+        Minimum:                    0.014819
+        Variance:                   0.167605
+        Mean:                       0.016253
         Longest ascension:          3
         Shortest ascension:         3
-        Average ascension:          3.75
+        Average ascension:          3.807692
         Is ascending:               True
-        Current ascension duration: 5
+        Current ascension duration: 4
         Trending upwards:           True
         Longest fall:               3
         Shortest fall:              3
-        Average fall:               2.4
-        Is falling:                 True
-        Current fall duration:      166
+        Average fall:               2.363636
+        Is falling:                 False
+        Current fall duration:      0
         Trending downwards:         False
-        Average local maximum:      0.652275
-        Number of local maximums:   8
-        Average local minimum:      0.65222
-        Number of local minimums:   10
+        Average local maximum:      62.405769
+        Number of local maximums:   26
+        Average local minimum:      61.242121
+        Number of local minimums:   33
 True
 0
+56
+0.0775610621476518
+Best score: 
+Variance Lower All Local Minimums---Random
+Looks for the asset for which the current price is lower than all previous local minimums.
+Random.
+{}
+{}
+None
+0
 52
--0.0650372778829621
+-0.06818922171642638
 ---------------------------------------------------------------------------

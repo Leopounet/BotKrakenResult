@@ -306,3 +306,5 @@ Random---Always has sold ZUSD for $0.96182. Profit was 3.119184021449506e-05%.
 Random---Always has bought MASK for $1.955
 [2022-06-01 05:39:20] SOLD
 Random---Always has sold MASK for $1.955. Profit was -0.0%.
+[2022-06-01 05:42:41] BUY
+Random---Always has bought REN for $0.1559
