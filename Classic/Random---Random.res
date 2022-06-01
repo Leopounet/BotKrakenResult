@@ -292,3 +292,5 @@ Random---Random has bought RLC for $0.9874
 Random---Random has sold RLC for $0.9874. Profit was -0.0%.
 [2022-06-01 08:25:26] BUY
 Random---Random has bought T for $0.062
+[2022-06-01 08:31:41] SOLD
+Random---Random has sold T for $0.0642. Profit was 0.03548387096774186%.
