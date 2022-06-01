@@ -118,3 +118,5 @@ Variance Lower All Local Minimums---Always has sold UST for $0.0213. Profit was 
 Variance Lower All Local Minimums---Always has bought UST for $0.0213
 [2022-06-01 00:55:51] SOLD
 Variance Lower All Local Minimums---Always has sold UST for $0.02137. Profit was 0.0032863849765258912%.
+[2022-06-01 00:58:50] BUY
+Variance Lower All Local Minimums---Always has bought ACH for $0.01875

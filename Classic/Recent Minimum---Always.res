@@ -118,3 +118,5 @@ Recent Minimum---Always has sold ENS for $11.78. Profit was -0.0%.
 Recent Minimum---Always has bought RAY for $1.018
 [2022-06-01 00:55:51] SOLD
 Recent Minimum---Always has sold RAY for $1.018. Profit was -0.0%.
+[2022-06-01 00:58:50] BUY
+Recent Minimum---Always has bought RAY for $1.018

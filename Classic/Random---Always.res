@@ -118,3 +118,5 @@ Random---Always has sold KSM for $81.55. Profit was -0.002202373669399349%.
 Random---Always has bought SBR for $0.01017
 [2022-06-01 00:55:51] SOLD
 Random---Always has sold SBR for $0.01017. Profit was -0.0%.
+[2022-06-01 00:58:49] BUY
+Random---Always has bought TRX for $0.08371

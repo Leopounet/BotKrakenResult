@@ -78,3 +78,5 @@ Random---Random has sold REN for $0.1595. Profit was -0.0%.
 Random---Random has bought ORCA for $0.912
 [2022-06-01 00:55:51] SOLD
 Random---Random has sold ORCA for $0.912. Profit was -0.0%.
+[2022-06-01 00:58:49] BUY
+Random---Random has bought ENJ for $0.698
