@@ -2750,3 +2750,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Random now has $7937.428460737714
 ---------------------------------------------------------------------------
+[2022-06-01 18:48:43] BUY
+Lower All Local Minimums---Random has bought: 
+Name: CTSIUSD
+Altname: CTSIUSD
+Wsname: CTSI/USD
+Base:
+ 	Name: CTSI
+	Altname: CTSI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (CTSIUSD):
+	Current:                    0.1827
+	Maximum:                    5.497526
+	Minimum:                    4.570384
+	Variance:                   0.168647
+	Mean:                       4.962612
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.529412
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.55
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.200232
+	Number of local maximums:   34
+	Average local minimum:      0.20265
+	Number of local minimums:   40
+Is init: True
+
+Lower All Local Minimums---Random now has $7937.428460737714
+---------------------------------------------------------------------------

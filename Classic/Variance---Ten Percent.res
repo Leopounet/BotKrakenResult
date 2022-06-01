@@ -6,3 +6,7 @@ Variance---Ten Percent now has $10000
 Variance---Ten Percent has sold ACH for $0.01993. Profit was 28.895584415584405%.
 Variance---Ten Percent now has $12889.558441558442
 ---------------------------------------------------------------------------
+[2022-06-01 18:48:43] BUY
+Variance---Ten Percent has bought ACH for $0.01993
+Variance---Ten Percent now has $12889.558441558442
+---------------------------------------------------------------------------
