@@ -3954,3 +3954,46 @@ Is init: True
 Profit was 1.012066752246477%.
 Variance Lower All Local Minimums---Always now has $7988.830448261049
 ---------------------------------------------------------------------------
+[2022-06-01 18:29:27] BUY
+Variance Lower All Local Minimums---Always has bought: 
+Name: USTUSD
+Altname: USTUSD
+Wsname: UST/USD
+Base:
+ 	Name: UST
+	Altname: UST
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 100
+Data about this pair of assets (USTUSD):
+	Current:                    0.01598
+	Maximum:                    65.57377
+	Minimum:                    29.282577
+	Variance:                   0.553441
+	Mean:                       45.729017
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.857143
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.333333
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.021762
+	Number of local maximums:   21
+	Average local minimum:      0.022861
+	Number of local minimums:   27
+Is init: True
+
+Variance Lower All Local Minimums---Always now has $7988.830448261049
+---------------------------------------------------------------------------
