@@ -354,3 +354,5 @@ Random---Always has sold WAVES for $8.5861. Profit was -0.012660702375750232%.
 Random---Always has bought CVC for $0.1789
 [2022-06-01 06:54:07] SOLD
 Random---Always has sold CVC for $0.1789. Profit was -0.0%.
+[2022-06-01 06:57:13] BUY
+Random---Always has bought OXY for $0.0918

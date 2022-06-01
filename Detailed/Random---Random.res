@@ -5118,3 +5118,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0031113876789047312%.
 ---------------------------------------------------------------------------
+[2022-06-01 06:57:13] BUY
+Random---Random has bought: Name: MNGOUSD
+Altname: MNGOUSD
+Wsname: MNGO/USD
+Base: Name = MNGO
+Altname = MNGO
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 25
+Data about this tradable pair of assets:
+
+        Current:                    0.0567
+        Maximum:                    18.975332
+        Minimum:                    16.891892
+        Variance:                   0.109797
+        Mean:                       17.414898
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.875
+        Is ascending:               True
+        Current ascension duration: 13
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.130435
+        Is falling:                 True
+        Current fall duration:      31
+        Trending downwards:         False
+        Average local maximum:      0.057046
+        Number of local maximums:   24
+        Average local minimum:      0.057643
+        Number of local minimums:   23
+True
+
+---------------------------------------------------------------------------
