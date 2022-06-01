@@ -490,3 +490,5 @@ Random---Always has sold OGN for $0.3144. Profit was -0.0%.
 Random---Always has bought ADA for $0.610007
 [2022-06-01 10:30:33] SOLD
 Random---Always has sold ADA for $0.610087. Profit was 0.00013114603602915054%.
+[2022-06-01 10:33:39] BUY
+Random---Always has bought PSTAKE for $0.2533
