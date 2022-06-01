@@ -1,4 +1,4 @@
-[2022-06-01 15:11:59] SUMMARY
+[2022-06-01 15:15:04] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: POWRUSD
-	Altname: POWRUSD
-	Wsname: POWR/USD
-	Base:
-	 	Name: POWR
-		Altname: POWR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (POWRUSD):
-		Current:                    0.2807
-		Maximum:                    3.93391
-		Minimum:                    3.171583
-		Variance:                   0.193784
-		Mean:                       3.618569
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          5.0
-		Is ascending:               True
-		Current ascension duration: 12
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.8
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         False
-		Average local maximum:      0.279867
-		Number of local maximums:   6
-		Average local minimum:      0.27387
-		Number of local minimums:   10
-	Is init: True
+	None
 Wins: 0
-Losses: 15
-Total points: -7.152734025635301%
-Wallet: 9308.031001136285
+Losses: 16
+Total points: -7.6727340256353%
+Wallet: 9259.629239930377
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CTSIUSD
-	Altname: CTSIUSD
-	Wsname: CTSI/USD
-	Base:
-	 	Name: CTSI
-		Altname: CTSI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (CTSIUSD):
-		Current:                    0.1942
-		Maximum:                    5.221932
-		Minimum:                    4.570384
-		Variance:                   0.124771
-		Mean:                       4.936509
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.617647
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.487805
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.201771
-		Number of local maximums:   34
-		Average local minimum:      0.203117
-		Number of local minimums:   41
-	Is init: True
+	None
 Wins: 3
-Losses: 12
-Total points: -11.153522930450245%
-Wallet: 8909.996736741781
+Losses: 13
+Total points: -11.673522930450245%
+Wallet: 8863.664753710724
 ---------------------------------------------------------------------------
 Best score: 
 Name: Lower All Local Minimums---Twenty-four hours
