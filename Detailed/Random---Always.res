@@ -10038,3 +10038,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 10:49:40] SOLD
+Random---Always has sold: Name: ENJUSD
+Altname: ENJUSD
+Wsname: ENJ/USD
+Base: Name = ENJ
+Altname = ENJ
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    0.679
+        Maximum:                    1.650165
+        Minimum:                    1.396648
+        Variance:                   0.153631
+        Mean:                       1.495457
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.3
+        Is ascending:               True
+        Current ascension duration: 5
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.727273
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.67185
+        Number of local maximums:   20
+        Average local minimum:      0.654545
+        Number of local minimums:   22
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

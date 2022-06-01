@@ -352,3 +352,5 @@ Random---Random has bought PSTAKE for $0.2533
 Random---Random has sold PSTAKE for $0.2533. Profit was -0.0%.
 [2022-06-01 10:40:03] BUY
 Random---Random has bought COMP for $66.19
+[2022-06-01 10:49:40] SOLD
+Random---Random has sold COMP for $66.39. Profit was 0.003021604471974637%.
