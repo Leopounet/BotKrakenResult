@@ -1804,3 +1804,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $9264.879641228126
 ---------------------------------------------------------------------------
+[2022-06-01 16:40:30] BUY
+Random---Random has bought: 
+Name: REQUSD
+Altname: REQUSD
+Wsname: REQ/USD
+Base:
+ 	Name: REQ
+	Altname: REQ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (REQUSD):
+	Current:                    0.1299
+	Maximum:                    10.571942
+	Minimum:                    7.219695
+	Variance:                   0.317089
+	Mean:                       7.780619
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          0.5
+	Is ascending:               True
+	Current ascension duration: 100
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               18.0
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         True
+	Average local maximum:      0.123295
+	Number of local maximums:   6
+	Average local minimum:      0.13609
+	Number of local minimums:   1
+Is init: True
+
+Random---Random now has $9264.879641228126
+---------------------------------------------------------------------------
