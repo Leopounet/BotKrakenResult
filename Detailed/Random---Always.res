@@ -6878,3 +6878,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 06:38:31] BUY
+Random---Always has bought: Name: BNTUSD
+Altname: BNTUSD
+Wsname: BNT/USD
+Base: Name = BNT
+Altname = BNT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.329
+        Maximum:                    0.796813
+        Minimum:                    0.726216
+        Variance:                   0.088598
+        Mean:                       0.754182
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.0
+        Is ascending:               True
+        Current ascension duration: 6
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.0
+        Is falling:                 True
+        Current fall duration:      28
+        Trending downwards:         False
+        Average local maximum:      1.333167
+        Number of local maximums:   24
+        Average local minimum:      1.336958
+        Number of local minimums:   24
+True
+
+---------------------------------------------------------------------------

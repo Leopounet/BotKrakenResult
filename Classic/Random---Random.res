@@ -244,3 +244,5 @@ Random---Random has bought ZRX for $0.434
 Random---Random has sold ZRX for $0.434. Profit was -0.0%.
 [2022-06-01 06:35:26] BUY
 Random---Random has bought MASK for $1.973
+[2022-06-01 06:38:31] SOLD
+Random---Random has sold MASK for $1.973. Profit was -0.0%.
