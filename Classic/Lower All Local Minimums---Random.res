@@ -338,3 +338,5 @@ Lower All Local Minimums---Random has sold GST for $1.168. Profit was 0.04941599
 Lower All Local Minimums---Random has bought PAXG for $1830.23
 [2022-06-01 11:15:00] SOLD
 Lower All Local Minimums---Random has sold PAXG for $1830.23. Profit was -0.0%.
+[2022-06-01 11:18:01] BUY
+Lower All Local Minimums---Random has bought PAXG for $1830.23

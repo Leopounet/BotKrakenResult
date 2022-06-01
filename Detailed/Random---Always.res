@@ -10398,3 +10398,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.017278152156649185%.
 ---------------------------------------------------------------------------
+[2022-06-01 11:18:01] BUY
+Random---Always has bought: Name: FETUSD
+Altname: FETUSD
+Wsname: FET/USD
+Base: Name = FET
+Altname = FET
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 20
+Data about this tradable pair of assets:
+
+        Current:                    0.1681
+        Maximum:                    6.337136
+        Minimum:                    5.567929
+        Variance:                   0.121381
+        Mean:                       5.902814
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.8
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.368421
+        Is falling:                 True
+        Current fall duration:      43
+        Trending downwards:         False
+        Average local maximum:      0.168127
+        Number of local maximums:   15
+        Average local minimum:      0.171432
+        Number of local minimums:   19
+True
+
+---------------------------------------------------------------------------

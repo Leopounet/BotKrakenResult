@@ -364,3 +364,5 @@ Random---Random has bought AUDIO for $0.4499
 Random---Random has sold AUDIO for $0.4499. Profit was -0.0%.
 [2022-06-01 11:15:00] BUY
 Random---Random has bought MASK for $2.001
+[2022-06-01 11:18:01] SOLD
+Random---Random has sold MASK for $2.001. Profit was -0.0%.

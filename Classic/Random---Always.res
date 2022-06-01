@@ -518,3 +518,5 @@ Random---Always has sold GHST for $1.5025. Profit was -0.0%.
 Random---Always has bought WAVES for $8.8146
 [2022-06-01 11:15:00] SOLD
 Random---Always has sold WAVES for $8.9669. Profit was 0.017278152156649185%.
+[2022-06-01 11:18:01] BUY
+Random---Always has bought FET for $0.1681

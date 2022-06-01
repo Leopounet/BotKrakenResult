@@ -7318,3 +7318,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 11:18:01] SOLD
+Random---Random has sold: Name: MASKUSD
+Altname: MASKUSD
+Wsname: MASK/USD
+Base: Name = MASK
+Altname = MASK
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    2.001
+        Maximum:                    0.552486
+        Minimum:                    0.447828
+        Variance:                   0.189431
+        Mean:                       0.500207
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.307692
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.9
+        Is falling:                 True
+        Current fall duration:      44
+        Trending downwards:         False
+        Average local maximum:      2.052538
+        Number of local maximums:   13
+        Average local minimum:      1.959
+        Number of local minimums:   10
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
