@@ -252,3 +252,5 @@ Random---Random has bought AKT for $0.4273
 Random---Random has sold AKT for $0.4273. Profit was -0.0%.
 [2022-06-01 06:48:02] BUY
 Random---Random has bought SNX for $3.214
+[2022-06-01 06:54:07] SOLD
+Random---Random has sold SNX for $3.204. Profit was -0.0031113876789047312%.
