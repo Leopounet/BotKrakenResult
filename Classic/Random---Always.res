@@ -6,3 +6,7 @@ Random---Always now has $10000
 Random---Always has sold TRIBE for $0.24. Profit was -0.52%.
 Random---Always now has $9948.0
 ---------------------------------------------------------------------------
+[2022-06-01 13:46:31] BUY
+Random---Always has bought ACH for $0.0154
+Random---Always now has $9948.0
+---------------------------------------------------------------------------
