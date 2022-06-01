@@ -170,3 +170,5 @@ Recent Minimum---Always has sold LPT for $12.9. Profit was -0.0%.
 Recent Minimum---Always has bought ATLAS for $0.00902
 [2022-06-01 02:12:29] SOLD
 Recent Minimum---Always has sold ATLAS for $0.00902. Profit was -0.0%.
+[2022-06-01 02:15:23] BUY
+Recent Minimum---Always has bought ZEUR for $1.07145
