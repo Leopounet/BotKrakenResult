@@ -368,3 +368,5 @@ Random---Random has bought MASK for $2.001
 Random---Random has sold MASK for $2.001. Profit was -0.0%.
 [2022-06-01 11:21:01] BUY
 Random---Random has bought OCEAN for $0.2325
+[2022-06-01 11:24:02] SOLD
+Random---Random has sold OCEAN for $0.2325. Profit was -0.0%.

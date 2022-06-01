@@ -10478,3 +10478,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.005353955978584235%.
 ---------------------------------------------------------------------------
+[2022-06-01 11:24:02] BUY
+Random---Always has bought: Name: MCUSD
+Altname: MCUSD
+Wsname: MC/USD
+Base: Name = MC
+Altname = MC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    1.052
+        Maximum:                    0.986193
+        Minimum:                    0.888099
+        Variance:                   0.099467
+        Mean:                       0.931099
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.205882
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.08
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      1.071382
+        Number of local maximums:   34
+        Average local minimum:      1.07648
+        Number of local minimums:   25
+True
+
+---------------------------------------------------------------------------
