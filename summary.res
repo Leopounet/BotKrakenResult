@@ -1,4 +1,4 @@
-[2022-06-01 05:52:10] SUMMARY
+[2022-06-01 05:55:20] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -92,49 +92,49 @@ True
 57
 0.0775610621476518
 Best score: 
-Variance Lower All Local Minimums---Random
-Looks for the asset for which the current price is lower than all previous local minimums.
+Recent Minimum---Random
+Looks for the asset which is closer to its previous local minimum.
 Random.
 {}
 {}
-Name: LUNAUSD
-Altname: LUNAUSD
-Wsname: LUNA/USD
-Base: Name = LUNA
-Altname = LUNA
-decimals = 8
+Name: GARIUSD
+Altname: GARIUSD
+Wsname: GARI/USD
+Base: Name = GARI
+Altname = GARI
+decimals = 10
 displayed_decimals = 5
 Quote: Name = ZUSD
 Altname = USD
 decimals = 4
 displayed_decimals = 2
 Fee: 0.26
-Min order: 50000
+Min order: 15
 Data about this tradable pair of assets:
 
-        Current:                    0.000107
-        Maximum:                    11482.374555
-        Minimum:                    5263.157895
-        Variance:                   0.541632
-        Mean:                       8335.450207
+        Current:                    0.6526
+        Maximum:                    1.560793
+        Minimum:                    1.519295
+        Variance:                   0.026588
+        Mean:                       1.535904
         Longest ascension:          3
         Shortest ascension:         3
-        Average ascension:          3.833333
-        Is ascending:               False
-        Current ascension duration: 0
+        Average ascension:          3.75
+        Is ascending:               True
+        Current ascension duration: 8
         Trending upwards:           True
         Longest fall:               3
         Shortest fall:              3
-        Average fall:               2.347826
-        Is falling:                 False
-        Current fall duration:      1
+        Average fall:               2.4
+        Is falling:                 True
+        Current fall duration:      169
         Trending downwards:         False
-        Average local maximum:      0.000122
-        Number of local maximums:   18
-        Average local minimum:      0.00012
-        Number of local minimums:   23
+        Average local maximum:      0.652275
+        Number of local maximums:   8
+        Average local minimum:      0.65222
+        Number of local minimums:   10
 True
 0
-52
--0.06818922171642638
+54
+-0.0650372778829621
 ---------------------------------------------------------------------------
