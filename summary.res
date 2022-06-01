@@ -1,4 +1,4 @@
-[2022-06-01 04:38:22] SUMMARY
+[2022-06-01 04:41:18] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,21 +51,11 @@ Random.
 Random.
 {}
 {}
-None
-0
-48
-0.07099725981891314
-Best score: 
-Variance Lower All Local Minimums---Random
-Looks for the asset for which the current price is lower than all previous local minimums.
-Random.
-{}
-{}
-Name: ACHUSD
-Altname: ACHUSD
-Wsname: ACH/USD
-Base: Name = ACH
-Altname = ACH
+Name: ANKRUSD
+Altname: ANKRUSD
+Wsname: ANKR/USD
+Base: Name = ANKR
+Altname = ANKR
 decimals = 10
 displayed_decimals = 5
 Quote: Name = ZUSD
@@ -73,32 +63,78 @@ Altname = USD
 decimals = 4
 displayed_decimals = 2
 Fee: 0.26
-Min order: 250
+Min order: 50
 Data about this tradable pair of assets:
 
-        Current:                    0.0175
-        Maximum:                    59.665871
-        Minimum:                    11.764706
-        Variance:                   0.802824
-        Mean:                       52.246682
+        Current:                    0.03936
+        Maximum:                    27.901786
+        Minimum:                    24.981264
+        Variance:                   0.104671
+        Mean:                       26.12305
         Longest ascension:          3
         Shortest ascension:         3
-        Average ascension:          2.25
-        Is ascending:               True
-        Current ascension duration: 6
-        Trending upwards:           False
+        Average ascension:          3.36
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
         Longest fall:               3
         Shortest fall:              3
-        Average fall:               4.0
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         True
-        Average local maximum:      0.02689
-        Number of local maximums:   8
-        Average local minimum:      0.029812
-        Number of local minimums:   6
+        Average fall:               2.678571
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      0.038281
+        Number of local maximums:   25
+        Average local minimum:      0.038107
+        Number of local minimums:   28
 True
 0
-45
--0.1236779667912038
+48
+0.07099725981891314
+Best score: 
+Recent Minimum---Random
+Looks for the asset which is closer to its previous local minimum.
+Random.
+{}
+{}
+Name: ATLASUSD
+Altname: ATLASUSD
+Wsname: ATLAS/USD
+Base: Name = ATLAS
+Altname = ATLAS
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 500
+Data about this tradable pair of assets:
+
+        Current:                    0.00895
+        Maximum:                    125.944584
+        Minimum:                    89.206066
+        Variance:                   0.291704
+        Mean:                       115.015147
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.5
+        Is ascending:               True
+        Current ascension duration: 33
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.6
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.008753
+        Number of local maximums:   24
+        Average local minimum:      0.008881
+        Number of local minimums:   20
+True
+0
+46
+-0.0650372778829621
 ---------------------------------------------------------------------------

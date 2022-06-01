@@ -190,3 +190,5 @@ Random---Random has sold WBTC for $31454.1. Profit was -0.0%.
 Random---Random has bought XMLN for $28.369
 [2022-06-01 04:38:22] SOLD
 Random---Random has sold XMLN for $28.369. Profit was -0.0%.
+[2022-06-01 04:41:18] BUY
+Random---Random has bought ANKR for $0.03936
