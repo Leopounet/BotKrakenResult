@@ -436,3 +436,5 @@ Random---Always has bought SAMO for $0.005717
 Random---Always has sold SAMO for $0.005717. Profit was -0.0%.
 [2022-06-01 09:06:05] BUY
 Random---Always has bought SOL for $44.83
+[2022-06-01 09:09:25] SOLD
+Random---Always has sold SOL for $44.89. Profit was 0.0013383894713361322%.

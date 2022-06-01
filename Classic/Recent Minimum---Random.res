@@ -314,3 +314,5 @@ Recent Minimum---Random has sold XRT for $3.99. Profit was -0.0%.
 Recent Minimum---Random has bought XRT for $3.99
 [2022-06-01 09:06:05] SOLD
 Recent Minimum---Random has sold XRT for $3.99. Profit was -0.0%.
+[2022-06-01 09:09:25] BUY
+Recent Minimum---Random has bought XRT for $3.99

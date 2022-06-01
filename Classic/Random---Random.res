@@ -312,3 +312,5 @@ Random---Random has bought PHA for $0.1295
 Random---Random has sold PHA for $0.1295. Profit was -0.0%.
 [2022-06-01 09:02:47] BUY
 Random---Random has bought REN for $0.1565
+[2022-06-01 09:09:25] SOLD
+Random---Random has sold REN for $0.1565. Profit was -0.0%.
