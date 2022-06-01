@@ -222,3 +222,5 @@ Random---Always has sold ZRX for $0.428. Profit was -0.002331002331002363%.
 Random---Always has bought MKR for $1292.1
 [2022-06-01 03:29:14] SOLD
 Random---Always has sold MKR for $1292.1. Profit was -0.0%.
+[2022-06-01 03:32:12] BUY
+Random---Always has bought KAVA for $2.7101

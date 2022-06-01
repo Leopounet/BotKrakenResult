@@ -2998,3 +2998,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 03:32:12] SOLD
+Mean---Random has sold: Name: SHIBUSD
+Altname: SHIBUSD
+Wsname: SHIB/USD
+Base: Name = SHIB
+Altname = SHIB
+decimals = 5
+displayed_decimals = 0
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 500000
+Data about this tradable pair of assets:
+
+        Current:                    1.2e-05
+        Maximum:                    89847.259659
+        Minimum:                    80971.659919
+        Variance:                   0.098785
+        Mean:                       84932.952499
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.631579
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.478261
+        Is falling:                 False
+        Current fall duration:      2
+        Trending downwards:         False
+        Average local maximum:      1.2e-05
+        Number of local maximums:   19
+        Average local minimum:      1.2e-05
+        Number of local minimums:   23
+True
+Profit was -0.003427592116538092%.
+---------------------------------------------------------------------------
