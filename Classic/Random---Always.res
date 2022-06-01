@@ -404,3 +404,5 @@ Random---Always has bought ATLAS for $0.00909
 Random---Always has sold ATLAS for $0.00909. Profit was -0.0%.
 [2022-06-01 08:16:17] BUY
 Random---Always has bought XETC for $23.499
+[2022-06-01 08:19:20] SOLD
+Random---Always has sold XETC for $23.499. Profit was -0.0%.
