@@ -1118,3 +1118,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.009876423080665608%.
 ---------------------------------------------------------------------------
+[2022-06-01 00:17:20] BUY
+Random---Random has bought: Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base: Name = 1INCH
+Altname = 1INCH
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.967
+        Maximum:                    1.10011
+        Minimum:                    0.98912
+        Variance:                   0.10089
+        Mean:                       1.040079
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.346154
+        Is ascending:               True
+        Current ascension duration: 6
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.689655
+        Is falling:                 True
+        Current fall duration:      3
+        Trending downwards:         False
+        Average local maximum:      0.962038
+        Number of local maximums:   26
+        Average local minimum:      0.966828
+        Number of local minimums:   29
+True
+
+---------------------------------------------------------------------------

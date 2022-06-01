@@ -90,3 +90,5 @@ Lower All Local Minimums---Always has sold PAXG for $1838.95. Profit was -0.0%.
 Lower All Local Minimums---Always has bought PAXG for $1838.96
 [2022-06-01 00:14:23] SOLD
 Lower All Local Minimums---Always has sold PAXG for $1838.96. Profit was -0.0%.
+[2022-06-01 00:17:20] BUY
+Lower All Local Minimums---Always has bought ZUSD for $1.26443

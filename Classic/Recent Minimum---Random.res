@@ -66,3 +66,5 @@ Recent Minimum---Random has sold ENS for $11.81. Profit was -0.0%.
 Recent Minimum---Random has bought ENS for $11.81
 [2022-06-01 00:14:23] SOLD
 Recent Minimum---Random has sold ENS for $11.81. Profit was -0.0%.
+[2022-06-01 00:17:20] BUY
+Recent Minimum---Random has bought ENS for $11.94
