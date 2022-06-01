@@ -372,3 +372,5 @@ Variance Lower All Local Minimums---Random has bought ACH for $0.01707
 Variance Lower All Local Minimums---Random has sold ACH for $0.0178. Profit was 0.04276508494434683%.
 [2022-06-01 11:51:23] BUY
 Variance Lower All Local Minimums---Random has bought ACH for $0.01583
+[2022-06-01 11:54:24] SOLD
+Variance Lower All Local Minimums---Random has sold ACH for $0.01583. Profit was -0.0%.

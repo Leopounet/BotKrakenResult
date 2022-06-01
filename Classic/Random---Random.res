@@ -378,3 +378,5 @@ Random---Random has sold XZEC for $93.28. Profit was 0.002041035556987758%.
 Random---Random has bought SOL for $44.27
 [2022-06-01 11:51:23] SOLD
 Random---Random has sold SOL for $44.38. Profit was 0.002484752654167588%.
+[2022-06-01 11:54:24] BUY
+Random---Random has bought SRM for $1.145

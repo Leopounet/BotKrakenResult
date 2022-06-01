@@ -542,3 +542,5 @@ Lower All Local Minimums---Always has sold PAXG for $1830.23. Profit was -0.0%.
 Lower All Local Minimums---Always has bought GST for $1.117
 [2022-06-01 11:51:23] SOLD
 Lower All Local Minimums---Always has sold GST for $1.111. Profit was -0.0053715308863026%.
+[2022-06-01 11:54:24] BUY
+Lower All Local Minimums---Always has bought GST for $1.111
