@@ -260,3 +260,5 @@ Random---Random has bought MNGO for $0.0567
 Random---Random has sold MNGO for $0.0567. Profit was -0.0%.
 [2022-06-01 07:03:20] BUY
 Random---Random has bought SOL for $44.8
+[2022-06-01 07:06:56] SOLD
+Random---Random has sold SOL for $45.01. Profit was 0.004687499999999956%.
