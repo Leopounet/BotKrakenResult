@@ -290,3 +290,5 @@ Random---Random has sold SUSHI for $1.754. Profit was -0.0017074558907227422%.
 Random---Random has bought RLC for $0.9874
 [2022-06-01 08:22:20] SOLD
 Random---Random has sold RLC for $0.9874. Profit was -0.0%.
+[2022-06-01 08:25:26] BUY
+Random---Random has bought T for $0.062
