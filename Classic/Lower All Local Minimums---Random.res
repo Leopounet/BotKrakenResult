@@ -186,3 +186,7 @@ Lower All Local Minimums---Random now has $8164.087891752277
 Lower All Local Minimums---Random has bought CTSI for $0.1804
 Lower All Local Minimums---Random now has $8164.087891752277
 ---------------------------------------------------------------------------
+[2022-06-01 17:41:22] SOLD
+Lower All Local Minimums---Random has sold CTSI for $0.1839. Profit was 1.420133037694025%.
+Lower All Local Minimums---Random now has $8280.028801129429
+---------------------------------------------------------------------------
