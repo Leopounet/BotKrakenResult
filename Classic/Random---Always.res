@@ -14,3 +14,5 @@ Random---Always has sold MKR for $1311.2. Profit was -0.26%.
 Random---Always has bought REN for $0.1565
 [2022-06-01 13:17:00] SOLD
 Random---Always has sold REN for $0.1565. Profit was -0.26%.
+[2022-06-01 13:20:07] BUY
+Random---Always has bought REQ for $0.1311
