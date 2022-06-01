@@ -1,4 +1,4 @@
-[2022-06-01 05:58:31] SUMMARY
+[2022-06-01 06:01:29] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: WBTCUSD
+Altname: WBTCUSD
+Wsname: WBTC/USD
+Base: Name = WBTC
+Altname = WBTC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.0001
+Data about this tradable pair of assets:
+
+        Current:                    31568.6
+        Maximum:                    4e-05
+        Minimum:                    3.1e-05
+        Variance:                   0.2224
+        Mean:                       3.2e-05
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.727273
+        Is ascending:               True
+        Current ascension duration: 14
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.3
+        Is falling:                 True
+        Current fall duration:      21
+        Trending downwards:         False
+        Average local maximum:      31094.6
+        Number of local maximums:   22
+        Average local minimum:      30933.96
+        Number of local minimums:   20
+True
 0
 58
 0.0775610621476518
@@ -61,7 +97,43 @@ Looks for the asset which is closer to its previous local minimum.
 Random.
 {}
 {}
-None
+Name: GARIUSD
+Altname: GARIUSD
+Wsname: GARI/USD
+Base: Name = GARI
+Altname = GARI
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 15
+Data about this tradable pair of assets:
+
+        Current:                    0.6526
+        Maximum:                    1.560793
+        Minimum:                    1.519295
+        Variance:                   0.026588
+        Mean:                       1.535873
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.75
+        Is ascending:               True
+        Current ascension duration: 10
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.4
+        Is falling:                 True
+        Current fall duration:      171
+        Trending downwards:         False
+        Average local maximum:      0.652275
+        Number of local maximums:   8
+        Average local minimum:      0.65222
+        Number of local minimums:   10
+True
 0
 55
 -0.0650372778829621

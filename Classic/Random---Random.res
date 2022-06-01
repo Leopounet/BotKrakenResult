@@ -230,3 +230,5 @@ Random---Random has sold COMP for $64.89. Profit was -0.0%.
 Random---Random has bought ANKR for $0.03965
 [2022-06-01 05:58:31] SOLD
 Random---Random has sold ANKR for $0.03965. Profit was -0.0%.
+[2022-06-01 06:01:29] BUY
+Random---Random has bought WBTC for $31568.6
