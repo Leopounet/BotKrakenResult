@@ -1,4 +1,4 @@
-[2022-06-01 04:53:16] SUMMARY
+[2022-06-01 04:56:14] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,46 +51,10 @@ Random.
 Random.
 {}
 {}
-Name: SHIBUSD
-Altname: SHIBUSD
-Wsname: SHIB/USD
-Base: Name = SHIB
-Altname = SHIB
-decimals = 5
-displayed_decimals = 0
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 500000
-Data about this tradable pair of assets:
-
-        Current:                    1.2e-05
-        Maximum:                    89847.259659
-        Minimum:                    80971.659919
-        Variance:                   0.098785
-        Mean:                       84913.439286
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          3.6
-        Is ascending:               False
-        Current ascension duration: 0
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.5
-        Is falling:                 True
-        Current fall duration:      8
-        Trending downwards:         False
-        Average local maximum:      1.2e-05
-        Number of local maximums:   20
-        Average local minimum:      1.2e-05
-        Number of local minimums:   24
-True
+None
 0
-50
-0.07379197526606751
+51
+0.07293360616735511
 Best score: 
 Recent Minimum---Random
 Looks for the asset which is closer to its previous local minimum.

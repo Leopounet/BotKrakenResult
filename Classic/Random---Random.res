@@ -200,3 +200,5 @@ Random---Random has bought AUDIO for $0.4625
 Random---Random has sold AUDIO for $0.4625. Profit was -0.0%.
 [2022-06-01 04:53:16] BUY
 Random---Random has bought SHIB for $1.165e-05
+[2022-06-01 04:56:14] SOLD
+Random---Random has sold SHIB for $1.164e-05. Profit was -0.0008583690987123971%.
