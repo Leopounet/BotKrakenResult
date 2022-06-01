@@ -344,3 +344,5 @@ Random---Random has bought ENJ for $0.683
 Random---Random has sold ENJ for $0.683. Profit was -0.0%.
 [2022-06-01 10:18:09] BUY
 Random---Random has bought KP3R for $139.7
+[2022-06-01 10:21:16] SOLD
+Random---Random has sold KP3R for $139.7. Profit was -0.0%.

@@ -482,3 +482,5 @@ Recent Minimum---Always has sold CVC for $0.1797. Profit was -0.0%.
 Recent Minimum---Always has bought LUNA2 for $7.32188
 [2022-06-01 10:18:09] SOLD
 Recent Minimum---Always has sold LUNA2 for $7.28698. Profit was -0.004766535370697156%.
+[2022-06-01 10:21:16] BUY
+Recent Minimum---Always has bought LUNA2 for $7.32912

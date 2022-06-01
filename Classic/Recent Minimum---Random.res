@@ -340,3 +340,5 @@ Recent Minimum---Random has bought CVC for $0.1797
 Recent Minimum---Random has sold CVC for $0.1797. Profit was -0.0%.
 [2022-06-01 10:15:04] BUY
 Recent Minimum---Random has bought LUNA2 for $7.32188
+[2022-06-01 10:21:16] SOLD
+Recent Minimum---Random has sold LUNA2 for $7.32912. Profit was 0.0009888170797662799%.
