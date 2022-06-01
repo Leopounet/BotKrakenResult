@@ -106,3 +106,5 @@ Random---Random has sold FXS for $7.505. Profit was 0.0038790797217762574%.
 Random---Random has bought FIDA for $0.503
 [2022-06-01 01:48:56] SOLD
 Random---Random has sold FIDA for $0.507. Profit was 0.007952286282306265%.
+[2022-06-01 01:51:54] BUY
+Random---Random has bought ORCA for $0.84

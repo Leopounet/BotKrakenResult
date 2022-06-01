@@ -2158,3 +2158,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.007952286282306265%.
 ---------------------------------------------------------------------------
+[2022-06-01 01:51:54] BUY
+Random---Random has bought: Name: ORCAUSD
+Altname: ORCAUSD
+Wsname: ORCA/USD
+Base: Name = ORCA
+Altname = ORCA
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.84
+        Maximum:                    1.231527
+        Minimum:                    1.017294
+        Variance:                   0.173957
+        Mean:                       1.12348
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.857143
+        Is ascending:               True
+        Current ascension duration: 54
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.333333
+        Is falling:                 True
+        Current fall duration:      3
+        Trending downwards:         True
+        Average local maximum:      0.871857
+        Number of local maximums:   7
+        Average local minimum:      0.930556
+        Number of local minimums:   9
+True
+
+---------------------------------------------------------------------------

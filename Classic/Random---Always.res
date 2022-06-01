@@ -154,3 +154,5 @@ Random---Always has sold KILT for $0.807. Profit was -0.0%.
 Random---Always has bought ZUSD for $1.26458
 [2022-06-01 01:48:56] SOLD
 Random---Always has sold ZUSD for $1.26457. Profit was -7.907763842629478e-06%.
+[2022-06-01 01:51:54] BUY
+Random---Always has bought SGB for $0.0389

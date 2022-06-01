@@ -3118,3 +3118,43 @@ Data about this tradable pair of assets:
 True
 Profit was -7.907763842629478e-06%.
 ---------------------------------------------------------------------------
+[2022-06-01 01:51:54] BUY
+Random---Always has bought: Name: SGBUSD
+Altname: SGBUSD
+Wsname: SGB/USD
+Base: Name = SGB
+Altname = SGB
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 150
+Data about this tradable pair of assets:
+
+        Current:                    0.0389
+        Maximum:                    30.674847
+        Minimum:                    25.510204
+        Variance:                   0.168367
+        Mean:                       27.429648
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.117647
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.25
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         False
+        Average local maximum:      0.036709
+        Number of local maximums:   34
+        Average local minimum:      0.036204
+        Number of local minimums:   24
+True
+
+---------------------------------------------------------------------------
