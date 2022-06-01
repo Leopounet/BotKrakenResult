@@ -552,3 +552,5 @@ Random---Always has bought KSM for $81.5
 Random---Always has sold KSM for $81.42. Profit was -0.0009815950920245564%.
 [2022-06-01 12:06:27] BUY
 Random---Always has bought CFG for $0.2649
+[2022-06-01 12:09:30] SOLD
+Random---Always has sold CFG for $0.2649. Profit was -0.0%.

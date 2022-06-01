@@ -382,3 +382,5 @@ Random---Random has sold SOL for $44.38. Profit was 0.002484752654167588%.
 Random---Random has bought SRM for $1.145
 [2022-06-01 12:06:27] SOLD
 Random---Random has sold SRM for $1.145. Profit was -0.0%.
+[2022-06-01 12:09:30] BUY
+Random---Random has bought STEP for $0.0923

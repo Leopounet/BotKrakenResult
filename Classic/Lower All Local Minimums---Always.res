@@ -552,3 +552,5 @@ Lower All Local Minimums---Always has bought GST for $1.111
 Lower All Local Minimums---Always has sold GST for $1.175. Profit was 0.057605760576057596%.
 [2022-06-01 12:06:27] BUY
 Lower All Local Minimums---Always has bought KINT for $3.58
+[2022-06-01 12:09:30] SOLD
+Lower All Local Minimums---Always has sold KINT for $3.59. Profit was 0.0027932960893854997%.
