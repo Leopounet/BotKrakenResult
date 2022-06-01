@@ -1758,3 +1758,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 00:11:24] BUY
+Random---Always has bought: Name: FXSUSD
+Altname: FXSUSD
+Wsname: FXS/USD
+Base: Name = FXS
+Altname = FXS
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.3
+Data about this tradable pair of assets:
+
+        Current:                    7.566
+        Maximum:                    0.150557
+        Minimum:                    0.113649
+        Variance:                   0.245141
+        Mean:                       0.138615
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.307692
+        Is ascending:               True
+        Current ascension duration: 7
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.9
+        Is falling:                 True
+        Current fall duration:      33
+        Trending downwards:         False
+        Average local maximum:      7.208192
+        Number of local maximums:   26
+        Average local minimum:      7.1976
+        Number of local minimums:   20
+True
+
+---------------------------------------------------------------------------

@@ -86,3 +86,5 @@ Random---Always has sold ICP for $8.305. Profit was -0.0%.
 Random---Always has bought SAND for $1.4572
 [2022-06-01 00:08:28] SOLD
 Random---Always has sold SAND for $1.4572. Profit was -0.0%.
+[2022-06-01 00:11:24] BUY
+Random---Always has bought FXS for $7.566
