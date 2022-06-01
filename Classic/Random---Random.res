@@ -56,3 +56,5 @@ Random---Random has bought BCH for $205.54
 Random---Random has sold BCH for $203.51. Profit was -0.009876423080665608%.
 [2022-06-01 00:17:20] BUY
 Random---Random has bought 1INCH for $0.967
+[2022-06-01 00:26:12] SOLD
+Random---Random has sold 1INCH for $0.955. Profit was -0.012409513960703222%.
