@@ -2438,3 +2438,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 01:01:46] SOLD
+Random---Always has sold: Name: TRXUSD
+Altname: TRXUSD
+Wsname: TRX/USD
+Base: Name = TRX
+Altname = TRX
+decimals = 8
+displayed_decimals = 6
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 50
+Data about this tradable pair of assets:
+
+        Current:                    0.08371
+        Maximum:                    12.712134
+        Minimum:                    11.850307
+        Variance:                   0.067796
+        Mean:                       12.243339
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.777778
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.24
+        Is falling:                 False
+        Current fall duration:      2
+        Trending downwards:         False
+        Average local maximum:      0.08167
+        Number of local maximums:   27
+        Average local minimum:      0.081465
+        Number of local minimums:   25
+True
+Profit was 0.0002628120893559682%.
+---------------------------------------------------------------------------

@@ -120,3 +120,5 @@ Recent Minimum---Always has bought RAY for $1.018
 Recent Minimum---Always has sold RAY for $1.018. Profit was -0.0%.
 [2022-06-01 00:58:50] BUY
 Recent Minimum---Always has bought RAY for $1.018
+[2022-06-01 01:01:46] SOLD
+Recent Minimum---Always has sold RAY for $1.018. Profit was -0.0%.

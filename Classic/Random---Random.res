@@ -80,3 +80,5 @@ Random---Random has bought ORCA for $0.912
 Random---Random has sold ORCA for $0.912. Profit was -0.0%.
 [2022-06-01 00:58:49] BUY
 Random---Random has bought ENJ for $0.698
+[2022-06-01 01:01:46] SOLD
+Random---Random has sold ENJ for $0.698. Profit was -0.0%.
