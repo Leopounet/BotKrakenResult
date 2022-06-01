@@ -2879,3 +2879,46 @@ Is init: True
 
 Random---Always now has $8279.419957154576
 ---------------------------------------------------------------------------
+[2022-06-01 17:10:36] SOLD
+Random---Always has sold: 
+Name: GMTUSD
+Altname: GMTUSD
+Wsname: GMT/USD
+Base:
+ 	Name: GMT
+	Altname: GMT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (GMTUSD):
+	Current:                    1.035
+	Maximum:                    0.966184
+	Minimum:                    0.777605
+	Variance:                   0.195179
+	Mean:                       0.846023
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.454545
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.666667
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.190182
+	Number of local maximums:   22
+	Average local minimum:      1.163889
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Always now has $8236.366973377371
+---------------------------------------------------------------------------
