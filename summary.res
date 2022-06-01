@@ -1,4 +1,4 @@
-[2022-06-01 03:35:08] SUMMARY
+[2022-06-01 03:38:15] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: USDTZUSD
+Altname: USDTUSD
+Wsname: USDT/USD
+Base: Name = USDT
+Altname = USDT
+decimals = 8
+displayed_decimals = 4
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.9992
+        Maximum:                    1.001201
+        Minimum:                    1.0006
+        Variance:                   0.0006
+        Mean:                       1.00084
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.941176
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.636364
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.999186
+        Number of local maximums:   51
+        Average local minimum:      0.999167
+        Number of local minimums:   33
+True
 0
 42
 0.0803430542114365

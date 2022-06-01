@@ -166,3 +166,5 @@ Random---Random has sold ACA for $0.414. Profit was -0.0%.
 Random---Random has bought STORJ for $0.58393
 [2022-06-01 03:35:08] SOLD
 Random---Random has sold STORJ for $0.58393. Profit was -0.0%.
+[2022-06-01 03:38:15] BUY
+Random---Random has bought USDT for $0.9992
