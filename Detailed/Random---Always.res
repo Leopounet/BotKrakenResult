@@ -10198,3 +10198,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 11:02:33] SOLD
+Random---Always has sold: Name: NMRUSD
+Altname: NMRUSD
+Wsname: NMR/USD
+Base: Name = NMR
+Altname = NMR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.25
+Data about this tradable pair of assets:
+
+        Current:                    12.74
+        Maximum:                    0.082576
+        Minimum:                    0.076161
+        Variance:                   0.077685
+        Mean:                       0.078584
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.210526
+        Is ascending:               True
+        Current ascension duration: 60
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.071429
+        Is falling:                 True
+        Current fall duration:      63
+        Trending downwards:         False
+        Average local maximum:      12.628947
+        Number of local maximums:   19
+        Average local minimum:      12.75
+        Number of local minimums:   14
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
