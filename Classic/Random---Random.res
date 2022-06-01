@@ -96,3 +96,5 @@ Random---Random has bought SPELL for $0.001338
 Random---Random has sold SPELL for $0.001338. Profit was -0.0%.
 [2022-06-01 01:22:28] BUY
 Random---Random has bought BCH for $205.57
+[2022-06-01 01:25:25] SOLD
+Random---Random has sold BCH for $203.75. Profit was -0.008853431921000077%.

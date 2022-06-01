@@ -136,3 +136,5 @@ Recent Minimum---Always has bought XXMR for $199.13
 Recent Minimum---Always has sold XXMR for $199.0. Profit was -0.0006528398533620638%.
 [2022-06-01 01:22:28] BUY
 Recent Minimum---Always has bought LPT for $12.97
+[2022-06-01 01:25:25] SOLD
+Recent Minimum---Always has sold LPT for $12.97. Profit was -0.0%.

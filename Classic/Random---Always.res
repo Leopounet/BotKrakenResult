@@ -136,3 +136,5 @@ Random---Always has bought QTUM for $4.21367
 Random---Always has sold QTUM for $4.21367. Profit was -0.0%.
 [2022-06-01 01:22:28] BUY
 Random---Always has bought XRT for $3.73
+[2022-06-01 01:25:25] SOLD
+Random---Always has sold XRT for $3.73. Profit was -0.0%.
