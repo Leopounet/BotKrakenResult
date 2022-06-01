@@ -42,3 +42,7 @@ Random---Always now has $9742.689975720059
 Random---Always has bought SUPER for $0.2234
 Random---Always now has $9742.689975720059
 ---------------------------------------------------------------------------
+[2022-06-01 14:13:58] SOLD
+Random---Always has sold SUPER for $0.2234. Profit was -0.52%.
+Random---Always now has $9692.027987846315
+---------------------------------------------------------------------------

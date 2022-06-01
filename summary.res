@@ -1,4 +1,4 @@
-[2022-06-01 14:10:53] SUMMARY
+[2022-06-01 14:13:58] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SUPERUSD
-	Altname: SUPERUSD
-	Wsname: SUPER/USD
-	Base:
-	 	Name: SUPER
-		Altname: SUPER
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 25
-	Data about this pair of assets (SUPERUSD):
-		Current:                    0.2234
-		Maximum:                    5.586592
-		Minimum:                    3.773585
-		Variance:                   0.324528
-		Mean:                       4.578758
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.210526
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.071429
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         False
-		Average local maximum:      0.220755
-		Number of local maximums:   38
-		Average local minimum:      0.219796
-		Number of local minimums:   28
-	Is init: True
+	None
 Wins: 0
-Losses: 5
-Total points: -2.6%
-Wallet: 9742.689975720059
+Losses: 6
+Total points: -3.12%
+Wallet: 9692.027987846315
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GSTUSD
-	Altname: GSTUSD
-	Wsname: GST/USD
-	Base:
-	 	Name: GST
-		Altname: GST
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (GSTUSD):
-		Current:                    0.936
-		Maximum:                    1.10011
-		Minimum:                    0.629327
-		Variance:                   0.427942
-		Mean:                       0.777357
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.75
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.272727
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.293639
-		Number of local maximums:   36
-		Average local minimum:      1.287
-		Number of local minimums:   33
-	Is init: True
+	None
 Wins: 1
-Losses: 4
-Total points: -4.624354587411192%
-Wallet: 9532.823026365124
+Losses: 5
+Total points: -5.144354587411192%
+Wallet: 9483.252346628025
 ---------------------------------------------------------------------------
 Best score: 
 Name: Lower All Local Minimums---Twenty-four hours
