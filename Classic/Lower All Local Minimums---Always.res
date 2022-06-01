@@ -638,3 +638,7 @@ Lower All Local Minimums---Always now has $6543.702270492303
 Lower All Local Minimums---Always has sold CTSI for $0.1893. Profit was -0.52%.
 Lower All Local Minimums---Always now has $6509.6750186857425
 ---------------------------------------------------------------------------
+[2022-06-01 22:06:06] BUY
+Lower All Local Minimums---Always has bought YFI for $7382.0
+Lower All Local Minimums---Always now has $6509.6750186857425
+---------------------------------------------------------------------------
