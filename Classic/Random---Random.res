@@ -242,3 +242,5 @@ Random---Random has sold SGB for $0.0391. Profit was -0.0%.
 Random---Random has bought ZRX for $0.434
 [2022-06-01 06:32:26] SOLD
 Random---Random has sold ZRX for $0.434. Profit was -0.0%.
+[2022-06-01 06:35:26] BUY
+Random---Random has bought MASK for $1.973
