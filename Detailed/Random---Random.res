@@ -2363,3 +2363,46 @@ Is init: True
 
 Random---Random now has $8680.216200667792
 ---------------------------------------------------------------------------
+[2022-06-01 18:06:31] SOLD
+Random---Random has sold: 
+Name: ALGOUSD
+Altname: ALGOUSD
+Wsname: ALGO/USD
+Base:
+ 	Name: ALGO
+	Altname: ALGO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (ALGOUSD):
+	Current:                    0.3918
+	Maximum:                    2.577785
+	Minimum:                    2.354603
+	Variance:                   0.086579
+	Mean:                       2.44317
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.181818
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.125
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.409364
+	Number of local maximums:   22
+	Average local minimum:      0.411649
+	Number of local minimums:   16
+Is init: True
+Profit was -0.42301174068403347%.
+Random---Random now has $8643.49786702221
+---------------------------------------------------------------------------
