@@ -140,3 +140,5 @@ Random---Always has bought XRT for $3.73
 Random---Always has sold XRT for $3.73. Profit was -0.0%.
 [2022-06-01 01:28:22] BUY
 Random---Always has bought ICP for $8.322
+[2022-06-01 01:31:18] SOLD
+Random---Always has sold ICP for $8.322. Profit was -0.0%.
