@@ -8918,3 +8918,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 09:21:52] SOLD
+Recent Minimum---Always has sold: Name: XRTUSD
+Altname: XRTUSD
+Wsname: XRT/USD
+Base: Name = XRT
+Altname = XRT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    3.99
+        Maximum:                    0.286533
+        Minimum:                    0.240385
+        Variance:                   0.161058
+        Mean:                       0.259405
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.625
+        Is ascending:               True
+        Current ascension duration: 18
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.428571
+        Is falling:                 True
+        Current fall duration:      137
+        Trending downwards:         False
+        Average local maximum:      3.84625
+        Number of local maximums:   16
+        Average local minimum:      3.887857
+        Number of local minimums:   14
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
