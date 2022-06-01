@@ -9718,3 +9718,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 10:24:31] SOLD
+Random---Always has sold: Name: OGNUSD
+Altname: OGNUSD
+Wsname: OGN/USD
+Base: Name = OGN
+Altname = OGN
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.3144
+        Maximum:                    4.938272
+        Minimum:                    2.545825
+        Variance:                   0.48447
+        Mean:                       3.876806
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.0
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.25
+        Is falling:                 False
+        Current fall duration:      2
+        Trending downwards:         False
+        Average local maximum:      0.263167
+        Number of local maximums:   21
+        Average local minimum:      0.272218
+        Number of local minimums:   28
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

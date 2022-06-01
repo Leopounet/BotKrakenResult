@@ -346,3 +346,5 @@ Random---Random has sold ENJ for $0.683. Profit was -0.0%.
 Random---Random has bought KP3R for $139.7
 [2022-06-01 10:21:16] SOLD
 Random---Random has sold KP3R for $139.7. Profit was -0.0%.
+[2022-06-01 10:24:31] BUY
+Random---Random has bought PSTAKE for $0.2533
