@@ -428,3 +428,5 @@ Lower All Local Minimums---Always has bought DAI for $0.99977
 Lower All Local Minimums---Always has sold DAI for $0.99977. Profit was -0.0%.
 [2022-06-01 08:53:24] BUY
 Lower All Local Minimums---Always has bought GST for $1.126
+[2022-06-01 08:56:28] SOLD
+Lower All Local Minimums---Always has sold GST for $1.126. Profit was -0.0%.

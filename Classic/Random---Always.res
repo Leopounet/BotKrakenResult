@@ -428,3 +428,5 @@ Random---Always has bought XETH for $1932.81
 Random---Always has sold XETH for $1932.99. Profit was 9.312865724009356e-05%.
 [2022-06-01 08:53:24] BUY
 Random---Always has bought ICP for $8.074
+[2022-06-01 08:56:28] SOLD
+Random---Always has sold ICP for $8.092. Profit was 0.002229378251176639%.
