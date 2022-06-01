@@ -6438,3 +6438,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 09:27:55] SOLD
+Random---Random has sold: Name: XREPZUSD
+Altname: REPUSD
+Wsname: REP/USD
+Base: Name = XREP
+Altname = REP
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.15
+Data about this tradable pair of assets:
+
+        Current:                    10.037
+        Maximum:                    0.09989
+        Minimum:                    0.083431
+        Variance:                   0.164776
+        Mean:                       0.091893
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.607143
+        Is ascending:               True
+        Current ascension duration: 31
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               5.6
+        Is falling:                 True
+        Current fall duration:      14
+        Trending downwards:         True
+        Average local maximum:      10.947214
+        Number of local maximums:   28
+        Average local minimum:      11.0232
+        Number of local minimums:   15
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

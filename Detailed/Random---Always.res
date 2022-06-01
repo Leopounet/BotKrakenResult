@@ -8998,3 +8998,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 09:27:55] SOLD
+Random---Always has sold: Name: XETCZUSD
+Altname: ETCUSD
+Wsname: ETC/USD
+Base: Name = XETC
+Altname = ETC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.1
+Data about this tradable pair of assets:
+
+        Current:                    23.661
+        Maximum:                    0.04341
+        Minimum:                    0.039915
+        Variance:                   0.080509
+        Mean:                       0.041716
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.7
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               5.294118
+        Is falling:                 True
+        Current fall duration:      15
+        Trending downwards:         False
+        Average local maximum:      24.191167
+        Number of local maximums:   30
+        Average local minimum:      23.777765
+        Number of local minimums:   17
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

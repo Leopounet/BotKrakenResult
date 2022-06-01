@@ -320,3 +320,5 @@ Random---Random has bought T for $0.06539
 Random---Random has sold T for $0.06539. Profit was -0.0%.
 [2022-06-01 09:18:50] BUY
 Random---Random has bought XREP for $10.037
+[2022-06-01 09:27:55] SOLD
+Random---Random has sold XREP for $10.037. Profit was -0.0%.
