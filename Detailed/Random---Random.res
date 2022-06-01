@@ -772,3 +772,46 @@ Is init: True
 Profit was -0.07467590301829707%.
 Random---Random now has $9226.431800627435
 ---------------------------------------------------------------------------
+[2022-06-01 15:02:53] BUY
+Random---Random has bought: 
+Name: ICPUSD
+Altname: ICPUSD
+Wsname: ICP/USD
+Base:
+ 	Name: ICP
+	Altname: ICP
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (ICPUSD):
+	Current:                    8.067
+	Maximum:                    0.134048
+	Minimum:                    0.114877
+	Variance:                   0.143021
+	Mean:                       0.124929
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.181818
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.828571
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         False
+	Average local maximum:      7.938212
+	Number of local maximums:   33
+	Average local minimum:      7.950629
+	Number of local minimums:   35
+Is init: True
+
+Random---Random now has $9226.431800627435
+---------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-[2022-06-01 14:59:50] SUMMARY
+[2022-06-01 15:02:53] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: POWRUSD
-	Altname: POWRUSD
-	Wsname: POWR/USD
-	Base:
-	 	Name: POWR
-		Altname: POWR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (POWRUSD):
-		Current:                    0.2807
-		Maximum:                    3.93391
-		Minimum:                    3.171583
-		Variance:                   0.193784
-		Mean:                       3.620117
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          5.0
-		Is ascending:               True
-		Current ascension duration: 9
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.8
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         False
-		Average local maximum:      0.279867
-		Number of local maximums:   6
-		Average local minimum:      0.27387
-		Number of local minimums:   10
-	Is init: True
+	None
 Wins: 0
-Losses: 13
-Total points: -6.5422841089532096%
-Wallet: 9365.156543416004
+Losses: 14
+Total points: -7.062284108953209%
+Wallet: 9316.45772939024
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: YFIUSD
-	Altname: YFIUSD
-	Wsname: YFI/USD
-	Base:
-	 	Name: YFI
-		Altname: YFI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.00015
-	Data about this pair of assets (YFIUSD):
-		Current:                    7889.0
-		Maximum:                    0.000128
-		Minimum:                    0.000117
-		Variance:                   0.07977
-		Mean:                       0.000123
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.171429
-		Is ascending:               True
-		Current ascension duration: 23
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.837838
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         False
-		Average local maximum:      8126.142857
-		Number of local maximums:   35
-		Average local minimum:      8144.27027
-		Number of local minimums:   37
-	Is init: True
+	None
 Wins: 3
-Losses: 10
-Total points: -10.113522930450246%
-Wallet: 9003.3885257842
+Losses: 11
+Total points: -10.633522930450246%
+Wallet: 8956.570905450122
 ---------------------------------------------------------------------------
 Best score: 
 Name: Lower All Local Minimums---Twenty-four hours
