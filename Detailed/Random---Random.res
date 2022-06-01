@@ -3739,3 +3739,46 @@ Is init: True
 
 Random---Random now has $8349.63255539089
 ---------------------------------------------------------------------------
+[2022-06-01 20:30:12] SOLD
+Random---Random has sold: 
+Name: PHAUSD
+Altname: PHAUSD
+Wsname: PHA/USD
+Base:
+ 	Name: PHA
+	Altname: PHA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (PHAUSD):
+	Current:                    0.1242
+	Maximum:                    8.05153
+	Minimum:                    7.380074
+	Variance:                   0.083395
+	Mean:                       7.625483
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.666667
+	Is ascending:               True
+	Current ascension duration: 26
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.375
+	Is falling:                 True
+	Current fall duration:      21
+	Trending downwards:         True
+	Average local maximum:      0.130233
+	Number of local maximums:   18
+	Average local minimum:      0.131612
+	Number of local minimums:   16
+Is init: True
+Profit was -0.6810305958132052%.
+Random---Random now has $8292.769003050698
+---------------------------------------------------------------------------
