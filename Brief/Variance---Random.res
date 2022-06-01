@@ -193,3 +193,8 @@ Variance---Random has 0 wins
 Variance---Random has 39 losses
 Variance---Random has -0.011685709905806418 points
 ---------------------------------------------------------------------------
+[2022-06-01 03:59:01] BRIEF
+Variance---Random has 0 wins
+Variance---Random has 40 losses
+Variance---Random has -0.011685709905806418 points
+---------------------------------------------------------------------------

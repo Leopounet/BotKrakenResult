@@ -174,3 +174,5 @@ Random---Random has sold USDT for $0.9992. Profit was -0.0%.
 Random---Random has bought PSTAKE for $0.2571
 [2022-06-01 03:56:04] SOLD
 Random---Random has sold PSTAKE for $0.2571. Profit was -0.0%.
+[2022-06-01 03:59:01] BUY
+Random---Random has bought ZRX for $0.428
