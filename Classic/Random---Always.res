@@ -534,3 +534,5 @@ Random---Always has sold XETC for $23.499. Profit was -0.0%.
 Random---Always has bought XZEC for $93.09
 [2022-06-01 11:39:09] SOLD
 Random---Always has sold XZEC for $93.28. Profit was 0.002041035556987758%.
+[2022-06-01 11:42:08] BUY
+Random---Always has bought MASK for $1.99
