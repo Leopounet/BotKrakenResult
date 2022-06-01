@@ -178,3 +178,5 @@ Random---Always has sold BNC for $0.396. Profit was -0.0%.
 Random---Always has bought NANO for $1.206148
 [2022-06-01 02:24:12] SOLD
 Random---Always has sold NANO for $1.206148. Profit was -0.0%.
+[2022-06-01 02:27:08] BUY
+Random---Always has bought OCEAN for $0.2331
