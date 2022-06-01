@@ -350,3 +350,5 @@ Random---Random has sold KP3R for $139.7. Profit was -0.0%.
 Random---Random has bought PSTAKE for $0.2533
 [2022-06-01 10:37:02] SOLD
 Random---Random has sold PSTAKE for $0.2533. Profit was -0.0%.
+[2022-06-01 10:40:03] BUY
+Random---Random has bought COMP for $66.19

@@ -494,3 +494,5 @@ Random---Always has sold ADA for $0.610087. Profit was 0.00013114603602915054%.
 Random---Always has bought PSTAKE for $0.2533
 [2022-06-01 10:37:02] SOLD
 Random---Always has sold PSTAKE for $0.2533. Profit was -0.0%.
+[2022-06-01 10:40:03] BUY
+Random---Always has bought KIN for $1.433e-05

@@ -9918,3 +9918,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 10:40:03] BUY
+Random---Always has bought: Name: KINUSD
+Altname: KINUSD
+Wsname: KIN/USD
+Base: Name = KIN
+Altname = KIN
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 250000
+Data about this tradable pair of assets:
+
+        Current:                    1.4e-05
+        Maximum:                    75815.011372
+        Minimum:                    69444.444444
+        Variance:                   0.084028
+        Mean:                       72233.057495
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.571429
+        Is ascending:               True
+        Current ascension duration: 6
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.5
+        Is falling:                 True
+        Current fall duration:      9
+        Trending downwards:         False
+        Average local maximum:      1.4e-05
+        Number of local maximums:   28
+        Average local minimum:      1.4e-05
+        Number of local minimums:   24
+True
+
+---------------------------------------------------------------------------
