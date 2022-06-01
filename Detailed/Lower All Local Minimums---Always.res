@@ -1116,3 +1116,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Always now has $9003.3885257842
 ---------------------------------------------------------------------------
+[2022-06-01 14:59:50] BUY
+Lower All Local Minimums---Always has bought: 
+Name: YFIUSD
+Altname: YFIUSD
+Wsname: YFI/USD
+Base:
+ 	Name: YFI
+	Altname: YFI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.00015
+Data about this pair of assets (YFIUSD):
+	Current:                    7889.0
+	Maximum:                    0.000128
+	Minimum:                    0.000117
+	Variance:                   0.07977
+	Mean:                       0.000123
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.171429
+	Is ascending:               True
+	Current ascension duration: 23
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.837838
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         False
+	Average local maximum:      8126.142857
+	Number of local maximums:   35
+	Average local minimum:      8144.27027
+	Number of local minimums:   37
+Is init: True
+
+Lower All Local Minimums---Always now has $9003.3885257842
+---------------------------------------------------------------------------
