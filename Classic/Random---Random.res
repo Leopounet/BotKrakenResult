@@ -426,3 +426,7 @@ Random---Random now has $8034.24884999469
 Random---Random has bought ALGO for $0.37947
 Random---Random now has $8034.24884999469
 ---------------------------------------------------------------------------
+[2022-06-01 21:59:52] SOLD
+Random---Random has sold ALGO for $0.37947. Profit was -0.52%.
+Random---Random now has $7992.470755974718
+---------------------------------------------------------------------------
