@@ -178,3 +178,7 @@ Random---Random now has $9216.70226709374
 Random---Random has bought ZEUR for $1.06406
 Random---Random now has $9216.70226709374
 ---------------------------------------------------------------------------
+[2022-06-01 16:52:53] SOLD
+Random---Random has sold ZEUR for $1.06406. Profit was -0.4%.
+Random---Random now has $9179.835458025365
+---------------------------------------------------------------------------
