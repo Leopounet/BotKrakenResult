@@ -944,3 +944,46 @@ Is init: True
 Profit was 3.7932117303235073%.
 Random---Random now has $9526.612562530441
 ---------------------------------------------------------------------------
+[2022-06-01 15:21:08] BUY
+Random---Random has bought: 
+Name: REPV2USD
+Altname: REPV2USD
+Wsname: REPV2/USD
+Base:
+ 	Name: REPV2
+	Altname: REPV2
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (REPV2USD):
+	Current:                    10.32
+	Maximum:                    0.09991
+	Minimum:                    0.084955
+	Variance:                   0.14969
+	Mean:                       0.092441
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.125
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               8.0
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      10.8755
+	Number of local maximums:   24
+	Average local minimum:      10.955889
+	Number of local minimums:   9
+Is init: True
+
+Random---Random now has $9526.612562530441
+---------------------------------------------------------------------------
