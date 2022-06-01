@@ -4384,3 +4384,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $8121.108399770069
 ---------------------------------------------------------------------------
+[2022-06-01 21:44:37] BUY
+Random---Random has bought: 
+Name: FLOWUSD
+Altname: FLOWUSD
+Wsname: FLOW/USD
+Base:
+ 	Name: FLOW
+	Altname: FLOW
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1.5
+Data about this pair of assets (FLOWUSD):
+	Current:                    2.462
+	Maximum:                    0.411184
+	Minimum:                    0.347464
+	Variance:                   0.154969
+	Mean:                       0.375712
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.25
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.769231
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      2.632917
+	Number of local maximums:   24
+	Average local minimum:      2.668
+	Number of local minimums:   26
+Is init: True
+
+Random---Random now has $8121.108399770069
+---------------------------------------------------------------------------

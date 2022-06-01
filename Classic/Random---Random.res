@@ -406,3 +406,7 @@ Random---Random now has $8163.558906081694
 Random---Random has sold OCEAN for $0.2093. Profit was -0.52%.
 Random---Random now has $8121.108399770069
 ---------------------------------------------------------------------------
+[2022-06-01 21:44:37] BUY
+Random---Random has bought FLOW for $2.462
+Random---Random now has $8121.108399770069
+---------------------------------------------------------------------------
