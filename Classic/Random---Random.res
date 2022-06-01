@@ -120,3 +120,5 @@ Random---Random has bought XETC for $23.812
 Random---Random has sold XETC for $23.812. Profit was -0.0%.
 [2022-06-01 02:18:19] BUY
 Random---Random has bought AAVE for $114.37
+[2022-06-01 02:21:14] SOLD
+Random---Random has sold AAVE for $113.92. Profit was -0.0039345982338026%.

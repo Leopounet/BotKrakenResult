@@ -1,4 +1,4 @@
-[2022-06-01 02:18:19] SUMMARY
+[2022-06-01 02:21:14] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,54 +51,18 @@ Random.
 Random.
 {}
 {}
-Name: AAVEUSD
-Altname: AAVEUSD
-Wsname: AAVE/USD
-Base: Name = AAVE
-Altname = AAVE
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 0.02
-Data about this tradable pair of assets:
-
-        Current:                    114.37
-        Maximum:                    0.010664
-        Minimum:                    0.008108
-        Variance:                   0.239744
-        Mean:                       0.009263
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          1.956522
-        Is ascending:               True
-        Current ascension duration: 3
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               4.6
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         False
-        Average local maximum:      108.989565
-        Number of local maximums:   23
-        Average local minimum:      109.11
-        Number of local minimums:   15
-True
+None
 0
-30
--0.019600381011750545
+31
+-0.023534979245553145
 Best score: 
-Mean---Always
-Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
-Always sells.
+Random---Random
+Random.
+Random.
 {}
 {}
 None
 0
-44
--0.020371448929632607
+31
+-0.023534979245553145
 ---------------------------------------------------------------------------

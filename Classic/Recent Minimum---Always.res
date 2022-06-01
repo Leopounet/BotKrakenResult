@@ -174,3 +174,5 @@ Recent Minimum---Always has sold ATLAS for $0.00902. Profit was -0.0%.
 Recent Minimum---Always has bought ZEUR for $1.07145
 [2022-06-01 02:18:19] SOLD
 Recent Minimum---Always has sold ZEUR for $1.07143. Profit was -1.866629334068559e-05%.
+[2022-06-01 02:21:14] BUY
+Recent Minimum---Always has bought ATLAS for $0.00902

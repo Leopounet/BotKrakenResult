@@ -174,3 +174,5 @@ Random---Always has sold MOVR for $23.1955. Profit was -0.0%.
 Random---Always has bought BNC for $0.396
 [2022-06-01 02:18:19] SOLD
 Random---Always has sold BNC for $0.396. Profit was -0.0%.
+[2022-06-01 02:21:14] BUY
+Random---Always has bought NANO for $1.206148
