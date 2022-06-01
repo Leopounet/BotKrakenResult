@@ -1,4 +1,4 @@
-[2022-06-01 06:29:25] SUMMARY
+[2022-06-01 06:32:26] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,45 +51,9 @@ Random.
 Random.
 {}
 {}
-Name: ZRXUSD
-Altname: ZRXUSD
-Wsname: ZRX/USD
-Base: Name = ZRX
-Altname = ZRX
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 5
-Data about this tradable pair of assets:
-
-        Current:                    0.434
-        Maximum:                    2.604167
-        Minimum:                    2.257336
-        Variance:                   0.133183
-        Mean:                       2.418769
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          4.434783
-        Is ascending:               False
-        Current ascension duration: 1
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.029412
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         False
-        Average local maximum:      0.413348
-        Number of local maximums:   23
-        Average local minimum:      0.411324
-        Number of local minimums:   34
-True
+None
 0
-60
+61
 0.0775610621476518
 Best score: 
 Recent Minimum---Random

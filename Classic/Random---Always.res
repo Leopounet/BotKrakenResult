@@ -338,3 +338,5 @@ Random---Always has sold GLMR for $1.33. Profit was -0.0007513148009015147%.
 Random---Always has bought SUPER for $0.2228
 [2022-06-01 06:29:25] SOLD
 Random---Always has sold SUPER for $0.2228. Profit was -0.0%.
+[2022-06-01 06:32:26] BUY
+Random---Always has bought FXS for $7.397
