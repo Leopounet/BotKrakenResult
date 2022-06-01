@@ -250,3 +250,5 @@ Random---Random has sold MASK for $1.973. Profit was -0.0%.
 Random---Random has bought AKT for $0.4273
 [2022-06-01 06:44:46] SOLD
 Random---Random has sold AKT for $0.4273. Profit was -0.0%.
+[2022-06-01 06:48:02] BUY
+Random---Random has bought SNX for $3.214
