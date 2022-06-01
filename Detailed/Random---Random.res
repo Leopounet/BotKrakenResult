@@ -334,3 +334,45 @@ Data about this pair of assets (SDNUSD):
 Is init: True
 Profit was 0.4842615012106588%.
 ---------------------------------------------------------------------------
+[2022-06-01 12:52:56] BUY
+Random---Random has bought: 
+Name: AVAXUSD
+Altname: AVAXUSD
+Wsname: AVAX/USD
+Base:
+ 	Name: AVAX
+	Altname: AVAX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (AVAXUSD):
+	Current:                    26.13
+	Maximum:                    0.039448
+	Minimum:                    0.034423
+	Variance:                   0.127367
+	Mean:                       0.037319
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.631579
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.478261
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         False
+	Average local maximum:      26.647368
+	Number of local maximums:   19
+	Average local minimum:      26.73
+	Number of local minimums:   23
+Is init: True
+
+---------------------------------------------------------------------------

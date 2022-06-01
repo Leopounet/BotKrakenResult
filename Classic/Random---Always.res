@@ -24,3 +24,5 @@ Random---Always has bought GARI for $0.6475
 Random---Always has sold GARI for $0.6475. Profit was -0.0%.
 [2022-06-01 12:49:44] BUY
 Random---Always has bought KEEP for $0.27698
+[2022-06-01 12:52:56] SOLD
+Random---Always has sold KEEP for $0.277. Profit was 0.007220737959423573%.
