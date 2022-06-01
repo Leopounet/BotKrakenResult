@@ -582,3 +582,7 @@ Random---Always now has $7053.994481061661
 Random---Always has sold STORJ for $0.55989. Profit was -0.52%.
 Random---Always now has $7017.31370976014
 ---------------------------------------------------------------------------
+[2022-06-01 21:22:52] BUY
+Random---Always has bought AAVE for $106.24
+Random---Always now has $7017.31370976014
+---------------------------------------------------------------------------
