@@ -498,3 +498,7 @@ Random---Random now has $7707.199179194149
 Random---Random has bought MATIC for $0.6015
 Random---Random now has $7707.199179194149
 ---------------------------------------------------------------------------
+[2022-06-01 23:22:34] SOLD
+Random---Random has sold MATIC for $0.6015. Profit was -0.52%.
+Random---Random now has $7667.1217434623395
+---------------------------------------------------------------------------
