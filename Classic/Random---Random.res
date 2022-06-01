@@ -168,3 +168,5 @@ Random---Random has bought STORJ for $0.58393
 Random---Random has sold STORJ for $0.58393. Profit was -0.0%.
 [2022-06-01 03:38:15] BUY
 Random---Random has bought USDT for $0.9992
+[2022-06-01 03:41:13] SOLD
+Random---Random has sold USDT for $0.9992. Profit was -0.0%.
