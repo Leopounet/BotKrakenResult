@@ -296,3 +296,5 @@ Random---Always has bought FIL for $7.942
 Random---Always has sold FIL for $7.931. Profit was -0.0013850415512465242%.
 [2022-06-01 05:23:45] BUY
 Random---Always has bought WAVES for $7.9944
+[2022-06-01 05:26:45] SOLD
+Random---Always has sold WAVES for $8.0046. Profit was 0.0012758931251877215%.

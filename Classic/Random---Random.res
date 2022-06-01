@@ -214,3 +214,5 @@ Random---Random has sold ORCA for $0.84. Profit was -0.0%.
 Random---Random has bought TBTC for $30068.5
 [2022-06-01 05:23:45] SOLD
 Random---Random has sold TBTC for $30068.5. Profit was -0.0%.
+[2022-06-01 05:26:45] BUY
+Random---Random has bought MOVR for $22.7693
