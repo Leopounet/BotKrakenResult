@@ -182,3 +182,5 @@ Random---Always has sold NANO for $1.206148. Profit was -0.0%.
 Random---Always has bought OCEAN for $0.2331
 [2022-06-01 02:30:04] SOLD
 Random---Always has sold OCEAN for $0.2331. Profit was -0.0%.
+[2022-06-01 02:33:01] BUY
+Random---Always has bought GRT for $0.15756
