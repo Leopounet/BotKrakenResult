@@ -102,3 +102,5 @@ Random---Random has sold BCH for $203.75. Profit was -0.008853431921000077%.
 Random---Random has bought FXS for $7.476
 [2022-06-01 01:43:04] SOLD
 Random---Random has sold FXS for $7.505. Profit was 0.0038790797217762574%.
+[2022-06-01 01:45:59] BUY
+Random---Random has bought FIDA for $0.503
