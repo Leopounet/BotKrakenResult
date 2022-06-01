@@ -2638,3 +2638,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 01:16:35] BUY
+Random---Always has bought: Name: QTUMUSD
+Altname: QTUMUSD
+Wsname: QTUM/USD
+Base: Name = QTUM
+Altname = QTUM
+decimals = 10
+displayed_decimals = 6
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.5
+Data about this tradable pair of assets:
+
+        Current:                    4.21367
+        Maximum:                    0.265449
+        Minimum:                    0.233417
+        Variance:                   0.120672
+        Mean:                       0.248108
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.363636
+        Is ascending:               True
+        Current ascension duration: 3
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.675676
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      4.037064
+        Number of local maximums:   33
+        Average local minimum:      4.055552
+        Number of local minimums:   37
+True
+
+---------------------------------------------------------------------------

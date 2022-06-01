@@ -1,4 +1,4 @@
-[2022-06-01 01:13:36] SUMMARY
+[2022-06-01 01:16:35] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: SPELLUSD
+Altname: SPELLUSD
+Wsname: SPELL/USD
+Base: Name = SPELL
+Altname = SPELL
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1000
+Data about this tradable pair of assets:
+
+        Current:                    0.001338
+        Maximum:                    801.282051
+        Minimum:                    716.845878
+        Variance:                   0.105376
+        Mean:                       754.810479
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.862069
+        Is ascending:               True
+        Current ascension duration: 7
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.833333
+        Is falling:                 True
+        Current fall duration:      11
+        Trending downwards:         False
+        Average local maximum:      0.001318
+        Number of local maximums:   29
+        Average local minimum:      0.001339
+        Number of local minimums:   18
+True
 0
 23
 -0.023050967709931425
@@ -61,7 +97,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: SPELLUSD
+Altname: SPELLUSD
+Wsname: SPELL/USD
+Base: Name = SPELL
+Altname = SPELL
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1000
+Data about this tradable pair of assets:
+
+        Current:                    0.001338
+        Maximum:                    801.282051
+        Minimum:                    716.845878
+        Variance:                   0.105376
+        Mean:                       754.810479
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.862069
+        Is ascending:               True
+        Current ascension duration: 7
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.833333
+        Is falling:                 True
+        Current fall duration:      11
+        Trending downwards:         False
+        Average local maximum:      0.001318
+        Number of local maximums:   29
+        Average local minimum:      0.001339
+        Number of local minimums:   18
+True
 0
 23
 -0.023050967709931425

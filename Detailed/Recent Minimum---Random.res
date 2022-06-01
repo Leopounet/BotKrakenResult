@@ -1758,3 +1758,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 01:16:35] BUY
+Recent Minimum---Random has bought: Name: XXMRZUSD
+Altname: XMRUSD
+Wsname: XMR/USD
+Base: Name = XXMR
+Altname = XMR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.02
+Data about this tradable pair of assets:
+
+        Current:                    199.13
+        Maximum:                    0.005695
+        Minimum:                    0.004795
+        Variance:                   0.158044
+        Mean:                       0.005145
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.0
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.0
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      195.2635
+        Number of local maximums:   20
+        Average local minimum:      194.7795
+        Number of local minimums:   20
+True
+
+---------------------------------------------------------------------------
