@@ -338,3 +338,5 @@ Random---Random has sold RNDR for $0.8302. Profit was -0.0%.
 Random---Random has bought OXT for $0.13889
 [2022-06-01 09:59:24] SOLD
 Random---Random has sold OXT for $0.13889. Profit was -0.0%.
+[2022-06-01 10:02:25] BUY
+Random---Random has bought ENJ for $0.683
