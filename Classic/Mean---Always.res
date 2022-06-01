@@ -124,3 +124,5 @@ Mean---Always has bought SHIB for $1.179e-05
 Mean---Always has sold SHIB for $1.177e-05. Profit was -0.0016963528413910245%.
 [2022-06-01 01:04:44] BUY
 Mean---Always has bought SHIB for $1.179e-05
+[2022-06-01 01:07:41] SOLD
+Mean---Always has sold SHIB for $1.178e-05. Profit was -0.0008481764206954567%.

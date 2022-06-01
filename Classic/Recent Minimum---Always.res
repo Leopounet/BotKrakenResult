@@ -124,3 +124,5 @@ Recent Minimum---Always has bought RAY for $1.018
 Recent Minimum---Always has sold RAY for $1.018. Profit was -0.0%.
 [2022-06-01 01:04:44] BUY
 Recent Minimum---Always has bought WBTC for $31919.8
+[2022-06-01 01:07:41] SOLD
+Recent Minimum---Always has sold WBTC for $31919.8. Profit was -0.0%.

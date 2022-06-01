@@ -2518,3 +2518,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 01:07:41] SOLD
+Random---Always has sold: Name: YFIUSD
+Altname: YFIUSD
+Wsname: YFI/USD
+Base: Name = YFI
+Altname = YFI
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.00015
+Data about this tradable pair of assets:
+
+        Current:                    8155.0
+        Maximum:                    0.000135
+        Minimum:                    0.000117
+        Variance:                   0.131931
+        Mean:                       0.000125
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.0
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.0
+        Is falling:                 True
+        Current fall duration:      10
+        Trending downwards:         False
+        Average local maximum:      7992.432432
+        Number of local maximums:   37
+        Average local minimum:      8070.189189
+        Number of local minimums:   37
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
