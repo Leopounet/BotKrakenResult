@@ -8318,3 +8318,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 08:34:49] BUY
+Random---Always has bought: Name: SUSHIUSD
+Altname: SUSHIUSD
+Wsname: SUSHI/USD
+Base: Name = SUSHI
+Altname = SUSHI
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2.5
+Data about this tradable pair of assets:
+
+        Current:                    1.768
+        Maximum:                    0.682594
+        Minimum:                    0.529101
+        Variance:                   0.224868
+        Mean:                       0.598892
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.764706
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.888889
+        Is falling:                 True
+        Current fall duration:      3
+        Trending downwards:         False
+        Average local maximum:      1.674176
+        Number of local maximums:   17
+        Average local minimum:      1.633037
+        Number of local minimums:   27
+True
+
+---------------------------------------------------------------------------
