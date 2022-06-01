@@ -334,3 +334,45 @@ Data about this pair of assets (FETUSD):
 Is init: True
 Profit was -0.26%.
 ---------------------------------------------------------------------------
+[2022-06-01 13:37:05] BUY
+Random---Random has bought: 
+Name: SNXUSD
+Altname: SNXUSD
+Wsname: SNX/USD
+Base:
+ 	Name: SNX
+	Altname: SNX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.4
+Data about this pair of assets (SNXUSD):
+	Current:                    3.268
+	Maximum:                    0.36523
+	Minimum:                    0.292398
+	Variance:                   0.199415
+	Mean:                       0.321496
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.222222
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.05
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         False
+	Average local maximum:      3.129926
+	Number of local maximums:   27
+	Average local minimum:      3.07175
+	Number of local minimums:   20
+Is init: True
+
+---------------------------------------------------------------------------

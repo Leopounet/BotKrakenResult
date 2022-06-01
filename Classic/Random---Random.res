@@ -14,3 +14,5 @@ Random---Random has sold ENJ for $0.685. Profit was -0.6960465116278967%.
 Random---Random has bought FET for $0.1677
 [2022-06-01 13:33:39] SOLD
 Random---Random has sold FET for $0.1677. Profit was -0.26%.
+[2022-06-01 13:37:05] BUY
+Random---Random has bought SNX for $3.268

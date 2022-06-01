@@ -24,3 +24,5 @@ Random---Always has bought DOT for $10.5857
 Random---Always has sold DOT for $10.5925. Profit was -0.1957623964404862%.
 [2022-06-01 13:33:39] BUY
 Random---Always has bought XXMR for $199.16
+[2022-06-01 13:37:05] SOLD
+Random---Always has sold XXMR for $198.49. Profit was -0.5964129343241595%.
