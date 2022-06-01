@@ -58,3 +58,7 @@ Random---Always now has $9653.25987589493
 Random---Always has bought KAR for $0.604
 Random---Always now has $9653.25987589493
 ---------------------------------------------------------------------------
+[2022-06-01 14:26:23] SOLD
+Random---Always has sold KAR for $0.604. Profit was -0.52%.
+Random---Always now has $9603.062924540276
+---------------------------------------------------------------------------
