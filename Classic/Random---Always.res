@@ -126,3 +126,5 @@ Random---Always has sold TRX for $0.083732. Profit was 0.0002628120893559682%.
 Random---Always has bought YFI for $8155.0
 [2022-06-01 01:07:41] SOLD
 Random---Always has sold YFI for $8155.0. Profit was -0.0%.
+[2022-06-01 01:10:40] BUY
+Random---Always has bought PHA for $0.1314

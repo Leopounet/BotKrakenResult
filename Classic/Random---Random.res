@@ -86,3 +86,5 @@ Random---Random has sold ENJ for $0.698. Profit was -0.0%.
 Random---Random has bought SBR for $0.01017
 [2022-06-01 01:07:41] SOLD
 Random---Random has sold SBR for $0.01017. Profit was -0.0%.
+[2022-06-01 01:10:40] BUY
+Random---Random has bought SDN for $0.408
