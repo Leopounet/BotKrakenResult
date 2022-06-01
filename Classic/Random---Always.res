@@ -4,3 +4,5 @@ Random---Always has bought API3 for $1.736
 Random---Always has sold API3 for $1.736. Profit was -0.26%.
 [2022-06-01 13:00:44] BUY
 Random---Always has bought UNI for $5.689
+[2022-06-01 13:04:02] SOLD
+Random---Always has sold UNI for $5.689. Profit was -0.26%.
