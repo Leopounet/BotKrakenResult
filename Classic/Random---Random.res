@@ -284,3 +284,5 @@ Random---Random has bought IMX for $1.059
 Random---Random has sold IMX for $1.059. Profit was -0.0%.
 [2022-06-01 08:06:50] BUY
 Random---Random has bought SUSHI for $1.757
+[2022-06-01 08:10:03] SOLD
+Random---Random has sold SUSHI for $1.754. Profit was -0.0017074558907227422%.
