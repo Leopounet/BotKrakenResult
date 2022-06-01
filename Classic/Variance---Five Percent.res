@@ -10,3 +10,7 @@ Variance---Five Percent now has $10798.64935064935
 Variance---Five Percent has bought ACH for $0.01671
 Variance---Five Percent now has $10798.64935064935
 ---------------------------------------------------------------------------
+[2022-06-01 18:45:23] SOLD
+Variance---Five Percent has sold ACH for $0.01993. Profit was 18.749898264512264%.
+Variance---Five Percent now has $12823.385117837517
+---------------------------------------------------------------------------
