@@ -450,3 +450,5 @@ Random---Always has sold LRC for $0.567. Profit was -0.0%.
 Random---Always has bought XETC for $23.661
 [2022-06-01 09:27:55] SOLD
 Random---Always has sold XETC for $23.661. Profit was -0.0%.
+[2022-06-01 09:31:02] BUY
+Random---Always has bought LINK for $7.55792
