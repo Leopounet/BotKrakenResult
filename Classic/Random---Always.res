@@ -66,3 +66,7 @@ Random---Always now has $9603.062924540276
 Random---Always has bought MASK for $2.018
 Random---Always now has $9603.062924540276
 ---------------------------------------------------------------------------
+[2022-06-01 14:32:26] SOLD
+Random---Always has sold MASK for $2.018. Profit was -0.52%.
+Random---Always now has $9553.126997332667
+---------------------------------------------------------------------------
