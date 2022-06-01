@@ -486,3 +486,5 @@ Random---Always has sold PHA for $0.1296. Profit was -0.0%.
 Random---Always has bought OGN for $0.3144
 [2022-06-01 10:24:31] SOLD
 Random---Always has sold OGN for $0.3144. Profit was -0.0%.
+[2022-06-01 10:27:31] BUY
+Random---Always has bought ADA for $0.610007
