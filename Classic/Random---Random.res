@@ -238,3 +238,5 @@ Random---Random has sold WBTC for $31568.6. Profit was -0.0%.
 Random---Random has bought SGB for $0.0391
 [2022-06-01 06:26:23] SOLD
 Random---Random has sold SGB for $0.0391. Profit was -0.0%.
+[2022-06-01 06:29:25] BUY
+Random---Random has bought ZRX for $0.434
