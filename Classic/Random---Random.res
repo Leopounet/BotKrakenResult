@@ -124,3 +124,5 @@ Random---Random has bought AAVE for $114.37
 Random---Random has sold AAVE for $113.92. Profit was -0.0039345982338026%.
 [2022-06-01 02:24:12] BUY
 Random---Random has bought GALA for $0.0821
+[2022-06-01 02:30:04] SOLD
+Random---Random has sold GALA for $0.082. Profit was -0.0012180267965895553%.
