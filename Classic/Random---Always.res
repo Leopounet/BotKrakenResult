@@ -472,3 +472,5 @@ Random---Always has bought AIR for $0.0256
 Random---Always has sold AIR for $0.0256. Profit was -0.0%.
 [2022-06-01 10:02:25] BUY
 Random---Always has bought KINT for $3.77
+[2022-06-01 10:05:41] SOLD
+Random---Always has sold KINT for $3.77. Profit was -0.0%.

@@ -472,3 +472,5 @@ Recent Minimum---Always has bought XRT for $3.78
 Recent Minimum---Always has sold XRT for $3.78. Profit was -0.0%.
 [2022-06-01 10:02:25] BUY
 Recent Minimum---Always has bought CVC for $0.1797
+[2022-06-01 10:05:41] SOLD
+Recent Minimum---Always has sold CVC for $0.1797. Profit was -0.0%.
