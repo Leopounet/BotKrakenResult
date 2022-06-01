@@ -160,3 +160,5 @@ Random---Always has bought SGB for $0.0389
 Random---Always has sold SGB for $0.0389. Profit was -0.0%.
 [2022-06-01 01:57:47] BUY
 Random---Always has bought USDC for $0.9999
+[2022-06-01 02:00:44] SOLD
+Random---Always has sold USDC for $1.0. Profit was 0.00010001000100001711%.
