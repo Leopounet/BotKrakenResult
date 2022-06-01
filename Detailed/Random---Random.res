@@ -1798,3 +1798,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 01:13:36] SOLD
+Random---Random has sold: Name: SDNUSD
+Altname: SDNUSD
+Wsname: SDN/USD
+Base: Name = SDN
+Altname = SDN
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.408
+        Maximum:                    2.73224
+        Minimum:                    2.202643
+        Variance:                   0.193833
+        Mean:                       2.432991
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.7
+        Is ascending:               True
+        Current ascension duration: 79
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.333333
+        Is falling:                 True
+        Current fall duration:      13
+        Trending downwards:         False
+        Average local maximum:      0.4091
+        Number of local maximums:   20
+        Average local minimum:      0.415167
+        Number of local minimums:   18
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

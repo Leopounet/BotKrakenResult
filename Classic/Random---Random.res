@@ -88,3 +88,5 @@ Random---Random has bought SBR for $0.01017
 Random---Random has sold SBR for $0.01017. Profit was -0.0%.
 [2022-06-01 01:10:40] BUY
 Random---Random has bought SDN for $0.408
+[2022-06-01 01:13:36] SOLD
+Random---Random has sold SDN for $0.408. Profit was -0.0%.

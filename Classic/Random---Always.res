@@ -128,3 +128,5 @@ Random---Always has bought YFI for $8155.0
 Random---Always has sold YFI for $8155.0. Profit was -0.0%.
 [2022-06-01 01:10:40] BUY
 Random---Always has bought PHA for $0.1314
+[2022-06-01 01:13:36] SOLD
+Random---Always has sold PHA for $0.1314. Profit was -0.0%.
