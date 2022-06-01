@@ -220,3 +220,5 @@ Random---Random has bought MOVR for $22.7693
 Random---Random has sold MOVR for $22.6582. Profit was -0.004879377055948209%.
 [2022-06-01 05:32:47] BUY
 Random---Random has bought SCRT for $1.683
+[2022-06-01 05:39:20] SOLD
+Random---Random has sold SCRT for $1.699. Profit was 0.009506833036244888%.
