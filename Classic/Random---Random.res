@@ -10,3 +10,7 @@ Random---Random now has $9948.0
 Random---Random has bought MANA for $1.06398
 Random---Random now has $9948.0
 ---------------------------------------------------------------------------
+[2022-06-01 13:49:35] SOLD
+Random---Random has sold MANA for $1.05776. Profit was -1.104597454839364%.
+Random---Random now has $9838.11464519258
+---------------------------------------------------------------------------
