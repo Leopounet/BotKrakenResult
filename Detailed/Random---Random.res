@@ -1503,3 +1503,46 @@ Is init: True
 
 Random---Random now has $9460.120654627066
 ---------------------------------------------------------------------------
+[2022-06-01 16:14:59] SOLD
+Random---Random has sold: 
+Name: GRTUSD
+Altname: GRTUSD
+Wsname: GRT/USD
+Base:
+ 	Name: GRT
+	Altname: GRT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (GRTUSD):
+	Current:                    0.15106
+	Maximum:                    6.778282
+	Minimum:                    6.048143
+	Variance:                   0.107717
+	Mean:                       6.441232
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.473684
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.590909
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.154526
+	Number of local maximums:   19
+	Average local minimum:      0.15536
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Random now has $9410.928027223004
+---------------------------------------------------------------------------
