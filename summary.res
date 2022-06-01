@@ -1,4 +1,4 @@
-[2022-06-01 02:47:45] SUMMARY
+[2022-06-01 02:50:39] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: BCHUSD
+Altname: BCHUSD
+Wsname: BCH/USD
+Base: Name = BCH
+Altname = BCH
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.01
+Data about this tradable pair of assets:
+
+        Current:                    201.3
+        Maximum:                    0.005557
+        Minimum:                    0.00481
+        Variance:                   0.13435
+        Mean:                       0.005202
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.769231
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.25
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      191.86
+        Number of local maximums:   26
+        Average local minimum:      192.564583
+        Number of local minimums:   24
+True
 0
 35
 -0.024930293592561492
@@ -61,7 +97,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: BCHUSD
+Altname: BCHUSD
+Wsname: BCH/USD
+Base: Name = BCH
+Altname = BCH
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.01
+Data about this tradable pair of assets:
+
+        Current:                    201.3
+        Maximum:                    0.005557
+        Minimum:                    0.00481
+        Variance:                   0.13435
+        Mean:                       0.005202
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.769231
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.25
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      191.86
+        Number of local maximums:   26
+        Average local minimum:      192.564583
+        Number of local minimums:   24
+True
 0
 35
 -0.024930293592561492

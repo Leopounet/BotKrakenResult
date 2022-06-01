@@ -3918,3 +3918,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 02:50:39] BUY
+Random---Always has bought: Name: SDNUSD
+Altname: SDNUSD
+Wsname: SDN/USD
+Base: Name = SDN
+Altname = SDN
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.408
+        Maximum:                    2.73224
+        Minimum:                    2.202643
+        Variance:                   0.193833
+        Mean:                       2.431411
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.55
+        Is ascending:               True
+        Current ascension duration: 99
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.529412
+        Is falling:                 True
+        Current fall duration:      33
+        Trending downwards:         False
+        Average local maximum:      0.4091
+        Number of local maximums:   20
+        Average local minimum:      0.416118
+        Number of local minimums:   17
+True
+
+---------------------------------------------------------------------------
