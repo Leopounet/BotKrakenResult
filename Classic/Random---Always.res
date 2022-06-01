@@ -98,3 +98,5 @@ Random---Always has sold KEEP for $0.22947. Profit was 0.0035862672206430357%.
 Random---Always has bought 1INCH for $0.967
 [2022-06-01 00:26:12] SOLD
 Random---Always has sold 1INCH for $0.955. Profit was -0.012409513960703222%.
+[2022-06-01 00:29:09] BUY
+Random---Always has bought FIDA for $0.503
