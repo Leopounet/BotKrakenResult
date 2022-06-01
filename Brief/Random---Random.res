@@ -188,3 +188,8 @@ Random---Random has 0 wins
 Random---Random has 38 losses
 Random---Random has 0.08373678846983412 points
 ---------------------------------------------------------------------------
+[2022-06-01 03:17:24] BRIEF
+Random---Random has 0 wins
+Random---Random has 39 losses
+Random---Random has 0.07881526678853601 points
+---------------------------------------------------------------------------

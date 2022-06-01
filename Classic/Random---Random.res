@@ -152,3 +152,5 @@ Random---Random has bought ACH for $0.01691
 Random---Random has sold ACH for $0.01874. Profit was 0.10821998817267886%.
 [2022-06-01 03:14:26] BUY
 Random---Random has bought AXS for $22.554
+[2022-06-01 03:17:24] SOLD
+Random---Random has sold AXS for $22.443. Profit was -0.004921521681298113%.

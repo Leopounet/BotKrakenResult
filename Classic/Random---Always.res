@@ -212,3 +212,5 @@ Random---Always has bought OXY for $0.0929
 Random---Always has sold OXY for $0.0929. Profit was -0.0%.
 [2022-06-01 03:14:26] BUY
 Random---Always has bought SAMO for $0.005817
+[2022-06-01 03:17:24] SOLD
+Random---Always has sold SAMO for $0.005817. Profit was -0.0%.
