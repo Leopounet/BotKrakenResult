@@ -3398,3 +3398,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 02:12:29] SOLD
+Random---Always has sold: Name: MOVRUSD
+Altname: MOVRUSD
+Wsname: MOVR/USD
+Base: Name = MOVR
+Altname = MOVR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.2
+Data about this tradable pair of assets:
+
+        Current:                    23.1955
+        Maximum:                    0.046261
+        Minimum:                    0.04192
+        Variance:                   0.093842
+        Mean:                       0.044078
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.9
+        Is ascending:               True
+        Current ascension duration: 5
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.103448
+        Is falling:                 True
+        Current fall duration:      8
+        Trending downwards:         False
+        Average local maximum:      22.83594
+        Number of local maximums:   30
+        Average local minimum:      22.782476
+        Number of local minimums:   29
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

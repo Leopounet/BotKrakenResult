@@ -168,3 +168,5 @@ Random---Always has bought OMG for $2.799761
 Random---Always has sold OMG for $2.799761. Profit was -0.0%.
 [2022-06-01 02:09:33] BUY
 Random---Always has bought MOVR for $23.1955
+[2022-06-01 02:12:29] SOLD
+Random---Always has sold MOVR for $23.1955. Profit was -0.0%.
