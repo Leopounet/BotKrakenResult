@@ -90,3 +90,7 @@ Random---Random now has $9526.612562530441
 Random---Random has bought REPV2 for $10.32
 Random---Random now has $9526.612562530441
 ---------------------------------------------------------------------------
+[2022-06-01 15:24:12] SOLD
+Random---Random has sold REPV2 for $10.32. Profit was -0.52%.
+Random---Random now has $9477.074177205282
+---------------------------------------------------------------------------

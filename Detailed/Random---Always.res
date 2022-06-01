@@ -1460,3 +1460,46 @@ Is init: True
 Profit was -0.5454293796308258%.
 Random---Always now has $9209.12450161091
 ---------------------------------------------------------------------------
+[2022-06-01 15:24:12] BUY
+Random---Always has bought: 
+Name: USDTZUSD
+Altname: USDTUSD
+Wsname: USDT/USD
+Base:
+ 	Name: USDT
+	Altname: USDT
+	decimals: 8
+	displayed_decimals: 4
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDTZUSD):
+	Current:                    0.9991
+	Maximum:                    1.001101
+	Minimum:                    1.0006
+	Variance:                   0.0005
+	Mean:                       1.000803
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.04
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.411765
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.999232
+	Number of local maximums:   50
+	Average local minimum:      0.999191
+	Number of local minimums:   34
+Is init: True
+
+Random---Always now has $9209.12450161091
+---------------------------------------------------------------------------
