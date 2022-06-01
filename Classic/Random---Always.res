@@ -370,3 +370,5 @@ Random---Always has sold TBTC for $30068.5. Profit was -0.0%.
 Random---Always has bought QNT for $70.71
 [2022-06-01 07:22:05] SOLD
 Random---Always has sold QNT for $70.71. Profit was -0.0%.
+[2022-06-01 07:25:18] BUY
+Random---Always has bought ZEUR for $1.07253
