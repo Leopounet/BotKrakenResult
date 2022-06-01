@@ -4758,3 +4758,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 03:53:08] SOLD
+Recent Minimum---Always has sold: Name: ATLASUSD
+Altname: ATLASUSD
+Wsname: ATLAS/USD
+Base: Name = ATLAS
+Altname = ATLAS
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 500
+Data about this tradable pair of assets:
+
+        Current:                    0.00895
+        Maximum:                    125.944584
+        Minimum:                    89.206066
+        Variance:                   0.291704
+        Mean:                       115.196446
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.869565
+        Is ascending:               True
+        Current ascension duration: 23
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.136364
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.008783
+        Number of local maximums:   23
+        Average local minimum:      0.008797
+        Number of local minimums:   22
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

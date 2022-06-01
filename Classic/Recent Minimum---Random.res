@@ -156,3 +156,5 @@ Recent Minimum---Random has bought SBR for $0.00958
 Recent Minimum---Random has sold SBR for $0.00958. Profit was -0.0%.
 [2022-06-01 03:44:10] BUY
 Recent Minimum---Random has bought ATLAS for $0.00895
+[2022-06-01 03:53:08] SOLD
+Recent Minimum---Random has sold ATLAS for $0.00895. Profit was -0.0%.

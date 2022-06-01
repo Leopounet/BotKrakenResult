@@ -236,3 +236,5 @@ Random---Always has bought TOKE for $4.08
 Random---Always has sold TOKE for $4.08. Profit was -0.0%.
 [2022-06-01 03:50:08] BUY
 Random---Always has bought ZUSD for $0.96087
+[2022-06-01 03:53:08] SOLD
+Random---Always has sold ZUSD for $0.9603. Profit was -0.0005932124012613116%.
