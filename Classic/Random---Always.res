@@ -16,3 +16,5 @@ Random---Always has bought IMX for $1.074
 Random---Always has sold IMX for $1.074. Profit was -0.0%.
 [2022-06-01 12:37:08] BUY
 Random---Always has bought RLC for $0.9884
+[2022-06-01 12:40:09] SOLD
+Random---Always has sold RLC for $0.9884. Profit was -0.0%.
