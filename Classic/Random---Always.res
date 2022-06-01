@@ -22,3 +22,5 @@ Random---Always has sold RLC for $0.9884. Profit was -0.0%.
 Random---Always has bought GARI for $0.6475
 [2022-06-01 12:46:33] SOLD
 Random---Always has sold GARI for $0.6475. Profit was -0.0%.
+[2022-06-01 12:49:44] BUY
+Random---Always has bought KEEP for $0.27698

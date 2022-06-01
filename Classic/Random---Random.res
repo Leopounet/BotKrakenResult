@@ -12,3 +12,5 @@ Random---Random has bought ATOM for $10.3008
 Random---Random has sold ATOM for $10.3666. Profit was 0.6387853370611873%.
 [2022-06-01 12:43:11] BUY
 Random---Random has bought SDN for $0.413
+[2022-06-01 12:49:44] SOLD
+Random---Random has sold SDN for $0.415. Profit was 0.4842615012106588%.
