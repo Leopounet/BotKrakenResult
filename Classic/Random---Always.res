@@ -308,3 +308,5 @@ Random---Always has bought MASK for $1.955
 Random---Always has sold MASK for $1.955. Profit was -0.0%.
 [2022-06-01 05:42:41] BUY
 Random---Always has bought REN for $0.1559
+[2022-06-01 05:45:50] SOLD
+Random---Always has sold REN for $0.1559. Profit was -0.0%.
