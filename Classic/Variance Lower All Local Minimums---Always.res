@@ -78,3 +78,5 @@ Variance Lower All Local Minimums---Always has sold LUNA for $0.00011318. Profit
 Variance Lower All Local Minimums---Always has bought UST for $0.02131
 [2022-05-31 23:56:37] SOLD
 Variance Lower All Local Minimums---Always has sold UST for $0.02131. Profit was -0.0%.
+[2022-05-31 23:59:34] BUY
+Variance Lower All Local Minimums---Always has bought UST for $0.02131

@@ -78,3 +78,5 @@ Random---Always has sold GALA for $0.0837. Profit was 0.0023952095808381646%.
 Random---Always has bought YGG for $0.704
 [2022-05-31 23:56:37] SOLD
 Random---Always has sold YGG for $0.704. Profit was -0.0%.
+[2022-05-31 23:59:34] BUY
+Random---Always has bought ICP for $8.305
