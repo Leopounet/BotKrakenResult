@@ -3678,3 +3678,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 04:23:14] BUY
+Random---Random has bought: Name: WBTCUSD
+Altname: WBTCUSD
+Wsname: WBTC/USD
+Base: Name = WBTC
+Altname = WBTC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.0001
+Data about this tradable pair of assets:
+
+        Current:                    31454.1
+        Maximum:                    4e-05
+        Minimum:                    3.1e-05
+        Variance:                   0.2224
+        Mean:                       3.2e-05
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.714286
+        Is ascending:               True
+        Current ascension duration: 32
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.315789
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      31077.480952
+        Number of local maximums:   21
+        Average local minimum:      30900.557895
+        Number of local minimums:   19
+True
+
+---------------------------------------------------------------------------
