@@ -16,3 +16,5 @@ Random---Always has bought REN for $0.1565
 Random---Always has sold REN for $0.1565. Profit was -0.26%.
 [2022-06-01 13:20:07] BUY
 Random---Always has bought REQ for $0.1311
+[2022-06-01 13:23:20] SOLD
+Random---Always has sold REQ for $0.1311. Profit was -0.26%.

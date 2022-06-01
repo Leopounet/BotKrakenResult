@@ -166,3 +166,45 @@ Data about this pair of assets (XXBTZUSD):
 Is init: True
 Profit was 0.18318181818181478%.
 ---------------------------------------------------------------------------
+[2022-06-01 13:23:20] BUY
+Random---Random has bought: 
+Name: ENJUSD
+Altname: ENJUSD
+Wsname: ENJ/USD
+Base:
+ 	Name: ENJ
+	Altname: ENJ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (ENJUSD):
+	Current:                    0.688
+	Maximum:                    1.631321
+	Minimum:                    1.396648
+	Variance:                   0.143855
+	Mean:                       1.48808
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.85
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.157895
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         False
+	Average local maximum:      0.67545
+	Number of local maximums:   20
+	Average local minimum:      0.661842
+	Number of local minimums:   19
+Is init: True
+
+---------------------------------------------------------------------------

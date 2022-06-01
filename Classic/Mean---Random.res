@@ -10,3 +10,5 @@ Mean---Random has sold SHIB for $1.177e-05. Profit was -0.42963528413910246%.
 Mean---Random has bought SHIB for $1.181e-05
 [2022-06-01 13:20:07] SOLD
 Mean---Random has sold SHIB for $1.18e-05. Profit was -0.3446740050804429%.
+[2022-06-01 13:23:20] BUY
+Mean---Random has bought SHIB for $1.183e-05

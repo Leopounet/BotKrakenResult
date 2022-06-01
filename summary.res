@@ -1,4 +1,4 @@
-[2022-06-01 13:20:07] SUMMARY
+[2022-06-01 13:23:20] SUMMARY
 Most losses: 
 Name: Recent Minimum---Always
 BuyStrategy description: Looks for the asset which is closer to its previous local minimum.
@@ -8,47 +8,10 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ATLASUSD
-	Altname: ATLASUSD
-	Wsname: ATLAS/USD
-	Base:
-	 	Name: ATLAS
-		Altname: ATLAS
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500
-	Data about this pair of assets (ATLASUSD):
-		Current:                    0.00888
-		Maximum:                    122.699387
-		Minimum:                    89.206066
-		Variance:                   0.272971
-		Mean:                       113.214716
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.571429
-		Is ascending:               True
-		Current ascension duration: 14
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.5
-		Is falling:                 True
-		Current fall duration:      19
-		Trending downwards:         False
-		Average local maximum:      0.008855
-		Number of local maximums:   21
-		Average local minimum:      0.009008
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 0
-Losses: 4
-Total points: -1.04
+Losses: 5
+Total points: -1.3
 Most wins: 
 Name: Random---Random
 BuyStrategy description: Random.
@@ -58,7 +21,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ENJUSD
+	Altname: ENJUSD
+	Wsname: ENJ/USD
+	Base:
+	 	Name: ENJ
+		Altname: ENJ
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2
+	Data about this pair of assets (ENJUSD):
+		Current:                    0.688
+		Maximum:                    1.631321
+		Minimum:                    1.396648
+		Variance:                   0.143855
+		Mean:                       1.48808
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.85
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.157895
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         False
+		Average local maximum:      0.67545
+		Number of local maximums:   20
+		Average local minimum:      0.661842
+		Number of local minimums:   19
+	Is init: True
 Wins: 1
 Losses: 1
 Total points: -0.3177820372398683
@@ -71,45 +71,8 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GSTUSD
-	Altname: GSTUSD
-	Wsname: GST/USD
-	Base:
-	 	Name: GST
-		Altname: GST
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (GSTUSD):
-		Current:                    1.082
-		Maximum:                    0.932836
-		Minimum:                    0.629327
-		Variance:                   0.325362
-		Mean:                       0.772084
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.833333
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.176471
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.293639
-		Number of local maximums:   36
-		Average local minimum:      1.291912
-		Number of local minimums:   34
-	Is init: True
+	None
 Wins: 1
-Losses: 3
-Total points: 5.131349899256886
+Losses: 4
+Total points: 4.871349899256886
 ---------------------------------------------------------------------------

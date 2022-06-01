@@ -376,3 +376,45 @@ Data about this pair of assets (REQUSD):
 Is init: True
 
 ---------------------------------------------------------------------------
+[2022-06-01 13:23:20] SOLD
+Random---Always has sold: 
+Name: REQUSD
+Altname: REQUSD
+Wsname: REQ/USD
+Base:
+ 	Name: REQ
+	Altname: REQ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (REQUSD):
+	Current:                    0.1311
+	Maximum:                    10.571942
+	Minimum:                    7.219695
+	Variance:                   0.317089
+	Mean:                       7.797146
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          0.6
+	Is ascending:               True
+	Current ascension duration: 59
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               15.0
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.121974
+	Number of local maximums:   5
+	Average local minimum:      0.13609
+	Number of local minimums:   1
+Is init: True
+Profit was -0.26%.
+---------------------------------------------------------------------------
