@@ -476,3 +476,5 @@ Recent Minimum---Always has bought CVC for $0.1797
 Recent Minimum---Always has sold CVC for $0.1797. Profit was -0.0%.
 [2022-06-01 10:08:47] BUY
 Recent Minimum---Always has bought CVC for $0.1797
+[2022-06-01 10:12:02] SOLD
+Recent Minimum---Always has sold CVC for $0.1797. Profit was -0.0%.
