@@ -6238,3 +6238,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 05:48:59] BUY
+Random---Always has bought: Name: ASTRUSD
+Altname: ASTRUSD
+Wsname: ASTR/USD
+Base: Name = ASTR
+Altname = ASTR
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 100
+Data about this tradable pair of assets:
+
+        Current:                    0.0646
+        Maximum:                    17.574692
+        Minimum:                    13.262599
+        Variance:                   0.245358
+        Mean:                       15.627114
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.892857
+        Is ascending:               True
+        Current ascension duration: 5
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.111111
+        Is falling:                 True
+        Current fall duration:      18
+        Trending downwards:         False
+        Average local maximum:      0.064318
+        Number of local maximums:   28
+        Average local minimum:      0.064659
+        Number of local minimums:   27
+True
+
+---------------------------------------------------------------------------

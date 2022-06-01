@@ -310,3 +310,5 @@ Lower All Local Minimums---Always has sold GST for $1.16. Profit was 0.024734982
 Lower All Local Minimums---Always has bought UST for $0.0179
 [2022-06-01 05:45:50] SOLD
 Lower All Local Minimums---Always has sold UST for $0.0179. Profit was -0.0%.
+[2022-06-01 05:48:59] BUY
+Lower All Local Minimums---Always has bought PAXG for $1836.38
