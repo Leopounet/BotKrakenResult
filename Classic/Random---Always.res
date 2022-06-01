@@ -548,3 +548,5 @@ Random---Always has bought KINT for $3.67
 Random---Always has sold KINT for $3.59. Profit was -0.021798365122615793%.
 [2022-06-01 12:00:27] BUY
 Random---Always has bought KSM for $81.5
+[2022-06-01 12:03:27] SOLD
+Random---Always has sold KSM for $81.42. Profit was -0.0009815950920245564%.
