@@ -38,3 +38,7 @@ Random---Always now has $9793.616782991616
 Random---Always has sold XETC for $23.923. Profit was -0.52%.
 Random---Always now has $9742.689975720059
 ---------------------------------------------------------------------------
+[2022-06-01 14:10:53] BUY
+Random---Always has bought SUPER for $0.2234
+Random---Always now has $9742.689975720059
+---------------------------------------------------------------------------
