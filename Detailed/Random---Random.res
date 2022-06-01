@@ -5318,3 +5318,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 07:18:16] SOLD
+Random---Random has sold: Name: RLCUSD
+Altname: RLCUSD
+Wsname: RLC/USD
+Base: Name = RLC
+Altname = RLC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    0.9874
+        Maximum:                    1.221598
+        Minimum:                    1.001101
+        Variance:                   0.180499
+        Mean:                       1.073038
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.684211
+        Is ascending:               True
+        Current ascension duration: 9
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.352941
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.937068
+        Number of local maximums:   19
+        Average local minimum:      0.949753
+        Number of local minimums:   17
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

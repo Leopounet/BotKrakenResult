@@ -7358,3 +7358,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 07:18:16] BUY
+Random---Always has bought: Name: QNTUSD
+Altname: QNTUSD
+Wsname: QNT/USD
+Base: Name = QNT
+Altname = QNT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.05
+Data about this tradable pair of assets:
+
+        Current:                    70.71
+        Maximum:                    0.015177
+        Minimum:                    0.013572
+        Variance:                   0.105727
+        Mean:                       0.014226
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.88
+        Is ascending:               False
+        Current ascension duration: 2
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.125
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      70.2156
+        Number of local maximums:   25
+        Average local minimum:      70.761667
+        Number of local minimums:   24
+True
+
+---------------------------------------------------------------------------

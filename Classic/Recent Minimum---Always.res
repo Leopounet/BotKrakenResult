@@ -366,3 +366,5 @@ Recent Minimum---Always has sold GARI for $0.6488. Profit was -0.0%.
 Recent Minimum---Always has bought GARI for $0.6488
 [2022-06-01 07:14:37] SOLD
 Recent Minimum---Always has sold GARI for $0.6488. Profit was -0.0%.
+[2022-06-01 07:18:16] BUY
+Recent Minimum---Always has bought GARI for $0.6488
