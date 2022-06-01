@@ -496,3 +496,5 @@ Random---Always has bought PSTAKE for $0.2533
 Random---Always has sold PSTAKE for $0.2533. Profit was -0.0%.
 [2022-06-01 10:40:03] BUY
 Random---Always has bought KIN for $1.433e-05
+[2022-06-01 10:43:07] SOLD
+Random---Always has sold KIN for $1.429e-05. Profit was -0.002791346824842944%.

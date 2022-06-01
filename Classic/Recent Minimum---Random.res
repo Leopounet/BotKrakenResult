@@ -350,3 +350,5 @@ Recent Minimum---Random has sold LUNA2 for $7.15826. Profit was -0.0232431842370
 Recent Minimum---Random has bought LUNA2 for $7.13864
 [2022-06-01 10:40:03] SOLD
 Recent Minimum---Random has sold LUNA2 for $7.20826. Profit was 0.009752557910190252%.
+[2022-06-01 10:43:07] BUY
+Recent Minimum---Random has bought LUNA2 for $7.20386
