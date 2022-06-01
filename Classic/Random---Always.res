@@ -232,3 +232,5 @@ Random---Always has bought MNGO for $0.0566
 Random---Always has sold MNGO for $0.0566. Profit was -0.0%.
 [2022-06-01 03:44:10] BUY
 Random---Always has bought TOKE for $4.08
+[2022-06-01 03:47:11] SOLD
+Random---Always has sold TOKE for $4.08. Profit was -0.0%.
