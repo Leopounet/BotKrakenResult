@@ -9078,3 +9078,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 09:34:15] SOLD
+Random---Always has sold: Name: LINKUSD
+Altname: LINKUSD
+Wsname: LINK/USD
+Base: Name = LINK
+Altname = LINK
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.2
+Data about this tradable pair of assets:
+
+        Current:                    7.55792
+        Maximum:                    0.150609
+        Minimum:                    0.129058
+        Variance:                   0.143088
+        Mean:                       0.136613
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.730769
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               5.2
+        Is falling:                 True
+        Current fall duration:      3
+        Trending downwards:         False
+        Average local maximum:      7.373603
+        Number of local maximums:   26
+        Average local minimum:      7.379844
+        Number of local minimums:   15
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

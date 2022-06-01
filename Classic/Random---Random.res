@@ -324,3 +324,5 @@ Random---Random has bought XREP for $10.037
 Random---Random has sold XREP for $10.037. Profit was -0.0%.
 [2022-06-01 09:31:02] BUY
 Random---Random has bought RAD for $2.198
+[2022-06-01 09:34:15] SOLD
+Random---Random has sold RAD for $2.198. Profit was -0.0%.
