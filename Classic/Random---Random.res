@@ -128,3 +128,5 @@ Random---Random has bought GALA for $0.0821
 Random---Random has sold GALA for $0.082. Profit was -0.0012180267965895553%.
 [2022-06-01 02:33:01] BUY
 Random---Random has bought 1INCH for $0.965
+[2022-06-01 02:35:59] SOLD
+Random---Random has sold 1INCH for $0.965. Profit was -0.0%.

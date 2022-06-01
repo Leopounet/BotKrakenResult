@@ -184,3 +184,5 @@ Random---Always has bought OCEAN for $0.2331
 Random---Always has sold OCEAN for $0.2331. Profit was -0.0%.
 [2022-06-01 02:33:01] BUY
 Random---Always has bought GRT for $0.15756
+[2022-06-01 02:35:59] SOLD
+Random---Always has sold GRT for $0.15772. Profit was 0.0010154861640010449%.
