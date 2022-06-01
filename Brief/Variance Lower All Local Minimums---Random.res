@@ -113,3 +113,8 @@ Variance Lower All Local Minimums---Random has 0 wins
 Variance Lower All Local Minimums---Random has 23 losses
 Variance Lower All Local Minimums---Random has 0.0456494227489711 points
 ---------------------------------------------------------------------------
+[2022-06-01 01:43:04] BRIEF
+Variance Lower All Local Minimums---Random has 0 wins
+Variance Lower All Local Minimums---Random has 24 losses
+Variance Lower All Local Minimums---Random has 0.0456494227489711 points
+---------------------------------------------------------------------------

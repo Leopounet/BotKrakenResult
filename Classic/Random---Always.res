@@ -148,3 +148,5 @@ Random---Always has bought RBC for $0.08212
 Random---Always has sold RBC for $0.08212. Profit was -0.0%.
 [2022-06-01 01:40:08] BUY
 Random---Always has bought KILT for $0.807
+[2022-06-01 01:43:04] SOLD
+Random---Always has sold KILT for $0.807. Profit was -0.0%.
