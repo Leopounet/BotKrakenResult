@@ -526,3 +526,5 @@ Random---Always has sold FET for $0.1672. Profit was -0.005353955978584235%.
 Random---Always has bought MC for $1.052
 [2022-06-01 11:27:02] SOLD
 Random---Always has sold MC for $1.06. Profit was 0.0076045627376426506%.
+[2022-06-01 11:30:07] BUY
+Random---Always has bought XETC for $23.499
