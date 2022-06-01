@@ -160,3 +160,5 @@ Random---Random has bought XXBT for $31679.8
 Random---Random has sold XXBT for $31728.2. Profit was 0.001527787422900495%.
 [2022-06-01 03:26:18] BUY
 Random---Random has bought ACA for $0.414
+[2022-06-01 03:29:14] SOLD
+Random---Random has sold ACA for $0.414. Profit was -0.0%.

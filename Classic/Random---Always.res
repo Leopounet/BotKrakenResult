@@ -220,3 +220,5 @@ Random---Always has bought ZRX for $0.429
 Random---Always has sold ZRX for $0.428. Profit was -0.002331002331002363%.
 [2022-06-01 03:26:18] BUY
 Random---Always has bought MKR for $1292.1
+[2022-06-01 03:29:14] SOLD
+Random---Always has sold MKR for $1292.1. Profit was -0.0%.

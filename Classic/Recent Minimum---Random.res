@@ -146,3 +146,5 @@ Recent Minimum---Random has sold ZEUR for $1.07204. Profit was 0.000130609198619
 Recent Minimum---Random has bought ZEUR for $1.07182
 [2022-06-01 03:26:18] SOLD
 Recent Minimum---Random has sold ZEUR for $1.07184. Profit was 1.8659849601476708e-05%.
+[2022-06-01 03:29:14] BUY
+Recent Minimum---Random has bought SBR for $0.00958
