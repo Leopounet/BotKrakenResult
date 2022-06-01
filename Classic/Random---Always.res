@@ -382,3 +382,5 @@ Random---Always has sold ORCA for $0.912. Profit was -0.0%.
 Random---Always has bought LSK for $1.344419
 [2022-06-01 07:40:58] SOLD
 Random---Always has sold LSK for $1.340119. Profit was -0.003198407639285028%.
+[2022-06-01 07:44:15] BUY
+Random---Always has bought API3 for $1.774

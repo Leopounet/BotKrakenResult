@@ -7678,3 +7678,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.003198407639285028%.
 ---------------------------------------------------------------------------
+[2022-06-01 07:44:15] BUY
+Random---Always has bought: Name: API3USD
+Altname: API3USD
+Wsname: API3/USD
+Base: Name = API3
+Altname = API3
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2.5
+Data about this tradable pair of assets:
+
+        Current:                    1.774
+        Maximum:                    0.626959
+        Minimum:                    0.529661
+        Variance:                   0.155191
+        Mean:                       0.576075
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.684211
+        Is ascending:               True
+        Current ascension duration: 14
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.352941
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      1.743842
+        Number of local maximums:   19
+        Average local minimum:      1.739059
+        Number of local minimums:   17
+True
+
+---------------------------------------------------------------------------
