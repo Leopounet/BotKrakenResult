@@ -188,3 +188,5 @@ Random---Always has bought GRT for $0.15756
 Random---Always has sold GRT for $0.15772. Profit was 0.0010154861640010449%.
 [2022-06-01 02:38:55] BUY
 Random---Always has bought ANT for $2.1306
+[2022-06-01 02:41:51] SOLD
+Random---Always has sold ANT for $2.1306. Profit was -0.0%.
