@@ -3051,3 +3051,46 @@ Is init: True
 
 Random---Always now has $8028.810525648261
 ---------------------------------------------------------------------------
+[2022-06-01 17:22:52] SOLD
+Random---Always has sold: 
+Name: WOOUSD
+Altname: WOOUSD
+Wsname: WOO/USD
+Base:
+ 	Name: WOO
+	Altname: WOO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (WOOUSD):
+	Current:                    0.1633
+	Maximum:                    6.17284
+	Minimum:                    4.50045
+	Variance:                   0.270927
+	Mean:                       5.672352
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.217391
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.058824
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         False
+	Average local maximum:      0.176696
+	Number of local maximums:   23
+	Average local minimum:      0.178053
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Always now has $7987.0607109148905
+---------------------------------------------------------------------------
