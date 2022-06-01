@@ -944,3 +944,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $9454.032793114415
 ---------------------------------------------------------------------------
+[2022-06-01 14:47:31] BUY
+Random---Always has bought: 
+Name: KSMUSD
+Altname: KSMUSD
+Wsname: KSM/USD
+Base:
+ 	Name: KSM
+	Altname: KSM
+	decimals: 10
+	displayed_decimals: 8
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (KSMUSD):
+	Current:                    81.87
+	Maximum:                    0.013714
+	Minimum:                    0.011554
+	Variance:                   0.157481
+	Mean:                       0.012852
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.705882
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.428571
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         False
+	Average local maximum:      77.511765
+	Number of local maximums:   17
+	Average local minimum:      78.183333
+	Number of local minimums:   21
+Is init: True
+
+Random---Always now has $9454.032793114415
+---------------------------------------------------------------------------
