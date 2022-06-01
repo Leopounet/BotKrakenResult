@@ -5201,3 +5201,46 @@ Is init: True
 
 Random---Always now has $6926.03287017025
 ---------------------------------------------------------------------------
+[2022-06-01 20:02:58] SOLD
+Random---Always has sold: 
+Name: XTZUSD
+Altname: XTZUSD
+Wsname: XTZ/USD
+Base:
+ 	Name: XTZ
+	Altname: XTZ
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (XTZUSD):
+	Current:                    1.9754
+	Maximum:                    0.509944
+	Minimum:                    0.456163
+	Variance:                   0.105465
+	Mean:                       0.476109
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.52
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.571429
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      2.118296
+	Number of local maximums:   25
+	Average local minimum:      2.101543
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Random---Always now has $6890.017499245365
+---------------------------------------------------------------------------
