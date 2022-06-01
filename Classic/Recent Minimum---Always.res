@@ -202,3 +202,5 @@ Recent Minimum---Always has sold ATLAS for $0.00902. Profit was -0.0%.
 Recent Minimum---Always has bought SBR for $0.01018
 [2022-06-01 02:59:35] SOLD
 Recent Minimum---Always has sold SBR for $0.01018. Profit was -0.0%.
+[2022-06-01 03:02:32] BUY
+Recent Minimum---Always has bought SBR for $0.01018

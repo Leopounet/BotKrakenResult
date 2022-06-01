@@ -202,3 +202,5 @@ Random---Always has sold SDN for $0.408. Profit was -0.0%.
 Random---Always has bought KIN for $1.412e-05
 [2022-06-01 02:59:35] SOLD
 Random---Always has sold KIN for $1.412e-05. Profit was -0.0%.
+[2022-06-01 03:02:32] BUY
+Random---Always has bought FXS for $7.69
