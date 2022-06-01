@@ -172,3 +172,5 @@ Random---Always has bought MOVR for $23.1955
 Random---Always has sold MOVR for $23.1955. Profit was -0.0%.
 [2022-06-01 02:15:23] BUY
 Random---Always has bought BNC for $0.396
+[2022-06-01 02:18:19] SOLD
+Random---Always has sold BNC for $0.396. Profit was -0.0%.

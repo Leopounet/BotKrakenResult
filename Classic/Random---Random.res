@@ -118,3 +118,5 @@ Random---Random has sold APE for $6.7735. Profit was 0.0004726526150984345%.
 Random---Random has bought XETC for $23.812
 [2022-06-01 02:15:23] SOLD
 Random---Random has sold XETC for $23.812. Profit was -0.0%.
+[2022-06-01 02:18:19] BUY
+Random---Random has bought AAVE for $114.37
