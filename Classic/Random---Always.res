@@ -22,3 +22,7 @@ Random---Always now has $9896.2704
 Random---Always has sold WBTC for $31697.7. Profit was -0.52%.
 Random---Always now has $9844.80979392
 ---------------------------------------------------------------------------
+[2022-06-01 13:58:41] BUY
+Random---Always has bought GALA for $0.082
+Random---Always now has $9844.80979392
+---------------------------------------------------------------------------
