@@ -502,3 +502,45 @@ Data about this pair of assets (DOTUSD):
 Is init: True
 Profit was -0.1957623964404862%.
 ---------------------------------------------------------------------------
+[2022-06-01 13:33:39] BUY
+Random---Always has bought: 
+Name: XXMRZUSD
+Altname: XMRUSD
+Wsname: XMR/USD
+Base:
+ 	Name: XXMR
+	Altname: XMR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (XXMRZUSD):
+	Current:                    199.16
+	Maximum:                    0.005379
+	Minimum:                    0.004795
+	Variance:                   0.108559
+	Mean:                       0.005066
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.666667
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.454545
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         False
+	Average local maximum:      199.517222
+	Number of local maximums:   18
+	Average local minimum:      197.065
+	Number of local minimums:   22
+Is init: True
+
+---------------------------------------------------------------------------

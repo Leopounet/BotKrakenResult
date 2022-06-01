@@ -292,3 +292,45 @@ Data about this pair of assets (FETUSD):
 Is init: True
 
 ---------------------------------------------------------------------------
+[2022-06-01 13:33:39] SOLD
+Random---Random has sold: 
+Name: FETUSD
+Altname: FETUSD
+Wsname: FET/USD
+Base:
+ 	Name: FET
+	Altname: FET
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 20
+Data about this pair of assets (FETUSD):
+	Current:                    0.1677
+	Maximum:                    6.060606
+	Minimum:                    5.567929
+	Variance:                   0.081292
+	Mean:                       5.90125
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.5625
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.526316
+	Is falling:                 True
+	Current fall duration:      23
+	Trending downwards:         True
+	Average local maximum:      0.169081
+	Number of local maximums:   16
+	Average local minimum:      0.171953
+	Number of local minimums:   19
+Is init: True
+Profit was -0.26%.
+---------------------------------------------------------------------------

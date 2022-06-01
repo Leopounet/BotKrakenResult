@@ -22,3 +22,5 @@ Random---Always has sold REQ for $0.1311. Profit was -0.26%.
 Random---Always has bought DOT for $10.5857
 [2022-06-01 13:29:57] SOLD
 Random---Always has sold DOT for $10.5925. Profit was -0.1957623964404862%.
+[2022-06-01 13:33:39] BUY
+Random---Always has bought XXMR for $199.16
