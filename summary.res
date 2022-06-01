@@ -1,4 +1,4 @@
-[2022-06-01 15:42:51] SUMMARY
+[2022-06-01 15:45:53] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    31176.7
-		Maximum:                    4e-05
-		Minimum:                    3.1e-05
-		Variance:                   0.2224
-		Mean:                       3.2e-05
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.478261
-		Is ascending:               True
-		Current ascension duration: 21
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.631579
-		Is falling:                 True
-		Current fall duration:      10
-		Trending downwards:         False
-		Average local maximum:      31245.9
-		Number of local maximums:   23
-		Average local minimum:      31402.573684
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 0
-Losses: 20
-Total points: -10.740883197383928%
-Wallet: 8978.350462353072
+Losses: 21
+Total points: -12.62536372290459%
+Wallet: 8809.155196377034
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CTSIUSD
-	Altname: CTSIUSD
-	Wsname: CTSI/USD
-	Base:
-	 	Name: CTSI
-		Altname: CTSI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (CTSIUSD):
-		Current:                    0.1914
-		Maximum:                    5.22466
-		Minimum:                    4.570384
-		Variance:                   0.125229
-		Mean:                       4.93879
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.727273
-		Is ascending:               True
-		Current ascension duration: 9
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.414634
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.201733
-		Number of local maximums:   33
-		Average local minimum:      0.203105
-		Number of local minimums:   41
-	Is init: True
+	None
 Wins: 3
-Losses: 17
-Total points: -14.999543049811834%
-Wallet: 8572.227768244702
+Losses: 18
+Total points: -15.519543049811833%
+Wallet: 8527.65218384983
 ---------------------------------------------------------------------------
 Best score: 
 Name: Lower All Local Minimums---Twenty-four hours
