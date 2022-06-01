@@ -1,4 +1,4 @@
-[2022-06-01 08:40:58] SUMMARY
+[2022-06-01 08:44:04] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,11 +51,21 @@ Random.
 Random.
 {}
 {}
-Name: ANTUSD
-Altname: ANTUSD
-Wsname: ANT/USD
-Base: Name = ANT
-Altname = ANT
+None
+0
+76
+0.06714942392197887
+Best score: 
+Recent Minimum---Random
+Looks for the asset which is closer to its previous local minimum.
+Random.
+{}
+{}
+Name: XRTUSD
+Altname: XRTUSD
+Wsname: XRT/USD
+Base: Name = XRT
+Altname = XRT
 decimals = 10
 displayed_decimals = 5
 Quote: Name = ZUSD
@@ -66,38 +76,28 @@ Fee: 0.26
 Min order: 1
 Data about this tradable pair of assets:
 
-        Current:                    2.0918
-        Maximum:                    0.560507
-        Minimum:                    0.458442
-        Variance:                   0.182093
-        Mean:                       0.495185
+        Current:                    3.99
+        Maximum:                    0.286533
+        Minimum:                    0.240385
+        Variance:                   0.161058
+        Mean:                       0.259561
         Longest ascension:          3
         Shortest ascension:         3
-        Average ascension:          3.125
-        Is ascending:               False
-        Current ascension duration: 0
+        Average ascension:          2.470588
+        Is ascending:               True
+        Current ascension duration: 11
         Trending upwards:           True
         Longest fall:               3
         Shortest fall:              3
-        Average fall:               2.88
-        Is falling:                 False
-        Current fall duration:      1
+        Average fall:               3.642857
+        Is falling:                 True
+        Current fall duration:      130
         Trending downwards:         False
-        Average local maximum:      2.024133
-        Number of local maximums:   24
-        Average local minimum:      2.00948
-        Number of local minimums:   25
+        Average local maximum:      3.842353
+        Number of local maximums:   17
+        Average local minimum:      3.892857
+        Number of local minimums:   14
 True
-0
-75
-0.0718343842432334
-Best score: 
-Recent Minimum---Random
-Looks for the asset which is closer to its previous local minimum.
-Random.
-{}
-{}
-None
 0
 75
 -0.13495381496081105

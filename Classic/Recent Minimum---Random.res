@@ -298,3 +298,5 @@ Recent Minimum---Random has sold AIR for $0.02626. Profit was -0.0%.
 Recent Minimum---Random has bought AIR for $0.02626
 [2022-06-01 08:40:58] SOLD
 Recent Minimum---Random has sold AIR for $0.02626. Profit was -0.0%.
+[2022-06-01 08:44:04] BUY
+Recent Minimum---Random has bought XRT for $3.99
