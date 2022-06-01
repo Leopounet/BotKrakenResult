@@ -766,3 +766,7 @@ Random---Always now has $6066.903875332043
 Random---Always has sold STEP for $0.09. Profit was -0.52%.
 Random---Always now has $6035.355975180316
 ---------------------------------------------------------------------------
+[2022-06-01 23:43:34] BUY
+Random---Always has bought SPELL for $0.001218
+Random---Always now has $6035.355975180316
+---------------------------------------------------------------------------
