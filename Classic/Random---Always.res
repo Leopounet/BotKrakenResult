@@ -524,3 +524,5 @@ Random---Always has bought FET for $0.1681
 Random---Always has sold FET for $0.1672. Profit was -0.005353955978584235%.
 [2022-06-01 11:24:02] BUY
 Random---Always has bought MC for $1.052
+[2022-06-01 11:27:02] SOLD
+Random---Always has sold MC for $1.06. Profit was 0.0076045627376426506%.
