@@ -486,3 +486,7 @@ Variance---Always now has $8730.599485487686
 Variance---Always has sold ACH for $0.01993. Profit was -0.52%.
 Variance---Always now has $8685.20036816315
 ---------------------------------------------------------------------------
+[2022-06-01 20:05:58] BUY
+Variance---Always has bought ACH for $0.01993
+Variance---Always now has $8685.20036816315
+---------------------------------------------------------------------------
