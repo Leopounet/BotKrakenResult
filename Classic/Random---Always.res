@@ -510,3 +510,5 @@ Random---Always has sold ALICE for $3.069. Profit was -0.0%.
 Random---Always has bought NMR for $12.74
 [2022-06-01 11:02:33] SOLD
 Random---Always has sold NMR for $12.74. Profit was -0.0%.
+[2022-06-01 11:05:33] BUY
+Random---Always has bought GHST for $1.5025

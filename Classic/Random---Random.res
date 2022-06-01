@@ -358,3 +358,5 @@ Random---Random has sold COMP for $66.39. Profit was 0.003021604471974637%.
 Random---Random has bought KIN for $1.429e-05
 [2022-06-01 11:02:33] SOLD
 Random---Random has sold KIN for $1.429e-05. Profit was -0.0%.
+[2022-06-01 11:05:33] BUY
+Random---Random has bought AUDIO for $0.4499

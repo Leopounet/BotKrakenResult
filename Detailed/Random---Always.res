@@ -10238,3 +10238,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 11:05:33] BUY
+Random---Always has bought: Name: GHSTUSD
+Altname: GHSTUSD
+Wsname: GHST/USD
+Base: Name = GHST
+Altname = GHST
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    1.5025
+        Maximum:                    0.676636
+        Minimum:                    0.656987
+        Variance:                   0.029039
+        Mean:                       0.666188
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.136364
+        Is ascending:               True
+        Current ascension duration: 42
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.869565
+        Is falling:                 True
+        Current fall duration:      63
+        Trending downwards:         False
+        Average local maximum:      1.499559
+        Number of local maximums:   22
+        Average local minimum:      1.501861
+        Number of local minimums:   23
+True
+
+---------------------------------------------------------------------------

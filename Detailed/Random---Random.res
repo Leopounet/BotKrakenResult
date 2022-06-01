@@ -7198,3 +7198,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 11:05:33] BUY
+Random---Random has bought: Name: AUDIOUSD
+Altname: AUDIOUSD
+Wsname: AUDIO/USD
+Base: Name = AUDIO
+Altname = AUDIO
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.4499
+        Maximum:                    2.554931
+        Minimum:                    2.036245
+        Variance:                   0.203014
+        Mean:                       2.307106
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.666667
+        Is ascending:               True
+        Current ascension duration: 7
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.454545
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      0.432056
+        Number of local maximums:   18
+        Average local minimum:      0.434855
+        Number of local minimums:   22
+True
+
+---------------------------------------------------------------------------
