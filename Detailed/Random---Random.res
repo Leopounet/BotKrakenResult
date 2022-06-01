@@ -3352,3 +3352,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $8507.08192751749
 ---------------------------------------------------------------------------
+[2022-06-01 19:47:30] BUY
+Random---Random has bought: 
+Name: KAVAUSD
+Altname: KAVAUSD
+Wsname: KAVA/USD
+Base:
+ 	Name: KAVA
+	Altname: KAVA
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (KAVAUSD):
+	Current:                    2.6683
+	Maximum:                    0.397899
+	Minimum:                    0.320246
+	Variance:                   0.195158
+	Mean:                       0.364797
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.0
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.25
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         False
+	Average local maximum:      2.748733
+	Number of local maximums:   21
+	Average local minimum:      2.685704
+	Number of local minimums:   28
+Is init: True
+
+Random---Random now has $8507.08192751749
+---------------------------------------------------------------------------

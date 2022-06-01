@@ -310,3 +310,7 @@ Random---Random now has $8551.549987452243
 Random---Random has sold ATLAS for $0.00836. Profit was -0.52%.
 Random---Random now has $8507.08192751749
 ---------------------------------------------------------------------------
+[2022-06-01 19:47:30] BUY
+Random---Random has bought KAVA for $2.6683
+Random---Random now has $8507.08192751749
+---------------------------------------------------------------------------

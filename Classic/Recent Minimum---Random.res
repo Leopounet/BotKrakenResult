@@ -310,3 +310,7 @@ Recent Minimum---Random now has $8248.610664716303
 Recent Minimum---Random has sold TBTC for $33899.8. Profit was -0.52%.
 Recent Minimum---Random now has $8205.717889259779
 ---------------------------------------------------------------------------
+[2022-06-01 19:47:30] BUY
+Recent Minimum---Random has bought TBTC for $33899.8
+Recent Minimum---Random now has $8205.717889259779
+---------------------------------------------------------------------------
