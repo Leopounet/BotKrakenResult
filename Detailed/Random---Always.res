@@ -4238,3 +4238,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 03:14:26] BUY
+Random---Always has bought: Name: SAMOUSD
+Altname: SAMOUSD
+Wsname: SAMO/USD
+Base: Name = SAMO
+Altname = SAMO
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 200
+Data about this tradable pair of assets:
+
+        Current:                    0.005817
+        Maximum:                    192.122959
+        Minimum:                    164.934851
+        Variance:                   0.141514
+        Mean:                       179.311905
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.375
+        Is ascending:               True
+        Current ascension duration: 28
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.666667
+        Is falling:                 True
+        Current fall duration:      30
+        Trending downwards:         False
+        Average local maximum:      0.005627
+        Number of local maximums:   32
+        Average local minimum:      0.005602
+        Number of local minimums:   36
+True
+
+---------------------------------------------------------------------------

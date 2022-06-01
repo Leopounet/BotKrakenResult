@@ -210,3 +210,5 @@ Random---Always has sold FXS for $7.69. Profit was -0.0%.
 Random---Always has bought OXY for $0.0929
 [2022-06-01 03:11:30] SOLD
 Random---Always has sold OXY for $0.0929. Profit was -0.0%.
+[2022-06-01 03:14:26] BUY
+Random---Always has bought SAMO for $0.005817

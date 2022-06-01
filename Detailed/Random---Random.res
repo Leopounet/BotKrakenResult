@@ -3038,3 +3038,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.10821998817267886%.
 ---------------------------------------------------------------------------
+[2022-06-01 03:14:26] BUY
+Random---Random has bought: Name: AXSUSD
+Altname: AXSUSD
+Wsname: AXS/USD
+Base: Name = AXS
+Altname = AXS
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.25
+Data about this tradable pair of assets:
+
+        Current:                    22.554
+        Maximum:                    0.055769
+        Minimum:                    0.036491
+        Variance:                   0.345679
+        Mean:                       0.046486
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.473684
+        Is ascending:               True
+        Current ascension duration: 3
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.590909
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      22.270842
+        Number of local maximums:   19
+        Average local minimum:      21.444273
+        Number of local minimums:   22
+True
+
+---------------------------------------------------------------------------
