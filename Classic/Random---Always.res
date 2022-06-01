@@ -14,3 +14,7 @@ Random---Always now has $9948.0
 Random---Always has sold ACH for $0.0154. Profit was -0.52%.
 Random---Always now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-01 13:52:38] BUY
+Random---Always has bought WBTC for $31697.7
+Random---Always now has $9896.2704
+---------------------------------------------------------------------------
