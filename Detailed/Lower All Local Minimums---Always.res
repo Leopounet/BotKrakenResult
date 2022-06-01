@@ -5545,3 +5545,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $7160.321450142795
 ---------------------------------------------------------------------------
+[2022-06-01 20:27:10] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: YFIUSD
+Altname: YFIUSD
+Wsname: YFI/USD
+Base:
+ 	Name: YFI
+	Altname: YFI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.00015
+Data about this pair of assets (YFIUSD):
+	Current:                    7590.0
+	Maximum:                    0.000132
+	Minimum:                    0.000117
+	Variance:                   0.108318
+	Mean:                       0.000124
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.65625
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.461538
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      8107.34375
+	Number of local maximums:   32
+	Average local minimum:      8107.74359
+	Number of local minimums:   39
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Always now has $7123.087778602052
+---------------------------------------------------------------------------
