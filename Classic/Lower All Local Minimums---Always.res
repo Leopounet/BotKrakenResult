@@ -144,3 +144,5 @@ Lower All Local Minimums---Always has bought PAXG for $1837.0
 Lower All Local Minimums---Always has sold PAXG for $1837.0. Profit was -0.0%.
 [2022-06-01 01:34:16] BUY
 Lower All Local Minimums---Always has bought PAXG for $1837.0
+[2022-06-01 01:37:12] SOLD
+Lower All Local Minimums---Always has sold PAXG for $1837.0. Profit was -0.0%.
