@@ -328,3 +328,5 @@ Random---Random has bought RAD for $2.198
 Random---Random has sold RAD for $2.198. Profit was -0.0%.
 [2022-06-01 09:37:16] BUY
 Random---Random has bought OCEAN for $0.2327
+[2022-06-01 09:43:25] SOLD
+Random---Random has sold OCEAN for $0.2326. Profit was -0.00042973785990541025%.
