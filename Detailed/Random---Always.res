@@ -10638,3 +10638,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 11:36:06] BUY
+Random---Always has bought: Name: XZECZUSD
+Altname: ZECUSD
+Wsname: ZEC/USD
+Base: Name = XZEC
+Altname = ZEC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.035
+Data about this tradable pair of assets:
+
+        Current:                    93.09
+        Maximum:                    0.011123
+        Minimum:                    0.01001
+        Variance:                   0.1001
+        Mean:                       0.010576
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.85
+        Is ascending:               True
+        Current ascension duration: 5
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.157895
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      94.7155
+        Number of local maximums:   20
+        Average local minimum:      93.481053
+        Number of local minimums:   19
+True
+
+---------------------------------------------------------------------------
