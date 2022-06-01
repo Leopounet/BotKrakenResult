@@ -216,3 +216,5 @@ Random---Always has bought SAMO for $0.005817
 Random---Always has sold SAMO for $0.005817. Profit was -0.0%.
 [2022-06-01 03:20:19] BUY
 Random---Always has bought ZRX for $0.429
+[2022-06-01 03:23:23] SOLD
+Random---Always has sold ZRX for $0.428. Profit was -0.002331002331002363%.

@@ -156,3 +156,5 @@ Random---Random has bought AXS for $22.554
 Random---Random has sold AXS for $22.443. Profit was -0.004921521681298113%.
 [2022-06-01 03:20:19] BUY
 Random---Random has bought XXBT for $31679.8
+[2022-06-01 03:23:23] SOLD
+Random---Random has sold XXBT for $31728.2. Profit was 0.001527787422900495%.
