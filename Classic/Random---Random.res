@@ -68,3 +68,5 @@ Random---Random has bought GNO for $204.8
 Random---Random has sold GNO for $204.8. Profit was -0.0%.
 [2022-06-01 00:41:05] BUY
 Random---Random has bought OXT for $0.13866
+[2022-06-01 00:44:02] SOLD
+Random---Random has sold OXT for $0.13866. Profit was -0.0%.

@@ -108,3 +108,5 @@ Random---Always has bought SC for $0.00561
 Random---Always has sold SC for $0.00564. Profit was 0.005347593582887722%.
 [2022-06-01 00:41:05] BUY
 Random---Always has bought REN for $0.1595
+[2022-06-01 00:44:02] SOLD
+Random---Always has sold REN for $0.1595. Profit was -0.0%.
