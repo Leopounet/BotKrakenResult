@@ -332,3 +332,5 @@ Random---Random has bought OCEAN for $0.2327
 Random---Random has sold OCEAN for $0.2326. Profit was -0.00042973785990541025%.
 [2022-06-01 09:46:33] BUY
 Random---Random has bought RNDR for $0.8302
+[2022-06-01 09:49:50] SOLD
+Random---Random has sold RNDR for $0.8302. Profit was -0.0%.
