@@ -54,3 +54,7 @@ Random---Always now has $9692.027987846315
 Random---Always has sold ZUSD for $1.26314. Profit was -0.4%.
 Random---Always now has $9653.25987589493
 ---------------------------------------------------------------------------
+[2022-06-01 14:23:22] BUY
+Random---Always has bought KAR for $0.604
+Random---Always now has $9653.25987589493
+---------------------------------------------------------------------------
