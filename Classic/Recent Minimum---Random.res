@@ -132,3 +132,5 @@ Recent Minimum---Random has bought ATLAS for $0.00902
 Recent Minimum---Random has sold ATLAS for $0.00902. Profit was -0.0%.
 [2022-06-01 02:53:35] BUY
 Recent Minimum---Random has bought ATLAS for $0.00902
+[2022-06-01 02:56:33] SOLD
+Recent Minimum---Random has sold ATLAS for $0.00902. Profit was -0.0%.

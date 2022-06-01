@@ -198,3 +198,5 @@ Random---Always has sold ATOM for $10.241. Profit was -0.0%.
 Random---Always has bought SDN for $0.408
 [2022-06-01 02:53:35] SOLD
 Random---Always has sold SDN for $0.408. Profit was -0.0%.
+[2022-06-01 02:56:33] BUY
+Random---Always has bought KIN for $1.412e-05

@@ -3998,3 +3998,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 02:56:33] BUY
+Lower All Local Minimums---Always has bought: Name: LPTUSD
+Altname: LPTUSD
+Wsname: LPT/USD
+Base: Name = LPT
+Altname = LPT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.2
+Data about this tradable pair of assets:
+
+        Current:                    12.64
+        Maximum:                    0.081169
+        Minimum:                    0.07278
+        Variance:                   0.103348
+        Mean:                       0.076884
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.090909
+        Is ascending:               True
+        Current ascension duration: 22
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.2
+        Is falling:                 False
+        Current fall duration:      2
+        Trending downwards:         False
+        Average local maximum:      13.0
+        Number of local maximums:   22
+        Average local minimum:      13.024
+        Number of local minimums:   30
+True
+
+---------------------------------------------------------------------------
