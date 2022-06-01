@@ -402,3 +402,5 @@ Random---Always has sold OXY for $0.0925. Profit was -0.0%.
 Random---Always has bought ATLAS for $0.00909
 [2022-06-01 08:13:17] SOLD
 Random---Always has sold ATLAS for $0.00909. Profit was -0.0%.
+[2022-06-01 08:16:17] BUY
+Random---Always has bought XETC for $23.499

@@ -264,3 +264,5 @@ Variance Lower All Local Minimums---Random has bought LUNA for $0.00010407
 Variance Lower All Local Minimums---Random has sold LUNA for $0.0001036. Profit was -0.004516191025271454%.
 [2022-06-01 08:13:17] BUY
 Variance Lower All Local Minimums---Random has bought ACH for $0.01701
+[2022-06-01 08:16:17] SOLD
+Variance Lower All Local Minimums---Random has sold ACH for $0.01701. Profit was -0.0%.
