@@ -204,3 +204,5 @@ Random---Random has bought SHIB for $1.165e-05
 Random---Random has sold SHIB for $1.164e-05. Profit was -0.0008583690987123971%.
 [2022-06-01 04:59:11] BUY
 Random---Random has bought ALICE for $3.063
+[2022-06-01 05:05:06] SOLD
+Random---Random has sold ALICE for $3.063. Profit was -0.0%.

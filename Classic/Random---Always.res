@@ -282,3 +282,5 @@ Random---Always has sold LINK for $7.58006. Profit was -0.0%.
 Random---Always has bought NYM for $0.4132
 [2022-06-01 05:02:08] SOLD
 Random---Always has sold NYM for $0.4132. Profit was -0.0%.
+[2022-06-01 05:05:06] BUY
+Random---Always has bought ZUSD for $129.43
