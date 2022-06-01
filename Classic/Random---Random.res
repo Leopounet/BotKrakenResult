@@ -362,3 +362,5 @@ Random---Random has sold KIN for $1.429e-05. Profit was -0.0%.
 Random---Random has bought AUDIO for $0.4499
 [2022-06-01 11:11:41] SOLD
 Random---Random has sold AUDIO for $0.4499. Profit was -0.0%.
+[2022-06-01 11:15:00] BUY
+Random---Random has bought MASK for $2.001
