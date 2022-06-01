@@ -670,3 +670,7 @@ Random---Always now has $6670.663248331789
 Random---Always has sold SPELL for $0.001218. Profit was -0.52%.
 Random---Always now has $6635.975799440464
 ---------------------------------------------------------------------------
+[2022-06-01 22:30:48] BUY
+Random---Always has bought ATLAS for $0.0083
+Random---Always now has $6635.975799440464
+---------------------------------------------------------------------------
