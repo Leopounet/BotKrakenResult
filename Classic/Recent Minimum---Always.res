@@ -302,3 +302,5 @@ Recent Minimum---Always has sold ATLAS for $0.00895. Profit was -0.0%.
 Recent Minimum---Always has bought GARI for $0.6526
 [2022-06-01 05:32:47] SOLD
 Recent Minimum---Always has sold GARI for $0.6526. Profit was -0.0%.
+[2022-06-01 05:36:02] BUY
+Recent Minimum---Always has bought GARI for $0.6526
