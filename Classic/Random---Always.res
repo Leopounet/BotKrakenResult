@@ -544,3 +544,5 @@ Random---Always has bought MSOL for $46.56
 Random---Always has sold MSOL for $46.56. Profit was -0.0%.
 [2022-06-01 11:54:24] BUY
 Random---Always has bought KINT for $3.67
+[2022-06-01 11:57:25] SOLD
+Random---Always has sold KINT for $3.59. Profit was -0.021798365122615793%.
