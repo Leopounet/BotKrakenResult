@@ -52,3 +52,5 @@ Random---Random has bought BOND for $3.73
 Random---Random has sold BOND for $3.73. Profit was -0.0%.
 [2022-06-01 00:11:24] BUY
 Random---Random has bought BCH for $205.54
+[2022-06-01 00:14:23] SOLD
+Random---Random has sold BCH for $203.51. Profit was -0.009876423080665608%.

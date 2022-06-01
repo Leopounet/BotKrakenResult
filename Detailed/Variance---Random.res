@@ -1038,3 +1038,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.03300670448684895%.
 ---------------------------------------------------------------------------
+[2022-06-01 00:14:23] BUY
+Variance---Random has bought: Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base: Name = ACH
+Altname = ACH
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 250
+Data about this tradable pair of assets:
+
+        Current:                    0.01875
+        Maximum:                    59.665871
+        Minimum:                    11.764706
+        Variance:                   0.802824
+        Mean:                       51.52243
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.5
+        Is ascending:               True
+        Current ascension duration: 5
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.6
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         True
+        Average local maximum:      0.029603
+        Number of local maximums:   6
+        Average local minimum:      0.032024
+        Number of local minimums:   5
+True
+
+---------------------------------------------------------------------------

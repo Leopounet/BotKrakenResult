@@ -88,3 +88,5 @@ Random---Always has bought SAND for $1.4572
 Random---Always has sold SAND for $1.4572. Profit was -0.0%.
 [2022-06-01 00:11:24] BUY
 Random---Always has bought FXS for $7.566
+[2022-06-01 00:14:23] SOLD
+Random---Always has sold FXS for $7.566. Profit was -0.0%.

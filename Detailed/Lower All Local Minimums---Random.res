@@ -1198,3 +1198,43 @@ Data about this tradable pair of assets:
 True
 Profit was 5.437885749914884e-06%.
 ---------------------------------------------------------------------------
+[2022-06-01 00:14:23] BUY
+Lower All Local Minimums---Random has bought: Name: PAXGUSD
+Altname: PAXGUSD
+Wsname: PAXG/USD
+Base: Name = PAXG
+Altname = PAXG
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.004
+Data about this tradable pair of assets:
+
+        Current:                    1838.96
+        Maximum:                    0.000545
+        Minimum:                    0.000536
+        Variance:                   0.017067
+        Mean:                       0.00054
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.333333
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.857143
+        Is falling:                 True
+        Current fall duration:      14
+        Trending downwards:         True
+        Average local maximum:      1853.896667
+        Number of local maximums:   36
+        Average local minimum:      1853.707143
+        Number of local minimums:   28
+True
+
+---------------------------------------------------------------------------
