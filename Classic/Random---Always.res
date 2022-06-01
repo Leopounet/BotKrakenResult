@@ -678,3 +678,7 @@ Random---Always now has $6635.975799440464
 Random---Always has sold ATLAS for $0.0083. Profit was -0.52%.
 Random---Always now has $6601.468725283373
 ---------------------------------------------------------------------------
+[2022-06-01 22:36:56] BUY
+Random---Always has bought POLIS for $0.61
+Random---Always now has $6601.468725283373
+---------------------------------------------------------------------------
