@@ -164,3 +164,5 @@ Variance Lower All Local Minimums---Random has bought ACH for $0.01875
 Variance Lower All Local Minimums---Random has sold ACH for $0.01875. Profit was -0.0%.
 [2022-06-01 03:53:08] BUY
 Variance Lower All Local Minimums---Random has bought UST for $0.0209
+[2022-06-01 04:02:07] SOLD
+Variance Lower All Local Minimums---Random has sold UST for $0.02081. Profit was -0.0043062200956938135%.

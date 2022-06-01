@@ -242,3 +242,5 @@ Random---Always has sold ZUSD for $0.9603. Profit was -0.0005932124012613116%.
 Random---Always has bought ZUSD for $129.416
 [2022-06-01 03:59:01] SOLD
 Random---Always has sold ZUSD for $129.416. Profit was -0.0%.
+[2022-06-01 04:02:07] BUY
+Random---Always has bought EOS for $1.3626
