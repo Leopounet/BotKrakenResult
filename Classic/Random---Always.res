@@ -374,3 +374,5 @@ Random---Always has sold QNT for $70.71. Profit was -0.0%.
 Random---Always has bought ZEUR for $1.07253
 [2022-06-01 07:28:26] SOLD
 Random---Always has sold ZEUR for $1.07266. Profit was 0.00012120873075804894%.
+[2022-06-01 07:31:38] BUY
+Random---Always has bought ORCA for $0.912

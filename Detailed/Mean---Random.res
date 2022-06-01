@@ -5038,3 +5038,43 @@ Data about this tradable pair of assets:
 True
 Profit was 0.0008576329331047017%.
 ---------------------------------------------------------------------------
+[2022-06-01 07:31:38] BUY
+Mean---Random has bought: Name: SHIBUSD
+Altname: SHIBUSD
+Wsname: SHIB/USD
+Base: Name = SHIB
+Altname = SHIB
+decimals = 5
+displayed_decimals = 0
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 500000
+Data about this tradable pair of assets:
+
+        Current:                    1.2e-05
+        Maximum:                    89766.606822
+        Minimum:                    80971.659919
+        Variance:                   0.097976
+        Mean:                       84797.005728
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.285714
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.73913
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      1.2e-05
+        Number of local maximums:   21
+        Average local minimum:      1.2e-05
+        Number of local minimums:   23
+True
+
+---------------------------------------------------------------------------

@@ -270,3 +270,5 @@ Random---Random has sold RLC for $0.9874. Profit was -0.0%.
 Random---Random has bought GHST for $1.5025
 [2022-06-01 07:28:26] SOLD
 Random---Random has sold GHST for $1.5025. Profit was -0.0%.
+[2022-06-01 07:31:38] BUY
+Random---Random has bought API3 for $1.774
