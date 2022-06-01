@@ -278,3 +278,5 @@ Random---Always has sold CFG for $0.2707. Profit was -0.0%.
 Random---Always has bought LINK for $7.58006
 [2022-06-01 04:56:14] SOLD
 Random---Always has sold LINK for $7.58006. Profit was -0.0%.
+[2022-06-01 04:59:11] BUY
+Random---Always has bought NYM for $0.4132

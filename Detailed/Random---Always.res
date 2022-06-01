@@ -5598,3 +5598,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 04:59:11] BUY
+Random---Always has bought: Name: NYMUSD
+Altname: NYMUSD
+Wsname: NYM/USD
+Base: Name = NYM
+Altname = NYM
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.4132
+        Maximum:                    2.633658
+        Minimum:                    2.187705
+        Variance:                   0.169328
+        Mean:                       2.367823
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.25
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.769231
+        Is falling:                 True
+        Current fall duration:      10
+        Trending downwards:         False
+        Average local maximum:      0.419275
+        Number of local maximums:   24
+        Average local minimum:      0.42605
+        Number of local minimums:   26
+True
+
+---------------------------------------------------------------------------

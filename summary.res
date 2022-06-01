@@ -1,4 +1,4 @@
-[2022-06-01 04:56:14] SUMMARY
+[2022-06-01 04:59:11] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: ALICEUSD
+Altname: ALICEUSD
+Wsname: ALICE/USD
+Base: Name = ALICE
+Altname = ALICE
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    3.063
+        Maximum:                    0.363504
+        Minimum:                    0.308166
+        Variance:                   0.152234
+        Mean:                       0.322161
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.727273
+        Is ascending:               True
+        Current ascension duration: 46
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.3
+        Is falling:                 True
+        Current fall duration:      8
+        Trending downwards:         False
+        Average local maximum:      3.102
+        Number of local maximums:   22
+        Average local minimum:      3.13215
+        Number of local minimums:   20
+True
 0
 51
 0.07293360616735511
