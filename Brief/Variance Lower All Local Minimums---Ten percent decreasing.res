@@ -22,3 +22,9 @@ Variance Lower All Local Minimums---Ten percent decreasing has 0 losses
 Variance Lower All Local Minimums---Ten percent decreasing has 39.11783457271828 points
 Variance Lower All Local Minimums---Ten percent decreasing now has $14207.161349604512
 ---------------------------------------------------------------------------
+[2022-06-01 22:52:09] BRIEF
+Variance Lower All Local Minimums---Ten percent decreasing has 2 wins
+Variance Lower All Local Minimums---Ten percent decreasing has 0 losses
+Variance Lower All Local Minimums---Ten percent decreasing has 39.11783457271828 points
+Variance Lower All Local Minimums---Ten percent decreasing now has $14207.161349604512
+---------------------------------------------------------------------------

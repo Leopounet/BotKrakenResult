@@ -14,3 +14,7 @@ Variance Lower All Local Minimums---Ten percent decreasing now has $12889.558441
 Variance Lower All Local Minimums---Ten percent decreasing has sold UST for $0.0176. Profit was 10.222250157133873%.
 Variance Lower All Local Minimums---Ten percent decreasing now has $14207.161349604512
 ---------------------------------------------------------------------------
+[2022-06-01 22:52:09] BUY
+Variance Lower All Local Minimums---Ten percent decreasing has bought GST for $0.938
+Variance Lower All Local Minimums---Ten percent decreasing now has $14207.161349604512
+---------------------------------------------------------------------------
