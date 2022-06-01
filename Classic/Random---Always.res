@@ -406,3 +406,7 @@ Random---Always now has $7359.921294833151
 Random---Always has sold BICO for $0.76. Profit was -0.52%.
 Random---Always now has $7321.649704100018
 ---------------------------------------------------------------------------
+[2022-06-01 19:01:53] BUY
+Random---Always has bought AUDIO for $0.4177
+Random---Always now has $7321.649704100018
+---------------------------------------------------------------------------
