@@ -48,3 +48,5 @@ Random---Random has bought SHIB for $1.167e-05
 Random---Random has sold SHIB for $1.17e-05. Profit was 0.0025706940874035134%.
 [2022-06-01 00:02:33] BUY
 Random---Random has bought BOND for $3.73
+[2022-06-01 00:08:28] SOLD
+Random---Random has sold BOND for $3.73. Profit was -0.0%.

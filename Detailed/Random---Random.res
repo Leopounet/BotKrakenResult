@@ -998,3 +998,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 00:08:28] SOLD
+Random---Random has sold: Name: BONDUSD
+Altname: BONDUSD
+Wsname: BOND/USD
+Base: Name = BOND
+Altname = BOND
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.5
+Data about this tradable pair of assets:
+
+        Current:                    3.73
+        Maximum:                    0.288268
+        Minimum:                    0.267094
+        Variance:                   0.073451
+        Mean:                       0.273277
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          6.0
+        Is ascending:               True
+        Current ascension duration: 30
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.5
+        Is falling:                 True
+        Current fall duration:      36
+        Trending downwards:         False
+        Average local maximum:      3.627143
+        Number of local maximums:   7
+        Average local minimum:      3.651357
+        Number of local minimums:   14
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
