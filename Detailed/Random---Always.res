@@ -250,3 +250,45 @@ Data about this pair of assets (MKRUSD):
 Is init: True
 Profit was -0.26%.
 ---------------------------------------------------------------------------
+[2022-06-01 13:13:24] BUY
+Random---Always has bought: 
+Name: RENUSD
+Altname: RENUSD
+Wsname: REN/USD
+Base:
+ 	Name: REN
+	Altname: REN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (RENUSD):
+	Current:                    0.1565
+	Maximum:                    7.147963
+	Minimum:                    5.882353
+	Variance:                   0.177059
+	Mean:                       6.461187
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.857143
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.333333
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         False
+	Average local maximum:      0.15601
+	Number of local maximums:   21
+	Average local minimum:      0.154052
+	Number of local minimums:   27
+Is init: True
+
+---------------------------------------------------------------------------

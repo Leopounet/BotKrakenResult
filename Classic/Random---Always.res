@@ -10,3 +10,5 @@ Random---Always has sold UNI for $5.689. Profit was -0.26%.
 Random---Always has bought MKR for $1311.2
 [2022-06-01 13:10:12] SOLD
 Random---Always has sold MKR for $1311.2. Profit was -0.26%.
+[2022-06-01 13:13:24] BUY
+Random---Always has bought REN for $0.1565
