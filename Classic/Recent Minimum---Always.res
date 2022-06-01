@@ -430,3 +430,5 @@ Recent Minimum---Always has sold XRT for $3.99. Profit was -0.0%.
 Recent Minimum---Always has bought XRT for $3.99
 [2022-06-01 08:56:28] SOLD
 Recent Minimum---Always has sold XRT for $3.99. Profit was -0.0%.
+[2022-06-01 08:59:31] BUY
+Recent Minimum---Always has bought XRT for $3.99
