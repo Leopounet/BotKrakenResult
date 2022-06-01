@@ -392,3 +392,5 @@ Random---Always has bought BICO for $0.835
 Random---Always has sold BICO for $0.835. Profit was -0.0%.
 [2022-06-01 07:57:01] BUY
 Random---Always has bought FET for $0.1681
+[2022-06-01 08:00:17] SOLD
+Random---Always has sold FET for $0.1681. Profit was -0.0%.
