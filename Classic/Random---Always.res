@@ -100,3 +100,5 @@ Random---Always has bought 1INCH for $0.967
 Random---Always has sold 1INCH for $0.955. Profit was -0.012409513960703222%.
 [2022-06-01 00:29:09] BUY
 Random---Always has bought FIDA for $0.503
+[2022-06-01 00:32:09] SOLD
+Random---Always has sold FIDA for $0.503. Profit was -0.0%.
