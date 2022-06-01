@@ -5588,3 +5588,46 @@ Is init: True
 Profit was -0.3510561104893024%.
 Random---Random now has $7725.253187117222
 ---------------------------------------------------------------------------
+[2022-06-01 23:37:37] BUY
+Random---Random has bought: 
+Name: MANAUSD
+Altname: MANAUSD
+Wsname: MANA/USD
+Base:
+ 	Name: MANA
+	Altname: MANA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1.5
+Data about this pair of assets (MANAUSD):
+	Current:                    0.98729
+	Maximum:                    1.026336
+	Minimum:                    0.888052
+	Variance:                   0.134735
+	Mean:                       0.946632
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.222222
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.05
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.066283
+	Number of local maximums:   27
+	Average local minimum:      1.072931
+	Number of local minimums:   20
+Is init: True
+
+Random---Random now has $7725.253187117222
+---------------------------------------------------------------------------
