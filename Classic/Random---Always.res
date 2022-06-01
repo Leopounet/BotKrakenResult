@@ -520,3 +520,5 @@ Random---Always has bought WAVES for $8.8146
 Random---Always has sold WAVES for $8.9669. Profit was 0.017278152156649185%.
 [2022-06-01 11:18:01] BUY
 Random---Always has bought FET for $0.1681
+[2022-06-01 11:21:01] SOLD
+Random---Always has sold FET for $0.1672. Profit was -0.005353955978584235%.
