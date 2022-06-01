@@ -468,3 +468,5 @@ Random---Always has bought QNT for $71.22
 Random---Always has sold QNT for $71.57. Profit was 0.004914349901713022%.
 [2022-06-01 09:56:15] BUY
 Random---Always has bought AIR for $0.0256
+[2022-06-01 09:59:24] SOLD
+Random---Always has sold AIR for $0.0256. Profit was -0.0%.

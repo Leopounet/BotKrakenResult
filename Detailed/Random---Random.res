@@ -6758,3 +6758,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 09:59:24] SOLD
+Random---Random has sold: Name: OXTUSD
+Altname: OXTUSD
+Wsname: OXT/USD
+Base: Name = OXT
+Altname = OXT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.13889
+        Maximum:                    7.825338
+        Minimum:                    6.838074
+        Variance:                   0.126162
+        Mean:                       7.336664
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.777778
+        Is ascending:               False
+        Current ascension duration: 1
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               5.0625
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         False
+        Average local maximum:      0.135947
+        Number of local maximums:   27
+        Average local minimum:      0.135035
+        Number of local minimums:   16
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
