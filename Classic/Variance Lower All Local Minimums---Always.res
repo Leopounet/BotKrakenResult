@@ -510,3 +510,7 @@ Variance Lower All Local Minimums---Always now has $7374.919268949066
 Variance Lower All Local Minimums---Always has sold UST for $0.01591. Profit was -1.4572139303482552%.
 Variance Lower All Local Minimums---Always now has $7267.450918010002
 ---------------------------------------------------------------------------
+[2022-06-01 20:24:08] BUY
+Variance Lower All Local Minimums---Always has bought UST for $0.0158
+Variance Lower All Local Minimums---Always now has $7267.450918010002
+---------------------------------------------------------------------------
