@@ -12,3 +12,5 @@ Random---Always has bought TRIBE for $0.24
 Random---Always has sold TRIBE for $0.24. Profit was -0.0%.
 [2022-06-01 12:30:59] BUY
 Random---Always has bought IMX for $1.074
+[2022-06-01 12:34:07] SOLD
+Random---Always has sold IMX for $1.074. Profit was -0.0%.

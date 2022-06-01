@@ -292,3 +292,45 @@ Data about this pair of assets (IMXUSD):
 Is init: True
 
 ---------------------------------------------------------------------------
+[2022-06-01 12:34:07] SOLD
+Random---Always has sold: 
+Name: IMXUSD
+Altname: IMXUSD
+Wsname: IMX/USD
+Base:
+ 	Name: IMX
+	Altname: IMX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (IMXUSD):
+	Current:                    1.074
+	Maximum:                    1.0
+	Minimum:                    0.841751
+	Variance:                   0.158249
+	Mean:                       0.906467
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.451613
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.2
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         False
+	Average local maximum:      1.113742
+	Number of local maximums:   31
+	Average local minimum:      1.105733
+	Number of local minimums:   15
+Is init: True
+Profit was -0.0%.
+---------------------------------------------------------------------------
