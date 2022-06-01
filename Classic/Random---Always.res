@@ -264,3 +264,5 @@ Random---Always has bought RARI for $3.26
 Random---Always has sold RARI for $3.26. Profit was -0.0%.
 [2022-06-01 04:35:15] BUY
 Random---Always has bought ORCA for $0.84
+[2022-06-01 04:38:22] SOLD
+Random---Always has sold ORCA for $0.84. Profit was -0.0%.
