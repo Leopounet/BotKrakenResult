@@ -204,3 +204,5 @@ Random---Always has bought KIN for $1.412e-05
 Random---Always has sold KIN for $1.412e-05. Profit was -0.0%.
 [2022-06-01 03:02:32] BUY
 Random---Always has bought FXS for $7.69
+[2022-06-01 03:05:29] SOLD
+Random---Always has sold FXS for $7.69. Profit was -0.0%.

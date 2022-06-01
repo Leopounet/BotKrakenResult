@@ -204,3 +204,5 @@ Recent Minimum---Always has bought SBR for $0.01018
 Recent Minimum---Always has sold SBR for $0.01018. Profit was -0.0%.
 [2022-06-01 03:02:32] BUY
 Recent Minimum---Always has bought SBR for $0.01018
+[2022-06-01 03:05:29] SOLD
+Recent Minimum---Always has sold SBR for $0.01018. Profit was -0.0%.
