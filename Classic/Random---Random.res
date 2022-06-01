@@ -108,3 +108,5 @@ Random---Random has bought FIDA for $0.503
 Random---Random has sold FIDA for $0.507. Profit was 0.007952286282306265%.
 [2022-06-01 01:51:54] BUY
 Random---Random has bought ORCA for $0.84
+[2022-06-01 01:54:51] SOLD
+Random---Random has sold ORCA for $0.84. Profit was -0.0%.
