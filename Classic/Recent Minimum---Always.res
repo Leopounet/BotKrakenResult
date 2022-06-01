@@ -10,3 +10,5 @@ Recent Minimum---Always has sold TBTC for $33899.8. Profit was -0.0%.
 Recent Minimum---Always has bought ATLAS for $0.00888
 [2022-06-01 12:27:51] SOLD
 Recent Minimum---Always has sold ATLAS for $0.00888. Profit was -0.0%.
+[2022-06-01 12:30:59] BUY
+Recent Minimum---Always has bought ATLAS for $0.00888
