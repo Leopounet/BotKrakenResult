@@ -304,3 +304,5 @@ Random---Random has bought ANT for $2.0918
 Random---Random has sold ANT for $2.082. Profit was -0.004684960321254539%.
 [2022-06-01 08:47:10] BUY
 Random---Random has bought BADGER for $6.041
+[2022-06-01 08:53:24] SOLD
+Random---Random has sold BADGER for $6.041. Profit was -0.0%.

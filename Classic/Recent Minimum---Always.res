@@ -426,3 +426,5 @@ Recent Minimum---Always has sold AIR for $0.02626. Profit was -0.0%.
 Recent Minimum---Always has bought XRT for $3.99
 [2022-06-01 08:50:13] SOLD
 Recent Minimum---Always has sold XRT for $3.99. Profit was -0.0%.
+[2022-06-01 08:53:24] BUY
+Recent Minimum---Always has bought XRT for $3.99

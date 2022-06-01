@@ -8558,3 +8558,43 @@ Data about this tradable pair of assets:
 True
 Profit was 9.312865724009356e-05%.
 ---------------------------------------------------------------------------
+[2022-06-01 08:53:24] BUY
+Random---Always has bought: Name: ICPUSD
+Altname: ICPUSD
+Wsname: ICP/USD
+Base: Name = ICP
+Altname = ICP
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.25
+Data about this tradable pair of assets:
+
+        Current:                    8.074
+        Maximum:                    0.141064
+        Minimum:                    0.114877
+        Variance:                   0.18564
+        Mean:                       0.126626
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.580645
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.513514
+        Is falling:                 True
+        Current fall duration:      3
+        Trending downwards:         False
+        Average local maximum:      7.809129
+        Number of local maximums:   31
+        Average local minimum:      7.860432
+        Number of local minimums:   37
+True
+
+---------------------------------------------------------------------------
