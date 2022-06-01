@@ -4638,3 +4638,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 06:23:24] BUY
+Recent Minimum---Random has bought: Name: GARIUSD
+Altname: GARIUSD
+Wsname: GARI/USD
+Base: Name = GARI
+Altname = GARI
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 15
+Data about this tradable pair of assets:
+
+        Current:                    0.6526
+        Maximum:                    1.560793
+        Minimum:                    1.519295
+        Variance:                   0.026588
+        Mean:                       1.535812
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.714286
+        Is ascending:               True
+        Current ascension duration: 14
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               1.909091
+        Is falling:                 True
+        Current fall duration:      175
+        Trending downwards:         False
+        Average local maximum:      0.6529
+        Number of local maximums:   7
+        Average local minimum:      0.651827
+        Number of local minimums:   11
+True
+
+---------------------------------------------------------------------------
