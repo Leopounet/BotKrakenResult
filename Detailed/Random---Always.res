@@ -7958,3 +7958,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 08:06:50] SOLD
+Random---Always has sold: Name: OXYUSD
+Altname: OXYUSD
+Wsname: OXY/USD
+Base: Name = OXY
+Altname = OXY
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 50
+Data about this tradable pair of assets:
+
+        Current:                    0.0925
+        Maximum:                    11.402509
+        Minimum:                    10.615711
+        Variance:                   0.069002
+        Mean:                       10.976484
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.5
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               6.0
+        Is falling:                 True
+        Current fall duration:      18
+        Trending downwards:         False
+        Average local maximum:      0.090658
+        Number of local maximums:   26
+        Average local minimum:      0.090977
+        Number of local minimums:   13
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

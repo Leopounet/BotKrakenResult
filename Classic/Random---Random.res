@@ -282,3 +282,5 @@ Random---Random has sold RARE for $0.2636. Profit was -0.04145454545454552%.
 Random---Random has bought IMX for $1.059
 [2022-06-01 08:03:43] SOLD
 Random---Random has sold IMX for $1.059. Profit was -0.0%.
+[2022-06-01 08:06:50] BUY
+Random---Random has bought SUSHI for $1.757
