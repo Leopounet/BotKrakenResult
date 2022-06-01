@@ -456,3 +456,5 @@ Random---Always has bought LINK for $7.55792
 Random---Always has sold LINK for $7.55792. Profit was -0.0%.
 [2022-06-01 09:37:16] BUY
 Random---Always has bought EOS for $1.3637
+[2022-06-01 09:40:22] SOLD
+Random---Always has sold EOS for $1.3635. Profit was -0.00014665982254158383%.
