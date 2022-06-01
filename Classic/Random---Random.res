@@ -180,3 +180,5 @@ Random---Random has bought ZRX for $0.428
 Random---Random has sold ZRX for $0.424. Profit was -0.009345794392523366%.
 [2022-06-01 04:17:20] BUY
 Random---Random has bought AIR for $0.0256
+[2022-06-01 04:20:18] SOLD
+Random---Random has sold AIR for $0.0256. Profit was -0.0%.

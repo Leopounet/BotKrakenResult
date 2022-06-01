@@ -5078,3 +5078,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 04:20:18] SOLD
+Random---Always has sold: Name: MCUSD
+Altname: MCUSD
+Wsname: MC/USD
+Base: Name = MC
+Altname = MC
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    1.048
+        Maximum:                    1.0
+        Minimum:                    0.888099
+        Variance:                   0.111901
+        Mean:                       0.935776
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.032258
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.428571
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      1.070742
+        Number of local maximums:   31
+        Average local minimum:      1.081429
+        Number of local minimums:   21
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

@@ -313,3 +313,8 @@ Mean---Always has 0 wins
 Mean---Always has 63 losses
 Mean---Always has -0.025514489605203416 points
 ---------------------------------------------------------------------------
+[2022-06-01 04:20:18] BRIEF
+Mean---Always has 0 wins
+Mean---Always has 64 losses
+Mean---Always has -0.025514489605203416 points
+---------------------------------------------------------------------------

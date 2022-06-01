@@ -252,3 +252,5 @@ Random---Always has bought AXS for $22.556
 Random---Always has sold AXS for $22.224. Profit was -0.014718921794644513%.
 [2022-06-01 04:17:20] BUY
 Random---Always has bought MC for $1.048
+[2022-06-01 04:20:18] SOLD
+Random---Always has sold MC for $1.048. Profit was -0.0%.
