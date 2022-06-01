@@ -5932,3 +5932,46 @@ Is init: True
 Profit was 9.711729055258466%.
 Random---Always now has $7054.6477613591105
 ---------------------------------------------------------------------------
+[2022-06-01 20:57:41] BUY
+Random---Always has bought: 
+Name: XXBTZUSD
+Altname: XBTUSD
+Wsname: XBT/USD
+Base:
+ 	Name: XXBT
+	Altname: XBT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.0001
+Data about this pair of assets (XXBTZUSD):
+	Current:                    29607.2
+	Maximum:                    3.4e-05
+	Minimum:                    3.1e-05
+	Variance:                   0.086734
+	Mean:                       3.2e-05
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.7
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.333333
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      31299.065
+	Number of local maximums:   20
+	Average local minimum:      31281.383333
+	Number of local minimums:   18
+Is init: True
+
+Random---Always now has $7054.6477613591105
+---------------------------------------------------------------------------
