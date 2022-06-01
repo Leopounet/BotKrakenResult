@@ -8,3 +8,5 @@ Random---Always has bought KAR for $0.594
 Random---Always has sold KAR for $0.594. Profit was -0.0%.
 [2022-06-01 12:24:24] BUY
 Random---Always has bought TRIBE for $0.24
+[2022-06-01 12:27:51] SOLD
+Random---Always has sold TRIBE for $0.24. Profit was -0.0%.
