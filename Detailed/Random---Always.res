@@ -772,3 +772,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $9553.126997332667
 ---------------------------------------------------------------------------
+[2022-06-01 14:35:29] BUY
+Random---Always has bought: 
+Name: MNGOUSD
+Altname: MNGOUSD
+Wsname: MNGO/USD
+Base:
+ 	Name: MNGO
+	Altname: MNGO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (MNGOUSD):
+	Current:                    0.0569
+	Maximum:                    18.975332
+	Minimum:                    16.891892
+	Variance:                   0.109797
+	Mean:                       17.412786
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.5
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.6
+	Is falling:                 True
+	Current fall duration:      23
+	Trending downwards:         True
+	Average local maximum:      0.056933
+	Number of local maximums:   24
+	Average local minimum:      0.05783
+	Number of local minimums:   20
+Is init: True
+
+Random---Always now has $9553.126997332667
+---------------------------------------------------------------------------

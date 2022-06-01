@@ -70,3 +70,7 @@ Random---Always now has $9603.062924540276
 Random---Always has sold MASK for $2.018. Profit was -0.52%.
 Random---Always now has $9553.126997332667
 ---------------------------------------------------------------------------
+[2022-06-01 14:35:29] BUY
+Random---Always has bought MNGO for $0.0569
+Random---Always now has $9553.126997332667
+---------------------------------------------------------------------------
