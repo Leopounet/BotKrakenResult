@@ -326,3 +326,5 @@ Random---Always has sold CRV for $1.374. Profit was -0.0%.
 Random---Always has bought T for $0.0699
 [2022-06-01 06:11:13] SOLD
 Random---Always has sold T for $0.0692. Profit was -0.010014306151645336%.
+[2022-06-01 06:14:15] BUY
+Random---Always has bought ANKR for $0.03975
