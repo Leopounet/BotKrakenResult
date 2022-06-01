@@ -150,3 +150,7 @@ Random---Random now has $9410.928027223004
 Random---Random has sold BADGER for $5.856. Profit was -0.52%.
 Random---Random now has $9361.991201481445
 ---------------------------------------------------------------------------
+[2022-06-01 16:27:35] BUY
+Random---Random has bought SPELL for $0.00126
+Random---Random now has $9361.991201481445
+---------------------------------------------------------------------------
