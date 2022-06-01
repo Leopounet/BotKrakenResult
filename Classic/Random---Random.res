@@ -114,3 +114,5 @@ Random---Random has sold ORCA for $0.84. Profit was -0.0%.
 Random---Random has bought APE for $6.7703
 [2022-06-01 02:06:37] SOLD
 Random---Random has sold APE for $6.7735. Profit was 0.0004726526150984345%.
+[2022-06-01 02:09:33] BUY
+Random---Random has bought XETC for $23.812

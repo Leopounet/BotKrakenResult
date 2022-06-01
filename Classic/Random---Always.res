@@ -166,3 +166,5 @@ Random---Always has sold USDC for $1.0. Profit was 0.00010001000100001711%.
 Random---Always has bought OMG for $2.799761
 [2022-06-01 02:06:37] SOLD
 Random---Always has sold OMG for $2.799761. Profit was -0.0%.
+[2022-06-01 02:09:33] BUY
+Random---Always has bought MOVR for $23.1955

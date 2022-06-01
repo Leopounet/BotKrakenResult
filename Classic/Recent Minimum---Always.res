@@ -166,3 +166,5 @@ Recent Minimum---Always has sold LPT for $12.9. Profit was -0.0%.
 Recent Minimum---Always has bought LPT for $12.9
 [2022-06-01 02:06:37] SOLD
 Recent Minimum---Always has sold LPT for $12.9. Profit was -0.0%.
+[2022-06-01 02:09:33] BUY
+Recent Minimum---Always has bought ATLAS for $0.00902
