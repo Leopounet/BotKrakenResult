@@ -274,3 +274,5 @@ Random---Always has sold ATLAS for $0.00895. Profit was -0.0%.
 Random---Always has bought CFG for $0.2707
 [2022-06-01 04:50:17] SOLD
 Random---Always has sold CFG for $0.2707. Profit was -0.0%.
+[2022-06-01 04:53:16] BUY
+Random---Always has bought LINK for $7.58006
