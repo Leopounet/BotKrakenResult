@@ -9598,3 +9598,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 10:15:04] BUY
+Random---Always has bought: Name: PHAUSD
+Altname: PHAUSD
+Wsname: PHA/USD
+Base: Name = PHA
+Altname = PHA
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 25
+Data about this tradable pair of assets:
+
+        Current:                    0.1296
+        Maximum:                    7.739938
+        Minimum:                    7.380074
+        Variance:                   0.046494
+        Mean:                       7.585147
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.2
+        Is ascending:               True
+        Current ascension duration: 7
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.8125
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      0.13178
+        Number of local maximums:   15
+        Average local minimum:      0.131562
+        Number of local minimums:   16
+True
+
+---------------------------------------------------------------------------

@@ -338,3 +338,5 @@ Recent Minimum---Random has sold XRT for $3.78. Profit was -0.0%.
 Recent Minimum---Random has bought CVC for $0.1797
 [2022-06-01 10:12:02] SOLD
 Recent Minimum---Random has sold CVC for $0.1797. Profit was -0.0%.
+[2022-06-01 10:15:04] BUY
+Recent Minimum---Random has bought LUNA2 for $7.32188

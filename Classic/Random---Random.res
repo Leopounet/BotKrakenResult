@@ -340,3 +340,5 @@ Random---Random has bought OXT for $0.13889
 Random---Random has sold OXT for $0.13889. Profit was -0.0%.
 [2022-06-01 10:02:25] BUY
 Random---Random has bought ENJ for $0.683
+[2022-06-01 10:15:04] SOLD
+Random---Random has sold ENJ for $0.683. Profit was -0.0%.

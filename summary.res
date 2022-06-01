@@ -1,4 +1,4 @@
-[2022-06-01 10:12:02] SUMMARY
+[2022-06-01 10:15:04] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,45 +51,9 @@ Random.
 Random.
 {}
 {}
-Name: ENJUSD
-Altname: ENJUSD
-Wsname: ENJ/USD
-Base: Name = ENJ
-Altname = ENJ
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 2
-Data about this tradable pair of assets:
-
-        Current:                    0.683
-        Maximum:                    1.658375
-        Minimum:                    1.396648
-        Variance:                   0.157821
-        Mean:                       1.497707
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          3.315789
-        Is ascending:               False
-        Current ascension duration: 2
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.714286
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         False
-        Average local maximum:      0.671263
-        Number of local maximums:   19
-        Average local minimum:      0.65319
-        Number of local minimums:   21
-True
+None
 0
-85
+86
 0.06671968606207346
 Best score: 
 Recent Minimum---Random
@@ -97,7 +61,43 @@ Looks for the asset which is closer to its previous local minimum.
 Random.
 {}
 {}
-None
+Name: LUNA2USD
+Altname: LUNA2USD
+Wsname: LUNA2/USD
+Base: Name = LUNA2
+Altname = LUNA2
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    7.32188
+        Maximum:                    0.175364
+        Minimum:                    0.081842
+        Variance:                   0.533301
+        Mean:                       0.127779
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.318182
+        Is ascending:               True
+        Current ascension duration: 3
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.882353
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      8.224463
+        Number of local maximums:   22
+        Average local minimum:      7.965762
+        Number of local minimums:   17
+True
 0
 85
 -0.18758539390817952

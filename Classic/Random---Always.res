@@ -478,3 +478,5 @@ Random---Always has sold KINT for $3.77. Profit was -0.0%.
 Random---Always has bought WOO for $0.1732
 [2022-06-01 10:12:02] SOLD
 Random---Always has sold WOO for $0.1732. Profit was -0.0%.
+[2022-06-01 10:15:04] BUY
+Random---Always has bought PHA for $0.1296
