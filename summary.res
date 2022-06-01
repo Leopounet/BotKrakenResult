@@ -1,4 +1,4 @@
-[2022-06-01 03:17:24] SUMMARY
+[2022-06-01 03:20:19] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: XXBTZUSD
+Altname: XBTUSD
+Wsname: XBT/USD
+Base: Name = XXBT
+Altname = XBT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.0001
+Data about this tradable pair of assets:
+
+        Current:                    31679.8
+        Maximum:                    3.4e-05
+        Minimum:                    3.1e-05
+        Variance:                   0.099639
+        Mean:                       3.2e-05
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.25
+        Is ascending:               True
+        Current ascension duration: 5
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.0
+        Is falling:                 False
+        Current fall duration:      0
+        Trending downwards:         False
+        Average local maximum:      30737.145833
+        Number of local maximums:   24
+        Average local minimum:      31056.905556
+        Number of local minimums:   18
+True
 0
 39
 0.07881526678853601

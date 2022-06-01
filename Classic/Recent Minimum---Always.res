@@ -214,3 +214,5 @@ Recent Minimum---Always has sold ZEUR for $1.0719. Profit was 4.6648318328124105
 Recent Minimum---Always has bought ZEUR for $1.07204
 [2022-06-01 03:17:24] SOLD
 Recent Minimum---Always has sold ZEUR for $1.07182. Profit was -0.00020521622327540623%.
+[2022-06-01 03:20:19] BUY
+Recent Minimum---Always has bought SBR for $0.00958
