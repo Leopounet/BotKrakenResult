@@ -154,3 +154,7 @@ Variance Lower All Local Minimums---Random now has $9056.903811515129
 Variance Lower All Local Minimums---Random has bought ACH for $0.0154
 Variance Lower All Local Minimums---Random now has $9056.903811515129
 ---------------------------------------------------------------------------
+[2022-06-01 16:33:55] SOLD
+Variance Lower All Local Minimums---Random has sold ACH for $0.0154. Profit was -0.52%.
+Variance Lower All Local Minimums---Random now has $9009.80791169525
+---------------------------------------------------------------------------
