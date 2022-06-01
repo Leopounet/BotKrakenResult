@@ -446,3 +446,5 @@ Random---Always has sold EWT for $2.984. Profit was -0.0%.
 Random---Always has bought LRC for $0.567
 [2022-06-01 09:21:52] SOLD
 Random---Always has sold LRC for $0.567. Profit was -0.0%.
+[2022-06-01 09:24:53] BUY
+Random---Always has bought XETC for $23.661
