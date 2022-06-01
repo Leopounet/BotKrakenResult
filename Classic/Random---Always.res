@@ -466,3 +466,5 @@ Random---Always has sold OXT for $0.13889. Profit was -0.0%.
 Random---Always has bought QNT for $71.22
 [2022-06-01 09:53:08] SOLD
 Random---Always has sold QNT for $71.57. Profit was 0.004914349901713022%.
+[2022-06-01 09:56:15] BUY
+Random---Always has bought AIR for $0.0256

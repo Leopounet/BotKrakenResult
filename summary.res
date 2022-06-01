@@ -1,4 +1,4 @@
-[2022-06-01 09:53:08] SUMMARY
+[2022-06-01 09:56:15] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -97,44 +97,8 @@ Looks for the asset which is closer to its previous local minimum.
 Random.
 {}
 {}
-Name: XRTUSD
-Altname: XRTUSD
-Wsname: XRT/USD
-Base: Name = XRT
-Altname = XRT
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 1
-Data about this tradable pair of assets:
-
-        Current:                    3.78
-        Maximum:                    0.286533
-        Minimum:                    0.240385
-        Variance:                   0.161058
-        Mean:                       0.259338
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          2.625
-        Is ascending:               True
-        Current ascension duration: 22
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               3.428571
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         False
-        Average local maximum:      3.84625
-        Number of local maximums:   16
-        Average local minimum:      3.887857
-        Number of local minimums:   14
-True
+None
 0
-82
+83
 -0.18758539390817952
 ---------------------------------------------------------------------------
