@@ -1,4 +1,4 @@
-[2022-06-01 10:33:39] SUMMARY
+[2022-06-01 10:37:02] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,45 +51,9 @@ Random.
 Random.
 {}
 {}
-Name: PSTAKEUSD
-Altname: PSTAKEUSD
-Wsname: PSTAKE/USD
-Base: Name = PSTAKE
-Altname = PSTAKE
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 3
-Data about this tradable pair of assets:
-
-        Current:                    0.2533
-        Maximum:                    4.110152
-        Minimum:                    3.511236
-        Variance:                   0.145716
-        Mean:                       3.86557
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          3.25
-        Is ascending:               True
-        Current ascension duration: 9
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.769231
-        Is falling:                 True
-        Current fall duration:      39
-        Trending downwards:         False
-        Average local maximum:      0.258467
-        Number of local maximums:   12
-        Average local minimum:      0.255662
-        Number of local minimums:   13
-True
+None
 0
-87
+88
 0.06671968606207346
 Best score: 
 Recent Minimum---Random
