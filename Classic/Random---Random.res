@@ -486,3 +486,7 @@ Random---Random now has $7789.750385738091
 Random---Random has sold PSTAKE for $0.2475. Profit was -0.52%.
 Random---Random now has $7749.243683732253
 ---------------------------------------------------------------------------
+[2022-06-01 23:13:27] BUY
+Random---Random has bought XXLM for $0.137395
+Random---Random now has $7749.243683732253
+---------------------------------------------------------------------------
