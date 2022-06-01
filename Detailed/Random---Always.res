@@ -2238,3 +2238,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 00:46:59] BUY
+Random---Always has bought: Name: KSMUSD
+Altname: KSMUSD
+Wsname: KSM/USD
+Base: Name = KSM
+Altname = KSM
+decimals = 10
+displayed_decimals = 8
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.02
+Data about this tradable pair of assets:
+
+        Current:                    81.73
+        Maximum:                    0.014178
+        Minimum:                    0.012136
+        Variance:                   0.144053
+        Mean:                       0.013275
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.105263
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.192308
+        Is falling:                 True
+        Current fall duration:      5
+        Trending downwards:         False
+        Average local maximum:      75.111579
+        Number of local maximums:   19
+        Average local minimum:      74.383462
+        Number of local minimums:   26
+True
+
+---------------------------------------------------------------------------
