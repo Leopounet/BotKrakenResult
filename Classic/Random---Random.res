@@ -148,3 +148,5 @@ Random---Random has bought CVC for $0.1764
 Random---Random has sold CVC for $0.1764. Profit was -0.0%.
 [2022-06-01 03:02:32] BUY
 Random---Random has bought ACH for $0.01691
+[2022-06-01 03:11:30] SOLD
+Random---Random has sold ACH for $0.01874. Profit was 0.10821998817267886%.

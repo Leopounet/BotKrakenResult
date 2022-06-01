@@ -4198,3 +4198,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 03:11:30] SOLD
+Recent Minimum---Always has sold: Name: ZEURZUSD
+Altname: EURUSD
+Wsname: EUR/USD
+Base: Name = ZEUR
+Altname = EUR
+decimals = 4
+displayed_decimals = 2
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.2
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    1.07185
+        Maximum:                    0.936312
+        Minimum:                    0.927076
+        Variance:                   0.009864
+        Mean:                       0.930811
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.15
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.857143
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         True
+        Average local maximum:      1.074808
+        Number of local maximums:   20
+        Average local minimum:      1.074982
+        Number of local minimums:   21
+True
+Profit was 4.6648318328124105e-05%.
+---------------------------------------------------------------------------

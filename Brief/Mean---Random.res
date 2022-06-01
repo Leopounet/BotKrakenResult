@@ -168,3 +168,8 @@ Mean---Random has 0 wins
 Mean---Random has 34 losses
 Mean---Random has 0.020592817752050463 points
 ---------------------------------------------------------------------------
+[2022-06-01 03:11:30] BRIEF
+Mean---Random has 0 wins
+Mean---Random has 35 losses
+Mean---Random has 0.016315657786267757 points
+---------------------------------------------------------------------------
