@@ -74,3 +74,7 @@ Recent Minimum---Random now has $9594.962550425951
 Recent Minimum---Random has bought ATLAS for $0.0087
 Recent Minimum---Random now has $9594.962550425951
 ---------------------------------------------------------------------------
+[2022-06-01 15:18:07] SOLD
+Recent Minimum---Random has sold ATLAS for $0.0087. Profit was -0.52%.
+Recent Minimum---Random now has $9545.068745163737
+---------------------------------------------------------------------------

@@ -901,3 +901,46 @@ Is init: True
 
 Random---Random now has $9178.454355264172
 ---------------------------------------------------------------------------
+[2022-06-01 15:18:07] SOLD
+Random---Random has sold: 
+Name: XREPZUSD
+Altname: REPUSD
+Wsname: REP/USD
+Base:
+ 	Name: XREP
+	Altname: REP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (XREPZUSD):
+	Current:                    9.923
+	Maximum:                    0.100776
+	Minimum:                    0.083431
+	Variance:                   0.172117
+	Mean:                       0.092942
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.826087
+	Is ascending:               True
+	Current ascension duration: 17
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.928571
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      10.858217
+	Number of local maximums:   23
+	Average local minimum:      10.927286
+	Number of local minimums:   14
+Is init: True
+Profit was 3.7932117303235073%.
+Random---Random now has $9526.612562530441
+---------------------------------------------------------------------------
