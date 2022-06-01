@@ -256,3 +256,5 @@ Random---Random has bought SNX for $3.214
 Random---Random has sold SNX for $3.204. Profit was -0.0031113876789047312%.
 [2022-06-01 06:57:13] BUY
 Random---Random has bought MNGO for $0.0567
+[2022-06-01 07:00:20] SOLD
+Random---Random has sold MNGO for $0.0567. Profit was -0.0%.

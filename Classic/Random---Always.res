@@ -356,3 +356,5 @@ Random---Always has bought CVC for $0.1789
 Random---Always has sold CVC for $0.1789. Profit was -0.0%.
 [2022-06-01 06:57:13] BUY
 Random---Always has bought OXY for $0.0918
+[2022-06-01 07:00:20] SOLD
+Random---Always has sold OXY for $0.0918. Profit was -0.0%.
