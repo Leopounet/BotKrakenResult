@@ -1,4 +1,4 @@
-[2022-06-01 04:08:15] SUMMARY
+[2022-06-01 04:11:29] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,90 +51,18 @@ Random.
 Random.
 {}
 {}
-Name: ZRXUSD
-Altname: ZRXUSD
-Wsname: ZRX/USD
-Base: Name = ZRX
-Altname = ZRX
-decimals = 10
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 5
-Data about this tradable pair of assets:
-
-        Current:                    0.428
-        Maximum:                    2.617801
-        Minimum:                    2.257336
-        Variance:                   0.137698
-        Mean:                       2.43054
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          4.304348
-        Is ascending:               False
-        Current ascension duration: 2
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               2.090909
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         False
-        Average local maximum:      0.411261
-        Number of local maximums:   23
-        Average local minimum:      0.409515
-        Number of local minimums:   33
-True
+None
 0
-44
-0.0803430542114365
+45
+0.07099725981891314
 Best score: 
 Recent Minimum---Random
 Looks for the asset which is closer to its previous local minimum.
 Random.
 {}
 {}
-Name: ATLASUSD
-Altname: ATLASUSD
-Wsname: ATLAS/USD
-Base: Name = ATLAS
-Altname = ATLAS
-decimals = 8
-displayed_decimals = 5
-Quote: Name = ZUSD
-Altname = USD
-decimals = 4
-displayed_decimals = 2
-Fee: 0.26
-Min order: 500
-Data about this tradable pair of assets:
-
-        Current:                    0.00895
-        Maximum:                    125.944584
-        Minimum:                    89.206066
-        Variance:                   0.291704
-        Mean:                       115.119245
-        Longest ascension:          3
-        Shortest ascension:         3
-        Average ascension:          2.5
-        Is ascending:               True
-        Current ascension duration: 27
-        Trending upwards:           True
-        Longest fall:               3
-        Shortest fall:              3
-        Average fall:               3.6
-        Is falling:                 False
-        Current fall duration:      0
-        Trending downwards:         False
-        Average local maximum:      0.008753
-        Number of local maximums:   24
-        Average local minimum:      0.008881
-        Number of local minimums:   20
-True
+None
 0
-42
+43
 -0.0650372778829621
 ---------------------------------------------------------------------------

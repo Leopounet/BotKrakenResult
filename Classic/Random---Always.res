@@ -248,3 +248,5 @@ Random---Always has bought EOS for $1.3626
 Random---Always has sold EOS for $1.3688. Profit was 0.004550124761485419%.
 [2022-06-01 04:08:15] BUY
 Random---Always has bought AXS for $22.556
+[2022-06-01 04:11:29] SOLD
+Random---Always has sold AXS for $22.224. Profit was -0.014718921794644513%.

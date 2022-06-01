@@ -176,3 +176,5 @@ Random---Random has bought PSTAKE for $0.2571
 Random---Random has sold PSTAKE for $0.2571. Profit was -0.0%.
 [2022-06-01 03:59:01] BUY
 Random---Random has bought ZRX for $0.428
+[2022-06-01 04:11:29] SOLD
+Random---Random has sold ZRX for $0.424. Profit was -0.009345794392523366%.

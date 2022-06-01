@@ -4998,3 +4998,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 04:11:29] SOLD
+Random---Always has sold: Name: AXSUSD
+Altname: AXSUSD
+Wsname: AXS/USD
+Base: Name = AXS
+Altname = AXS
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 0.25
+Data about this tradable pair of assets:
+
+        Current:                    22.556
+        Maximum:                    0.055769
+        Minimum:                    0.036491
+        Variance:                   0.345679
+        Mean:                       0.046322
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.315789
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.714286
+        Is falling:                 True
+        Current fall duration:      8
+        Trending downwards:         False
+        Average local maximum:      22.270842
+        Number of local maximums:   19
+        Average local minimum:      21.602762
+        Number of local minimums:   21
+True
+Profit was -0.014718921794644513%.
+---------------------------------------------------------------------------
