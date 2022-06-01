@@ -1,4 +1,4 @@
-[2022-06-01 18:38:57] SUMMARY
+[2022-06-01 18:42:12] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ACAUSD
+	Altname: ACAUSD
+	Wsname: ACA/USD
+	Base:
+	 	Name: ACA
+		Altname: ACA
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 10
+	Data about this pair of assets (ACAUSD):
+		Current:                    0.387
+		Maximum:                    2.604167
+		Minimum:                    2.227171
+		Variance:                   0.144766
+		Mean:                       2.391706
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.419355
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.72
+		Is falling:                 True
+		Current fall duration:      11
+		Trending downwards:         True
+		Average local maximum:      0.417806
+		Number of local maximums:   31
+		Average local minimum:      0.423
+		Number of local minimums:   25
+	Is init: True
 Wins: 0
 Losses: 48
 Total points: -29.152935001914898%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: CTSIUSD
+	Altname: CTSIUSD
+	Wsname: CTSI/USD
+	Base:
+	 	Name: CTSI
+		Altname: CTSI
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 10
+	Data about this pair of assets (CTSIUSD):
+		Current:                    0.1832
+		Maximum:                    5.497526
+		Minimum:                    4.570384
+		Variance:                   0.168647
+		Mean:                       4.961802
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.636364
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.475
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      0.200752
+		Number of local maximums:   33
+		Average local minimum:      0.20265
+		Number of local minimums:   40
+	Is init: True
 Wins: 4
 Losses: 44
 Total points: -30.17151074427909%
