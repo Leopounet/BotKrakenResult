@@ -376,3 +376,5 @@ Random---Always has bought ZEUR for $1.07253
 Random---Always has sold ZEUR for $1.07266. Profit was 0.00012120873075804894%.
 [2022-06-01 07:31:38] BUY
 Random---Always has bought ORCA for $0.912
+[2022-06-01 07:34:38] SOLD
+Random---Always has sold ORCA for $0.912. Profit was -0.0%.
