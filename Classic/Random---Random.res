@@ -274,3 +274,5 @@ Random---Random has sold GHST for $1.5025. Profit was -0.0%.
 Random---Random has bought API3 for $1.774
 [2022-06-01 07:44:15] SOLD
 Random---Random has sold API3 for $1.774. Profit was -0.0%.
+[2022-06-01 07:47:29] BUY
+Random---Random has bought RARE for $0.275

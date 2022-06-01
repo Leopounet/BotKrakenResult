@@ -1,4 +1,4 @@
-[2022-06-01 07:44:15] SUMMARY
+[2022-06-01 07:47:29] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: RAREUSD
+Altname: RAREUSD
+Wsname: RARE/USD
+Base: Name = RARE
+Altname = RARE
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.275
+        Maximum:                    4.224757
+        Minimum:                    3.388682
+        Variance:                   0.197899
+        Mean:                       3.723585
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.818182
+        Is ascending:               True
+        Current ascension duration: 12
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.357143
+        Is falling:                 True
+        Current fall duration:      55
+        Trending downwards:         False
+        Average local maximum:      0.265386
+        Number of local maximums:   22
+        Average local minimum:      0.269396
+        Number of local minimums:   28
+True
 0
 69
 0.07913717446874702
@@ -61,7 +97,43 @@ Looks for the asset for which the current price is lower than all previous local
 Random.
 {}
 {}
-None
+Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base: Name = ACH
+Altname = ACH
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 250
+Data about this tradable pair of assets:
+
+        Current:                    0.01691
+        Maximum:                    59.665871
+        Minimum:                    11.764706
+        Variance:                   0.802824
+        Mean:                       52.568379
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.636364
+        Is ascending:               True
+        Current ascension duration: 26
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               5.5
+        Is falling:                 True
+        Current fall duration:      3
+        Trending downwards:         True
+        Average local maximum:      0.024822
+        Number of local maximums:   11
+        Average local minimum:      0.029812
+        Number of local minimums:   6
+True
 0
 64
 -0.07459142684816455
