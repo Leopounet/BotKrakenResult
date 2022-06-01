@@ -106,3 +106,7 @@ Random---Random now has $9427.793391483816
 Random---Random has bought ACA for $0.4
 Random---Random now has $9427.793391483816
 ---------------------------------------------------------------------------
+[2022-06-01 15:39:32] SOLD
+Random---Random has sold ACA for $0.4. Profit was -0.52%.
+Random---Random now has $9378.7688658481
+---------------------------------------------------------------------------
