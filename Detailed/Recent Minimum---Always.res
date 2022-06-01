@@ -1073,3 +1073,46 @@ Is init: True
 
 Recent Minimum---Always now has $9446.058128872903
 ---------------------------------------------------------------------------
+[2022-06-01 14:56:49] SOLD
+Recent Minimum---Always has sold: 
+Name: ATLASUSD
+Altname: ATLASUSD
+Wsname: ATLAS/USD
+Base:
+ 	Name: ATLAS
+	Altname: ATLAS
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 500
+Data about this pair of assets (ATLASUSD):
+	Current:                    0.00904
+	Maximum:                    122.699387
+	Minimum:                    89.206066
+	Variance:                   0.272971
+	Mean:                       112.907663
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.7
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.333333
+	Is falling:                 True
+	Current fall duration:      38
+	Trending downwards:         False
+	Average local maximum:      0.008891
+	Number of local maximums:   20
+	Average local minimum:      0.009057
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Always now has $9396.938626602763
+---------------------------------------------------------------------------
