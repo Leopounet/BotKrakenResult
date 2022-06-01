@@ -8678,3 +8678,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 09:02:47] SOLD
+Random---Always has sold: Name: SAMOUSD
+Altname: SAMOUSD
+Wsname: SAMO/USD
+Base: Name = SAMO
+Altname = SAMO
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 200
+Data about this tradable pair of assets:
+
+        Current:                    0.005717
+        Maximum:                    190.403656
+        Minimum:                    164.934851
+        Variance:                   0.133762
+        Mean:                       177.693478
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.09375
+        Is ascending:               True
+        Current ascension duration: 15
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.909091
+        Is falling:                 True
+        Current fall duration:      8
+        Trending downwards:         False
+        Average local maximum:      0.005672
+        Number of local maximums:   32
+        Average local minimum:      0.005651
+        Number of local minimums:   33
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

@@ -310,3 +310,5 @@ Random---Random has sold BADGER for $6.041. Profit was -0.0%.
 Random---Random has bought PHA for $0.1295
 [2022-06-01 08:59:31] SOLD
 Random---Random has sold PHA for $0.1295. Profit was -0.0%.
+[2022-06-01 09:02:47] BUY
+Random---Random has bought REN for $0.1565

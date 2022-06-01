@@ -1,4 +1,4 @@
-[2022-06-01 08:59:31] SUMMARY
+[2022-06-01 09:02:47] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: RENUSD
+Altname: RENUSD
+Wsname: REN/USD
+Base: Name = REN
+Altname = REN
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 25
+Data about this tradable pair of assets:
+
+        Current:                    0.1565
+        Maximum:                    7.24113
+        Minimum:                    5.882353
+        Variance:                   0.187647
+        Mean:                       6.517144
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.714286
+        Is ascending:               True
+        Current ascension duration: 22
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.423077
+        Is falling:                 True
+        Current fall duration:      13
+        Trending downwards:         False
+        Average local maximum:      0.155186
+        Number of local maximums:   21
+        Average local minimum:      0.153919
+        Number of local minimums:   26
+True
 0
 78
 0.06714942392197887
