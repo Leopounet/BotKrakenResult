@@ -6,3 +6,5 @@ Random---Random has sold WBTC for $31578.8. Profit was -0.0%.
 Random---Random has bought POWR for $0.294
 [2022-06-01 12:34:07] SOLD
 Random---Random has sold POWR for $0.294. Profit was -0.0%.
+[2022-06-01 12:37:08] BUY
+Random---Random has bought ATOM for $10.3008

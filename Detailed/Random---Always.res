@@ -334,3 +334,45 @@ Data about this pair of assets (IMXUSD):
 Is init: True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 12:37:08] BUY
+Random---Always has bought: 
+Name: RLCUSD
+Altname: RLCUSD
+Wsname: RLC/USD
+Base:
+ 	Name: RLC
+	Altname: RLC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (RLCUSD):
+	Current:                    0.9884
+	Maximum:                    1.211094
+	Minimum:                    0.95429
+	Variance:                   0.212043
+	Mean:                       1.05454
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.714286
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.315789
+	Is falling:                 True
+	Current fall duration:      11
+	Trending downwards:         False
+	Average local maximum:      0.961086
+	Number of local maximums:   21
+	Average local minimum:      0.956011
+	Number of local minimums:   19
+Is init: True
+
+---------------------------------------------------------------------------
