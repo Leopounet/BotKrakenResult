@@ -4169,3 +4169,46 @@ Is init: True
 
 Random---Random now has $8249.126768081936
 ---------------------------------------------------------------------------
+[2022-06-01 21:28:54] SOLD
+Random---Random has sold: 
+Name: CQTUSD
+Altname: CQTUSD
+Wsname: CQT/USD
+Base:
+ 	Name: CQT
+	Altname: CQT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (CQTUSD):
+	Current:                    0.1426
+	Maximum:                    7.012623
+	Minimum:                    6.493506
+	Variance:                   0.074026
+	Mean:                       6.714389
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.764706
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.1
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.148765
+	Number of local maximums:   17
+	Average local minimum:      0.14933
+	Number of local minimums:   10
+Is init: True
+Profit was -0.52%.
+Random---Random now has $8206.231308887911
+---------------------------------------------------------------------------
