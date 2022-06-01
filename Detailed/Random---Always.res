@@ -4918,3 +4918,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 04:05:14] SOLD
+Random---Always has sold: Name: EOSUSD
+Altname: EOSUSD
+Wsname: EOS/USD
+Base: Name = EOS
+Altname = EOS
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 1
+Data about this tradable pair of assets:
+
+        Current:                    1.3626
+        Maximum:                    0.790264
+        Minimum:                    0.713114
+        Variance:                   0.097625
+        Mean:                       0.743509
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.307692
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.9
+        Is falling:                 True
+        Current fall duration:      6
+        Trending downwards:         False
+        Average local maximum:      1.352542
+        Number of local maximums:   26
+        Average local minimum:      1.334485
+        Number of local minimums:   20
+True
+Profit was 0.004550124761485419%.
+---------------------------------------------------------------------------
