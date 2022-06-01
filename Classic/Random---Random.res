@@ -210,3 +210,5 @@ Random---Random has sold ALICE for $3.063. Profit was -0.0%.
 Random---Random has bought ORCA for $0.84
 [2022-06-01 05:17:23] SOLD
 Random---Random has sold ORCA for $0.84. Profit was -0.0%.
+[2022-06-01 05:20:39] BUY
+Random---Random has bought TBTC for $30068.5

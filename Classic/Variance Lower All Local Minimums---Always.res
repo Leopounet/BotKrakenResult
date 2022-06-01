@@ -292,3 +292,5 @@ Variance Lower All Local Minimums---Always has bought LUNA for $0.00011147
 Variance Lower All Local Minimums---Always has sold LUNA for $0.0001103. Profit was -0.010496097604736687%.
 [2022-06-01 05:17:23] BUY
 Variance Lower All Local Minimums---Always has bought LUNA for $0.00011101
+[2022-06-01 05:20:39] SOLD
+Variance Lower All Local Minimums---Always has sold LUNA for $0.00011143. Profit was 0.003783442933068981%.
