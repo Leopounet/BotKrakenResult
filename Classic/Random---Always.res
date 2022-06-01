@@ -422,3 +422,5 @@ Random---Always has sold SUSHI for $1.772. Profit was 0.002262443438914019%.
 Random---Always has bought ICX for $0.4057
 [2022-06-01 08:44:04] SOLD
 Random---Always has sold ICX for $0.4057. Profit was -0.0%.
+[2022-06-01 08:47:10] BUY
+Random---Always has bought XETH for $1932.81

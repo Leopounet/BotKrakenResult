@@ -278,3 +278,5 @@ Lower All Local Minimums---Random has sold GST for $1.123. Profit was -0.0251736
 Lower All Local Minimums---Random has bought GST for $1.123
 [2022-06-01 08:44:04] SOLD
 Lower All Local Minimums---Random has sold GST for $1.179. Profit was 0.04986642920747997%.
+[2022-06-01 08:47:10] BUY
+Lower All Local Minimums---Random has bought DAI for $0.99977
