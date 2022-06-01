@@ -322,3 +322,5 @@ Random---Always has sold GMT for $1.158. Profit was -0.0%.
 Random---Always has bought CRV for $1.374
 [2022-06-01 06:04:45] SOLD
 Random---Always has sold CRV for $1.374. Profit was -0.0%.
+[2022-06-01 06:08:04] BUY
+Random---Always has bought T for $0.0699
