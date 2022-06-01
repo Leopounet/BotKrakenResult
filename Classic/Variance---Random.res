@@ -466,3 +466,7 @@ Variance---Random now has $8822.110888853327
 Variance---Random has bought ACH for $0.01993
 Variance---Random now has $8822.110888853327
 ---------------------------------------------------------------------------
+[2022-06-01 21:38:29] SOLD
+Variance---Random has sold ACH for $0.01993. Profit was -0.52%.
+Variance---Random now has $8776.23591223129
+---------------------------------------------------------------------------
