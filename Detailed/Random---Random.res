@@ -5330,3 +5330,46 @@ Is init: True
 Profit was -0.5425626842315752%.
 Random---Random now has $7707.199179194149
 ---------------------------------------------------------------------------
+[2022-06-01 23:19:33] BUY
+Random---Random has bought: 
+Name: MATICUSD
+Altname: MATICUSD
+Wsname: MATIC/USD
+Base:
+ 	Name: MATIC
+	Altname: MATIC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (MATICUSD):
+	Current:                    0.6015
+	Maximum:                    1.690903
+	Minimum:                    1.467136
+	Variance:                   0.132336
+	Mean:                       1.550097
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.473684
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.590909
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.647474
+	Number of local maximums:   19
+	Average local minimum:      0.643677
+	Number of local minimums:   22
+Is init: True
+
+Random---Random now has $7707.199179194149
+---------------------------------------------------------------------------
