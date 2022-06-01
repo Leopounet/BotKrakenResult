@@ -62,3 +62,7 @@ Random---Always now has $9653.25987589493
 Random---Always has sold KAR for $0.604. Profit was -0.52%.
 Random---Always now has $9603.062924540276
 ---------------------------------------------------------------------------
+[2022-06-01 14:29:26] BUY
+Random---Always has bought MASK for $2.018
+Random---Always now has $9603.062924540276
+---------------------------------------------------------------------------
