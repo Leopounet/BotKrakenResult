@@ -5201,3 +5201,46 @@ Is init: True
 
 Random---Random now has $7789.750385738091
 ---------------------------------------------------------------------------
+[2022-06-01 23:10:28] SOLD
+Random---Random has sold: 
+Name: PSTAKEUSD
+Altname: PSTAKEUSD
+Wsname: PSTAKE/USD
+Base:
+ 	Name: PSTAKE
+	Altname: PSTAKE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (PSTAKEUSD):
+	Current:                    0.2475
+	Maximum:                    4.066694
+	Minimum:                    3.511236
+	Variance:                   0.136587
+	Mean:                       3.849253
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.571429
+	Is ascending:               True
+	Current ascension duration: 35
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.5
+	Is falling:                 True
+	Current fall duration:      50
+	Trending downwards:         True
+	Average local maximum:      0.258064
+	Number of local maximums:   14
+	Average local minimum:      0.256908
+	Number of local minimums:   12
+Is init: True
+Profit was -0.52%.
+Random---Random now has $7749.243683732253
+---------------------------------------------------------------------------

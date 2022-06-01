@@ -722,3 +722,7 @@ Random---Always now has $6219.63171125419
 Random---Always has bought ZUSD for $130.711
 Random---Always now has $6219.63171125419
 ---------------------------------------------------------------------------
+[2022-06-01 23:10:28] SOLD
+Random---Always has sold ZUSD for $130.711. Profit was -0.4%.
+Random---Always now has $6194.753184409174
+---------------------------------------------------------------------------
