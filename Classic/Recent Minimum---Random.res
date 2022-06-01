@@ -86,3 +86,7 @@ Recent Minimum---Random now has $9545.068745163737
 Recent Minimum---Random has sold ATLAS for $0.0087. Profit was -0.52%.
 Recent Minimum---Random now has $9495.434387688885
 ---------------------------------------------------------------------------
+[2022-06-01 15:30:17] BUY
+Recent Minimum---Random has bought TBTC for $33899.8
+Recent Minimum---Random now has $9495.434387688885
+---------------------------------------------------------------------------
