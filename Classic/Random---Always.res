@@ -146,3 +146,5 @@ Random---Always has sold ICP for $8.322. Profit was -0.0%.
 Random---Always has bought RBC for $0.08212
 [2022-06-01 01:37:12] SOLD
 Random---Always has sold RBC for $0.08212. Profit was -0.0%.
+[2022-06-01 01:40:08] BUY
+Random---Always has bought KILT for $0.807

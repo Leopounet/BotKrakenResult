@@ -2958,3 +2958,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.0%.
 ---------------------------------------------------------------------------
+[2022-06-01 01:40:08] BUY
+Random---Always has bought: Name: KILTUSD
+Altname: KILTUSD
+Wsname: KILT/USD
+Base: Name = KILT
+Altname = KILT
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 2
+Data about this tradable pair of assets:
+
+        Current:                    0.807
+        Maximum:                    1.333333
+        Minimum:                    1.203369
+        Variance:                   0.097473
+        Mean:                       1.261573
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.25
+        Is ascending:               True
+        Current ascension duration: 20
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               4.0
+        Is falling:                 True
+        Current fall duration:      25
+        Trending downwards:         False
+        Average local maximum:      0.794188
+        Number of local maximums:   32
+        Average local minimum:      0.797208
+        Number of local minimums:   24
+True
+
+---------------------------------------------------------------------------
