@@ -5478,3 +5478,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 04:50:17] SOLD
+Random---Always has sold: Name: CFGUSD
+Altname: CFGUSD
+Wsname: CFG/USD
+Base: Name = CFG
+Altname = CFG
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 10
+Data about this tradable pair of assets:
+
+        Current:                    0.2707
+        Maximum:                    3.738318
+        Minimum:                    3.255208
+        Variance:                   0.129232
+        Mean:                       3.542147
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          1.5
+        Is ascending:               True
+        Current ascension duration: 111
+        Trending upwards:           False
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               6.0
+        Is falling:                 True
+        Current fall duration:      4
+        Trending downwards:         True
+        Average local maximum:      0.282221
+        Number of local maximums:   28
+        Average local minimum:      0.286307
+        Number of local minimums:   14
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------

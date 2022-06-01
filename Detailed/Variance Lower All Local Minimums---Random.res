@@ -3758,3 +3758,43 @@ Data about this tradable pair of assets:
 True
 Profit was -0.008739855524837137%.
 ---------------------------------------------------------------------------
+[2022-06-01 04:50:17] BUY
+Variance Lower All Local Minimums---Random has bought: Name: LUNAUSD
+Altname: LUNAUSD
+Wsname: LUNA/USD
+Base: Name = LUNA
+Altname = LUNA
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 50000
+Data about this tradable pair of assets:
+
+        Current:                    0.000112
+        Maximum:                    11676.786548
+        Minimum:                    5263.157895
+        Variance:                   0.549263
+        Mean:                       8373.00212
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          3.833333
+        Is ascending:               False
+        Current ascension duration: 0
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.347826
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      0.000121
+        Number of local maximums:   18
+        Average local minimum:      0.000119
+        Number of local minimums:   23
+True
+
+---------------------------------------------------------------------------

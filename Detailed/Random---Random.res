@@ -3958,3 +3958,43 @@ Data about this tradable pair of assets:
 True
 
 ---------------------------------------------------------------------------
+[2022-06-01 04:50:17] SOLD
+Random---Random has sold: Name: AUDIOUSD
+Altname: AUDIOUSD
+Wsname: AUDIO/USD
+Base: Name = AUDIO
+Altname = AUDIO
+decimals = 10
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 5
+Data about this tradable pair of assets:
+
+        Current:                    0.4625
+        Maximum:                    2.673797
+        Minimum:                    2.036245
+        Variance:                   0.238444
+        Mean:                       2.35387
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          4.0
+        Is ascending:               True
+        Current ascension duration: 48
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               2.25
+        Is falling:                 True
+        Current fall duration:      51
+        Trending downwards:         False
+        Average local maximum:      0.419483
+        Number of local maximums:   18
+        Average local minimum:      0.417863
+        Number of local minimums:   24
+True
+Profit was -0.0%.
+---------------------------------------------------------------------------
