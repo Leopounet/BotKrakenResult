@@ -1,4 +1,4 @@
-[2022-06-01 10:49:40] SUMMARY
+[2022-06-01 10:52:43] SUMMARY
 Most losses: 
 Random---Twenty-four hours.
 Random.
@@ -51,7 +51,43 @@ Random.
 Random.
 {}
 {}
-None
+Name: KINUSD
+Altname: KINUSD
+Wsname: KIN/USD
+Base: Name = KIN
+Altname = KIN
+decimals = 8
+displayed_decimals = 5
+Quote: Name = ZUSD
+Altname = USD
+decimals = 4
+displayed_decimals = 2
+Fee: 0.26
+Min order: 250000
+Data about this tradable pair of assets:
+
+        Current:                    1.4e-05
+        Maximum:                    75815.011372
+        Minimum:                    69444.444444
+        Variance:                   0.084028
+        Mean:                       72212.328438
+        Longest ascension:          3
+        Shortest ascension:         3
+        Average ascension:          2.678571
+        Is ascending:               True
+        Current ascension duration: 9
+        Trending upwards:           True
+        Longest fall:               3
+        Shortest fall:              3
+        Average fall:               3.36
+        Is falling:                 False
+        Current fall duration:      1
+        Trending downwards:         False
+        Average local maximum:      1.4e-05
+        Number of local maximums:   28
+        Average local minimum:      1.4e-05
+        Number of local minimums:   25
+True
 0
 89
 0.0697412905340481

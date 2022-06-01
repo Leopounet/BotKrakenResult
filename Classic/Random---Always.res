@@ -502,3 +502,5 @@ Random---Always has sold KIN for $1.429e-05. Profit was -0.002791346824842944%.
 Random---Always has bought ENJ for $0.679
 [2022-06-01 10:49:40] SOLD
 Random---Always has sold ENJ for $0.679. Profit was -0.0%.
+[2022-06-01 10:52:43] BUY
+Random---Always has bought ALICE for $3.069

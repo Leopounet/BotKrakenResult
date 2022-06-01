@@ -502,3 +502,5 @@ Recent Minimum---Always has sold LUNA2 for $7.20386. Profit was -0.0006104108342
 Recent Minimum---Always has bought LUNA2 for $7.22747
 [2022-06-01 10:49:40] SOLD
 Recent Minimum---Always has sold LUNA2 for $7.19167. Profit was -0.004953323915561025%.
+[2022-06-01 10:52:43] BUY
+Recent Minimum---Always has bought LUNA2 for $7.17564
