@@ -88,3 +88,5 @@ Recent Minimum---Random has bought RAY for $1.018
 Recent Minimum---Random has sold RAY for $1.018. Profit was -0.0%.
 [2022-06-01 01:16:35] BUY
 Recent Minimum---Random has bought XXMR for $199.13
+[2022-06-01 01:19:31] SOLD
+Recent Minimum---Random has sold XXMR for $199.0. Profit was -0.0006528398533620638%.
