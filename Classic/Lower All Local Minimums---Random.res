@@ -66,3 +66,5 @@ Lower All Local Minimums---Random has sold PAXG for $1838.96. Profit was -0.0%.
 Lower All Local Minimums---Random has bought PAXG for $1838.96
 [2022-06-01 00:32:09] SOLD
 Lower All Local Minimums---Random has sold PAXG for $1838.55. Profit was -0.00022295210336276128%.
+[2022-06-01 00:35:06] BUY
+Lower All Local Minimums---Random has bought PAXG for $1838.55
