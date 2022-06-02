@@ -946,3 +946,7 @@ Random---Random now has $5865.23288788633
 Random---Random has bought POLIS for $0.593
 Random---Random now has $5865.23288788633
 ---------------------------------------------------------------------------
+[2022-06-02 08:19:56] SOLD
+Random---Random has sold POLIS for $0.593. Profit was -0.52%.
+Random---Random now has $5834.733676869321
+---------------------------------------------------------------------------

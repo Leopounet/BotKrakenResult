@@ -28,3 +28,9 @@ Variance Lower All Local Minimums---Five Percent has 0 losses
 Variance Lower All Local Minimums---Five Percent has 18.97889856978464 points
 Variance Lower All Local Minimums---Five Percent now has $11985.680628637183
 ---------------------------------------------------------------------------
+[2022-06-02 08:19:56] BRIEF
+Variance Lower All Local Minimums---Five Percent has 3 wins
+Variance Lower All Local Minimums---Five Percent has 0 losses
+Variance Lower All Local Minimums---Five Percent has 24.642267439720683 points
+Variance Lower All Local Minimums---Five Percent now has $12664.473934209376
+---------------------------------------------------------------------------

@@ -18,3 +18,7 @@ Variance Lower All Local Minimums---Five Percent now has $11985.680628637183
 Variance Lower All Local Minimums---Five Percent has bought GST for $0.938
 Variance Lower All Local Minimums---Five Percent now has $11985.680628637183
 ---------------------------------------------------------------------------
+[2022-06-02 08:19:56] SOLD
+Variance Lower All Local Minimums---Five Percent has sold GST for $0.996. Profit was 5.663368869936045%.
+Variance Lower All Local Minimums---Five Percent now has $12664.473934209376
+---------------------------------------------------------------------------
