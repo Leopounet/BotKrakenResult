@@ -182,3 +182,7 @@ Random---Twenty-four hours or ten percent now has $9038.482669053095
 Random---Twenty-four hours or ten percent has sold DOT for $9.9175. Profit was -0.49377684091619534%.
 Random---Twenty-four hours or ten percent now has $8993.852734863087
 ---------------------------------------------------------------------------
+[2022-06-02 22:58:32] BUY
+Random---Twenty-four hours or ten percent has bought STORJ for $0.59861
+Random---Twenty-four hours or ten percent now has $8993.852734863087
+---------------------------------------------------------------------------
