@@ -12382,3 +12382,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $5204.634020948402
 ---------------------------------------------------------------------------
+[2022-06-02 12:00:27] BUY
+Random---Random has bought: 
+Name: QNTUSD
+Altname: QNTUSD
+Wsname: QNT/USD
+Base:
+ 	Name: QNT
+	Altname: QNT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (QNTUSD):
+	Current:                    67.01
+	Maximum:                    0.015101
+	Minimum:                    0.013572
+	Variance:                   0.101249
+	Mean:                       0.014259
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      69.968519
+	Number of local maximums:   27
+	Average local minimum:      70.417407
+	Number of local minimums:   27
+Is init: True
+
+Random---Random now has $5204.634020948402
+---------------------------------------------------------------------------
