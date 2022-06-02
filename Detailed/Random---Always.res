@@ -17800,3 +17800,46 @@ Is init: True
 Profit was -1.178724145652423%.
 Random---Always now has $3639.077812272614
 ---------------------------------------------------------------------------
+[2022-06-02 11:11:01] BUY
+Random---Always has bought: 
+Name: CRVUSD
+Altname: CRVUSD
+Wsname: CRV/USD
+Base:
+ 	Name: CRV
+	Altname: CRV
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (CRVUSD):
+	Current:                    1.238
+	Maximum:                    0.823045
+	Minimum:                    0.686342
+	Variance:                   0.166095
+	Mean:                       0.748768
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.15
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.857143
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         True
+	Average local maximum:      1.32955
+	Number of local maximums:   20
+	Average local minimum:      1.329714
+	Number of local minimums:   21
+Is init: True
+
+Random---Always now has $3639.077812272614
+---------------------------------------------------------------------------
