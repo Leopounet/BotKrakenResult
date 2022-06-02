@@ -11909,3 +11909,46 @@ Is init: True
 
 Mean---Always now has $4580.963986163483
 ---------------------------------------------------------------------------
+[2022-06-02 04:15:02] SOLD
+Mean---Always has sold: 
+Name: SHIBUSD
+Altname: SHIBUSD
+Wsname: SHIB/USD
+Base:
+ 	Name: SHIB
+	Altname: SHIB
+	decimals: 5
+	displayed_decimals: 0
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 500000
+Data about this pair of assets (SHIBUSD):
+	Current:                    1.1e-05
+	Maximum:                    93984.962406
+	Minimum:                    81366.965012
+	Variance:                   0.134255
+	Mean:                       86118.873111
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.333333
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.076923
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.2e-05
+	Number of local maximums:   18
+	Average local minimum:      1.2e-05
+	Number of local minimums:   26
+Is init: True
+Profit was -0.4267164179104461%.
+Mean---Always now has $4561.4162607359585
+---------------------------------------------------------------------------
