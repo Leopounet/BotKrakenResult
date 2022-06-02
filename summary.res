@@ -1,4 +1,4 @@
-[2022-06-02 23:19:11] SUMMARY
+[2022-06-02 23:22:07] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ACAUSD
+	Altname: ACAUSD
+	Wsname: ACA/USD
+	Base:
+	 	Name: ACA
+		Altname: ACA
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 10
+	Data about this pair of assets (ACAUSD):
+		Current:                    0.404
+		Maximum:                    2.659574
+		Minimum:                    2.272727
+		Variance:                   0.145455
+		Mean:                       2.49485
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.652174
+		Is ascending:               True
+		Current ascension duration: 6
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.464286
+		Is falling:                 True
+		Current fall duration:      17
+		Trending downwards:         True
+		Average local maximum:      0.400435
+		Number of local maximums:   23
+		Average local minimum:      0.402607
+		Number of local minimums:   28
+	Is init: True
 Wins: 0
 Losses: 27
 Total points: -15.049204154095582%

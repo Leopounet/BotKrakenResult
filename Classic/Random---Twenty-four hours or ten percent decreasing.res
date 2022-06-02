@@ -214,3 +214,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8712.719664413546
 Random---Twenty-four hours or ten percent decreasing has sold UNI for $5.317. Profit was -0.38817325800374514%.
 Random---Twenty-four hours or ten percent decreasing now has $8678.899216631458
 ---------------------------------------------------------------------------
+[2022-06-02 23:22:07] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZRX for $0.412
+Random---Twenty-four hours or ten percent decreasing now has $8678.899216631458
+---------------------------------------------------------------------------
