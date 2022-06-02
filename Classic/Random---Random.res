@@ -566,3 +566,7 @@ Random---Random now has $7381.537748922571
 Random---Random has sold USDT for $0.9992. Profit was -0.4%.
 Random---Random now has $7352.011597926881
 ---------------------------------------------------------------------------
+[2022-06-02 00:59:51] BUY
+Random---Random has bought SUPER for $0.2058
+Random---Random now has $7352.011597926881
+---------------------------------------------------------------------------
