@@ -894,3 +894,7 @@ Random---Random now has $6077.982528061102
 Random---Random has sold TRIBE for $0.23. Profit was -0.52%.
 Random---Random now has $6046.377018915185
 ---------------------------------------------------------------------------
+[2022-06-02 07:23:24] BUY
+Random---Random has bought AGLD for $0.5121
+Random---Random now has $6046.377018915185
+---------------------------------------------------------------------------

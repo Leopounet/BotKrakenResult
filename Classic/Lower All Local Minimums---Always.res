@@ -1358,3 +1358,7 @@ Lower All Local Minimums---Always now has $4456.475459458759
 Lower All Local Minimums---Always has sold ASTR for $0.0593. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4433.301787069574
 ---------------------------------------------------------------------------
+[2022-06-02 07:23:24] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.643
+Lower All Local Minimums---Always now has $4433.301787069574
+---------------------------------------------------------------------------
