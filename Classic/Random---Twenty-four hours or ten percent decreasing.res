@@ -258,3 +258,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8455.582439815998
 Random---Twenty-four hours or ten percent decreasing has bought MC for $1.012
 Random---Twenty-four hours or ten percent decreasing now has $8455.582439815998
 ---------------------------------------------------------------------------
+[2022-06-02 23:54:36] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MC for $1.012. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $8411.613411128956
+---------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-[2022-06-02 23:51:39] SUMMARY
+[2022-06-02 23:54:36] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ORCAUSD
-	Altname: ORCAUSD
-	Wsname: ORCA/USD
-	Base:
-	 	Name: ORCA
-		Altname: ORCA
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (ORCAUSD):
-		Current:                    0.834
-		Maximum:                    1.230012
-		Minimum:                    1.028807
-		Variance:                   0.16358
-		Mean:                       1.155189
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.5
-		Is ascending:               True
-		Current ascension duration: 99
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               6.0
-		Is falling:                 True
-		Current fall duration:      108
-		Trending downwards:         True
-		Average local maximum:      0.8811
-		Number of local maximums:   10
-		Average local minimum:      0.9084
-		Number of local minimums:   5
-	Is init: True
+	None
 Wins: 0
-Losses: 32
-Total points: -17.64920415409558%
-Wallet: 8377.757497848295
+Losses: 33
+Total points: -18.16920415409558%
+Wallet: 8334.193158859483
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: POWRUSD
-	Altname: POWRUSD
-	Wsname: POWR/USD
-	Base:
-	 	Name: POWR
-		Altname: POWR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (POWRUSD):
-		Current:                    0.2966
-		Maximum:                    3.684598
-		Minimum:                    3.171583
-		Variance:                   0.139232
-		Mean:                       3.533934
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.176471
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.833333
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         False
-		Average local maximum:      0.284618
-		Number of local maximums:   17
-		Average local minimum:      0.286283
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 1
-Losses: 24
-Total points: -11.215767685740317%
-Wallet: 8936.465059027574
+Losses: 25
+Total points: -11.735767685740317%
+Wallet: 8889.995440720631
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

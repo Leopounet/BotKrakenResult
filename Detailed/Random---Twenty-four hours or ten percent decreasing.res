@@ -2793,3 +2793,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $8455.582439815998
 ---------------------------------------------------------------------------
+[2022-06-02 23:54:36] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: MCUSD
+Altname: MCUSD
+Wsname: MC/USD
+Base:
+ 	Name: MC
+	Altname: MC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (MCUSD):
+	Current:                    1.012
+	Maximum:                    1.01833
+	Minimum:                    0.909918
+	Variance:                   0.10646
+	Mean:                       0.97224
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.482759
+	Is ascending:               True
+	Current ascension duration: 30
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.625
+	Is falling:                 True
+	Current fall duration:      27
+	Trending downwards:         True
+	Average local maximum:      1.025345
+	Number of local maximums:   29
+	Average local minimum:      1.03225
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $8411.613411128956
+---------------------------------------------------------------------------
