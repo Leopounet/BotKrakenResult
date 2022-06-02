@@ -1006,3 +1006,7 @@ Variance Lower All Local Minimums---Random now has $6049.24854815251
 Variance Lower All Local Minimums---Random has sold GST for $0.94. Profit was 0.5552688172043001%.
 Variance Lower All Local Minimums---Random now has $6082.838139015585
 ---------------------------------------------------------------------------
+[2022-06-02 09:07:35] BUY
+Variance Lower All Local Minimums---Random has bought WOO for $0.1642
+Variance Lower All Local Minimums---Random now has $6082.838139015585
+---------------------------------------------------------------------------
