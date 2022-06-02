@@ -10361,3 +10361,46 @@ Is init: True
 
 Random---Random now has $5804.393061749601
 ---------------------------------------------------------------------------
+[2022-06-02 08:35:02] SOLD
+Random---Random has sold: 
+Name: BNTUSD
+Altname: BNTUSD
+Wsname: BNT/USD
+Base:
+ 	Name: BNT
+	Altname: BNT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (BNTUSD):
+	Current:                    1.245
+	Maximum:                    0.811688
+	Minimum:                    0.726216
+	Variance:                   0.105301
+	Mean:                       0.75864
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 28
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      32
+	Trending downwards:         True
+	Average local maximum:      1.3375
+	Number of local maximums:   20
+	Average local minimum:      1.33745
+	Number of local minimums:   20
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5774.210217828503
+---------------------------------------------------------------------------

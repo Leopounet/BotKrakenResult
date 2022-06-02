@@ -1454,3 +1454,7 @@ Lower All Local Minimums---Always now has $4378.373354288692
 Lower All Local Minimums---Always has sold LPT for $12.02. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4355.605812846391
 ---------------------------------------------------------------------------
+[2022-06-02 08:35:02] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.661
+Lower All Local Minimums---Always now has $4355.605812846391
+---------------------------------------------------------------------------
