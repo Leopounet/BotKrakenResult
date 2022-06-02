@@ -12941,3 +12941,46 @@ Is init: True
 
 Random---Random now has $4999.081083024082
 ---------------------------------------------------------------------------
+[2022-06-02 13:48:17] SOLD
+Random---Random has sold: 
+Name: SCRTUSD
+Altname: SCRTUSD
+Wsname: SCRT/USD
+Base:
+ 	Name: SCRT
+	Altname: SCRT
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (SCRTUSD):
+	Current:                    1.54
+	Maximum:                    0.655738
+	Minimum:                    0.569152
+	Variance:                   0.132043
+	Mean:                       0.612005
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.71875
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.310345
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      1.620062
+	Number of local maximums:   32
+	Average local minimum:      1.632483
+	Number of local minimums:   29
+Is init: True
+Profit was -0.52%.
+Random---Random now has $4973.0858613923565
+---------------------------------------------------------------------------
