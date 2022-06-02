@@ -194,3 +194,7 @@ Random---Twenty-four hours or ten percent now has $8947.084700641799
 Random---Twenty-four hours or ten percent has bought SBR for $0.00949
 Random---Twenty-four hours or ten percent now has $8947.084700641799
 ---------------------------------------------------------------------------
+[2022-06-02 23:07:22] SOLD
+Random---Twenty-four hours or ten percent has sold SBR for $0.00949. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $8900.559860198462
+---------------------------------------------------------------------------

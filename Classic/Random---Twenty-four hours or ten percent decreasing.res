@@ -194,3 +194,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8792.581777130892
 Random---Twenty-four hours or ten percent decreasing has bought MATIC for $0.6169
 Random---Twenty-four hours or ten percent decreasing now has $8792.581777130892
 ---------------------------------------------------------------------------
+[2022-06-02 23:07:22] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MATIC for $0.6177. Profit was -0.39031933862862145%.
+Random---Twenty-four hours or ten percent decreasing now has $8758.262630090014
+---------------------------------------------------------------------------

@@ -194,3 +194,7 @@ Random---Always now has $8734.5708585123
 Random---Always has bought FTM for $0.382
 Random---Always now has $8734.5708585123
 ---------------------------------------------------------------------------
+[2022-06-02 23:07:22] SOLD
+Random---Always has sold FTM for $0.382. Profit was -0.52%.
+Random---Always now has $8689.151090048035
+---------------------------------------------------------------------------

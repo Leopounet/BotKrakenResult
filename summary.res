@@ -1,4 +1,4 @@
-[2022-06-02 23:04:25] SUMMARY
+[2022-06-02 23:07:22] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: FTMUSD
-	Altname: FTMUSD
-	Wsname: FTM/USD
-	Base:
-	 	Name: FTM
-		Altname: FTM
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2
-	Data about this pair of assets (FTMUSD):
-		Current:                    0.382
-		Maximum:                    3.333333
-		Minimum:                    2.617801
-		Variance:                   0.21466
-		Mean:                       2.675097
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 True
-		Current fall duration:      12
-		Trending downwards:         False
-		Average local maximum:      0.375571
-		Number of local maximums:   7
-		Average local minimum:      0.376143
-		Number of local minimums:   7
-	Is init: True
+	None
 Wins: 0
-Losses: 24
-Total points: -13.489204154095583%
-Wallet: 8734.5708585123
+Losses: 25
+Total points: -14.009204154095583%
+Wallet: 8689.151090048035
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
