@@ -670,3 +670,7 @@ Random---Random now has $6973.134395266468
 Random---Random has sold PSTAKE for $0.2392. Profit was -0.52%.
 Random---Random now has $6936.874096411083
 ---------------------------------------------------------------------------
+[2022-06-02 03:20:48] BUY
+Random---Random has bought RLC for $0.8973
+Random---Random now has $6936.874096411083
+---------------------------------------------------------------------------
