@@ -10533,3 +10533,46 @@ Is init: True
 
 Random---Always now has $5211.642910775545
 ---------------------------------------------------------------------------
+[2022-06-02 02:38:02] SOLD
+Random---Always has sold: 
+Name: FILUSD
+Altname: FILUSD
+Wsname: FIL/USD
+Base:
+ 	Name: FIL
+	Altname: FIL
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (FILUSD):
+	Current:                    7.403
+	Maximum:                    0.136761
+	Minimum:                    0.119517
+	Variance:                   0.126091
+	Mean:                       0.125928
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.9375
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.285714
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      7.898563
+	Number of local maximums:   16
+	Average local minimum:      7.984429
+	Number of local minimums:   21
+Is init: True
+Profit was -0.2633472916385178%.
+Random---Always now has $5197.918190320147
+---------------------------------------------------------------------------
