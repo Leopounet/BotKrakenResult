@@ -98,3 +98,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9385.01610320274
 Random---Twenty-four hours or ten percent decreasing has bought CHZ for $0.1251
 Random---Twenty-four hours or ten percent decreasing now has $9385.01610320274
 ---------------------------------------------------------------------------
+[2022-06-02 21:56:30] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold CHZ for $0.1251. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $9336.214019466086
+---------------------------------------------------------------------------

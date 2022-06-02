@@ -82,3 +82,7 @@ Random---Random now has $9534.26727564761
 Random---Random has bought KAVA for $2.6357
 Random---Random now has $9534.26727564761
 ---------------------------------------------------------------------------
+[2022-06-02 21:56:30] SOLD
+Random---Random has sold KAVA for $2.6357. Profit was -0.52%.
+Random---Random now has $9484.689085814241
+---------------------------------------------------------------------------

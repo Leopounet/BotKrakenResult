@@ -98,3 +98,7 @@ Random---Twenty-four hours or ten percent now has $9425.78689896331
 Random---Twenty-four hours or ten percent has bought OGN for $0.2955
 Random---Twenty-four hours or ten percent now has $9425.78689896331
 ---------------------------------------------------------------------------
+[2022-06-02 21:56:30] SOLD
+Random---Twenty-four hours or ten percent has sold OGN for $0.2955. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $9376.7728070887
+---------------------------------------------------------------------------
