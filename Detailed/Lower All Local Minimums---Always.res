@@ -17585,3 +17585,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $4162.972885065674
 ---------------------------------------------------------------------------
+[2022-06-02 10:55:30] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: QNTUSD
+Altname: QNTUSD
+Wsname: QNT/USD
+Base:
+ 	Name: QNT
+	Altname: QNT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (QNTUSD):
+	Current:                    66.84
+	Maximum:                    0.015101
+	Minimum:                    0.013572
+	Variance:                   0.101249
+	Mean:                       0.014234
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.230769
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.785714
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      70.088846
+	Number of local maximums:   26
+	Average local minimum:      70.763929
+	Number of local minimums:   28
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Always now has $4141.325426063332
+---------------------------------------------------------------------------
