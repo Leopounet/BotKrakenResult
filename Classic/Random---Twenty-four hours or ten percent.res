@@ -250,3 +250,7 @@ Random---Twenty-four hours or ten percent now has $8649.93014997542
 Random---Twenty-four hours or ten percent has bought TRIBE for $0.2399
 Random---Twenty-four hours or ten percent now has $8649.93014997542
 ---------------------------------------------------------------------------
+[2022-06-02 23:48:43] SOLD
+Random---Twenty-four hours or ten percent has sold TRIBE for $0.2399. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $8604.950513195548
+---------------------------------------------------------------------------
