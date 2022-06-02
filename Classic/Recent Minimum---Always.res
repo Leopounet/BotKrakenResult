@@ -1810,3 +1810,7 @@ Recent Minimum---Always now has $2978.3031502824924
 Recent Minimum---Always has bought BAND for $1.665
 Recent Minimum---Always now has $2978.3031502824924
 ---------------------------------------------------------------------------
+[2022-06-02 13:12:18] SOLD
+Recent Minimum---Always has sold BAND for $1.665. Profit was -0.52%.
+Recent Minimum---Always now has $2962.8159739010234
+---------------------------------------------------------------------------
