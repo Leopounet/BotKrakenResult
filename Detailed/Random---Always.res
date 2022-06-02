@@ -10705,3 +10705,46 @@ Is init: True
 
 Random---Always now has $5170.889015730482
 ---------------------------------------------------------------------------
+[2022-06-02 02:50:12] SOLD
+Random---Always has sold: 
+Name: ENJUSD
+Altname: ENJUSD
+Wsname: ENJ/USD
+Base:
+ 	Name: ENJ
+	Altname: ENJ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (ENJUSD):
+	Current:                    0.627
+	Maximum:                    1.597444
+	Minimum:                    1.396648
+	Variance:                   0.125698
+	Mean:                       1.484994
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.655172
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.4375
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.666138
+	Number of local maximums:   29
+	Average local minimum:      0.669625
+	Number of local minimums:   16
+Is init: True
+Profit was -0.52%.
+Random---Always now has $5144.000392848684
+---------------------------------------------------------------------------
