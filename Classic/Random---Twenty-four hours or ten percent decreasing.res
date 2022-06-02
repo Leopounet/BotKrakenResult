@@ -230,3 +230,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8633.768940704975
 Random---Twenty-four hours or ten percent decreasing has sold ALICE for $2.853. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8588.873342213308
 ---------------------------------------------------------------------------
+[2022-06-02 23:33:54] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FIDA for $0.479
+Random---Twenty-four hours or ten percent decreasing now has $8588.873342213308
+---------------------------------------------------------------------------

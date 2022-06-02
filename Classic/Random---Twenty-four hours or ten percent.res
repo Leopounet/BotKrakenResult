@@ -230,3 +230,7 @@ Random---Twenty-four hours or ten percent now has $8764.849921292494
 Random---Twenty-four hours or ten percent has sold ZUSD for $0.95744. Profit was -0.3968665462027895%.
 Random---Twenty-four hours or ten percent now has $8730.065164130003
 ---------------------------------------------------------------------------
+[2022-06-02 23:33:54] BUY
+Random---Twenty-four hours or ten percent has bought SAMO for $0.005651
+Random---Twenty-four hours or ten percent now has $8730.065164130003
+---------------------------------------------------------------------------

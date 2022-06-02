@@ -1,4 +1,4 @@
-[2022-06-02 23:30:56] SUMMARY
+[2022-06-02 23:33:54] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KP3RUSD
+	Altname: KP3RUSD
+	Wsname: KP3R/USD
+	Base:
+	 	Name: KP3R
+		Altname: KP3R
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.025
+	Data about this pair of assets (KP3RUSD):
+		Current:                    134.7
+		Maximum:                    0.007862
+		Minimum:                    0.006925
+		Variance:                   0.119114
+		Mean:                       0.007345
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          5.5
+		Is ascending:               True
+		Current ascension duration: 15
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               1.636364
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      136.066667
+		Number of local maximums:   12
+		Average local minimum:      135.322727
+		Number of local minimums:   22
+	Is init: True
 Wins: 0
 Losses: 29
 Total points: -16.089204154095583%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ZGBPZUSD
+	Altname: GBPUSD
+	Wsname: GBP/USD
+	Base:
+	 	Name: ZGBP
+		Altname: GBP
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (ZGBPZUSD):
+		Current:                    1.25782
+		Maximum:                    0.802195
+		Minimum:                    0.791578
+		Variance:                   0.013235
+		Mean:                       0.796294
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.28
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.947368
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      1.255854
+		Number of local maximums:   25
+		Average local minimum:      1.255524
+		Number of local minimums:   19
+	Is init: True
 Wins: 1
 Losses: 23
 Total points: -10.791121869963815%
