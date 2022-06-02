@@ -174,3 +174,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8931.185021533938
 Random---Twenty-four hours or ten percent decreasing has sold ALICE for $2.853. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8884.742859421962
 ---------------------------------------------------------------------------
+[2022-06-02 22:52:38] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SNX for $3.067
+Random---Twenty-four hours or ten percent decreasing now has $8884.742859421962
+---------------------------------------------------------------------------
