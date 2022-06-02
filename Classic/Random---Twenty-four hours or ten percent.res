@@ -150,3 +150,7 @@ Random---Twenty-four hours or ten percent now has $9186.662560523944
 Random---Twenty-four hours or ten percent has sold SPELL for $0.001264. Profit was -0.04305246422894493%.
 Random---Twenty-four hours or ten percent now has $9182.70747591124
 ---------------------------------------------------------------------------
+[2022-06-02 22:34:53] BUY
+Random---Twenty-four hours or ten percent has bought UNI for $5.289
+Random---Twenty-four hours or ten percent now has $9182.70747591124
+---------------------------------------------------------------------------
