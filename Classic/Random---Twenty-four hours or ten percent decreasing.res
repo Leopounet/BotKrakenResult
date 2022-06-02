@@ -158,3 +158,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9020.685472915771
 Random---Twenty-four hours or ten percent decreasing has sold COMP for $58.74. Profit was -0.9100288282177367%.
 Random---Twenty-four hours or ten percent decreasing now has $8938.594634609388
 ---------------------------------------------------------------------------
+[2022-06-02 22:40:46] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MATIC for $0.6177
+Random---Twenty-four hours or ten percent decreasing now has $8938.594634609388
+---------------------------------------------------------------------------

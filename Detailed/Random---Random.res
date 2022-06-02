@@ -1374,3 +1374,46 @@ Is init: True
 Profit was -0.3191967871485919%.
 Random---Random now has $9283.208427839661
 ---------------------------------------------------------------------------
+[2022-06-02 22:40:46] BUY
+Random---Random has bought: 
+Name: OXTUSD
+Altname: OXTUSD
+Wsname: OXT/USD
+Base:
+ 	Name: OXT
+	Altname: OXT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (OXTUSD):
+	Current:                    0.13275
+	Maximum:                    7.949758
+	Minimum:                    6.838074
+	Variance:                   0.139839
+	Mean:                       7.503299
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.961538
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.588235
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      0.132204
+	Number of local maximums:   26
+	Average local minimum:      0.135672
+	Number of local minimums:   17
+Is init: True
+
+Random---Random now has $9283.208427839661
+---------------------------------------------------------------------------
