@@ -78,3 +78,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9541.617205769615
 Random---Twenty-four hours or ten percent decreasing has sold RBC for $0.09024. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9492.000796299613
 ---------------------------------------------------------------------------
+[2022-06-02 21:41:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GARI for $0.6172
+Random---Twenty-four hours or ten percent decreasing now has $9492.000796299613
+---------------------------------------------------------------------------
