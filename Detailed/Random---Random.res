@@ -10533,3 +10533,46 @@ Is init: True
 
 Random---Random now has $5744.184324695795
 ---------------------------------------------------------------------------
+[2022-06-02 08:58:31] SOLD
+Random---Random has sold: 
+Name: APEUSD
+Altname: APEUSD
+Wsname: APE/USD
+Base:
+ 	Name: APE
+	Altname: APE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (APEUSD):
+	Current:                    6.178
+	Maximum:                    0.16714
+	Minimum:                    0.135274
+	Variance:                   0.190655
+	Mean:                       0.150529
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.64
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.409091
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      6.815692
+	Number of local maximums:   25
+	Average local minimum:      6.780905
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5714.314566207377
+---------------------------------------------------------------------------
