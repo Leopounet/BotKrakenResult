@@ -46,3 +46,9 @@ Random---Always has 4 losses
 Random---Always has -2.608700906344415 points
 Random---Always now has $9741.567184383277
 ---------------------------------------------------------------------------
+[2022-06-02 21:05:25] BRIEF
+Random---Always has 0 wins
+Random---Always has 4 losses
+Random---Always has -2.608700906344415 points
+Random---Always now has $9741.567184383277
+---------------------------------------------------------------------------

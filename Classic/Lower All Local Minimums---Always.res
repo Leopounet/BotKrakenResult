@@ -30,3 +30,7 @@ Lower All Local Minimums---Always now has $9856.6853184
 Lower All Local Minimums---Always has sold ZUSD for $0.95797. Profit was -0.3331473995382913%.
 Lower All Local Minimums---Always now has $9823.848027581078
 ---------------------------------------------------------------------------
+[2022-06-02 21:05:25] BUY
+Lower All Local Minimums---Always has bought BNC for $0.346
+Lower All Local Minimums---Always now has $9823.848027581078
+---------------------------------------------------------------------------

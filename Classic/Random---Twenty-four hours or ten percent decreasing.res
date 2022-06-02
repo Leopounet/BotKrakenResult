@@ -30,3 +30,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9844.80979392
 Random---Twenty-four hours or ten percent decreasing has sold FTM for $0.372. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9793.616782991616
 ---------------------------------------------------------------------------
+[2022-06-02 21:05:25] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SAMO for $0.005598
+Random---Twenty-four hours or ten percent decreasing now has $9793.616782991616
+---------------------------------------------------------------------------

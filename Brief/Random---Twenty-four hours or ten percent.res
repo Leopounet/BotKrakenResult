@@ -46,3 +46,9 @@ Random---Twenty-four hours or ten percent has 4 losses
 Random---Twenty-four hours or ten percent has -1.9748364707119563 points
 Random---Twenty-four hours or ten percent now has $9803.969932422597
 ---------------------------------------------------------------------------
+[2022-06-02 21:05:25] BRIEF
+Random---Twenty-four hours or ten percent has 0 wins
+Random---Twenty-four hours or ten percent has 4 losses
+Random---Twenty-four hours or ten percent has -1.9748364707119563 points
+Random---Twenty-four hours or ten percent now has $9803.969932422597
+---------------------------------------------------------------------------
