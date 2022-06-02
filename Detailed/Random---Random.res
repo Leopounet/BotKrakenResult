@@ -6491,3 +6491,46 @@ Is init: True
 
 Random---Random now has $7246.802463650707
 ---------------------------------------------------------------------------
+[2022-06-02 01:57:45] SOLD
+Random---Random has sold: 
+Name: RBCUSD
+Altname: RBCUSD
+Wsname: RBC/USD
+Base:
+ 	Name: RBC
+	Altname: RBC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (RBCUSD):
+	Current:                    0.09366
+	Maximum:                    12.238404
+	Minimum:                    10.501995
+	Variance:                   0.141882
+	Mean:                       11.534348
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.25
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.769231
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         False
+	Average local maximum:      0.086752
+	Number of local maximums:   24
+	Average local minimum:      0.086386
+	Number of local minimums:   26
+Is init: True
+Profit was -0.52%.
+Random---Random now has $7209.119090839723
+---------------------------------------------------------------------------
