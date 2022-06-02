@@ -1,4 +1,4 @@
-[2022-06-02 20:43:36] SUMMARY
+[2022-06-02 20:46:38] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: GMTUSD
+	Altname: GMTUSD
+	Wsname: GMT/USD
+	Base:
+	 	Name: GMT
+		Altname: GMT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2.5
+	Data about this pair of assets (GMTUSD):
+		Current:                    1.043
+		Maximum:                    1.072961
+		Minimum:                    0.821693
+		Variance:                   0.234182
+		Mean:                       0.919987
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.48
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.586207
+		Is falling:                 True
+		Current fall duration:      16
+		Trending downwards:         True
+		Average local maximum:      1.08168
+		Number of local maximums:   25
+		Average local minimum:      1.061241
+		Number of local minimums:   29
+	Is init: True
 Wins: 0
 Losses: 1
 Total points: -0.52%
