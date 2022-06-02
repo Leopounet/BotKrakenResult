@@ -8297,3 +8297,46 @@ Is init: True
 
 Random---Random now has $6490.2007794191395
 ---------------------------------------------------------------------------
+[2022-06-02 05:09:05] SOLD
+Random---Random has sold: 
+Name: ENSUSD
+Altname: ENSUSD
+Wsname: ENS/USD
+Base:
+ 	Name: ENS
+	Altname: ENS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (ENSUSD):
+	Current:                    10.65
+	Maximum:                    0.096805
+	Minimum:                    0.076278
+	Variance:                   0.212052
+	Mean:                       0.085137
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.142857
+	Is ascending:               True
+	Current ascension duration: 46
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.863636
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      11.901905
+	Number of local maximums:   21
+	Average local minimum:      11.899091
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Random now has $6456.45173536616
+---------------------------------------------------------------------------
