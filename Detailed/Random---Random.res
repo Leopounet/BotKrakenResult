@@ -6577,3 +6577,46 @@ Is init: True
 
 Random---Random now has $7209.119090839723
 ---------------------------------------------------------------------------
+[2022-06-02 02:04:09] SOLD
+Random---Random has sold: 
+Name: PERPUSD
+Altname: PERPUSD
+Wsname: PERP/USD
+Base:
+ 	Name: PERP
+	Altname: PERP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (PERPUSD):
+	Current:                    1.274
+	Maximum:                    0.816327
+	Minimum:                    0.645161
+	Variance:                   0.209677
+	Mean:                       0.768468
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.653846
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.391304
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.314
+	Number of local maximums:   26
+	Average local minimum:      1.281826
+	Number of local minimums:   23
+Is init: True
+Profit was -0.52%.
+Random---Random now has $7171.6316715673565
+---------------------------------------------------------------------------
