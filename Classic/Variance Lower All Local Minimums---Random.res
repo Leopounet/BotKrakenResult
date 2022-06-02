@@ -1014,3 +1014,7 @@ Variance Lower All Local Minimums---Random now has $6082.838139015585
 Variance Lower All Local Minimums---Random has sold WOO for $0.1642. Profit was -0.52%.
 Variance Lower All Local Minimums---Random now has $6051.207380692704
 ---------------------------------------------------------------------------
+[2022-06-02 09:13:30] BUY
+Variance Lower All Local Minimums---Random has bought WOO for $0.1642
+Variance Lower All Local Minimums---Random now has $6051.207380692704
+---------------------------------------------------------------------------
