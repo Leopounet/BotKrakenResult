@@ -94,3 +94,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9442.642392158856
 Random---Twenty-four hours or ten percent decreasing has sold XETC for $22.134. Profit was -0.6102771508531131%.
 Random---Twenty-four hours or ten percent decreasing now has $9385.01610320274
 ---------------------------------------------------------------------------
+[2022-06-02 21:53:33] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CHZ for $0.1251
+Random---Twenty-four hours or ten percent decreasing now has $9385.01610320274
+---------------------------------------------------------------------------

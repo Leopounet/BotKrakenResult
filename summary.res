@@ -1,4 +1,4 @@
-[2022-06-02 21:50:35] SUMMARY
+[2022-06-02 21:53:33] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: COMPUSD
+	Altname: COMPUSD
+	Wsname: COMP/USD
+	Base:
+	 	Name: COMP
+		Altname: COMP
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.1
+	Data about this pair of assets (COMPUSD):
+		Current:                    58.46
+		Maximum:                    0.017809
+		Minimum:                    0.014459
+		Variance:                   0.188115
+		Mean:                       0.01633
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.903226
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.1
+		Is falling:                 True
+		Current fall duration:      8
+		Trending downwards:         True
+		Average local maximum:      61.366129
+		Number of local maximums:   31
+		Average local minimum:      61.518333
+		Number of local minimums:   30
+	Is init: True
 Wins: 0
 Losses: 12
 Total points: -6.768700906344414%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.921
+		Maximum:                    1.109878
+		Minimum:                    0.998004
+		Variance:                   0.100798
+		Mean:                       1.052171
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.4375
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.692308
+		Is falling:                 True
+		Current fall duration:      34
+		Trending downwards:         True
+		Average local maximum:      0.944031
+		Number of local maximums:   32
+		Average local minimum:      0.962577
+		Number of local minimums:   26
+	Is init: True
 Wins: 1
 Losses: 11
 Total points: -5.253134190690776%

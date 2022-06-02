@@ -94,3 +94,7 @@ Random---Twenty-four hours or ten percent now has $9452.624515196294
 Random---Twenty-four hours or ten percent has sold APE for $6.3687. Profit was -0.2839170876811976%.
 Random---Twenty-four hours or ten percent now has $9425.78689896331
 ---------------------------------------------------------------------------
+[2022-06-02 21:53:33] BUY
+Random---Twenty-four hours or ten percent has bought OGN for $0.2955
+Random---Twenty-four hours or ten percent now has $9425.78689896331
+---------------------------------------------------------------------------

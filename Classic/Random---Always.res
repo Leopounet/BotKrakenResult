@@ -94,3 +94,7 @@ Random---Always now has $9392.458097918601
 Random---Always has sold PSTAKE for $0.2391. Profit was -0.52%.
 Random---Always now has $9343.617315809424
 ---------------------------------------------------------------------------
+[2022-06-02 21:53:33] BUY
+Random---Always has bought COMP for $58.46
+Random---Always now has $9343.617315809424
+---------------------------------------------------------------------------
