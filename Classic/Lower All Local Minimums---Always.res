@@ -1450,3 +1450,7 @@ Lower All Local Minimums---Always now has $4378.373354288692
 Lower All Local Minimums---Always has bought LPT for $12.02
 Lower All Local Minimums---Always now has $4378.373354288692
 ---------------------------------------------------------------------------
+[2022-06-02 08:32:05] SOLD
+Lower All Local Minimums---Always has sold LPT for $12.02. Profit was -0.52%.
+Lower All Local Minimums---Always now has $4355.605812846391
+---------------------------------------------------------------------------

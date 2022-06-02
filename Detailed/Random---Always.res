@@ -15607,3 +15607,46 @@ Is init: True
 
 Random---Always now has $3959.5941565351613
 ---------------------------------------------------------------------------
+[2022-06-02 08:32:05] SOLD
+Random---Always has sold: 
+Name: CVXUSD
+Altname: CVXUSD
+Wsname: CVX/USD
+Base:
+ 	Name: CVX
+	Altname: CVX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (CVXUSD):
+	Current:                    9.03
+	Maximum:                    0.113122
+	Minimum:                    0.091996
+	Variance:                   0.186753
+	Mean:                       0.100099
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.2
+	Is ascending:               True
+	Current ascension duration: 10
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.090909
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      9.822
+	Number of local maximums:   30
+	Average local minimum:      10.077273
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Always now has $3939.0042669211784
+---------------------------------------------------------------------------
