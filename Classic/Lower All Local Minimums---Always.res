@@ -1866,3 +1866,7 @@ Lower All Local Minimums---Always now has $3693.531250804309
 Lower All Local Minimums---Always has bought QTUM for $3.85114
 Lower All Local Minimums---Always now has $3693.531250804309
 ---------------------------------------------------------------------------
+[2022-06-02 13:54:16] SOLD
+Lower All Local Minimums---Always has sold QTUM for $3.85114. Profit was -0.52%.
+Lower All Local Minimums---Always now has $3674.3248883001265
+---------------------------------------------------------------------------
