@@ -1730,3 +1730,7 @@ Variance Lower All Local Minimums---Always now has $6991.596590568667
 Variance Lower All Local Minimums---Always has bought WOO for $0.1589
 Variance Lower All Local Minimums---Always now has $6991.596590568667
 ---------------------------------------------------------------------------
+[2022-06-02 12:09:34] SOLD
+Variance Lower All Local Minimums---Always has sold WOO for $0.1589. Profit was -0.52%.
+Variance Lower All Local Minimums---Always now has $6955.24028829771
+---------------------------------------------------------------------------
