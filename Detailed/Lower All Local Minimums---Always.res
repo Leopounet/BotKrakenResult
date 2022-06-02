@@ -20036,3 +20036,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Always now has $3693.531250804309
 ---------------------------------------------------------------------------
+[2022-06-02 13:51:17] BUY
+Lower All Local Minimums---Always has bought: 
+Name: QTUMUSD
+Altname: QTUMUSD
+Wsname: QTUM/USD
+Base:
+ 	Name: QTUM
+	Altname: QTUM
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (QTUMUSD):
+	Current:                    3.85114
+	Maximum:                    0.264965
+	Minimum:                    0.233417
+	Variance:                   0.119064
+	Mean:                       0.247593
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.5
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.571429
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      4.031547
+	Number of local maximums:   36
+	Average local minimum:      4.046794
+	Number of local minimums:   42
+Is init: True
+
+Lower All Local Minimums---Always now has $3693.531250804309
+---------------------------------------------------------------------------
