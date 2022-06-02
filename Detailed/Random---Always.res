@@ -2836,3 +2836,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $8334.193158859483
 ---------------------------------------------------------------------------
+[2022-06-02 23:57:37] BUY
+Random---Always has bought: 
+Name: RBCUSD
+Altname: RBCUSD
+Wsname: RBC/USD
+Base:
+ 	Name: RBC
+	Altname: RBC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (RBCUSD):
+	Current:                    0.08847
+	Maximum:                    12.938284
+	Minimum:                    10.090817
+	Variance:                   0.220081
+	Mean:                       11.475311
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         True
+	Average local maximum:      0.088123
+	Number of local maximums:   24
+	Average local minimum:      0.087112
+	Number of local minimums:   24
+Is init: True
+
+Random---Always now has $8334.193158859483
+---------------------------------------------------------------------------

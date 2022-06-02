@@ -262,3 +262,7 @@ Random---Twenty-four hours or ten percent now has $8604.950513195548
 Random---Twenty-four hours or ten percent has sold XETC for $22.424. Profit was -0.631363535124065%.
 Random---Twenty-four hours or ten percent now has $8550.621993439761
 ---------------------------------------------------------------------------
+[2022-06-02 23:57:37] BUY
+Random---Twenty-four hours or ten percent has bought XREP for $9.881
+Random---Twenty-four hours or ten percent now has $8550.621993439761
+---------------------------------------------------------------------------
