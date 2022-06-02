@@ -1742,3 +1742,7 @@ Lower All Local Minimums---Always now has $3983.595920314274
 Lower All Local Minimums---Always has sold ASTR for $0.0606. Profit was 0.6486143572620988%.
 Lower All Local Minimums---Always now has $4009.4340953887395
 ---------------------------------------------------------------------------
+[2022-06-02 12:18:50] BUY
+Lower All Local Minimums---Always has bought BNC for $0.333
+Lower All Local Minimums---Always now has $4009.4340953887395
+---------------------------------------------------------------------------
