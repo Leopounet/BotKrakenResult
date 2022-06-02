@@ -14016,3 +14016,46 @@ Is init: True
 Profit was 0.4170314842578775%.
 Lower All Local Minimums---Always now has $4598.083564190205
 ---------------------------------------------------------------------------
+[2022-06-02 06:41:45] BUY
+Lower All Local Minimums---Always has bought: 
+Name: ASTRUSD
+Altname: ASTRUSD
+Wsname: ASTR/USD
+Base:
+ 	Name: ASTR
+	Altname: ASTR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 100
+Data about this pair of assets (ASTRUSD):
+	Current:                    0.0593
+	Maximum:                    16.977929
+	Minimum:                    13.262599
+	Variance:                   0.218833
+	Mean:                       15.474055
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.103448
+	Is ascending:               True
+	Current ascension duration: 10
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.9
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         True
+	Average local maximum:      0.064362
+	Number of local maximums:   29
+	Average local minimum:      0.06485
+	Number of local minimums:   30
+Is init: True
+
+Lower All Local Minimums---Always now has $4598.083564190205
+---------------------------------------------------------------------------
