@@ -815,3 +815,46 @@ Is init: True
 
 Mean---Random now has $9576.095830360231
 ---------------------------------------------------------------------------
+[2022-06-02 22:02:24] SOLD
+Mean---Random has sold: 
+Name: SHIBUSD
+Altname: SHIBUSD
+Wsname: SHIB/USD
+Base:
+ 	Name: SHIB
+	Altname: SHIB
+	decimals: 5
+	displayed_decimals: 0
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 500000
+Data about this pair of assets (SHIBUSD):
+	Current:                    1.1e-05
+	Maximum:                    93984.962406
+	Minimum:                    83682.008368
+	Variance:                   0.109623
+	Mean:                       88241.345716
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.857143
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.333333
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      1.1e-05
+	Number of local maximums:   21
+	Average local minimum:      1.1e-05
+	Number of local minimums:   27
+Is init: True
+Profit was -0.52%.
+Mean---Random now has $9526.300132042357
+---------------------------------------------------------------------------

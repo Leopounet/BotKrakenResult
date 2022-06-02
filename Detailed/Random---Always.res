@@ -1159,3 +1159,46 @@ Is init: True
 
 Random---Always now has $9295.030505767216
 ---------------------------------------------------------------------------
+[2022-06-02 22:02:24] SOLD
+Random---Always has sold: 
+Name: DYDXUSD
+Altname: DYDXUSD
+Wsname: DYDX/USD
+Base:
+ 	Name: DYDX
+	Altname: DYDX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (DYDXUSD):
+	Current:                    1.841
+	Maximum:                    0.558036
+	Minimum:                    0.477783
+	Variance:                   0.143813
+	Mean:                       0.522203
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.130435
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.875
+	Is falling:                 True
+	Current fall duration:      36
+	Trending downwards:         True
+	Average local maximum:      1.931391
+	Number of local maximums:   23
+	Average local minimum:      1.931708
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Always now has $9246.696347137226
+---------------------------------------------------------------------------

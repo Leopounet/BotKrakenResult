@@ -106,3 +106,7 @@ Random---Twenty-four hours or ten percent now has $9376.7728070887
 Random---Twenty-four hours or ten percent has bought ACH for $0.01869
 Random---Twenty-four hours or ten percent now has $9376.7728070887
 ---------------------------------------------------------------------------
+[2022-06-02 22:02:24] SOLD
+Random---Twenty-four hours or ten percent has sold ACH for $0.01869. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $9328.01358849184
+---------------------------------------------------------------------------
