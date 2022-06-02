@@ -950,3 +950,7 @@ Random---Random now has $5865.23288788633
 Random---Random has sold POLIS for $0.593. Profit was -0.52%.
 Random---Random now has $5834.733676869321
 ---------------------------------------------------------------------------
+[2022-06-02 08:22:58] BUY
+Random---Random has bought BNC for $0.348
+Random---Random now has $5834.733676869321
+---------------------------------------------------------------------------

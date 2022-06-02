@@ -1438,3 +1438,7 @@ Lower All Local Minimums---Always now has $4424.266089464059
 Lower All Local Minimums---Always has sold YFI for $7435.0. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4401.259905798846
 ---------------------------------------------------------------------------
+[2022-06-02 08:22:58] BUY
+Lower All Local Minimums---Always has bought LPT for $12.02
+Lower All Local Minimums---Always now has $4401.259905798846
+---------------------------------------------------------------------------
