@@ -1814,3 +1814,7 @@ Lower All Local Minimums---Always now has $3844.4883108365543
 Lower All Local Minimums---Always has sold ASTR for $0.0599. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3824.496971620204
 ---------------------------------------------------------------------------
+[2022-06-02 13:15:19] BUY
+Lower All Local Minimums---Always has bought MINA for $0.848
+Lower All Local Minimums---Always now has $3824.496971620204
+---------------------------------------------------------------------------

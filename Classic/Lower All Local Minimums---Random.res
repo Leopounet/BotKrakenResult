@@ -1222,3 +1222,7 @@ Lower All Local Minimums---Random now has $5755.060435998993
 Lower All Local Minimums---Random has sold ASTR for $0.0599. Profit was -0.52%.
 Lower All Local Minimums---Random now has $5725.134121731799
 ---------------------------------------------------------------------------
+[2022-06-02 13:15:19] BUY
+Lower All Local Minimums---Random has bought MINA for $0.848
+Lower All Local Minimums---Random now has $5725.134121731799
+---------------------------------------------------------------------------
