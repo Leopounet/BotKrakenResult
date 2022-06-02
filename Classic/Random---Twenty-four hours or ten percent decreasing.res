@@ -114,3 +114,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9287.665706564863
 Random---Twenty-four hours or ten percent decreasing has bought REQ for $0.09813
 Random---Twenty-four hours or ten percent decreasing now has $9287.665706564863
 ---------------------------------------------------------------------------
+[2022-06-02 22:08:17] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold REQ for $0.09813. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $9239.369844890725
+---------------------------------------------------------------------------

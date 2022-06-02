@@ -1245,3 +1245,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $9328.01358849184
 ---------------------------------------------------------------------------
+[2022-06-02 22:08:17] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: OMGUSD
+Altname: OMGUSD
+Wsname: OMG/USD
+Base:
+ 	Name: OMG
+	Altname: OMG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (OMGUSD):
+	Current:                    2.527913
+	Maximum:                    0.415027
+	Minimum:                    0.350906
+	Variance:                   0.154501
+	Mean:                       0.383518
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.826087
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.928571
+	Is falling:                 True
+	Current fall duration:      24
+	Trending downwards:         True
+	Average local maximum:      2.656301
+	Number of local maximums:   23
+	Average local minimum:      2.606076
+	Number of local minimums:   14
+Is init: True
+Profit was 0.0371394268711005%.
+Random---Twenty-four hours or ten percent now has $9331.477959277065
+---------------------------------------------------------------------------
