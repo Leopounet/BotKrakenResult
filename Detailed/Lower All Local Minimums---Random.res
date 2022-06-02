@@ -10490,3 +10490,46 @@ Is init: True
 Profit was 0.6825554302893759%.
 Lower All Local Minimums---Random now has $5953.9390089071785
 ---------------------------------------------------------------------------
+[2022-06-02 08:52:27] BUY
+Lower All Local Minimums---Random has bought: 
+Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base:
+ 	Name: 1INCH
+	Altname: 1INCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (1INCHUSD):
+	Current:                    0.918
+	Maximum:                    1.098901
+	Minimum:                    0.98912
+	Variance:                   0.099901
+	Mean:                       1.033293
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.115385
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.888889
+	Is falling:                 True
+	Current fall duration:      11
+	Trending downwards:         True
+	Average local maximum:      0.961692
+	Number of local maximums:   26
+	Average local minimum:      0.969889
+	Number of local minimums:   27
+Is init: True
+
+Lower All Local Minimums---Random now has $5953.9390089071785
+---------------------------------------------------------------------------
