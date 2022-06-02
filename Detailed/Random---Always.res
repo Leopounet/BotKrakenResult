@@ -19778,3 +19778,46 @@ Is init: True
 Profit was -1.162292012722867%.
 Random---Always now has $3286.6643575811286
 ---------------------------------------------------------------------------
+[2022-06-02 13:33:21] BUY
+Random---Always has bought: 
+Name: XETCZUSD
+Altname: ETCUSD
+Wsname: ETC/USD
+Base:
+ 	Name: XETC
+	Altname: ETC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (XETCZUSD):
+	Current:                    21.673
+	Maximum:                    0.046264
+	Minimum:                    0.039915
+	Variance:                   0.137229
+	Mean:                       0.043187
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.272727
+	Is ascending:               True
+	Current ascension duration: 14
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.75
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      23.203
+	Number of local maximums:   22
+	Average local minimum:      23.051875
+	Number of local minimums:   24
+Is init: True
+
+Random---Always now has $3286.6643575811286
+---------------------------------------------------------------------------
