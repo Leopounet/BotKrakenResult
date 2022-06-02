@@ -682,3 +682,7 @@ Random---Random now has $6900.802351109745
 Random---Random has bought ALCX for $29.5
 Random---Random now has $6900.802351109745
 ---------------------------------------------------------------------------
+[2022-06-02 03:32:53] SOLD
+Random---Random has sold ALCX for $29.5. Profit was -0.52%.
+Random---Random now has $6864.918178883975
+---------------------------------------------------------------------------
