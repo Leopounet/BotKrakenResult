@@ -14489,3 +14489,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $4479.770264835906
 ---------------------------------------------------------------------------
+[2022-06-02 07:14:33] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: ASTRUSD
+Altname: ASTRUSD
+Wsname: ASTR/USD
+Base:
+ 	Name: ASTR
+	Altname: ASTR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 100
+Data about this pair of assets (ASTRUSD):
+	Current:                    0.0593
+	Maximum:                    16.977929
+	Minimum:                    13.262599
+	Variance:                   0.218833
+	Mean:                       15.484032
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.103448
+	Is ascending:               True
+	Current ascension duration: 16
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.9
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         True
+	Average local maximum:      0.064362
+	Number of local maximums:   29
+	Average local minimum:      0.06485
+	Number of local minimums:   30
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Always now has $4456.475459458759
+---------------------------------------------------------------------------

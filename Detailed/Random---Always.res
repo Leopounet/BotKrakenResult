@@ -14489,3 +14489,46 @@ Is init: True
 
 Random---Always now has $4243.530673748244
 ---------------------------------------------------------------------------
+[2022-06-02 07:14:33] SOLD
+Random---Always has sold: 
+Name: ADAUSD
+Altname: ADAUSD
+Wsname: ADA/USD
+Base:
+ 	Name: ADA
+	Altname: ADA
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (ADAUSD):
+	Current:                    0.568451
+	Maximum:                    1.876
+	Minimum:                    1.469929
+	Variance:                   0.216456
+	Mean:                       1.683561
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.545455
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.538462
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.582894
+	Number of local maximums:   22
+	Average local minimum:      0.603107
+	Number of local minimums:   26
+Is init: True
+Profit was -0.6535207432127117%.
+Random---Always now has $4215.798320550705
+---------------------------------------------------------------------------
