@@ -10619,3 +10619,46 @@ Is init: True
 
 Random---Random now has $5714.314566207377
 ---------------------------------------------------------------------------
+[2022-06-02 09:04:39] SOLD
+Random---Random has sold: 
+Name: OXYUSD
+Altname: OXYUSD
+Wsname: OXY/USD
+Base:
+ 	Name: OXY
+	Altname: OXY
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (OXYUSD):
+	Current:                    0.0866
+	Maximum:                    11.547344
+	Minimum:                    10.559662
+	Variance:                   0.085533
+	Mean:                       11.004165
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 140
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      51
+	Trending downwards:         True
+	Average local maximum:      0.090686
+	Number of local maximums:   21
+	Average local minimum:      0.091629
+	Number of local minimums:   14
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5684.600130463098
+---------------------------------------------------------------------------
