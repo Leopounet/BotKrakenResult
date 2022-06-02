@@ -46,3 +46,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9742.689975720059
 Random---Twenty-four hours or ten percent decreasing has sold RAD for $2.079. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9692.027987846315
 ---------------------------------------------------------------------------
+[2022-06-02 21:17:29] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SRM for $1.065
+Random---Twenty-four hours or ten percent decreasing now has $9692.027987846315
+---------------------------------------------------------------------------
