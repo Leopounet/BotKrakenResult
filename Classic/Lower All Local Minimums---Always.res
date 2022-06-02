@@ -1142,3 +1142,7 @@ Lower All Local Minimums---Always now has $4766.486000018575
 Lower All Local Minimums---Always has sold YFI for $7332.0. Profit was -0.42443686006826864%.
 Lower All Local Minimums---Always now has $4746.255276504503
 ---------------------------------------------------------------------------
+[2022-06-02 04:42:14] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.662
+Lower All Local Minimums---Always now has $4746.255276504503
+---------------------------------------------------------------------------
