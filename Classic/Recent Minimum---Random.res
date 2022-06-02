@@ -1206,3 +1206,7 @@ Recent Minimum---Random now has $4455.892685816522
 Recent Minimum---Random has sold BAND for $1.613. Profit was -0.52%.
 Recent Minimum---Random now has $4432.722043850276
 ---------------------------------------------------------------------------
+[2022-06-02 13:57:18] BUY
+Recent Minimum---Random has bought TBTC for $33899.8
+Recent Minimum---Random now has $4432.722043850276
+---------------------------------------------------------------------------

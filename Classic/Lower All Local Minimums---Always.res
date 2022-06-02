@@ -1870,3 +1870,7 @@ Lower All Local Minimums---Always now has $3693.531250804309
 Lower All Local Minimums---Always has sold QTUM for $3.85114. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3674.3248883001265
 ---------------------------------------------------------------------------
+[2022-06-02 13:57:18] BUY
+Lower All Local Minimums---Always has bought BAND for $1.613
+Lower All Local Minimums---Always now has $3674.3248883001265
+---------------------------------------------------------------------------

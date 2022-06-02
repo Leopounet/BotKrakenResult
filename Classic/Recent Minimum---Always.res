@@ -1870,3 +1870,7 @@ Recent Minimum---Always now has $2871.569534188686
 Recent Minimum---Always has sold BAND for $1.613. Profit was -0.52%.
 Recent Minimum---Always now has $2856.6373726109045
 ---------------------------------------------------------------------------
+[2022-06-02 13:57:18] BUY
+Recent Minimum---Always has bought TBTC for $33899.8
+Recent Minimum---Always now has $2856.6373726109045
+---------------------------------------------------------------------------

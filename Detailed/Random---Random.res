@@ -13070,3 +13070,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $4947.225814913117
 ---------------------------------------------------------------------------
+[2022-06-02 13:57:18] BUY
+Random---Random has bought: 
+Name: CHZUSD
+Altname: CHZUSD
+Wsname: CHZ/USD
+Base:
+ 	Name: CHZ
+	Altname: CHZ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (CHZUSD):
+	Current:                    0.1214
+	Maximum:                    8.643042
+	Minimum:                    7.651109
+	Variance:                   0.114767
+	Mean:                       8.163642
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.888889
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.115385
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.122167
+	Number of local maximums:   27
+	Average local minimum:      0.123131
+	Number of local minimums:   26
+Is init: True
+
+Random---Random now has $4947.225814913117
+---------------------------------------------------------------------------
