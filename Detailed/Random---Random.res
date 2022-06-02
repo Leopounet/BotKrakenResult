@@ -6061,3 +6061,46 @@ Is init: True
 
 Random---Random now has $7381.537748922571
 ---------------------------------------------------------------------------
+[2022-06-02 00:54:24] SOLD
+Random---Random has sold: 
+Name: USDTZUSD
+Altname: USDTUSD
+Wsname: USDT/USD
+Base:
+ 	Name: USDT
+	Altname: USDT
+	decimals: 8
+	displayed_decimals: 4
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDTZUSD):
+	Current:                    0.9992
+	Maximum:                    1.001201
+	Minimum:                    1.0006
+	Variance:                   0.0006
+	Mean:                       1.000818
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.68
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.357143
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         False
+	Average local maximum:      0.99922
+	Number of local maximums:   50
+	Average local minimum:      0.9992
+	Number of local minimums:   28
+Is init: True
+Profit was -0.4%.
+Random---Random now has $7352.011597926881
+---------------------------------------------------------------------------
