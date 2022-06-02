@@ -1518,3 +1518,7 @@ Lower All Local Minimums---Always now has $4334.252354030129
 Lower All Local Minimums---Always has sold RARI for $2.99. Profit was 1.8772602739726234%.
 Lower All Local Minimums---Always now has $4415.61755164606
 ---------------------------------------------------------------------------
+[2022-06-02 09:25:39] BUY
+Lower All Local Minimums---Always has bought 1INCH for $0.917
+Lower All Local Minimums---Always now has $4415.61755164606
+---------------------------------------------------------------------------
