@@ -894,3 +894,7 @@ Random---Always now has $5504.35997388849
 Random---Always has sold XREP for $9.648. Profit was -0.52%.
 Random---Always now has $5475.737302024269
 ---------------------------------------------------------------------------
+[2022-06-02 01:28:52] BUY
+Random---Always has bought TRIBE for $0.2228
+Random---Always now has $5475.737302024269
+---------------------------------------------------------------------------
