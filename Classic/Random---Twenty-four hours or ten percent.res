@@ -26,3 +26,7 @@ Random---Twenty-four hours or ten percent now has $9855.217061140527
 Random---Twenty-four hours or ten percent has bought XRT for $3.95
 Random---Twenty-four hours or ten percent now has $9855.217061140527
 ---------------------------------------------------------------------------
+[2022-06-02 21:02:14] SOLD
+Random---Twenty-four hours or ten percent has sold XRT for $3.95. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $9803.969932422597
+---------------------------------------------------------------------------
