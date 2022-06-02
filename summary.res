@@ -1,4 +1,4 @@
-[2022-06-02 14:27:51] SUMMARY
+[2022-06-02 14:30:56] SUMMARY
 Most losses: 
 Name: Recent Minimum---Always
 BuyStrategy description: Looks for the asset which is closer to its previous local minimum.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    33899.8
-		Maximum:                    3.3e-05
-		Minimum:                    2.9e-05
-		Variance:                   0.113263
-		Mean:                       3.2e-05
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 333
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 True
-		Current fall duration:      530
-		Trending downwards:         False
-		Average local maximum:      30064.35
-		Number of local maximums:   2
-		Average local minimum:      31980.0
-		Number of local minimums:   2
-	Is init: True
+	None
 Wins: 1
-Losses: 238
-Total points: -127.48488842076219%
-Wallet: 2783.133229440354
+Losses: 239
+Total points: -128.0048884207622%
+Wallet: 2768.6609366472644
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ACHUSD
-	Altname: ACHUSD
-	Wsname: ACH/USD
-	Base:
-	 	Name: ACH
-		Altname: ACH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 250
-	Data about this pair of assets (ACHUSD):
-		Current:                    0.0152
-		Maximum:                    67.204301
-		Minimum:                    11.764706
-		Variance:                   0.824941
-		Mean:                       55.602063
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.588235
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.666667
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.021859
-		Number of local maximums:   17
-		Average local minimum:      0.025559
-		Number of local minimums:   9
-	Is init: True
+	None
 Wins: 26
-Losses: 213
-Total points: -34.49339144341348%
-Wallet: 6201.535350773046
+Losses: 214
+Total points: -35.01339144341348%
+Wallet: 6169.287366949026
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance Lower All Local Minimums---Ten Percent
