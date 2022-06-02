@@ -20423,3 +20423,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $3617.302964638109
 ---------------------------------------------------------------------------
+[2022-06-02 14:18:49] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: BANDUSD
+Altname: BANDUSD
+Wsname: BAND/USD
+Base:
+ 	Name: BAND
+	Altname: BAND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (BANDUSD):
+	Current:                    1.613
+	Maximum:                    0.625
+	Minimum:                    0.542888
+	Variance:                   0.131379
+	Mean:                       0.579866
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          6.2
+	Is ascending:               True
+	Current ascension duration: 23
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               1.451613
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         True
+	Average local maximum:      1.739067
+	Number of local maximums:   15
+	Average local minimum:      1.74129
+	Number of local minimums:   31
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Always now has $3598.492989221991
+---------------------------------------------------------------------------

@@ -1258,3 +1258,7 @@ Lower All Local Minimums---Random now has $5605.476797032919
 Lower All Local Minimums---Random has bought BAND for $1.613
 Lower All Local Minimums---Random now has $5605.476797032919
 ---------------------------------------------------------------------------
+[2022-06-02 14:18:49] SOLD
+Lower All Local Minimums---Random has sold BAND for $1.613. Profit was -0.52%.
+Lower All Local Minimums---Random now has $5576.328317688348
+---------------------------------------------------------------------------
