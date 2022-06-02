@@ -154,3 +154,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9020.685472915771
 Random---Twenty-four hours or ten percent decreasing has bought COMP for $58.97
 Random---Twenty-four hours or ten percent decreasing now has $9020.685472915771
 ---------------------------------------------------------------------------
+[2022-06-02 22:37:50] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold COMP for $58.74. Profit was -0.9100288282177367%.
+Random---Twenty-four hours or ten percent decreasing now has $8938.594634609388
+---------------------------------------------------------------------------
