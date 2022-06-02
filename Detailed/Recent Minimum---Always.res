@@ -19348,3 +19348,46 @@ Is init: True
 Profit was -0.52%.
 Recent Minimum---Always now has $2993.8712809433982
 ---------------------------------------------------------------------------
+[2022-06-02 13:03:17] BUY
+Recent Minimum---Always has bought: 
+Name: BANDUSD
+Altname: BANDUSD
+Wsname: BAND/USD
+Base:
+ 	Name: BAND
+	Altname: BAND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (BANDUSD):
+	Current:                    1.665
+	Maximum:                    0.625
+	Minimum:                    0.542888
+	Variance:                   0.131379
+	Mean:                       0.578837
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          6.642857
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               1.354839
+	Is falling:                 True
+	Current fall duration:      111
+	Trending downwards:         True
+	Average local maximum:      1.748071
+	Number of local maximums:   14
+	Average local minimum:      1.74129
+	Number of local minimums:   31
+Is init: True
+
+Recent Minimum---Always now has $2993.8712809433982
+---------------------------------------------------------------------------
