@@ -815,3 +815,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $9551.703958287451
 ---------------------------------------------------------------------------
+[2022-06-02 21:38:42] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: GNOUSD
+Altname: GNOUSD
+Wsname: GNO/USD
+Base:
+ 	Name: GNO
+	Altname: GNO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.01
+Data about this pair of assets (GNOUSD):
+	Current:                    192.55
+	Maximum:                    0.005311
+	Minimum:                    0.004823
+	Variance:                   0.091917
+	Mean:                       0.005057
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.9
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.736842
+	Is falling:                 True
+	Current fall duration:      40
+	Trending downwards:         True
+	Average local maximum:      198.907
+	Number of local maximums:   30
+	Average local minimum:      200.154211
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $9502.035097704356
+---------------------------------------------------------------------------
