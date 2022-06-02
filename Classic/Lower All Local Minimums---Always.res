@@ -1354,3 +1354,7 @@ Lower All Local Minimums---Always now has $4456.475459458759
 Lower All Local Minimums---Always has bought ASTR for $0.0593
 Lower All Local Minimums---Always now has $4456.475459458759
 ---------------------------------------------------------------------------
+[2022-06-02 07:20:27] SOLD
+Lower All Local Minimums---Always has sold ASTR for $0.0593. Profit was -0.52%.
+Lower All Local Minimums---Always now has $4433.301787069574
+---------------------------------------------------------------------------
