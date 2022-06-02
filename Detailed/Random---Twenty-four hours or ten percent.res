@@ -686,3 +686,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $9601.632447011913
 ---------------------------------------------------------------------------
+[2022-06-02 21:29:36] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: RAREUSD
+Altname: RAREUSD
+Wsname: RARE/USD
+Base:
+ 	Name: RARE
+	Altname: RARE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (RAREUSD):
+	Current:                    0.2504
+	Maximum:                    4.191115
+	Minimum:                    3.388682
+	Variance:                   0.191461
+	Mean:                       3.844152
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.1875
+	Is ascending:               True
+	Current ascension duration: 60
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.823529
+	Is falling:                 True
+	Current fall duration:      93
+	Trending downwards:         True
+	Average local maximum:      0.262044
+	Number of local maximums:   16
+	Average local minimum:      0.265918
+	Number of local minimums:   17
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $9601.632447011913
+---------------------------------------------------------------------------

@@ -46,3 +46,7 @@ Lower All Local Minimums---Random now has $9771.942404497071
 Lower All Local Minimums---Random has sold BNC for $0.346. Profit was -0.52%.
 Lower All Local Minimums---Random now has $9721.128303993686
 ---------------------------------------------------------------------------
+[2022-06-02 21:29:36] BUY
+Lower All Local Minimums---Random has bought ZUSD for $0.95751
+Lower All Local Minimums---Random now has $9721.128303993686
+---------------------------------------------------------------------------
