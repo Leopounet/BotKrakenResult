@@ -190,3 +190,7 @@ Random---Always now has $8780.228044342883
 Random---Always has sold BAL for $7.06. Profit was -0.52%.
 Random---Always now has $8734.5708585123
 ---------------------------------------------------------------------------
+[2022-06-02 23:04:25] BUY
+Random---Always has bought FTM for $0.382
+Random---Always now has $8734.5708585123
+---------------------------------------------------------------------------

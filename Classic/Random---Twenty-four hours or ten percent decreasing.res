@@ -190,3 +190,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8838.542196552968
 Random---Twenty-four hours or ten percent decreasing has sold FET for $0.163. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8792.581777130892
 ---------------------------------------------------------------------------
+[2022-06-02 23:04:25] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MATIC for $0.6169
+Random---Twenty-four hours or ten percent decreasing now has $8792.581777130892
+---------------------------------------------------------------------------

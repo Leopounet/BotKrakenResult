@@ -1503,3 +1503,46 @@ Is init: True
 
 Variance---Random now has $11739.04727523497
 ---------------------------------------------------------------------------
+[2022-06-02 23:04:25] SOLD
+Variance---Random has sold: 
+Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base:
+ 	Name: ACH
+	Altname: ACH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (ACHUSD):
+	Current:                    0.01758
+	Maximum:                    72.886297
+	Minimum:                    11.764706
+	Variance:                   0.838588
+	Mean:                       57.05897
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.285714
+	Is ascending:               True
+	Current ascension duration: 25
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               7.0
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.020602
+	Number of local maximums:   21
+	Average local minimum:      0.025559
+	Number of local minimums:   9
+Is init: True
+Profit was -6.9477588168373146%.
+Variance---Random now has $10923.446583157132
+---------------------------------------------------------------------------

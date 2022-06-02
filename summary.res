@@ -1,4 +1,4 @@
-[2022-06-02 23:01:28] SUMMARY
+[2022-06-02 23:04:25] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: FTMUSD
+	Altname: FTMUSD
+	Wsname: FTM/USD
+	Base:
+	 	Name: FTM
+		Altname: FTM
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2
+	Data about this pair of assets (FTMUSD):
+		Current:                    0.382
+		Maximum:                    3.333333
+		Minimum:                    2.617801
+		Variance:                   0.21466
+		Mean:                       2.675097
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               True
+		Current ascension duration: 5
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 True
+		Current fall duration:      12
+		Trending downwards:         False
+		Average local maximum:      0.375571
+		Number of local maximums:   7
+		Average local minimum:      0.376143
+		Number of local minimums:   7
+	Is init: True
 Wins: 0
 Losses: 24
 Total points: -13.489204154095583%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: NMRUSD
+	Altname: NMRUSD
+	Wsname: NMR/USD
+	Base:
+	 	Name: NMR
+		Altname: NMR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.25
+	Data about this pair of assets (NMRUSD):
+		Current:                    12.36
+		Maximum:                    0.089286
+		Minimum:                    0.076628
+		Variance:                   0.141762
+		Mean:                       0.081411
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.5
+		Is ascending:               True
+		Current ascension duration: 16
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               6.0
+		Is falling:                 True
+		Current fall duration:      328
+		Trending downwards:         True
+		Average local maximum:      12.451667
+		Number of local maximums:   12
+		Average local minimum:      12.636667
+		Number of local minimums:   6
+	Is init: True
 Wins: 1
 Losses: 19
 Total points: -8.711121869963817%

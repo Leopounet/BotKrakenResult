@@ -190,3 +190,7 @@ Random---Twenty-four hours or ten percent now has $8993.852734863087
 Random---Twenty-four hours or ten percent has sold STORJ for $0.59861. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8947.084700641799
 ---------------------------------------------------------------------------
+[2022-06-02 23:04:25] BUY
+Random---Twenty-four hours or ten percent has bought SBR for $0.00949
+Random---Twenty-four hours or ten percent now has $8947.084700641799
+---------------------------------------------------------------------------
