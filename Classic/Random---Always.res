@@ -10,3 +10,7 @@ Random---Always now has $9948.0
 Random---Always has bought GMT for $1.043
 Random---Always now has $9948.0
 ---------------------------------------------------------------------------
+[2022-06-02 20:49:51] SOLD
+Random---Always has sold GMT for $1.043. Profit was -0.52%.
+Random---Always now has $9896.2704
+---------------------------------------------------------------------------

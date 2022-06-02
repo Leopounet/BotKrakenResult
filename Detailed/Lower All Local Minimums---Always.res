@@ -127,3 +127,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $9948.0
 ---------------------------------------------------------------------------
+[2022-06-02 20:49:51] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: BNCUSD
+Altname: BNCUSD
+Wsname: BNC/USD
+Base:
+ 	Name: BNC
+	Altname: BNC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (BNCUSD):
+	Current:                    0.346
+	Maximum:                    3.003003
+	Minimum:                    2.277904
+	Variance:                   0.241458
+	Mean:                       2.711187
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.8
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.214286
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.375967
+	Number of local maximums:   30
+	Average local minimum:      0.385143
+	Number of local minimums:   28
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Always now has $9896.2704
+---------------------------------------------------------------------------
