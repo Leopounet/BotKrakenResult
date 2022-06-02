@@ -238,3 +238,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8588.873342213308
 Random---Twenty-four hours or ten percent decreasing has sold FIDA for $0.479. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8544.211200833799
 ---------------------------------------------------------------------------
+[2022-06-02 23:39:53] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZRX for $0.412
+Random---Twenty-four hours or ten percent decreasing now has $8544.211200833799
+---------------------------------------------------------------------------

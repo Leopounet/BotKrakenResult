@@ -2578,3 +2578,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8544.211200833799
 ---------------------------------------------------------------------------
+[2022-06-02 23:39:53] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: ZRXUSD
+Altname: ZRXUSD
+Wsname: ZRX/USD
+Base:
+ 	Name: ZRX
+	Altname: ZRX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (ZRXUSD):
+	Current:                    0.412
+	Maximum:                    2.617801
+	Minimum:                    2.242152
+	Variance:                   0.143498
+	Mean:                       2.424941
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.678571
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.36
+	Is falling:                 True
+	Current fall duration:      53
+	Trending downwards:         True
+	Average local maximum:      0.410964
+	Number of local maximums:   28
+	Average local minimum:      0.4146
+	Number of local minimums:   25
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $8544.211200833799
+---------------------------------------------------------------------------

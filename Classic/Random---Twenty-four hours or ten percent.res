@@ -238,3 +238,7 @@ Random---Twenty-four hours or ten percent now has $8730.065164130003
 Random---Twenty-four hours or ten percent has sold SAMO for $0.005651. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8684.668825276527
 ---------------------------------------------------------------------------
+[2022-06-02 23:39:53] BUY
+Random---Twenty-four hours or ten percent has bought ZGBP for $1.25751
+Random---Twenty-four hours or ten percent now has $8684.668825276527
+---------------------------------------------------------------------------

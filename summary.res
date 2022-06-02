@@ -1,4 +1,4 @@
-[2022-06-02 23:36:55] SUMMARY
+[2022-06-02 23:39:53] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: CRVUSD
+	Altname: CRVUSD
+	Wsname: CRV/USD
+	Base:
+	 	Name: CRV
+		Altname: CRV
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (CRVUSD):
+		Current:                    1.261
+		Maximum:                    0.831947
+		Minimum:                    0.686342
+		Variance:                   0.175017
+		Mean:                       0.76566
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.428571
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.625
+		Is falling:                 True
+		Current fall duration:      22
+		Trending downwards:         True
+		Average local maximum:      1.293667
+		Number of local maximums:   21
+		Average local minimum:      1.302
+		Number of local minimums:   24
+	Is init: True
 Wins: 0
 Losses: 30
 Total points: -16.609204154095583%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: POWRUSD
+	Altname: POWRUSD
+	Wsname: POWR/USD
+	Base:
+	 	Name: POWR
+		Altname: POWR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 10
+	Data about this pair of assets (POWRUSD):
+		Current:                    0.2966
+		Maximum:                    3.684598
+		Minimum:                    3.171583
+		Variance:                   0.139232
+		Mean:                       3.533934
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.176471
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.833333
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      0.284618
+		Number of local maximums:   17
+		Average local minimum:      0.286283
+		Number of local minimums:   18
+	Is init: True
 Wins: 1
 Losses: 24
 Total points: -11.215767685740317%
