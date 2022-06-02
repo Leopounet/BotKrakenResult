@@ -1318,3 +1318,7 @@ Variance Lower All Local Minimums---Always now has $4220.782133515471
 Variance Lower All Local Minimums---Always has sold ACH for $0.01488. Profit was -0.52%.
 Variance Lower All Local Minimums---Always now has $4198.834066421191
 ---------------------------------------------------------------------------
+[2022-06-02 06:53:39] BUY
+Variance Lower All Local Minimums---Always has bought GST for $0.86
+Variance Lower All Local Minimums---Always now has $4198.834066421191
+---------------------------------------------------------------------------

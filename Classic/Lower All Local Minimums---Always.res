@@ -1318,3 +1318,7 @@ Lower All Local Minimums---Always now has $4574.173529656416
 Lower All Local Minimums---Always has sold GST for $0.824. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4550.387827302202
 ---------------------------------------------------------------------------
+[2022-06-02 06:53:39] BUY
+Lower All Local Minimums---Always has bought CTSI for $0.1915
+Lower All Local Minimums---Always now has $4550.387827302202
+---------------------------------------------------------------------------
