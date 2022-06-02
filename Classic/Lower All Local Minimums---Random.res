@@ -1022,3 +1022,7 @@ Lower All Local Minimums---Random now has $5934.018882740504
 Lower All Local Minimums---Random has sold 1INCH for $0.917. Profit was -0.52%.
 Lower All Local Minimums---Random now has $5903.161984550253
 ---------------------------------------------------------------------------
+[2022-06-02 09:41:52] BUY
+Lower All Local Minimums---Random has bought QNT for $67.0
+Lower All Local Minimums---Random now has $5903.161984550253
+---------------------------------------------------------------------------

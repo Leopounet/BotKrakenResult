@@ -11049,3 +11049,46 @@ Is init: True
 
 Random---Random now has $5674.0369313099145
 ---------------------------------------------------------------------------
+[2022-06-02 09:41:52] SOLD
+Random---Random has sold: 
+Name: ROOKUSD
+Altname: ROOKUSD
+Wsname: ROOK/USD
+Base:
+ 	Name: ROOK
+	Altname: ROOK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (ROOKUSD):
+	Current:                    37.53
+	Maximum:                    0.026645
+	Minimum:                    0.020416
+	Variance:                   0.233769
+	Mean:                       0.024404
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.909091
+	Is ascending:               True
+	Current ascension duration: 177
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.714286
+	Is falling:                 True
+	Current fall duration:      134
+	Trending downwards:         True
+	Average local maximum:      42.431818
+	Number of local maximums:   11
+	Average local minimum:      44.967143
+	Number of local minimums:   7
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5644.531939267103
+---------------------------------------------------------------------------
