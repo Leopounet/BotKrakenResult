@@ -166,3 +166,7 @@ Random---Twenty-four hours or ten percent now has $9133.221207307648
 Random---Twenty-four hours or ten percent has sold SGB for $0.0379. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $9085.728457029649
 ---------------------------------------------------------------------------
+[2022-06-02 22:46:42] BUY
+Random---Twenty-four hours or ten percent has bought WOO for $0.1608
+Random---Twenty-four hours or ten percent now has $9085.728457029649
+---------------------------------------------------------------------------
