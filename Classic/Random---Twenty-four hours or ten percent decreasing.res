@@ -22,3 +22,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9896.2704
 Random---Twenty-four hours or ten percent decreasing has sold RBC for $0.09024. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9844.80979392
 ---------------------------------------------------------------------------
+[2022-06-02 20:59:05] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FTM for $0.372
+Random---Twenty-four hours or ten percent decreasing now has $9844.80979392
+---------------------------------------------------------------------------

@@ -22,3 +22,7 @@ Random---Always now has $9896.2704
 Random---Always has sold OXY for $0.0897. Profit was -0.52%.
 Random---Always now has $9844.80979392
 ---------------------------------------------------------------------------
+[2022-06-02 20:59:05] BUY
+Random---Always has bought GLMR for $1.324
+Random---Always now has $9844.80979392
+---------------------------------------------------------------------------

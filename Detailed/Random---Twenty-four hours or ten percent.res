@@ -256,3 +256,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $9855.217061140527
 ---------------------------------------------------------------------------
+[2022-06-02 20:59:05] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: XRTUSD
+Altname: XRTUSD
+Wsname: XRT/USD
+Base:
+ 	Name: XRT
+	Altname: XRT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (XRTUSD):
+	Current:                    3.95
+	Maximum:                    0.27933
+	Minimum:                    0.239808
+	Variance:                   0.141487
+	Mean:                       0.256491
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.181818
+	Is ascending:               True
+	Current ascension duration: 21
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.125
+	Is falling:                 True
+	Current fall duration:      112
+	Trending downwards:         False
+	Average local maximum:      3.841818
+	Number of local maximums:   11
+	Average local minimum:      3.9725
+	Number of local minimums:   8
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $9855.217061140527
+---------------------------------------------------------------------------

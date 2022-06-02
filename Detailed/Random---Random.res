@@ -256,3 +256,46 @@ Is init: True
 Profit was -0.19741935483871442%.
 Random---Random now has $9888.647279690322
 ---------------------------------------------------------------------------
+[2022-06-02 20:59:05] BUY
+Random---Random has bought: 
+Name: BICOUSD
+Altname: BICOUSD
+Wsname: BICO/USD
+Base:
+ 	Name: BICO
+	Altname: BICO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 4
+Data about this pair of assets (BICOUSD):
+	Current:                    0.717
+	Maximum:                    1.430615
+	Minimum:                    0.996016
+	Variance:                   0.303785
+	Mean:                       1.301997
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 59
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.7866
+	Number of local maximums:   20
+	Average local minimum:      0.7821
+	Number of local minimums:   20
+Is init: True
+
+Random---Random now has $9888.647279690322
+---------------------------------------------------------------------------
