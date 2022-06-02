@@ -6878,3 +6878,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $7060.334971863317
 ---------------------------------------------------------------------------
+[2022-06-02 02:32:02] BUY
+Random---Random has bought: 
+Name: UNIUSD
+Altname: UNIUSD
+Wsname: UNI/USD
+Base:
+ 	Name: UNI
+	Altname: UNI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (UNIUSD):
+	Current:                    5.141
+	Maximum:                    0.198491
+	Minimum:                    0.170561
+	Variance:                   0.140713
+	Mean:                       0.179985
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.45
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.608696
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      5.525
+	Number of local maximums:   20
+	Average local minimum:      5.487565
+	Number of local minimums:   23
+Is init: True
+
+Random---Random now has $7060.334971863317
+---------------------------------------------------------------------------
