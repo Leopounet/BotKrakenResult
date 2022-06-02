@@ -127,3 +127,46 @@ Is init: True
 
 Random---Ten Percent now has $10967.830028328612
 ---------------------------------------------------------------------------
+[2022-06-02 11:51:22] SOLD
+Random---Ten Percent has sold: 
+Name: KINTUSD
+Altname: KINTUSD
+Wsname: KINT/USD
+Base:
+ 	Name: KINT
+	Altname: KINT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (KINTUSD):
+	Current:                    3.87
+	Maximum:                    0.318471
+	Minimum:                    0.204918
+	Variance:                   0.356557
+	Mean:                       0.273864
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.758621
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.117647
+	Is falling:                 True
+	Current fall duration:      28
+	Trending downwards:         True
+	Average local maximum:      3.602414
+	Number of local maximums:   29
+	Average local minimum:      3.851176
+	Number of local minimums:   17
+Is init: True
+Profit was 9.557519379844958%.
+Random---Ten Percent now has $12016.082508834574
+---------------------------------------------------------------------------

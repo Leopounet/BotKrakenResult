@@ -10,3 +10,7 @@ Random---Ten Percent now has $10967.830028328612
 Random---Ten Percent has bought KINT for $3.87
 Random---Ten Percent now has $10967.830028328612
 ---------------------------------------------------------------------------
+[2022-06-02 11:51:22] SOLD
+Random---Ten Percent has sold KINT for $4.26. Profit was 9.557519379844958%.
+Random---Ten Percent now has $12016.082508834574
+---------------------------------------------------------------------------
