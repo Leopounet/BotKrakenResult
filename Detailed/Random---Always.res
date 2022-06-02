@@ -17241,3 +17241,46 @@ Is init: True
 
 Random---Always now has $3676.554131221694
 ---------------------------------------------------------------------------
+[2022-06-02 10:31:20] SOLD
+Random---Always has sold: 
+Name: RNDRUSD
+Altname: RNDRUSD
+Wsname: RNDR/USD
+Base:
+ 	Name: RNDR
+	Altname: RNDR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (RNDRUSD):
+	Current:                    0.7413
+	Maximum:                    1.375705
+	Minimum:                    1.116196
+	Variance:                   0.188637
+	Mean:                       1.239006
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.6
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.5
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         True
+	Average local maximum:      0.8147
+	Number of local maximums:   25
+	Average local minimum:      0.803973
+	Number of local minimums:   30
+Is init: True
+Profit was -0.52%.
+Random---Always now has $3657.4360497393413
+---------------------------------------------------------------------------
