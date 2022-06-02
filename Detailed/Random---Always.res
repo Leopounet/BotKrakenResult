@@ -16983,3 +16983,46 @@ Is init: True
 
 Random---Always now has $3728.5265953762587
 ---------------------------------------------------------------------------
+[2022-06-02 10:12:44] SOLD
+Random---Always has sold: 
+Name: XXLMZUSD
+Altname: XLMUSD
+Wsname: XLM/USD
+Base:
+ 	Name: XXLM
+	Altname: XLM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (XXLMZUSD):
+	Current:                    0.139686
+	Maximum:                    7.493106
+	Minimum:                    6.509569
+	Variance:                   0.131259
+	Mean:                       6.964956
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.473684
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.590909
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.145327
+	Number of local maximums:   19
+	Average local minimum:      0.143639
+	Number of local minimums:   22
+Is init: True
+Profit was -0.3603562275389067%.
+Random---Always now has $3715.090617594376
+---------------------------------------------------------------------------
