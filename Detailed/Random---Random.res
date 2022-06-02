@@ -7050,3 +7050,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $7006.225164293628
 ---------------------------------------------------------------------------
+[2022-06-02 02:47:06] BUY
+Random---Random has bought: 
+Name: XLTCZUSD
+Altname: LTCUSD
+Wsname: LTC/USD
+Base:
+ 	Name: XLTC
+	Altname: LTC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.03
+Data about this pair of assets (XLTCZUSD):
+	Current:                    62.9
+	Maximum:                    0.016075
+	Minimum:                    0.014271
+	Variance:                   0.112174
+	Mean:                       0.014855
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.714286
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.25
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      67.739286
+	Number of local maximums:   28
+	Average local minimum:      67.62875
+	Number of local minimums:   16
+Is init: True
+
+Random---Random now has $7006.225164293628
+---------------------------------------------------------------------------
