@@ -38,3 +38,7 @@ Random---Twenty-four hours or ten percent now has $9803.969932422597
 Random---Twenty-four hours or ten percent has sold MASK for $1.788. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $9752.989288773999
 ---------------------------------------------------------------------------
+[2022-06-02 21:11:24] BUY
+Random---Twenty-four hours or ten percent has bought ZRX for $0.405
+Random---Twenty-four hours or ten percent now has $9752.989288773999
+---------------------------------------------------------------------------

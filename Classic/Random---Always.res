@@ -38,3 +38,7 @@ Random---Always now has $9741.567184383277
 Random---Always has sold AUDIO for $0.4101. Profit was -0.52%.
 Random---Always now has $9690.911035024485
 ---------------------------------------------------------------------------
+[2022-06-02 21:11:24] BUY
+Random---Always has bought MNGO for $0.0562
+Random---Always now has $9690.911035024485
+---------------------------------------------------------------------------
