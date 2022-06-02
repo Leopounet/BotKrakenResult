@@ -1158,3 +1158,7 @@ Lower All Local Minimums---Random now has $5945.254198026245
 Lower All Local Minimums---Random has sold 1INCH for $0.92. Profit was -0.7369197396963085%.
 Lower All Local Minimums---Random now has $5901.442446265866
 ---------------------------------------------------------------------------
+[2022-06-02 12:12:39] BUY
+Lower All Local Minimums---Random has bought ASTR for $0.0599
+Lower All Local Minimums---Random now has $5901.442446265866
+---------------------------------------------------------------------------
