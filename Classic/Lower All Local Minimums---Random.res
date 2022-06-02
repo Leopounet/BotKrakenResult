@@ -926,3 +926,7 @@ Lower All Local Minimums---Random now has $5591.682994580583
 Lower All Local Minimums---Random has sold GST for $0.859. Profit was 1.8637902264600696%.
 Lower All Local Minimums---Random now has $5695.900235728206
 ---------------------------------------------------------------------------
+[2022-06-02 07:50:07] BUY
+Lower All Local Minimums---Random has bought YFI for $7443.0
+Lower All Local Minimums---Random now has $5695.900235728206
+---------------------------------------------------------------------------
