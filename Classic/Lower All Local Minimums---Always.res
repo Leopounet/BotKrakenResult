@@ -1414,3 +1414,7 @@ Lower All Local Minimums---Always now has $4494.00870314063
 Lower All Local Minimums---Always has sold 1INCH for $0.91. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4470.639857884299
 ---------------------------------------------------------------------------
+[2022-06-02 08:04:57] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.682
+Lower All Local Minimums---Always now has $4470.639857884299
+---------------------------------------------------------------------------
