@@ -18703,3 +18703,46 @@ Is init: True
 
 Recent Minimum---Always now has $3121.381927249791
 ---------------------------------------------------------------------------
+[2022-06-02 12:15:49] SOLD
+Recent Minimum---Always has sold: 
+Name: TBTCUSD
+Altname: TBTCUSD
+Wsname: TBTC/USD
+Base:
+ 	Name: TBTC
+	Altname: TBTC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.0001
+Data about this pair of assets (TBTCUSD):
+	Current:                    33899.8
+	Maximum:                    3.3e-05
+	Minimum:                    2.9e-05
+	Variance:                   0.113305
+	Mean:                       3.2e-05
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.5
+	Is ascending:               True
+	Current ascension duration: 306
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.0
+	Is falling:                 True
+	Current fall duration:      503
+	Trending downwards:         True
+	Average local maximum:      30064.35
+	Number of local maximums:   2
+	Average local minimum:      33899.8
+	Number of local minimums:   1
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Always now has $3105.150741228092
+---------------------------------------------------------------------------
