@@ -1390,3 +1390,7 @@ Lower All Local Minimums---Always now has $4458.025252791324
 Lower All Local Minimums---Always has sold GST for $0.859. Profit was 1.8637902264600696%.
 Lower All Local Minimums---Always now has $4541.113491745971
 ---------------------------------------------------------------------------
+[2022-06-02 07:47:09] BUY
+Lower All Local Minimums---Always has bought RARI for $2.92
+Lower All Local Minimums---Always now has $4541.113491745971
+---------------------------------------------------------------------------
