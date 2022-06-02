@@ -7910,3 +7910,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $6626.970324886047
 ---------------------------------------------------------------------------
+[2022-06-02 04:20:54] BUY
+Random---Random has bought: 
+Name: MASKUSD
+Altname: MASKUSD
+Wsname: MASK/USD
+Base:
+ 	Name: MASK
+	Altname: MASK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (MASKUSD):
+	Current:                    1.762
+	Maximum:                    0.569152
+	Minimum:                    0.447828
+	Variance:                   0.213166
+	Mean:                       0.505755
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.304348
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.9
+	Is falling:                 True
+	Current fall duration:      16
+	Trending downwards:         True
+	Average local maximum:      1.95413
+	Number of local maximums:   23
+	Average local minimum:      1.9552
+	Number of local minimums:   10
+Is init: True
+
+Random---Random now has $6626.970324886047
+---------------------------------------------------------------------------
