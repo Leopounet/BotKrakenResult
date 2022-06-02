@@ -838,3 +838,9 @@ Variance Lower All Local Minimums---Random has 60 losses
 Variance Lower All Local Minimums---Random has -35.60199964677188 points
 Variance Lower All Local Minimums---Random now has $6940.70815878106
 ---------------------------------------------------------------------------
+[2022-06-02 00:41:07] BRIEF
+Variance Lower All Local Minimums---Random has 10 wins
+Variance Lower All Local Minimums---Random has 60 losses
+Variance Lower All Local Minimums---Random has -35.60199964677188 points
+Variance Lower All Local Minimums---Random now has $6940.70815878106
+---------------------------------------------------------------------------
