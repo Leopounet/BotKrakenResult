@@ -20466,3 +20466,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $3221.6288021781575
 ---------------------------------------------------------------------------
+[2022-06-02 14:21:50] BUY
+Random---Always has bought: 
+Name: RAYUSD
+Altname: RAYUSD
+Wsname: RAY/USD
+Base:
+ 	Name: RAY
+	Altname: RAY
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (RAYUSD):
+	Current:                    0.913
+	Maximum:                    1.106195
+	Minimum:                    0.94162
+	Variance:                   0.148776
+	Mean:                       1.029588
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.5
+	Is ascending:               True
+	Current ascension duration: 98
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.0
+	Is falling:                 True
+	Current fall duration:      187
+	Trending downwards:         True
+	Average local maximum:      0.97575
+	Number of local maximums:   12
+	Average local minimum:      0.999667
+	Number of local minimums:   6
+Is init: True
+
+Random---Always now has $3221.6288021781575
+---------------------------------------------------------------------------

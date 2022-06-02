@@ -13156,3 +13156,46 @@ Is init: True
 Profit was -0.52%.
 Recent Minimum---Random now has $4386.741595398299
 ---------------------------------------------------------------------------
+[2022-06-02 14:21:50] BUY
+Recent Minimum---Random has bought: 
+Name: TBTCUSD
+Altname: TBTCUSD
+Wsname: TBTC/USD
+Base:
+ 	Name: TBTC
+	Altname: TBTC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.0001
+Data about this pair of assets (TBTCUSD):
+	Current:                    33899.8
+	Maximum:                    3.3e-05
+	Minimum:                    2.9e-05
+	Variance:                   0.113263
+	Mean:                       3.2e-05
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 332
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      529
+	Trending downwards:         False
+	Average local maximum:      30064.35
+	Number of local maximums:   2
+	Average local minimum:      31980.0
+	Number of local minimums:   2
+Is init: True
+
+Recent Minimum---Random now has $4386.741595398299
+---------------------------------------------------------------------------
