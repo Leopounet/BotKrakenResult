@@ -754,3 +754,7 @@ Lower All Local Minimums---Random now has $5945.5776129436645
 Lower All Local Minimums---Random has bought RUNE for $2.662
 Lower All Local Minimums---Random now has $5945.5776129436645
 ---------------------------------------------------------------------------
+[2022-06-02 04:51:11] SOLD
+Lower All Local Minimums---Random has sold RUNE for $2.665. Profit was -0.4073027798647506%.
+Lower All Local Minimums---Random now has $5921.361110047129
+---------------------------------------------------------------------------
