@@ -1510,3 +1510,7 @@ Variance Lower All Local Minimums---Always now has $7917.365257901413
 Variance Lower All Local Minimums---Always has sold WOO for $0.1642. Profit was -0.52%.
 Variance Lower All Local Minimums---Always now has $7876.194958560326
 ---------------------------------------------------------------------------
+[2022-06-02 09:19:26] BUY
+Variance Lower All Local Minimums---Always has bought GST for $0.91
+Variance Lower All Local Minimums---Always now has $7876.194958560326
+---------------------------------------------------------------------------

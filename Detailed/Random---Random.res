@@ -10791,3 +10791,46 @@ Is init: True
 
 Random---Random now has $5662.269806714164
 ---------------------------------------------------------------------------
+[2022-06-02 09:19:26] SOLD
+Random---Random has sold: 
+Name: MIRUSD
+Altname: MIRUSD
+Wsname: MIR/USD
+Base:
+ 	Name: MIR
+	Altname: MIR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (MIRUSD):
+	Current:                    0.29
+	Maximum:                    3.816794
+	Minimum:                    3.058104
+	Variance:                   0.198777
+	Mean:                       3.455826
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.086957
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.3125
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.290696
+	Number of local maximums:   23
+	Average local minimum:      0.29325
+	Number of local minimums:   16
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5632.82600371925
+---------------------------------------------------------------------------
