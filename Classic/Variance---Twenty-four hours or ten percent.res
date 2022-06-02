@@ -246,3 +246,7 @@ Variance---Twenty-four hours or ten percent now has $10969.780745985787
 Variance---Twenty-four hours or ten percent has sold ACH for $0.01645. Profit was -0.52%.
 Variance---Twenty-four hours or ten percent now has $10912.73788610666
 ---------------------------------------------------------------------------
+[2022-06-02 23:45:46] BUY
+Variance---Twenty-four hours or ten percent has bought ACH for $0.01645
+Variance---Twenty-four hours or ten percent now has $10912.73788610666
+---------------------------------------------------------------------------
