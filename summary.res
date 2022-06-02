@@ -1,4 +1,4 @@
-[2022-06-02 10:58:36] SUMMARY
+[2022-06-02 11:01:51] SUMMARY
 Most losses: 
 Name: Recent Minimum---Always
 BuyStrategy description: Looks for the asset which is closer to its previous local minimum.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    33899.8
-		Maximum:                    3.3e-05
-		Minimum:                    2.9e-05
-		Variance:                   0.113305
-		Mean:                       3.2e-05
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.0
-		Is ascending:               True
-		Current ascension duration: 291
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.5
-		Is falling:                 True
-		Current fall duration:      488
-		Trending downwards:         False
-		Average local maximum:      30276.233333
-		Number of local maximums:   3
-		Average local minimum:      32299.9
-		Number of local minimums:   2
-	Is init: True
+	None
 Wins: 1
-Losses: 204
-Total points: -109.80488842076232%
-Wallet: 3322.9024528449504
+Losses: 205
+Total points: -110.32488842076232%
+Wallet: 3305.6233600901564
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WOOUSD
-	Altname: WOOUSD
-	Wsname: WOO/USD
-	Base:
-	 	Name: WOO
-		Altname: WOO
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (WOOUSD):
-		Current:                    0.1655
-		Maximum:                    6.7659
-		Minimum:                    2.534212
-		Variance:                   0.625443
-		Mean:                       5.726692
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.565217
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.75
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.176735
-		Number of local maximums:   23
-		Average local minimum:      0.180342
-		Number of local minimums:   12
-	Is init: True
+	None
 Wins: 25
-Losses: 180
-Total points: -18.988618029516196%
-Wallet: 7245.842391437159
+Losses: 181
+Total points: -19.508618029516196%
+Wallet: 7208.164011001685
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance Lower All Local Minimums---Ten Percent
