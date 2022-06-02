@@ -19047,3 +19047,46 @@ Is init: True
 
 Random---Always now has $3466.941204902208
 ---------------------------------------------------------------------------
+[2022-06-02 12:42:26] SOLD
+Random---Always has sold: 
+Name: CFGUSD
+Altname: CFGUSD
+Wsname: CFG/USD
+Base:
+ 	Name: CFG
+	Altname: CFG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (CFGUSD):
+	Current:                    0.3293
+	Maximum:                    3.775009
+	Minimum:                    2.071251
+	Variance:                   0.451326
+	Mean:                       3.461105
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.347826
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.833333
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.287348
+	Number of local maximums:   23
+	Average local minimum:      0.285039
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Always now has $3448.9131106367167
+---------------------------------------------------------------------------
