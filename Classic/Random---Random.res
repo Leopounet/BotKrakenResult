@@ -686,3 +686,7 @@ Random---Random now has $6900.802351109745
 Random---Random has sold ALCX for $29.5. Profit was -0.52%.
 Random---Random now has $6864.918178883975
 ---------------------------------------------------------------------------
+[2022-06-02 03:35:53] BUY
+Random---Random has bought FIDA for $0.467
+Random---Random now has $6864.918178883975
+---------------------------------------------------------------------------
