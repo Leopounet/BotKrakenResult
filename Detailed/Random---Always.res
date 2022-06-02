@@ -10748,3 +10748,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $5144.000392848684
 ---------------------------------------------------------------------------
+[2022-06-02 02:53:13] BUY
+Random---Always has bought: 
+Name: SRMUSD
+Altname: SRMUSD
+Wsname: SRM/USD
+Base:
+ 	Name: SRM
+	Altname: SRM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (SRMUSD):
+	Current:                    1.036
+	Maximum:                    0.992063
+	Minimum:                    0.848896
+	Variance:                   0.144312
+	Mean:                       0.893991
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 15
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      14
+	Trending downwards:         True
+	Average local maximum:      1.122955
+	Number of local maximums:   22
+	Average local minimum:      1.097955
+	Number of local minimums:   22
+Is init: True
+
+Random---Always now has $5144.000392848684
+---------------------------------------------------------------------------
