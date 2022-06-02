@@ -122,3 +122,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9239.369844890725
 Random---Twenty-four hours or ten percent decreasing has bought XRT for $3.95
 Random---Twenty-four hours or ten percent decreasing now has $9239.369844890725
 ---------------------------------------------------------------------------
+[2022-06-02 22:14:14] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XRT for $3.95. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $9191.325121697293
+---------------------------------------------------------------------------
