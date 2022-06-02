@@ -926,3 +926,7 @@ Random---Always now has $5397.261947227784
 Random---Always has sold XXDG for $0.0808009. Profit was -0.52%.
 Random---Always now has $5369.1961851022
 ---------------------------------------------------------------------------
+[2022-06-02 01:54:31] BUY
+Random---Always has bought MULTI for $4.901
+Random---Always now has $5369.1961851022
+---------------------------------------------------------------------------
