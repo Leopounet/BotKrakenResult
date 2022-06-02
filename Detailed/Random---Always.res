@@ -12769,3 +12769,46 @@ Is init: True
 
 Random---Always now has $4516.330710488901
 ---------------------------------------------------------------------------
+[2022-06-02 05:15:03] SOLD
+Random---Always has sold: 
+Name: SANDUSD
+Altname: SANDUSD
+Wsname: SAND/USD
+Base:
+ 	Name: SAND
+	Altname: SAND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (SANDUSD):
+	Current:                    1.3083
+	Maximum:                    0.770475
+	Minimum:                    0.659239
+	Variance:                   0.144373
+	Mean:                       0.712153
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.529412
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.55
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      1.384465
+	Number of local maximums:   17
+	Average local minimum:      1.39775
+	Number of local minimums:   20
+Is init: True
+Profit was -1.0168279446610047%.
+Random---Always now has $4470.407397751343
+---------------------------------------------------------------------------
