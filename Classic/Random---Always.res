@@ -834,3 +834,7 @@ Random---Always now has $5703.314712293007
 Random---Always has bought IDEX for $0.0813
 Random---Always now has $5703.314712293007
 ---------------------------------------------------------------------------
+[2022-06-02 00:37:46] SOLD
+Random---Always has sold IDEX for $0.0813. Profit was -0.52%.
+Random---Always now has $5673.657475789083
+---------------------------------------------------------------------------

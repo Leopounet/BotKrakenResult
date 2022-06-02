@@ -554,3 +554,7 @@ Variance Lower All Local Minimums---Random now has $6976.988498975734
 Variance Lower All Local Minimums---Random has bought GST for $0.96
 Variance Lower All Local Minimums---Random now has $6976.988498975734
 ---------------------------------------------------------------------------
+[2022-06-02 00:37:46] SOLD
+Variance Lower All Local Minimums---Random has sold GST for $0.96. Profit was -0.52%.
+Variance Lower All Local Minimums---Random now has $6940.70815878106
+---------------------------------------------------------------------------
