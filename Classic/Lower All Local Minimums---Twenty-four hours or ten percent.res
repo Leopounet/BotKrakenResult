@@ -58,3 +58,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $9688.946873
 Lower All Local Minimums---Twenty-four hours or ten percent has bought BNC for $0.346
 Lower All Local Minimums---Twenty-four hours or ten percent now has $9688.94687382629
 ---------------------------------------------------------------------------
+[2022-06-02 21:26:26] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold BNC for $0.346. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $9638.564350082394
+---------------------------------------------------------------------------

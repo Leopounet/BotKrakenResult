@@ -58,3 +58,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9641.629442309515
 Random---Twenty-four hours or ten percent decreasing has bought YFI for $7485.0
 Random---Twenty-four hours or ten percent decreasing now has $9641.629442309515
 ---------------------------------------------------------------------------
+[2022-06-02 21:26:26] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold YFI for $7485.0. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $9591.492969209505
+---------------------------------------------------------------------------
