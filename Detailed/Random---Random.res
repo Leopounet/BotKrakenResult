@@ -7996,3 +7996,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $6592.51007919664
 ---------------------------------------------------------------------------
+[2022-06-02 04:26:53] BUY
+Random---Random has bought: 
+Name: MINAUSD
+Altname: MINAUSD
+Wsname: MINA/USD
+Base:
+ 	Name: MINA
+	Altname: MINA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (MINAUSD):
+	Current:                    0.841
+	Maximum:                    1.189061
+	Minimum:                    1.003009
+	Variance:                   0.156469
+	Mean:                       1.065195
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.032258
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.428571
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.933677
+	Number of local maximums:   31
+	Average local minimum:      0.948429
+	Number of local minimums:   21
+Is init: True
+
+Random---Random now has $6592.51007919664
+---------------------------------------------------------------------------

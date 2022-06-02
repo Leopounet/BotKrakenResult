@@ -742,3 +742,7 @@ Random---Random now has $6626.970324886047
 Random---Random has sold MASK for $1.762. Profit was -0.52%.
 Random---Random now has $6592.51007919664
 ---------------------------------------------------------------------------
+[2022-06-02 04:26:53] BUY
+Random---Random has bought MINA for $0.841
+Random---Random now has $6592.51007919664
+---------------------------------------------------------------------------
