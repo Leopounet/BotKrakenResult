@@ -1038,3 +1038,7 @@ Lower All Local Minimums---Random now has $5960.572437522386
 Lower All Local Minimums---Random has sold 1INCH for $0.917. Profit was -0.52%.
 Lower All Local Minimums---Random now has $5929.57746084727
 ---------------------------------------------------------------------------
+[2022-06-02 10:09:46] BUY
+Lower All Local Minimums---Random has bought RARI for $2.92
+Lower All Local Minimums---Random now has $5929.57746084727
+---------------------------------------------------------------------------

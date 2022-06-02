@@ -11307,3 +11307,46 @@ Is init: True
 
 Random---Random now has $5585.981435242363
 ---------------------------------------------------------------------------
+[2022-06-02 10:09:46] SOLD
+Random---Random has sold: 
+Name: OCEANUSD
+Altname: OCEANUSD
+Wsname: OCEAN/USD
+Base:
+ 	Name: OCEAN
+	Altname: OCEAN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (OCEANUSD):
+	Current:                    0.2098
+	Maximum:                    4.90918
+	Minimum:                    3.792188
+	Variance:                   0.227531
+	Mean:                       4.403366
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.321429
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.709677
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.227221
+	Number of local maximums:   28
+	Average local minimum:      0.224868
+	Number of local minimums:   31
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5556.934331779103
+---------------------------------------------------------------------------
