@@ -222,3 +222,7 @@ Random---Twenty-four hours or ten percent now has $8808.234708791017
 Random---Twenty-four hours or ten percent has sold BAT for $0.40081. Profit was -0.49254804092836624%.
 Random---Twenty-four hours or ten percent now has $8764.849921292494
 ---------------------------------------------------------------------------
+[2022-06-02 23:28:01] BUY
+Random---Twenty-four hours or ten percent has bought ZUSD for $0.95741
+Random---Twenty-four hours or ten percent now has $8764.849921292494
+---------------------------------------------------------------------------

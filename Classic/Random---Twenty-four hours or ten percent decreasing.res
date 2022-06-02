@@ -222,3 +222,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8678.899216631458
 Random---Twenty-four hours or ten percent decreasing has sold ZRX for $0.412. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8633.768940704975
 ---------------------------------------------------------------------------
+[2022-06-02 23:28:01] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ALICE for $2.853
+Random---Twenty-four hours or ten percent decreasing now has $8633.768940704975
+---------------------------------------------------------------------------
