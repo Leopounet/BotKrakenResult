@@ -12167,3 +12167,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $4791.401286709464
 ---------------------------------------------------------------------------
+[2022-06-02 04:32:58] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: ICPUSD
+Altname: ICPUSD
+Wsname: ICP/USD
+Base:
+ 	Name: ICP
+	Altname: ICP
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (ICPUSD):
+	Current:                    7.492
+	Maximum:                    0.133601
+	Minimum:                    0.114877
+	Variance:                   0.140149
+	Mean:                       0.12492
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.2
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.142857
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      8.02296
+	Number of local maximums:   25
+	Average local minimum:      7.9688
+	Number of local minimums:   35
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Always now has $4766.486000018575
+---------------------------------------------------------------------------
