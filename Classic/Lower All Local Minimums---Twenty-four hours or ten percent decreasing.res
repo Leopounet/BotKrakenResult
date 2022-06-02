@@ -226,3 +226,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought ZUSD for $0.95741
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $8885.371995584397
 ---------------------------------------------------------------------------
+[2022-06-02 23:30:56] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold ZUSD for $0.95744. Profit was -0.3968665462027895%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $8850.10892662825
+---------------------------------------------------------------------------
