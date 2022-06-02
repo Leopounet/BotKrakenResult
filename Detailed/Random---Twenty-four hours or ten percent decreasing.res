@@ -1933,3 +1933,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $8884.742859421962
 ---------------------------------------------------------------------------
+[2022-06-02 22:55:34] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: SNXUSD
+Altname: SNXUSD
+Wsname: SNX/USD
+Base:
+ 	Name: SNX
+	Altname: SNX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.4
+Data about this pair of assets (SNXUSD):
+	Current:                    3.067
+	Maximum:                    0.361011
+	Minimum:                    0.292398
+	Variance:                   0.190058
+	Mean:                       0.332047
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.086957
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.3125
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      3.026957
+	Number of local maximums:   23
+	Average local minimum:      2.931563
+	Number of local minimums:   16
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $8838.542196552968
+---------------------------------------------------------------------------
