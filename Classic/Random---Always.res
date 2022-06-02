@@ -186,3 +186,7 @@ Random---Always now has $8780.228044342883
 Random---Always has bought BAL for $7.06
 Random---Always now has $8780.228044342883
 ---------------------------------------------------------------------------
+[2022-06-02 23:01:28] SOLD
+Random---Always has sold BAL for $7.06. Profit was -0.52%.
+Random---Always now has $8734.5708585123
+---------------------------------------------------------------------------

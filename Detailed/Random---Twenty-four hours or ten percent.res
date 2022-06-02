@@ -2019,3 +2019,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $8993.852734863087
 ---------------------------------------------------------------------------
+[2022-06-02 23:01:28] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: STORJUSD
+Altname: STORJUSD
+Wsname: STORJ/USD
+Base:
+ 	Name: STORJ
+	Altname: STORJ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (STORJUSD):
+	Current:                    0.59861
+	Maximum:                    1.806
+	Minimum:                    1.639344
+	Variance:                   0.092279
+	Mean:                       1.723132
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.769231
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.25
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.578838
+	Number of local maximums:   26
+	Average local minimum:      0.581462
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $8947.084700641799
+---------------------------------------------------------------------------

@@ -154,3 +154,7 @@ Random---Random now has $9211.598890590498
 Random---Random has bought ASTR for $0.0636
 Random---Random now has $9211.598890590498
 ---------------------------------------------------------------------------
+[2022-06-02 23:01:28] SOLD
+Random---Random has sold ASTR for $0.0636. Profit was -0.52%.
+Random---Random now has $9163.698576359428
+---------------------------------------------------------------------------
