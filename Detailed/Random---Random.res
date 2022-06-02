@@ -7566,3 +7566,46 @@ Is init: True
 Profit was -0.704006746914045%.
 Random---Random now has $6781.142430537483
 ---------------------------------------------------------------------------
+[2022-06-02 03:51:03] BUY
+Random---Random has bought: 
+Name: RENUSD
+Altname: RENUSD
+Wsname: REN/USD
+Base:
+ 	Name: REN
+	Altname: REN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (RENUSD):
+	Current:                    0.1412
+	Maximum:                    7.087172
+	Minimum:                    5.882353
+	Variance:                   0.17
+	Mean:                       6.458711
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.154112
+	Number of local maximums:   26
+	Average local minimum:      0.154177
+	Number of local minimums:   26
+Is init: True
+
+Random---Random now has $6781.142430537483
+---------------------------------------------------------------------------
