@@ -1102,3 +1102,7 @@ Random---Always now has $4784.133264261713
 Random---Always has sold BADGER for $5.72. Profit was -0.52%.
 Random---Always now has $4759.255771287551
 ---------------------------------------------------------------------------
+[2022-06-02 04:12:02] BUY
+Random---Always has bought REQ for $0.1299
+Random---Always now has $4759.255771287551
+---------------------------------------------------------------------------
