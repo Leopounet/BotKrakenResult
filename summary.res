@@ -1,4 +1,4 @@
-[2022-06-02 23:39:53] SUMMARY
+[2022-06-02 23:42:50] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CRVUSD
-	Altname: CRVUSD
-	Wsname: CRV/USD
-	Base:
-	 	Name: CRV
-		Altname: CRV
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (CRVUSD):
-		Current:                    1.261
-		Maximum:                    0.831947
-		Minimum:                    0.686342
-		Variance:                   0.175017
-		Mean:                       0.76566
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.428571
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.625
-		Is falling:                 True
-		Current fall duration:      22
-		Trending downwards:         True
-		Average local maximum:      1.293667
-		Number of local maximums:   21
-		Average local minimum:      1.302
-		Number of local minimums:   24
-	Is init: True
+	None
 Wins: 0
-Losses: 30
-Total points: -16.609204154095583%
-Wallet: 8465.570522252803
+Losses: 31
+Total points: -17.129204154095582%
+Wallet: 8421.549555537089
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
