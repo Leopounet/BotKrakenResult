@@ -15779,3 +15779,46 @@ Is init: True
 
 Random---Always now has $3918.521444733188
 ---------------------------------------------------------------------------
+[2022-06-02 08:46:19] SOLD
+Random---Always has sold: 
+Name: COMPUSD
+Altname: COMPUSD
+Wsname: COMP/USD
+Base:
+ 	Name: COMP
+	Altname: COMP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (COMPUSD):
+	Current:                    58.0
+	Maximum:                    0.017809
+	Minimum:                    0.014459
+	Variance:                   0.188115
+	Mean:                       0.015973
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.625
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.428571
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      62.818125
+	Number of local maximums:   32
+	Average local minimum:      62.609643
+	Number of local minimums:   28
+Is init: True
+Profit was -0.52%.
+Random---Always now has $3898.1451332205756
+---------------------------------------------------------------------------
