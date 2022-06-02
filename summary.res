@@ -1,4 +1,4 @@
-[2022-06-02 23:16:12] SUMMARY
+[2022-06-02 23:19:11] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ATOMUSD
-	Altname: ATOMUSD
-	Wsname: ATOM/USD
-	Base:
-	 	Name: ATOM
-		Altname: ATOM
-		decimals: 8
-		displayed_decimals: 6
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.15
-	Data about this pair of assets (ATOMUSD):
-		Current:                    9.6245
-		Maximum:                    0.108891
-		Minimum:                    0.093545
-		Variance:                   0.140926
-		Mean:                       0.101907
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.9375
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.285714
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      9.830063
-		Number of local maximums:   16
-		Average local minimum:      9.694348
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 0
-Losses: 26
-Total points: -14.529204154095583%
-Wallet: 8643.967504379785
+Losses: 27
+Total points: -15.049204154095582%
+Wallet: 8599.01887335701
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KINUSD
+	Altname: KINUSD
+	Wsname: KIN/USD
+	Base:
+	 	Name: KIN
+		Altname: KIN
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 250000
+	Data about this pair of assets (KINUSD):
+		Current:                    1.5e-05
+		Maximum:                    72411.296162
+		Minimum:                    67704.807041
+		Variance:                   0.064997
+		Mean:                       70485.894421
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.823529
+		Is ascending:               True
+		Current ascension duration: 11
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.1875
+		Is falling:                 True
+		Current fall duration:      8
+		Trending downwards:         False
+		Average local maximum:      1.4e-05
+		Number of local maximums:   34
+		Average local minimum:      1.4e-05
+		Number of local minimums:   32
+	Is init: True
 Wins: 1
 Losses: 21
 Total points: -9.751121869963816%
