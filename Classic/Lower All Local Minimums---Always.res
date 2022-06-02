@@ -1698,3 +1698,7 @@ Lower All Local Minimums---Always now has $3992.912515811722
 Lower All Local Minimums---Always has bought RARI for $2.93
 Lower All Local Minimums---Always now has $3992.912515811722
 ---------------------------------------------------------------------------
+[2022-06-02 11:45:15] SOLD
+Lower All Local Minimums---Always has sold RARI for $3.0. Profit was 1.8690784982935065%.
+Lower All Local Minimums---Always now has $4067.5431851004296
+---------------------------------------------------------------------------
