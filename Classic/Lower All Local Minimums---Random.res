@@ -950,3 +950,7 @@ Lower All Local Minimums---Random now has $5636.816890419007
 Lower All Local Minimums---Random has sold GST for $0.879. Profit was 4.24758045292014%.
 Lower All Local Minimums---Random now has $5876.245222823346
 ---------------------------------------------------------------------------
+[2022-06-02 08:10:53] BUY
+Lower All Local Minimums---Random has bought RUNE for $2.682
+Lower All Local Minimums---Random now has $5876.245222823346
+---------------------------------------------------------------------------
