@@ -142,3 +142,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9115.237466546763
 Random---Twenty-four hours or ten percent decreasing has sold WOO for $0.1608. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9067.83823172072
 ---------------------------------------------------------------------------
+[2022-06-02 22:28:59] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RLC for $0.9017
+Random---Twenty-four hours or ten percent decreasing now has $9067.83823172072
+---------------------------------------------------------------------------

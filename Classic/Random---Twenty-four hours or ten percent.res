@@ -142,3 +142,7 @@ Random---Twenty-four hours or ten percent now has $9234.6829116646
 Random---Twenty-four hours or ten percent has sold SUPER for $0.2024. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $9186.662560523944
 ---------------------------------------------------------------------------
+[2022-06-02 22:28:59] BUY
+Random---Twenty-four hours or ten percent has bought SPELL for $0.001258
+Random---Twenty-four hours or ten percent now has $9186.662560523944
+---------------------------------------------------------------------------
