@@ -118,3 +118,7 @@ Random---Twenty-four hours or ten percent now has $9328.01358849184
 Random---Twenty-four hours or ten percent has sold OMG for $2.541997. Profit was 0.0371394268711005%.
 Random---Twenty-four hours or ten percent now has $9331.477959277065
 ---------------------------------------------------------------------------
+[2022-06-02 22:11:15] BUY
+Random---Twenty-four hours or ten percent has bought RNDR for $0.7544
+Random---Twenty-four hours or ten percent now has $9331.477959277065
+---------------------------------------------------------------------------

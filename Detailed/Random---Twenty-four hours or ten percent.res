@@ -1288,3 +1288,46 @@ Is init: True
 Profit was 0.0371394268711005%.
 Random---Twenty-four hours or ten percent now has $9331.477959277065
 ---------------------------------------------------------------------------
+[2022-06-02 22:11:15] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: RNDRUSD
+Altname: RNDRUSD
+Wsname: RNDR/USD
+Base:
+ 	Name: RNDR
+	Altname: RNDR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (RNDRUSD):
+	Current:                    0.7544
+	Maximum:                    1.375705
+	Minimum:                    1.116196
+	Variance:                   0.188637
+	Mean:                       1.263424
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.444444
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.612903
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      0.805119
+	Number of local maximums:   27
+	Average local minimum:      0.791774
+	Number of local minimums:   31
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $9331.477959277065
+---------------------------------------------------------------------------
