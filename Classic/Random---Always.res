@@ -54,3 +54,7 @@ Random---Always now has $9640.518297642357
 Random---Always has sold PSTAKE for $0.2391. Profit was -0.52%.
 Random---Always now has $9590.387602494617
 ---------------------------------------------------------------------------
+[2022-06-02 21:23:28] BUY
+Random---Always has bought RNDR for $0.7553
+Random---Always now has $9590.387602494617
+---------------------------------------------------------------------------

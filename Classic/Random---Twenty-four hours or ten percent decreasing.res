@@ -54,3 +54,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9692.027987846315
 Random---Twenty-four hours or ten percent decreasing has sold SRM for $1.065. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9641.629442309515
 ---------------------------------------------------------------------------
+[2022-06-02 21:23:28] BUY
+Random---Twenty-four hours or ten percent decreasing has bought YFI for $7485.0
+Random---Twenty-four hours or ten percent decreasing now has $9641.629442309515
+---------------------------------------------------------------------------
