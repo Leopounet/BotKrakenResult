@@ -1106,3 +1106,7 @@ Lower All Local Minimums---Random now has $5990.308205054946
 Lower All Local Minimums---Random has bought RARI for $2.93
 Lower All Local Minimums---Random now has $5990.308205054946
 ---------------------------------------------------------------------------
+[2022-06-02 11:26:21] SOLD
+Lower All Local Minimums---Random has sold RARI for $2.93. Profit was -0.52%.
+Lower All Local Minimums---Random now has $5959.15860238866
+---------------------------------------------------------------------------
