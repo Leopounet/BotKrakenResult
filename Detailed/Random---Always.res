@@ -13973,3 +13973,46 @@ Is init: True
 
 Random---Always now has $4270.609868978952
 ---------------------------------------------------------------------------
+[2022-06-02 06:38:47] SOLD
+Random---Always has sold: 
+Name: GHSTUSD
+Altname: GHSTUSD
+Wsname: GHST/USD
+Base:
+ 	Name: GHST
+	Altname: GHST
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (GHSTUSD):
+	Current:                    1.4996
+	Maximum:                    0.795039
+	Minimum:                    0.656987
+	Variance:                   0.173642
+	Mean:                       0.668059
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.136364
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.869565
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         True
+	Average local maximum:      1.494086
+	Number of local maximums:   22
+	Average local minimum:      1.499461
+	Number of local minimums:   23
+Is init: True
+Profit was -0.52%.
+Random---Always now has $4248.402697660262
+---------------------------------------------------------------------------
