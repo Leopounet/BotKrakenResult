@@ -1750,3 +1750,7 @@ Lower All Local Minimums---Always now has $4009.4340953887395
 Lower All Local Minimums---Always has sold BNC for $0.333. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3988.585038092718
 ---------------------------------------------------------------------------
+[2022-06-02 12:25:07] BUY
+Lower All Local Minimums---Always has bought QNT for $66.79
+Lower All Local Minimums---Always now has $3988.585038092718
+---------------------------------------------------------------------------
