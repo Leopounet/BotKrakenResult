@@ -13199,3 +13199,46 @@ Is init: True
 
 Random---Random now has $4921.500240675568
 ---------------------------------------------------------------------------
+[2022-06-02 14:09:38] SOLD
+Random---Random has sold: 
+Name: AXSUSD
+Altname: AXSUSD
+Wsname: AXS/USD
+Base:
+ 	Name: AXS
+	Altname: AXS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (AXSUSD):
+	Current:                    20.149
+	Maximum:                    0.050682
+	Minimum:                    0.036611
+	Variance:                   0.277623
+	Mean:                       0.044642
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.04
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.411765
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      22.34992
+	Number of local maximums:   25
+	Average local minimum:      22.462412
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Random now has $4895.908439424055
+---------------------------------------------------------------------------
