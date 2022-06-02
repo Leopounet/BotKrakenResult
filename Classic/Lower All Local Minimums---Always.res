@@ -1126,3 +1126,7 @@ Lower All Local Minimums---Always now has $4743.700859787718
 Lower All Local Minimums---Always has sold RUNE for $2.662. Profit was 1.0055530129671957%.
 Lower All Local Minimums---Always now has $4791.401286709464
 ---------------------------------------------------------------------------
+[2022-06-02 04:29:53] BUY
+Lower All Local Minimums---Always has bought ICP for $7.492
+Lower All Local Minimums---Always now has $4791.401286709464
+---------------------------------------------------------------------------
