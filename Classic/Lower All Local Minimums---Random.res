@@ -742,3 +742,7 @@ Lower All Local Minimums---Random now has $5959.124373235073
 Lower All Local Minimums---Random has sold ICP for $7.553. Profit was 0.29420181526961064%.
 Lower All Local Minimums---Random now has $5976.656225315304
 ---------------------------------------------------------------------------
+[2022-06-02 04:39:14] BUY
+Lower All Local Minimums---Random has bought YFI for $7332.0
+Lower All Local Minimums---Random now has $5976.656225315304
+---------------------------------------------------------------------------

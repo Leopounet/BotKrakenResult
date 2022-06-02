@@ -12253,3 +12253,46 @@ Is init: True
 
 Variance Lower All Local Minimums---Always now has $4728.052480971311
 ---------------------------------------------------------------------------
+[2022-06-02 04:39:14] SOLD
+Variance Lower All Local Minimums---Always has sold: 
+Name: USTUSD
+Altname: USTUSD
+Wsname: UST/USD
+Base:
+ 	Name: UST
+	Altname: UST
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 100
+Data about this pair of assets (USTUSD):
+	Current:                    0.01495
+	Maximum:                    75.075075
+	Minimum:                    36.363636
+	Variance:                   0.515636
+	Mean:                       50.546851
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.125
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.88
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.019945
+	Number of local maximums:   24
+	Average local minimum:      0.020783
+	Number of local minimums:   25
+Is init: True
+Profit was -0.4%.
+Variance Lower All Local Minimums---Always now has $4709.140271047426
+---------------------------------------------------------------------------
