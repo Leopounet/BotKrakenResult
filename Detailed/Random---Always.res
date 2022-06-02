@@ -13027,3 +13027,46 @@ Is init: True
 
 Random---Always now has $4424.036040630764
 ---------------------------------------------------------------------------
+[2022-06-02 05:33:10] SOLD
+Random---Always has sold: 
+Name: BANDUSD
+Altname: BANDUSD
+Wsname: BAND/USD
+Base:
+ 	Name: BAND
+	Altname: BAND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (BANDUSD):
+	Current:                    1.619
+	Maximum:                    0.625
+	Minimum:                    0.542888
+	Variance:                   0.131379
+	Mean:                       0.573947
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          6.6
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               1.363636
+	Is falling:                 True
+	Current fall duration:      20
+	Trending downwards:         True
+	Average local maximum:      1.744733
+	Number of local maximums:   15
+	Average local minimum:      1.761939
+	Number of local minimums:   33
+Is init: True
+Profit was -0.52%.
+Random---Always now has $4401.0310532194835
+---------------------------------------------------------------------------
