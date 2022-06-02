@@ -1098,3 +1098,7 @@ Lower All Local Minimums---Random now has $6021.62063234313
 Lower All Local Minimums---Random has bought QNT for $66.84
 Lower All Local Minimums---Random now has $6021.62063234313
 ---------------------------------------------------------------------------
+[2022-06-02 11:17:12] SOLD
+Lower All Local Minimums---Random has sold QNT for $66.84. Profit was -0.52%.
+Lower All Local Minimums---Random now has $5990.308205054946
+---------------------------------------------------------------------------
