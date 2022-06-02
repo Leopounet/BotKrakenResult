@@ -1822,3 +1822,7 @@ Lower All Local Minimums---Always now has $3824.496971620204
 Lower All Local Minimums---Always has sold MINA for $0.845. Profit was -0.8737735849056589%.
 Lower All Local Minimums---Always now has $3791.07952732667
 ---------------------------------------------------------------------------
+[2022-06-02 13:21:18] BUY
+Lower All Local Minimums---Always has bought ANT for $1.797
+Lower All Local Minimums---Always now has $3791.07952732667
+---------------------------------------------------------------------------
