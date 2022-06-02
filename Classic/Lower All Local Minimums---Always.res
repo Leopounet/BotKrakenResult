@@ -1286,3 +1286,7 @@ Lower All Local Minimums---Always now has $4491.628115353745
 Lower All Local Minimums---Always has sold RUNE for $2.674. Profit was -0.031461856444949365%.
 Lower All Local Minimums---Always now has $4490.214965764051
 ---------------------------------------------------------------------------
+[2022-06-02 06:29:53] BUY
+Lower All Local Minimums---Always has bought GST for $0.841
+Lower All Local Minimums---Always now has $4490.214965764051
+---------------------------------------------------------------------------
