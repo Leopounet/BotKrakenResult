@@ -213,3 +213,46 @@ Is init: True
 
 Random---Random now has $9908.208
 ---------------------------------------------------------------------------
+[2022-06-02 20:55:58] SOLD
+Random---Random has sold: 
+Name: STEPUSD
+Altname: STEPUSD
+Wsname: STEP/USD
+Base:
+ 	Name: STEP
+	Altname: STEP
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 15
+Data about this pair of assets (STEPUSD):
+	Current:                    0.093
+	Maximum:                    12.254902
+	Minimum:                    10.040161
+	Variance:                   0.180723
+	Mean:                       10.912842
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.727273
+	Is ascending:               True
+	Current ascension duration: 23
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.210526
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.091691
+	Number of local maximums:   33
+	Average local minimum:      0.0924
+	Number of local minimums:   19
+Is init: True
+Profit was -0.19741935483871442%.
+Random---Random now has $9888.647279690322
+---------------------------------------------------------------------------

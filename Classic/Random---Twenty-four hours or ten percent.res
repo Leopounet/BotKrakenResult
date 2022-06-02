@@ -18,3 +18,7 @@ Random---Twenty-four hours or ten percent now has $9906.732067893574
 Random---Twenty-four hours or ten percent has bought KSM for $72.69
 Random---Twenty-four hours or ten percent now has $9906.732067893574
 ---------------------------------------------------------------------------
+[2022-06-02 20:55:58] SOLD
+Random---Twenty-four hours or ten percent has sold KSM for $72.69. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $9855.217061140527
+---------------------------------------------------------------------------

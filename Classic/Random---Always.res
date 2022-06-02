@@ -18,3 +18,7 @@ Random---Always now has $9896.2704
 Random---Always has bought OXY for $0.0897
 Random---Always now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-02 20:55:58] SOLD
+Random---Always has sold OXY for $0.0897. Profit was -0.52%.
+Random---Always now has $9844.80979392
+---------------------------------------------------------------------------
