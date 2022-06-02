@@ -557,3 +557,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $9702.273744472373
 ---------------------------------------------------------------------------
+[2022-06-02 21:20:28] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: TRIBEUSD
+Altname: TRIBEUSD
+Wsname: TRIBE/USD
+Base:
+ 	Name: TRIBE
+	Altname: TRIBE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (TRIBEUSD):
+	Current:                    0.2399
+	Maximum:                    4.87567
+	Minimum:                    3.573981
+	Variance:                   0.266976
+	Mean:                       4.22352
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.6
+	Is ascending:               True
+	Current ascension duration: 40
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.625
+	Is falling:                 True
+	Current fall duration:      26
+	Trending downwards:         True
+	Average local maximum:      0.2401
+	Number of local maximums:   15
+	Average local minimum:      0.244837
+	Number of local minimums:   8
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $9651.821921001118
+---------------------------------------------------------------------------

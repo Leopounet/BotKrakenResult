@@ -46,3 +46,7 @@ Random---Random now has $9786.072737003986
 Random---Random has sold RUNE for $2.796. Profit was -0.52%.
 Random---Random now has $9735.185158771565
 ---------------------------------------------------------------------------
+[2022-06-02 21:20:28] BUY
+Random---Random has bought ASTR for $0.0618
+Random---Random now has $9735.185158771565
+---------------------------------------------------------------------------

@@ -514,3 +514,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $9735.185158771565
 ---------------------------------------------------------------------------
+[2022-06-02 21:20:28] BUY
+Random---Random has bought: 
+Name: ASTRUSD
+Altname: ASTRUSD
+Wsname: ASTR/USD
+Base:
+ 	Name: ASTR
+	Altname: ASTR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 100
+Data about this pair of assets (ASTRUSD):
+	Current:                    0.0618
+	Maximum:                    17.064846
+	Minimum:                    14.084507
+	Variance:                   0.174648
+	Mean:                       15.89823
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.387097
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.657143
+	Is falling:                 True
+	Current fall duration:      20
+	Trending downwards:         True
+	Average local maximum:      0.063116
+	Number of local maximums:   31
+	Average local minimum:      0.06296
+	Number of local minimums:   35
+Is init: True
+
+Random---Random now has $9735.185158771565
+---------------------------------------------------------------------------
