@@ -1,4 +1,4 @@
-[2022-06-02 21:56:30] SUMMARY
+[2022-06-02 21:59:28] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: DYDXUSD
+	Altname: DYDXUSD
+	Wsname: DYDX/USD
+	Base:
+	 	Name: DYDX
+		Altname: DYDX
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2.5
+	Data about this pair of assets (DYDXUSD):
+		Current:                    1.841
+		Maximum:                    0.558036
+		Minimum:                    0.477783
+		Variance:                   0.143813
+		Mean:                       0.522203
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.130435
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.875
+		Is falling:                 True
+		Current fall duration:      36
+		Trending downwards:         True
+		Average local maximum:      1.931391
+		Number of local maximums:   23
+		Average local minimum:      1.931708
+		Number of local minimums:   24
+	Is init: True
 Wins: 0
 Losses: 13
 Total points: -7.288700906344413%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.921
+		Maximum:                    1.109878
+		Minimum:                    0.998004
+		Variance:                   0.100798
+		Mean:                       1.052256
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.363636
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.807692
+		Is falling:                 True
+		Current fall duration:      35
+		Trending downwards:         True
+		Average local maximum:      0.945152
+		Number of local maximums:   33
+		Average local minimum:      0.962577
+		Number of local minimums:   26
+	Is init: True
 Wins: 1
 Losses: 12
 Total points: -5.773134190690776%
