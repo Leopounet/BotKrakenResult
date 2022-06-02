@@ -870,3 +870,7 @@ Random---Random now has $6173.793760662364
 Random---Random has sold SUPER for $0.2056. Profit was -0.52%.
 Random---Random now has $6141.690033106919
 ---------------------------------------------------------------------------
+[2022-06-02 06:59:36] BUY
+Random---Random has bought IDEX for $0.071
+Random---Random now has $6141.690033106919
+---------------------------------------------------------------------------

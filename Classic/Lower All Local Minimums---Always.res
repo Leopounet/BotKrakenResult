@@ -1326,3 +1326,7 @@ Lower All Local Minimums---Always now has $4550.387827302202
 Lower All Local Minimums---Always has sold CTSI for $0.1915. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4526.72581060023
 ---------------------------------------------------------------------------
+[2022-06-02 06:59:36] BUY
+Lower All Local Minimums---Always has bought ASTR for $0.0593
+Lower All Local Minimums---Always now has $4526.72581060023
+---------------------------------------------------------------------------
