@@ -1622,3 +1622,7 @@ Lower All Local Minimums---Always now has $4211.680432427249
 Lower All Local Minimums---Always has sold RUNE for $2.627. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4189.779694178627
 ---------------------------------------------------------------------------
+[2022-06-02 10:46:16] BUY
+Lower All Local Minimums---Always has bought QNT for $66.77
+Lower All Local Minimums---Always now has $4189.779694178627
+---------------------------------------------------------------------------
