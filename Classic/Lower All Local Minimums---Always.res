@@ -1786,3 +1786,7 @@ Lower All Local Minimums---Always now has $3906.2673369454096
 Lower All Local Minimums---Always has bought QNT for $66.79
 Lower All Local Minimums---Always now has $3906.2673369454096
 ---------------------------------------------------------------------------
+[2022-06-02 12:54:21] SOLD
+Lower All Local Minimums---Always has sold QNT for $66.79. Profit was -0.52%.
+Lower All Local Minimums---Always now has $3885.9547467932935
+---------------------------------------------------------------------------
