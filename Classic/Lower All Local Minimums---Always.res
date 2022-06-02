@@ -1478,3 +1478,7 @@ Lower All Local Minimums---Always now has $4448.722441986351
 Lower All Local Minimums---Always has sold CTSI for $0.1941. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4425.589085288022
 ---------------------------------------------------------------------------
+[2022-06-02 08:55:33] BUY
+Lower All Local Minimums---Always has bought 1INCH for $0.918
+Lower All Local Minimums---Always now has $4425.589085288022
+---------------------------------------------------------------------------
