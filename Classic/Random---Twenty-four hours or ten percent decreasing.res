@@ -130,3 +130,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9191.325121697293
 Random---Twenty-four hours or ten percent decreasing has bought MKR for $1202.0
 Random---Twenty-four hours or ten percent decreasing now has $9191.325121697293
 ---------------------------------------------------------------------------
+[2022-06-02 22:20:08] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MKR for $1198.3. Profit was -0.8278202995008384%.
+Random---Twenty-four hours or ten percent decreasing now has $9115.237466546763
+---------------------------------------------------------------------------

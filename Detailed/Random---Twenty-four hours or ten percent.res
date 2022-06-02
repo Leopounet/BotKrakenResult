@@ -1417,3 +1417,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $9282.954273888823
 ---------------------------------------------------------------------------
+[2022-06-02 22:20:08] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: RBCUSD
+Altname: RBCUSD
+Wsname: RBC/USD
+Base:
+ 	Name: RBC
+	Altname: RBC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (RBCUSD):
+	Current:                    0.092
+	Maximum:                    12.938284
+	Minimum:                    10.090817
+	Variance:                   0.220081
+	Mean:                       11.469708
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.428571
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.625
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         False
+	Average local maximum:      0.087776
+	Number of local maximums:   21
+	Average local minimum:      0.087112
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $9234.6829116646
+---------------------------------------------------------------------------

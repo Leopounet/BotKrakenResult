@@ -130,3 +130,7 @@ Random---Twenty-four hours or ten percent now has $9282.954273888823
 Random---Twenty-four hours or ten percent has bought RBC for $0.092
 Random---Twenty-four hours or ten percent now has $9282.954273888823
 ---------------------------------------------------------------------------
+[2022-06-02 22:20:08] SOLD
+Random---Twenty-four hours or ten percent has sold RBC for $0.092. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $9234.6829116646
+---------------------------------------------------------------------------
