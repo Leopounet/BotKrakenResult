@@ -1806,3 +1806,7 @@ Lower All Local Minimums---Always now has $3864.5841484082775
 Lower All Local Minimums---Always has sold QNT for $66.77. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3844.4883108365543
 ---------------------------------------------------------------------------
+[2022-06-02 13:09:19] BUY
+Lower All Local Minimums---Always has bought ASTR for $0.0599
+Lower All Local Minimums---Always now has $3844.4883108365543
+---------------------------------------------------------------------------
