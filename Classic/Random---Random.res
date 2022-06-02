@@ -1030,3 +1030,7 @@ Random---Random now has $5674.0369313099145
 Random---Random has sold ROOK for $37.53. Profit was -0.52%.
 Random---Random now has $5644.531939267103
 ---------------------------------------------------------------------------
+[2022-06-02 09:45:18] BUY
+Random---Random has bought PSTAKE for $0.2391
+Random---Random now has $5644.531939267103
+---------------------------------------------------------------------------
