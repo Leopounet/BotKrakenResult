@@ -1174,3 +1174,7 @@ Recent Minimum---Random now has $4697.260846361311
 Recent Minimum---Random has sold BAND for $1.665. Profit was -0.52%.
 Recent Minimum---Random now has $4672.835089960233
 ---------------------------------------------------------------------------
+[2022-06-02 13:18:19] BUY
+Recent Minimum---Random has bought BAND for $1.665
+Recent Minimum---Random now has $4672.835089960233
+---------------------------------------------------------------------------
