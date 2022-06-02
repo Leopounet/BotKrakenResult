@@ -206,3 +206,7 @@ Random---Twenty-four hours or ten percent now has $8900.559860198462
 Random---Twenty-four hours or ten percent has sold PHA for $0.1283. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8854.27694892543
 ---------------------------------------------------------------------------
+[2022-06-02 23:16:12] BUY
+Random---Twenty-four hours or ten percent has bought SPELL for $0.001277
+Random---Twenty-four hours or ten percent now has $8854.27694892543
+---------------------------------------------------------------------------

@@ -206,3 +206,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8758.262630090014
 Random---Twenty-four hours or ten percent decreasing has sold BOND for $3.518. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8712.719664413546
 ---------------------------------------------------------------------------
+[2022-06-02 23:16:12] BUY
+Random---Twenty-four hours or ten percent decreasing has bought UNI for $5.31
+Random---Twenty-four hours or ten percent decreasing now has $8712.719664413546
+---------------------------------------------------------------------------

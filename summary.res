@@ -1,4 +1,4 @@
-[2022-06-02 23:13:16] SUMMARY
+[2022-06-02 23:16:12] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ATOMUSD
+	Altname: ATOMUSD
+	Wsname: ATOM/USD
+	Base:
+	 	Name: ATOM
+		Altname: ATOM
+		decimals: 8
+		displayed_decimals: 6
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.15
+	Data about this pair of assets (ATOMUSD):
+		Current:                    9.6245
+		Maximum:                    0.108891
+		Minimum:                    0.093545
+		Variance:                   0.140926
+		Mean:                       0.101907
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.9375
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.285714
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      9.830063
+		Number of local maximums:   16
+		Average local minimum:      9.694348
+		Number of local minimums:   21
+	Is init: True
 Wins: 0
 Losses: 26
 Total points: -14.529204154095583%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: RAREUSD
-	Altname: RAREUSD
-	Wsname: RARE/USD
-	Base:
-	 	Name: RARE
-		Altname: RARE
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (RAREUSD):
-		Current:                    0.2551
-		Maximum:                    4.191115
-		Minimum:                    3.388682
-		Variance:                   0.191461
-		Mean:                       3.851174
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.2
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.8125
-		Is falling:                 True
-		Current fall duration:      18
-		Trending downwards:         True
-		Average local maximum:      0.26
-		Number of local maximums:   15
-		Average local minimum:      0.265212
-		Number of local minimums:   16
-	Is init: True
+	None
 Wins: 1
-Losses: 20
-Total points: -9.231121869963816%
-Wallet: 9116.047343762359
+Losses: 21
+Total points: -9.751121869963816%
+Wallet: 9068.643897574795
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
