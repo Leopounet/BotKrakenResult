@@ -1,4 +1,4 @@
-[2022-06-02 13:39:19] SUMMARY
+[2022-06-02 13:42:19] SUMMARY
 Most losses: 
 Name: Recent Minimum---Always
 BuyStrategy description: Looks for the asset which is closer to its previous local minimum.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BANDUSD
-	Altname: BANDUSD
-	Wsname: BAND/USD
-	Base:
-	 	Name: BAND
-		Altname: BAND
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (BANDUSD):
-		Current:                    1.613
-		Maximum:                    0.625
-		Minimum:                    0.542888
-		Variance:                   0.131379
-		Mean:                       0.579329
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          6.4
-		Is ascending:               True
-		Current ascension duration: 16
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.40625
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.7492
-		Number of local maximums:   15
-		Average local minimum:      1.742031
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 1
-Losses: 230
-Total points: -123.32488842076222%
-Wallet: 2901.6684246912714
+Losses: 231
+Total points: -123.84488842076222%
+Wallet: 2886.5797488828766
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ACHUSD
-	Altname: ACHUSD
-	Wsname: ACH/USD
-	Base:
-	 	Name: ACH
-		Altname: ACH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 250
-	Data about this pair of assets (ACHUSD):
-		Current:                    0.0159
-		Maximum:                    67.204301
-		Minimum:                    11.764706
-		Variance:                   0.824941
-		Mean:                       55.457639
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.588235
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.666667
-		Is falling:                 True
-		Current fall duration:      13
-		Trending downwards:         True
-		Average local maximum:      0.021859
-		Number of local maximums:   17
-		Average local minimum:      0.025559
-		Number of local minimums:   9
-	Is init: True
+	None
 Wins: 26
-Losses: 205
-Total points: -30.33339144341347%
-Wallet: 6465.662197408828
+Losses: 206
+Total points: -30.853391443413468%
+Wallet: 6432.040753982303
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance Lower All Local Minimums---Ten Percent
