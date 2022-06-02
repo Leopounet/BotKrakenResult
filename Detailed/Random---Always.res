@@ -16381,3 +16381,46 @@ Is init: True
 
 Random---Always now has $3783.030709836483
 ---------------------------------------------------------------------------
+[2022-06-02 09:28:49] SOLD
+Random---Always has sold: 
+Name: ALCXUSD
+Altname: ALCXUSD
+Wsname: ALCX/USD
+Base:
+ 	Name: ALCX
+	Altname: ALCX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (ALCXUSD):
+	Current:                    28.92
+	Maximum:                    0.03459
+	Minimum:                    0.029665
+	Variance:                   0.142391
+	Mean:                       0.031629
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.615385
+	Is ascending:               True
+	Current ascension duration: 97
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.571429
+	Is falling:                 True
+	Current fall duration:      49
+	Trending downwards:         True
+	Average local maximum:      31.243077
+	Number of local maximums:   13
+	Average local minimum:      31.862857
+	Number of local minimums:   7
+Is init: True
+Profit was -0.52%.
+Random---Always now has $3763.358950145333
+---------------------------------------------------------------------------
