@@ -74,3 +74,7 @@ Random---Random now has $9584.104619669894
 Random---Random has bought LDO for $1.099
 Random---Random now has $9584.104619669894
 ---------------------------------------------------------------------------
+[2022-06-02 21:50:35] SOLD
+Random---Random has sold LDO for $1.099. Profit was -0.52%.
+Random---Random now has $9534.26727564761
+---------------------------------------------------------------------------
