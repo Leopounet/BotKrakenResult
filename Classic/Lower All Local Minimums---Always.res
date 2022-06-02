@@ -1878,3 +1878,7 @@ Lower All Local Minimums---Always now has $3674.3248883001265
 Lower All Local Minimums---Always has sold BAND for $1.613. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3655.2183988809657
 ---------------------------------------------------------------------------
+[2022-06-02 14:03:29] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.661
+Lower All Local Minimums---Always now has $3655.2183988809657
+---------------------------------------------------------------------------
