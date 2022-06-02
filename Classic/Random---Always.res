@@ -1094,3 +1094,7 @@ Random---Always now has $4809.140796403009
 Random---Always has sold GNO for $192.24. Profit was -0.52%.
 Random---Always now has $4784.133264261713
 ---------------------------------------------------------------------------
+[2022-06-02 04:06:07] BUY
+Random---Always has bought BADGER for $5.72
+Random---Always now has $4784.133264261713
+---------------------------------------------------------------------------
