@@ -1030,3 +1030,7 @@ Random---Always now has $5064.170544744506
 Random---Always has sold TRIBE for $0.2228. Profit was -0.52%.
 Random---Always now has $5037.836857911834
 ---------------------------------------------------------------------------
+[2022-06-02 03:17:49] BUY
+Random---Always has bought REPV2 for $9.5
+Random---Always now has $5037.836857911834
+---------------------------------------------------------------------------
