@@ -198,3 +198,7 @@ Random---Twenty-four hours or ten percent now has $8947.084700641799
 Random---Twenty-four hours or ten percent has sold SBR for $0.00949. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8900.559860198462
 ---------------------------------------------------------------------------
+[2022-06-02 23:10:19] BUY
+Random---Twenty-four hours or ten percent has bought PHA for $0.1283
+Random---Twenty-four hours or ten percent now has $8900.559860198462
+---------------------------------------------------------------------------

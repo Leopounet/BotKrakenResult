@@ -1,4 +1,4 @@
-[2022-06-02 23:07:22] SUMMARY
+[2022-06-02 23:10:19] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: MOVRUSD
+	Altname: MOVRUSD
+	Wsname: MOVR/USD
+	Base:
+	 	Name: MOVR
+		Altname: MOVR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.2
+	Data about this pair of assets (MOVRUSD):
+		Current:                    21.602
+		Maximum:                    0.048262
+		Minimum:                    0.042885
+		Variance:                   0.111399
+		Mean:                       0.045332
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.272727
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.96
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      22.055094
+		Number of local maximums:   33
+		Average local minimum:      21.918956
+		Number of local minimums:   25
+	Is init: True
 Wins: 0
 Losses: 25
 Total points: -14.009204154095583%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: NMRUSD
-	Altname: NMRUSD
-	Wsname: NMR/USD
-	Base:
-	 	Name: NMR
-		Altname: NMR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.25
-	Data about this pair of assets (NMRUSD):
-		Current:                    12.36
-		Maximum:                    0.089286
-		Minimum:                    0.076628
-		Variance:                   0.141762
-		Mean:                       0.081411
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.5
-		Is ascending:               True
-		Current ascension duration: 16
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               6.0
-		Is falling:                 True
-		Current fall duration:      328
-		Trending downwards:         True
-		Average local maximum:      12.451667
-		Number of local maximums:   12
-		Average local minimum:      12.636667
-		Number of local minimums:   6
-	Is init: True
+	None
 Wins: 1
-Losses: 19
-Total points: -8.711121869963817%
-Wallet: 9163.698576359428
+Losses: 20
+Total points: -9.231121869963816%
+Wallet: 9116.047343762359
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
