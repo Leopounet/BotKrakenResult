@@ -1202,3 +1202,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9287.665706564863
 ---------------------------------------------------------------------------
+[2022-06-02 22:05:21] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: REQUSD
+Altname: REQUSD
+Wsname: REQ/USD
+Base:
+ 	Name: REQ
+	Altname: REQ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (REQUSD):
+	Current:                    0.09813
+	Maximum:                    10.571942
+	Minimum:                    7.219695
+	Variance:                   0.317089
+	Mean:                       7.755792
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.0
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               9.0
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.123295
+	Number of local maximums:   6
+	Average local minimum:      0.132995
+	Number of local minimums:   2
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $9287.665706564863
+---------------------------------------------------------------------------

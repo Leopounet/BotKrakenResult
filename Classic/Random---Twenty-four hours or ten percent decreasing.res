@@ -110,3 +110,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9336.214019466086
 Random---Twenty-four hours or ten percent decreasing has sold KEEP for $0.23474. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9287.665706564863
 ---------------------------------------------------------------------------
+[2022-06-02 22:05:21] BUY
+Random---Twenty-four hours or ten percent decreasing has bought REQ for $0.09813
+Random---Twenty-four hours or ten percent decreasing now has $9287.665706564863
+---------------------------------------------------------------------------

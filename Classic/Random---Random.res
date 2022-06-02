@@ -94,3 +94,7 @@ Random---Random now has $9484.689085814241
 Random---Random has sold WOO for $0.1608. Profit was -0.52%.
 Random---Random now has $9435.368702568008
 ---------------------------------------------------------------------------
+[2022-06-02 22:05:21] BUY
+Random---Random has bought USDC for $1.0
+Random---Random now has $9435.368702568008
+---------------------------------------------------------------------------

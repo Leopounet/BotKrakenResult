@@ -110,3 +110,7 @@ Random---Twenty-four hours or ten percent now has $9376.7728070887
 Random---Twenty-four hours or ten percent has sold ACH for $0.01869. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $9328.01358849184
 ---------------------------------------------------------------------------
+[2022-06-02 22:05:21] BUY
+Random---Twenty-four hours or ten percent has bought OMG for $2.527913
+Random---Twenty-four hours or ten percent now has $9328.01358849184
+---------------------------------------------------------------------------
