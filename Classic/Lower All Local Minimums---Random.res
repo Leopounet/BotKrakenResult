@@ -622,3 +622,7 @@ Lower All Local Minimums---Random now has $6495.239596884806
 Lower All Local Minimums---Random has sold CTSI for $0.1906. Profit was -0.52%.
 Lower All Local Minimums---Random now has $6461.464350981005
 ---------------------------------------------------------------------------
+[2022-06-02 02:29:02] BUY
+Lower All Local Minimums---Random has bought RUNE for $2.664
+Lower All Local Minimums---Random now has $6461.464350981005
+---------------------------------------------------------------------------
