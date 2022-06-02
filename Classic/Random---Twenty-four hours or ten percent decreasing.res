@@ -86,3 +86,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9492.000796299613
 Random---Twenty-four hours or ten percent decreasing has sold GARI for $0.6172. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9442.642392158856
 ---------------------------------------------------------------------------
+[2022-06-02 21:47:37] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XETC for $22.154
+Random---Twenty-four hours or ten percent decreasing now has $9442.642392158856
+---------------------------------------------------------------------------
