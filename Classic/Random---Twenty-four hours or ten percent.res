@@ -14,3 +14,7 @@ Random---Twenty-four hours or ten percent now has $9958.516352928804
 Random---Twenty-four hours or ten percent has sold WBTC for $30294.2. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $9906.732067893574
 ---------------------------------------------------------------------------
+[2022-06-02 20:52:55] BUY
+Random---Twenty-four hours or ten percent has bought KSM for $72.69
+Random---Twenty-four hours or ten percent now has $9906.732067893574
+---------------------------------------------------------------------------

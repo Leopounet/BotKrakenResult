@@ -14,3 +14,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9948.0
 Random---Twenty-four hours or ten percent decreasing has sold MIR for $0.284. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-02 20:52:55] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RBC for $0.09024
+Random---Twenty-four hours or ten percent decreasing now has $9896.2704
+---------------------------------------------------------------------------
