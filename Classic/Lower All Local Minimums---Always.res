@@ -1590,3 +1590,7 @@ Lower All Local Minimums---Always now has $4321.827144421796
 Lower All Local Minimums---Always has sold RARI for $2.92. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4299.353643270803
 ---------------------------------------------------------------------------
+[2022-06-02 10:22:02] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.64
+Lower All Local Minimums---Always now has $4299.353643270803
+---------------------------------------------------------------------------
