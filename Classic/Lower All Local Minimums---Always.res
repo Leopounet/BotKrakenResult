@@ -974,3 +974,7 @@ Lower All Local Minimums---Always now has $5279.428521088753
 Lower All Local Minimums---Always has sold RUNE for $2.664. Profit was -0.52%.
 Lower All Local Minimums---Always now has $5251.975492779091
 ---------------------------------------------------------------------------
+[2022-06-02 02:35:02] BUY
+Lower All Local Minimums---Always has bought CTSI for $0.1906
+Lower All Local Minimums---Always now has $5251.975492779091
+---------------------------------------------------------------------------
