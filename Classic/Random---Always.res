@@ -1722,3 +1722,7 @@ Random---Always now has $3592.24660295461
 Random---Always has bought RARE for $0.255
 Random---Always now has $3592.24660295461
 ---------------------------------------------------------------------------
+[2022-06-02 12:03:30] SOLD
+Random---Always has sold RARE for $0.255. Profit was -0.52%.
+Random---Always now has $3573.566920619246
+---------------------------------------------------------------------------
