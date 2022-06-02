@@ -1906,3 +1906,7 @@ Variance Lower All Local Minimums---Always now has $6233.95190065646
 Variance Lower All Local Minimums---Always has bought ACH for $0.0152
 Variance Lower All Local Minimums---Always now has $6233.95190065646
 ---------------------------------------------------------------------------
+[2022-06-02 14:24:50] SOLD
+Variance Lower All Local Minimums---Always has sold ACH for $0.0152. Profit was -0.52%.
+Variance Lower All Local Minimums---Always now has $6201.535350773046
+---------------------------------------------------------------------------
