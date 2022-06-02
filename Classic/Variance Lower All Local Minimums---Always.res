@@ -1098,3 +1098,7 @@ Variance Lower All Local Minimums---Always now has $4815.026775430907
 Variance Lower All Local Minimums---Always has bought GST for $0.871
 Variance Lower All Local Minimums---Always now has $4815.026775430907
 ---------------------------------------------------------------------------
+[2022-06-02 04:09:04] SOLD
+Variance Lower All Local Minimums---Always has sold GST for $0.889. Profit was 1.546590126291623%.
+Variance Lower All Local Minimums---Always now has $4889.495504118019
+---------------------------------------------------------------------------

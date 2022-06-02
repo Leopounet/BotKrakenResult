@@ -11823,3 +11823,46 @@ Is init: True
 
 Random---Always now has $4784.133264261713
 ---------------------------------------------------------------------------
+[2022-06-02 04:09:04] SOLD
+Random---Always has sold: 
+Name: BADGERUSD
+Altname: BADGERUSD
+Wsname: BADGER/USD
+Base:
+ 	Name: BADGER
+	Altname: BADGER
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (BADGERUSD):
+	Current:                    5.72
+	Maximum:                    0.175932
+	Minimum:                    0.158028
+	Variance:                   0.10177
+	Mean:                       0.165529
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      28
+	Trending downwards:         True
+	Average local maximum:      6.018913
+	Number of local maximums:   23
+	Average local minimum:      6.072391
+	Number of local minimums:   23
+Is init: True
+Profit was -0.52%.
+Random---Always now has $4759.255771287551
+---------------------------------------------------------------------------

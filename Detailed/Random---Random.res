@@ -7781,3 +7781,46 @@ Is init: True
 
 Random---Random now has $6696.469304078059
 ---------------------------------------------------------------------------
+[2022-06-02 04:09:04] SOLD
+Random---Random has sold: 
+Name: XETHZUSD
+Altname: ETHUSD
+Wsname: ETH/USD
+Base:
+ 	Name: XETH
+	Altname: ETH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.001
+Data about this pair of assets (XETHZUSD):
+	Current:                    1811.66
+	Maximum:                    0.000564
+	Minimum:                    0.000498
+	Variance:                   0.116109
+	Mean:                       0.00052
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.478261
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.631579
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1944.222174
+	Number of local maximums:   23
+	Average local minimum:      1944.198947
+	Number of local minimums:   19
+Is init: True
+Profit was -0.5205519799520903%.
+Random---Random now has $6661.610700528797
+---------------------------------------------------------------------------
