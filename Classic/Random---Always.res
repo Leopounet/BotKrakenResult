@@ -902,3 +902,7 @@ Random---Always now has $5475.737302024269
 Random---Always has sold TRIBE for $0.2228. Profit was -0.52%.
 Random---Always now has $5447.263468053743
 ---------------------------------------------------------------------------
+[2022-06-02 01:35:12] BUY
+Random---Always has bought ZAUD for $0.717
+Random---Always now has $5447.263468053743
+---------------------------------------------------------------------------
