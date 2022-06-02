@@ -870,3 +870,7 @@ Lower All Local Minimums---Random now has $5652.357105177121
 Lower All Local Minimums---Random has sold 1INCH for $0.924. Profit was -0.52%.
 Lower All Local Minimums---Random now has $5622.9648482302
 ---------------------------------------------------------------------------
+[2022-06-02 06:44:40] BUY
+Lower All Local Minimums---Random has bought CTSI for $0.1915
+Lower All Local Minimums---Random now has $5622.9648482302
+---------------------------------------------------------------------------
