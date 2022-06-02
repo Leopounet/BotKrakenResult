@@ -1694,3 +1694,7 @@ Lower All Local Minimums---Always now has $4013.7841936185387
 Lower All Local Minimums---Always has sold QNT for $66.55. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3992.912515811722
 ---------------------------------------------------------------------------
+[2022-06-02 11:42:08] BUY
+Lower All Local Minimums---Always has bought RARI for $2.93
+Lower All Local Minimums---Always now has $3992.912515811722
+---------------------------------------------------------------------------

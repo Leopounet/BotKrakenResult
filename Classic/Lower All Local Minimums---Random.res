@@ -1126,3 +1126,7 @@ Lower All Local Minimums---Random now has $5928.170977656239
 Lower All Local Minimums---Random has sold QNT for $66.55. Profit was -0.52%.
 Lower All Local Minimums---Random now has $5897.344488572427
 ---------------------------------------------------------------------------
+[2022-06-02 11:42:08] BUY
+Lower All Local Minimums---Random has bought RARI for $2.93
+Lower All Local Minimums---Random now has $5897.344488572427
+---------------------------------------------------------------------------
