@@ -1702,3 +1702,7 @@ Lower All Local Minimums---Always now has $3992.912515811722
 Lower All Local Minimums---Always has sold RARI for $3.0. Profit was 1.8690784982935065%.
 Lower All Local Minimums---Always now has $4067.5431851004296
 ---------------------------------------------------------------------------
+[2022-06-02 11:48:24] BUY
+Lower All Local Minimums---Always has bought BNC for $0.342
+Lower All Local Minimums---Always now has $4067.5431851004296
+---------------------------------------------------------------------------
