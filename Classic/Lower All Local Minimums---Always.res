@@ -1398,3 +1398,7 @@ Lower All Local Minimums---Always now has $4541.113491745971
 Lower All Local Minimums---Always has sold RARI for $2.92. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4517.499701588892
 ---------------------------------------------------------------------------
+[2022-06-02 07:53:05] BUY
+Lower All Local Minimums---Always has bought YFI for $7443.0
+Lower All Local Minimums---Always now has $4517.499701588892
+---------------------------------------------------------------------------
