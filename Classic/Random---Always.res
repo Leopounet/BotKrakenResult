@@ -830,3 +830,7 @@ Random---Always now has $5733.126972550268
 Random---Always has sold POLIS for $0.59. Profit was -0.52%.
 Random---Always now has $5703.314712293007
 ---------------------------------------------------------------------------
+[2022-06-02 00:34:31] BUY
+Random---Always has bought IDEX for $0.0813
+Random---Always now has $5703.314712293007
+---------------------------------------------------------------------------
