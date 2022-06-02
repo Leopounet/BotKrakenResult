@@ -385,3 +385,46 @@ Is init: True
 
 Random---Always now has $9741.567184383277
 ---------------------------------------------------------------------------
+[2022-06-02 21:08:24] SOLD
+Random---Always has sold: 
+Name: AUDIOUSD
+Altname: AUDIOUSD
+Wsname: AUDIO/USD
+Base:
+ 	Name: AUDIO
+	Altname: AUDIO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (AUDIOUSD):
+	Current:                    0.4101
+	Maximum:                    2.547771
+	Minimum:                    2.036245
+	Variance:                   0.200774
+	Mean:                       2.343727
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.571429
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.5
+	Is falling:                 True
+	Current fall duration:      16
+	Trending downwards:         True
+	Average local maximum:      0.425429
+	Number of local maximums:   21
+	Average local minimum:      0.428828
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Always now has $9690.911035024485
+---------------------------------------------------------------------------
