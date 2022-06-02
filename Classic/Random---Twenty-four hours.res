@@ -6,3 +6,7 @@ Random---Twenty-four hours now has $10000
 Random---Twenty-four hours has sold ACA for $0.386. Profit was -10.121873536299764%.
 Random---Twenty-four hours now has $8987.812646370023
 ---------------------------------------------------------------------------
+[2022-06-02 13:39:19] BUY
+Random---Twenty-four hours has bought AVAX for $23.26
+Random---Twenty-four hours now has $8987.812646370023
+---------------------------------------------------------------------------

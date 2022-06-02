@@ -6,3 +6,7 @@ Lower All Local Minimums---Twenty-four hours now has $10000
 Lower All Local Minimums---Twenty-four hours has sold GST for $0.935. Profit was -7.5776540755467146%.
 Lower All Local Minimums---Twenty-four hours now has $9242.23459244533
 ---------------------------------------------------------------------------
+[2022-06-02 13:39:19] BUY
+Lower All Local Minimums---Twenty-four hours has bought BAND for $1.613
+Lower All Local Minimums---Twenty-four hours now has $9242.23459244533
+---------------------------------------------------------------------------
