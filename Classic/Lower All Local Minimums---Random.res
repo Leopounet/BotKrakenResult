@@ -1166,3 +1166,7 @@ Lower All Local Minimums---Random now has $5901.442446265866
 Lower All Local Minimums---Random has sold ASTR for $0.0606. Profit was 0.6486143572620988%.
 Lower All Local Minimums---Random now has $5939.720049257906
 ---------------------------------------------------------------------------
+[2022-06-02 12:21:54] BUY
+Lower All Local Minimums---Random has bought QNT for $66.79
+Lower All Local Minimums---Random now has $5939.720049257906
+---------------------------------------------------------------------------
