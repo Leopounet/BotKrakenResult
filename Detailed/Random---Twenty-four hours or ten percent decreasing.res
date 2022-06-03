@@ -20767,3 +20767,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $2810.597341142648
 ---------------------------------------------------------------------------
+[2022-06-03 21:11:14] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: SAMOUSD
+Altname: SAMOUSD
+Wsname: SAMO/USD
+Base:
+ 	Name: SAMO
+	Altname: SAMO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 200
+Data about this pair of assets (SAMOUSD):
+	Current:                    0.005526
+	Maximum:                    182.315406
+	Minimum:                    171.320884
+	Variance:                   0.060305
+	Mean:                       177.92893
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.16
+	Is ascending:               True
+	Current ascension duration: 16
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.166667
+	Is falling:                 True
+	Current fall duration:      20
+	Trending downwards:         True
+	Average local maximum:      0.005604
+	Number of local maximums:   25
+	Average local minimum:      0.00561
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2795.982234968706
+---------------------------------------------------------------------------
