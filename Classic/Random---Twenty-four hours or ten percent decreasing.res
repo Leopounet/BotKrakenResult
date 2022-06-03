@@ -374,3 +374,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7958.962109548236
 Random---Twenty-four hours or ten percent decreasing has sold STORJ for $0.58895. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7917.575506578585
 ---------------------------------------------------------------------------
+[2022-06-03 01:20:08] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XZEC for $90.51
+Random---Twenty-four hours or ten percent decreasing now has $7917.575506578585
+---------------------------------------------------------------------------

@@ -4040,3 +4040,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8160.918175577454
 ---------------------------------------------------------------------------
+[2022-06-03 01:20:08] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: CVXUSD
+Altname: CVXUSD
+Wsname: CVX/USD
+Base:
+ 	Name: CVX
+	Altname: CVX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (CVXUSD):
+	Current:                    8.82
+	Maximum:                    0.117096
+	Minimum:                    0.093458
+	Variance:                   0.201869
+	Mean:                       0.104846
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.516129
+	Is ascending:               True
+	Current ascension duration: 26
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.576923
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      9.504839
+	Number of local maximums:   31
+	Average local minimum:      9.529615
+	Number of local minimums:   26
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $8160.918175577454
+---------------------------------------------------------------------------

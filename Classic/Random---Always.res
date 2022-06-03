@@ -374,3 +374,7 @@ Random---Always now has $7762.519430494918
 Random---Always has sold ALICE for $2.853. Profit was -0.52%.
 Random---Always now has $7722.154329456344
 ---------------------------------------------------------------------------
+[2022-06-03 01:20:08] BUY
+Random---Always has bought ATOM for $9.5917
+Random---Always now has $7722.154329456344
+---------------------------------------------------------------------------
