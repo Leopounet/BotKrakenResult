@@ -1070,3 +1070,7 @@ Random---Random now has $4547.129217216307
 Random---Random has sold TRIBE for $0.2292. Profit was -0.52%.
 Random---Random now has $4523.484145286782
 ---------------------------------------------------------------------------
+[2022-06-03 16:52:11] BUY
+Random---Random has bought USDC for $1.0
+Random---Random now has $4523.484145286782
+---------------------------------------------------------------------------

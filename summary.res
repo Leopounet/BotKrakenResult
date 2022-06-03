@@ -1,4 +1,4 @@
-[2022-06-03 16:49:12] SUMMARY
+[2022-06-03 16:52:11] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: MNGOUSD
+	Altname: MNGOUSD
+	Wsname: MNGO/USD
+	Base:
+	 	Name: MNGO
+		Altname: MNGO
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 25
+	Data about this pair of assets (MNGOUSD):
+		Current:                    0.0544
+		Maximum:                    18.975332
+		Minimum:                    17.574692
+		Variance:                   0.073814
+		Mean:                       18.029706
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.166667
+		Is ascending:               True
+		Current ascension duration: 23
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.153846
+		Is falling:                 True
+		Current fall duration:      43
+		Trending downwards:         False
+		Average local maximum:      0.054878
+		Number of local maximums:   18
+		Average local minimum:      0.055385
+		Number of local minimums:   13
+	Is init: True
 Wins: 1
 Losses: 197
 Total points: -111.57225143604083%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WOOUSD
-	Altname: WOOUSD
-	Wsname: WOO/USD
-	Base:
-	 	Name: WOO
-		Altname: WOO
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (WOOUSD):
-		Current:                    0.1543
-		Maximum:                    6.7659
-		Minimum:                    2.534212
-		Variance:                   0.625443
-		Mean:                       6.092178
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.65
-		Is ascending:               True
-		Current ascension duration: 11
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.454545
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.16702
-		Number of local maximums:   20
-		Average local minimum:      0.165609
-		Number of local minimums:   11
-	Is init: True
+	None
 Wins: 8
-Losses: 124
-Total points: -34.32501047219973%
-Wallet: 6589.572661258477
+Losses: 125
+Total points: -34.84501047219973%
+Wallet: 6555.306883419933
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
