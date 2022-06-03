@@ -14145,3 +14145,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $4389.629102565751
 ---------------------------------------------------------------------------
+[2022-06-03 13:20:05] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: KARUSD
+Altname: KARUSD
+Wsname: KAR/USD
+Base:
+ 	Name: KAR
+	Altname: KAR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (KARUSD):
+	Current:                    0.535
+	Maximum:                    1.941748
+	Minimum:                    1.650165
+	Variance:                   0.150165
+	Mean:                       1.807734
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.1
+	Is ascending:               True
+	Current ascension duration: 16
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.285714
+	Is falling:                 True
+	Current fall duration:      19
+	Trending downwards:         True
+	Average local maximum:      0.5588
+	Number of local maximums:   20
+	Average local minimum:      0.568571
+	Number of local minimums:   14
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $4366.803031232409
+---------------------------------------------------------------------------

@@ -1314,3 +1314,7 @@ Random---Twenty-four hours or ten percent now has $4389.629102565751
 Random---Twenty-four hours or ten percent has bought KAR for $0.535
 Random---Twenty-four hours or ten percent now has $4389.629102565751
 ---------------------------------------------------------------------------
+[2022-06-03 13:20:05] SOLD
+Random---Twenty-four hours or ten percent has sold KAR for $0.535. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $4366.803031232409
+---------------------------------------------------------------------------

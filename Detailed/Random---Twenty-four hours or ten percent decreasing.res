@@ -14145,3 +14145,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $4202.356363929277
 ---------------------------------------------------------------------------
+[2022-06-03 13:20:05] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: AGLDUSD
+Altname: AGLDUSD
+Wsname: AGLD/USD
+Base:
+ 	Name: AGLD
+	Altname: AGLD
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (AGLDUSD):
+	Current:                    0.481
+	Maximum:                    2.079002
+	Minimum:                    1.720282
+	Variance:                   0.172544
+	Mean:                       1.915917
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          0.857143
+	Is ascending:               True
+	Current ascension duration: 157
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               10.5
+	Is falling:                 True
+	Current fall duration:      22
+	Trending downwards:         True
+	Average local maximum:      0.5204
+	Number of local maximums:   7
+	Average local minimum:      0.51945
+	Number of local minimums:   2
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $4180.504110836845
+---------------------------------------------------------------------------

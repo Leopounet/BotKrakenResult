@@ -870,3 +870,7 @@ Random---Random now has $5748.701840589365
 Random---Random has sold FET for $0.1548. Profit was -0.52%.
 Random---Random now has $5718.8085910183
 ---------------------------------------------------------------------------
+[2022-06-03 13:20:06] BUY
+Random---Random has bought JASMY for $0.01146
+Random---Random now has $5718.8085910183
+---------------------------------------------------------------------------
