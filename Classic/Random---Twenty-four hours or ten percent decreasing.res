@@ -718,3 +718,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6428.685286442221
 Random---Twenty-four hours or ten percent decreasing has sold PAXG for $1868.82. Profit was -0.689871794871801%.
 Random---Twenty-four hours or ten percent decreasing now has $6384.335599869983
 ---------------------------------------------------------------------------
+[2022-06-03 05:33:55] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ANT for $1.9354
+Random---Twenty-four hours or ten percent decreasing now has $6384.335599869983
+---------------------------------------------------------------------------

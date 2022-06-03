@@ -718,3 +718,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $6301.15840
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold AAVE for $110.53. Profit was -0.3931769181991025%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $6276.383707546332
 ---------------------------------------------------------------------------
+[2022-06-03 05:33:55] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought ALGO for $0.39427
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $6276.383707546332
+---------------------------------------------------------------------------
