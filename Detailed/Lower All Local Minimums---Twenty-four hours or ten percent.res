@@ -10877,3 +10877,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent now has $5660.914620484388
 ---------------------------------------------------------------------------
+[2022-06-03 09:17:37] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold: 
+Name: LUNAUSD
+Altname: LUNAUSD
+Wsname: LUNA/USD
+Base:
+ 	Name: LUNA
+	Altname: LUNA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50000
+Data about this pair of assets (LUNAUSD):
+	Current:                    9.8e-05
+	Maximum:                    10774.701002
+	Minimum:                    7843.752451
+	Variance:                   0.272021
+	Mean:                       9824.039735
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.428571
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.625
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.000101
+	Number of local maximums:   28
+	Average local minimum:      0.000103
+	Number of local minimums:   32
+Is init: True
+Profit was -1.6868372569089147%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $5565.4242035842535
+---------------------------------------------------------------------------
