@@ -1058,3 +1058,7 @@ Random---Twenty-four hours or ten percent now has $5164.821075999286
 Random---Twenty-four hours or ten percent has bought OMG for $2.506268
 Random---Twenty-four hours or ten percent now has $5164.821075999286
 ---------------------------------------------------------------------------
+[2022-06-03 09:56:12] SOLD
+Random---Twenty-four hours or ten percent has sold OMG for $2.506268. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $5137.96400640409
+---------------------------------------------------------------------------

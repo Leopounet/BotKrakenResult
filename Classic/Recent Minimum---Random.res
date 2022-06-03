@@ -670,3 +670,7 @@ Recent Minimum---Random now has $6438.009587285879
 Recent Minimum---Random has sold BNT for $1.244. Profit was -0.52%.
 Recent Minimum---Random now has $6404.531937431992
 ---------------------------------------------------------------------------
+[2022-06-03 09:56:12] BUY
+Recent Minimum---Random has bought ALGO for $0.38126
+Recent Minimum---Random now has $6404.531937431992
+---------------------------------------------------------------------------
