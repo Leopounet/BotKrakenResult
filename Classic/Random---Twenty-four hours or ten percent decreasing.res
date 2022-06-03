@@ -514,3 +514,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7300.7277221243185
 Random---Twenty-four hours or ten percent decreasing has bought UMA for $3.191
 Random---Twenty-four hours or ten percent decreasing now has $7300.7277221243185
 ---------------------------------------------------------------------------
+[2022-06-03 03:03:31] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold UMA for $3.191. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $7262.763937969272
+---------------------------------------------------------------------------

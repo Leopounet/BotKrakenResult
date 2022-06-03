@@ -1,4 +1,4 @@
-[2022-06-03 03:00:34] SUMMARY
+[2022-06-03 03:03:31] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AGLDUSD
-	Altname: AGLDUSD
-	Wsname: AGLD/USD
-	Base:
-	 	Name: AGLD
-		Altname: AGLD
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (AGLDUSD):
-		Current:                    0.5162
-		Maximum:                    1.952744
-		Minimum:                    1.720282
-		Variance:                   0.119044
-		Mean:                       1.879138
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.666667
-		Is ascending:               True
-		Current ascension duration: 33
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.4
-		Is falling:                 True
-		Current fall duration:      364
-		Trending downwards:         True
-		Average local maximum:      0.551544
-		Number of local maximums:   9
-		Average local minimum:      0.54512
-		Number of local minimums:   5
-	Is init: True
+	None
 Wins: 0
-Losses: 64
-Total points: -34.55945043221861%
-Wallet: 7071.045055802276
+Losses: 65
+Total points: -35.079450432218614%
+Wallet: 7034.275621512104
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: POWRUSD
-	Altname: POWRUSD
-	Wsname: POWR/USD
-	Base:
-	 	Name: POWR
-		Altname: POWR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (POWRUSD):
-		Current:                    0.2966
-		Maximum:                    3.684598
-		Minimum:                    3.171583
-		Variance:                   0.139232
-		Mean:                       3.51944
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.352941
-		Is ascending:               True
-		Current ascension duration: 44
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.684211
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         False
-		Average local maximum:      0.284618
-		Number of local maximums:   17
-		Average local minimum:      0.2855
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 4
-Losses: 60
-Total points: -28.248245454167975%
-Wallet: 7529.5425386116285
+Losses: 61
+Total points: -28.768245454167975%
+Wallet: 7490.388917410848
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
