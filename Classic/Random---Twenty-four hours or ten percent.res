@@ -1342,3 +1342,7 @@ Random---Twenty-four hours or ten percent now has $4321.506358061557
 Random---Twenty-four hours or ten percent has sold ENS for $10.71. Profit was 0.04338028169014008%.
 Random---Twenty-four hours or ten percent now has $4323.381039692941
 ---------------------------------------------------------------------------
+[2022-06-03 13:42:40] BUY
+Random---Twenty-four hours or ten percent has bought SAMO for $0.005547
+Random---Twenty-four hours or ten percent now has $4323.381039692941
+---------------------------------------------------------------------------
