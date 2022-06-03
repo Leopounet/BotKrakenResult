@@ -7652,3 +7652,46 @@ Is init: True
 Profit was -0.9662753175420442%.
 Recent Minimum---Random now has $6196.677334875839
 ---------------------------------------------------------------------------
+[2022-06-03 10:43:55] BUY
+Recent Minimum---Random has bought: 
+Name: BADGERUSD
+Altname: BADGERUSD
+Wsname: BADGER/USD
+Base:
+ 	Name: BADGER
+	Altname: BADGER
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (BADGERUSD):
+	Current:                    5.8
+	Maximum:                    0.175994
+	Minimum:                    0.163988
+	Variance:                   0.068219
+	Mean:                       0.169958
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.470588
+	Is ascending:               True
+	Current ascension duration: 11
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.642857
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      5.880706
+	Number of local maximums:   17
+	Average local minimum:      5.884929
+	Number of local minimums:   14
+Is init: True
+
+Recent Minimum---Random now has $6196.677334875839
+---------------------------------------------------------------------------

@@ -1118,3 +1118,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4869.385370188996
 Random---Twenty-four hours or ten percent decreasing has sold LUNA2 for $6.3212. Profit was -0.6645417709921237%.
 Random---Twenty-four hours or ten percent decreasing now has $4837.02627041351
 ---------------------------------------------------------------------------
+[2022-06-03 10:43:55] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AXS for $19.927
+Random---Twenty-four hours or ten percent decreasing now has $4837.02627041351
+---------------------------------------------------------------------------
