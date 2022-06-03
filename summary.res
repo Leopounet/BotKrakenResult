@@ -1,4 +1,4 @@
-[2022-06-03 01:02:29] SUMMARY
+[2022-06-03 01:05:25] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: RUNEUSD
-	Altname: RUNEUSD
-	Wsname: RUNE/USD
-	Base:
-	 	Name: RUNE
-		Altname: RUNE
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (RUNEUSD):
-		Current:                    2.753
-		Maximum:                    0.384468
-		Minimum:                    0.312793
-		Variance:                   0.186425
-		Mean:                       0.354221
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.5
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.571429
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      2.819867
-		Number of local maximums:   30
-		Average local minimum:      2.841886
-		Number of local minimums:   35
-	Is init: True
+	None
 Wins: 0
-Losses: 44
-Total points: -24.2138714932983%
-Wallet: 7843.883722594037
+Losses: 45
+Total points: -24.7338714932983%
+Wallet: 7803.095527236548
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CVCUSD
-	Altname: CVCUSD
-	Wsname: CVC/USD
-	Base:
-	 	Name: CVC
-		Altname: CVC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 25
-	Data about this pair of assets (CVCUSD):
-		Current:                    0.1819
-		Maximum:                    5.980861
-		Minimum:                    5.235602
-		Variance:                   0.124607
-		Mean:                       5.699082
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.25
-		Is ascending:               True
-		Current ascension duration: 12
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.0
-		Is falling:                 True
-		Current fall duration:      44
-		Trending downwards:         False
-		Average local maximum:      0.174845
-		Number of local maximums:   20
-		Average local minimum:      0.17632
-		Number of local minimums:   15
-	Is init: True
+	None
 Wins: 2
-Losses: 31
-Total points: -15.769841852807554%
-Wallet: 8537.203915415812
+Losses: 32
+Total points: -16.289841852807555%
+Wallet: 8492.810455055649
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
