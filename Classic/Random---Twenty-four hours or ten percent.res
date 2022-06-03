@@ -534,3 +534,7 @@ Random---Twenty-four hours or ten percent now has $7435.962884880372
 Random---Twenty-four hours or ten percent has sold ADA for $0.589216. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $7397.295877878994
 ---------------------------------------------------------------------------
+[2022-06-03 03:18:14] BUY
+Random---Twenty-four hours or ten percent has bought ZEUR for $1.07542
+Random---Twenty-four hours or ten percent now has $7397.295877878994
+---------------------------------------------------------------------------

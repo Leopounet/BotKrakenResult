@@ -534,3 +534,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7224.997565491832
 Random---Twenty-four hours or ten percent decreasing has sold ATOM for $9.6356. Profit was -0.5179243207339552%.
 Random---Twenty-four hours or ten percent decreasing now has $7187.577545927713
 ---------------------------------------------------------------------------
+[2022-06-03 03:18:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought YGG for $0.629
+Random---Twenty-four hours or ten percent decreasing now has $7187.577545927713
+---------------------------------------------------------------------------
