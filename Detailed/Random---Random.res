@@ -5846,3 +5846,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $7152.30301924493
 ---------------------------------------------------------------------------
+[2022-06-03 06:35:51] BUY
+Random---Random has bought: 
+Name: XREPZUSD
+Altname: REPUSD
+Wsname: REP/USD
+Base:
+ 	Name: XREP
+	Altname: REP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (XREPZUSD):
+	Current:                    9.97
+	Maximum:                    0.105186
+	Minimum:                    0.093006
+	Variance:                   0.115792
+	Mean:                       0.10056
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          0.913043
+	Is ascending:               True
+	Current ascension duration: 25
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               9.857143
+	Is falling:                 True
+	Current fall duration:      18
+	Trending downwards:         True
+	Average local maximum:      9.991
+	Number of local maximums:   23
+	Average local minimum:      10.027571
+	Number of local minimums:   7
+Is init: True
+
+Random---Random now has $7152.30301924493
+---------------------------------------------------------------------------

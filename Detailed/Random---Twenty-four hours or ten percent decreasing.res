@@ -8641,3 +8641,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $6062.545840080783
 ---------------------------------------------------------------------------
+[2022-06-03 06:35:51] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: GLMRUSD
+Altname: GLMRUSD
+Wsname: GLMR/USD
+Base:
+ 	Name: GLMR
+	Altname: GLMR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (GLMRUSD):
+	Current:                    1.383
+	Maximum:                    0.817661
+	Minimum:                    0.723066
+	Variance:                   0.115691
+	Mean:                       0.769444
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0625
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.363636
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      1.297063
+	Number of local maximums:   32
+	Average local minimum:      1.285455
+	Number of local minimums:   22
+Is init: True
+Profit was -1.5322921185827916%.
+Random---Twenty-four hours or ten percent decreasing now has $5969.649927987756
+---------------------------------------------------------------------------

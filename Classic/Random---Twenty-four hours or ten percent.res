@@ -802,3 +802,7 @@ Random---Twenty-four hours or ten percent now has $6139.541229638156
 Random---Twenty-four hours or ten percent has bought SGB for $0.0396
 Random---Twenty-four hours or ten percent now has $6139.541229638156
 ---------------------------------------------------------------------------
+[2022-06-03 06:35:51] SOLD
+Random---Twenty-four hours or ten percent has sold SGB for $0.0396. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $6107.615615244038
+---------------------------------------------------------------------------
