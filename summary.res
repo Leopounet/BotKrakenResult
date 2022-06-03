@@ -1,4 +1,4 @@
-[2022-06-03 01:20:08] SUMMARY
+[2022-06-03 01:23:05] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ATOMUSD
-	Altname: ATOMUSD
-	Wsname: ATOM/USD
-	Base:
-	 	Name: ATOM
-		Altname: ATOM
-		decimals: 8
-		displayed_decimals: 6
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.15
-	Data about this pair of assets (ATOMUSD):
-		Current:                    9.5917
-		Maximum:                    0.108891
-		Minimum:                    0.094251
-		Variance:                   0.134449
-		Mean:                       0.102229
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.882353
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.318182
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      9.818912
-		Number of local maximums:   17
-		Average local minimum:      9.688295
-		Number of local minimums:   22
-	Is init: True
+	None
 Wins: 0
-Losses: 47
-Total points: -25.773871493298298%
-Wallet: 7722.154329456344
+Losses: 48
+Total points: -26.242785658670424%
+Wallet: 7685.9440539336265
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ICPUSD
+	Altname: ICPUSD
+	Wsname: ICP/USD
+	Base:
+	 	Name: ICP
+		Altname: ICP
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.25
+	Data about this pair of assets (ICPUSD):
+		Current:                    9.308
+		Maximum:                    0.133601
+		Minimum:                    0.102712
+		Variance:                   0.231204
+		Mean:                       0.123287
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.782609
+		Is ascending:               True
+		Current ascension duration: 9
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.37931
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      8.067739
+		Number of local maximums:   23
+		Average local minimum:      8.039207
+		Number of local minimums:   29
+	Is init: True
 Wins: 2
 Losses: 33
 Total points: -16.945217423318887%
