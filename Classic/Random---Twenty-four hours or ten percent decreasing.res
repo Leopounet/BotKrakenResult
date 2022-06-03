@@ -902,3 +902,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5683.110321292853
 Random---Twenty-four hours or ten percent decreasing has sold BICO for $0.741. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5653.55814762213
 ---------------------------------------------------------------------------
+[2022-06-03 07:51:57] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XXBT for $30422.1
+Random---Twenty-four hours or ten percent decreasing now has $5653.55814762213
+---------------------------------------------------------------------------
