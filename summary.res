@@ -1,4 +1,4 @@
-[2022-06-03 10:30:43] SUMMARY
+[2022-06-03 10:33:48] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MSOLUSD
-	Altname: MSOLUSD
-	Wsname: MSOL/USD
-	Base:
-	 	Name: MSOL
-		Altname: MSOL
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.02
-	Data about this pair of assets (MSOLUSD):
-		Current:                    45.0
-		Maximum:                    0.023895
-		Minimum:                    0.018811
-		Variance:                   0.212754
-		Mean:                       0.021639
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.588235
-		Is ascending:               True
-		Current ascension duration: 21
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.666667
-		Is falling:                 True
-		Current fall duration:      14
-		Trending downwards:         True
-		Average local maximum:      46.064118
-		Number of local maximums:   17
-		Average local minimum:      48.244444
-		Number of local minimums:   9
-	Is init: True
+	None
 Wins: 0
-Losses: 138
-Total points: -75.48405971825852%
-Wallet: 4690.5477972867475
+Losses: 139
+Total points: -76.00405971825852%
+Wallet: 4666.156948740856
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: LINKUSD
-	Altname: LINKUSD
-	Wsname: LINK/USD
-	Base:
-	 	Name: LINK
-		Altname: LINK
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (LINKUSD):
-		Current:                    6.83517
-		Maximum:                    0.147059
-		Minimum:                    0.129058
-		Variance:                   0.122403
-		Mean:                       0.139907
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.482759
-		Is ascending:               True
-		Current ascension duration: 7
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.625
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      7.249236
-		Number of local maximums:   29
-		Average local minimum:      7.223838
-		Number of local minimums:   24
-	Is init: True
+	None
 Wins: 5
-Losses: 133
-Total points: -69.6050423720074%
-Wallet: 4971.2725022691875
+Losses: 134
+Total points: -70.32664672127743%
+Wallet: 4935.399583678748
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
