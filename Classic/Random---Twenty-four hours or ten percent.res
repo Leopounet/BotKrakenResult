@@ -926,3 +926,7 @@ Random---Twenty-four hours or ten percent now has $5641.590651091204
 Random---Twenty-four hours or ten percent has sold ZGBP for $1.25786. Profit was -0.37057630676984277%.
 Random---Twenty-four hours or ten percent now has $5620.6842528133175
 ---------------------------------------------------------------------------
+[2022-06-03 08:11:24] BUY
+Random---Twenty-four hours or ten percent has bought LPT for $12.11
+Random---Twenty-four hours or ten percent now has $5620.6842528133175
+---------------------------------------------------------------------------

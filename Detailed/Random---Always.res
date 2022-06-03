@@ -9974,3 +9974,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $5340.357012577979
 ---------------------------------------------------------------------------
+[2022-06-03 08:11:24] BUY
+Random---Always has bought: 
+Name: SUSHIUSD
+Altname: SUSHIUSD
+Wsname: SUSHI/USD
+Base:
+ 	Name: SUSHI
+	Altname: SUSHI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (SUSHIUSD):
+	Current:                    1.631
+	Maximum:                    0.633714
+	Minimum:                    0.531915
+	Variance:                   0.160638
+	Mean:                       0.592176
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.36
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.678571
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         True
+	Average local maximum:      1.68408
+	Number of local maximums:   25
+	Average local minimum:      1.685071
+	Number of local minimums:   28
+Is init: True
+
+Random---Always now has $5340.357012577979
+---------------------------------------------------------------------------

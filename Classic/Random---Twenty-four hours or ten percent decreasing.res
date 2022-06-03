@@ -926,3 +926,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5595.117373039937
 Random---Twenty-four hours or ten percent decreasing has sold SHIB for $1.098e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5566.0227627001295
 ---------------------------------------------------------------------------
+[2022-06-03 08:11:24] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AGLD for $0.5162
+Random---Twenty-four hours or ten percent decreasing now has $5566.0227627001295
+---------------------------------------------------------------------------
