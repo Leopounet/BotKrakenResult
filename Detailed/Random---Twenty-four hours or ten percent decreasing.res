@@ -21885,3 +21885,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $2657.595897328162
 ---------------------------------------------------------------------------
+[2022-06-03 22:29:06] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    108.29
+	Maximum:                    0.009819
+	Minimum:                    0.008333
+	Variance:                   0.151404
+	Mean:                       0.00926
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.315789
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.714286
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      108.267895
+	Number of local maximums:   19
+	Average local minimum:      109.054762
+	Number of local minimums:   21
+Is init: True
+Profit was -0.5107655369840276%.
+Random---Twenty-four hours or ten percent decreasing now has $2644.0218133723083
+---------------------------------------------------------------------------
