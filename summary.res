@@ -1,4 +1,4 @@
-[2022-06-03 14:27:16] SUMMARY
+[2022-06-03 14:31:18] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: NYMUSD
-	Altname: NYMUSD
-	Wsname: NYM/USD
-	Base:
-	 	Name: NYM
-		Altname: NYM
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (NYMUSD):
-		Current:                    0.3593
-		Maximum:                    2.801905
-		Minimum:                    2.320186
-		Variance:                   0.171926
-		Mean:                       2.579746
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.347826
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.833333
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.390187
-		Number of local maximums:   23
-		Average local minimum:      0.393178
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 0
-Losses: 175
-Total points: -99.3832697182393%
-Wallet: 3687.34348195424
+Losses: 176
+Total points: -99.9032697182393%
+Wallet: 3668.169295848078
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ENJUSD
-	Altname: ENJUSD
-	Wsname: ENJ/USD
-	Base:
-	 	Name: ENJ
-		Altname: ENJ
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2
-	Data about this pair of assets (ENJUSD):
-		Current:                    0.61
-		Maximum:                    1.650165
-		Minimum:                    1.449275
-		Variance:                   0.121739
-		Mean:                       1.5517
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.9
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.103448
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.644233
-		Number of local maximums:   30
-		Average local minimum:      0.642655
-		Number of local minimums:   29
-	Is init: True
+	None
 Wins: 7
-Losses: 168
-Total points: -86.30611881733962%
-Wallet: 4204.426020696703
+Losses: 169
+Total points: -87.48185652225766%
+Wallet: 4154.992998695987
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

@@ -15091,3 +15091,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $3936.087080062202
 ---------------------------------------------------------------------------
+[2022-06-03 14:31:18] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: XXBTZUSD
+Altname: XBTUSD
+Wsname: XBT/USD
+Base:
+ 	Name: XXBT
+	Altname: XBT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.0001
+Data about this pair of assets (XXBTZUSD):
+	Current:                    29561.9
+	Maximum:                    3.4e-05
+	Minimum:                    3.1e-05
+	Variance:                   0.073725
+	Mean:                       3.3e-05
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.882353
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.318182
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      30362.688235
+	Number of local maximums:   17
+	Average local minimum:      30301.331818
+	Number of local minimums:   22
+Is init: True
+Profit was -0.590699109326533%.
+Random---Twenty-four hours or ten percent decreasing now has $3912.8366487379576
+---------------------------------------------------------------------------
