@@ -1262,3 +1262,7 @@ Random---Twenty-four hours or ten percent now has $4543.230500589876
 Random---Twenty-four hours or ten percent has sold PHA for $0.1224. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4519.6057019868085
 ---------------------------------------------------------------------------
+[2022-06-03 12:38:19] BUY
+Random---Twenty-four hours or ten percent has bought ICX for $0.38
+Random---Twenty-four hours or ten percent now has $4519.6057019868085
+---------------------------------------------------------------------------

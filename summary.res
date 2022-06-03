@@ -1,4 +1,4 @@
-[2022-06-03 12:35:04] SUMMARY
+[2022-06-03 12:38:19] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ORCAUSD
+	Altname: ORCAUSD
+	Wsname: ORCA/USD
+	Base:
+	 	Name: ORCA
+		Altname: ORCA
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (ORCAUSD):
+		Current:                    0.845
+		Maximum:                    1.230012
+		Minimum:                    1.096491
+		Variance:                   0.108553
+		Mean:                       1.176814
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.5
+		Is ascending:               True
+		Current ascension duration: 31
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               6.0
+		Is falling:                 True
+		Current fall duration:      28
+		Trending downwards:         True
+		Average local maximum:      0.859125
+		Number of local maximums:   8
+		Average local minimum:      0.87325
+		Number of local minimums:   4
+	Is init: True
 Wins: 0
 Losses: 158
 Total points: -90.0332676574193%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ICXUSD
+	Altname: ICXUSD
+	Wsname: ICX/USD
+	Base:
+	 	Name: ICX
+		Altname: ICX
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 3
+	Data about this pair of assets (ICXUSD):
+		Current:                    0.38
+		Maximum:                    2.738226
+		Minimum:                    2.345766
+		Variance:                   0.143326
+		Mean:                       2.559274
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.193548
+		Is ascending:               True
+		Current ascension duration: 6
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.818182
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      0.391297
+		Number of local maximums:   31
+		Average local minimum:      0.391942
+		Number of local minimums:   33
+	Is init: True
 Wins: 6
 Losses: 152
 Total points: -79.09652315602632%
