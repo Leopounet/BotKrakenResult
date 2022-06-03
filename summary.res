@@ -1,4 +1,4 @@
-[2022-06-03 05:39:49] SUMMARY
+[2022-06-03 05:42:46] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SANDUSD
-	Altname: SANDUSD
-	Wsname: SAND/USD
-	Base:
-	 	Name: SAND
-		Altname: SAND
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (SANDUSD):
-		Current:                    1.3499
-		Maximum:                    0.770475
-		Minimum:                    0.682967
-		Variance:                   0.113577
-		Mean:                       0.734041
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.45
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.608696
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         True
-		Average local maximum:      1.353625
-		Number of local maximums:   20
-		Average local minimum:      1.359026
-		Number of local minimums:   23
-	Is init: True
+	None
 Wins: 0
-Losses: 91
-Total points: -49.17112099272386%
-Wallet: 6107.134211050538
+Losses: 92
+Total points: -49.69112099272386%
+Wallet: 6075.377113153076
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: API3USD
-	Altname: API3USD
-	Wsname: API3/USD
-	Base:
-	 	Name: API3
-		Altname: API3
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (API3USD):
-		Current:                    1.597
-		Maximum:                    0.631712
-		Minimum:                    0.539957
-		Variance:                   0.145248
-		Mean:                       0.598383
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.0
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.5
-		Is falling:                 True
-		Current fall duration:      92
-		Trending downwards:         True
-		Average local maximum:      1.703222
-		Number of local maximums:   18
-		Average local minimum:      1.689083
-		Number of local minimums:   12
-	Is init: True
+	None
 Wins: 5
-Losses: 86
-Total points: -41.623698860638115%
-Wallet: 6584.454461452167
+Losses: 87
+Total points: -42.14369886063812%
+Wallet: 6550.215298252616
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

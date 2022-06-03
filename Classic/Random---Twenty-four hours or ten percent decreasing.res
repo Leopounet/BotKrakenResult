@@ -730,3 +730,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6351.1370547506585
 Random---Twenty-four hours or ten percent decreasing has bought PAXG for $1868.82
 Random---Twenty-four hours or ten percent decreasing now has $6351.1370547506585
 ---------------------------------------------------------------------------
+[2022-06-03 05:42:46] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold PAXG for $1868.82. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6318.111142065955
+---------------------------------------------------------------------------

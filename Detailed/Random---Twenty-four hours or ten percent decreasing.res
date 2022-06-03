@@ -7867,3 +7867,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $6351.1370547506585
 ---------------------------------------------------------------------------
+[2022-06-03 05:42:46] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: PAXGUSD
+Altname: PAXGUSD
+Wsname: PAXG/USD
+Base:
+ 	Name: PAXG
+	Altname: PAXG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.004
+Data about this pair of assets (PAXGUSD):
+	Current:                    1868.82
+	Maximum:                    0.000546
+	Minimum:                    0.000533
+	Variance:                   0.02408
+	Mean:                       0.00054
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.625
+	Is ascending:               True
+	Current ascension duration: 28
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.428571
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      1850.13625
+	Number of local maximums:   32
+	Average local minimum:      1853.246429
+	Number of local minimums:   28
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6318.111142065955
+---------------------------------------------------------------------------
