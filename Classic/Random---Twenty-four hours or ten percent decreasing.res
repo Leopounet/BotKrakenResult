@@ -1510,3 +1510,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3682.60633581904
 Random---Twenty-four hours or ten percent decreasing has sold STORJ for $0.56. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3663.456782872781
 ---------------------------------------------------------------------------
+[2022-06-03 15:57:25] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BAL for $6.65
+Random---Twenty-four hours or ten percent decreasing now has $3663.456782872781
+---------------------------------------------------------------------------
