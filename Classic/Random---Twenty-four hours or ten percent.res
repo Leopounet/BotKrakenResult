@@ -1542,3 +1542,7 @@ Random---Twenty-four hours or ten percent now has $3830.6426687872504
 Random---Twenty-four hours or ten percent has sold RAD for $2.075. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3810.723326909557
 ---------------------------------------------------------------------------
+[2022-06-03 16:22:24] BUY
+Random---Twenty-four hours or ten percent has bought CFG for $0.3203
+Random---Twenty-four hours or ten percent now has $3810.723326909557
+---------------------------------------------------------------------------

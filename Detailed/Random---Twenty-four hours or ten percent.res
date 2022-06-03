@@ -16596,3 +16596,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3810.723326909557
 ---------------------------------------------------------------------------
+[2022-06-03 16:22:24] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: CFGUSD
+Altname: CFGUSD
+Wsname: CFG/USD
+Base:
+ 	Name: CFG
+	Altname: CFG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (CFGUSD):
+	Current:                    0.3203
+	Maximum:                    3.775009
+	Minimum:                    2.071251
+	Variance:                   0.451326
+	Mean:                       3.20661
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.52
+	Is ascending:               True
+	Current ascension duration: 27
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.571429
+	Is falling:                 True
+	Current fall duration:      22
+	Trending downwards:         False
+	Average local maximum:      0.312864
+	Number of local maximums:   25
+	Average local minimum:      0.307005
+	Number of local minimums:   21
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $3810.723326909557
+---------------------------------------------------------------------------

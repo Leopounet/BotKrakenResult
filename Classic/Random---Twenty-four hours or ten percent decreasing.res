@@ -1542,3 +1542,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3606.603521562861
 Random---Twenty-four hours or ten percent decreasing has sold WBTC for $29496.0. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3587.849183250734
 ---------------------------------------------------------------------------
+[2022-06-03 16:22:24] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AXS for $19.544
+Random---Twenty-four hours or ten percent decreasing now has $3587.849183250734
+---------------------------------------------------------------------------

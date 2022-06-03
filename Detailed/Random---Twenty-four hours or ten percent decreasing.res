@@ -16596,3 +16596,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3587.849183250734
 ---------------------------------------------------------------------------
+[2022-06-03 16:22:24] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: AXSUSD
+Altname: AXSUSD
+Wsname: AXS/USD
+Base:
+ 	Name: AXS
+	Altname: AXS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (AXSUSD):
+	Current:                    19.544
+	Maximum:                    0.051414
+	Minimum:                    0.042459
+	Variance:                   0.174168
+	Mean:                       0.04788
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.423077
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.714286
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      20.679038
+	Number of local maximums:   26
+	Average local minimum:      20.822286
+	Number of local minimums:   21
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $3587.849183250734
+---------------------------------------------------------------------------
