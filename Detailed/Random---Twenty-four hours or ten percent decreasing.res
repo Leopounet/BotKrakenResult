@@ -13027,3 +13027,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $4537.8657155928095
 ---------------------------------------------------------------------------
+[2022-06-03 11:57:32] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: ALGOUSD
+Altname: ALGOUSD
+Wsname: ALGO/USD
+Base:
+ 	Name: ALGO
+	Altname: ALGO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (ALGOUSD):
+	Current:                    0.37449
+	Maximum:                    2.67795
+	Minimum:                    2.354603
+	Variance:                   0.120744
+	Mean:                       2.544257
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.136364
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.869565
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.392024
+	Number of local maximums:   22
+	Average local minimum:      0.392327
+	Number of local minimums:   23
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $4514.268813871727
+---------------------------------------------------------------------------

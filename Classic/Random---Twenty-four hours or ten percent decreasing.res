@@ -1210,3 +1210,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4537.8657155928095
 Random---Twenty-four hours or ten percent decreasing has bought ALGO for $0.37449
 Random---Twenty-four hours or ten percent decreasing now has $4537.8657155928095
 ---------------------------------------------------------------------------
+[2022-06-03 11:57:32] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ALGO for $0.37449. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $4514.268813871727
+---------------------------------------------------------------------------
