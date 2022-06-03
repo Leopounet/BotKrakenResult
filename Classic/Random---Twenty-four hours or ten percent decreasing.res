@@ -750,3 +750,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6285.256964127212
 Random---Twenty-four hours or ten percent decreasing has sold KP3R for $132.9. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6252.573627913751
 ---------------------------------------------------------------------------
+[2022-06-03 05:57:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KSM for $72.26
+Random---Twenty-four hours or ten percent decreasing now has $6252.573627913751
+---------------------------------------------------------------------------

@@ -506,3 +506,7 @@ Random---Random now has $7341.199439856259
 Random---Random has bought TOKE for $3.39
 Random---Random now has $7341.199439856259
 ---------------------------------------------------------------------------
+[2022-06-03 05:57:32] SOLD
+Random---Random has sold TOKE for $3.39. Profit was -0.52%.
+Random---Random now has $7303.025202769007
+---------------------------------------------------------------------------

@@ -750,3 +750,7 @@ Random---Twenty-four hours or ten percent now has $6524.21949013055
 Random---Twenty-four hours or ten percent has sold AXS for $20.997. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6490.293548781871
 ---------------------------------------------------------------------------
+[2022-06-03 05:57:32] BUY
+Random---Twenty-four hours or ten percent has bought SCRT for $1.547
+Random---Twenty-four hours or ten percent now has $6490.293548781871
+---------------------------------------------------------------------------
