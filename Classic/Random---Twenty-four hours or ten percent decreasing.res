@@ -454,3 +454,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7602.499097936322
 Random---Twenty-four hours or ten percent decreasing has sold BADGER for $5.973. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7562.966102627053
 ---------------------------------------------------------------------------
+[2022-06-03 02:19:08] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LSK for $1.370457
+Random---Twenty-four hours or ten percent decreasing now has $7562.966102627053
+---------------------------------------------------------------------------

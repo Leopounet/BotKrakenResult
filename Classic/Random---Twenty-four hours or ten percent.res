@@ -454,3 +454,7 @@ Random---Twenty-four hours or ten percent now has $7757.477713776189
 Random---Twenty-four hours or ten percent has sold RARI for $3.04. Profit was 1.8369023569023573%.
 Random---Twenty-four hours or ten percent now has $7899.97500473672
 ---------------------------------------------------------------------------
+[2022-06-03 02:19:08] BUY
+Random---Twenty-four hours or ten percent has bought OGN for $0.3126
+Random---Twenty-four hours or ten percent now has $7899.97500473672
+---------------------------------------------------------------------------
