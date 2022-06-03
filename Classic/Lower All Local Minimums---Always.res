@@ -1498,3 +1498,7 @@ Lower All Local Minimums---Always now has $4030.7526213344318
 Lower All Local Minimums---Always has bought BAT for $0.37177
 Lower All Local Minimums---Always now has $4030.7526213344318
 ---------------------------------------------------------------------------
+[2022-06-03 15:47:53] SOLD
+Lower All Local Minimums---Always has sold BAT for $0.37177. Profit was -0.52%.
+Lower All Local Minimums---Always now has $4009.792707703493
+---------------------------------------------------------------------------

@@ -16123,3 +16123,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $3931.8121364157814
 ---------------------------------------------------------------------------
+[2022-06-03 15:47:53] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: TBTCUSD
+Altname: TBTCUSD
+Wsname: TBTC/USD
+Base:
+ 	Name: TBTC
+	Altname: TBTC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.0001
+Data about this pair of assets (TBTCUSD):
+	Current:                    29720.1
+	Maximum:                    3.4e-05
+	Minimum:                    2.9e-05
+	Variance:                   0.123296
+	Mean:                       3e-05
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 636
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      46
+	Trending downwards:         True
+	Average local maximum:      29894.3
+	Number of local maximums:   2
+	Average local minimum:      31984.15
+	Number of local minimums:   2
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3911.3667133064196
+---------------------------------------------------------------------------
