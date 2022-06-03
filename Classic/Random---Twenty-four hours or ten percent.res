@@ -1390,3 +1390,7 @@ Random---Twenty-four hours or ten percent now has $4241.871097476437
 Random---Twenty-four hours or ten percent has sold ZUSD for $0.96202. Profit was -0.3646452042259437%.
 Random---Twenty-four hours or ten percent now has $4226.403317950043
 ---------------------------------------------------------------------------
+[2022-06-03 14:21:00] BUY
+Random---Twenty-four hours or ten percent has bought MIR for $0.276
+Random---Twenty-four hours or ten percent now has $4226.403317950043
+---------------------------------------------------------------------------

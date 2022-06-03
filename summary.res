@@ -1,4 +1,4 @@
-[2022-06-03 14:17:48] SUMMARY
+[2022-06-03 14:21:00] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KILTUSD
+	Altname: KILTUSD
+	Wsname: KILT/USD
+	Base:
+	 	Name: KILT
+		Altname: KILT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2
+	Data about this pair of assets (KILTUSD):
+		Current:                    0.761
+		Maximum:                    1.333333
+		Minimum:                    1.187648
+		Variance:                   0.109264
+		Mean:                       1.274255
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.538462
+		Is ascending:               True
+		Current ascension duration: 10
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.545455
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.786808
+		Number of local maximums:   26
+		Average local minimum:      0.7895
+		Number of local minimums:   22
+	Is init: True
 Wins: 0
 Losses: 174
 Total points: -98.86326971823931%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: MIRUSD
+	Altname: MIRUSD
+	Wsname: MIR/USD
+	Base:
+	 	Name: MIR
+		Altname: MIR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (MIRUSD):
+		Current:                    0.276
+		Maximum:                    3.816794
+		Minimum:                    3.10559
+		Variance:                   0.186335
+		Mean:                       3.544713
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.076923
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.333333
+		Is falling:                 True
+		Current fall duration:      4
+		Trending downwards:         True
+		Average local maximum:      0.283769
+		Number of local maximums:   26
+		Average local minimum:      0.285222
+		Number of local minimums:   18
+	Is init: True
 Wins: 7
 Losses: 167
 Total points: -85.78611881733963%

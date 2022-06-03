@@ -1390,3 +1390,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3973.7280960878743
 Random---Twenty-four hours or ten percent decreasing has sold ZGBP for $1.25471. Profit was -0.42948019249768843%.
 Random---Twenty-four hours or ten percent decreasing now has $3956.6617210114614
 ---------------------------------------------------------------------------
+[2022-06-03 14:21:00] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GNO for $185.1
+Random---Twenty-four hours or ten percent decreasing now has $3956.6617210114614
+---------------------------------------------------------------------------

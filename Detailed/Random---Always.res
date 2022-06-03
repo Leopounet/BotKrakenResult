@@ -14962,3 +14962,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $3706.617895008283
 ---------------------------------------------------------------------------
+[2022-06-03 14:21:00] BUY
+Random---Always has bought: 
+Name: KILTUSD
+Altname: KILTUSD
+Wsname: KILT/USD
+Base:
+ 	Name: KILT
+	Altname: KILT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (KILTUSD):
+	Current:                    0.761
+	Maximum:                    1.333333
+	Minimum:                    1.187648
+	Variance:                   0.109264
+	Mean:                       1.274255
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.538462
+	Is ascending:               True
+	Current ascension duration: 10
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.545455
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.786808
+	Number of local maximums:   26
+	Average local minimum:      0.7895
+	Number of local minimums:   22
+Is init: True
+
+Random---Always now has $3706.617895008283
+---------------------------------------------------------------------------
