@@ -1610,3 +1610,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3464.560139525103
 Random---Twenty-four hours or ten percent decreasing has bought OXY for $0.0863
 Random---Twenty-four hours or ten percent decreasing now has $3464.560139525103
 ---------------------------------------------------------------------------
+[2022-06-03 17:12:58] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold OXY for $0.0863. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3446.544426799572
+---------------------------------------------------------------------------
