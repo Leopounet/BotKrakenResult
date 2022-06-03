@@ -1126,3 +1126,7 @@ Recent Minimum---Always now has $4757.321618428171
 Recent Minimum---Always has sold BADGER for $5.8. Profit was -0.52%.
 Recent Minimum---Always now has $4732.583546012344
 ---------------------------------------------------------------------------
+[2022-06-03 10:50:22] BUY
+Recent Minimum---Always has bought BADGER for $5.8
+Recent Minimum---Always now has $4732.583546012344
+---------------------------------------------------------------------------

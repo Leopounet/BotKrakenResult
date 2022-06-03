@@ -1126,3 +1126,7 @@ Random---Twenty-four hours or ten percent now has $4909.735505843619
 Random---Twenty-four hours or ten percent has sold CFG for $0.3385. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4884.204881213232
 ---------------------------------------------------------------------------
+[2022-06-03 10:50:22] BUY
+Random---Twenty-four hours or ten percent has bought XRT for $4.07
+Random---Twenty-four hours or ten percent now has $4884.204881213232
+---------------------------------------------------------------------------
