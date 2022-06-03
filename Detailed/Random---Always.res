@@ -15779,3 +15779,46 @@ Is init: True
 
 Random---Always now has $3523.5448635067905
 ---------------------------------------------------------------------------
+[2022-06-03 15:22:37] SOLD
+Random---Always has sold: 
+Name: ICPUSD
+Altname: ICPUSD
+Wsname: ICP/USD
+Base:
+ 	Name: ICP
+	Altname: ICP
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (ICPUSD):
+	Current:                    8.36
+	Maximum:                    0.133601
+	Minimum:                    0.102712
+	Variance:                   0.231204
+	Mean:                       0.121736
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.571429
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.5
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         False
+	Average local maximum:      8.214286
+	Number of local maximums:   28
+	Average local minimum:      8.129375
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Always now has $3505.222430216555
+---------------------------------------------------------------------------

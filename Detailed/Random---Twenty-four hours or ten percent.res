@@ -15779,3 +15779,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $4006.090282881713
 ---------------------------------------------------------------------------
+[2022-06-03 15:22:37] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: AUDIOUSD
+Altname: AUDIOUSD
+Wsname: AUDIO/USD
+Base:
+ 	Name: AUDIO
+	Altname: AUDIO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (AUDIOUSD):
+	Current:                    0.3831
+	Maximum:                    2.613696
+	Minimum:                    2.068252
+	Variance:                   0.208687
+	Mean:                       2.413235
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 20
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.418167
+	Number of local maximums:   21
+	Average local minimum:      0.419733
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3985.2586134107282
+---------------------------------------------------------------------------
