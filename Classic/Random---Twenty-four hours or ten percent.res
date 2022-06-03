@@ -1486,3 +1486,7 @@ Random---Twenty-four hours or ten percent now has $3973.0241570761664
 Random---Twenty-four hours or ten percent has sold CVX for $8.6. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3952.3644314593703
 ---------------------------------------------------------------------------
+[2022-06-03 15:38:00] BUY
+Random---Twenty-four hours or ten percent has bought XRT for $3.75
+Random---Twenty-four hours or ten percent now has $3952.3644314593703
+---------------------------------------------------------------------------
