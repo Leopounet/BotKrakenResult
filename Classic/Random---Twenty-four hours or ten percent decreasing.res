@@ -1678,3 +1678,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3322.4571594800814
 Random---Twenty-four hours or ten percent decreasing has sold EWT for $2.823. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3305.180382250785
 ---------------------------------------------------------------------------
+[2022-06-03 18:03:29] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XLTC for $61.63
+Random---Twenty-four hours or ten percent decreasing now has $3305.180382250785
+---------------------------------------------------------------------------
