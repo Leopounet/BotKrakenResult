@@ -14102,3 +14102,46 @@ Is init: True
 Profit was 0.16027210884353815%.
 Random---Random now has $3602.538721337787
 ---------------------------------------------------------------------------
+[2022-06-03 22:17:12] BUY
+Random---Random has bought: 
+Name: LRCUSD
+Altname: LRCUSD
+Wsname: LRC/USD
+Base:
+ 	Name: LRC
+	Altname: LRC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 15
+Data about this pair of assets (LRCUSD):
+	Current:                    0.5266
+	Maximum:                    1.960016
+	Minimum:                    1.732802
+	Variance:                   0.115924
+	Mean:                       1.873594
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.653846
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.391304
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.534508
+	Number of local maximums:   26
+	Average local minimum:      0.535
+	Number of local minimums:   23
+Is init: True
+
+Random---Random now has $3602.538721337787
+---------------------------------------------------------------------------
