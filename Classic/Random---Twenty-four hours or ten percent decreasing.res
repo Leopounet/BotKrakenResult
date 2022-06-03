@@ -738,3 +738,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6318.111142065955
 Random---Twenty-four hours or ten percent decreasing has bought FXS for $6.77
 Random---Twenty-four hours or ten percent decreasing now has $6318.111142065955
 ---------------------------------------------------------------------------
+[2022-06-03 05:48:39] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold FXS for $6.77. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6285.256964127212
+---------------------------------------------------------------------------
