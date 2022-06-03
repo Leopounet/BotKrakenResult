@@ -9028,3 +9028,46 @@ Is init: True
 Profit was 3.6151926207270706%.
 Random---Random now has $5826.8919187748525
 ---------------------------------------------------------------------------
+[2022-06-03 12:25:35] BUY
+Random---Random has bought: 
+Name: QTUMUSD
+Altname: QTUMUSD
+Wsname: QTUM/USD
+Base:
+ 	Name: QTUM
+	Altname: QTUM
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (QTUMUSD):
+	Current:                    3.79794
+	Maximum:                    0.266086
+	Minimum:                    0.233417
+	Variance:                   0.122777
+	Mean:                       0.252358
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.2
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.8125
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      3.959869
+	Number of local maximums:   30
+	Average local minimum:      3.94728
+	Number of local minimums:   32
+Is init: True
+
+Random---Random now has $5826.8919187748525
+---------------------------------------------------------------------------

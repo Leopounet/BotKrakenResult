@@ -1246,3 +1246,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4444.2117831192
 Random---Twenty-four hours or ten percent decreasing has sold ALICE for $2.73. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4421.10188184698
 ---------------------------------------------------------------------------
+[2022-06-03 12:25:35] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SRM for $1.023
+Random---Twenty-four hours or ten percent decreasing now has $4421.10188184698
+---------------------------------------------------------------------------
