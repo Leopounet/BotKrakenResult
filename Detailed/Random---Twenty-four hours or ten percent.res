@@ -15693,3 +15693,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $4027.0308432667
 ---------------------------------------------------------------------------
+[2022-06-03 15:16:29] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: BCHUSD
+Altname: BCHUSD
+Wsname: BCH/USD
+Base:
+ 	Name: BCH
+	Altname: BCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.01
+Data about this pair of assets (BCHUSD):
+	Current:                    180.4
+	Maximum:                    0.005543
+	Minimum:                    0.00489
+	Variance:                   0.117762
+	Mean:                       0.005282
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.15
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.857143
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      189.612
+	Number of local maximums:   20
+	Average local minimum:      189.833333
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $4006.090282881713
+---------------------------------------------------------------------------
