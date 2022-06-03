@@ -814,3 +814,7 @@ Lower All Local Minimums---Always now has $6429.3162907234255
 Lower All Local Minimums---Always has sold 1INCH for $0.909. Profit was -0.52%.
 Lower All Local Minimums---Always now has $6395.883846011664
 ---------------------------------------------------------------------------
+[2022-06-03 06:44:41] BUY
+Lower All Local Minimums---Always has bought KAVA for $2.5869
+Lower All Local Minimums---Always now has $6395.883846011664
+---------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-[2022-06-03 06:41:43] SUMMARY
+[2022-06-03 06:44:41] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: GHSTUSD
+	Altname: GHSTUSD
+	Wsname: GHST/USD
+	Base:
+	 	Name: GHST
+		Altname: GHST
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2
+	Data about this pair of assets (GHSTUSD):
+		Current:                    1.4981
+		Maximum:                    0.795039
+		Minimum:                    0.64612
+		Variance:                   0.18731
+		Mean:                       0.669038
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.608696
+		Is ascending:               True
+		Current ascension duration: 59
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.45
+		Is falling:                 True
+		Current fall duration:      26
+		Trending downwards:         True
+		Average local maximum:      1.491848
+		Number of local maximums:   23
+		Average local minimum:      1.497485
+		Number of local minimums:   20
+	Is init: True
 Wins: 0
 Losses: 102
 Total points: -55.12359465781651%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: QNTUSD
+	Altname: QNTUSD
+	Wsname: QNT/USD
+	Base:
+	 	Name: QNT
+		Altname: QNT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.05
+	Data about this pair of assets (QNTUSD):
+		Current:                    67.52
+		Maximum:                    0.015267
+		Minimum:                    0.013701
+		Variance:                   0.102617
+		Mean:                       0.014515
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.333333
+		Is ascending:               True
+		Current ascension duration: 12
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.7
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      68.713333
+		Number of local maximums:   27
+		Average local minimum:      69.063
+		Number of local minimums:   30
+	Is init: True
 Wins: 5
 Losses: 97
 Total points: -49.60490906316829%
