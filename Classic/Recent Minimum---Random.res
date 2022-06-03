@@ -662,3 +662,7 @@ Recent Minimum---Random now has $6471.662230886489
 Recent Minimum---Random has sold BNT for $1.244. Profit was -0.52%.
 Recent Minimum---Random now has $6438.009587285879
 ---------------------------------------------------------------------------
+[2022-06-03 09:49:44] BUY
+Recent Minimum---Random has bought BNT for $1.244
+Recent Minimum---Random now has $6438.009587285879
+---------------------------------------------------------------------------

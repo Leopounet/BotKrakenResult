@@ -11307,3 +11307,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $5191.818532367598
 ---------------------------------------------------------------------------
+[2022-06-03 09:49:44] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: MINAUSD
+Altname: MINAUSD
+Wsname: MINA/USD
+Base:
+ 	Name: MINA
+	Altname: MINA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (MINAUSD):
+	Current:                    0.843
+	Maximum:                    1.190476
+	Minimum:                    1.035197
+	Variance:                   0.130435
+	Mean:                       1.129631
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.314286
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.888889
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.881314
+	Number of local maximums:   35
+	Average local minimum:      0.893
+	Number of local minimums:   27
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $5164.821075999286
+---------------------------------------------------------------------------

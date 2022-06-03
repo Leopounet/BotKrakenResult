@@ -1,4 +1,4 @@
-[2022-06-03 09:46:30] SUMMARY
+[2022-06-03 09:49:44] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: JASMYUSD
-	Altname: JASMYUSD
-	Wsname: JASMY/USD
-	Base:
-	 	Name: JASMY
-		Altname: JASMY
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 100
-	Data about this pair of assets (JASMYUSD):
-		Current:                    0.01201
-		Maximum:                    87.873462
-		Minimum:                    72.56894
-		Variance:                   0.174165
-		Mean:                       82.619888
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.04
-		Is ascending:               True
-		Current ascension duration: 7
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.411765
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         True
-		Average local maximum:      0.012101
-		Number of local maximums:   25
-		Average local minimum:      0.012412
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 0
-Losses: 131
-Total points: -71.2424192693968%
-Wallet: 4894.439998287453
+Losses: 132
+Total points: -71.7624192693968%
+Wallet: 4868.988910296358
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MINAUSD
-	Altname: MINAUSD
-	Wsname: MINA/USD
-	Base:
-	 	Name: MINA
-		Altname: MINA
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (MINAUSD):
-		Current:                    0.843
-		Maximum:                    1.190476
-		Minimum:                    1.035197
-		Variance:                   0.130435
-		Mean:                       1.129631
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.314286
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.888889
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.881314
-		Number of local maximums:   35
-		Average local minimum:      0.893
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 5
-Losses: 126
-Total points: -65.28385912919552%
-Wallet: 5191.818532367598
+Losses: 127
+Total points: -65.80385912919552%
+Wallet: 5164.821075999286
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

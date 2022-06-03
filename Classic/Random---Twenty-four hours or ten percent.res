@@ -1050,3 +1050,7 @@ Random---Twenty-four hours or ten percent now has $5191.818532367598
 Random---Twenty-four hours or ten percent has bought MINA for $0.843
 Random---Twenty-four hours or ten percent now has $5191.818532367598
 ---------------------------------------------------------------------------
+[2022-06-03 09:49:44] SOLD
+Random---Twenty-four hours or ten percent has sold MINA for $0.843. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $5164.821075999286
+---------------------------------------------------------------------------
