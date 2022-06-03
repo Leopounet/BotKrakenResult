@@ -478,3 +478,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold ZUSD for $0.95728. Profit was -0.4%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $7801.89646041366
 ---------------------------------------------------------------------------
+[2022-06-03 02:37:00] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought BNC for $0.351
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $7801.89646041366
+---------------------------------------------------------------------------

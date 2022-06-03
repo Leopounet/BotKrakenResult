@@ -5158,3 +5158,46 @@ Is init: True
 Profit was -1.7593493415956636%.
 Random---Twenty-four hours or ten percent now has $7688.214380297213
 ---------------------------------------------------------------------------
+[2022-06-03 02:37:00] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: IMXUSD
+Altname: IMXUSD
+Wsname: IMX/USD
+Base:
+ 	Name: IMX
+	Altname: IMX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (IMXUSD):
+	Current:                    0.968
+	Maximum:                    1.098901
+	Minimum:                    0.888099
+	Variance:                   0.191829
+	Mean:                       0.990769
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.3
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.913043
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.003133
+	Number of local maximums:   30
+	Average local minimum:      1.009478
+	Number of local minimums:   23
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $7688.214380297213
+---------------------------------------------------------------------------

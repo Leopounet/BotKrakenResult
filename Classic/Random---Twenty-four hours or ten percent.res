@@ -478,3 +478,7 @@ Random---Twenty-four hours or ten percent now has $7825.899287892693
 Random---Twenty-four hours or ten percent has sold PERP for $1.275. Profit was -1.7593493415956636%.
 Random---Twenty-four hours or ten percent now has $7688.214380297213
 ---------------------------------------------------------------------------
+[2022-06-03 02:37:00] BUY
+Random---Twenty-four hours or ten percent has bought IMX for $0.968
+Random---Twenty-four hours or ten percent now has $7688.214380297213
+---------------------------------------------------------------------------
