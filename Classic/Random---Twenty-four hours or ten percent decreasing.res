@@ -658,3 +658,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6667.633645234058
 Random---Twenty-four hours or ten percent decreasing has bought ANKR for $0.03904
 Random---Twenty-four hours or ten percent decreasing now has $6667.633645234058
 ---------------------------------------------------------------------------
+[2022-06-03 04:49:39] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ANKR for $0.03904. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6632.961950278841
+---------------------------------------------------------------------------
