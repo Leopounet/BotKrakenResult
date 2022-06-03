@@ -398,3 +398,7 @@ Random---Twenty-four hours or ten percent now has $8076.265297778917
 Random---Twenty-four hours or ten percent has sold XXBT for $30435.0. Profit was -0.503568846533033%.
 Random---Twenty-four hours or ten percent now has $8035.595741775944
 ---------------------------------------------------------------------------
+[2022-06-03 01:37:48] BUY
+Random---Twenty-four hours or ten percent has bought LRC for $0.543
+Random---Twenty-four hours or ten percent now has $8035.595741775944
+---------------------------------------------------------------------------

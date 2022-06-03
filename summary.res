@@ -1,4 +1,4 @@
-[2022-06-03 01:34:51] SUMMARY
+[2022-06-03 01:37:48] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: WOOUSD
+	Altname: WOOUSD
+	Wsname: WOO/USD
+	Base:
+	 	Name: WOO
+		Altname: WOO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (WOOUSD):
+		Current:                    0.1605
+		Maximum:                    6.7659
+		Minimum:                    2.534212
+		Variance:                   0.625443
+		Mean:                       5.899536
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.304348
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               6.9
+		Is falling:                 True
+		Current fall duration:      8
+		Trending downwards:         True
+		Average local maximum:      0.171787
+		Number of local maximums:   23
+		Average local minimum:      0.17287
+		Number of local minimums:   10
+	Is init: True
 Wins: 0
 Losses: 50
 Total points: -27.282785658670424%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AVAXUSD
-	Altname: AVAXUSD
-	Wsname: AVAX/USD
-	Base:
-	 	Name: AVAX
-		Altname: AVAX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.1
-	Data about this pair of assets (AVAXUSD):
-		Current:                    24.36
-		Maximum:                    0.044053
-		Minimum:                    0.036576
-		Variance:                   0.169715
-		Mean:                       0.040306
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.48
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.586207
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      24.8148
-		Number of local maximums:   25
-		Average local minimum:      24.582414
-		Number of local minimums:   29
-	Is init: True
+	None
 Wins: 2
-Losses: 35
-Total points: -18.47941596221015%
-Wallet: 8308.152969270557
+Losses: 36
+Total points: -18.99941596221015%
+Wallet: 8264.95057383035
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

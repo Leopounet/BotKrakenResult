@@ -298,3 +298,7 @@ Random---Random now has $8308.152969270557
 Random---Random has bought AVAX for $24.36
 Random---Random now has $8308.152969270557
 ---------------------------------------------------------------------------
+[2022-06-03 01:37:48] SOLD
+Random---Random has sold AVAX for $24.36. Profit was -0.52%.
+Random---Random now has $8264.95057383035
+---------------------------------------------------------------------------

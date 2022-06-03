@@ -398,3 +398,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7854.77446300815
 Random---Twenty-four hours or ten percent decreasing has sold KP3R for $135.5. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7813.929635800508
 ---------------------------------------------------------------------------
+[2022-06-03 01:37:48] BUY
+Random---Twenty-four hours or ten percent decreasing has bought DASH for $59.083
+Random---Twenty-four hours or ten percent decreasing now has $7813.929635800508
+---------------------------------------------------------------------------
