@@ -1,4 +1,4 @@
-[2022-06-03 16:28:22] SUMMARY
+[2022-06-03 16:31:20] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SPELLUSD
-	Altname: SPELLUSD
-	Wsname: SPELL/USD
-	Base:
-	 	Name: SPELL
-		Altname: SPELL
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1000
-	Data about this pair of assets (SPELLUSD):
-		Current:                    0.001218
-		Maximum:                    829.187396
-		Minimum:                    753.012048
-		Variance:                   0.091867
-		Mean:                       796.370213
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.730769
-		Is ascending:               True
-		Current ascension duration: 9
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.2
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.001255
-		Number of local maximums:   26
-		Average local minimum:      0.001267
-		Number of local minimums:   15
-	Is init: True
+	None
 Wins: 1
-Losses: 193
-Total points: -109.61225143604084%
-Wallet: 3327.1574098822807
+Losses: 194
+Total points: -110.13225143604083%
+Wallet: 3309.856191350893
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: WOOUSD
+	Altname: WOOUSD
+	Wsname: WOO/USD
+	Base:
+	 	Name: WOO
+		Altname: WOO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (WOOUSD):
+		Current:                    0.1543
+		Maximum:                    6.7659
+		Minimum:                    2.534212
+		Variance:                   0.625443
+		Mean:                       6.088781
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.65
+		Is ascending:               True
+		Current ascension duration: 8
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               5.454545
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.16702
+		Number of local maximums:   20
+		Average local minimum:      0.165609
+		Number of local minimums:   11
+	Is init: True
 Wins: 8
 Losses: 122
 Total points: -33.28501047219972%

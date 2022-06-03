@@ -1554,3 +1554,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3569.19236749783
 Random---Twenty-four hours or ten percent decreasing has bought MASK for $1.699
 Random---Twenty-four hours or ten percent decreasing now has $3569.19236749783
 ---------------------------------------------------------------------------
+[2022-06-03 16:31:20] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MASK for $1.699. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3550.6325671868417
+---------------------------------------------------------------------------
