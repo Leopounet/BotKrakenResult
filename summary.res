@@ -1,4 +1,4 @@
-[2022-06-03 07:51:57] SUMMARY
+[2022-06-03 07:55:14] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SAMOUSD
-	Altname: SAMOUSD
-	Wsname: SAMO/USD
-	Base:
-	 	Name: SAMO
-		Altname: SAMO
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 200
-	Data about this pair of assets (SAMOUSD):
-		Current:                    0.005645
-		Maximum:                    181.093807
-		Minimum:                    164.934851
-		Variance:                   0.08923
-		Mean:                       176.305152
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.52
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.571429
-		Is falling:                 True
-		Current fall duration:      7
-		Trending downwards:         True
-		Average local maximum:      0.005667
-		Number of local maximums:   25
-		Average local minimum:      0.005725
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 0
-Losses: 113
-Total points: -60.98997796267619%
-Wallet: 5424.54056946443
+Losses: 114
+Total points: -61.509977962676196%
+Wallet: 5396.332958503214
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TRIBEUSD
-	Altname: TRIBEUSD
-	Wsname: TRIBE/USD
-	Base:
-	 	Name: TRIBE
-		Altname: TRIBE
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (TRIBEUSD):
-		Current:                    0.2089
-		Maximum:                    4.870921
-		Minimum:                    3.573981
-		Variance:                   0.266262
-		Mean:                       4.266847
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.615385
-		Is ascending:               True
-		Current ascension duration: 31
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.571429
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.235685
-		Number of local maximums:   13
-		Average local minimum:      0.240543
-		Number of local minimums:   7
-	Is init: True
+	None
 Wins: 5
-Losses: 108
-Total points: -55.86633021872398%
-Wallet: 5705.9484063589725
+Losses: 109
+Total points: -56.386330218723984%
+Wallet: 5676.277474645906
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
