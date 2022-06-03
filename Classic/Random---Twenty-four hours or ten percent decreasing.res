@@ -430,3 +430,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7692.665100753058
 Random---Twenty-four hours or ten percent decreasing has sold TRX for $0.086007. Profit was -0.2565383942831141%.
 Random---Twenty-four hours or ten percent decreasing now has $7672.930461226008
 ---------------------------------------------------------------------------
+[2022-06-03 02:01:23] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZUSD for $1.25755
+Random---Twenty-four hours or ten percent decreasing now has $7672.930461226008
+---------------------------------------------------------------------------
