@@ -1650,3 +1650,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3374.8312349640096
 Random---Twenty-four hours or ten percent decreasing has bought XZEC for $88.75
 Random---Twenty-four hours or ten percent decreasing now has $3374.8312349640096
 ---------------------------------------------------------------------------
+[2022-06-03 17:42:39] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XZEC for $88.75. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3357.282112542197
+---------------------------------------------------------------------------
