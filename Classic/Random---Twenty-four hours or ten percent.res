@@ -682,3 +682,7 @@ Random---Twenty-four hours or ten percent now has $6738.091757959536
 Random---Twenty-four hours or ten percent has bought LINK for $7.03543
 Random---Twenty-four hours or ten percent now has $6738.091757959536
 ---------------------------------------------------------------------------
+[2022-06-03 05:07:20] SOLD
+Random---Twenty-four hours or ten percent has sold LINK for $7.03543. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $6703.053680818147
+---------------------------------------------------------------------------
