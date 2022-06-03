@@ -2042,3 +2042,7 @@ Recent Minimum---Always now has $2743.201932096096
 Recent Minimum---Always has bought AVAX for $23.22
 Recent Minimum---Always now has $2743.201932096096
 ---------------------------------------------------------------------------
+[2022-06-03 22:35:01] SOLD
+Recent Minimum---Always has sold AVAX for $23.16. Profit was -0.7783979328165342%.
+Recent Minimum---Always now has $2721.8489049636764
+---------------------------------------------------------------------------

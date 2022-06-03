@@ -21971,3 +21971,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $2802.067079934951
 ---------------------------------------------------------------------------
+[2022-06-03 22:35:01] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: FILUSD
+Altname: FILUSD
+Wsname: FIL/USD
+Base:
+ 	Name: FIL
+	Altname: FIL
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (FILUSD):
+	Current:                    7.456
+	Maximum:                    0.137099
+	Minimum:                    0.119517
+	Variance:                   0.128242
+	Mean:                       0.132689
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.72
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.419355
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      7.46464
+	Number of local maximums:   25
+	Average local minimum:      7.52129
+	Number of local minimums:   31
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2787.496331119289
+---------------------------------------------------------------------------
