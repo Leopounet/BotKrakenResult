@@ -1,4 +1,4 @@
-[2022-06-03 09:59:28] SUMMARY
+[2022-06-03 10:02:40] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: REPV2USD
-	Altname: REPV2USD
-	Wsname: REPV2/USD
-	Base:
-	 	Name: REPV2
-		Altname: REPV2
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.15
-	Data about this pair of assets (REPV2USD):
-		Current:                    9.676
-		Maximum:                    0.105719
-		Minimum:                    0.092259
-		Variance:                   0.127318
-		Mean:                       0.101264
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.1
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.285714
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      9.86965
-		Number of local maximums:   20
-		Average local minimum:      9.894929
-		Number of local minimums:   14
-	Is init: True
+	None
 Wins: 0
-Losses: 133
-Total points: -72.2824192693968%
-Wallet: 4843.670167962817
+Losses: 134
+Total points: -72.96777685517604%
+Wallet: 4810.473707036557
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GARIUSD
-	Altname: GARIUSD
-	Wsname: GARI/USD
-	Base:
-	 	Name: GARI
-		Altname: GARI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 15
-	Data about this pair of assets (GARIUSD):
-		Current:                    0.6221
-		Maximum:                    1.63212
-		Minimum:                    1.532332
-		Variance:                   0.06114
-		Mean:                       1.575296
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.333333
-		Is ascending:               True
-		Current ascension duration: 93
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.857143
-		Is falling:                 True
-		Current fall duration:      129
-		Trending downwards:         True
-		Average local maximum:      0.6316
-		Number of local maximums:   9
-		Average local minimum:      0.631671
-		Number of local minimums:   7
-	Is init: True
+	None
 Wins: 5
-Losses: 128
-Total points: -66.32385912919551%
-Wallet: 5137.96400640409
+Losses: 129
+Total points: -66.84385912919551%
+Wallet: 5111.246593570789
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

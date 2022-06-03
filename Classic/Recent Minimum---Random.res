@@ -678,3 +678,7 @@ Recent Minimum---Random now has $6404.531937431992
 Recent Minimum---Random has sold ALGO for $0.38034. Profit was -0.761305146094517%.
 Recent Minimum---Random now has $6355.773906209056
 ---------------------------------------------------------------------------
+[2022-06-03 10:02:40] BUY
+Recent Minimum---Random has bought BADGER for $5.826
+Recent Minimum---Random now has $6355.773906209056
+---------------------------------------------------------------------------

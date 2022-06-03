@@ -1066,3 +1066,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5034.063126226057
 Random---Twenty-four hours or ten percent decreasing has bought BAND for $1.665
 Random---Twenty-four hours or ten percent decreasing now has $5034.063126226057
 ---------------------------------------------------------------------------
+[2022-06-03 10:02:40] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold BAND for $1.665. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $5007.885997969681
+---------------------------------------------------------------------------
