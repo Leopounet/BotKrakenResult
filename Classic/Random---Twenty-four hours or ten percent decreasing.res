@@ -1214,3 +1214,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4537.8657155928095
 Random---Twenty-four hours or ten percent decreasing has sold ALGO for $0.37449. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4514.268813871727
 ---------------------------------------------------------------------------
+[2022-06-03 12:00:37] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WOO for $0.1527
+Random---Twenty-four hours or ten percent decreasing now has $4514.268813871727
+---------------------------------------------------------------------------

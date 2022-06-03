@@ -1,4 +1,4 @@
-[2022-06-03 11:57:32] SUMMARY
+[2022-06-03 12:00:37] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ZEURZUSD
+	Altname: EURUSD
+	Wsname: EUR/USD
+	Base:
+	 	Name: ZEUR
+		Altname: EUR
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (ZEURZUSD):
+		Current:                    1.07225
+		Maximum:                    0.940805
+		Minimum:                    0.929325
+		Variance:                   0.012202
+		Mean:                       0.934191
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.55
+		Is ascending:               True
+		Current ascension duration: 6
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.529412
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      1.071904
+		Number of local maximums:   20
+		Average local minimum:      1.069925
+		Number of local minimums:   17
+	Is init: True
 Wins: 0
 Losses: 152
 Total points: -87.83427102039248%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ZGBPZUSD
+	Altname: GBPUSD
+	Wsname: GBP/USD
+	Base:
+	 	Name: ZGBP
+		Altname: GBP
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (ZGBPZUSD):
+		Current:                    1.25575
+		Maximum:                    0.802195
+		Minimum:                    0.79228
+		Variance:                   0.01236
+		Mean:                       0.796784
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.192308
+		Is ascending:               True
+		Current ascension duration: 5
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.105263
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      1.255313
+		Number of local maximums:   26
+		Average local minimum:      1.254831
+		Number of local minimums:   19
+	Is init: True
 Wins: 6
 Losses: 146
 Total points: -76.09254147177391%

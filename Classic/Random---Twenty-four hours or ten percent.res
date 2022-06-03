@@ -1214,3 +1214,7 @@ Random---Twenty-four hours or ten percent now has $4682.134788105591
 Random---Twenty-four hours or ten percent has sold GHST for $1.4784. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4657.787687207442
 ---------------------------------------------------------------------------
+[2022-06-03 12:00:37] BUY
+Random---Twenty-four hours or ten percent has bought ZGBP for $1.25575
+Random---Twenty-four hours or ten percent now has $4657.787687207442
+---------------------------------------------------------------------------
