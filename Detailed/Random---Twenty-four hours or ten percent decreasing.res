@@ -6620,3 +6620,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6843.729669989082
 ---------------------------------------------------------------------------
+[2022-06-03 04:17:15] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: API3USD
+Altname: API3USD
+Wsname: API3/USD
+Base:
+ 	Name: API3
+	Altname: API3
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (API3USD):
+	Current:                    1.584
+	Maximum:                    0.631712
+	Minimum:                    0.529661
+	Variance:                   0.161547
+	Mean:                       0.596409
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.894737
+	Is ascending:               True
+	Current ascension duration: 81
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.75
+	Is falling:                 True
+	Current fall duration:      76
+	Trending downwards:         True
+	Average local maximum:      1.709526
+	Number of local maximums:   19
+	Average local minimum:      1.709333
+	Number of local minimums:   12
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $6843.729669989082
+---------------------------------------------------------------------------

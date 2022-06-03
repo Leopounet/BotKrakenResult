@@ -614,3 +614,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6879.503086036471
 Random---Twenty-four hours or ten percent decreasing has sold FET for $0.163. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6843.729669989082
 ---------------------------------------------------------------------------
+[2022-06-03 04:17:15] BUY
+Random---Twenty-four hours or ten percent decreasing has bought API3 for $1.584
+Random---Twenty-four hours or ten percent decreasing now has $6843.729669989082
+---------------------------------------------------------------------------
