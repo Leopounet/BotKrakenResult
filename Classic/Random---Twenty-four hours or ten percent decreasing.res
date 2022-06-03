@@ -1622,3 +1622,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3446.544426799572
 Random---Twenty-four hours or ten percent decreasing has sold REQ for $0.12987. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3428.6223957802144
 ---------------------------------------------------------------------------
+[2022-06-03 17:21:49] BUY
+Random---Twenty-four hours or ten percent decreasing has bought PHA for $0.1229
+Random---Twenty-four hours or ten percent decreasing now has $3428.6223957802144
+---------------------------------------------------------------------------

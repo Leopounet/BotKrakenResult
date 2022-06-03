@@ -1622,3 +1622,7 @@ Random---Twenty-four hours or ten percent now has $3600.9880072495835
 Random---Twenty-four hours or ten percent has sold NMR for $11.45. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3582.2628696118854
 ---------------------------------------------------------------------------
+[2022-06-03 17:21:49] BUY
+Random---Twenty-four hours or ten percent has bought GST for $0.879
+Random---Twenty-four hours or ten percent now has $3582.2628696118854
+---------------------------------------------------------------------------
