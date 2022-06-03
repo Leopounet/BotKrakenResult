@@ -15435,3 +15435,46 @@ Is init: True
 
 Random---Always now has $3563.0151677039844
 ---------------------------------------------------------------------------
+[2022-06-03 14:57:03] SOLD
+Random---Always has sold: 
+Name: MATICUSD
+Altname: MATICUSD
+Wsname: MATIC/USD
+Base:
+ 	Name: MATIC
+	Altname: MATIC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (MATICUSD):
+	Current:                    0.5802
+	Maximum:                    1.734605
+	Minimum:                    1.528117
+	Variance:                   0.11904
+	Mean:                       1.63295
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.1
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.285714
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.608693
+	Number of local maximums:   30
+	Average local minimum:      0.613681
+	Number of local minimums:   21
+Is init: True
+Profit was -0.4855291278869429%.
+Random---Always now has $3545.715691233752
+---------------------------------------------------------------------------
