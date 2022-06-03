@@ -1502,3 +1502,7 @@ Random---Twenty-four hours or ten percent now has $3931.8121364157814
 Random---Twenty-four hours or ten percent has sold TBTC for $29720.1. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3911.3667133064196
 ---------------------------------------------------------------------------
+[2022-06-03 15:51:03] BUY
+Random---Twenty-four hours or ten percent has bought ANKR for $0.03726
+Random---Twenty-four hours or ten percent now has $3911.3667133064196
+---------------------------------------------------------------------------

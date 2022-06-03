@@ -1,4 +1,4 @@
-[2022-06-03 15:47:53] SUMMARY
+[2022-06-03 15:51:03] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SCRTUSD
+	Altname: SCRTUSD
+	Wsname: SCRT/USD
+	Base:
+	 	Name: SCRT
+		Altname: SCRT
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (SCRTUSD):
+		Current:                    1.496
+		Maximum:                    0.675219
+		Minimum:                    0.569152
+		Variance:                   0.157086
+		Mean:                       0.634161
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.416667
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.724138
+		Is falling:                 True
+		Current fall duration:      13
+		Trending downwards:         True
+		Average local maximum:      1.565944
+		Number of local maximums:   36
+		Average local minimum:      1.579586
+		Number of local minimums:   29
+	Is init: True
 Wins: 1
 Losses: 187
 Total points: -106.49225143604086%

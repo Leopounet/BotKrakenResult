@@ -1502,3 +1502,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3701.855986951186
 Random---Twenty-four hours or ten percent decreasing has sold OCEAN for $0.2008. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3682.60633581904
 ---------------------------------------------------------------------------
+[2022-06-03 15:51:03] BUY
+Random---Twenty-four hours or ten percent decreasing has bought STORJ for $0.56
+Random---Twenty-four hours or ten percent decreasing now has $3682.60633581904
+---------------------------------------------------------------------------
