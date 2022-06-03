@@ -18961,3 +18961,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3429.5335925172003
 ---------------------------------------------------------------------------
+[2022-06-03 19:06:02] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold: 
+Name: RUNEUSD
+Altname: RUNEUSD
+Wsname: RUNE/USD
+Base:
+ 	Name: RUNE
+	Altname: RUNE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (RUNEUSD):
+	Current:                    2.608
+	Maximum:                    0.389105
+	Minimum:                    0.338524
+	Variance:                   0.129993
+	Mean:                       0.365181
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.206897
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.806452
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      2.724034
+	Number of local maximums:   29
+	Average local minimum:      2.73771
+	Number of local minimums:   31
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3411.700017836111
+---------------------------------------------------------------------------

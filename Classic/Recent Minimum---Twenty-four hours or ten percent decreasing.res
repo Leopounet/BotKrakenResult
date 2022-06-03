@@ -1762,3 +1762,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $3272.68467
 Recent Minimum---Twenty-four hours or ten percent decreasing has bought ALGO for $0.37785
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $3272.684677495384
 ---------------------------------------------------------------------------
+[2022-06-03 19:06:02] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold ALGO for $0.3775. Profit was -0.6126293502712783%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $3252.6352506192165
+---------------------------------------------------------------------------
