@@ -19391,3 +19391,46 @@ Is init: True
 
 Random---Always now has $2638.175273176126
 ---------------------------------------------------------------------------
+[2022-06-03 19:35:50] SOLD
+Random---Always has sold: 
+Name: KP3RUSD
+Altname: KP3RUSD
+Wsname: KP3R/USD
+Base:
+ 	Name: KP3R
+	Altname: KP3R
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.025
+Data about this pair of assets (KP3RUSD):
+	Current:                    130.0
+	Maximum:                    0.007937
+	Minimum:                    0.007143
+	Variance:                   0.1
+	Mean:                       0.007532
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.4
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.045455
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      132.426667
+	Number of local maximums:   15
+	Average local minimum:      131.681818
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Always now has $2624.4567617556104
+---------------------------------------------------------------------------

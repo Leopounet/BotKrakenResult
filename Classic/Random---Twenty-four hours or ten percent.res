@@ -1802,3 +1802,7 @@ Random---Twenty-four hours or ten percent now has $3213.5212775076193
 Random---Twenty-four hours or ten percent has bought KINT for $4.1
 Random---Twenty-four hours or ten percent now has $3213.5212775076193
 ---------------------------------------------------------------------------
+[2022-06-03 19:35:50] SOLD
+Random---Twenty-four hours or ten percent has sold KINT for $4.1. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3196.8109668645798
+---------------------------------------------------------------------------
