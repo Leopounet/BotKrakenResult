@@ -2030,3 +2030,7 @@ Random---Twenty-four hours or ten percent now has $2835.859856133346
 Random---Twenty-four hours or ten percent has sold WAVES for $9.7184. Profit was -0.675134329891593%.
 Random---Twenty-four hours or ten percent now has $2816.7139926969753
 ---------------------------------------------------------------------------
+[2022-06-03 22:26:07] BUY
+Random---Twenty-four hours or ten percent has bought RARE for $0.2496
+Random---Twenty-four hours or ten percent now has $2816.7139926969753
+---------------------------------------------------------------------------

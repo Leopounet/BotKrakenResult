@@ -2030,3 +2030,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2671.4876330198654
 Random---Twenty-four hours or ten percent decreasing has sold KP3R for $131.1. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2657.595897328162
 ---------------------------------------------------------------------------
+[2022-06-03 22:26:07] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AAVE for $108.29
+Random---Twenty-four hours or ten percent decreasing now has $2657.595897328162
+---------------------------------------------------------------------------
