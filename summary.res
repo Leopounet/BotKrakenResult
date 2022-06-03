@@ -1,4 +1,4 @@
-[2022-06-03 08:11:24] SUMMARY
+[2022-06-03 08:14:23] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SUSHIUSD
-	Altname: SUSHIUSD
-	Wsname: SUSHI/USD
-	Base:
-	 	Name: SUSHI
-		Altname: SUSHI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (SUSHIUSD):
-		Current:                    1.631
-		Maximum:                    0.633714
-		Minimum:                    0.531915
-		Variance:                   0.160638
-		Mean:                       0.592176
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.36
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.678571
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         True
-		Average local maximum:      1.68408
-		Number of local maximums:   25
-		Average local minimum:      1.685071
-		Number of local minimums:   28
-	Is init: True
+	None
 Wins: 0
-Losses: 116
-Total points: -62.5499779626762%
-Wallet: 5340.357012577979
+Losses: 117
+Total points: -63.069977962676205%
+Wallet: 5312.587156112573
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: LPTUSD
-	Altname: LPTUSD
-	Wsname: LPT/USD
-	Base:
-	 	Name: LPT
-		Altname: LPT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (LPTUSD):
-		Current:                    12.11
-		Maximum:                    0.084459
-		Minimum:                    0.075188
-		Variance:                   0.109774
-		Mean:                       0.080728
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.789474
-		Is ascending:               True
-		Current ascension duration: 109
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.375
-		Is falling:                 True
-		Current fall duration:      42
-		Trending downwards:         True
-		Average local maximum:      12.365789
-		Number of local maximums:   19
-		Average local minimum:      12.525
-		Number of local minimums:   24
-	Is init: True
+	None
 Wins: 5
-Losses: 111
-Total points: -57.367990527458794%
-Wallet: 5620.6842528133175
+Losses: 112
+Total points: -57.8879905274588%
+Wallet: 5591.456694698688
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
