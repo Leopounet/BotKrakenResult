@@ -690,3 +690,7 @@ Random---Twenty-four hours or ten percent now has $6703.053680818147
 Random---Twenty-four hours or ten percent has bought API3 for $1.584
 Random---Twenty-four hours or ten percent now has $6703.053680818147
 ---------------------------------------------------------------------------
+[2022-06-03 05:13:14] SOLD
+Random---Twenty-four hours or ten percent has sold API3 for $1.597. Profit was 0.3007070707070718%.
+Random---Twenty-four hours or ten percent now has $6723.210237189658
+---------------------------------------------------------------------------
