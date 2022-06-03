@@ -3696,3 +3696,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8071.4218749442225
 ---------------------------------------------------------------------------
+[2022-06-03 00:56:34] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: IDEXUSD
+Altname: IDEXUSD
+Wsname: IDEX/USD
+Base:
+ 	Name: IDEX
+	Altname: IDEX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (IDEXUSD):
+	Current:                    0.06427
+	Maximum:                    15.681355
+	Minimum:                    11.383039
+	Variance:                   0.274104
+	Mean:                       12.819006
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.25
+	Is ascending:               True
+	Current ascension duration: 95
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.769231
+	Is falling:                 True
+	Current fall duration:      39
+	Trending downwards:         True
+	Average local maximum:      0.076453
+	Number of local maximums:   12
+	Average local minimum:      0.079644
+	Number of local minimums:   13
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $8071.4218749442225
+---------------------------------------------------------------------------

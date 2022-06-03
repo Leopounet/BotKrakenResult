@@ -3696,3 +3696,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8322.935097985981
 ---------------------------------------------------------------------------
+[2022-06-03 00:56:34] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: SPELLUSD
+Altname: SPELLUSD
+Wsname: SPELL/USD
+Base:
+ 	Name: SPELL
+	Altname: SPELL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1000
+Data about this pair of assets (SPELLUSD):
+	Current:                    0.001257
+	Maximum:                    821.018062
+	Minimum:                    735.835173
+	Variance:                   0.103753
+	Mean:                       783.731649
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         True
+	Average local maximum:      0.001274
+	Number of local maximums:   30
+	Average local minimum:      0.001289
+	Number of local minimums:   20
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $8322.935097985981
+---------------------------------------------------------------------------

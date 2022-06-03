@@ -342,3 +342,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8113.61266078028
 Random---Twenty-four hours or ten percent decreasing has sold KAVA for $2.5927. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8071.4218749442225
 ---------------------------------------------------------------------------
+[2022-06-03 00:56:34] BUY
+Random---Twenty-four hours or ten percent decreasing has bought IDEX for $0.06427
+Random---Twenty-four hours or ten percent decreasing now has $8071.4218749442225
+---------------------------------------------------------------------------
