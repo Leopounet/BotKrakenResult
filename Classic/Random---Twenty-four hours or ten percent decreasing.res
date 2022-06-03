@@ -1654,3 +1654,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3374.8312349640096
 Random---Twenty-four hours or ten percent decreasing has sold XZEC for $88.75. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3357.282112542197
 ---------------------------------------------------------------------------
+[2022-06-03 17:45:37] BUY
+Random---Twenty-four hours or ten percent decreasing has bought POLIS for $0.601
+Random---Twenty-four hours or ten percent decreasing now has $3357.282112542197
+---------------------------------------------------------------------------
