@@ -1394,3 +1394,7 @@ Random---Twenty-four hours or ten percent now has $4226.403317950043
 Random---Twenty-four hours or ten percent has bought MIR for $0.276
 Random---Twenty-four hours or ten percent now has $4226.403317950043
 ---------------------------------------------------------------------------
+[2022-06-03 14:24:11] SOLD
+Random---Twenty-four hours or ten percent has sold MIR for $0.276. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $4204.426020696703
+---------------------------------------------------------------------------
