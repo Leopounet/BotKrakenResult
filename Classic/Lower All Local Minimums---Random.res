@@ -1342,3 +1342,7 @@ Lower All Local Minimums---Random now has $4446.935341999665
 Lower All Local Minimums---Random has sold DAI for $0.99972. Profit was -0.3829923465559434%.
 Lower All Local Minimums---Random now has $4429.903919983515
 ---------------------------------------------------------------------------
+[2022-06-03 22:13:36] BUY
+Lower All Local Minimums---Random has bought RUNE for $2.618
+Lower All Local Minimums---Random now has $4429.903919983515
+---------------------------------------------------------------------------
