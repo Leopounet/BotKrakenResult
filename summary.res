@@ -1,4 +1,4 @@
-[2022-06-03 06:47:37] SUMMARY
+[2022-06-03 06:50:34] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ANKRUSD
+	Altname: ANKRUSD
+	Wsname: ANKR/USD
+	Base:
+	 	Name: ANKR
+		Altname: ANKR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 50
+	Data about this pair of assets (ANKRUSD):
+		Current:                    0.03891
+		Maximum:                    27.67783
+		Minimum:                    24.289531
+		Variance:                   0.122419
+		Mean:                       25.925207
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.75
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               5.142857
+		Is falling:                 True
+		Current fall duration:      20
+		Trending downwards:         True
+		Average local maximum:      0.038506
+		Number of local maximums:   24
+		Average local minimum:      0.038427
+		Number of local minimums:   14
+	Is init: True
 Wins: 0
 Losses: 103
 Total points: -55.643594657816514%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: MNGOUSD
+	Altname: MNGOUSD
+	Wsname: MNGO/USD
+	Base:
+	 	Name: MNGO
+		Altname: MNGO
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 25
+	Data about this pair of assets (MNGOUSD):
+		Current:                    0.0551
+		Maximum:                    18.975332
+		Minimum:                    17.421603
+		Variance:                   0.081882
+		Mean:                       17.9215
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.052632
+		Is ascending:               True
+		Current ascension duration: 85
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.384615
+		Is falling:                 True
+		Current fall duration:      14
+		Trending downwards:         True
+		Average local maximum:      0.055447
+		Number of local maximums:   19
+		Average local minimum:      0.056154
+		Number of local minimums:   13
+	Is init: True
 Wins: 5
 Losses: 98
 Total points: -50.554411432836524%

@@ -822,3 +822,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5938.60774836222
 Random---Twenty-four hours or ten percent decreasing has sold CVX for $9.0. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5907.726988070736
 ---------------------------------------------------------------------------
+[2022-06-03 06:50:34] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FLOW for $2.512
+Random---Twenty-four hours or ten percent decreasing now has $5907.726988070736
+---------------------------------------------------------------------------

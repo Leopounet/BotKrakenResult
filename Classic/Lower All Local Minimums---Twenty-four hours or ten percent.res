@@ -822,3 +822,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $6395.883846
 Lower All Local Minimums---Twenty-four hours or ten percent has sold KAVA for $2.5738. Profit was -1.0263976187715036%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $6330.236646516809
 ---------------------------------------------------------------------------
+[2022-06-03 06:50:34] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought KAVA for $2.5738
+Lower All Local Minimums---Twenty-four hours or ten percent now has $6330.236646516809
+---------------------------------------------------------------------------
