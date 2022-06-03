@@ -1806,3 +1806,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3067.2272641125383
 Random---Twenty-four hours or ten percent decreasing has sold RUNE for $2.608. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3051.277682339153
 ---------------------------------------------------------------------------
+[2022-06-03 19:38:50] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SNX for $2.687
+Random---Twenty-four hours or ten percent decreasing now has $3051.277682339153
+---------------------------------------------------------------------------

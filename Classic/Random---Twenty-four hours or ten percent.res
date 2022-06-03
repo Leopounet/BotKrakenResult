@@ -1806,3 +1806,7 @@ Random---Twenty-four hours or ten percent now has $3213.5212775076193
 Random---Twenty-four hours or ten percent has sold KINT for $4.1. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3196.8109668645798
 ---------------------------------------------------------------------------
+[2022-06-03 19:38:50] BUY
+Random---Twenty-four hours or ten percent has bought GNO for $185.97
+Random---Twenty-four hours or ten percent now has $3196.8109668645798
+---------------------------------------------------------------------------
