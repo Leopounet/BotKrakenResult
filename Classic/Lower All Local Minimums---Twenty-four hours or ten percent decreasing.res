@@ -1718,3 +1718,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold XMLN for $26.263. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3520.109539628178
 ---------------------------------------------------------------------------
+[2022-06-03 18:33:12] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought RUNE for $2.604
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3520.109539628178
+---------------------------------------------------------------------------
