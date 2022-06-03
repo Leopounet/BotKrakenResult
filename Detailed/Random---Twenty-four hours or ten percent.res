@@ -14919,3 +14919,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $4241.871097476437
 ---------------------------------------------------------------------------
+[2022-06-03 14:17:48] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: USDCHF
+Altname: USDCHF
+Wsname: USD/CHF
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: CHF
+	Altname: CHF
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDCHF):
+	Current:                    0.96168
+	Maximum:                    1.045872
+	Minimum:                    1.035357
+	Variance:                   0.010053
+	Mean:                       1.040917
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.892857
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.111111
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         False
+	Average local maximum:      0.960771
+	Number of local maximums:   28
+	Average local minimum:      0.960606
+	Number of local minimums:   27
+Is init: True
+Profit was -0.3646452042259437%.
+Random---Twenty-four hours or ten percent now has $4226.403317950043
+---------------------------------------------------------------------------
