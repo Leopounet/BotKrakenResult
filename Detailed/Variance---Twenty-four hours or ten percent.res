@@ -4255,3 +4255,46 @@ Is init: True
 
 Variance---Twenty-four hours or ten percent now has $9999.727540893698
 ---------------------------------------------------------------------------
+[2022-06-03 01:34:51] SOLD
+Variance---Twenty-four hours or ten percent has sold: 
+Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base:
+ 	Name: ACH
+	Altname: ACH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (ACHUSD):
+	Current:                    0.0187
+	Maximum:                    72.886297
+	Minimum:                    11.764706
+	Variance:                   0.838588
+	Mean:                       57.110418
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.363636
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.6
+	Is falling:                 True
+	Current fall duration:      28
+	Trending downwards:         True
+	Average local maximum:      0.020414
+	Number of local maximums:   22
+	Average local minimum:      0.024873
+	Number of local minimums:   10
+Is init: True
+Profit was -0.52%.
+Variance---Twenty-four hours or ten percent now has $9947.72895768105
+---------------------------------------------------------------------------
