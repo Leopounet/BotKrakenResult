@@ -1822,3 +1822,7 @@ Random---Twenty-four hours or ten percent now has $3180.187549836884
 Random---Twenty-four hours or ten percent has sold SGB for $0.038. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3163.650574577732
 ---------------------------------------------------------------------------
+[2022-06-03 19:50:42] BUY
+Random---Twenty-four hours or ten percent has bought ASTR for $0.0589
+Random---Twenty-four hours or ten percent now has $3163.650574577732
+---------------------------------------------------------------------------
