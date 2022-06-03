@@ -1862,3 +1862,7 @@ Random---Twenty-four hours or ten percent now has $3115.615257424041
 Random---Twenty-four hours or ten percent has sold SHIB for $1.084e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3099.414058085436
 ---------------------------------------------------------------------------
+[2022-06-03 20:20:27] BUY
+Random---Twenty-four hours or ten percent has bought PSTAKE for $0.227
+Random---Twenty-four hours or ten percent now has $3099.414058085436
+---------------------------------------------------------------------------

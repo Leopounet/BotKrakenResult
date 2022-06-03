@@ -1862,3 +1862,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2969.2980698666242
 Random---Twenty-four hours or ten percent decreasing has sold ANKR for $0.03766. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2953.857719903318
 ---------------------------------------------------------------------------
+[2022-06-03 20:20:27] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TRIBE for $0.2292
+Random---Twenty-four hours or ten percent decreasing now has $2953.857719903318
+---------------------------------------------------------------------------
