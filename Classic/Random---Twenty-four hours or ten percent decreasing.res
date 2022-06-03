@@ -886,3 +886,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5742.6788998134625
 Random---Twenty-four hours or ten percent decreasing has sold KNC for $1.966. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5712.816969534432
 ---------------------------------------------------------------------------
+[2022-06-03 07:39:47] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LDO for $1.014
+Random---Twenty-four hours or ten percent decreasing now has $5712.816969534432
+---------------------------------------------------------------------------
