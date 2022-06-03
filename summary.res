@@ -1,4 +1,4 @@
-[2022-06-03 12:57:37] SUMMARY
+[2022-06-03 13:00:53] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ALCXUSD
-	Altname: ALCXUSD
-	Wsname: ALCX/USD
-	Base:
-	 	Name: ALCX
-		Altname: ALCX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.05
-	Data about this pair of assets (ALCXUSD):
-		Current:                    28.03
-		Maximum:                    0.035676
-		Minimum:                    0.030864
-		Variance:                   0.134877
-		Mean:                       0.033297
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.928571
-		Is ascending:               True
-		Current ascension duration: 150
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.666667
-		Is falling:                 True
-		Current fall duration:      7
-		Trending downwards:         True
-		Average local maximum:      30.201429
-		Number of local maximums:   14
-		Average local minimum:      30.516667
-		Number of local minimums:   9
-	Is init: True
+	None
 Wins: 0
-Losses: 161
-Total points: -92.31580262460437%
-Wallet: 3958.091854961054
+Losses: 162
+Total points: -92.83580262460437%
+Wallet: 3937.5097773152565
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: FTMUSD
-	Altname: FTMUSD
-	Wsname: FTM/USD
-	Base:
-	 	Name: FTM
-		Altname: FTM
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2
-	Data about this pair of assets (FTMUSD):
-		Current:                    0.358
-		Maximum:                    3.333333
-		Minimum:                    2.590674
-		Variance:                   0.222798
-		Mean:                       2.683624
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.571429
-		Is ascending:               True
-		Current ascension duration: 7
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.5
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         False
-		Average local maximum:      0.375
-		Number of local maximums:   21
-		Average local minimum:      0.375722
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 6
-Losses: 155
-Total points: -80.93843804964334%
-Wallet: 4436.856572815104
+Losses: 156
+Total points: -81.45843804964333%
+Wallet: 4413.784918636466
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
