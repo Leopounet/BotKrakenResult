@@ -1,4 +1,4 @@
-[2022-06-03 03:30:00] SUMMARY
+[2022-06-03 03:32:57] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ADAUSD
-	Altname: ADAUSD
-	Wsname: ADA/USD
-	Base:
-	 	Name: ADA
-		Altname: ADA
-		decimals: 8
-		displayed_decimals: 6
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (ADAUSD):
-		Current:                    0.590026
-		Maximum:                    1.848268
-		Minimum:                    1.562837
-		Variance:                   0.154432
-		Mean:                       1.70644
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.652174
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.464286
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.579531
-		Number of local maximums:   23
-		Average local minimum:      0.590178
-		Number of local minimums:   28
-	Is init: True
+	None
 Wins: 0
-Losses: 69
-Total points: -37.16769826503991%
-Wallet: 6888.528806761857
+Losses: 70
+Total points: -37.71413777787494%
+Wallet: 6850.887163508686
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: LUNAUSD
-	Altname: LUNAUSD
-	Wsname: LUNA/USD
-	Base:
-	 	Name: LUNA
-		Altname: LUNA
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 50000
-	Data about this pair of assets (LUNAUSD):
-		Current:                    0.000101
-		Maximum:                    10774.701002
-		Minimum:                    7843.752451
-		Variance:                   0.272021
-		Mean:                       9708.295324
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.576923
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.516129
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.000101
-		Number of local maximums:   26
-		Average local minimum:      0.000104
-		Number of local minimums:   31
-	Is init: True
+	None
 Wins: 4
-Losses: 65
-Total points: -30.951594671102786%
-Wallet: 7328.162924601237
+Losses: 66
+Total points: -31.49140057326163%
+Wallet: 7288.6050686144235
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
