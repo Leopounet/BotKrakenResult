@@ -1,55 +1,18 @@
-[2022-06-03 17:04:02] SUMMARY
+[2022-06-03 17:07:01] SUMMARY
 Most losses: 
-Name: Random---Always
-BuyStrategy description: Random.
+Name: Variance Lower All Local Minimums---Always
+BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
 SellStrategy description: Always sells.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SANDUSD
-	Altname: SANDUSD
-	Wsname: SAND/USD
-	Base:
-	 	Name: SAND
-		Altname: SAND
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (SANDUSD):
-		Current:                    1.2866
-		Maximum:                    0.788022
-		Minimum:                    0.697496
-		Variance:                   0.114878
-		Mean:                       0.747125
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.26087
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.76
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.333174
-		Number of local maximums:   23
-		Average local minimum:      1.342368
-		Number of local minimums:   25
-	Is init: True
+	None
 Wins: 1
-Losses: 199
-Total points: -112.61225143604082%
-Wallet: 3228.5801292323204
+Losses: 200
+Total points: -105.95462325675255%
+Wallet: 3455.6101708167253
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: WOOUSD
+	Altname: WOOUSD
+	Wsname: WOO/USD
+	Base:
+	 	Name: WOO
+		Altname: WOO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (WOOUSD):
+		Current:                    0.1543
+		Maximum:                    6.7659
+		Minimum:                    2.534212
+		Variance:                   0.625443
+		Mean:                       6.096637
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.8
+		Is ascending:               True
+		Current ascension duration: 15
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               5.0
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.16702
+		Number of local maximums:   20
+		Average local minimum:      0.166267
+		Number of local minimums:   12
+	Is init: True
 Wins: 8
 Losses: 126
 Total points: -35.365010472199735%
