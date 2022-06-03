@@ -1698,3 +1698,7 @@ Recent Minimum---Always now has $3406.3426144686114
 Recent Minimum---Always has bought INJ for $2.026
 Recent Minimum---Always now has $3406.3426144686114
 ---------------------------------------------------------------------------
+[2022-06-03 18:18:20] SOLD
+Recent Minimum---Always has sold INJ for $2.026. Profit was -0.52%.
+Recent Minimum---Always now has $3388.6296328733747
+---------------------------------------------------------------------------

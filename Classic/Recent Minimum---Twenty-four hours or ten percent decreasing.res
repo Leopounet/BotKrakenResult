@@ -1698,3 +1698,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $3406.34261
 Recent Minimum---Twenty-four hours or ten percent decreasing has bought INJ for $2.026
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $3406.3426144686114
 ---------------------------------------------------------------------------
+[2022-06-03 18:18:20] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold INJ for $2.026. Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $3388.6296328733747
+---------------------------------------------------------------------------

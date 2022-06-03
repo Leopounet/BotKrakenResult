@@ -1098,3 +1098,7 @@ Recent Minimum---Random now has $4695.735599169026
 Recent Minimum---Random has bought INJ for $2.026
 Recent Minimum---Random now has $4695.735599169026
 ---------------------------------------------------------------------------
+[2022-06-03 18:18:20] SOLD
+Recent Minimum---Random has sold INJ for $2.026. Profit was -0.52%.
+Recent Minimum---Random now has $4671.3177740533465
+---------------------------------------------------------------------------
