@@ -1,4 +1,4 @@
-[2022-06-03 00:47:43] SUMMARY
+[2022-06-03 00:50:40] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: GLMRUSD
+	Altname: GLMRUSD
+	Wsname: GLMR/USD
+	Base:
+	 	Name: GLMR
+		Altname: GLMR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (GLMRUSD):
+		Current:                    1.332
+		Maximum:                    0.817661
+		Minimum:                    0.716332
+		Variance:                   0.123926
+		Mean:                       0.76987
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.275862
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.954545
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      1.291448
+		Number of local maximums:   29
+		Average local minimum:      1.282591
+		Number of local minimums:   22
+	Is init: True
 Wins: 0
 Losses: 42
 Total points: -23.20697676807208%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: AIRUSD
+	Altname: AIRUSD
+	Wsname: AIR/USD
+	Base:
+	 	Name: AIR
+		Altname: AIR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 250
+	Data about this pair of assets (AIRUSD):
+		Current:                    0.02943
+		Maximum:                    39.093041
+		Minimum:                    29.446408
+		Variance:                   0.246761
+		Mean:                       35.831637
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.307692
+		Is ascending:               True
+		Current ascension duration: 40
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.9
+		Is falling:                 True
+		Current fall duration:      26
+		Trending downwards:         False
+		Average local maximum:      0.028542
+		Number of local maximums:   26
+		Average local minimum:      0.028852
+		Number of local minimums:   20
+	Is init: True
 Wins: 2
 Losses: 40
 Total points: -17.774414036875402%

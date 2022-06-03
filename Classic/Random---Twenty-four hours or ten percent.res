@@ -334,3 +334,7 @@ Random---Twenty-four hours or ten percent now has $8410.173491203293
 Random---Twenty-four hours or ten percent has sold MOVR for $21.5492. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8366.440589049036
 ---------------------------------------------------------------------------
+[2022-06-03 00:50:40] BUY
+Random---Twenty-four hours or ten percent has bought AIR for $0.02943
+Random---Twenty-four hours or ten percent now has $8366.440589049036
+---------------------------------------------------------------------------
