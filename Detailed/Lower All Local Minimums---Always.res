@@ -19907,3 +19907,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $3325.647755131672
 ---------------------------------------------------------------------------
+[2022-06-03 20:11:30] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: RUNEUSD
+Altname: RUNEUSD
+Wsname: RUNE/USD
+Base:
+ 	Name: RUNE
+	Altname: RUNE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (RUNEUSD):
+	Current:                    2.568
+	Maximum:                    0.4
+	Minimum:                    0.338524
+	Variance:                   0.15369
+	Mean:                       0.365933
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.103448
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.9
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      2.724034
+	Number of local maximums:   29
+	Average local minimum:      2.7326
+	Number of local minimums:   30
+Is init: True
+Profit was -0.1695327102803863%.
+Lower All Local Minimums---Always now has $3320.0096943580184
+---------------------------------------------------------------------------
