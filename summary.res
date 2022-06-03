@@ -1,4 +1,4 @@
-[2022-06-03 01:23:05] SUMMARY
+[2022-06-03 01:26:00] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: CTSIUSD
+	Altname: CTSIUSD
+	Wsname: CTSI/USD
+	Base:
+	 	Name: CTSI
+		Altname: CTSI
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 10
+	Data about this pair of assets (CTSIUSD):
+		Current:                    0.1967
+		Maximum:                    5.555556
+		Minimum:                    4.570384
+		Variance:                   0.177331
+		Mean:                       5.019961
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.387097
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.657143
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         True
+		Average local maximum:      0.200013
+		Number of local maximums:   31
+		Average local minimum:      0.201411
+		Number of local minimums:   35
+	Is init: True
 Wins: 0
 Losses: 48
 Total points: -26.242785658670424%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ICPUSD
-	Altname: ICPUSD
-	Wsname: ICP/USD
-	Base:
-	 	Name: ICP
-		Altname: ICP
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.25
-	Data about this pair of assets (ICPUSD):
-		Current:                    9.308
-		Maximum:                    0.133601
-		Minimum:                    0.102712
-		Variance:                   0.231204
-		Mean:                       0.123287
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.782609
-		Is ascending:               True
-		Current ascension duration: 9
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.37931
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         False
-		Average local maximum:      8.067739
-		Number of local maximums:   23
-		Average local minimum:      8.039207
-		Number of local minimums:   29
-	Is init: True
+	None
 Wins: 2
-Losses: 33
-Total points: -16.945217423318887%
-Wallet: 8437.150650083382
+Losses: 34
+Total points: -17.95941596221015%
+Wallet: 8351.58119146618
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

@@ -382,3 +382,7 @@ Random---Twenty-four hours or ten percent now has $8160.918175577454
 Random---Twenty-four hours or ten percent has sold CVX for $8.82. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8118.481401064451
 ---------------------------------------------------------------------------
+[2022-06-03 01:26:00] BUY
+Random---Twenty-four hours or ten percent has bought LPT for $12.33
+Random---Twenty-four hours or ten percent now has $8118.481401064451
+---------------------------------------------------------------------------
