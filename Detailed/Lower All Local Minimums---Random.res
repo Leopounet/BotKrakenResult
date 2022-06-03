@@ -6276,3 +6276,46 @@ Is init: True
 Profit was -1.2028057107386654%.
 Lower All Local Minimums---Random now has $7246.045149806802
 ---------------------------------------------------------------------------
+[2022-06-03 07:05:31] BUY
+Lower All Local Minimums---Random has bought: 
+Name: DASHUSD
+Altname: DASHUSD
+Wsname: DASH/USD
+Base:
+ 	Name: DASH
+	Altname: DASH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.03
+Data about this pair of assets (DASHUSD):
+	Current:                    58.586
+	Maximum:                    0.017237
+	Minimum:                    0.014818
+	Variance:                   0.140327
+	Mean:                       0.016393
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.892857
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.111111
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      61.113321
+	Number of local maximums:   28
+	Average local minimum:      60.975704
+	Number of local minimums:   27
+Is init: True
+
+Lower All Local Minimums---Random now has $7246.045149806802
+---------------------------------------------------------------------------
