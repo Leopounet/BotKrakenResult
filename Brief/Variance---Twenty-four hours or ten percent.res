@@ -874,3 +874,9 @@ Variance---Twenty-four hours or ten percent has 71 losses
 Variance---Twenty-four hours or ten percent has -7.02865926061043 points
 Variance---Twenty-four hours or ten percent now has $8823.620183433666
 ---------------------------------------------------------------------------
+[2022-06-03 03:53:40] BRIEF
+Variance---Twenty-four hours or ten percent has 2 wins
+Variance---Twenty-four hours or ten percent has 71 losses
+Variance---Twenty-four hours or ten percent has -7.02865926061043 points
+Variance---Twenty-four hours or ten percent now has $8823.620183433666
+---------------------------------------------------------------------------

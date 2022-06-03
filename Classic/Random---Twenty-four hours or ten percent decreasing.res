@@ -582,3 +582,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7020.243174759181
 Random---Twenty-four hours or ten percent decreasing has sold FXS for $6.77. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6983.737910250433
 ---------------------------------------------------------------------------
+[2022-06-03 03:53:40] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BNC for $0.369
+Random---Twenty-four hours or ten percent decreasing now has $6983.737910250433
+---------------------------------------------------------------------------
