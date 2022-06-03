@@ -1878,3 +1878,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2938.4976597598206
 Random---Twenty-four hours or ten percent decreasing has sold OCEAN for $0.2251. Profit was -1.3133010136624064%.
 Random---Twenty-four hours or ten percent decreasing now has $2899.906340207749
 ---------------------------------------------------------------------------
+[2022-06-03 20:32:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MKR for $1142.7
+Random---Twenty-four hours or ten percent decreasing now has $2899.906340207749
+---------------------------------------------------------------------------

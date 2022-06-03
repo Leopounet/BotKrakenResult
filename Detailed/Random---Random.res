@@ -13242,3 +13242,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $3758.4647339580315
 ---------------------------------------------------------------------------
+[2022-06-03 20:32:22] BUY
+Random---Random has bought: 
+Name: OMGUSD
+Altname: OMGUSD
+Wsname: OMG/USD
+Base:
+ 	Name: OMG
+	Altname: OMG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (OMGUSD):
+	Current:                    2.400108
+	Maximum:                    0.420262
+	Minimum:                    0.356601
+	Variance:                   0.15148
+	Mean:                       0.398713
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.684211
+	Is ascending:               True
+	Current ascension duration: 10
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.352941
+	Is falling:                 True
+	Current fall duration:      18
+	Trending downwards:         True
+	Average local maximum:      2.526833
+	Number of local maximums:   19
+	Average local minimum:      2.467909
+	Number of local minimums:   17
+Is init: True
+
+Random---Random now has $3758.4647339580315
+---------------------------------------------------------------------------
