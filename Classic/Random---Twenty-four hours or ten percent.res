@@ -362,3 +362,7 @@ Random---Twenty-four hours or ten percent now has $8236.601625131978
 Random---Twenty-four hours or ten percent has bought FLOW for $2.52
 Random---Twenty-four hours or ten percent now has $8236.601625131978
 ---------------------------------------------------------------------------
+[2022-06-03 01:11:18] SOLD
+Random---Twenty-four hours or ten percent has sold FLOW for $2.523. Profit was -0.4009523809523814%.
+Random---Twenty-four hours or ten percent now has $8203.576774806448
+---------------------------------------------------------------------------

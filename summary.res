@@ -1,4 +1,4 @@
-[2022-06-03 01:08:21] SUMMARY
+[2022-06-03 01:11:18] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    30404.5
-		Maximum:                    3.4e-05
-		Minimum:                    3.1e-05
-		Variance:                   0.080898
-		Mean:                       3.3e-05
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.869565
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.136364
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      30835.069565
-		Number of local maximums:   23
-		Average local minimum:      30796.772727
-		Number of local minimums:   22
-	Is init: True
+	None
 Wins: 0
-Losses: 45
-Total points: -24.7338714932983%
-Wallet: 7803.095527236548
+Losses: 46
+Total points: -25.2538714932983%
+Wallet: 7762.519430494918
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
