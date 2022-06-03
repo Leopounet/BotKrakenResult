@@ -958,3 +958,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5479.643540741189
 Random---Twenty-four hours or ten percent decreasing has sold MNGO for $0.055. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5451.149394329335
 ---------------------------------------------------------------------------
+[2022-06-03 08:36:50] BUY
+Random---Twenty-four hours or ten percent decreasing has bought EOS for $1.2834
+Random---Twenty-four hours or ten percent decreasing now has $5451.149394329335
+---------------------------------------------------------------------------

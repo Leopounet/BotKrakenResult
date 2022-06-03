@@ -10318,3 +10318,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5504.68276302492
 ---------------------------------------------------------------------------
+[2022-06-03 08:36:50] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: AIRUSD
+Altname: AIRUSD
+Wsname: AIR/USD
+Base:
+ 	Name: AIR
+	Altname: AIR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (AIRUSD):
+	Current:                    0.02926
+	Maximum:                    39.077765
+	Minimum:                    29.446408
+	Variance:                   0.246466
+	Mean:                       35.21475
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.125
+	Is ascending:               True
+	Current ascension duration: 22
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.235294
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         False
+	Average local maximum:      0.0292
+	Number of local maximums:   24
+	Average local minimum:      0.029202
+	Number of local minimums:   17
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $5504.68276302492
+---------------------------------------------------------------------------
