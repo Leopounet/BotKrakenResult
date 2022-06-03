@@ -1,4 +1,4 @@
-[2022-06-03 20:32:22] SUMMARY
+[2022-06-03 20:35:19] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.865
-		Maximum:                    1.166861
-		Minimum:                    1.009082
-		Variance:                   0.135217
-		Mean:                       1.087815
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.941176
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.636364
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         True
-		Average local maximum:      0.916059
-		Number of local maximums:   34
-		Average local minimum:      0.926409
-		Number of local minimums:   22
-	Is init: True
+	None
 Wins: 1
-Losses: 234
-Total points: -124.3296016608131%
-Wallet: 2874.0211422505145
+Losses: 235
+Total points: -124.8496016608131%
+Wallet: 2859.076232310812
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ALGOUSD
-	Altname: ALGOUSD
-	Wsname: ALGO/USD
-	Base:
-	 	Name: ALGO
-		Altname: ALGO
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (ALGOUSD):
-		Current:                    0.37968
-		Maximum:                    2.690269
-		Minimum:                    2.357656
-		Variance:                   0.123636
-		Mean:                       2.577363
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.2
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.142857
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         True
-		Average local maximum:      0.38602
-		Number of local maximums:   20
-		Average local minimum:      0.387929
-		Number of local minimums:   28
-	Is init: True
+	None
 Wins: 8
-Losses: 227
-Total points: -117.74907354111039%
-Wallet: 3067.2639600374782
+Losses: 228
+Total points: -118.45607311970289%
+Wallet: 3045.5784167656934
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
