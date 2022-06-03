@@ -7222,3 +7222,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6773.312985484054
 ---------------------------------------------------------------------------
+[2022-06-03 04:58:28] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: SNXUSD
+Altname: SNXUSD
+Wsname: SNX/USD
+Base:
+ 	Name: SNX
+	Altname: SNX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.4
+Data about this pair of assets (SNXUSD):
+	Current:                    2.874
+	Maximum:                    0.361011
+	Minimum:                    0.298597
+	Variance:                   0.172887
+	Mean:                       0.334585
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.92
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.6875
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      2.98968
+	Number of local maximums:   25
+	Average local minimum:      2.932188
+	Number of local minimums:   16
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $6773.312985484054
+---------------------------------------------------------------------------

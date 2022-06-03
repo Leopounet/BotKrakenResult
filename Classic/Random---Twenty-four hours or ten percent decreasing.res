@@ -670,3 +670,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6632.961950278841
 Random---Twenty-four hours or ten percent decreasing has sold CVC for $0.1829. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6598.470548137391
 ---------------------------------------------------------------------------
+[2022-06-03 04:58:28] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SPELL for $0.001267
+Random---Twenty-four hours or ten percent decreasing now has $6598.470548137391
+---------------------------------------------------------------------------
