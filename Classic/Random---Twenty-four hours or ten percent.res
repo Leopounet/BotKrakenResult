@@ -1310,3 +1310,7 @@ Random---Twenty-four hours or ten percent now has $4412.574489913301
 Random---Twenty-four hours or ten percent has sold RARI for $2.84. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4389.629102565751
 ---------------------------------------------------------------------------
+[2022-06-03 13:17:00] BUY
+Random---Twenty-four hours or ten percent has bought KAR for $0.535
+Random---Twenty-four hours or ten percent now has $4389.629102565751
+---------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-[2022-06-03 13:13:53] SUMMARY
+[2022-06-03 13:17:00] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,26 +8,63 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: GSTUSD
+	Altname: GSTUSD
+	Wsname: GST/USD
+	Base:
+	 	Name: GST
+		Altname: GST
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (GSTUSD):
+		Current:                    0.902
+		Maximum:                    1.25
+		Minimum:                    0.635728
+		Variance:                   0.491418
+		Mean:                       1.037791
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.928571
+		Is ascending:               True
+		Current ascension duration: 6
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.666667
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      0.988571
+		Number of local maximums:   42
+		Average local minimum:      1.007778
+		Number of local minimums:   27
+	Is init: True
 Wins: 0
 Losses: 164
 Total points: -93.66326971823935%
 Wallet: 3904.991133643057
 ---------------------------------------------------------------------------
 Most wins: 
-Name: Random---Twenty-four hours or ten percent
-BuyStrategy description: Random.
-SellStrategy description: Sells when the profit is 10% or it has been 24h.
+Name: Variance---Random
+BuyStrategy description: Looks for the asset which has the highest Variance.
+SellStrategy description: Random.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
 	None
-Wins: 6
-Losses: 158
-Total points: -82.0058618762565%
-Wallet: 4389.629102565751
+Wins: 7
+Losses: 107
+Total points: -25.127844933424754%
+Wallet: 7233.233571508782
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

@@ -1310,3 +1310,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4224.322842711376
 Random---Twenty-four hours or ten percent decreasing has sold MSOL for $45.0. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4202.356363929277
 ---------------------------------------------------------------------------
+[2022-06-03 13:17:00] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AGLD for $0.481
+Random---Twenty-four hours or ten percent decreasing now has $4202.356363929277
+---------------------------------------------------------------------------

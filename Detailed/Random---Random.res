@@ -9329,3 +9329,46 @@ Is init: True
 
 Random---Random now has $5748.701840589365
 ---------------------------------------------------------------------------
+[2022-06-03 13:17:00] SOLD
+Random---Random has sold: 
+Name: FETUSD
+Altname: FETUSD
+Wsname: FET/USD
+Base:
+ 	Name: FET
+	Altname: FET
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 20
+Data about this pair of assets (FETUSD):
+	Current:                    0.1548
+	Maximum:                    6.640106
+	Minimum:                    5.813953
+	Variance:                   0.124419
+	Mean:                       6.269536
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.272727
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.75
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.158805
+	Number of local maximums:   22
+	Average local minimum:      0.160042
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5718.8085910183
+---------------------------------------------------------------------------
