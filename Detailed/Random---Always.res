@@ -20982,3 +20982,46 @@ Is init: True
 Profit was -0.3987462823152783%.
 Random---Always now has $2408.187541599641
 ---------------------------------------------------------------------------
+[2022-06-03 21:26:03] BUY
+Random---Always has bought: 
+Name: FXSUSD
+Altname: FXSUSD
+Wsname: FXS/USD
+Base:
+ 	Name: FXS
+	Altname: FXS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.3
+Data about this pair of assets (FXSUSD):
+	Current:                    6.612
+	Maximum:                    0.152999
+	Minimum:                    0.128535
+	Variance:                   0.159897
+	Mean:                       0.148396
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      103
+	Trending downwards:         True
+	Average local maximum:      6.834105
+	Number of local maximums:   19
+	Average local minimum:      6.747158
+	Number of local minimums:   19
+Is init: True
+
+Random---Always now has $2408.187541599641
+---------------------------------------------------------------------------

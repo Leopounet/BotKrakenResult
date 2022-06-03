@@ -1950,3 +1950,7 @@ Random---Twenty-four hours or ten percent now has $2946.45811460642
 Random---Twenty-four hours or ten percent has sold SUSHI for $1.553. Profit was 0.38968161143600843%.
 Random---Twenty-four hours or ten percent now has $2957.9399200677053
 ---------------------------------------------------------------------------
+[2022-06-03 21:26:03] BUY
+Random---Twenty-four hours or ten percent has bought SGB for $0.0379
+Random---Twenty-four hours or ten percent now has $2957.9399200677053
+---------------------------------------------------------------------------
