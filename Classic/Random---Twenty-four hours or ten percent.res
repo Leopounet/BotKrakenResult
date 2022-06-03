@@ -390,3 +390,7 @@ Random---Twenty-four hours or ten percent now has $8118.481401064451
 Random---Twenty-four hours or ten percent has sold LPT for $12.33. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8076.265297778917
 ---------------------------------------------------------------------------
+[2022-06-03 01:31:53] BUY
+Random---Twenty-four hours or ten percent has bought XXBT for $30430.0
+Random---Twenty-four hours or ten percent now has $8076.265297778917
+---------------------------------------------------------------------------

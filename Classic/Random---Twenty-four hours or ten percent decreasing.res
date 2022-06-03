@@ -390,3 +390,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7876.404113944376
 Random---Twenty-four hours or ten percent decreasing has sold LUNA for $0.00010213. Profit was -0.27461327051431406%.
 Random---Twenty-four hours or ten percent decreasing now has $7854.77446300815
 ---------------------------------------------------------------------------
+[2022-06-03 01:31:53] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KP3R for $135.5
+Random---Twenty-four hours or ten percent decreasing now has $7854.77446300815
+---------------------------------------------------------------------------

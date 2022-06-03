@@ -1,4 +1,4 @@
-[2022-06-03 01:28:56] SUMMARY
+[2022-06-03 01:31:53] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ENJUSD
+	Altname: ENJUSD
+	Wsname: ENJ/USD
+	Base:
+	 	Name: ENJ
+		Altname: ENJ
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2
+	Data about this pair of assets (ENJUSD):
+		Current:                    0.643
+		Maximum:                    1.607717
+		Minimum:                    1.412429
+		Variance:                   0.121469
+		Mean:                       1.522336
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.482759
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.625
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.652138
+		Number of local maximums:   29
+		Average local minimum:      0.648958
+		Number of local minimums:   24
+	Is init: True
 Wins: 0
 Losses: 49
 Total points: -26.762785658670424%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GALAUSD
-	Altname: GALAUSD
-	Wsname: GALA/USD
-	Base:
-	 	Name: GALA
-		Altname: GALA
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 25
-	Data about this pair of assets (GALAUSD):
-		Current:                    0.0758
-		Maximum:                    13.831259
-		Minimum:                    11.820331
-		Variance:                   0.14539
-		Mean:                       12.904493
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.590909
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.473684
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         True
-		Average local maximum:      0.077505
-		Number of local maximums:   22
-		Average local minimum:      0.077721
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 2
-Losses: 34
-Total points: -17.95941596221015%
-Wallet: 8351.58119146618
+Losses: 35
+Total points: -18.47941596221015%
+Wallet: 8308.152969270557
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
