@@ -598,3 +598,7 @@ Lower All Local Minimums---Random now has $7183.381911384258
 Lower All Local Minimums---Random has sold DASH for $58.455. Profit was -0.39839134009317556%.
 Lower All Local Minimums---Random now has $7154.763939923484
 ---------------------------------------------------------------------------
+[2022-06-03 07:36:28] BUY
+Lower All Local Minimums---Random has bought ZUSD for $0.9569
+Lower All Local Minimums---Random now has $7154.763939923484
+---------------------------------------------------------------------------
