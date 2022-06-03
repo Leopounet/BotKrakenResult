@@ -274,3 +274,7 @@ Random---Twenty-four hours or ten percent now has $8681.82683565198
 Random---Twenty-four hours or ten percent has bought MSOL for $48.6
 Random---Twenty-four hours or ten percent now has $8681.82683565198
 ---------------------------------------------------------------------------
+[2022-06-03 00:06:27] SOLD
+Random---Twenty-four hours or ten percent has sold MSOL for $48.6. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $8636.68133610659
+---------------------------------------------------------------------------
