@@ -1638,3 +1638,7 @@ Lower All Local Minimums---Always now has $3703.955486781296
 Lower All Local Minimums---Always has sold BAT for $0.37409. Profit was -0.2573428747554414%.
 Lower All Local Minimums---Always now has $3694.423621251951
 ---------------------------------------------------------------------------
+[2022-06-03 17:33:44] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.601
+Lower All Local Minimums---Always now has $3694.423621251951
+---------------------------------------------------------------------------
