@@ -502,3 +502,7 @@ Random---Twenty-four hours or ten percent now has $7608.464840058966
 Random---Twenty-four hours or ten percent has sold ZRX for $0.412. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $7568.90082289066
 ---------------------------------------------------------------------------
+[2022-06-03 02:54:40] BUY
+Random---Twenty-four hours or ten percent has bought MKR for $1205.4
+Random---Twenty-four hours or ten percent now has $7568.90082289066
+---------------------------------------------------------------------------

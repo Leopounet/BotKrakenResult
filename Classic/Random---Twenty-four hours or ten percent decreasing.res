@@ -502,3 +502,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7377.251658487746
 Random---Twenty-four hours or ten percent decreasing has sold GARI for $0.6221. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7338.889949863609
 ---------------------------------------------------------------------------
+[2022-06-03 02:54:40] BUY
+Random---Twenty-four hours or ten percent decreasing has bought DYDX for $1.847
+Random---Twenty-four hours or ten percent decreasing now has $7338.889949863609
+---------------------------------------------------------------------------
