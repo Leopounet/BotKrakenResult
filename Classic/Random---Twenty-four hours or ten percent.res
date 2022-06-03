@@ -910,3 +910,7 @@ Random---Twenty-four hours or ten percent now has $5705.9484063589725
 Random---Twenty-four hours or ten percent has sold TRIBE for $0.2089. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5676.277474645906
 ---------------------------------------------------------------------------
+[2022-06-03 07:58:26] BUY
+Random---Twenty-four hours or ten percent has bought DOT for $9.7712
+Random---Twenty-four hours or ten percent now has $5676.277474645906
+---------------------------------------------------------------------------

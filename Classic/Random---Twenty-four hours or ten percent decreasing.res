@@ -910,3 +910,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5653.55814762213
 Random---Twenty-four hours or ten percent decreasing has sold XXBT for $30423.2. Profit was -0.5163842075333398%.
 Random---Twenty-four hours or ten percent decreasing now has $5624.364066184095
 ---------------------------------------------------------------------------
+[2022-06-03 07:58:26] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CFG for $0.3365
+Random---Twenty-four hours or ten percent decreasing now has $5624.364066184095
+---------------------------------------------------------------------------
