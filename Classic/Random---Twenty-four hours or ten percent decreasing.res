@@ -2070,3 +2070,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2617.707422502657
 Random---Twenty-four hours or ten percent decreasing has sold DASH for $58.167. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2604.0953439056434
 ---------------------------------------------------------------------------
+[2022-06-03 22:56:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SGB for $0.0385
+Random---Twenty-four hours or ten percent decreasing now has $2604.0953439056434
+---------------------------------------------------------------------------

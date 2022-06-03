@@ -14833,3 +14833,46 @@ Is init: True
 
 Lower All Local Minimums---Random now has $4345.0642140172085
 ---------------------------------------------------------------------------
+[2022-06-03 22:56:16] SOLD
+Lower All Local Minimums---Random has sold: 
+Name: DAIUSD
+Altname: DAIUSD
+Wsname: DAI/USD
+Base:
+ 	Name: DAI
+	Altname: DAI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (DAIUSD):
+	Current:                    0.99965
+	Maximum:                    1.00054
+	Minimum:                    0.99994
+	Variance:                   0.0006
+	Mean:                       1.000152
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.111111
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.892857
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.999867
+	Number of local maximums:   27
+	Average local minimum:      0.999847
+	Number of local minimums:   28
+Is init: True
+Profit was -0.4%.
+Lower All Local Minimums---Random now has $4327.68395716114
+---------------------------------------------------------------------------
