@@ -6663,3 +6663,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $7023.970397300794
 ---------------------------------------------------------------------------
+[2022-06-03 04:20:11] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: FTMUSD
+Altname: FTMUSD
+Wsname: FTM/USD
+Base:
+ 	Name: FTM
+	Altname: FTM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (FTMUSD):
+	Current:                    0.372
+	Maximum:                    3.333333
+	Minimum:                    2.590674
+	Variance:                   0.222798
+	Mean:                       2.655517
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.785714
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.230769
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.379214
+	Number of local maximums:   14
+	Average local minimum:      0.378308
+	Number of local minimums:   13
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $6987.44575123483
+---------------------------------------------------------------------------
