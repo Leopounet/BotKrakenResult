@@ -1302,3 +1302,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4246.404144261536
 Random---Twenty-four hours or ten percent decreasing has sold NYM for $0.3676. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4224.322842711376
 ---------------------------------------------------------------------------
+[2022-06-03 13:10:33] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MSOL for $45.0
+Random---Twenty-four hours or ten percent decreasing now has $4224.322842711376
+---------------------------------------------------------------------------

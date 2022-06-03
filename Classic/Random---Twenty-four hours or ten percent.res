@@ -1302,3 +1302,7 @@ Random---Twenty-four hours or ten percent now has $4413.784918636466
 Random---Twenty-four hours or ten percent has sold GRT for $0.14281. Profit was -0.027423826613172775%.
 Random---Twenty-four hours or ten percent now has $4412.574489913301
 ---------------------------------------------------------------------------
+[2022-06-03 13:10:33] BUY
+Random---Twenty-four hours or ten percent has bought RARI for $2.84
+Random---Twenty-four hours or ten percent now has $4412.574489913301
+---------------------------------------------------------------------------

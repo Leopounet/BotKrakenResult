@@ -14016,3 +14016,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $3917.0347264732172
 ---------------------------------------------------------------------------
+[2022-06-03 13:10:33] BUY
+Random---Always has bought: 
+Name: USDCHF
+Altname: USDCHF
+Wsname: USD/CHF
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: CHF
+	Altname: CHF
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDCHF):
+	Current:                    0.96182
+	Maximum:                    1.045872
+	Minimum:                    1.035357
+	Variance:                   0.010053
+	Mean:                       1.040941
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.230769
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.785714
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.960737
+	Number of local maximums:   26
+	Average local minimum:      0.960596
+	Number of local minimums:   28
+Is init: True
+
+Random---Always now has $3917.0347264732172
+---------------------------------------------------------------------------
