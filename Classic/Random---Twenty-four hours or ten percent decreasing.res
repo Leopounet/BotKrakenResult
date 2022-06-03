@@ -798,3 +798,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6091.688640712691
 Random---Twenty-four hours or ten percent decreasing has sold AVAX for $24.05. Profit was -0.47840266222961736%.
 Random---Twenty-four hours or ten percent decreasing now has $6062.545840080783
 ---------------------------------------------------------------------------
+[2022-06-03 06:32:55] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GLMR for $1.383
+Random---Twenty-four hours or ten percent decreasing now has $6062.545840080783
+---------------------------------------------------------------------------

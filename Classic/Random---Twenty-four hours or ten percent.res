@@ -798,3 +798,7 @@ Random---Twenty-four hours or ten percent now has $6171.633725008199
 Random---Twenty-four hours or ten percent has sold GMT for $1.06. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6139.541229638156
 ---------------------------------------------------------------------------
+[2022-06-03 06:32:55] BUY
+Random---Twenty-four hours or ten percent has bought SGB for $0.0396
+Random---Twenty-four hours or ten percent now has $6139.541229638156
+---------------------------------------------------------------------------
