@@ -1710,3 +1710,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3261.3174554332045
 Random---Twenty-four hours or ten percent decreasing has sold PSTAKE for $0.2267. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3244.3586046649516
 ---------------------------------------------------------------------------
+[2022-06-03 18:27:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OGN for $0.2869
+Random---Twenty-four hours or ten percent decreasing now has $3244.3586046649516
+---------------------------------------------------------------------------

@@ -1710,3 +1710,7 @@ Recent Minimum---Always now has $3388.6296328733747
 Recent Minimum---Always has sold CVX for $8.63. Profit was -0.52%.
 Recent Minimum---Always now has $3371.0087587824332
 ---------------------------------------------------------------------------
+[2022-06-03 18:27:16] BUY
+Recent Minimum---Always has bought ALGO for $0.37779
+Recent Minimum---Always now has $3371.0087587824332
+---------------------------------------------------------------------------

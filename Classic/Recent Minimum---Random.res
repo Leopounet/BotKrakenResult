@@ -1110,3 +1110,7 @@ Recent Minimum---Random now has $4671.3177740533465
 Recent Minimum---Random has sold CVX for $8.63. Profit was -0.52%.
 Recent Minimum---Random now has $4647.0269216282695
 ---------------------------------------------------------------------------
+[2022-06-03 18:27:16] BUY
+Recent Minimum---Random has bought ALGO for $0.37779
+Recent Minimum---Random now has $4647.0269216282695
+---------------------------------------------------------------------------
