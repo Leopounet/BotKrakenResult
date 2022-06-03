@@ -566,3 +566,7 @@ Lower All Local Minimums---Random now has $7405.377834526689
 Lower All Local Minimums---Random has sold KAVA for $2.5869. Profit was -0.44262756779759505%.
 Lower All Local Minimums---Random now has $7372.599590731502
 ---------------------------------------------------------------------------
+[2022-06-03 06:47:37] BUY
+Lower All Local Minimums---Random has bought KAVA for $2.5738
+Lower All Local Minimums---Random now has $7372.599590731502
+---------------------------------------------------------------------------

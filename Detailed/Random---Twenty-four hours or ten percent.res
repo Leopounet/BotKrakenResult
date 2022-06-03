@@ -8813,3 +8813,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $6075.856014044769
 ---------------------------------------------------------------------------
+[2022-06-03 06:47:37] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: QNTUSD
+Altname: QNTUSD
+Wsname: QNT/USD
+Base:
+ 	Name: QNT
+	Altname: QNT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (QNTUSD):
+	Current:                    67.52
+	Maximum:                    0.015267
+	Minimum:                    0.013701
+	Variance:                   0.102617
+	Mean:                       0.014515
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.333333
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.7
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      68.713333
+	Number of local maximums:   27
+	Average local minimum:      69.063
+	Number of local minimums:   30
+Is init: True
+Profit was -0.9495023696682332%.
+Random---Twenty-four hours or ten percent now has $6018.165617213784
+---------------------------------------------------------------------------
