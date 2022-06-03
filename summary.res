@@ -1,4 +1,4 @@
-[2022-06-03 15:41:16] SUMMARY
+[2022-06-03 15:44:33] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,26 +8,63 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: OMGUSD
+	Altname: OMGUSD
+	Wsname: OMG/USD
+	Base:
+	 	Name: OMG
+		Altname: OMG
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.5
+	Data about this pair of assets (OMGUSD):
+		Current:                    2.384745
+		Maximum:                    0.419332
+		Minimum:                    0.350906
+		Variance:                   0.16318
+		Mean:                       0.393903
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.0
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.5
+		Is falling:                 True
+		Current fall duration:      4
+		Trending downwards:         True
+		Average local maximum:      2.590375
+		Number of local maximums:   21
+		Average local minimum:      2.482586
+		Number of local minimums:   14
+	Is init: True
 Wins: 1
 Losses: 186
 Total points: -105.97225143604086%
 Wallet: 3450.8248110864006
 ---------------------------------------------------------------------------
 Most wins: 
-Name: Random---Twenty-four hours or ten percent
-BuyStrategy description: Random.
-SellStrategy description: Sells when the profit is 10% or it has been 24h.
+Name: Variance---Random
+BuyStrategy description: Looks for the asset which has the highest Variance.
+SellStrategy description: Random.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
 	None
-Wins: 7
-Losses: 180
-Total points: -92.98884930544594%
-Wallet: 3931.8121364157814
+Wins: 8
+Losses: 117
+Total points: -30.685010472199714%
+Wallet: 6834.501056784068
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

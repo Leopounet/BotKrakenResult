@@ -16080,3 +16080,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3701.855986951186
 ---------------------------------------------------------------------------
+[2022-06-03 15:44:33] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: OCEANUSD
+Altname: OCEANUSD
+Wsname: OCEAN/USD
+Base:
+ 	Name: OCEAN
+	Altname: OCEAN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (OCEANUSD):
+	Current:                    0.2008
+	Maximum:                    5.050505
+	Minimum:                    4.244482
+	Variance:                   0.159593
+	Mean:                       4.686695
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.911765
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.090909
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.214335
+	Number of local maximums:   34
+	Average local minimum:      0.211785
+	Number of local minimums:   33
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $3701.855986951186
+---------------------------------------------------------------------------

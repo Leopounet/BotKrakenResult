@@ -1494,3 +1494,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3721.206259500589
 Random---Twenty-four hours or ten percent decreasing has sold LINK for $6.82945. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3701.855986951186
 ---------------------------------------------------------------------------
+[2022-06-03 15:44:33] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OCEAN for $0.2008
+Random---Twenty-four hours or ten percent decreasing now has $3701.855986951186
+---------------------------------------------------------------------------
