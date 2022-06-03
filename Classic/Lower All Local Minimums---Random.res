@@ -674,3 +674,7 @@ Lower All Local Minimums---Random now has $6899.542681215719
 Lower All Local Minimums---Random has bought CVX for $8.77
 Lower All Local Minimums---Random now has $6899.542681215719
 ---------------------------------------------------------------------------
+[2022-06-03 09:11:18] SOLD
+Lower All Local Minimums---Random has sold CVX for $8.77. Profit was -0.52%.
+Lower All Local Minimums---Random now has $6863.665059273398
+---------------------------------------------------------------------------

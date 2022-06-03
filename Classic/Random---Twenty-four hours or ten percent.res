@@ -1002,3 +1002,7 @@ Random---Twenty-four hours or ten percent now has $5357.60896502522
 Random---Twenty-four hours or ten percent has bought ANT for $1.9795
 Random---Twenty-four hours or ten percent now has $5357.60896502522
 ---------------------------------------------------------------------------
+[2022-06-03 09:11:18] SOLD
+Random---Twenty-four hours or ten percent has sold ANT for $1.9792. Profit was -0.5351553422581441%.
+Random---Twenty-four hours or ten percent now has $5328.937434431586
+---------------------------------------------------------------------------

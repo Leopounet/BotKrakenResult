@@ -10791,3 +10791,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $5357.60896502522
 ---------------------------------------------------------------------------
+[2022-06-03 09:11:18] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: ANTUSD
+Altname: ANTUSD
+Wsname: ANT/USD
+Base:
+ 	Name: ANT
+	Altname: ANT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (ANTUSD):
+	Current:                    1.9795
+	Maximum:                    0.563857
+	Minimum:                    0.458442
+	Variance:                   0.186953
+	Mean:                       0.51897
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.206897
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.806452
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.923162
+	Number of local maximums:   29
+	Average local minimum:      1.881316
+	Number of local minimums:   31
+Is init: True
+Profit was -0.5351553422581441%.
+Random---Twenty-four hours or ten percent now has $5328.937434431586
+---------------------------------------------------------------------------
