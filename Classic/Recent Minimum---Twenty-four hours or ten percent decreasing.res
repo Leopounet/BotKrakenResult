@@ -1062,3 +1062,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $4992.21066
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold BNT for $1.236. Profit was -1.163086816720262%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $4934.146916652942
 ---------------------------------------------------------------------------
+[2022-06-03 09:59:28] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought BNT for $1.236
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $4934.146916652942
+---------------------------------------------------------------------------
