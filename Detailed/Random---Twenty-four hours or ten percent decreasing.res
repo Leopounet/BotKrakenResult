@@ -6448,3 +6448,46 @@ Is init: True
 Profit was -0.4600119976004975%.
 Random---Twenty-four hours or ten percent decreasing now has $6915.463496216798
 ---------------------------------------------------------------------------
+[2022-06-03 04:05:27] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: XXMRZUSD
+Altname: XMRUSD
+Wsname: XMR/USD
+Base:
+ 	Name: XXMR
+	Altname: XMR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (XXMRZUSD):
+	Current:                    198.67
+	Maximum:                    0.005208
+	Minimum:                    0.004921
+	Variance:                   0.055118
+	Mean:                       0.00506
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.5
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.571429
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         False
+	Average local maximum:      197.547222
+	Number of local maximums:   18
+	Average local minimum:      197.286667
+	Number of local minimums:   21
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $6915.463496216798
+---------------------------------------------------------------------------
