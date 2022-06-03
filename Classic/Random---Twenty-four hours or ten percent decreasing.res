@@ -662,3 +662,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6667.633645234058
 Random---Twenty-four hours or ten percent decreasing has sold ANKR for $0.03904. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6632.961950278841
 ---------------------------------------------------------------------------
+[2022-06-03 04:52:35] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CVC for $0.1829
+Random---Twenty-four hours or ten percent decreasing now has $6632.961950278841
+---------------------------------------------------------------------------

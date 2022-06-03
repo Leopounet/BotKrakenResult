@@ -662,3 +662,7 @@ Random---Twenty-four hours or ten percent now has $6844.308726127829
 Random---Twenty-four hours or ten percent has sold BAND for $1.665. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6808.718320751964
 ---------------------------------------------------------------------------
+[2022-06-03 04:52:35] BUY
+Random---Twenty-four hours or ten percent has bought REPV2 for $9.929
+Random---Twenty-four hours or ten percent now has $6808.718320751964
+---------------------------------------------------------------------------
