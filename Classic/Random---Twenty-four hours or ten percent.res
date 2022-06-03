@@ -1030,3 +1030,7 @@ Random---Twenty-four hours or ten percent now has $5273.660579581724
 Random---Twenty-four hours or ten percent has sold BNT for $1.244. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5246.237544567899
 ---------------------------------------------------------------------------
+[2022-06-03 09:33:28] BUY
+Random---Twenty-four hours or ten percent has bought SC for $0.0055
+Random---Twenty-four hours or ten percent now has $5246.237544567899
+---------------------------------------------------------------------------
