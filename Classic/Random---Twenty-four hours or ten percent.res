@@ -1190,3 +1190,7 @@ Random---Twenty-four hours or ten percent now has $4690.984255301121
 Random---Twenty-four hours or ten percent has sold STORJ for $0.56961. Profit was 0.8575428479897433%.
 Random---Twenty-four hours or ten percent now has $4731.211455282781
 ---------------------------------------------------------------------------
+[2022-06-03 11:41:16] BUY
+Random---Twenty-four hours or ten percent has bought TRIBE for $0.2308
+Random---Twenty-four hours or ten percent now has $4731.211455282781
+---------------------------------------------------------------------------
