@@ -1222,3 +1222,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $4615.60347804479
 Recent Minimum---Twenty-four hours or ten percent has sold AIR for $0.0303. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $4591.602339958957
 ---------------------------------------------------------------------------
+[2022-06-03 12:06:46] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought ACA for $0.363
+Recent Minimum---Twenty-four hours or ten percent now has $4591.602339958957
+---------------------------------------------------------------------------
