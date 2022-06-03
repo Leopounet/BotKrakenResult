@@ -966,3 +966,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5451.149394329335
 Random---Twenty-four hours or ten percent decreasing has sold EOS for $1.2834. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5422.803417478823
 ---------------------------------------------------------------------------
+[2022-06-03 08:43:13] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GALA for $0.074
+Random---Twenty-four hours or ten percent decreasing now has $5422.803417478823
+---------------------------------------------------------------------------

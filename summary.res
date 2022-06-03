@@ -1,4 +1,4 @@
-[2022-06-03 08:39:57] SUMMARY
+[2022-06-03 08:43:13] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: DOTUSD
+	Altname: DOTUSD
+	Wsname: DOT/USD
+	Base:
+	 	Name: DOT
+		Altname: DOT
+		decimals: 10
+		displayed_decimals: 8
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.2
+	Data about this pair of assets (DOTUSD):
+		Current:                    9.7593
+		Maximum:                    0.107551
+		Minimum:                    0.094073
+		Variance:                   0.125315
+		Mean:                       0.10156
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.357143
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.818182
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      9.804468
+		Number of local maximums:   28
+		Average local minimum:      9.792841
+		Number of local minimums:   22
+	Is init: True
 Wins: 0
 Losses: 121
 Total points: -65.43748449691563%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: QTUMUSD
+	Altname: QTUMUSD
+	Wsname: QTUM/USD
+	Base:
+	 	Name: QTUM
+		Altname: QTUM
+		decimals: 10
+		displayed_decimals: 6
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.5
+	Data about this pair of assets (QTUMUSD):
+		Current:                    3.91483
+		Maximum:                    0.264965
+		Minimum:                    0.233417
+		Variance:                   0.119064
+		Mean:                       0.251147
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.483871
+		Is ascending:               True
+		Current ascension duration: 37
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.583333
+		Is falling:                 True
+		Current fall duration:      6
+		Trending downwards:         True
+		Average local maximum:      3.973786
+		Number of local maximums:   31
+		Average local minimum:      3.969643
+		Number of local minimums:   36
+	Is init: True
 Wins: 5
 Losses: 116
 Total points: -59.96799052745881%

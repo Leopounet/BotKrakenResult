@@ -966,3 +966,7 @@ Random---Twenty-four hours or ten percent now has $5504.68276302492
 Random---Twenty-four hours or ten percent has sold AIR for $0.02926. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5476.05841265719
 ---------------------------------------------------------------------------
+[2022-06-03 08:43:13] BUY
+Random---Twenty-four hours or ten percent has bought QTUM for $3.91483
+Random---Twenty-four hours or ten percent now has $5476.05841265719
+---------------------------------------------------------------------------
