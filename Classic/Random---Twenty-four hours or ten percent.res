@@ -1358,3 +1358,7 @@ Random---Twenty-four hours or ten percent now has $4300.899458286538
 Random---Twenty-four hours or ten percent has sold XETH for $1757.15. Profit was -0.510324306480427%.
 Random---Twenty-four hours or ten percent now has $4278.950922953617
 ---------------------------------------------------------------------------
+[2022-06-03 13:55:36] BUY
+Random---Twenty-four hours or ten percent has bought KSM for $68.57
+Random---Twenty-four hours or ten percent now has $4278.950922953617
+---------------------------------------------------------------------------

@@ -1358,3 +1358,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4057.4674138659075
 Random---Twenty-four hours or ten percent decreasing has sold BICO for $0.667. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4036.3685833138047
 ---------------------------------------------------------------------------
+[2022-06-03 13:55:36] BUY
+Random---Twenty-four hours or ten percent decreasing has bought 1INCH for $0.87
+Random---Twenty-four hours or ten percent decreasing now has $4036.3685833138047
+---------------------------------------------------------------------------
