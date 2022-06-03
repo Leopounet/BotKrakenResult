@@ -1366,3 +1366,7 @@ Random---Twenty-four hours or ten percent now has $4278.950922953617
 Random---Twenty-four hours or ten percent has sold KSM for $68.83. Profit was -0.14082543386319157%.
 Random---Twenty-four hours or ten percent now has $4272.925071751574
 ---------------------------------------------------------------------------
+[2022-06-03 14:01:55] BUY
+Random---Twenty-four hours or ten percent has bought BCH for $182.6
+Random---Twenty-four hours or ten percent now has $4272.925071751574
+---------------------------------------------------------------------------

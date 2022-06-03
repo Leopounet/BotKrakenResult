@@ -14704,3 +14704,46 @@ Is init: True
 Profit was -0.14082543386319157%.
 Random---Twenty-four hours or ten percent now has $4272.925071751574
 ---------------------------------------------------------------------------
+[2022-06-03 14:01:55] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: BCHUSD
+Altname: BCHUSD
+Wsname: BCH/USD
+Base:
+ 	Name: BCH
+	Altname: BCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.01
+Data about this pair of assets (BCHUSD):
+	Current:                    182.6
+	Maximum:                    0.005505
+	Minimum:                    0.00489
+	Variance:                   0.111698
+	Mean:                       0.005271
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.631579
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.478261
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      189.951053
+	Number of local maximums:   19
+	Average local minimum:      190.864348
+	Number of local minimums:   23
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $4272.925071751574
+---------------------------------------------------------------------------

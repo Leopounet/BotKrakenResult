@@ -1366,3 +1366,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4036.3685833138047
 Random---Twenty-four hours or ten percent decreasing has sold 1INCH for $0.87. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4015.379466680573
 ---------------------------------------------------------------------------
+[2022-06-03 14:01:55] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CHZ for $0.1203
+Random---Twenty-four hours or ten percent decreasing now has $4015.379466680573
+---------------------------------------------------------------------------
