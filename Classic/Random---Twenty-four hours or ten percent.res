@@ -1566,3 +1566,7 @@ Random---Twenty-four hours or ten percent now has $3771.194846268457
 Random---Twenty-four hours or ten percent has sold BNC for $0.346. Profit was -1.3795988538681931%.
 Random---Twenty-four hours or ten percent now has $3719.167485392201
 ---------------------------------------------------------------------------
+[2022-06-03 16:40:17] BUY
+Random---Twenty-four hours or ten percent has bought PERP for $1.237
+Random---Twenty-four hours or ten percent now has $3719.167485392201
+---------------------------------------------------------------------------
