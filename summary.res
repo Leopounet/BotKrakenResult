@@ -1,4 +1,4 @@
-[2022-06-03 15:38:00] SUMMARY
+[2022-06-03 15:41:16] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: KEEPUSD
-	Altname: KEEPUSD
-	Wsname: KEEP/USD
-	Base:
-	 	Name: KEEP
-		Altname: KEEP
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (KEEPUSD):
-		Current:                    0.2403
-		Maximum:                    4.334446
-		Minimum:                    2.78257
-		Variance:                   0.358033
-		Mean:                       3.95533
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.727273
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.3
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.248253
-		Number of local maximums:   33
-		Average local minimum:      0.248206
-		Number of local minimums:   30
-	Is init: True
+	None
 Wins: 1
-Losses: 185
-Total points: -105.45225143604087%
-Wallet: 3468.862898156816
+Losses: 186
+Total points: -105.97225143604086%
+Wallet: 3450.8248110864006
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XRTUSD
-	Altname: XRTUSD
-	Wsname: XRT/USD
-	Base:
-	 	Name: XRT
-		Altname: XRT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (XRTUSD):
-		Current:                    3.75
-		Maximum:                    0.27933
-		Minimum:                    0.239808
-		Variance:                   0.141487
-		Mean:                       0.254601
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.1
-		Is ascending:               True
-		Current ascension duration: 82
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.285714
-		Is falling:                 True
-		Current fall duration:      20
-		Trending downwards:         False
-		Average local maximum:      3.835
-		Number of local maximums:   10
-		Average local minimum:      3.937143
-		Number of local minimums:   7
-	Is init: True
+	None
 Wins: 7
-Losses: 179
-Total points: -92.46884930544594%
-Wallet: 3952.3644314593703
+Losses: 180
+Total points: -92.98884930544594%
+Wallet: 3931.8121364157814
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
