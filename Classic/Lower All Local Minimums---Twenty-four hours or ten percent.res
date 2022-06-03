@@ -870,3 +870,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $6152.347764
 Lower All Local Minimums---Twenty-four hours or ten percent has sold DASH for $58.384. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $6120.355555898517
 ---------------------------------------------------------------------------
+[2022-06-03 07:26:32] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought DASH for $58.384
+Lower All Local Minimums---Twenty-four hours or ten percent now has $6120.355555898517
+---------------------------------------------------------------------------

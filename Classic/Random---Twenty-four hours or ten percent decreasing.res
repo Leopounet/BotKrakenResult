@@ -870,3 +870,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5802.871857476189
 Random---Twenty-four hours or ten percent decreasing has sold FET for $0.1622. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5772.696923817312
 ---------------------------------------------------------------------------
+[2022-06-03 07:26:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RAD for $2.074
+Random---Twenty-four hours or ten percent decreasing now has $5772.696923817312
+---------------------------------------------------------------------------
