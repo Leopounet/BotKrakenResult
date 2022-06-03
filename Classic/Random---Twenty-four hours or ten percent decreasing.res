@@ -1530,3 +1530,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3625.455892202313
 Random---Twenty-four hours or ten percent decreasing has bought LPT for $11.79
 Random---Twenty-four hours or ten percent decreasing now has $3625.455892202313
 ---------------------------------------------------------------------------
+[2022-06-03 16:13:26] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold LPT for $11.79. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3606.603521562861
+---------------------------------------------------------------------------

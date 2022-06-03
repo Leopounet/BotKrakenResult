@@ -16467,3 +16467,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $3850.666132677172
 ---------------------------------------------------------------------------
+[2022-06-03 16:13:26] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: MKRUSD
+Altname: MKRUSD
+Wsname: MKR/USD
+Base:
+ 	Name: MKR
+	Altname: MKR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.002
+Data about this pair of assets (MKRUSD):
+	Current:                    1130.3
+	Maximum:                    0.000889
+	Minimum:                    0.000755
+	Variance:                   0.150396
+	Mean:                       0.000826
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.222222
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.05
+	Is falling:                 True
+	Current fall duration:      15
+	Trending downwards:         True
+	Average local maximum:      1228.111111
+	Number of local maximums:   27
+	Average local minimum:      1225.865
+	Number of local minimums:   20
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3830.6426687872504
+---------------------------------------------------------------------------
