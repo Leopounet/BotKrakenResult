@@ -1110,3 +1110,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4894.838530547844
 Random---Twenty-four hours or ten percent decreasing has sold NYM for $0.3741. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4869.385370188996
 ---------------------------------------------------------------------------
+[2022-06-03 10:37:00] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LUNA2 for $6.33035
+Random---Twenty-four hours or ten percent decreasing now has $4869.385370188996
+---------------------------------------------------------------------------

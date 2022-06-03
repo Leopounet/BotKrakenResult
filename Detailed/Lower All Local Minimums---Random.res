@@ -8125,3 +8125,46 @@ Is init: True
 
 Lower All Local Minimums---Random now has $6441.324604583872
 ---------------------------------------------------------------------------
+[2022-06-03 10:37:00] SOLD
+Lower All Local Minimums---Random has sold: 
+Name: PERPUSD
+Altname: PERPUSD
+Wsname: PERP/USD
+Base:
+ 	Name: PERP
+	Altname: PERP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (PERPUSD):
+	Current:                    1.224
+	Maximum:                    0.816993
+	Minimum:                    0.71582
+	Variance:                   0.123837
+	Mean:                       0.779941
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.666667
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.454545
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      1.289
+	Number of local maximums:   27
+	Average local minimum:      1.276515
+	Number of local minimums:   33
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Random now has $6407.829716640036
+---------------------------------------------------------------------------

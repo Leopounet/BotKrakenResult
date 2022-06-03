@@ -1110,3 +1110,7 @@ Random---Twenty-four hours or ten percent now has $4971.2725022691875
 Random---Twenty-four hours or ten percent has sold LINK for $6.82139. Profit was -0.7216043492700237%.
 Random---Twenty-four hours or ten percent now has $4935.399583678748
 ---------------------------------------------------------------------------
+[2022-06-03 10:37:00] BUY
+Random---Twenty-four hours or ten percent has bought ALCX for $29.36
+Random---Twenty-four hours or ten percent now has $4935.399583678748
+---------------------------------------------------------------------------
