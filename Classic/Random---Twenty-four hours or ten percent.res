@@ -1518,3 +1518,7 @@ Random---Twenty-four hours or ten percent now has $3891.027606397226
 Random---Twenty-four hours or ten percent has sold MULTI for $4.637. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3870.7942628439605
 ---------------------------------------------------------------------------
+[2022-06-03 16:03:57] BUY
+Random---Twenty-four hours or ten percent has bought FET for $0.1532
+Random---Twenty-four hours or ten percent now has $3870.7942628439605
+---------------------------------------------------------------------------

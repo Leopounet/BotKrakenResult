@@ -1518,3 +1518,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3663.456782872781
 Random---Twenty-four hours or ten percent decreasing has sold BAL for $6.65. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3644.4068076018425
 ---------------------------------------------------------------------------
+[2022-06-03 16:03:57] BUY
+Random---Twenty-four hours or ten percent decreasing has bought PERP for $1.237
+Random---Twenty-four hours or ten percent decreasing now has $3644.4068076018425
+---------------------------------------------------------------------------
