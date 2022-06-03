@@ -19993,3 +19993,46 @@ Is init: True
 
 Random---Always now has $2554.3257587751245
 ---------------------------------------------------------------------------
+[2022-06-03 20:17:28] SOLD
+Random---Always has sold: 
+Name: TOKEUSD
+Altname: TOKEUSD
+Wsname: TOKE/USD
+Base:
+ 	Name: TOKE
+	Altname: TOKE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.3
+Data about this pair of assets (TOKEUSD):
+	Current:                    3.18
+	Maximum:                    0.314465
+	Minimum:                    0.245098
+	Variance:                   0.220588
+	Mean:                       0.289452
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.071429
+	Is ascending:               True
+	Current ascension duration: 175
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               8.4
+	Is falling:                 True
+	Current fall duration:      78
+	Trending downwards:         True
+	Average local maximum:      3.452857
+	Number of local maximums:   14
+	Average local minimum:      3.564
+	Number of local minimums:   5
+Is init: True
+Profit was -0.52%.
+Random---Always now has $2541.043264829494
+---------------------------------------------------------------------------
