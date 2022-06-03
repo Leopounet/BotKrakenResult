@@ -1798,3 +1798,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3083.2602172421975
 Random---Twenty-four hours or ten percent decreasing has sold CTSI for $0.1956. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3067.2272641125383
 ---------------------------------------------------------------------------
+[2022-06-03 19:32:52] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RUNE for $2.608
+Random---Twenty-four hours or ten percent decreasing now has $3067.2272641125383
+---------------------------------------------------------------------------

@@ -12812,3 +12812,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $4128.135361298183
 ---------------------------------------------------------------------------
+[2022-06-03 19:32:52] BUY
+Random---Random has bought: 
+Name: FIDAUSD
+Altname: FIDAUSD
+Wsname: FIDA/USD
+Base:
+ 	Name: FIDA
+	Altname: FIDA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 7.5
+Data about this pair of assets (FIDAUSD):
+	Current:                    0.476
+	Maximum:                    2.155172
+	Minimum:                    1.980198
+	Variance:                   0.081188
+	Mean:                       2.090006
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.272727
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.75
+	Is falling:                 True
+	Current fall duration:      33
+	Trending downwards:         True
+	Average local maximum:      0.475818
+	Number of local maximums:   11
+	Average local minimum:      0.48225
+	Number of local minimums:   12
+Is init: True
+
+Random---Random now has $4128.135361298183
+---------------------------------------------------------------------------

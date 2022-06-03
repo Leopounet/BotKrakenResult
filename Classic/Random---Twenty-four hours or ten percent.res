@@ -1798,3 +1798,7 @@ Random---Twenty-four hours or ten percent now has $3230.3189359746875
 Random---Twenty-four hours or ten percent has sold OGN for $0.282. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3213.5212775076193
 ---------------------------------------------------------------------------
+[2022-06-03 19:32:52] BUY
+Random---Twenty-four hours or ten percent has bought KINT for $4.1
+Random---Twenty-four hours or ten percent now has $3213.5212775076193
+---------------------------------------------------------------------------
