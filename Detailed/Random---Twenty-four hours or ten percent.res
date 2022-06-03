@@ -12554,3 +12554,46 @@ Is init: True
 Profit was -1.040639642989973%.
 Random---Twenty-four hours or ten percent now has $4740.153679815702
 ---------------------------------------------------------------------------
+[2022-06-03 11:22:26] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: YGGUSD
+Altname: YGGUSD
+Wsname: YGG/USD
+Base:
+ 	Name: YGG
+	Altname: YGG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (YGGUSD):
+	Current:                    0.597
+	Maximum:                    1.715266
+	Minimum:                    1.41844
+	Variance:                   0.17305
+	Mean:                       1.592169
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.375
+	Is ascending:               True
+	Current ascension duration: 47
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.789474
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         True
+	Average local maximum:      0.632542
+	Number of local maximums:   24
+	Average local minimum:      0.641737
+	Number of local minimums:   19
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $4740.153679815702
+---------------------------------------------------------------------------

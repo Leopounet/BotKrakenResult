@@ -1,4 +1,4 @@
-[2022-06-03 11:19:21] SUMMARY
+[2022-06-03 11:22:26] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: STORJUSD
+	Altname: STORJUSD
+	Wsname: STORJ/USD
+	Base:
+	 	Name: STORJ
+		Altname: STORJ
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 3
+	Data about this pair of assets (STORJUSD):
+		Current:                    0.56187
+		Maximum:                    1.806
+		Minimum:                    1.639344
+		Variance:                   0.092279
+		Mean:                       1.720701
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.357143
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.818182
+		Is falling:                 False
+		Current fall duration:      2
+		Trending downwards:         True
+		Average local maximum:      0.57938
+		Number of local maximums:   28
+		Average local minimum:      0.580794
+		Number of local minimums:   22
+	Is init: True
 Wins: 0
 Losses: 146
 Total points: -80.66100887080087%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: YGGUSD
+	Altname: YGGUSD
+	Wsname: YGG/USD
+	Base:
+	 	Name: YGG
+		Altname: YGG
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2
+	Data about this pair of assets (YGGUSD):
+		Current:                    0.597
+		Maximum:                    1.715266
+		Minimum:                    1.41844
+		Variance:                   0.17305
+		Mean:                       1.592169
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.375
+		Is ascending:               True
+		Current ascension duration: 47
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.789474
+		Is falling:                 True
+		Current fall duration:      7
+		Trending downwards:         True
+		Average local maximum:      0.632542
+		Number of local maximums:   24
+		Average local minimum:      0.641737
+		Number of local minimums:   19
+	Is init: True
 Wins: 5
 Losses: 141
 Total points: -74.35008431976368%

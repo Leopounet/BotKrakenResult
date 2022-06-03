@@ -1166,3 +1166,7 @@ Random---Twenty-four hours or ten percent now has $4790.000322066473
 Random---Twenty-four hours or ten percent has sold SNX for $2.675. Profit was -1.040639642989973%.
 Random---Twenty-four hours or ten percent now has $4740.153679815702
 ---------------------------------------------------------------------------
+[2022-06-03 11:22:26] BUY
+Random---Twenty-four hours or ten percent has bought YGG for $0.597
+Random---Twenty-four hours or ten percent now has $4740.153679815702
+---------------------------------------------------------------------------
