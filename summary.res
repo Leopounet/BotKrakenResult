@@ -1,4 +1,4 @@
-[2022-06-03 12:44:31] SUMMARY
+[2022-06-03 12:47:41] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: QTUMUSD
-	Altname: QTUMUSD
-	Wsname: QTUM/USD
-	Base:
-	 	Name: QTUM
-		Altname: QTUM
-		decimals: 10
-		displayed_decimals: 6
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.5
-	Data about this pair of assets (QTUMUSD):
-		Current:                    3.806
-		Maximum:                    0.266086
-		Minimum:                    0.233417
-		Variance:                   0.122777
-		Mean:                       0.252439
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.096774
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.90625
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         True
-		Average local maximum:      3.97033
-		Number of local maximums:   31
-		Average local minimum:      3.94728
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 0
-Losses: 159
-Total points: -90.5532676574193%
-Wallet: 4028.7903414435978
+Losses: 160
+Total points: -91.51388773098735%
+Wallet: 3990.0889727017197
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: YFIUSD
-	Altname: YFIUSD
-	Wsname: YFI/USD
-	Base:
-	 	Name: YFI
-		Altname: YFI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.00015
-	Data about this pair of assets (YFIUSD):
-		Current:                    7240.0
-		Maximum:                    0.000139
-		Minimum:                    0.000123
-		Variance:                   0.11973
-		Mean:                       0.000131
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.666667
-		Is ascending:               True
-		Current ascension duration: 11
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.375
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      7643.037037
-		Number of local maximums:   27
-		Average local minimum:      7619.916667
-		Number of local minimums:   24
-	Is init: True
+	None
 Wins: 6
-Losses: 153
-Total points: -79.61652315602632%
-Wallet: 4496.103752336478
+Losses: 154
+Total points: -80.13652315602631%
+Wallet: 4472.7240128243275
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

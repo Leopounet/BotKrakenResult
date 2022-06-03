@@ -9157,3 +9157,46 @@ Is init: True
 
 Random---Random now has $5808.957928826768
 ---------------------------------------------------------------------------
+[2022-06-03 12:47:41] SOLD
+Random---Random has sold: 
+Name: OMGUSD
+Altname: OMGUSD
+Wsname: OMG/USD
+Base:
+ 	Name: OMG
+	Altname: OMG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (OMGUSD):
+	Current:                    2.407207
+	Maximum:                    0.416667
+	Minimum:                    0.350906
+	Variance:                   0.157827
+	Mean:                       0.391009
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      14
+	Trending downwards:         True
+	Average local maximum:      2.591805
+	Number of local maximums:   21
+	Average local minimum:      2.508744
+	Number of local minimums:   14
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5778.751347596869
+---------------------------------------------------------------------------
