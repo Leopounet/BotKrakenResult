@@ -1374,3 +1374,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4015.379466680573
 Random---Twenty-four hours or ten percent decreasing has sold CHZ for $0.1203. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3994.499493453834
 ---------------------------------------------------------------------------
+[2022-06-03 14:08:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GLMR for $1.275
+Random---Twenty-four hours or ten percent decreasing now has $3994.499493453834
+---------------------------------------------------------------------------
