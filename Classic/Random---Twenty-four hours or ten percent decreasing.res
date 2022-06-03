@@ -846,3 +846,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5846.446372332558
 Random---Twenty-four hours or ten percent decreasing has sold XTZ for $1.9607. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5816.044851196429
 ---------------------------------------------------------------------------
+[2022-06-03 07:08:30] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SHIB for $1.1e-05
+Random---Twenty-four hours or ten percent decreasing now has $5816.044851196429
+---------------------------------------------------------------------------

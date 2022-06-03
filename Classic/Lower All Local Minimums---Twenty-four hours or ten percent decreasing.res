@@ -846,3 +846,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold DASH for $58.586. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $6216.834742382076
 ---------------------------------------------------------------------------
+[2022-06-03 07:08:30] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought 1INCH for $0.9
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $6216.834742382076
+---------------------------------------------------------------------------
