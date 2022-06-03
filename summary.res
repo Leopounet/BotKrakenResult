@@ -1,4 +1,4 @@
-[2022-06-03 10:24:46] SUMMARY
+[2022-06-03 10:27:45] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: OXTUSD
-	Altname: OXTUSD
-	Wsname: OXT/USD
-	Base:
-	 	Name: OXT
-		Altname: OXT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (OXTUSD):
-		Current:                    0.13001
-		Maximum:                    7.949758
-		Minimum:                    7.049203
-		Variance:                   0.113281
-		Mean:                       7.557325
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.428571
-		Is ascending:               True
-		Current ascension duration: 15
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.705882
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.130715
-		Number of local maximums:   21
-		Average local minimum:      0.133901
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 0
-Losses: 137
-Total points: -74.62562421329737%
-Wallet: 4731.1617697151305
+Losses: 138
+Total points: -75.48405971825852%
+Wallet: 4690.5477972867475
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AXSUSD
-	Altname: AXSUSD
-	Wsname: AXS/USD
-	Base:
-	 	Name: AXS
-		Altname: AXS
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.25
-	Data about this pair of assets (AXSUSD):
-		Current:                    20.294
-		Maximum:                    0.050682
-		Minimum:                    0.041864
-		Variance:                   0.173986
-		Mean:                       0.047185
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.92
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.6875
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      21.23872
-		Number of local maximums:   25
-		Average local minimum:      21.1875
-		Number of local minimums:   16
-	Is init: True
+	None
 Wins: 5
-Losses: 132
-Total points: -68.01576081095487%
-Wallet: 5051.555949521179
+Losses: 133
+Total points: -69.6050423720074%
+Wallet: 4971.2725022691875
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
