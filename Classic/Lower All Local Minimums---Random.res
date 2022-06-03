@@ -970,3 +970,7 @@ Lower All Local Minimums---Random now has $5604.814890184059
 Lower All Local Minimums---Random has bought OCEAN for $0.2001
 Lower All Local Minimums---Random now has $5604.814890184059
 ---------------------------------------------------------------------------
+[2022-06-03 15:03:17] SOLD
+Lower All Local Minimums---Random has sold OCEAN for $0.2. Profit was -0.5699750124937526%.
+Lower All Local Minimums---Random now has $5572.86884581348
+---------------------------------------------------------------------------

@@ -1442,3 +1442,7 @@ Lower All Local Minimums---Always now has $4211.556249398464
 Lower All Local Minimums---Always has bought OCEAN for $0.2001
 Lower All Local Minimums---Always now has $4211.556249398464
 ---------------------------------------------------------------------------
+[2022-06-03 15:03:17] SOLD
+Lower All Local Minimums---Always has sold OCEAN for $0.2. Profit was -0.5699750124937526%.
+Lower All Local Minimums---Always now has $4187.551431139774
+---------------------------------------------------------------------------
