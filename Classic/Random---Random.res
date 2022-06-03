@@ -406,3 +406,7 @@ Random---Random now has $7748.990208035677
 Random---Random has sold PSTAKE for $0.241. Profit was -0.52%.
 Random---Random now has $7708.695458953892
 ---------------------------------------------------------------------------
+[2022-06-03 03:30:00] BUY
+Random---Random has bought LINK for $7.11428
+Random---Random now has $7708.695458953892
+---------------------------------------------------------------------------

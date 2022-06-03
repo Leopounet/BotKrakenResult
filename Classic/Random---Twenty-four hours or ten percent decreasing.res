@@ -550,3 +550,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7150.202142688889
 Random---Twenty-four hours or ten percent decreasing has sold ZGBP for $1.25737. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $7121.601334118133
 ---------------------------------------------------------------------------
+[2022-06-03 03:30:00] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SUSHI for $1.667
+Random---Twenty-four hours or ten percent decreasing now has $7121.601334118133
+---------------------------------------------------------------------------
