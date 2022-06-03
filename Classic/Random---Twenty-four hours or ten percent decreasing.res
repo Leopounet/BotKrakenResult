@@ -1258,3 +1258,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4398.112152061376
 Random---Twenty-four hours or ten percent decreasing has bought GHST for $1.4784
 Random---Twenty-four hours or ten percent decreasing now has $4398.112152061376
 ---------------------------------------------------------------------------
+[2022-06-03 12:35:04] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold GHST for $1.4784. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $4375.241968870657
+---------------------------------------------------------------------------
