@@ -962,3 +962,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5451.149394329335
 Random---Twenty-four hours or ten percent decreasing has bought EOS for $1.2834
 Random---Twenty-four hours or ten percent decreasing now has $5451.149394329335
 ---------------------------------------------------------------------------
+[2022-06-03 08:39:57] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold EOS for $1.2834. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $5422.803417478823
+---------------------------------------------------------------------------

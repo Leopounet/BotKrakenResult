@@ -7007,3 +7007,46 @@ Is init: True
 
 Random---Random now has $6669.933021728421
 ---------------------------------------------------------------------------
+[2022-06-03 08:39:57] SOLD
+Random---Random has sold: 
+Name: FTMUSD
+Altname: FTMUSD
+Wsname: FTM/USD
+Base:
+ 	Name: FTM
+	Altname: FTM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (FTMUSD):
+	Current:                    0.37
+	Maximum:                    3.333333
+	Minimum:                    2.590674
+	Variance:                   0.222798
+	Mean:                       2.660869
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.378706
+	Number of local maximums:   17
+	Average local minimum:      0.376824
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Random now has $6635.249370015434
+---------------------------------------------------------------------------
