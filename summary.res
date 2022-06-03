@@ -1,4 +1,4 @@
-[2022-06-03 04:58:28] SUMMARY
+[2022-06-03 05:01:24] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: DASHUSD
-	Altname: DASHUSD
-	Wsname: DASH/USD
-	Base:
-	 	Name: DASH
-		Altname: DASH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.03
-	Data about this pair of assets (DASHUSD):
-		Current:                    58.694
-		Maximum:                    0.017237
-		Minimum:                    0.014818
-		Variance:                   0.140327
-		Mean:                       0.016355
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.115385
-		Is ascending:               True
-		Current ascension duration: 10
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.888889
-		Is falling:                 True
-		Current fall duration:      7
-		Trending downwards:         True
-		Average local maximum:      61.453615
-		Number of local maximums:   26
-		Average local minimum:      61.119519
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 0
-Losses: 84
-Total points: -44.77209787009229%
-Wallet: 6382.876417575347
+Losses: 85
+Total points: -46.13375119070428%
+Wallet: 6295.9637688848725
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SNXUSD
-	Altname: SNXUSD
-	Wsname: SNX/USD
-	Base:
-	 	Name: SNX
-		Altname: SNX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.4
-	Data about this pair of assets (SNXUSD):
-		Current:                    2.874
-		Maximum:                    0.361011
-		Minimum:                    0.298597
-		Variance:                   0.172887
-		Mean:                       0.334585
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.92
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.6875
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      2.98968
-		Number of local maximums:   25
-		Average local minimum:      2.932188
-		Number of local minimums:   16
-	Is init: True
+	None
 Wins: 4
-Losses: 80
-Total points: -38.804405931345165%
-Wallet: 6773.312985484054
+Losses: 81
+Total points: -39.32440593134517%
+Wallet: 6738.091757959536
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
