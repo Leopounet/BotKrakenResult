@@ -1914,3 +1914,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought SCRT for $1.468
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3323.164924122803
 ---------------------------------------------------------------------------
+[2022-06-03 20:59:17] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold SCRT for $1.468. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3305.884466517364
+---------------------------------------------------------------------------
