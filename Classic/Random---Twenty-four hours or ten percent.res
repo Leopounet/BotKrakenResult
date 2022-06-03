@@ -1550,3 +1550,7 @@ Random---Twenty-four hours or ten percent now has $3810.723326909557
 Random---Twenty-four hours or ten percent has sold CFG for $0.3203. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3790.907565609627
 ---------------------------------------------------------------------------
+[2022-06-03 16:28:22] BUY
+Random---Twenty-four hours or ten percent has bought FXS for $6.599
+Random---Twenty-four hours or ten percent now has $3790.907565609627
+---------------------------------------------------------------------------

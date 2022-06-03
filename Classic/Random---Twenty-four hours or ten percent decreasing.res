@@ -1550,3 +1550,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3587.849183250734
 Random---Twenty-four hours or ten percent decreasing has sold AXS for $19.544. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3569.19236749783
 ---------------------------------------------------------------------------
+[2022-06-03 16:28:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MASK for $1.699
+Random---Twenty-four hours or ten percent decreasing now has $3569.19236749783
+---------------------------------------------------------------------------
