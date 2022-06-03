@@ -8985,3 +8985,46 @@ Is init: True
 
 Random---Random now has $5623.58836710713
 ---------------------------------------------------------------------------
+[2022-06-03 12:22:25] SOLD
+Random---Random has sold: 
+Name: USTUSD
+Altname: USTUSD
+Wsname: UST/USD
+Base:
+ 	Name: UST
+	Altname: UST
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 100
+Data about this pair of assets (USTUSD):
+	Current:                    0.01843
+	Maximum:                    75.075075
+	Minimum:                    44.903458
+	Variance:                   0.401886
+	Mean:                       57.024781
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.653846
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.391304
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.017762
+	Number of local maximums:   26
+	Average local minimum:      0.017558
+	Number of local minimums:   23
+Is init: True
+Profit was 3.6151926207270706%.
+Random---Random now has $5826.8919187748525
+---------------------------------------------------------------------------

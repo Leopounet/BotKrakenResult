@@ -13371,3 +13371,46 @@ Is init: True
 
 Random---Always now has $4079.889730742926
 ---------------------------------------------------------------------------
+[2022-06-03 12:22:25] SOLD
+Random---Always has sold: 
+Name: LPTUSD
+Altname: LPTUSD
+Wsname: LPT/USD
+Base:
+ 	Name: LPT
+	Altname: LPT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (LPTUSD):
+	Current:                    11.85
+	Maximum:                    0.085106
+	Minimum:                    0.075188
+	Variance:                   0.116541
+	Mean:                       0.081123
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      15
+	Trending downwards:         True
+	Average local maximum:      12.361429
+	Number of local maximums:   21
+	Average local minimum:      12.482857
+	Number of local minimums:   21
+Is init: True
+Profit was -0.09805907172994077%.
+Random---Always now has $4075.8890287453546
+---------------------------------------------------------------------------
