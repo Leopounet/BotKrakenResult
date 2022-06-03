@@ -13629,3 +13629,46 @@ Is init: True
 
 Random---Always now has $4049.8495591511837
 ---------------------------------------------------------------------------
+[2022-06-03 12:41:23] SOLD
+Random---Always has sold: 
+Name: ORCAUSD
+Altname: ORCAUSD
+Wsname: ORCA/USD
+Base:
+ 	Name: ORCA
+	Altname: ORCA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (ORCAUSD):
+	Current:                    0.845
+	Maximum:                    1.230012
+	Minimum:                    1.096491
+	Variance:                   0.108553
+	Mean:                       1.176814
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.5
+	Is ascending:               True
+	Current ascension duration: 31
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.0
+	Is falling:                 True
+	Current fall duration:      28
+	Trending downwards:         True
+	Average local maximum:      0.859125
+	Number of local maximums:   8
+	Average local minimum:      0.87325
+	Number of local minimums:   4
+Is init: True
+Profit was -0.52%.
+Random---Always now has $4028.7903414435978
+---------------------------------------------------------------------------
