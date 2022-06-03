@@ -1170,3 +1170,7 @@ Random---Twenty-four hours or ten percent now has $4740.153679815702
 Random---Twenty-four hours or ten percent has bought YGG for $0.597
 Random---Twenty-four hours or ten percent now has $4740.153679815702
 ---------------------------------------------------------------------------
+[2022-06-03 11:25:29] SOLD
+Random---Twenty-four hours or ten percent has sold YGG for $0.597. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $4715.504880680661
+---------------------------------------------------------------------------
