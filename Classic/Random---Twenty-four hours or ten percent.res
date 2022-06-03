@@ -1382,3 +1382,7 @@ Random---Twenty-four hours or ten percent now has $4264.044126936507
 Random---Twenty-four hours or ten percent has sold PHA for $0.1229. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4241.871097476437
 ---------------------------------------------------------------------------
+[2022-06-03 14:14:43] BUY
+Random---Twenty-four hours or ten percent has bought ZUSD for $0.96168
+Random---Twenty-four hours or ten percent now has $4241.871097476437
+---------------------------------------------------------------------------

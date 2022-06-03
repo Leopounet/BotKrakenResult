@@ -1382,3 +1382,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3994.499493453834
 Random---Twenty-four hours or ten percent decreasing has sold GLMR for $1.275. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3973.7280960878743
 ---------------------------------------------------------------------------
+[2022-06-03 14:14:43] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZGBP for $1.25508
+Random---Twenty-four hours or ten percent decreasing now has $3973.7280960878743
+---------------------------------------------------------------------------
