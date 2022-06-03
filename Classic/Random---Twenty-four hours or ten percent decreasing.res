@@ -1942,3 +1942,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2795.982234968706
 Random---Twenty-four hours or ten percent decreasing has sold KINT for $4.05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2781.443127346869
 ---------------------------------------------------------------------------
+[2022-06-03 21:20:07] BUY
+Random---Twenty-four hours or ten percent decreasing has bought APE for $6.186
+Random---Twenty-four hours or ten percent decreasing now has $2781.443127346869
+---------------------------------------------------------------------------

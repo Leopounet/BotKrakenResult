@@ -1942,3 +1942,7 @@ Random---Twenty-four hours or ten percent now has $2961.859785490973
 Random---Twenty-four hours or ten percent has sold KILT for $0.727. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2946.45811460642
 ---------------------------------------------------------------------------
+[2022-06-03 21:20:07] BUY
+Random---Twenty-four hours or ten percent has bought SUSHI for $1.539
+Random---Twenty-four hours or ten percent now has $2946.45811460642
+---------------------------------------------------------------------------
