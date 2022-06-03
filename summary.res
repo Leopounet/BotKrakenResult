@@ -1,4 +1,4 @@
-[2022-06-03 13:26:45] SUMMARY
+[2022-06-03 13:29:56] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ZRXUSD
+	Altname: ZRXUSD
+	Wsname: ZRX/USD
+	Base:
+	 	Name: ZRX
+		Altname: ZRX
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (ZRXUSD):
+		Current:                    0.389
+		Maximum:                    2.617801
+		Minimum:                    2.242152
+		Variance:                   0.143498
+		Mean:                       2.448016
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.571429
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.5
+		Is falling:                 True
+		Current fall duration:      4
+		Trending downwards:         True
+		Average local maximum:      0.408571
+		Number of local maximums:   28
+		Average local minimum:      0.412
+		Number of local minimums:   24
+	Is init: True
 Wins: 0
 Losses: 166
 Total points: -94.70326971823934%

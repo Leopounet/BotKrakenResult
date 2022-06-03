@@ -9114,3 +9114,46 @@ Is init: True
 Profit was -0.52%.
 Recent Minimum---Random now has $5551.5815142317215
 ---------------------------------------------------------------------------
+[2022-06-03 13:29:56] BUY
+Recent Minimum---Random has bought: 
+Name: ACAUSD
+Altname: ACAUSD
+Wsname: ACA/USD
+Base:
+ 	Name: ACA
+	Altname: ACA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (ACAUSD):
+	Current:                    0.367
+	Maximum:                    2.941176
+	Minimum:                    2.309469
+	Variance:                   0.214781
+	Mean:                       2.544208
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         True
+	Average local maximum:      0.3915
+	Number of local maximums:   26
+	Average local minimum:      0.393731
+	Number of local minimums:   26
+Is init: True
+
+Recent Minimum---Random now has $5551.5815142317215
+---------------------------------------------------------------------------
