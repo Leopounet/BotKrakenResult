@@ -1266,3 +1266,7 @@ Lower All Local Minimums---Random now has $4665.977623301368
 Lower All Local Minimums---Random has bought ACA for $0.362
 Lower All Local Minimums---Random now has $4665.977623301368
 ---------------------------------------------------------------------------
+[2022-06-03 20:53:18] SOLD
+Lower All Local Minimums---Random has sold ACA for $0.362. Profit was -0.52%.
+Lower All Local Minimums---Random now has $4641.714539660201
+---------------------------------------------------------------------------

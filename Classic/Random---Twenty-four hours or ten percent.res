@@ -1906,3 +1906,7 @@ Random---Twenty-four hours or ten percent now has $3017.526414447816
 Random---Twenty-four hours or ten percent has bought NYM for $0.364
 Random---Twenty-four hours or ten percent now has $3017.526414447816
 ---------------------------------------------------------------------------
+[2022-06-03 20:53:18] SOLD
+Random---Twenty-four hours or ten percent has sold NYM for $0.364. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3001.835277092687
+---------------------------------------------------------------------------

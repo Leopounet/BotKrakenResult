@@ -1906,3 +1906,7 @@ Lower All Local Minimums---Always now has $3340.5357098138347
 Lower All Local Minimums---Always has bought ACA for $0.362
 Lower All Local Minimums---Always now has $3340.5357098138347
 ---------------------------------------------------------------------------
+[2022-06-03 20:53:18] SOLD
+Lower All Local Minimums---Always has sold ACA for $0.362. Profit was -0.52%.
+Lower All Local Minimums---Always now has $3323.164924122803
+---------------------------------------------------------------------------
