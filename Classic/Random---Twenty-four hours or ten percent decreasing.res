@@ -1094,3 +1094,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4947.98117799307
 Random---Twenty-four hours or ten percent decreasing has sold XETH for $1786.85. Profit was -0.5569228703615665%.
 Random---Twenty-four hours or ten percent decreasing now has $4920.424739191641
 ---------------------------------------------------------------------------
+[2022-06-03 10:24:46] BUY
+Random---Twenty-four hours or ten percent decreasing has bought PERP for $1.224
+Random---Twenty-four hours or ten percent decreasing now has $4920.424739191641
+---------------------------------------------------------------------------
