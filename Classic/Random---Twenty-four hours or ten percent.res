@@ -1086,3 +1086,7 @@ Random---Twenty-four hours or ten percent now has $5084.668111284221
 Random---Twenty-four hours or ten percent has sold AVAX for $23.28. Profit was -0.1319016817593739%.
 Random---Twenty-four hours or ten percent now has $5077.961348533554
 ---------------------------------------------------------------------------
+[2022-06-03 10:18:35] BUY
+Random---Twenty-four hours or ten percent has bought CHZ for $0.1205
+Random---Twenty-four hours or ten percent now has $5077.961348533554
+---------------------------------------------------------------------------
