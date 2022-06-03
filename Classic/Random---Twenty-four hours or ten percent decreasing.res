@@ -1270,3 +1270,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4375.241968870657
 Random---Twenty-four hours or ten percent decreasing has sold XXBT for $29560.5. Profit was -1.1355946153121983%.
 Random---Twenty-four hours or ten percent decreasing now has $4325.556956665282
 ---------------------------------------------------------------------------
+[2022-06-03 12:44:31] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ALCX for $28.03
+Random---Twenty-four hours or ten percent decreasing now has $4325.556956665282
+---------------------------------------------------------------------------
