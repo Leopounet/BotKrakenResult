@@ -338,3 +338,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8113.61266078028
 Random---Twenty-four hours or ten percent decreasing has bought KAVA for $2.5927
 Random---Twenty-four hours or ten percent decreasing now has $8113.61266078028
 ---------------------------------------------------------------------------
+[2022-06-03 00:53:37] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold KAVA for $2.5927. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $8071.4218749442225
+---------------------------------------------------------------------------

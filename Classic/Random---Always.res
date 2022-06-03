@@ -338,3 +338,7 @@ Random---Always now has $7923.464053778354
 Random---Always has bought GLMR for $1.332
 Random---Always now has $7923.464053778354
 ---------------------------------------------------------------------------
+[2022-06-03 00:53:37] SOLD
+Random---Always has sold GLMR for $1.332. Profit was -0.52%.
+Random---Always now has $7882.262040698707
+---------------------------------------------------------------------------
