@@ -17972,3 +17972,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $3657.330518202819
 ---------------------------------------------------------------------------
+[2022-06-03 17:57:30] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought: 
+Name: XMLNZUSD
+Altname: MLNUSD
+Wsname: MLN/USD
+Base:
+ 	Name: XMLN
+	Altname: MLN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (XMLNZUSD):
+	Current:                    26.303
+	Maximum:                    0.038388
+	Minimum:                    0.034871
+	Variance:                   0.091607
+	Mean:                       0.036677
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.8125
+	Is ascending:               True
+	Current ascension duration: 10
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.2
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      27.212531
+	Number of local maximums:   32
+	Average local minimum:      27.497
+	Number of local minimums:   30
+Is init: True
+
+Lower All Local Minimums---Twenty-four hours or ten percent now has $3657.330518202819
+---------------------------------------------------------------------------

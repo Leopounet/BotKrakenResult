@@ -1122,3 +1122,7 @@ Lower All Local Minimums---Random now has $5077.225347917249
 Lower All Local Minimums---Random has bought XMLN for $26.303
 Lower All Local Minimums---Random now has $5077.225347917249
 ---------------------------------------------------------------------------
+[2022-06-03 17:57:30] SOLD
+Lower All Local Minimums---Random has sold XMLN for $26.303. Profit was -0.52%.
+Lower All Local Minimums---Random now has $5050.823776108079
+---------------------------------------------------------------------------

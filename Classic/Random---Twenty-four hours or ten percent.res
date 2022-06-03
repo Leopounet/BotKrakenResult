@@ -1670,3 +1670,7 @@ Random---Twenty-four hours or ten percent now has $3490.0876550161893
 Random---Twenty-four hours or ten percent has sold XXLM for $0.140966. Profit was -0.2967539743480203%.
 Random---Twenty-four hours or ten percent now has $3479.730681191699
 ---------------------------------------------------------------------------
+[2022-06-03 17:57:30] BUY
+Random---Twenty-four hours or ten percent has bought XXRP for $0.38466
+Random---Twenty-four hours or ten percent now has $3479.730681191699
+---------------------------------------------------------------------------
