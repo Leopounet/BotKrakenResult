@@ -1598,3 +1598,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3498.057499010174
 Random---Twenty-four hours or ten percent decreasing has sold PHA for $0.1229. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3479.8676000153214
 ---------------------------------------------------------------------------
+[2022-06-03 17:04:02] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XXRP for $0.38695
+Random---Twenty-four hours or ten percent decreasing now has $3479.8676000153214
+---------------------------------------------------------------------------
