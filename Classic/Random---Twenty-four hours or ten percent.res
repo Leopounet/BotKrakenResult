@@ -1174,3 +1174,7 @@ Random---Twenty-four hours or ten percent now has $4740.153679815702
 Random---Twenty-four hours or ten percent has sold YGG for $0.597. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4715.504880680661
 ---------------------------------------------------------------------------
+[2022-06-03 11:28:43] BUY
+Random---Twenty-four hours or ten percent has bought TOKE for $3.29
+Random---Twenty-four hours or ten percent now has $4715.504880680661
+---------------------------------------------------------------------------
