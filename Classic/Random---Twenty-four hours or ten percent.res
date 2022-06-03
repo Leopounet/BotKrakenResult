@@ -774,3 +774,7 @@ Random---Twenty-four hours or ten percent now has $6427.143583601064
 Random---Twenty-four hours or ten percent has sold MULTI for $4.951. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6393.722436966339
 ---------------------------------------------------------------------------
+[2022-06-03 06:15:13] BUY
+Random---Twenty-four hours or ten percent has bought JASMY for $0.01172
+Random---Twenty-four hours or ten percent now has $6393.722436966339
+---------------------------------------------------------------------------
