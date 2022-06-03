@@ -1966,3 +1966,7 @@ Random---Twenty-four hours or ten percent now has $2942.5586324833534
 Random---Twenty-four hours or ten percent has sold CVC for $0.1728. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2927.25732759444
 ---------------------------------------------------------------------------
+[2022-06-03 21:37:54] BUY
+Random---Twenty-four hours or ten percent has bought MKR for $1146.0
+Random---Twenty-four hours or ten percent now has $2927.25732759444
+---------------------------------------------------------------------------
