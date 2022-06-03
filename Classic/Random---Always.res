@@ -630,3 +630,7 @@ Random---Always now has $6586.428327192612
 Random---Always has sold OCEAN for $0.2141. Profit was -0.52%.
 Random---Always now has $6552.178899891211
 ---------------------------------------------------------------------------
+[2022-06-03 04:29:03] BUY
+Random---Always has bought MNGO for $0.0565
+Random---Always now has $6552.178899891211
+---------------------------------------------------------------------------

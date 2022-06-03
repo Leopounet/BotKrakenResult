@@ -630,3 +630,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6808.142275705139
 Random---Twenty-four hours or ten percent decreasing has sold LSK for $1.353592. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6772.739935871472
 ---------------------------------------------------------------------------
+[2022-06-03 04:29:03] BUY
+Random---Twenty-four hours or ten percent decreasing has bought NANO for $1.16383
+Random---Twenty-four hours or ten percent decreasing now has $6772.739935871472
+---------------------------------------------------------------------------

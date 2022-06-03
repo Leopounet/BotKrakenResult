@@ -630,3 +630,7 @@ Random---Twenty-four hours or ten percent now has $6987.44575123483
 Random---Twenty-four hours or ten percent has sold KNC for $1.9873. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6951.111033328409
 ---------------------------------------------------------------------------
+[2022-06-03 04:29:03] BUY
+Random---Twenty-four hours or ten percent has bought MANA for $1.02372
+Random---Twenty-four hours or ten percent now has $6951.111033328409
+---------------------------------------------------------------------------
