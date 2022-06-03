@@ -694,3 +694,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6530.024877080384
 Random---Twenty-four hours or ten percent decreasing has sold CTSI for $0.1941. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6496.068747719566
 ---------------------------------------------------------------------------
+[2022-06-03 05:16:10] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RARE for $0.2575
+Random---Twenty-four hours or ten percent decreasing now has $6496.068747719566
+---------------------------------------------------------------------------
