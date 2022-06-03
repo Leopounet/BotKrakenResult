@@ -13973,3 +13973,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $4413.784918636466
 ---------------------------------------------------------------------------
+[2022-06-03 13:07:25] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: GRTUSD
+Altname: GRTUSD
+Wsname: GRT/USD
+Base:
+ 	Name: GRT
+	Altname: GRT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (GRTUSD):
+	Current:                    0.14211
+	Maximum:                    7.119465
+	Minimum:                    6.057669
+	Variance:                   0.14914
+	Mean:                       6.675084
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.88
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.125
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.150617
+	Number of local maximums:   25
+	Average local minimum:      0.148841
+	Number of local minimums:   24
+Is init: True
+Profit was -0.027423826613172775%.
+Random---Twenty-four hours or ten percent now has $4412.574489913301
+---------------------------------------------------------------------------
