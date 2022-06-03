@@ -12253,3 +12253,46 @@ Is init: True
 
 Random---Always now has $4546.782541645478
 ---------------------------------------------------------------------------
+[2022-06-03 10:59:56] SOLD
+Random---Always has sold: 
+Name: SUPERUSD
+Altname: SUPERUSD
+Wsname: SUPER/USD
+Base:
+ 	Name: SUPER
+	Altname: SUPER
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (SUPERUSD):
+	Current:                    0.201
+	Maximum:                    5.159959
+	Minimum:                    3.94011
+	Variance:                   0.236407
+	Mean:                       4.782965
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.357143
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.818182
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.211043
+	Number of local maximums:   28
+	Average local minimum:      0.214295
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Always now has $4523.139272428922
+---------------------------------------------------------------------------
