@@ -1902,3 +1902,7 @@ Random---Twenty-four hours or ten percent now has $3033.2995722233777
 Random---Twenty-four hours or ten percent has sold RNDR for $0.7145. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3017.526414447816
 ---------------------------------------------------------------------------
+[2022-06-03 20:50:15] BUY
+Random---Twenty-four hours or ten percent has bought NYM for $0.364
+Random---Twenty-four hours or ten percent now has $3017.526414447816
+---------------------------------------------------------------------------

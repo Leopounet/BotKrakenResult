@@ -1902,3 +1902,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2869.8257277370276
 Random---Twenty-four hours or ten percent decreasing has sold FXS for $6.612. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2854.902633952795
 ---------------------------------------------------------------------------
+[2022-06-03 20:50:15] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WBTC for $29381.6
+Random---Twenty-four hours or ten percent decreasing now has $2854.902633952795
+---------------------------------------------------------------------------
