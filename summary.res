@@ -1,4 +1,4 @@
-[2022-06-03 09:36:39] SUMMARY
+[2022-06-03 09:39:54] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: OGNUSD
+	Altname: OGNUSD
+	Wsname: OGN/USD
+	Base:
+	 	Name: OGN
+		Altname: OGN
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (OGNUSD):
+		Current:                    0.3133
+		Maximum:                    3.723008
+		Minimum:                    2.824061
+		Variance:                   0.241457
+		Mean:                       3.30068
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          4.235294
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.125
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.308541
+		Number of local maximums:   17
+		Average local minimum:      0.309721
+		Number of local minimums:   24
+	Is init: True
 Wins: 0
 Losses: 130
 Total points: -70.72241926939681%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SCRTUSD
+	Altname: SCRTUSD
+	Wsname: SCRT/USD
+	Base:
+	 	Name: SCRT
+		Altname: SCRT
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (SCRTUSD):
+		Current:                    1.529
+		Maximum:                    0.655738
+		Minimum:                    0.569152
+		Variance:                   0.132043
+		Mean:                       0.626847
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.27027
+		Is ascending:               True
+		Current ascension duration: 5
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.964286
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         True
+		Average local maximum:      1.575216
+		Number of local maximums:   37
+		Average local minimum:      1.596143
+		Number of local minimums:   28
+	Is init: True
 Wins: 5
 Losses: 125
 Total points: -64.76385912919552%

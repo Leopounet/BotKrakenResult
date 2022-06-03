@@ -1038,3 +1038,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $5070.90615
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold 1INCH for $0.897. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $5044.537445854926
 ---------------------------------------------------------------------------
+[2022-06-03 09:39:54] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought BNT for $1.244
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $5044.537445854926
+---------------------------------------------------------------------------
