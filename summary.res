@@ -1,4 +1,4 @@
-[2022-06-03 14:50:29] SUMMARY
+[2022-06-03 14:53:42] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: MATICUSD
+	Altname: MATICUSD
+	Wsname: MATIC/USD
+	Base:
+	 	Name: MATIC
+		Altname: MATIC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2.5
+	Data about this pair of assets (MATICUSD):
+		Current:                    0.5802
+		Maximum:                    1.734605
+		Minimum:                    1.528117
+		Variance:                   0.11904
+		Mean:                       1.63295
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.1
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.285714
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         True
+		Average local maximum:      0.608693
+		Number of local maximums:   30
+		Average local minimum:      0.613681
+		Number of local minimums:   21
+	Is init: True
 Wins: 0
 Losses: 179
 Total points: -102.78305189616891%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SAMOUSD
+	Altname: SAMOUSD
+	Wsname: SAMO/USD
+	Base:
+	 	Name: SAMO
+		Altname: SAMO
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 200
+	Data about this pair of assets (SAMOUSD):
+		Current:                    0.005485
+		Maximum:                    182.315406
+		Minimum:                    171.320884
+		Variance:                   0.060305
+		Mean:                       177.197193
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.04
+		Is ascending:               True
+		Current ascension duration: 15
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.411765
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.005638
+		Number of local maximums:   25
+		Average local minimum:      0.005645
+		Number of local minimums:   17
+	Is init: True
 Wins: 7
 Losses: 172
 Total points: -89.04185652225765%

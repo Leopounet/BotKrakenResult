@@ -1430,3 +1430,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3872.2489506940647
 Random---Twenty-four hours or ten percent decreasing has sold WBTC for $29496.0. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3852.1132561504555
 ---------------------------------------------------------------------------
+[2022-06-03 14:53:42] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GST for $0.889
+Random---Twenty-four hours or ten percent decreasing now has $3852.1132561504555
+---------------------------------------------------------------------------
