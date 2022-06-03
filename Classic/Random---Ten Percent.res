@@ -6,3 +6,7 @@ Random---Ten Percent now has $10000
 Random---Ten Percent has sold MSOL for $52.52. Profit was 16.191111111111123%.
 Random---Ten Percent now has $11619.111111111113
 ---------------------------------------------------------------------------
+[2022-06-03 02:45:50] BUY
+Random---Ten Percent has bought ZRX for $0.412
+Random---Ten Percent now has $11619.111111111113
+---------------------------------------------------------------------------

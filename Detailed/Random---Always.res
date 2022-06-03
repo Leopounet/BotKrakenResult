@@ -5287,3 +5287,46 @@ Is init: True
 
 Random---Always now has $7182.510585597339
 ---------------------------------------------------------------------------
+[2022-06-03 02:45:50] SOLD
+Random---Always has sold: 
+Name: KARUSD
+Altname: KARUSD
+Wsname: KAR/USD
+Base:
+ 	Name: KAR
+	Altname: KAR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (KARUSD):
+	Current:                    0.553
+	Maximum:                    1.941748
+	Minimum:                    1.650165
+	Variance:                   0.150165
+	Mean:                       1.785056
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.684211
+	Is ascending:               True
+	Current ascension duration: 46
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.352941
+	Is falling:                 True
+	Current fall duration:      85
+	Trending downwards:         True
+	Average local maximum:      0.564474
+	Number of local maximums:   19
+	Average local minimum:      0.575471
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Always now has $7145.161530552233
+---------------------------------------------------------------------------
