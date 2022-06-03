@@ -5287,3 +5287,46 @@ Is init: True
 
 Random---Random now has $7418.147588061316
 ---------------------------------------------------------------------------
+[2022-06-03 05:28:03] SOLD
+Random---Random has sold: 
+Name: CTSIUSD
+Altname: CTSIUSD
+Wsname: CTSI/USD
+Base:
+ 	Name: CTSI
+	Altname: CTSI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (CTSIUSD):
+	Current:                    0.1941
+	Maximum:                    5.555556
+	Minimum:                    4.580852
+	Variance:                   0.175447
+	Mean:                       5.035237
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.1875
+	Is ascending:               True
+	Current ascension duration: 36
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.823529
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.199556
+	Number of local maximums:   32
+	Average local minimum:      0.201174
+	Number of local minimums:   34
+Is init: True
+Profit was -0.52%.
+Random---Random now has $7379.573220603397
+---------------------------------------------------------------------------

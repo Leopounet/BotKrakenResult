@@ -710,3 +710,7 @@ Random---Always now has $6203.404980787144
 Random---Always has sold PAXG for $1872.0. Profit was -0.52%.
 Random---Always now has $6171.147274887051
 ---------------------------------------------------------------------------
+[2022-06-03 05:28:03] BUY
+Random---Always has bought AUDIO for $0.4079
+Random---Always now has $6171.147274887051
+---------------------------------------------------------------------------

@@ -7652,3 +7652,46 @@ Is init: True
 Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $6301.158407985693
 ---------------------------------------------------------------------------
+[2022-06-03 05:28:03] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    110.39
+	Maximum:                    0.009819
+	Minimum:                    0.008333
+	Variance:                   0.151404
+	Mean:                       0.009082
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.8
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               1.875
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         True
+	Average local maximum:      109.696667
+	Number of local maximums:   15
+	Average local minimum:      111.590417
+	Number of local minimums:   24
+Is init: True
+
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $6301.158407985693
+---------------------------------------------------------------------------

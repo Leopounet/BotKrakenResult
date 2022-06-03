@@ -490,3 +490,7 @@ Random---Random now has $7418.147588061316
 Random---Random has bought CTSI for $0.1941
 Random---Random now has $7418.147588061316
 ---------------------------------------------------------------------------
+[2022-06-03 05:28:03] SOLD
+Random---Random has sold CTSI for $0.1941. Profit was -0.52%.
+Random---Random now has $7379.573220603397
+---------------------------------------------------------------------------

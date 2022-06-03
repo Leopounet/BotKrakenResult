@@ -710,3 +710,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6462.289190231424
 Random---Twenty-four hours or ten percent decreasing has sold SBR for $0.00916. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6428.685286442221
 ---------------------------------------------------------------------------
+[2022-06-03 05:28:03] BUY
+Random---Twenty-four hours or ten percent decreasing has bought PAXG for $1872.0
+Random---Twenty-four hours or ten percent decreasing now has $6428.685286442221
+---------------------------------------------------------------------------
