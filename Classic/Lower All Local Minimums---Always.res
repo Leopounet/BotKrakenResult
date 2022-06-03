@@ -2038,3 +2038,7 @@ Lower All Local Minimums---Always now has $3076.890010719991
 Lower All Local Minimums---Always has sold DAI for $0.99977. Profit was -0.3689832509555121%.
 Lower All Local Minimums---Always now has $3065.536801930111
 ---------------------------------------------------------------------------
+[2022-06-03 22:32:02] BUY
+Lower All Local Minimums---Always has bought KILT for $0.718
+Lower All Local Minimums---Always now has $3065.536801930111
+---------------------------------------------------------------------------

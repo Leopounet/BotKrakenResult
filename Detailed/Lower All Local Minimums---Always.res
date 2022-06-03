@@ -21928,3 +21928,46 @@ Is init: True
 Profit was -0.3689832509555121%.
 Lower All Local Minimums---Always now has $3065.536801930111
 ---------------------------------------------------------------------------
+[2022-06-03 22:32:02] BUY
+Lower All Local Minimums---Always has bought: 
+Name: KILTUSD
+Altname: KILTUSD
+Wsname: KILT/USD
+Base:
+ 	Name: KILT
+	Altname: KILT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (KILTUSD):
+	Current:                    0.718
+	Maximum:                    1.428571
+	Minimum:                    1.187648
+	Variance:                   0.168646
+	Mean:                       1.290205
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.482759
+	Is ascending:               True
+	Current ascension duration: 11
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.625
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.775828
+	Number of local maximums:   29
+	Average local minimum:      0.778375
+	Number of local minimums:   24
+Is init: True
+
+Lower All Local Minimums---Always now has $3065.536801930111
+---------------------------------------------------------------------------

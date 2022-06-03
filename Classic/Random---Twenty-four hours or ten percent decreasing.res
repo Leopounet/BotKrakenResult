@@ -2038,3 +2038,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2657.595897328162
 Random---Twenty-four hours or ten percent decreasing has sold AAVE for $108.3. Profit was -0.5107655369840276%.
 Random---Twenty-four hours or ten percent decreasing now has $2644.0218133723083
 ---------------------------------------------------------------------------
+[2022-06-03 22:32:02] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XXLM for $0.146845
+Random---Twenty-four hours or ten percent decreasing now has $2644.0218133723083
+---------------------------------------------------------------------------

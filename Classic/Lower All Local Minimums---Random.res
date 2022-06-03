@@ -1358,3 +1358,7 @@ Lower All Local Minimums---Random now has $4406.868419599601
 Lower All Local Minimums---Random has sold DAI for $0.99977. Profit was -0.3689832509555121%.
 Lower All Local Minimums---Random now has $4390.607813239631
 ---------------------------------------------------------------------------
+[2022-06-03 22:32:02] BUY
+Lower All Local Minimums---Random has bought KILT for $0.718
+Lower All Local Minimums---Random now has $4390.607813239631
+---------------------------------------------------------------------------

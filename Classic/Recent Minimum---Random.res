@@ -1358,3 +1358,7 @@ Recent Minimum---Random now has $4026.3202484364347
 Recent Minimum---Random has sold 1INCH for $0.873. Profit was -0.52%.
 Recent Minimum---Random now has $4005.3833831445654
 ---------------------------------------------------------------------------
+[2022-06-03 22:32:02] BUY
+Recent Minimum---Random has bought AVAX for $23.22
+Recent Minimum---Random now has $4005.3833831445654
+---------------------------------------------------------------------------

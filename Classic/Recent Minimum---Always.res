@@ -2038,3 +2038,7 @@ Recent Minimum---Always now has $2757.5411460555847
 Recent Minimum---Always has sold 1INCH for $0.873. Profit was -0.52%.
 Recent Minimum---Always now has $2743.201932096096
 ---------------------------------------------------------------------------
+[2022-06-03 22:32:02] BUY
+Recent Minimum---Always has bought AVAX for $23.22
+Recent Minimum---Always now has $2743.201932096096
+---------------------------------------------------------------------------

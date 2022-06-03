@@ -2038,3 +2038,7 @@ Random---Twenty-four hours or ten percent now has $2816.7139926969753
 Random---Twenty-four hours or ten percent has sold RARE for $0.2496. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2802.067079934951
 ---------------------------------------------------------------------------
+[2022-06-03 22:32:02] BUY
+Random---Twenty-four hours or ten percent has bought FIL for $7.456
+Random---Twenty-four hours or ten percent now has $2802.067079934951
+---------------------------------------------------------------------------
