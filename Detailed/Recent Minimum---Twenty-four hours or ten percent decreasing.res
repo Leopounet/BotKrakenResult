@@ -13113,3 +13113,46 @@ Is init: True
 
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $4615.60347804479
 ---------------------------------------------------------------------------
+[2022-06-03 12:03:43] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold: 
+Name: AIRUSD
+Altname: AIRUSD
+Wsname: AIR/USD
+Base:
+ 	Name: AIR
+	Altname: AIR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (AIRUSD):
+	Current:                    0.0303
+	Maximum:                    39.077765
+	Minimum:                    29.446408
+	Variance:                   0.246466
+	Mean:                       34.935666
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.192308
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.105263
+	Is falling:                 True
+	Current fall duration:      29
+	Trending downwards:         False
+	Average local maximum:      0.029202
+	Number of local maximums:   26
+	Average local minimum:      0.029262
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $4591.602339958957
+---------------------------------------------------------------------------
