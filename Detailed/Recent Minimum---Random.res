@@ -12296,3 +12296,46 @@ Is init: True
 Profit was -0.3792820730671127%.
 Recent Minimum---Random now has $4557.557803036622
 ---------------------------------------------------------------------------
+[2022-06-03 18:51:12] BUY
+Recent Minimum---Random has bought: 
+Name: ALGOUSD
+Altname: ALGOUSD
+Wsname: ALGO/USD
+Base:
+ 	Name: ALGO
+	Altname: ALGO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (ALGOUSD):
+	Current:                    0.37717
+	Maximum:                    2.690269
+	Minimum:                    2.357656
+	Variance:                   0.123636
+	Mean:                       2.571795
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.9
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.307692
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      0.387544
+	Number of local maximums:   20
+	Average local minimum:      0.388675
+	Number of local minimums:   26
+Is init: True
+
+Recent Minimum---Random now has $4557.557803036622
+---------------------------------------------------------------------------
