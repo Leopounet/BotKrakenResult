@@ -1,4 +1,4 @@
-[2022-06-03 11:03:11] SUMMARY
+[2022-06-03 11:06:09] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TOKEUSD
-	Altname: TOKEUSD
-	Wsname: TOKE/USD
-	Base:
-	 	Name: TOKE
-		Altname: TOKE
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.3
-	Data about this pair of assets (TOKEUSD):
-		Current:                    3.29
-		Maximum:                    0.303951
-		Minimum:                    0.245098
-		Variance:                   0.193627
-		Mean:                       0.27904
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.5
-		Is ascending:               True
-		Current ascension duration: 65
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               6.0
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      3.546
-		Number of local maximums:   10
-		Average local minimum:      3.564
-		Number of local minimums:   5
-	Is init: True
+	None
 Wins: 0
-Losses: 143
-Total points: -79.10100887080088%
-Wallet: 4523.139272428922
+Losses: 144
+Total points: -79.62100887080088%
+Wallet: 4499.618948212291
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MOVRUSD
-	Altname: MOVRUSD
-	Wsname: MOVR/USD
-	Base:
-	 	Name: MOVR
-		Altname: MOVR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (MOVRUSD):
-		Current:                    20.6994
-		Maximum:                    0.048685
-		Minimum:                    0.042885
-		Variance:                   0.119127
-		Mean:                       0.045921
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.052632
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.384615
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      21.843374
-		Number of local maximums:   38
-		Average local minimum:      21.741042
-		Number of local minimums:   26
-	Is init: True
+	None
 Wins: 5
-Losses: 138
-Total points: -72.40664672127741%
-Wallet: 4833.541219348602
+Losses: 139
+Total points: -72.78944467677371%
+Wallet: 4815.038522382864
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

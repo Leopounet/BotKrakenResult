@@ -8383,3 +8383,46 @@ Is init: True
 
 Random---Random now has $5801.287268611147
 ---------------------------------------------------------------------------
+[2022-06-03 11:06:09] SOLD
+Random---Random has sold: 
+Name: RLCUSD
+Altname: RLCUSD
+Wsname: RLC/USD
+Base:
+ 	Name: RLC
+	Altname: RLC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (RLCUSD):
+	Current:                    0.8982
+	Maximum:                    1.150616
+	Minimum:                    0.95429
+	Variance:                   0.170627
+	Mean:                       1.084459
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.052632
+	Is ascending:               True
+	Current ascension duration: 156
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.384615
+	Is falling:                 True
+	Current fall duration:      22
+	Trending downwards:         True
+	Average local maximum:      0.932168
+	Number of local maximums:   19
+	Average local minimum:      0.942323
+	Number of local minimums:   13
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5771.120574814369
+---------------------------------------------------------------------------
