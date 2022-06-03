@@ -1,4 +1,4 @@
-[2022-06-03 22:01:37] SUMMARY
+[2022-06-03 22:04:33] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.873
-		Maximum:                    1.166861
-		Minimum:                    1.009082
-		Variance:                   0.135217
-		Mean:                       1.091109
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.941176
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.636364
-		Is falling:                 True
-		Current fall duration:      24
-		Trending downwards:         True
-		Average local maximum:      0.916059
-		Number of local maximums:   34
-		Average local minimum:      0.921364
-		Number of local minimums:   22
-	Is init: True
+	None
 Wins: 1
-Losses: 249
-Total points: -131.55409509306483%
-Wallet: 2673.216541918189
+Losses: 250
+Total points: -132.07409509306484%
+Wallet: 2659.315815900214
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ALCXUSD
-	Altname: ALCXUSD
-	Wsname: ALCX/USD
-	Base:
-	 	Name: ALCX
-		Altname: ALCX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.05
-	Data about this pair of assets (ALCXUSD):
-		Current:                    29.55
-		Maximum:                    0.035676
-		Minimum:                    0.030989
-		Variance:                   0.131391
-		Mean:                       0.033916
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.571429
-		Is ascending:               True
-		Current ascension duration: 7
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.5
-		Is falling:                 True
-		Current fall duration:      10
-		Trending downwards:         True
-		Average local maximum:      29.717857
-		Number of local maximums:   14
-		Average local minimum:      29.82
-		Number of local minimums:   12
-	Is init: True
+	None
 Wins: 9
-Losses: 241
-Total points: -124.01109900389214%
-Wallet: 2880.563378567993
+Losses: 242
+Total points: -124.53109900389214%
+Wallet: 2865.5844489994392
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
