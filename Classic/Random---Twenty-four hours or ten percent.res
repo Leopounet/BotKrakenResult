@@ -518,3 +518,7 @@ Random---Twenty-four hours or ten percent now has $7529.5425386116285
 Random---Twenty-four hours or ten percent has sold POWR for $0.2966. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $7490.388917410848
 ---------------------------------------------------------------------------
+[2022-06-03 03:06:28] BUY
+Random---Twenty-four hours or ten percent has bought SNX for $2.904
+Random---Twenty-four hours or ten percent now has $7490.388917410848
+---------------------------------------------------------------------------

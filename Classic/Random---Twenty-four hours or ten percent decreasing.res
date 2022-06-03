@@ -518,3 +518,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7300.7277221243185
 Random---Twenty-four hours or ten percent decreasing has sold UMA for $3.191. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7262.763937969272
 ---------------------------------------------------------------------------
+[2022-06-03 03:06:28] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BCH for $189.5
+Random---Twenty-four hours or ten percent decreasing now has $7262.763937969272
+---------------------------------------------------------------------------
