@@ -8469,3 +8469,46 @@ Is init: True
 
 Recent Minimum---Twenty-four hours or ten percent now has $6000.295036300732
 ---------------------------------------------------------------------------
+[2022-06-03 06:24:03] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold: 
+Name: AKTUSD
+Altname: AKTUSD
+Wsname: AKT/USD
+Base:
+ 	Name: AKT
+	Altname: AKT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (AKTUSD):
+	Current:                    0.4058
+	Maximum:                    2.520161
+	Minimum:                    2.291476
+	Variance:                   0.090742
+	Mean:                       2.427338
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.608696
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.45
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         True
+	Average local maximum:      0.413961
+	Number of local maximums:   23
+	Average local minimum:      0.409535
+	Number of local minimums:   20
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent now has $5969.0935021119685
+---------------------------------------------------------------------------
