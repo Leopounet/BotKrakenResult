@@ -1,4 +1,4 @@
-[2022-06-03 10:12:30] SUMMARY
+[2022-06-03 10:15:30] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GLMRUSD
-	Altname: GLMRUSD
-	Wsname: GLMR/USD
-	Base:
-	 	Name: GLMR
-		Altname: GLMR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (GLMRUSD):
-		Current:                    1.302
-		Maximum:                    0.817661
-		Minimum:                    0.723066
-		Variance:                   0.115691
-		Mean:                       0.769564
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.0625
-		Is ascending:               True
-		Current ascension duration: 13
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.363636
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.298063
-		Number of local maximums:   32
-		Average local minimum:      1.286818
-		Number of local minimums:   22
-	Is init: True
+	None
 Wins: 0
-Losses: 135
-Total points: -73.58562421329738%
-Wallet: 4780.75232232451
+Losses: 136
+Total points: -74.10562421329738%
+Wallet: 4755.8924102484225
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AVAXUSD
-	Altname: AVAXUSD
-	Wsname: AVAX/USD
-	Base:
-	 	Name: AVAX
-		Altname: AVAX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.1
-	Data about this pair of assets (AVAXUSD):
-		Current:                    23.19
-		Maximum:                    0.044053
-		Minimum:                    0.037133
-		Variance:                   0.157074
-		Mean:                       0.040842
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.115385
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.888889
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      24.642308
-		Number of local maximums:   26
-		Average local minimum:      24.467778
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 5
-Losses: 130
-Total points: -67.3638591291955%
-Wallet: 5084.668111284221
+Losses: 131
+Total points: -67.49576081095488%
+Wallet: 5077.961348533554
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

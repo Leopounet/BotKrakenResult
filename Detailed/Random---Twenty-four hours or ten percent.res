@@ -11651,3 +11651,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $5084.668111284221
 ---------------------------------------------------------------------------
+[2022-06-03 10:15:30] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: AVAXUSD
+Altname: AVAXUSD
+Wsname: AVAX/USD
+Base:
+ 	Name: AVAX
+	Altname: AVAX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (AVAXUSD):
+	Current:                    23.19
+	Maximum:                    0.044053
+	Minimum:                    0.037133
+	Variance:                   0.157074
+	Mean:                       0.040842
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.115385
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.888889
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      24.642308
+	Number of local maximums:   26
+	Average local minimum:      24.467778
+	Number of local minimums:   27
+Is init: True
+Profit was -0.1319016817593739%.
+Random---Twenty-four hours or ten percent now has $5077.961348533554
+---------------------------------------------------------------------------
