@@ -1,4 +1,4 @@
-[2022-06-03 00:56:34] SUMMARY
+[2022-06-03 00:59:31] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XZECZUSD
-	Altname: ZECUSD
-	Wsname: ZEC/USD
-	Base:
-	 	Name: XZEC
-		Altname: ZEC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.035
-	Data about this pair of assets (XZECZUSD):
-		Current:                    90.62
-		Maximum:                    0.011386
-		Minimum:                    0.010401
-		Variance:                   0.086436
-		Mean:                       0.010934
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 16
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      91.176957
-		Number of local maximums:   23
-		Average local minimum:      91.186087
-		Number of local minimums:   23
-	Is init: True
+	None
 Wins: 0
-Losses: 43
-Total points: -23.72697676807208%
-Wallet: 7882.262040698707
+Losses: 44
+Total points: -24.2138714932983%
+Wallet: 7843.883722594037
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: CVCUSD
+	Altname: CVCUSD
+	Wsname: CVC/USD
+	Base:
+	 	Name: CVC
+		Altname: CVC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 25
+	Data about this pair of assets (CVCUSD):
+		Current:                    0.1819
+		Maximum:                    5.980861
+		Minimum:                    5.235602
+		Variance:                   0.124607
+		Mean:                       5.699082
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.25
+		Is ascending:               True
+		Current ascension duration: 12
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.0
+		Is falling:                 True
+		Current fall duration:      44
+		Trending downwards:         False
+		Average local maximum:      0.174845
+		Number of local maximums:   20
+		Average local minimum:      0.17632
+		Number of local minimums:   15
+	Is init: True
 Wins: 2
 Losses: 31
 Total points: -15.769841852807554%
