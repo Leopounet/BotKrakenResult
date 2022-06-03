@@ -1102,3 +1102,7 @@ Variance Lower All Local Minimums---Twenty-four hours or ten percent now has $48
 Variance Lower All Local Minimums---Twenty-four hours or ten percent has sold 1INCH for $0.891. Profit was -0.52%.
 Variance Lower All Local Minimums---Twenty-four hours or ten percent now has $4826.251720637404
 ---------------------------------------------------------------------------
+[2022-06-03 10:30:43] BUY
+Variance Lower All Local Minimums---Twenty-four hours or ten percent has bought 1INCH for $0.891
+Variance Lower All Local Minimums---Twenty-four hours or ten percent now has $4826.251720637404
+---------------------------------------------------------------------------

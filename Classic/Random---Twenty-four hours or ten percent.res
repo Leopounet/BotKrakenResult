@@ -1102,3 +1102,7 @@ Random---Twenty-four hours or ten percent now has $5051.555949521179
 Random---Twenty-four hours or ten percent has sold AXS for $20.077. Profit was -1.5892815610525264%.
 Random---Twenty-four hours or ten percent now has $4971.2725022691875
 ---------------------------------------------------------------------------
+[2022-06-03 10:30:43] BUY
+Random---Twenty-four hours or ten percent has bought LINK for $6.83517
+Random---Twenty-four hours or ten percent now has $4971.2725022691875
+---------------------------------------------------------------------------

@@ -1102,3 +1102,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $4832.31440
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold BADGER for $5.826. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $4807.186370360466
 ---------------------------------------------------------------------------
+[2022-06-03 10:30:43] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought BADGER for $5.8
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $4807.186370360466
+---------------------------------------------------------------------------

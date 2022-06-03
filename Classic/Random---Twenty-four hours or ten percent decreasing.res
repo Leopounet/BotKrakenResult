@@ -1102,3 +1102,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4920.424739191641
 Random---Twenty-four hours or ten percent decreasing has sold PERP for $1.224. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4894.838530547844
 ---------------------------------------------------------------------------
+[2022-06-03 10:30:43] BUY
+Random---Twenty-four hours or ten percent decreasing has bought NYM for $0.3741
+Random---Twenty-four hours or ten percent decreasing now has $4894.838530547844
+---------------------------------------------------------------------------
