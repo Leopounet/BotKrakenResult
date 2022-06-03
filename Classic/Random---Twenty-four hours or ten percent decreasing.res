@@ -1534,3 +1534,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3625.455892202313
 Random---Twenty-four hours or ten percent decreasing has sold LPT for $11.79. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3606.603521562861
 ---------------------------------------------------------------------------
+[2022-06-03 16:16:25] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WBTC for $29496.0
+Random---Twenty-four hours or ten percent decreasing now has $3606.603521562861
+---------------------------------------------------------------------------
