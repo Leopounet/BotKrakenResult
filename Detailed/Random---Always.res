@@ -4857,3 +4857,46 @@ Is init: True
 
 Random---Always now has $7380.758303505642
 ---------------------------------------------------------------------------
+[2022-06-03 02:16:10] SOLD
+Random---Always has sold: 
+Name: MASKUSD
+Altname: MASKUSD
+Wsname: MASK/USD
+Base:
+ 	Name: MASK
+	Altname: MASK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (MASKUSD):
+	Current:                    1.807
+	Maximum:                    0.587199
+	Minimum:                    0.447828
+	Variance:                   0.237349
+	Mean:                       0.532347
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.777778
+	Is ascending:               True
+	Current ascension duration: 23
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.0625
+	Is falling:                 True
+	Current fall duration:      55
+	Trending downwards:         True
+	Average local maximum:      1.878519
+	Number of local maximums:   27
+	Average local minimum:      1.846187
+	Number of local minimums:   16
+Is init: True
+Profit was -0.52%.
+Random---Always now has $7342.378360327413
+---------------------------------------------------------------------------
