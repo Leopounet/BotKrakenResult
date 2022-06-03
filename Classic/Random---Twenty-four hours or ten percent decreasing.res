@@ -634,3 +634,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6772.739935871472
 Random---Twenty-four hours or ten percent decreasing has bought NANO for $1.16383
 Random---Twenty-four hours or ten percent decreasing now has $6772.739935871472
 ---------------------------------------------------------------------------
+[2022-06-03 04:31:59] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold NANO for $1.16383. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6737.52168820494
+---------------------------------------------------------------------------
