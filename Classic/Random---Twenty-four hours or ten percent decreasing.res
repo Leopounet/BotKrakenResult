@@ -558,3 +558,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7121.601334118133
 Random---Twenty-four hours or ten percent decreasing has sold SUSHI for $1.667. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7084.569007180719
 ---------------------------------------------------------------------------
+[2022-06-03 03:35:52] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BCH for $190.17
+Random---Twenty-four hours or ten percent decreasing now has $7084.569007180719
+---------------------------------------------------------------------------

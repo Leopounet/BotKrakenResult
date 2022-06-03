@@ -1,4 +1,4 @@
-[2022-06-03 03:32:57] SUMMARY
+[2022-06-03 03:35:52] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: AUDUSD
+	Altname: AUDUSD
+	Wsname: AUD/USD
+	Base:
+	 	Name: ZAUD
+		Altname: AUD
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 10
+	Data about this pair of assets (AUDUSD):
+		Current:                    0.7259
+		Maximum:                    1.396609
+		Minimum:                    1.37493
+		Variance:                   0.015523
+		Mean:                       1.389384
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.84
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.34375
+		Is falling:                 True
+		Current fall duration:      5
+		Trending downwards:         False
+		Average local maximum:      0.719956
+		Number of local maximums:   25
+		Average local minimum:      0.720473
+		Number of local minimums:   32
+	Is init: True
 Wins: 0
 Losses: 70
 Total points: -37.71413777787494%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: AVAXUSD
+	Altname: AVAXUSD
+	Wsname: AVAX/USD
+	Base:
+	 	Name: AVAX
+		Altname: AVAX
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.1
+	Data about this pair of assets (AVAXUSD):
+		Current:                    24.15
+		Maximum:                    0.044053
+		Minimum:                    0.036576
+		Variance:                   0.169715
+		Mean:                       0.040399
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.24
+		Is ascending:               True
+		Current ascension duration: 12
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.777778
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      24.7592
+		Number of local maximums:   25
+		Average local minimum:      24.467778
+		Number of local minimums:   27
+	Is init: True
 Wins: 4
 Losses: 66
 Total points: -31.49140057326163%
