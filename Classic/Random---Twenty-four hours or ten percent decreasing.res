@@ -574,3 +574,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7047.729248343379
 Random---Twenty-four hours or ten percent decreasing has sold USDC for $1.0. Profit was -0.3899989998999983%.
 Random---Twenty-four hours or ten percent decreasing now has $7020.243174759181
 ---------------------------------------------------------------------------
+[2022-06-03 03:47:43] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FXS for $6.77
+Random---Twenty-four hours or ten percent decreasing now has $7020.243174759181
+---------------------------------------------------------------------------
