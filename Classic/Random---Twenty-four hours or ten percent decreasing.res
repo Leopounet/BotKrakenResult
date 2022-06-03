@@ -602,3 +602,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6915.463496216798
 Random---Twenty-four hours or ten percent decreasing has bought XXMR for $198.67
 Random---Twenty-four hours or ten percent decreasing now has $6915.463496216798
 ---------------------------------------------------------------------------
+[2022-06-03 04:08:24] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XXMR for $198.67. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6879.503086036471
+---------------------------------------------------------------------------

@@ -6491,3 +6491,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent now has $7296.164290835161
 ---------------------------------------------------------------------------
+[2022-06-03 04:08:24] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold: 
+Name: USDCHF
+Altname: USDCHF
+Wsname: USD/CHF
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: CHF
+	Altname: CHF
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDCHF):
+	Current:                    0.95795
+	Maximum:                    1.04503
+	Minimum:                    1.035357
+	Variance:                   0.009256
+	Mean:                       1.040953
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.84
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.34375
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         False
+	Average local maximum:      0.960844
+	Number of local maximums:   25
+	Average local minimum:      0.960387
+	Number of local minimums:   32
+Is init: True
+Profit was -0.39895610418079175%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $7267.055798025815
+---------------------------------------------------------------------------
