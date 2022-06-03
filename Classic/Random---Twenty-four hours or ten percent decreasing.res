@@ -594,3 +594,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6947.422473117131
 Random---Twenty-four hours or ten percent decreasing has bought SUSHI for $1.667
 Random---Twenty-four hours or ten percent decreasing now has $6947.422473117131
 ---------------------------------------------------------------------------
+[2022-06-03 04:02:30] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SUSHI for $1.668. Profit was -0.4600119976004975%.
+Random---Twenty-four hours or ten percent decreasing now has $6915.463496216798
+---------------------------------------------------------------------------
