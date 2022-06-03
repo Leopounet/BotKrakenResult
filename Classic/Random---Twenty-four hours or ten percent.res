@@ -878,3 +878,7 @@ Random---Twenty-four hours or ten percent now has $5813.168921400661
 Random---Twenty-four hours or ten percent has sold MKR for $1161.3. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5782.940443009377
 ---------------------------------------------------------------------------
+[2022-06-03 07:33:05] BUY
+Random---Twenty-four hours or ten percent has bought ZEUR for $1.07478
+Random---Twenty-four hours or ten percent now has $5782.940443009377
+---------------------------------------------------------------------------

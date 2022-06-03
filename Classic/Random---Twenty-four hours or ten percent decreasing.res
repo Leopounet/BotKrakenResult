@@ -878,3 +878,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5772.696923817312
 Random---Twenty-four hours or ten percent decreasing has sold RAD for $2.074. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5742.6788998134625
 ---------------------------------------------------------------------------
+[2022-06-03 07:33:05] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KNC for $1.966
+Random---Twenty-four hours or ten percent decreasing now has $5742.6788998134625
+---------------------------------------------------------------------------

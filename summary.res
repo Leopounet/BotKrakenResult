@@ -1,4 +1,4 @@
-[2022-06-03 07:29:44] SUMMARY
+[2022-06-03 07:33:06] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: MATICUSD
+	Altname: MATICUSD
+	Wsname: MATIC/USD
+	Base:
+	 	Name: MATIC
+		Altname: MATIC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2.5
+	Data about this pair of assets (MATICUSD):
+		Current:                    0.6028
+		Maximum:                    1.692047
+		Minimum:                    1.498576
+		Variance:                   0.114341
+		Mean:                       1.610947
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.9
+		Is ascending:               True
+		Current ascension duration: 9
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.736842
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.617547
+		Number of local maximums:   30
+		Average local minimum:      0.618637
+		Number of local minimums:   19
+	Is init: True
 Wins: 0
 Losses: 110
 Total points: -59.47974571317386%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ZEURZUSD
+	Altname: EURUSD
+	Wsname: EUR/USD
+	Base:
+	 	Name: ZEUR
+		Altname: EUR
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (ZEURZUSD):
+		Current:                    1.07478
+		Maximum:                    0.940805
+		Minimum:                    0.929325
+		Variance:                   0.012202
+		Mean:                       0.934245
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.823529
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.1875
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         False
+		Average local maximum:      1.071385
+		Number of local maximums:   17
+		Average local minimum:      1.069586
+		Number of local minimums:   16
+	Is init: True
 Wins: 5
 Losses: 105
 Total points: -54.52906341971265%

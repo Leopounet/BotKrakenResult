@@ -878,3 +878,7 @@ Lower All Local Minimums---Always now has $6120.355555898517
 Lower All Local Minimums---Always has sold DASH for $58.431. Profit was -0.439498492737735%.
 Lower All Local Minimums---Always now has $6093.456685480153
 ---------------------------------------------------------------------------
+[2022-06-03 07:33:05] BUY
+Lower All Local Minimums---Always has bought ZUSD for $0.95704
+Lower All Local Minimums---Always now has $6093.456685480153
+---------------------------------------------------------------------------
