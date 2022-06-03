@@ -862,3 +862,7 @@ Random---Twenty-four hours or ten percent now has $5874.100733343605
 Random---Twenty-four hours or ten percent has sold ALICE for $2.85. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5843.555409530218
 ---------------------------------------------------------------------------
+[2022-06-03 07:20:23] BUY
+Random---Twenty-four hours or ten percent has bought CVX for $9.0
+Random---Twenty-four hours or ten percent now has $5843.555409530218
+---------------------------------------------------------------------------

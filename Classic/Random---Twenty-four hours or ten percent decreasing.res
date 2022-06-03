@@ -862,3 +862,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5806.950671974558
 Random---Twenty-four hours or ten percent decreasing has sold XTZ for $1.9654. Profit was -0.07024021261371649%.
 Random---Twenty-four hours or ten percent decreasing now has $5802.871857476189
 ---------------------------------------------------------------------------
+[2022-06-03 07:20:23] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FET for $0.1622
+Random---Twenty-four hours or ten percent decreasing now has $5802.871857476189
+---------------------------------------------------------------------------

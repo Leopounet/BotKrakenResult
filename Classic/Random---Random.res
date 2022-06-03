@@ -594,3 +594,7 @@ Random---Random now has $6926.196034415921
 Random---Random has bought XMLN for $27.348
 Random---Random now has $6926.196034415921
 ---------------------------------------------------------------------------
+[2022-06-03 07:20:23] SOLD
+Random---Random has sold XMLN for $27.348. Profit was -0.52%.
+Random---Random now has $6890.179815036958
+---------------------------------------------------------------------------
