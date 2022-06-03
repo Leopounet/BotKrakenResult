@@ -11436,3 +11436,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Random now has $5213.767360562967
 ---------------------------------------------------------------------------
+[2022-06-03 16:37:18] BUY
+Lower All Local Minimums---Random has bought: 
+Name: BATUSD
+Altname: BATUSD
+Wsname: BAT/USD
+Base:
+ 	Name: BAT
+	Altname: BAT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (BATUSD):
+	Current:                    0.37181
+	Maximum:                    2.69382
+	Minimum:                    2.373211
+	Variance:                   0.119017
+	Mean:                       2.55323
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.6
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.5
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         True
+	Average local maximum:      0.390403
+	Number of local maximums:   30
+	Average local minimum:      0.3897
+	Number of local minimums:   36
+Is init: True
+
+Lower All Local Minimums---Random now has $5213.767360562967
+---------------------------------------------------------------------------

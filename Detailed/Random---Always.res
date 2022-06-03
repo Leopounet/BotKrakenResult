@@ -16811,3 +16811,46 @@ Is init: True
 
 Random---Always now has $3309.856191350893
 ---------------------------------------------------------------------------
+[2022-06-03 16:37:18] SOLD
+Random---Always has sold: 
+Name: USDCUSD
+Altname: USDCUSD
+Wsname: USDC/USD
+Base:
+ 	Name: USDC
+	Altname: USDC
+	decimals: 8
+	displayed_decimals: 4
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDCUSD):
+	Current:                    0.9999
+	Maximum:                    1.0001
+	Minimum:                    0.9998
+	Variance:                   0.0003
+	Mean:                       1.000041
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.983871
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.536585
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.999992
+	Number of local maximums:   62
+	Average local minimum:      0.999961
+	Number of local minimums:   41
+Is init: True
+Profit was -0.4%.
+Random---Always now has $3296.616766585489
+---------------------------------------------------------------------------

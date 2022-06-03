@@ -1562,3 +1562,7 @@ Random---Twenty-four hours or ten percent now has $3771.194846268457
 Random---Twenty-four hours or ten percent has bought BNC for $0.349
 Random---Twenty-four hours or ten percent now has $3771.194846268457
 ---------------------------------------------------------------------------
+[2022-06-03 16:37:18] SOLD
+Random---Twenty-four hours or ten percent has sold BNC for $0.346. Profit was -1.3795988538681931%.
+Random---Twenty-four hours or ten percent now has $3719.167485392201
+---------------------------------------------------------------------------

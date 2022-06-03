@@ -1,4 +1,4 @@
-[2022-06-03 16:34:20] SUMMARY
+[2022-06-03 16:37:18] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: USDCUSD
-	Altname: USDCUSD
-	Wsname: USDC/USD
-	Base:
-	 	Name: USDC
-		Altname: USDC
-		decimals: 8
-		displayed_decimals: 4
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 5
-	Data about this pair of assets (USDCUSD):
-		Current:                    0.9999
-		Maximum:                    1.0001
-		Minimum:                    0.9998
-		Variance:                   0.0003
-		Mean:                       1.000041
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.983871
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.536585
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.999992
-		Number of local maximums:   62
-		Average local minimum:      0.999961
-		Number of local minimums:   41
-	Is init: True
+	None
 Wins: 1
-Losses: 194
-Total points: -110.13225143604083%
-Wallet: 3309.856191350893
+Losses: 195
+Total points: -110.53225143604084%
+Wallet: 3296.616766585489
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Random

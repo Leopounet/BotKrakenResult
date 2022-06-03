@@ -1562,3 +1562,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3550.6325671868417
 Random---Twenty-four hours or ten percent decreasing has bought BAT for $0.37181
 Random---Twenty-four hours or ten percent decreasing now has $3550.6325671868417
 ---------------------------------------------------------------------------
+[2022-06-03 16:37:18] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold BAT for $0.37181. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3532.16927783747
+---------------------------------------------------------------------------
