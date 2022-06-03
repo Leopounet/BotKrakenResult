@@ -758,3 +758,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6252.573627913751
 Random---Twenty-four hours or ten percent decreasing has sold KSM for $72.26. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6220.060245048599
 ---------------------------------------------------------------------------
+[2022-06-03 06:03:25] BUY
+Random---Twenty-four hours or ten percent decreasing has bought PLA for $0.5501
+Random---Twenty-four hours or ten percent decreasing now has $6220.060245048599
+---------------------------------------------------------------------------

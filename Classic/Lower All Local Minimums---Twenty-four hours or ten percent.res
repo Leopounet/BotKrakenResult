@@ -758,3 +758,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $6657.952031
 Lower All Local Minimums---Twenty-four hours or ten percent has sold 1INCH for $0.908. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $6623.330680513135
 ---------------------------------------------------------------------------
+[2022-06-03 06:03:25] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought KAVA for $2.59
+Lower All Local Minimums---Twenty-four hours or ten percent now has $6623.330680513135
+---------------------------------------------------------------------------

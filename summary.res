@@ -1,4 +1,4 @@
-[2022-06-03 06:00:28] SUMMARY
+[2022-06-03 06:03:25] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: REPV2USD
+	Altname: REPV2USD
+	Wsname: REPV2/USD
+	Base:
+	 	Name: REPV2
+		Altname: REPV2
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.15
+	Data about this pair of assets (REPV2USD):
+		Current:                    9.929
+		Maximum:                    0.105719
+		Minimum:                    0.092259
+		Variance:                   0.127318
+		Mean:                       0.10077
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.142857
+		Is ascending:               True
+		Current ascension duration: 17
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.2
+		Is falling:                 True
+		Current fall duration:      14
+		Trending downwards:         True
+		Average local maximum:      9.944429
+		Number of local maximums:   21
+		Average local minimum:      9.991
+		Number of local minimums:   15
+	Is init: True
 Wins: 0
 Losses: 95
 Total points: -51.25112099272387%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: WOOUSD
+	Altname: WOOUSD
+	Wsname: WOO/USD
+	Base:
+	 	Name: WOO
+		Altname: WOO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (WOOUSD):
+		Current:                    0.1575
+		Maximum:                    6.7659
+		Minimum:                    2.534212
+		Variance:                   0.625443
+		Mean:                       5.963344
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.363636
+		Is ascending:               True
+		Current ascension duration: 46
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               6.6
+		Is falling:                 True
+		Current fall duration:      9
+		Trending downwards:         True
+		Average local maximum:      0.169277
+		Number of local maximums:   22
+		Average local minimum:      0.16969
+		Number of local minimums:   10
+	Is init: True
 Wins: 5
 Losses: 90
 Total points: -43.51592714118921%

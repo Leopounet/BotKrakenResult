@@ -758,3 +758,7 @@ Random---Twenty-four hours or ten percent now has $6490.293548781871
 Random---Twenty-four hours or ten percent has sold SCRT for $1.548. Profit was -0.4553587588881709%.
 Random---Twenty-four hours or ten percent now has $6460.7394286299395
 ---------------------------------------------------------------------------
+[2022-06-03 06:03:25] BUY
+Random---Twenty-four hours or ten percent has bought WOO for $0.1575
+Random---Twenty-four hours or ten percent now has $6460.7394286299395
+---------------------------------------------------------------------------

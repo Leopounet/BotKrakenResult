@@ -5545,3 +5545,46 @@ Is init: True
 
 Random---Random now has $7303.025202769007
 ---------------------------------------------------------------------------
+[2022-06-03 06:03:25] SOLD
+Random---Random has sold: 
+Name: AGLDUSD
+Altname: AGLDUSD
+Wsname: AGLD/USD
+Base:
+ 	Name: AGLD
+	Altname: AGLD
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (AGLDUSD):
+	Current:                    0.5162
+	Maximum:                    1.952744
+	Minimum:                    1.720282
+	Variance:                   0.119044
+	Mean:                       1.887386
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 69
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      400
+	Trending downwards:         True
+	Average local maximum:      0.547317
+	Number of local maximums:   6
+	Average local minimum:      0.545475
+	Number of local minimums:   4
+Is init: True
+Profit was -0.52%.
+Random---Random now has $7265.0494717146075
+---------------------------------------------------------------------------
