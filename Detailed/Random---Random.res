@@ -7695,3 +7695,46 @@ Is init: True
 
 Random---Random now has $6415.909209106422
 ---------------------------------------------------------------------------
+[2022-06-03 09:46:30] SOLD
+Random---Random has sold: 
+Name: KSMUSD
+Altname: KSMUSD
+Wsname: KSM/USD
+Base:
+ 	Name: KSM
+	Altname: KSM
+	decimals: 10
+	displayed_decimals: 8
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (KSMUSD):
+	Current:                    69.82
+	Maximum:                    0.014323
+	Minimum:                    0.011554
+	Variance:                   0.193299
+	Mean:                       0.013303
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.73913
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.285714
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      75.791739
+	Number of local maximums:   23
+	Average local minimum:      75.972381
+	Number of local minimums:   21
+Is init: True
+Profit was -0.9496763105127388%.
+Random---Random now has $6354.978839243533
+---------------------------------------------------------------------------

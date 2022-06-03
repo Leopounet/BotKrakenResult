@@ -1046,3 +1046,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5113.418371307706
 Random---Twenty-four hours or ten percent decreasing has sold KILT for $0.791. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5086.828595776907
 ---------------------------------------------------------------------------
+[2022-06-03 09:46:30] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RARI for $2.96
+Random---Twenty-four hours or ten percent decreasing now has $5086.828595776907
+---------------------------------------------------------------------------
