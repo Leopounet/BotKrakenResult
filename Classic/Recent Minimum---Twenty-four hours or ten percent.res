@@ -1158,3 +1158,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $4642.988509790653
 Recent Minimum---Twenty-four hours or ten percent has sold BADGER for $5.775. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $4618.844969539741
 ---------------------------------------------------------------------------
+[2022-06-03 11:16:03] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought AIR for $0.02924
+Recent Minimum---Twenty-four hours or ten percent now has $4618.844969539741
+---------------------------------------------------------------------------

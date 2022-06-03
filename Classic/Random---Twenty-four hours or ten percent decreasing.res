@@ -1158,3 +1158,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4747.55390586036
 Random---Twenty-four hours or ten percent decreasing has sold T for $0.0498. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4722.866625549886
 ---------------------------------------------------------------------------
+[2022-06-03 11:16:03] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KNC for $1.8705
+Random---Twenty-four hours or ten percent decreasing now has $4722.866625549886
+---------------------------------------------------------------------------

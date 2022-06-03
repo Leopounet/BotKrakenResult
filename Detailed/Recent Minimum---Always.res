@@ -12468,3 +12468,46 @@ Is init: True
 Profit was -0.52%.
 Recent Minimum---Always now has $4618.844969539741
 ---------------------------------------------------------------------------
+[2022-06-03 11:16:03] BUY
+Recent Minimum---Always has bought: 
+Name: AIRUSD
+Altname: AIRUSD
+Wsname: AIR/USD
+Base:
+ 	Name: AIR
+	Altname: AIR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (AIRUSD):
+	Current:                    0.02924
+	Maximum:                    39.077765
+	Minimum:                    29.446408
+	Variance:                   0.246466
+	Mean:                       35.006421
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.076923
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.333333
+	Is falling:                 True
+	Current fall duration:      20
+	Trending downwards:         False
+	Average local maximum:      0.029202
+	Number of local maximums:   26
+	Average local minimum:      0.029204
+	Number of local minimums:   18
+Is init: True
+
+Recent Minimum---Always now has $4618.844969539741
+---------------------------------------------------------------------------
