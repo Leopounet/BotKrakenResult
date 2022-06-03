@@ -874,3 +874,7 @@ Random---Random now has $5718.8085910183
 Random---Random has bought JASMY for $0.01146
 Random---Random now has $5718.8085910183
 ---------------------------------------------------------------------------
+[2022-06-03 13:23:22] SOLD
+Random---Random has sold JASMY for $0.01146. Profit was -0.52%.
+Random---Random now has $5689.070786345004
+---------------------------------------------------------------------------

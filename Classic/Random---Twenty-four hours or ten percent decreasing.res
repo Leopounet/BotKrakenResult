@@ -1318,3 +1318,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4202.356363929277
 Random---Twenty-four hours or ten percent decreasing has sold AGLD for $0.481. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4180.504110836845
 ---------------------------------------------------------------------------
+[2022-06-03 13:23:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought USDT for $0.9992
+Random---Twenty-four hours or ten percent decreasing now has $4180.504110836845
+---------------------------------------------------------------------------

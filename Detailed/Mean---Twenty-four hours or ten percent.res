@@ -14188,3 +14188,46 @@ Is init: True
 Profit was -0.42592662276576165%.
 Mean---Twenty-four hours or ten percent now has $4187.144644705766
 ---------------------------------------------------------------------------
+[2022-06-03 13:23:22] BUY
+Mean---Twenty-four hours or ten percent has bought: 
+Name: SHIBUSD
+Altname: SHIBUSD
+Wsname: SHIB/USD
+Base:
+ 	Name: SHIB
+	Altname: SHIB
+	decimals: 5
+	displayed_decimals: 0
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 500000
+Data about this pair of assets (SHIBUSD):
+	Current:                    1.1e-05
+	Maximum:                    94966.761633
+	Minimum:                    84175.084175
+	Variance:                   0.113636
+	Mean:                       89764.367932
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.125
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.88
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.1e-05
+	Number of local maximums:   24
+	Average local minimum:      1.1e-05
+	Number of local minimums:   25
+Is init: True
+
+Mean---Twenty-four hours or ten percent now has $4187.144644705766
+---------------------------------------------------------------------------

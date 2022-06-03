@@ -9415,3 +9415,46 @@ Is init: True
 
 Random---Random now has $5718.8085910183
 ---------------------------------------------------------------------------
+[2022-06-03 13:23:22] SOLD
+Random---Random has sold: 
+Name: JASMYUSD
+Altname: JASMYUSD
+Wsname: JASMY/USD
+Base:
+ 	Name: JASMY
+	Altname: JASMY
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 100
+Data about this pair of assets (JASMYUSD):
+	Current:                    0.01146
+	Maximum:                    87.873462
+	Minimum:                    73.421439
+	Variance:                   0.164464
+	Mean:                       83.315415
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.92
+	Is ascending:               True
+	Current ascension duration: 19
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.6875
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.012057
+	Number of local maximums:   25
+	Average local minimum:      0.012341
+	Number of local minimums:   16
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5689.070786345004
+---------------------------------------------------------------------------
