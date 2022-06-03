@@ -2118,3 +2118,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2939.363542
 Lower All Local Minimums---Twenty-four hours or ten percent has sold USDT for $0.999. Profit was -0.3899889878866688%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2927.9003483076663
 ---------------------------------------------------------------------------
+[2022-06-03 23:32:30] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought SUSHI for $1.539
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2927.9003483076663
+---------------------------------------------------------------------------

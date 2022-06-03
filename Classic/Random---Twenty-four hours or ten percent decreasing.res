@@ -2118,3 +2118,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2537.0893602888796
 Random---Twenty-four hours or ten percent decreasing has sold OGN for $0.2878. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2523.8964956153773
 ---------------------------------------------------------------------------
+[2022-06-03 23:32:30] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZUSD for $0.96258
+Random---Twenty-four hours or ten percent decreasing now has $2523.8964956153773
+---------------------------------------------------------------------------

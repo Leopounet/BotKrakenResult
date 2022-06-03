@@ -2118,3 +2118,7 @@ Random---Twenty-four hours or ten percent now has $2670.5977002642544
 Random---Twenty-four hours or ten percent has sold TRIBE for $0.2292. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2656.71059222288
 ---------------------------------------------------------------------------
+[2022-06-03 23:32:30] BUY
+Random---Twenty-four hours or ten percent has bought XXRP for $0.38919
+Random---Twenty-four hours or ten percent now has $2656.71059222288
+---------------------------------------------------------------------------
