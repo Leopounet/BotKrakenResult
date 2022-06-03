@@ -1014,3 +1014,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $5660.914620
 Lower All Local Minimums---Twenty-four hours or ten percent has sold LUNA for $9.656e-05. Profit was -1.6868372569089147%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $5565.4242035842535
 ---------------------------------------------------------------------------
+[2022-06-03 09:20:36] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought QNT for $66.13
+Lower All Local Minimums---Twenty-four hours or ten percent now has $5565.4242035842535
+---------------------------------------------------------------------------

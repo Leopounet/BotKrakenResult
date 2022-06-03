@@ -1014,3 +1014,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5221.174653462122
 Random---Twenty-four hours or ten percent decreasing has sold LPT for $12.11. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5194.024545264118
 ---------------------------------------------------------------------------
+[2022-06-03 09:20:36] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ALCX for $29.36
+Random---Twenty-four hours or ten percent decreasing now has $5194.024545264118
+---------------------------------------------------------------------------
