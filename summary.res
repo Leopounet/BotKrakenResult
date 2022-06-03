@@ -1,4 +1,4 @@
-[2022-06-03 10:43:55] SUMMARY
+[2022-06-03 10:46:58] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CRVUSD
-	Altname: CRVUSD
-	Wsname: CRV/USD
-	Base:
-	 	Name: CRV
-		Altname: CRV
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (CRVUSD):
-		Current:                    1.18
-		Maximum:                    0.847458
-		Minimum:                    0.70028
-		Variance:                   0.173669
-		Mean:                       0.781506
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.64
-		Is ascending:               True
-		Current ascension duration: 8
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.409091
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.27168
-		Number of local maximums:   25
-		Average local minimum:      1.296182
-		Number of local minimums:   22
-	Is init: True
+	None
 Wins: 0
-Losses: 140
-Total points: -76.52405971825851%
-Wallet: 4641.892932607404
+Losses: 141
+Total points: -78.06100887080089%
+Wallet: 4570.54939851777
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CFGUSD
-	Altname: CFGUSD
-	Wsname: CFG/USD
-	Base:
-	 	Name: CFG
-		Altname: CFG
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (CFGUSD):
-		Current:                    0.3385
-		Maximum:                    3.775009
-		Minimum:                    2.071251
-		Variance:                   0.451326
-		Mean:                       3.254586
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.5
-		Is ascending:               True
-		Current ascension duration: 14
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.6
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         False
-		Average local maximum:      0.308433
-		Number of local maximums:   24
-		Average local minimum:      0.306215
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 5
-Losses: 135
-Total points: -70.84664672127742%
-Wallet: 4909.735505843619
+Losses: 136
+Total points: -71.36664672127742%
+Wallet: 4884.204881213232
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
