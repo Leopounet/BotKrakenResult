@@ -698,3 +698,7 @@ Random---Always now has $6235.831303565686
 Random---Always has bought ALICE for $2.85
 Random---Always now has $6235.831303565686
 ---------------------------------------------------------------------------
+[2022-06-03 05:19:07] SOLD
+Random---Always has sold ALICE for $2.85. Profit was -0.52%.
+Random---Always now has $6203.404980787144
+---------------------------------------------------------------------------
