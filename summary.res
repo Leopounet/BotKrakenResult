@@ -1,4 +1,4 @@
-[2022-06-03 03:53:40] SUMMARY
+[2022-06-03 03:56:36] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: RBCUSD
-	Altname: RBCUSD
-	Wsname: RBC/USD
-	Base:
-	 	Name: RBC
-		Altname: RBC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 50
-	Data about this pair of assets (RBCUSD):
-		Current:                    0.08607
-		Maximum:                    12.938284
-		Minimum:                    10.090817
-		Variance:                   0.220081
-		Mean:                       11.517141
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.375
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.666667
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         True
-		Average local maximum:      0.087725
-		Number of local maximums:   24
-		Average local minimum:      0.086663
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 0
-Losses: 73
-Total points: -39.15413777787494%
-Wallet: 6752.703892257108
+Losses: 74
+Total points: -39.67413777787495%
+Wallet: 6717.589832017371
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SOLUSD
-	Altname: SOLUSD
-	Wsname: SOL/USD
-	Base:
-	 	Name: SOL
-		Altname: SOL
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.02
-	Data about this pair of assets (SOLUSD):
-		Current:                    41.16
-		Maximum:                    0.026205
-		Minimum:                    0.021413
-		Variance:                   0.182869
-		Mean:                       0.0237
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.5
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.0
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      43.426667
-		Number of local maximums:   18
-		Average local minimum:      42.121852
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 4
-Losses: 69
-Total points: -33.05140057326164%
-Wallet: 7175.493056351023
+Losses: 70
+Total points: -33.61999143817903%
+Wallet: 7134.69385831983
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

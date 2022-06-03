@@ -586,3 +586,7 @@ Random---Twenty-four hours or ten percent now has $7175.493056351023
 Random---Twenty-four hours or ten percent has bought SOL for $41.16
 Random---Twenty-four hours or ten percent now has $7175.493056351023
 ---------------------------------------------------------------------------
+[2022-06-03 03:56:36] SOLD
+Random---Twenty-four hours or ten percent has sold SOL for $41.14. Profit was -0.5685908649173861%.
+Random---Twenty-four hours or ten percent now has $7134.69385831983
+---------------------------------------------------------------------------
