@@ -1774,3 +1774,7 @@ Random---Twenty-four hours or ten percent now has $3281.24057609491
 Random---Twenty-four hours or ten percent has sold MASK for $1.723. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3264.1781250992167
 ---------------------------------------------------------------------------
+[2022-06-03 19:14:58] BUY
+Random---Twenty-four hours or ten percent has bought APE for $6.1621
+Random---Twenty-four hours or ten percent now has $3264.1781250992167
+---------------------------------------------------------------------------

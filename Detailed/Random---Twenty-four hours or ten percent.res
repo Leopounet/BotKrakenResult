@@ -19090,3 +19090,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3264.1781250992167
 ---------------------------------------------------------------------------
+[2022-06-03 19:14:58] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: APEUSD
+Altname: APEUSD
+Wsname: APE/USD
+Base:
+ 	Name: APE
+	Altname: APE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (APEUSD):
+	Current:                    6.1621
+	Maximum:                    0.16714
+	Minimum:                    0.142586
+	Variance:                   0.146907
+	Mean:                       0.159451
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.823529
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.1875
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      6.272924
+	Number of local maximums:   17
+	Average local minimum:      6.308238
+	Number of local minimums:   16
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $3264.1781250992167
+---------------------------------------------------------------------------

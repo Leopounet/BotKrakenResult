@@ -1774,3 +1774,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3131.863674142664
 Random---Twenty-four hours or ten percent decreasing has sold OMG for $2.397342. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3115.577983037122
 ---------------------------------------------------------------------------
+[2022-06-03 19:14:58] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SGB for $0.038
+Random---Twenty-four hours or ten percent decreasing now has $3115.577983037122
+---------------------------------------------------------------------------
