@@ -1,4 +1,4 @@
-[2022-06-03 01:37:48] SUMMARY
+[2022-06-03 01:40:45] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WOOUSD
-	Altname: WOOUSD
-	Wsname: WOO/USD
-	Base:
-	 	Name: WOO
-		Altname: WOO
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (WOOUSD):
-		Current:                    0.1605
-		Maximum:                    6.7659
-		Minimum:                    2.534212
-		Variance:                   0.625443
-		Mean:                       5.899536
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.304348
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               6.9
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         True
-		Average local maximum:      0.171787
-		Number of local maximums:   23
-		Average local minimum:      0.17287
-		Number of local minimums:   10
-	Is init: True
+	None
 Wins: 0
-Losses: 50
-Total points: -27.282785658670424%
-Wallet: 7606.218063699936
+Losses: 51
+Total points: -27.802785658670423%
+Wallet: 7566.665729768696
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: RAREUSD
+	Altname: RAREUSD
+	Wsname: RARE/USD
+	Base:
+	 	Name: RARE
+		Altname: RARE
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 10
+	Data about this pair of assets (RAREUSD):
+		Current:                    0.2575
+		Maximum:                    4.191115
+		Minimum:                    3.388682
+		Variance:                   0.191461
+		Mean:                       3.863286
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.214286
+		Is ascending:               True
+		Current ascension duration: 16
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.8
+		Is falling:                 True
+		Current fall duration:      48
+		Trending downwards:         True
+		Average local maximum:      0.258286
+		Number of local maximums:   14
+		Average local minimum:      0.262107
+		Number of local minimums:   15
+	Is init: True
 Wins: 2
 Losses: 36
 Total points: -18.99941596221015%

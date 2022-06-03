@@ -302,3 +302,7 @@ Random---Random now has $8308.152969270557
 Random---Random has sold AVAX for $24.36. Profit was -0.52%.
 Random---Random now has $8264.95057383035
 ---------------------------------------------------------------------------
+[2022-06-03 01:40:45] BUY
+Random---Random has bought RARE for $0.2575
+Random---Random now has $8264.95057383035
+---------------------------------------------------------------------------
