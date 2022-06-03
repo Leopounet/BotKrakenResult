@@ -1,4 +1,4 @@
-[2022-06-03 13:23:22] SUMMARY
+[2022-06-03 13:26:45] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: REPV2USD
-	Altname: REPV2USD
-	Wsname: REPV2/USD
-	Base:
-	 	Name: REPV2
-		Altname: REPV2
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.15
-	Data about this pair of assets (REPV2USD):
-		Current:                    9.521
-		Maximum:                    0.105719
-		Minimum:                    0.092945
-		Variance:                   0.120829
-		Mean:                       0.101902
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.1
-		Is ascending:               True
-		Current ascension duration: 8
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.285714
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      9.8122
-		Number of local maximums:   20
-		Average local minimum:      9.8025
-		Number of local minimums:   14
-	Is init: True
+	None
 Wins: 0
-Losses: 165
-Total points: -94.18326971823934%
-Wallet: 3884.685179748113
+Losses: 166
+Total points: -94.70326971823934%
+Wallet: 3864.484816813423
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Random
