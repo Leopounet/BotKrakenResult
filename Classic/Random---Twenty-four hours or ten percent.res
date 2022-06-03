@@ -1910,3 +1910,7 @@ Random---Twenty-four hours or ten percent now has $3017.526414447816
 Random---Twenty-four hours or ten percent has sold NYM for $0.364. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3001.835277092687
 ---------------------------------------------------------------------------
+[2022-06-03 20:56:18] BUY
+Random---Twenty-four hours or ten percent has bought ZGBP for $1.24893
+Random---Twenty-four hours or ten percent now has $3001.835277092687
+---------------------------------------------------------------------------

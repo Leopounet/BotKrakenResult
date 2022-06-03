@@ -1910,3 +1910,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2854.902633952795
 Random---Twenty-four hours or ten percent decreasing has sold WBTC for $29381.6. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2840.0571402562405
 ---------------------------------------------------------------------------
+[2022-06-03 20:56:18] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MIR for $0.28
+Random---Twenty-four hours or ten percent decreasing now has $2840.0571402562405
+---------------------------------------------------------------------------

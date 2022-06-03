@@ -1270,3 +1270,7 @@ Lower All Local Minimums---Random now has $4665.977623301368
 Lower All Local Minimums---Random has sold ACA for $0.362. Profit was -0.52%.
 Lower All Local Minimums---Random now has $4641.714539660201
 ---------------------------------------------------------------------------
+[2022-06-03 20:56:18] BUY
+Lower All Local Minimums---Random has bought SCRT for $1.468
+Lower All Local Minimums---Random now has $4641.714539660201
+---------------------------------------------------------------------------

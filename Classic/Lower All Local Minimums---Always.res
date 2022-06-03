@@ -1910,3 +1910,7 @@ Lower All Local Minimums---Always now has $3340.5357098138347
 Lower All Local Minimums---Always has sold ACA for $0.362. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3323.164924122803
 ---------------------------------------------------------------------------
+[2022-06-03 20:56:18] BUY
+Lower All Local Minimums---Always has bought SCRT for $1.468
+Lower All Local Minimums---Always now has $3323.164924122803
+---------------------------------------------------------------------------
