@@ -1398,3 +1398,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3956.6617210114614
 Random---Twenty-four hours or ten percent decreasing has sold GNO for $185.1. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3936.087080062202
 ---------------------------------------------------------------------------
+[2022-06-03 14:27:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XXBT for $29561.9
+Random---Twenty-four hours or ten percent decreasing now has $3936.087080062202
+---------------------------------------------------------------------------
