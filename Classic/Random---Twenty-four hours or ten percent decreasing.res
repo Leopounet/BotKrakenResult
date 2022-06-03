@@ -1694,3 +1694,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3295.501561308596
 Random---Twenty-four hours or ten percent decreasing has sold NMR for $11.45. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3278.3649531897913
 ---------------------------------------------------------------------------
+[2022-06-03 18:15:23] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ICX for $0.3772
+Random---Twenty-four hours or ten percent decreasing now has $3278.3649531897913
+---------------------------------------------------------------------------

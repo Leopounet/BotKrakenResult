@@ -1694,3 +1694,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $3424.14818
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold 1INCH for $0.863. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $3406.3426144686114
 ---------------------------------------------------------------------------
+[2022-06-03 18:15:23] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought INJ for $2.026
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $3406.3426144686114
+---------------------------------------------------------------------------

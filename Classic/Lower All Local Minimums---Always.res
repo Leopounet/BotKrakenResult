@@ -1694,3 +1694,7 @@ Lower All Local Minimums---Always now has $3625.0644219751707
 Lower All Local Minimums---Always has sold RUNE for $2.583. Profit was -1.3645297504798388%.
 Lower All Local Minimums---Always now has $3575.5993394632596
 ---------------------------------------------------------------------------
+[2022-06-03 18:15:23] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.583
+Lower All Local Minimums---Always now has $3575.5993394632596
+---------------------------------------------------------------------------
