@@ -590,3 +590,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6983.737910250433
 Random---Twenty-four hours or ten percent decreasing has sold BNC for $0.369. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6947.422473117131
 ---------------------------------------------------------------------------
+[2022-06-03 03:59:34] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SUSHI for $1.667
+Random---Twenty-four hours or ten percent decreasing now has $6947.422473117131
+---------------------------------------------------------------------------

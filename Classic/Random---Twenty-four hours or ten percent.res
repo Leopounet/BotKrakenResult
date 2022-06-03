@@ -590,3 +590,7 @@ Random---Twenty-four hours or ten percent now has $7175.493056351023
 Random---Twenty-four hours or ten percent has sold SOL for $41.14. Profit was -0.5685908649173861%.
 Random---Twenty-four hours or ten percent now has $7134.69385831983
 ---------------------------------------------------------------------------
+[2022-06-03 03:59:34] BUY
+Random---Twenty-four hours or ten percent has bought KSM for $72.78
+Random---Twenty-four hours or ten percent now has $7134.69385831983
+---------------------------------------------------------------------------
