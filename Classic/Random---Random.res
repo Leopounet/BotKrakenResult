@@ -1162,3 +1162,7 @@ Random---Random now has $4254.673256813198
 Random---Random has bought GARI for $0.607
 Random---Random now has $4254.673256813198
 ---------------------------------------------------------------------------
+[2022-06-03 19:00:07] SOLD
+Random---Random has sold GARI for $0.607. Profit was -0.52%.
+Random---Random now has $4232.54895587777
+---------------------------------------------------------------------------
