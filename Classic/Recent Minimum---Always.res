@@ -1054,3 +1054,7 @@ Recent Minimum---Always now has $5018.305851136481
 Recent Minimum---Always has sold BNT for $1.244. Profit was -0.52%.
 Recent Minimum---Always now has $4992.210660710571
 ---------------------------------------------------------------------------
+[2022-06-03 09:53:10] BUY
+Recent Minimum---Always has bought BNT for $1.244
+Recent Minimum---Always now has $4992.210660710571
+---------------------------------------------------------------------------
