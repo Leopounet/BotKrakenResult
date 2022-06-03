@@ -498,3 +498,7 @@ Random---Twenty-four hours or ten percent now has $7608.464840058966
 Random---Twenty-four hours or ten percent has bought ZRX for $0.412
 Random---Twenty-four hours or ten percent now has $7608.464840058966
 ---------------------------------------------------------------------------
+[2022-06-03 02:51:44] SOLD
+Random---Twenty-four hours or ten percent has sold ZRX for $0.412. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $7568.90082289066
+---------------------------------------------------------------------------

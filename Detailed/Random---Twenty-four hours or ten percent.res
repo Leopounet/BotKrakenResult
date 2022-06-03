@@ -5373,3 +5373,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $7608.464840058966
 ---------------------------------------------------------------------------
+[2022-06-03 02:51:44] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: ZRXUSD
+Altname: ZRXUSD
+Wsname: ZRX/USD
+Base:
+ 	Name: ZRX
+	Altname: ZRX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (ZRXUSD):
+	Current:                    0.412
+	Maximum:                    2.617801
+	Minimum:                    2.242152
+	Variance:                   0.143498
+	Mean:                       2.427716
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.785714
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.230769
+	Is falling:                 True
+	Current fall duration:      23
+	Trending downwards:         True
+	Average local maximum:      0.410143
+	Number of local maximums:   28
+	Average local minimum:      0.4145
+	Number of local minimums:   26
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $7568.90082289066
+---------------------------------------------------------------------------
