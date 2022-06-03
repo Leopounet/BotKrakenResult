@@ -382,3 +382,7 @@ Random---Random now has $7871.1426327620175
 Random---Random has sold BAND for $1.667. Profit was -0.52%.
 Random---Random now has $7830.212691071655
 ---------------------------------------------------------------------------
+[2022-06-03 02:57:37] BUY
+Random---Random has bought PSTAKE for $0.241
+Random---Random now has $7830.212691071655
+---------------------------------------------------------------------------
