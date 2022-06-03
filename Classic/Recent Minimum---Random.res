@@ -430,3 +430,7 @@ Recent Minimum---Random now has $7552.285432493653
 Recent Minimum---Random has sold APE for $6.3298. Profit was 0.27138867215489126%.
 Recent Minimum---Random now has $7572.781479646245
 ---------------------------------------------------------------------------
+[2022-06-03 05:39:49] BUY
+Recent Minimum---Random has bought ALGO for $0.39445
+Recent Minimum---Random now has $7572.781479646245
+---------------------------------------------------------------------------

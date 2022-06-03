@@ -7824,3 +7824,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $6107.134211050538
 ---------------------------------------------------------------------------
+[2022-06-03 05:39:49] BUY
+Random---Always has bought: 
+Name: SANDUSD
+Altname: SANDUSD
+Wsname: SAND/USD
+Base:
+ 	Name: SAND
+	Altname: SAND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (SANDUSD):
+	Current:                    1.3499
+	Maximum:                    0.770475
+	Minimum:                    0.682967
+	Variance:                   0.113577
+	Mean:                       0.734041
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.45
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.608696
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         True
+	Average local maximum:      1.353625
+	Number of local maximums:   20
+	Average local minimum:      1.359026
+	Number of local minimums:   23
+Is init: True
+
+Random---Always now has $6107.134211050538
+---------------------------------------------------------------------------
