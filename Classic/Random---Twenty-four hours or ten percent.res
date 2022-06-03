@@ -1150,3 +1150,7 @@ Random---Twenty-four hours or ten percent now has $4833.541219348602
 Random---Twenty-four hours or ten percent has sold MOVR for $20.7278. Profit was -0.38279795549630746%.
 Random---Twenty-four hours or ten percent now has $4815.038522382864
 ---------------------------------------------------------------------------
+[2022-06-03 11:09:36] BUY
+Random---Twenty-four hours or ten percent has bought FIL for $7.356
+Random---Twenty-four hours or ten percent now has $4815.038522382864
+---------------------------------------------------------------------------
