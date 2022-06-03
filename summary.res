@@ -1,4 +1,4 @@
-[2022-06-03 12:47:41] SUMMARY
+[2022-06-03 12:50:54] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KNCUSD
+	Altname: KNCUSD
+	Wsname: KNC/USD
+	Base:
+	 	Name: KNC
+		Altname: KNC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2
+	Data about this pair of assets (KNCUSD):
+		Current:                    1.88
+		Maximum:                    0.534616
+		Minimum:                    0.438866
+		Variance:                   0.179101
+		Mean:                       0.498779
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.884615
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.12
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      1.998631
+		Number of local maximums:   26
+		Average local minimum:      1.996476
+		Number of local minimums:   25
+	Is init: True
 Wins: 0
 Losses: 160
 Total points: -91.51388773098735%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KNCUSD
+	Altname: KNCUSD
+	Wsname: KNC/USD
+	Base:
+	 	Name: KNC
+		Altname: KNC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2
+	Data about this pair of assets (KNCUSD):
+		Current:                    1.88
+		Maximum:                    0.534616
+		Minimum:                    0.438866
+		Variance:                   0.179101
+		Mean:                       0.498779
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.884615
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.12
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      1.998631
+		Number of local maximums:   26
+		Average local minimum:      1.996476
+		Number of local minimums:   25
+	Is init: True
 Wins: 6
 Losses: 154
 Total points: -80.13652315602631%

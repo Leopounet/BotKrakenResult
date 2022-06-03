@@ -1278,3 +1278,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4325.556956665282
 Random---Twenty-four hours or ten percent decreasing has sold ALCX for $28.03. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4303.064060490623
 ---------------------------------------------------------------------------
+[2022-06-03 12:50:54] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SHIB for $1.068e-05
+Random---Twenty-four hours or ten percent decreasing now has $4303.064060490623
+---------------------------------------------------------------------------
