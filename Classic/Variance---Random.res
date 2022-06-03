@@ -970,3 +970,7 @@ Variance---Random now has $6755.790267955107
 Variance---Random has bought WOO for $0.1494
 Variance---Random now has $6755.790267955107
 ---------------------------------------------------------------------------
+[2022-06-03 15:00:14] SOLD
+Variance---Random has sold WOO for $0.1497. Profit was -0.3191967871485919%.
+Variance---Random now has $6734.226002473297
+---------------------------------------------------------------------------

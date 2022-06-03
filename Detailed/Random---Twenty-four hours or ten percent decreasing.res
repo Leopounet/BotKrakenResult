@@ -15478,3 +15478,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3832.082267218473
 ---------------------------------------------------------------------------
+[2022-06-03 15:00:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: FIDAUSD
+Altname: FIDAUSD
+Wsname: FIDA/USD
+Base:
+ 	Name: FIDA
+	Altname: FIDA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 7.5
+Data about this pair of assets (FIDAUSD):
+	Current:                    0.466
+	Maximum:                    2.145923
+	Minimum:                    1.972387
+	Variance:                   0.080868
+	Mean:                       2.078586
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.272727
+	Is ascending:               True
+	Current ascension duration: 57
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.75
+	Is falling:                 True
+	Current fall duration:      22
+	Trending downwards:         True
+	Average local maximum:      0.479636
+	Number of local maximums:   11
+	Average local minimum:      0.485417
+	Number of local minimums:   12
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $3832.082267218473
+---------------------------------------------------------------------------

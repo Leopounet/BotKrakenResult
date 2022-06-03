@@ -1438,3 +1438,7 @@ Random---Twenty-four hours or ten percent now has $4090.5115767231287
 Random---Twenty-four hours or ten percent has sold SAMO for $0.005485. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4069.2409165241684
 ---------------------------------------------------------------------------
+[2022-06-03 15:00:14] BUY
+Random---Twenty-four hours or ten percent has bought KIN for $1.556e-05
+Random---Twenty-four hours or ten percent now has $4069.2409165241684
+---------------------------------------------------------------------------

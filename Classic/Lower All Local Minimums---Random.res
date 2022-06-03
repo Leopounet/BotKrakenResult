@@ -966,3 +966,7 @@ Lower All Local Minimums---Random now has $5634.112274008905
 Lower All Local Minimums---Random has sold BAT for $0.37377. Profit was -0.52%.
 Lower All Local Minimums---Random now has $5604.814890184059
 ---------------------------------------------------------------------------
+[2022-06-03 15:00:14] BUY
+Lower All Local Minimums---Random has bought OCEAN for $0.2001
+Lower All Local Minimums---Random now has $5604.814890184059
+---------------------------------------------------------------------------

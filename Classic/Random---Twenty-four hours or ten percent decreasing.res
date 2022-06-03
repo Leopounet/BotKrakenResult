@@ -1438,3 +1438,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3852.1132561504555
 Random---Twenty-four hours or ten percent decreasing has sold GST for $0.889. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3832.082267218473
 ---------------------------------------------------------------------------
+[2022-06-03 15:00:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FIDA for $0.466
+Random---Twenty-four hours or ten percent decreasing now has $3832.082267218473
+---------------------------------------------------------------------------
