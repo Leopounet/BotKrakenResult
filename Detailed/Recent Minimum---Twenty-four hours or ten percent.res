@@ -11995,3 +11995,46 @@ Is init: True
 
 Recent Minimum---Twenty-four hours or ten percent now has $4782.189001234591
 ---------------------------------------------------------------------------
+[2022-06-03 10:40:31] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold: 
+Name: BADGERUSD
+Altname: BADGERUSD
+Wsname: BADGER/USD
+Base:
+ 	Name: BADGER
+	Altname: BADGER
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (BADGERUSD):
+	Current:                    5.8
+	Maximum:                    0.175994
+	Minimum:                    0.163988
+	Variance:                   0.068219
+	Mean:                       0.169948
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.625
+	Is ascending:               True
+	Current ascension duration: 10
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.428571
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      5.867125
+	Number of local maximums:   16
+	Average local minimum:      5.884929
+	Number of local minimums:   14
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent now has $4757.321618428171
+---------------------------------------------------------------------------

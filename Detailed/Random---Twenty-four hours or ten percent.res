@@ -11995,3 +11995,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $4935.399583678748
 ---------------------------------------------------------------------------
+[2022-06-03 10:40:31] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: ALCXUSD
+Altname: ALCXUSD
+Wsname: ALCX/USD
+Base:
+ 	Name: ALCX
+	Altname: ALCX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (ALCXUSD):
+	Current:                    29.36
+	Maximum:                    0.034783
+	Minimum:                    0.030864
+	Variance:                   0.112654
+	Mean:                       0.033135
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.25
+	Is ascending:               True
+	Current ascension duration: 122
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.0
+	Is falling:                 True
+	Current fall duration:      32
+	Trending downwards:         True
+	Average local maximum:      30.5075
+	Number of local maximums:   12
+	Average local minimum:      30.516667
+	Number of local minimums:   9
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $4909.735505843619
+---------------------------------------------------------------------------

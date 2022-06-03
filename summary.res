@@ -1,4 +1,4 @@
-[2022-06-03 10:37:00] SUMMARY
+[2022-06-03 10:40:31] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: RADUSD
-	Altname: RADUSD
-	Wsname: RAD/USD
-	Base:
-	 	Name: RAD
-		Altname: RAD
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2
-	Data about this pair of assets (RADUSD):
-		Current:                    2.059
-		Maximum:                    0.502765
-		Minimum:                    0.429923
-		Variance:                   0.144884
-		Mean:                       0.477088
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.846154
-		Is ascending:               True
-		Current ascension duration: 26
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.875
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      2.126462
-		Number of local maximums:   13
-		Average local minimum:      2.127375
-		Number of local minimums:   8
-	Is init: True
+	None
 Wins: 0
-Losses: 139
-Total points: -76.00405971825852%
-Wallet: 4666.156948740856
+Losses: 140
+Total points: -76.52405971825851%
+Wallet: 4641.892932607404
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ALCXUSD
-	Altname: ALCXUSD
-	Wsname: ALCX/USD
-	Base:
-	 	Name: ALCX
-		Altname: ALCX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.05
-	Data about this pair of assets (ALCXUSD):
-		Current:                    29.36
-		Maximum:                    0.034783
-		Minimum:                    0.030864
-		Variance:                   0.112654
-		Mean:                       0.033135
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.25
-		Is ascending:               True
-		Current ascension duration: 122
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.0
-		Is falling:                 True
-		Current fall duration:      32
-		Trending downwards:         True
-		Average local maximum:      30.5075
-		Number of local maximums:   12
-		Average local minimum:      30.516667
-		Number of local minimums:   9
-	Is init: True
+	None
 Wins: 5
-Losses: 134
-Total points: -70.32664672127743%
-Wallet: 4935.399583678748
+Losses: 135
+Total points: -70.84664672127742%
+Wallet: 4909.735505843619
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
