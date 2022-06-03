@@ -1,4 +1,4 @@
-[2022-06-03 01:05:25] SUMMARY
+[2022-06-03 01:08:21] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: WBTCUSD
+	Altname: WBTCUSD
+	Wsname: WBTC/USD
+	Base:
+	 	Name: WBTC
+		Altname: WBTC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (WBTCUSD):
+		Current:                    30404.5
+		Maximum:                    3.4e-05
+		Minimum:                    3.1e-05
+		Variance:                   0.080898
+		Mean:                       3.3e-05
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.869565
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.136364
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      30835.069565
+		Number of local maximums:   23
+		Average local minimum:      30796.772727
+		Number of local minimums:   22
+	Is init: True
 Wins: 0
 Losses: 45
 Total points: -24.7338714932983%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KAVAUSD
+	Altname: KAVAUSD
+	Wsname: KAVA/USD
+	Base:
+	 	Name: KAVA
+		Altname: KAVA
+		decimals: 8
+		displayed_decimals: 6
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (KAVAUSD):
+		Current:                    2.5854
+		Maximum:                    0.390411
+		Minimum:                    0.320246
+		Variance:                   0.179722
+		Mean:                       0.366487
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.473684
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.590909
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      2.758858
+		Number of local maximums:   19
+		Average local minimum:      2.732259
+		Number of local minimums:   22
+	Is init: True
 Wins: 2
 Losses: 32
 Total points: -16.289841852807555%

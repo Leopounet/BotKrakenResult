@@ -3868,3 +3868,46 @@ Is init: True
 Profit was -0.52%.
 Variance Lower All Local Minimums---Always now has $7969.464206181519
 ---------------------------------------------------------------------------
+[2022-06-03 01:08:21] BUY
+Variance Lower All Local Minimums---Always has bought: 
+Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base:
+ 	Name: 1INCH
+	Altname: 1INCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (1INCHUSD):
+	Current:                    0.915
+	Maximum:                    1.109878
+	Minimum:                    0.998004
+	Variance:                   0.100798
+	Mean:                       1.055729
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.6
+	Is ascending:               True
+	Current ascension duration: 19
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.461538
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         True
+	Average local maximum:      0.938967
+	Number of local maximums:   30
+	Average local minimum:      0.958192
+	Number of local minimums:   26
+Is init: True
+
+Variance Lower All Local Minimums---Always now has $7969.464206181519
+---------------------------------------------------------------------------

@@ -358,3 +358,7 @@ Random---Twenty-four hours or ten percent now has $8279.655835476455
 Random---Twenty-four hours or ten percent has sold ACA for $0.404. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8236.601625131978
 ---------------------------------------------------------------------------
+[2022-06-03 01:08:21] BUY
+Random---Twenty-four hours or ten percent has bought FLOW for $2.52
+Random---Twenty-four hours or ten percent now has $8236.601625131978
+---------------------------------------------------------------------------
