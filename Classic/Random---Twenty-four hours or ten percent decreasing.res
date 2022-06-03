@@ -406,3 +406,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7813.929635800508
 Random---Twenty-four hours or ten percent decreasing has sold DASH for $59.083. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7773.297201694345
 ---------------------------------------------------------------------------
+[2022-06-03 01:43:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FET for $0.163
+Random---Twenty-four hours or ten percent decreasing now has $7773.297201694345
+---------------------------------------------------------------------------
