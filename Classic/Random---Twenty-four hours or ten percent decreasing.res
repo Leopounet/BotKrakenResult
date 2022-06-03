@@ -1570,3 +1570,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3532.16927783747
 Random---Twenty-four hours or ten percent decreasing has bought GALA for $0.0721
 Random---Twenty-four hours or ten percent decreasing now has $3532.16927783747
 ---------------------------------------------------------------------------
+[2022-06-03 16:43:16] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold GALA for $0.0721. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3513.801997592715
+---------------------------------------------------------------------------

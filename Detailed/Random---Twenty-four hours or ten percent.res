@@ -16897,3 +16897,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $3719.167485392201
 ---------------------------------------------------------------------------
+[2022-06-03 16:43:16] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: PERPUSD
+Altname: PERPUSD
+Wsname: PERP/USD
+Base:
+ 	Name: PERP
+	Altname: PERP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (PERPUSD):
+	Current:                    1.237
+	Maximum:                    0.830565
+	Minimum:                    0.740192
+	Variance:                   0.108808
+	Mean:                       0.78773
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.038462
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.228571
+	Is falling:                 True
+	Current fall duration:      14
+	Trending downwards:         True
+	Average local maximum:      1.273154
+	Number of local maximums:   26
+	Average local minimum:      1.269429
+	Number of local minimums:   35
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3699.8278144681613
+---------------------------------------------------------------------------
