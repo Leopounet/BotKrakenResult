@@ -678,3 +678,7 @@ Random---Twenty-four hours or ten percent now has $6773.312985484054
 Random---Twenty-four hours or ten percent has sold SNX for $2.874. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6738.091757959536
 ---------------------------------------------------------------------------
+[2022-06-03 05:04:22] BUY
+Random---Twenty-four hours or ten percent has bought LINK for $7.03543
+Random---Twenty-four hours or ten percent now has $6738.091757959536
+---------------------------------------------------------------------------

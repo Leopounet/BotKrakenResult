@@ -678,3 +678,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6598.470548137391
 Random---Twenty-four hours or ten percent decreasing has sold SPELL for $0.001267. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6564.158501287076
 ---------------------------------------------------------------------------
+[2022-06-03 05:04:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought STORJ for $0.58607
+Random---Twenty-four hours or ten percent decreasing now has $6564.158501287076
+---------------------------------------------------------------------------
