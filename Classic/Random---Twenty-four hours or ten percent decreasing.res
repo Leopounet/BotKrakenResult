@@ -950,3 +950,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5508.286631223552
 Random---Twenty-four hours or ten percent decreasing has sold MIR for $0.287. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5479.643540741189
 ---------------------------------------------------------------------------
+[2022-06-03 08:30:31] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MNGO for $0.055
+Random---Twenty-four hours or ten percent decreasing now has $5479.643540741189
+---------------------------------------------------------------------------

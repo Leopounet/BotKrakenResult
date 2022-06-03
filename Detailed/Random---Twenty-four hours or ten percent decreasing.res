@@ -10232,3 +10232,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5479.643540741189
 ---------------------------------------------------------------------------
+[2022-06-03 08:30:31] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: MNGOUSD
+Altname: MNGOUSD
+Wsname: MNGO/USD
+Base:
+ 	Name: MNGO
+	Altname: MNGO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (MNGOUSD):
+	Current:                    0.055
+	Maximum:                    18.975332
+	Minimum:                    17.421603
+	Variance:                   0.081882
+	Mean:                       17.936794
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.8
+	Is ascending:               True
+	Current ascension duration: 11
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.0
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         True
+	Average local maximum:      0.05544
+	Number of local maximums:   20
+	Average local minimum:      0.056092
+	Number of local minimums:   12
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $5479.643540741189
+---------------------------------------------------------------------------
