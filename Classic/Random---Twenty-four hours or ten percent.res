@@ -830,3 +830,7 @@ Random---Twenty-four hours or ten percent now has $6018.165617213784
 Random---Twenty-four hours or ten percent has sold MNGO for $0.0551. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5986.871156004272
 ---------------------------------------------------------------------------
+[2022-06-03 06:56:27] BUY
+Random---Twenty-four hours or ten percent has bought ATOM for $9.49
+Random---Twenty-four hours or ten percent now has $5986.871156004272
+---------------------------------------------------------------------------

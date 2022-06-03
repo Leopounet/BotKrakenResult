@@ -830,3 +830,7 @@ Lower All Local Minimums---Always now has $6330.236646516809
 Lower All Local Minimums---Always has sold KAVA for $2.5776. Profit was -0.3723583806045556%.
 Lower All Local Minimums---Always now has $6306.665479851403
 ---------------------------------------------------------------------------
+[2022-06-03 06:56:27] BUY
+Lower All Local Minimums---Always has bought KAVA for $2.57
+Lower All Local Minimums---Always now has $6306.665479851403
+---------------------------------------------------------------------------

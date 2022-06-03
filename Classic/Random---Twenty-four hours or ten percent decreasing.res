@@ -830,3 +830,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5907.726988070736
 Random---Twenty-four hours or ten percent decreasing has sold FLOW for $2.512. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5877.006807732769
 ---------------------------------------------------------------------------
+[2022-06-03 06:56:27] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FET for $0.1636
+Random---Twenty-four hours or ten percent decreasing now has $5877.006807732769
+---------------------------------------------------------------------------
