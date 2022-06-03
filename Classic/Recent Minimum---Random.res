@@ -1418,3 +1418,7 @@ Recent Minimum---Random now has $3820.311082910727
 Recent Minimum---Random has bought ALGO for $0.38
 Recent Minimum---Random now has $3820.311082910727
 ---------------------------------------------------------------------------
+[2022-06-03 23:35:32] SOLD
+Recent Minimum---Random has sold ALGO for $0.38016. Profit was -0.47789473684211226%.
+Recent Minimum---Random now has $3802.0540173145005
+---------------------------------------------------------------------------

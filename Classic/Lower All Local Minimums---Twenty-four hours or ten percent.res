@@ -2122,3 +2122,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2927.900348
 Lower All Local Minimums---Twenty-four hours or ten percent has bought SUSHI for $1.539
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2927.9003483076663
 ---------------------------------------------------------------------------
+[2022-06-03 23:35:32] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold SUSHI for $1.539. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2912.6752664964665
+---------------------------------------------------------------------------

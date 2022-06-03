@@ -22831,3 +22831,46 @@ Is init: True
 
 Random---Always now has $2117.1990111901723
 ---------------------------------------------------------------------------
+[2022-06-03 23:35:32] SOLD
+Random---Always has sold: 
+Name: QTUMUSD
+Altname: QTUMUSD
+Wsname: QTUM/USD
+Base:
+ 	Name: QTUM
+	Altname: QTUM
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (QTUMUSD):
+	Current:                    3.81789
+	Maximum:                    0.266857
+	Minimum:                    0.23699
+	Variance:                   0.111919
+	Mean:                       0.256687
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.321429
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.709677
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      3.888546
+	Number of local maximums:   28
+	Average local minimum:      3.888372
+	Number of local minimums:   31
+Is init: True
+Profit was -0.52%.
+Random---Always now has $2106.1895763319835
+---------------------------------------------------------------------------

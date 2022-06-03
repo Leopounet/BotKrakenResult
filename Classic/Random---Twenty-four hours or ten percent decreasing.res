@@ -2122,3 +2122,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2523.8964956153773
 Random---Twenty-four hours or ten percent decreasing has bought ZUSD for $0.96258
 Random---Twenty-four hours or ten percent decreasing now has $2523.8964956153773
 ---------------------------------------------------------------------------
+[2022-06-03 23:35:32] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ZUSD for $0.96258. Profit was -0.4%.
+Random---Twenty-four hours or ten percent decreasing now has $2513.8009096329156
+---------------------------------------------------------------------------
