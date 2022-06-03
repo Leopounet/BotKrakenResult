@@ -11135,3 +11135,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $5246.237544567899
 ---------------------------------------------------------------------------
+[2022-06-03 09:36:39] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: SCUSD
+Altname: SCUSD
+Wsname: SC/USD
+Base:
+ 	Name: SC
+	Altname: SC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 280
+Data about this pair of assets (SCUSD):
+	Current:                    0.0055
+	Maximum:                    189.753321
+	Minimum:                    171.526587
+	Variance:                   0.096055
+	Mean:                       178.97816
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.482759
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.625
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.005599
+	Number of local maximums:   29
+	Average local minimum:      0.005585
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $5218.957109336146
+---------------------------------------------------------------------------

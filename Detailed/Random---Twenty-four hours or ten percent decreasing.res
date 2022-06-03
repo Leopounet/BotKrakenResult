@@ -11135,3 +11135,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $5140.147136417075
 ---------------------------------------------------------------------------
+[2022-06-03 09:36:39] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: AIRUSD
+Altname: AIRUSD
+Wsname: AIR/USD
+Base:
+ 	Name: AIR
+	Altname: AIR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (AIRUSD):
+	Current:                    0.0292
+	Maximum:                    39.077765
+	Minimum:                    29.446408
+	Variance:                   0.246466
+	Mean:                       35.140587
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.04
+	Is ascending:               True
+	Current ascension duration: 33
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.411765
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.029202
+	Number of local maximums:   25
+	Average local minimum:      0.029202
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $5113.418371307706
+---------------------------------------------------------------------------
