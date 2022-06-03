@@ -1726,3 +1726,7 @@ Random---Twenty-four hours or ten percent now has $3366.110731682205
 Random---Twenty-four hours or ten percent has sold FIL for $7.328. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3348.6069558774575
 ---------------------------------------------------------------------------
+[2022-06-03 18:39:19] BUY
+Random---Twenty-four hours or ten percent has bought LSK for $1.30089
+Random---Twenty-four hours or ten percent now has $3348.6069558774575
+---------------------------------------------------------------------------

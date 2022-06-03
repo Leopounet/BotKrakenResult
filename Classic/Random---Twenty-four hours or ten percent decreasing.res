@@ -1726,3 +1726,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3227.487939920694
 Random---Twenty-four hours or ten percent decreasing has sold MKR for $1139.1. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3210.7050026331062
 ---------------------------------------------------------------------------
+[2022-06-03 18:39:19] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZUSD for $131.0
+Random---Twenty-four hours or ten percent decreasing now has $3210.7050026331062
+---------------------------------------------------------------------------
