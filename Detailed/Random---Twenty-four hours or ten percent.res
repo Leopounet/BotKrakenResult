@@ -21455,3 +21455,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $2895.620605717725
 ---------------------------------------------------------------------------
+[2022-06-03 21:58:39] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: JASMYUSD
+Altname: JASMYUSD
+Wsname: JASMY/USD
+Base:
+ 	Name: JASMY
+	Altname: JASMY
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 100
+Data about this pair of assets (JASMYUSD):
+	Current:                    0.01232
+	Maximum:                    87.873462
+	Minimum:                    75.35795
+	Variance:                   0.142427
+	Mean:                       84.446385
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.888889
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.764706
+	Is falling:                 True
+	Current fall duration:      23
+	Trending downwards:         True
+	Average local maximum:      0.011849
+	Number of local maximums:   27
+	Average local minimum:      0.012003
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2880.563378567993
+---------------------------------------------------------------------------

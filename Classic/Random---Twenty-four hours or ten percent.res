@@ -1994,3 +1994,7 @@ Random---Twenty-four hours or ten percent now has $2895.620605717725
 Random---Twenty-four hours or ten percent has bought JASMY for $0.01232
 Random---Twenty-four hours or ten percent now has $2895.620605717725
 ---------------------------------------------------------------------------
+[2022-06-03 21:58:39] SOLD
+Random---Twenty-four hours or ten percent has sold JASMY for $0.01232. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2880.563378567993
+---------------------------------------------------------------------------
