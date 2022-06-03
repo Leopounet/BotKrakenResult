@@ -1974,3 +1974,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2759.1914966271424
 Random---Twenty-four hours or ten percent decreasing has sold KEEP for $0.24647. Profit was -0.19844350374470698%.
 Random---Twenty-four hours or ten percent decreasing now has $2753.7160603462094
 ---------------------------------------------------------------------------
+[2022-06-03 21:43:48] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XZEC for $89.76
+Random---Twenty-four hours or ten percent decreasing now has $2753.7160603462094
+---------------------------------------------------------------------------
