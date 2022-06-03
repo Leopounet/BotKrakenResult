@@ -1294,3 +1294,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4268.600868779188
 Random---Twenty-four hours or ten percent decreasing has sold QTUM for $3.78923. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4246.404144261536
 ---------------------------------------------------------------------------
+[2022-06-03 13:04:05] BUY
+Random---Twenty-four hours or ten percent decreasing has bought NYM for $0.3676
+Random---Twenty-four hours or ten percent decreasing now has $4246.404144261536
+---------------------------------------------------------------------------

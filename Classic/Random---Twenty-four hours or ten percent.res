@@ -1294,3 +1294,7 @@ Random---Twenty-four hours or ten percent now has $4436.856572815104
 Random---Twenty-four hours or ten percent has sold FTM for $0.358. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4413.784918636466
 ---------------------------------------------------------------------------
+[2022-06-03 13:04:05] BUY
+Random---Twenty-four hours or ten percent has bought GRT for $0.14211
+Random---Twenty-four hours or ten percent now has $4413.784918636466
+---------------------------------------------------------------------------
