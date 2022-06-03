@@ -1006,3 +1006,7 @@ Random---Twenty-four hours or ten percent now has $5357.60896502522
 Random---Twenty-four hours or ten percent has sold ANT for $1.9792. Profit was -0.5351553422581441%.
 Random---Twenty-four hours or ten percent now has $5328.937434431586
 ---------------------------------------------------------------------------
+[2022-06-03 09:14:26] BUY
+Random---Twenty-four hours or ten percent has bought GARI for $0.6221
+Random---Twenty-four hours or ten percent now has $5328.937434431586
+---------------------------------------------------------------------------

@@ -678,3 +678,7 @@ Lower All Local Minimums---Random now has $6899.542681215719
 Lower All Local Minimums---Random has sold CVX for $8.77. Profit was -0.52%.
 Lower All Local Minimums---Random now has $6863.665059273398
 ---------------------------------------------------------------------------
+[2022-06-03 09:14:26] BUY
+Lower All Local Minimums---Random has bought LUNA for $9.77e-05
+Lower All Local Minimums---Random now has $6863.665059273398
+---------------------------------------------------------------------------
