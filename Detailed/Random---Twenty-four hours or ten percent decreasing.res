@@ -17413,3 +17413,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $3446.544426799572
 ---------------------------------------------------------------------------
+[2022-06-03 17:18:53] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: REQUSD
+Altname: REQUSD
+Wsname: REQ/USD
+Base:
+ 	Name: REQ
+	Altname: REQ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (REQUSD):
+	Current:                    0.12987
+	Maximum:                    10.190564
+	Minimum:                    7.627765
+	Variance:                   0.251487
+	Mean:                       8.036445
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.454545
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.666667
+	Is falling:                 True
+	Current fall duration:      19
+	Trending downwards:         False
+	Average local maximum:      0.118939
+	Number of local maximums:   11
+	Average local minimum:      0.121472
+	Number of local minimums:   9
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3428.6223957802144
+---------------------------------------------------------------------------
