@@ -854,3 +854,7 @@ Random---Twenty-four hours or ten percent now has $5897.658101188328
 Random---Twenty-four hours or ten percent has sold GNO for $191.0. Profit was -0.3994359700162504%.
 Random---Twenty-four hours or ten percent now has $5874.100733343605
 ---------------------------------------------------------------------------
+[2022-06-03 07:14:29] BUY
+Random---Twenty-four hours or ten percent has bought ALICE for $2.85
+Random---Twenty-four hours or ten percent now has $5874.100733343605
+---------------------------------------------------------------------------
