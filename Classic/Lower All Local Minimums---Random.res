@@ -662,3 +662,7 @@ Lower All Local Minimums---Random now has $6960.4686633292895
 Lower All Local Minimums---Random has sold ZUSD for $0.95772. Profit was -0.35717165808357676%.
 Lower All Local Minimums---Random now has $6935.607841994089
 ---------------------------------------------------------------------------
+[2022-06-03 08:52:34] BUY
+Lower All Local Minimums---Random has bought QNT for $66.74
+Lower All Local Minimums---Random now has $6935.607841994089
+---------------------------------------------------------------------------
