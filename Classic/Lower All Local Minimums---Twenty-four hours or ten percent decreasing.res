@@ -1934,3 +1934,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold ACA for $0.362. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3271.5926591815582
 ---------------------------------------------------------------------------
+[2022-06-03 21:14:13] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought RUNE for $2.601
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3271.5926591815582
+---------------------------------------------------------------------------
