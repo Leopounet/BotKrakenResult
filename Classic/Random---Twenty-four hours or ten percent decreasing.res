@@ -1078,3 +1078,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5007.885997969681
 Random---Twenty-four hours or ten percent decreasing has sold GARI for $0.6221. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4981.844990780239
 ---------------------------------------------------------------------------
+[2022-06-03 10:12:30] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ENJ for $0.626
+Random---Twenty-four hours or ten percent decreasing now has $4981.844990780239
+---------------------------------------------------------------------------

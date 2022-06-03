@@ -1078,3 +1078,7 @@ Random---Twenty-four hours or ten percent now has $5111.246593570789
 Random---Twenty-four hours or ten percent has sold API3 for $1.573. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5084.668111284221
 ---------------------------------------------------------------------------
+[2022-06-03 10:12:30] BUY
+Random---Twenty-four hours or ten percent has bought AVAX for $23.19
+Random---Twenty-four hours or ten percent now has $5084.668111284221
+---------------------------------------------------------------------------
