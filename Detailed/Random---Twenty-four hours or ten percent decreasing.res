@@ -10748,3 +10748,46 @@ Is init: True
 Profit was -0.4497834991222933%.
 Random---Twenty-four hours or ten percent decreasing now has $5271.317588437057
 ---------------------------------------------------------------------------
+[2022-06-03 09:08:12] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: INJUSD
+Altname: INJUSD
+Wsname: INJ/USD
+Base:
+ 	Name: INJ
+	Altname: INJ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (INJUSD):
+	Current:                    2.087
+	Maximum:                    0.489237
+	Minimum:                    0.440917
+	Variance:                   0.098765
+	Mean:                       0.469393
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.705882
+	Is ascending:               True
+	Current ascension duration: 35
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.428571
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         True
+	Average local maximum:      2.147118
+	Number of local maximums:   17
+	Average local minimum:      2.137238
+	Number of local minimums:   21
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $5271.317588437057
+---------------------------------------------------------------------------

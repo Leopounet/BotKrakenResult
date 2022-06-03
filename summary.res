@@ -1,4 +1,4 @@
-[2022-06-03 09:04:59] SUMMARY
+[2022-06-03 09:08:12] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: OXYUSD
+	Altname: OXYUSD
+	Wsname: OXY/USD
+	Base:
+	 	Name: OXY
+		Altname: OXY
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 50
+	Data about this pair of assets (OXYUSD):
+		Current:                    0.0869
+		Maximum:                    11.587486
+		Minimum:                    9.920635
+		Variance:                   0.143849
+		Mean:                       11.134475
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.285714
+		Is ascending:               True
+		Current ascension duration: 20
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.9375
+		Is falling:                 True
+		Current fall duration:      23
+		Trending downwards:         True
+		Average local maximum:      0.090071
+		Number of local maximums:   21
+		Average local minimum:      0.091469
+		Number of local minimums:   16
+	Is init: True
 Wins: 0
 Losses: 125
 Total points: -67.70771094758318%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ANTUSD
+	Altname: ANTUSD
+	Wsname: ANT/USD
+	Base:
+	 	Name: ANT
+		Altname: ANT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (ANTUSD):
+		Current:                    1.9795
+		Maximum:                    0.563857
+		Minimum:                    0.458442
+		Variance:                   0.186953
+		Mean:                       0.51897
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.206897
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.806452
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      1.923162
+		Number of local maximums:   29
+		Average local minimum:      1.881316
+		Number of local minimums:   31
+	Is init: True
 Wins: 5
 Losses: 120
 Total points: -62.148703786937375%

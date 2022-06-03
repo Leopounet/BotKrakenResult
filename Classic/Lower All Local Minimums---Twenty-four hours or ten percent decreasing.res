@@ -998,3 +998,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold CVX for $8.77. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $5690.505247772807
 ---------------------------------------------------------------------------
+[2022-06-03 09:08:12] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought CVX for $8.77
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $5690.505247772807
+---------------------------------------------------------------------------
