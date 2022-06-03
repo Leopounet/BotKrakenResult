@@ -942,3 +942,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5537.079444334089
 Random---Twenty-four hours or ten percent decreasing has sold LSK for $1.335033. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5508.286631223552
 ---------------------------------------------------------------------------
+[2022-06-03 08:23:58] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MIR for $0.287
+Random---Twenty-four hours or ten percent decreasing now has $5508.286631223552
+---------------------------------------------------------------------------

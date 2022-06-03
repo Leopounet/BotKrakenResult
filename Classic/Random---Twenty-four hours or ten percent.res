@@ -942,3 +942,7 @@ Random---Twenty-four hours or ten percent now has $5591.456694698688
 Random---Twenty-four hours or ten percent has sold IDEX for $0.07725. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5562.381119886255
 ---------------------------------------------------------------------------
+[2022-06-03 08:23:58] BUY
+Random---Twenty-four hours or ten percent has bought ORCA for $0.835
+Random---Twenty-four hours or ten percent now has $5562.381119886255
+---------------------------------------------------------------------------
