@@ -422,3 +422,7 @@ Recent Minimum---Random now has $7591.762598003271
 Recent Minimum---Random has sold 1INCH for $0.906. Profit was -0.52%.
 Recent Minimum---Random now has $7552.285432493653
 ---------------------------------------------------------------------------
+[2022-06-03 05:30:57] BUY
+Recent Minimum---Random has bought APE for $6.2801
+Recent Minimum---Random now has $7552.285432493653
+---------------------------------------------------------------------------

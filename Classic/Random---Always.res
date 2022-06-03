@@ -714,3 +714,7 @@ Random---Always now has $6171.147274887051
 Random---Always has bought AUDIO for $0.4079
 Random---Always now has $6171.147274887051
 ---------------------------------------------------------------------------
+[2022-06-03 05:30:57] SOLD
+Random---Always has sold AUDIO for $0.4079. Profit was -0.52%.
+Random---Always now has $6139.057309057638
+---------------------------------------------------------------------------

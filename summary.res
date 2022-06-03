@@ -1,4 +1,4 @@
-[2022-06-03 05:28:03] SUMMARY
+[2022-06-03 05:30:57] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AUDIOUSD
-	Altname: AUDIOUSD
-	Wsname: AUDIO/USD
-	Base:
-	 	Name: AUDIO
-		Altname: AUDIO
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (AUDIOUSD):
-		Current:                    0.4079
-		Maximum:                    2.547771
-		Minimum:                    2.036245
-		Variance:                   0.200774
-		Mean:                       2.351427
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.85
-		Is ascending:               True
-		Current ascension duration: 73
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.157895
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         True
-		Average local maximum:      0.42308
-		Number of local maximums:   20
-		Average local minimum:      0.426505
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 0
-Losses: 89
-Total points: -48.13112099272385%
-Wallet: 6171.147274887051
+Losses: 90
+Total points: -48.651120992723854%
+Wallet: 6139.057309057638
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: LINKUSD
-	Altname: LINKUSD
-	Wsname: LINK/USD
-	Base:
-	 	Name: LINK
-		Altname: LINK
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (LINKUSD):
-		Current:                    7.0156
-		Maximum:                    0.147059
-		Minimum:                    0.129058
-		Variance:                   0.122403
-		Mean:                       0.139118
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.357143
-		Is ascending:               True
-		Current ascension duration: 4
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.818182
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      7.278151
-		Number of local maximums:   28
-		Average local minimum:      7.245735
-		Number of local minimums:   22
-	Is init: True
+	None
 Wins: 5
-Losses: 84
-Total points: -40.58369886063811%
-Wallet: 6653.470646327699
+Losses: 85
+Total points: -41.10369886063811%
+Wallet: 6618.872598966795
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
