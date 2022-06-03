@@ -1,4 +1,4 @@
-[2022-06-03 04:23:09] SUMMARY
+[2022-06-03 04:26:05] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: OCEANUSD
-	Altname: OCEANUSD
-	Wsname: OCEAN/USD
-	Base:
-	 	Name: OCEAN
-		Altname: OCEAN
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (OCEANUSD):
-		Current:                    0.2141
-		Maximum:                    4.90918
-		Minimum:                    4.22119
-		Variance:                   0.140144
-		Mean:                       4.579327
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.2
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.8125
-		Is falling:                 True
-		Current fall duration:      9
-		Trending downwards:         True
-		Average local maximum:      0.218933
-		Number of local maximums:   30
-		Average local minimum:      0.216387
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 0
-Losses: 78
-Total points: -41.641059124093815%
-Wallet: 6586.428327192612
+Losses: 79
+Total points: -42.16105912409382%
+Wallet: 6552.178899891211
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: KNCUSD
-	Altname: KNCUSD
-	Wsname: KNC/USD
-	Base:
-	 	Name: KNC
-		Altname: KNC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2
-	Data about this pair of assets (KNCUSD):
-		Current:                    1.9873
-		Maximum:                    0.526704
-		Minimum:                    0.438866
-		Variance:                   0.166769
-		Mean:                       0.491343
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.130435
-		Is ascending:               True
-		Current ascension duration: 17
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.875
-		Is falling:                 True
-		Current fall duration:      18
-		Trending downwards:         True
-		Average local maximum:      2.025213
-		Number of local maximums:   23
-		Average local minimum:      2.023408
-		Number of local minimums:   24
-	Is init: True
+	None
 Wins: 4
-Losses: 74
-Total points: -35.69999143817904%
-Wallet: 6987.44575123483
+Losses: 75
+Total points: -36.21999143817904%
+Wallet: 6951.111033328409
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
