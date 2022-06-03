@@ -1946,3 +1946,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2781.443127346869
 Random---Twenty-four hours or ten percent decreasing has bought APE for $6.186
 Random---Twenty-four hours or ten percent decreasing now has $2781.443127346869
 ---------------------------------------------------------------------------
+[2022-06-03 21:23:05] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold APE for $6.233. Profit was 0.23978014872291054%.
+Random---Twenty-four hours or ten percent decreasing now has $2788.1124758142646
+---------------------------------------------------------------------------

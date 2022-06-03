@@ -1,4 +1,4 @@
-[2022-06-03 21:20:07] SUMMARY
+[2022-06-03 21:23:05] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,100 +8,26 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.869
-		Maximum:                    1.166861
-		Minimum:                    1.009082
-		Variance:                   0.135217
-		Mean:                       1.089425
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.852941
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.857143
-		Is falling:                 True
-		Current fall duration:      15
-		Trending downwards:         True
-		Average local maximum:      0.916059
-		Number of local maximums:   34
-		Average local minimum:      0.923857
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 1
-Losses: 242
-Total points: -128.37439428754118%
-Wallet: 2759.8077826793237
+Losses: 243
+Total points: -128.8943942875412%
+Wallet: 2745.4567822093913
 ---------------------------------------------------------------------------
 Most wins: 
-Name: Variance---Random
-BuyStrategy description: Looks for the asset which has the highest Variance.
-SellStrategy description: Random.
+Name: Random---Twenty-four hours or ten percent
+BuyStrategy description: Random.
+SellStrategy description: Sells when the profit is 10% or it has been 24h.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WOOUSD
-	Altname: WOOUSD
-	Wsname: WOO/USD
-	Base:
-	 	Name: WOO
-		Altname: WOO
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (WOOUSD):
-		Current:                    0.1572
-		Maximum:                    6.7659
-		Minimum:                    2.534212
-		Variance:                   0.625443
-		Mean:                       6.14565
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.666667
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.4
-		Is falling:                 True
-		Current fall duration:      5
-		Trending downwards:         True
-		Average local maximum:      0.165028
-		Number of local maximums:   18
-		Average local minimum:      0.16469
-		Number of local minimums:   10
-	Is init: True
+	None
 Wins: 9
-Losses: 153
-Total points: -48.11153896960914%
-Wallet: 5738.207224732545
+Losses: 235
+Total points: -121.36717612838633%
+Wallet: 2957.9399200677053
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
