@@ -6878,3 +6878,46 @@ Is init: True
 Profit was -0.31737698059928177%.
 Lower All Local Minimums---Random now has $7014.72195233029
 ---------------------------------------------------------------------------
+[2022-06-03 08:27:13] BUY
+Lower All Local Minimums---Random has bought: 
+Name: USDCHF
+Altname: USDCHF
+Wsname: USD/CHF
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: CHF
+	Altname: CHF
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDCHF):
+	Current:                    0.95694
+	Maximum:                    1.045872
+	Minimum:                    1.035357
+	Variance:                   0.010053
+	Mean:                       1.040982
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.333333
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.7
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      0.960643
+	Number of local maximums:   27
+	Average local minimum:      0.960513
+	Number of local minimums:   30
+Is init: True
+
+Lower All Local Minimums---Random now has $7014.72195233029
+---------------------------------------------------------------------------
