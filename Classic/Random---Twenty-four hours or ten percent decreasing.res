@@ -1886,3 +1886,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2899.906340207749
 Random---Twenty-four hours or ten percent decreasing has sold MKR for $1142.7. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2884.8268272386686
 ---------------------------------------------------------------------------
+[2022-06-03 20:38:18] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LSK for $1.31123
+Random---Twenty-four hours or ten percent decreasing now has $2884.8268272386686
+---------------------------------------------------------------------------

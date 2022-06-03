@@ -1886,3 +1886,7 @@ Random---Twenty-four hours or ten percent now has $3067.2639600374782
 Random---Twenty-four hours or ten percent has sold ALGO for $0.37897. Profit was -0.7069995785925061%.
 Random---Twenty-four hours or ten percent now has $3045.5784167656934
 ---------------------------------------------------------------------------
+[2022-06-03 20:38:18] BUY
+Random---Twenty-four hours or ten percent has bought GRT for $0.14551
+Random---Twenty-four hours or ten percent now has $3045.5784167656934
+---------------------------------------------------------------------------
