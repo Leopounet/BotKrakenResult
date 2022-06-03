@@ -16940,3 +16940,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $3279.474359399245
 ---------------------------------------------------------------------------
+[2022-06-03 16:46:14] BUY
+Random---Always has bought: 
+Name: UMAUSD
+Altname: UMAUSD
+Wsname: UMA/USD
+Base:
+ 	Name: UMA
+	Altname: UMA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (UMAUSD):
+	Current:                    2.997
+	Maximum:                    0.355492
+	Minimum:                    0.298507
+	Variance:                   0.160299
+	Mean:                       0.322724
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.117647
+	Is ascending:               True
+	Current ascension duration: 50
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.25
+	Is falling:                 True
+	Current fall duration:      47
+	Trending downwards:         True
+	Average local maximum:      3.087765
+	Number of local maximums:   17
+	Average local minimum:      3.154083
+	Number of local minimums:   12
+Is init: True
+
+Random---Always now has $3279.474359399245
+---------------------------------------------------------------------------
