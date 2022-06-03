@@ -1834,3 +1834,7 @@ Random---Twenty-four hours or ten percent now has $3147.199591589928
 Random---Twenty-four hours or ten percent has bought QTUM for $3.80188
 Random---Twenty-four hours or ten percent now has $3147.199591589928
 ---------------------------------------------------------------------------
+[2022-06-03 19:59:39] SOLD
+Random---Twenty-four hours or ten percent has sold QTUM for $3.80188. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3130.8341537136603
+---------------------------------------------------------------------------

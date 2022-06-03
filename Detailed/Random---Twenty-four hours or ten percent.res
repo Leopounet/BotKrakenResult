@@ -19735,3 +19735,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $3147.199591589928
 ---------------------------------------------------------------------------
+[2022-06-03 19:59:39] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: QTUMUSD
+Altname: QTUMUSD
+Wsname: QTUM/USD
+Base:
+ 	Name: QTUM
+	Altname: QTUM
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (QTUMUSD):
+	Current:                    3.80188
+	Maximum:                    0.266857
+	Minimum:                    0.23699
+	Variance:                   0.111919
+	Mean:                       0.255412
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.1
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.903226
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         True
+	Average local maximum:      3.906129
+	Number of local maximums:   30
+	Average local minimum:      3.898494
+	Number of local minimums:   31
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3130.8341537136603
+---------------------------------------------------------------------------
