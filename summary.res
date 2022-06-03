@@ -1,4 +1,4 @@
-[2022-06-03 16:16:25] SUMMARY
+[2022-06-03 16:19:24] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GSTUSD
-	Altname: GSTUSD
-	Wsname: GST/USD
-	Base:
-	 	Name: GST
-		Altname: GST
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (GSTUSD):
-		Current:                    0.903
-		Maximum:                    1.254705
-		Minimum:                    0.635728
-		Variance:                   0.493325
-		Mean:                       1.051123
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.840909
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.888889
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         True
-		Average local maximum:      0.973318
-		Number of local maximums:   44
-		Average local minimum:      0.998074
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 1
-Losses: 191
-Total points: -108.57225143604084%
-Wallet: 3362.0316294937543
+Losses: 192
+Total points: -109.09225143604084%
+Wallet: 3344.549065020387
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Random
