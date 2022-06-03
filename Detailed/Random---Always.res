@@ -11006,3 +11006,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $4971.5942722531645
 ---------------------------------------------------------------------------
+[2022-06-03 09:27:05] BUY
+Random---Always has bought: 
+Name: NANOUSD
+Altname: NANOUSD
+Wsname: NANO/USD
+Base:
+ 	Name: NANO
+	Altname: NANO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1.5
+Data about this pair of assets (NANOUSD):
+	Current:                    1.1524
+	Maximum:                    0.902372
+	Minimum:                    0.78125
+	Variance:                   0.134227
+	Mean:                       0.851747
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.457143
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.176471
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      1.171817
+	Number of local maximums:   35
+	Average local minimum:      1.165264
+	Number of local minimums:   17
+Is init: True
+
+Random---Always now has $4971.5942722531645
+---------------------------------------------------------------------------

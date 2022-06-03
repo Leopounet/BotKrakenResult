@@ -1022,3 +1022,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold QNT for $66.13. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $5536.483997725615
 ---------------------------------------------------------------------------
+[2022-06-03 09:27:05] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought PERP for $1.243
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $5536.483997725615
+---------------------------------------------------------------------------

@@ -1022,3 +1022,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5194.024545264118
 Random---Twenty-four hours or ten percent decreasing has sold ALCX for $29.36. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5167.015617628745
 ---------------------------------------------------------------------------
+[2022-06-03 09:27:05] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AUDIO for $0.4042
+Random---Twenty-four hours or ten percent decreasing now has $5167.015617628745
+---------------------------------------------------------------------------

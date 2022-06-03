@@ -1,4 +1,4 @@
-[2022-06-03 09:23:55] SUMMARY
+[2022-06-03 09:27:05] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: NANOUSD
+	Altname: NANOUSD
+	Wsname: NANO/USD
+	Base:
+	 	Name: NANO
+		Altname: NANO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1.5
+	Data about this pair of assets (NANOUSD):
+		Current:                    1.1524
+		Maximum:                    0.902372
+		Minimum:                    0.78125
+		Variance:                   0.134227
+		Mean:                       0.851747
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.457143
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               6.176471
+		Is falling:                 True
+		Current fall duration:      5
+		Trending downwards:         True
+		Average local maximum:      1.171817
+		Number of local maximums:   35
+		Average local minimum:      1.165264
+		Number of local minimums:   17
+	Is init: True
 Wins: 0
 Losses: 128
 Total points: -69.68241926939682%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: BNTUSD
+	Altname: BNTUSD
+	Wsname: BNT/USD
+	Base:
+	 	Name: BNT
+		Altname: BNT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (BNTUSD):
+		Current:                    1.244
+		Maximum:                    0.811688
+		Minimum:                    0.743494
+		Variance:                   0.084015
+		Mean:                       0.784827
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.842105
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.166667
+		Is falling:                 True
+		Current fall duration:      25
+		Trending downwards:         True
+		Average local maximum:      1.278421
+		Number of local maximums:   19
+		Average local minimum:      1.284167
+		Number of local minimums:   18
+	Is init: True
 Wins: 5
 Losses: 123
 Total points: -63.723859129195525%
