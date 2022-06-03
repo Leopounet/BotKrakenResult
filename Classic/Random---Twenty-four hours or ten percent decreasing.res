@@ -746,3 +746,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6285.256964127212
 Random---Twenty-four hours or ten percent decreasing has bought KP3R for $132.9
 Random---Twenty-four hours or ten percent decreasing now has $6285.256964127212
 ---------------------------------------------------------------------------
+[2022-06-03 05:54:34] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold KP3R for $132.9. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6252.573627913751
+---------------------------------------------------------------------------
