@@ -1,4 +1,4 @@
-[2022-06-03 12:09:57] SUMMARY
+[2022-06-03 12:12:55] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: RNDRUSD
+	Altname: RNDRUSD
+	Wsname: RNDR/USD
+	Base:
+	 	Name: RNDR
+		Altname: RNDR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 3
+	Data about this pair of assets (RNDRUSD):
+		Current:                    0.7112
+		Maximum:                    1.416431
+		Minimum:                    1.16877
+		Variance:                   0.174848
+		Mean:                       1.303906
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.25
+		Is ascending:               True
+		Current ascension duration: 6
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.769231
+		Is falling:                 False
+		Current fall duration:      2
+		Trending downwards:         True
+		Average local maximum:      0.778671
+		Number of local maximums:   24
+		Average local minimum:      0.766596
+		Number of local minimums:   26
+	Is init: True
 Wins: 0
 Losses: 154
 Total points: -88.77572124188931%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: CVXUSD
+	Altname: CVXUSD
+	Wsname: CVX/USD
+	Base:
+	 	Name: CVX
+		Altname: CVX
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.2
+	Data about this pair of assets (CVXUSD):
+		Current:                    8.26
+		Maximum:                    0.121065
+		Minimum:                    0.095602
+		Variance:                   0.210325
+		Mean:                       0.107994
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.4
+		Is ascending:               True
+		Current ascension duration: 73
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.75
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      9.255333
+		Number of local maximums:   30
+		Average local minimum:      9.288333
+		Number of local minimums:   24
+	Is init: True
 Wins: 6
 Losses: 148
 Total points: -77.01652315602634%

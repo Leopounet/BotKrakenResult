@@ -8383,3 +8383,46 @@ Is init: True
 
 Recent Minimum---Random now has $6133.437442367794
 ---------------------------------------------------------------------------
+[2022-06-03 12:12:55] SOLD
+Recent Minimum---Random has sold: 
+Name: AIRUSD
+Altname: AIRUSD
+Wsname: AIR/USD
+Base:
+ 	Name: AIR
+	Altname: AIR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (AIRUSD):
+	Current:                    0.0303
+	Maximum:                    39.077765
+	Minimum:                    29.446408
+	Variance:                   0.246466
+	Mean:                       34.944082
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.076923
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.333333
+	Is falling:                 True
+	Current fall duration:      28
+	Trending downwards:         False
+	Average local maximum:      0.029202
+	Number of local maximums:   26
+	Average local minimum:      0.029204
+	Number of local minimums:   18
+Is init: True
+Profit was -5.107458745874585%.
+Recent Minimum---Random now has $5820.174655294833
+---------------------------------------------------------------------------
