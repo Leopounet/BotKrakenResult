@@ -1958,3 +1958,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2788.1124758142646
 Random---Twenty-four hours or ten percent decreasing has sold BOND for $3.421. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2773.6142909400305
 ---------------------------------------------------------------------------
+[2022-06-03 21:31:58] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FIDA for $0.477
+Random---Twenty-four hours or ten percent decreasing now has $2773.6142909400305
+---------------------------------------------------------------------------
