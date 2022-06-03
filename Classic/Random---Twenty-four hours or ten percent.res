@@ -838,3 +838,7 @@ Random---Twenty-four hours or ten percent now has $5986.871156004272
 Random---Twenty-four hours or ten percent has sold ATOM for $9.4468. Profit was -0.9752160168598607%.
 Random---Twenty-four hours or ten percent now has $5928.486229582155
 ---------------------------------------------------------------------------
+[2022-06-03 07:02:32] BUY
+Random---Twenty-four hours or ten percent has bought REPV2 for $9.972
+Random---Twenty-four hours or ten percent now has $5928.486229582155
+---------------------------------------------------------------------------

@@ -838,3 +838,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $6306.665479
 Lower All Local Minimums---Twenty-four hours or ten percent has sold KAVA for $2.56. Profit was -0.9091050583657463%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $6249.331264959867
 ---------------------------------------------------------------------------
+[2022-06-03 07:02:32] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought DASH for $58.586
+Lower All Local Minimums---Twenty-four hours or ten percent now has $6249.331264959867
+---------------------------------------------------------------------------

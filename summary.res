@@ -1,4 +1,4 @@
-[2022-06-03 06:59:29] SUMMARY
+[2022-06-03 07:02:32] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SDNUSD
+	Altname: SDNUSD
+	Wsname: SDN/USD
+	Base:
+	 	Name: SDN
+		Altname: SDN
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 10
+	Data about this pair of assets (SDNUSD):
+		Current:                    0.385
+		Maximum:                    2.754821
+		Minimum:                    2.392344
+		Variance:                   0.131579
+		Mean:                       2.574149
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.333333
+		Is ascending:               True
+		Current ascension duration: 12
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.857143
+		Is falling:                 True
+		Current fall duration:      172
+		Trending downwards:         True
+		Average local maximum:      0.392
+		Number of local maximums:   18
+		Average local minimum:      0.391429
+		Number of local minimums:   14
+	Is init: True
 Wins: 0
 Losses: 105
 Total points: -57.15007328658633%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: REPV2USD
+	Altname: REPV2USD
+	Wsname: REPV2/USD
+	Base:
+	 	Name: REPV2
+		Altname: REPV2
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.15
+	Data about this pair of assets (REPV2USD):
+		Current:                    9.972
+		Maximum:                    0.105719
+		Minimum:                    0.092259
+		Variance:                   0.127318
+		Mean:                       0.100875
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.4
+		Is ascending:               True
+		Current ascension duration: 9
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.75
+		Is falling:                 True
+		Current fall duration:      26
+		Trending downwards:         True
+		Average local maximum:      9.90895
+		Number of local maximums:   20
+		Average local minimum:      9.989813
+		Number of local minimums:   16
+	Is init: True
 Wins: 5
 Losses: 100
 Total points: -52.04962744969639%
