@@ -2134,3 +2134,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2912.675266
 Lower All Local Minimums---Twenty-four hours or ten percent has sold DASH for $57.941. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2897.5293551106847
 ---------------------------------------------------------------------------
+[2022-06-03 23:44:22] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought SUSHI for $1.542
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2897.5293551106847
+---------------------------------------------------------------------------

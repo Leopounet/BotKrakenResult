@@ -2134,3 +2134,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2513.8009096329156
 Random---Twenty-four hours or ten percent decreasing has sold BADGER for $5.829. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2500.7291449028244
 ---------------------------------------------------------------------------
+[2022-06-03 23:44:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AUDIO for $0.3871
+Random---Twenty-four hours or ten percent decreasing now has $2500.7291449028244
+---------------------------------------------------------------------------
