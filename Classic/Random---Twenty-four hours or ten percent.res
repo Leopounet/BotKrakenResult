@@ -1478,3 +1478,7 @@ Random---Twenty-four hours or ten percent now has $3985.2586134107282
 Random---Twenty-four hours or ten percent has sold WAVES for $9.4564. Profit was -0.3069927831883219%.
 Random---Twenty-four hours or ten percent now has $3973.0241570761664
 ---------------------------------------------------------------------------
+[2022-06-03 15:31:43] BUY
+Random---Twenty-four hours or ten percent has bought CVX for $8.6
+Random---Twenty-four hours or ten percent now has $3973.0241570761664
+---------------------------------------------------------------------------

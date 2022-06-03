@@ -1478,3 +1478,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3755.6804010377955
 Random---Twenty-four hours or ten percent decreasing has sold ZUSD for $130.926. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $3740.6576794336443
 ---------------------------------------------------------------------------
+[2022-06-03 15:31:43] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TOKE for $3.18
+Random---Twenty-four hours or ten percent decreasing now has $3740.6576794336443
+---------------------------------------------------------------------------
