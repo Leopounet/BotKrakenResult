@@ -1766,3 +1766,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3148.2344935089104
 Random---Twenty-four hours or ten percent decreasing has sold UNI for $5.052. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3131.863674142664
 ---------------------------------------------------------------------------
+[2022-06-03 19:09:01] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OMG for $2.397342
+Random---Twenty-four hours or ten percent decreasing now has $3131.863674142664
+---------------------------------------------------------------------------

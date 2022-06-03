@@ -19004,3 +19004,46 @@ Is init: True
 Profit was -0.15892336060689027%.
 Random---Twenty-four hours or ten percent now has $3281.24057609491
 ---------------------------------------------------------------------------
+[2022-06-03 19:09:01] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: MASKUSD
+Altname: MASKUSD
+Wsname: MASK/USD
+Base:
+ 	Name: MASK
+	Altname: MASK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (MASKUSD):
+	Current:                    1.723
+	Maximum:                    0.598444
+	Minimum:                    0.49554
+	Variance:                   0.171952
+	Mean:                       0.558479
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 20
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         True
+	Average local maximum:      1.780185
+	Number of local maximums:   27
+	Average local minimum:      1.784833
+	Number of local minimums:   18
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $3281.24057609491
+---------------------------------------------------------------------------
