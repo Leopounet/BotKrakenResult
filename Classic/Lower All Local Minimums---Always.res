@@ -1686,3 +1686,7 @@ Lower All Local Minimums---Always now has $3644.013291088833
 Lower All Local Minimums---Always has sold XMLN for $26.263. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3625.0644219751707
 ---------------------------------------------------------------------------
+[2022-06-03 18:09:27] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.605
+Lower All Local Minimums---Always now has $3625.0644219751707
+---------------------------------------------------------------------------
