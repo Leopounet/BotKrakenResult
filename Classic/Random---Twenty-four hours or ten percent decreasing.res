@@ -1782,3 +1782,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3115.577983037122
 Random---Twenty-four hours or ten percent decreasing has sold SGB for $0.038. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3099.376977525329
 ---------------------------------------------------------------------------
+[2022-06-03 19:20:56] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BAT for $0.37493
+Random---Twenty-four hours or ten percent decreasing now has $3099.376977525329
+---------------------------------------------------------------------------
