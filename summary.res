@@ -1,4 +1,4 @@
-[2022-06-03 03:09:25] SUMMARY
+[2022-06-03 03:12:21] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: LINKUSD
+	Altname: LINKUSD
+	Wsname: LINK/USD
+	Base:
+	 	Name: LINK
+		Altname: LINK
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.2
+	Data about this pair of assets (LINKUSD):
+		Current:                    7.13726
+		Maximum:                    0.147059
+		Minimum:                    0.129058
+		Variance:                   0.122403
+		Mean:                       0.138822
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.25
+		Is ascending:               True
+		Current ascension duration: 10
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.0
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      7.278151
+		Number of local maximums:   28
+		Average local minimum:      7.256735
+		Number of local minimums:   21
+	Is init: True
 Wins: 0
 Losses: 66
 Total points: -35.6076982650399%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ADAUSD
+	Altname: ADAUSD
+	Wsname: ADA/USD
+	Base:
+	 	Name: ADA
+		Altname: ADA
+		decimals: 8
+		displayed_decimals: 6
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2.5
+	Data about this pair of assets (ADAUSD):
+		Current:                    0.589216
+		Maximum:                    1.848268
+		Minimum:                    1.562837
+		Variance:                   0.154432
+		Mean:                       1.706123
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.652174
+		Is ascending:               True
+		Current ascension duration: 14
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.464286
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.579531
+		Number of local maximums:   23
+		Average local minimum:      0.590178
+		Number of local minimums:   28
+	Is init: True
 Wins: 4
 Losses: 62
 Total points: -29.494857024415904%
