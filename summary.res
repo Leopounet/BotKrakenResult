@@ -1,4 +1,4 @@
-[2022-06-03 13:10:33] SUMMARY
+[2022-06-03 13:13:53] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: USDCHF
-	Altname: USDCHF
-	Wsname: USD/CHF
-	Base:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Quote:
-	 	Name: CHF
-		Altname: CHF
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 5
-	Data about this pair of assets (USDCHF):
-		Current:                    0.96182
-		Maximum:                    1.045872
-		Minimum:                    1.035357
-		Variance:                   0.010053
-		Mean:                       1.040941
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.230769
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.785714
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         False
-		Average local maximum:      0.960737
-		Number of local maximums:   26
-		Average local minimum:      0.960596
-		Number of local minimums:   28
-	Is init: True
+	None
 Wins: 0
-Losses: 163
-Total points: -93.35580262460437%
-Wallet: 3917.0347264732172
+Losses: 164
+Total points: -93.66326971823935%
+Wallet: 3904.991133643057
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: RARIUSD
-	Altname: RARIUSD
-	Wsname: RARI/USD
-	Base:
-	 	Name: RARI
-		Altname: RARI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.3
-	Data about this pair of assets (RARIUSD):
-		Current:                    2.84
-		Maximum:                    0.352113
-		Minimum:                    0.288184
-		Variance:                   0.181556
-		Mean:                       0.326814
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.482759
-		Is ascending:               True
-		Current ascension duration: 15
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.625
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      3.107241
-		Number of local maximums:   29
-		Average local minimum:      3.081667
-		Number of local minimums:   24
-	Is init: True
+	None
 Wins: 6
-Losses: 157
-Total points: -81.48586187625651%
-Wallet: 4412.574489913301
+Losses: 158
+Total points: -82.0058618762565%
+Wallet: 4389.629102565751
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
