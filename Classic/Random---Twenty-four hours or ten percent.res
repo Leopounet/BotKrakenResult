@@ -566,3 +566,7 @@ Random---Twenty-four hours or ten percent now has $7288.6050686144235
 Random---Twenty-four hours or ten percent has sold AVAX for $24.15. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $7250.7043222576285
 ---------------------------------------------------------------------------
+[2022-06-03 03:41:48] BUY
+Random---Twenty-four hours or ten percent has bought GMT for $1.06
+Random---Twenty-four hours or ten percent now has $7250.7043222576285
+---------------------------------------------------------------------------

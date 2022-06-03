@@ -566,3 +566,7 @@ Random---Always now has $6850.887163508686
 Random---Always has sold ZAUD for $0.7259. Profit was -0.4%.
 Random---Always now has $6823.483614854651
 ---------------------------------------------------------------------------
+[2022-06-03 03:41:48] BUY
+Random---Always has bought SUSHI for $1.667
+Random---Always now has $6823.483614854651
+---------------------------------------------------------------------------
