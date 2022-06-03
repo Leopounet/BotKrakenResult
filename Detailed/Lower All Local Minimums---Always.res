@@ -21584,3 +21584,46 @@ Is init: True
 Profit was 0.2498229407236301%.
 Lower All Local Minimums---Always now has $3145.7851073387747
 ---------------------------------------------------------------------------
+[2022-06-03 22:07:40] BUY
+Lower All Local Minimums---Always has bought: 
+Name: RUNEUSD
+Altname: RUNEUSD
+Wsname: RUNE/USD
+Base:
+ 	Name: RUNE
+	Altname: RUNE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (RUNEUSD):
+	Current:                    2.618
+	Maximum:                    0.4
+	Minimum:                    0.338524
+	Variance:                   0.15369
+	Mean:                       0.367331
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.103448
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.9
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      2.724034
+	Number of local maximums:   29
+	Average local minimum:      2.7326
+	Number of local minimums:   30
+Is init: True
+
+Lower All Local Minimums---Always now has $3145.7851073387747
+---------------------------------------------------------------------------
