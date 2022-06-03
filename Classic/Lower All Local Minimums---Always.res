@@ -1666,3 +1666,7 @@ Lower All Local Minimums---Always now has $3676.4480480526927
 Lower All Local Minimums---Always has bought XMLN for $26.303
 Lower All Local Minimums---Always now has $3676.4480480526927
 ---------------------------------------------------------------------------
+[2022-06-03 17:54:32] SOLD
+Lower All Local Minimums---Always has sold XMLN for $26.303. Profit was -0.52%.
+Lower All Local Minimums---Always now has $3657.330518202819
+---------------------------------------------------------------------------

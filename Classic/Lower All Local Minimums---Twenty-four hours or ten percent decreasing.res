@@ -1666,3 +1666,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought XMLN for $26.303
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3676.4480480526927
 ---------------------------------------------------------------------------
+[2022-06-03 17:54:32] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold XMLN for $26.303. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3657.330518202819
+---------------------------------------------------------------------------

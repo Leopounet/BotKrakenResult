@@ -1666,3 +1666,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3339.8242455569775
 Random---Twenty-four hours or ten percent decreasing has bought MULTI for $4.637
 Random---Twenty-four hours or ten percent decreasing now has $3339.8242455569775
 ---------------------------------------------------------------------------
+[2022-06-03 17:54:32] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MULTI for $4.637. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3322.4571594800814
+---------------------------------------------------------------------------
