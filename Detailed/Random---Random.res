@@ -5588,3 +5588,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $7265.0494717146075
 ---------------------------------------------------------------------------
+[2022-06-03 06:06:21] BUY
+Random---Random has bought: 
+Name: EOSUSD
+Altname: EOSUSD
+Wsname: EOS/USD
+Base:
+ 	Name: EOS
+	Altname: EOS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (EOSUSD):
+	Current:                    1.2908
+	Maximum:                    0.802118
+	Minimum:                    0.713114
+	Variance:                   0.110961
+	Mean:                       0.765689
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.107143
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.896552
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      1.297293
+	Number of local maximums:   28
+	Average local minimum:      1.307214
+	Number of local minimums:   29
+Is init: True
+
+Random---Random now has $7265.0494717146075
+---------------------------------------------------------------------------
