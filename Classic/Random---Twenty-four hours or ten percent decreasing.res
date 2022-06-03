@@ -426,3 +426,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7692.665100753058
 Random---Twenty-four hours or ten percent decreasing has bought TRX for $0.085781
 Random---Twenty-four hours or ten percent decreasing now has $7692.665100753058
 ---------------------------------------------------------------------------
+[2022-06-03 01:58:27] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold TRX for $0.086007. Profit was -0.2565383942831141%.
+Random---Twenty-four hours or ten percent decreasing now has $7672.930461226008
+---------------------------------------------------------------------------

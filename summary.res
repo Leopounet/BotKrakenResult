@@ -1,4 +1,4 @@
-[2022-06-03 01:55:30] SUMMARY
+[2022-06-03 01:58:27] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: PLAUSD
-	Altname: PLAUSD
-	Wsname: PLA/USD
-	Base:
-	 	Name: PLA
-		Altname: PLA
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (PLAUSD):
-		Current:                    0.5651
-		Maximum:                    1.905488
-		Minimum:                    1.749169
-		Variance:                   0.082036
-		Mean:                       1.810494
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.333333
-		Is ascending:               True
-		Current ascension duration: 24
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.857143
-		Is falling:                 True
-		Current fall duration:      20
-		Trending downwards:         False
-		Average local maximum:      0.549689
-		Number of local maximums:   9
-		Average local minimum:      0.555771
-		Number of local minimums:   7
-	Is init: True
+	None
 Wins: 0
-Losses: 53
-Total points: -28.842785658670422%
-Wallet: 7488.177008820435
+Losses: 54
+Total points: -29.362785658670422%
+Wallet: 7449.238488374569
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: OXYUSD
-	Altname: OXYUSD
-	Wsname: OXY/USD
-	Base:
-	 	Name: OXY
-		Altname: OXY
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 50
-	Data about this pair of assets (OXYUSD):
-		Current:                    0.0885
-		Maximum:                    11.547344
-		Minimum:                    9.920635
-		Variance:                   0.140873
-		Mean:                       11.062445
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.571429
-		Is ascending:               True
-		Current ascension duration: 155
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.5
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         True
-		Average local maximum:      0.0905
-		Number of local maximums:   21
-		Average local minimum:      0.091722
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 2
-Losses: 38
-Total points: -20.08145846335677%
-Wallet: 8175.761849104348
+Losses: 39
+Total points: -20.60145846335677%
+Wallet: 8133.247887489005
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
