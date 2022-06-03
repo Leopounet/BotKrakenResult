@@ -1178,3 +1178,7 @@ Random---Random now has $4171.405180378038
 Random---Random has bought XREP for $9.66
 Random---Random now has $4171.405180378038
 ---------------------------------------------------------------------------
+[2022-06-03 19:23:55] SOLD
+Random---Random has sold XREP for $9.66. Profit was -0.52%.
+Random---Random now has $4149.713873440071
+---------------------------------------------------------------------------
