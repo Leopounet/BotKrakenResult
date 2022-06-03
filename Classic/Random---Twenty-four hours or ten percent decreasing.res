@@ -482,3 +482,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7445.596275822779
 Random---Twenty-four hours or ten percent decreasing has bought ATOM for $9.6478
 Random---Twenty-four hours or ten percent decreasing now has $7445.596275822779
 ---------------------------------------------------------------------------
+[2022-06-03 02:39:56] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ATOM for $9.6478. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $7406.8791751885
+---------------------------------------------------------------------------

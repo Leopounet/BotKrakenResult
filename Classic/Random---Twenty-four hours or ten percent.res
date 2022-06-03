@@ -482,3 +482,7 @@ Random---Twenty-four hours or ten percent now has $7688.214380297213
 Random---Twenty-four hours or ten percent has bought IMX for $0.968
 Random---Twenty-four hours or ten percent now has $7688.214380297213
 ---------------------------------------------------------------------------
+[2022-06-03 02:39:56] SOLD
+Random---Twenty-four hours or ten percent has sold IMX for $0.968. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $7648.235665519668
+---------------------------------------------------------------------------

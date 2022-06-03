@@ -1,4 +1,4 @@
-[2022-06-03 02:37:00] SUMMARY
+[2022-06-03 02:39:56] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: FETUSD
-	Altname: FETUSD
-	Wsname: FET/USD
-	Base:
-	 	Name: FET
-		Altname: FET
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 20
-	Data about this pair of assets (FETUSD):
-		Current:                    0.163
-		Maximum:                    6.640106
-		Minimum:                    5.780347
-		Variance:                   0.12948
-		Mean:                       6.211612
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.0
-		Is ascending:               True
-		Current ascension duration: 10
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.25
-		Is falling:                 True
-		Current fall duration:      16
-		Trending downwards:         True
-		Average local maximum:      0.160119
-		Number of local maximums:   21
-		Average local minimum:      0.161479
-		Number of local minimums:   28
-	Is init: True
+	None
 Wins: 0
-Losses: 60
-Total points: -32.4794504322186%
-Wallet: 7220.054870926155
+Losses: 61
+Total points: -32.9994504322186%
+Wallet: 7182.510585597339
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: IMXUSD
-	Altname: IMXUSD
-	Wsname: IMX/USD
-	Base:
-	 	Name: IMX
-		Altname: IMX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2
-	Data about this pair of assets (IMXUSD):
-		Current:                    0.968
-		Maximum:                    1.098901
-		Minimum:                    0.888099
-		Variance:                   0.191829
-		Mean:                       0.990769
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.3
-		Is ascending:               True
-		Current ascension duration: 7
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.913043
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.003133
-		Number of local maximums:   30
-		Average local minimum:      1.009478
-		Number of local minimums:   23
-	Is init: True
+	None
 Wins: 4
-Losses: 56
-Total points: -26.168245454167977%
-Wallet: 7688.214380297213
+Losses: 57
+Total points: -26.688245454167976%
+Wallet: 7648.235665519668
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
