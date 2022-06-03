@@ -20337,3 +20337,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $2884.8268272386686
 ---------------------------------------------------------------------------
+[2022-06-03 20:41:17] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: LSKUSD
+Altname: LSKUSD
+Wsname: LSK/USD
+Base:
+ 	Name: LSK
+	Altname: LSK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (LSKUSD):
+	Current:                    1.31123
+	Maximum:                    0.796339
+	Minimum:                    0.721279
+	Variance:                   0.094257
+	Mean:                       0.759117
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.142857
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.863636
+	Is falling:                 True
+	Current fall duration:      22
+	Trending downwards:         True
+	Average local maximum:      1.318622
+	Number of local maximums:   21
+	Average local minimum:      1.313597
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2869.8257277370276
+---------------------------------------------------------------------------

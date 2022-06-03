@@ -6,3 +6,7 @@ Lower All Local Minimums---Twenty-four hours now has $10000
 Lower All Local Minimums---Twenty-four hours has sold BNC for $0.352. Profit was 1.2141040462427681%.
 Lower All Local Minimums---Twenty-four hours now has $10121.410404624277
 ---------------------------------------------------------------------------
+[2022-06-03 20:41:17] BUY
+Lower All Local Minimums---Twenty-four hours has bought ACA for $0.362
+Lower All Local Minimums---Twenty-four hours now has $10121.410404624277
+---------------------------------------------------------------------------
