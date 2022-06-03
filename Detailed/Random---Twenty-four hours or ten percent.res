@@ -14360,3 +14360,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4321.506358061557
 ---------------------------------------------------------------------------
+[2022-06-03 13:36:09] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: ENSUSD
+Altname: ENSUSD
+Wsname: ENS/USD
+Base:
+ 	Name: ENS
+	Altname: ENS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (ENSUSD):
+	Current:                    10.65
+	Maximum:                    0.096805
+	Minimum:                    0.08244
+	Variance:                   0.148392
+	Mean:                       0.09049
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.352941
+	Is ascending:               True
+	Current ascension duration: 22
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.684211
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      11.229412
+	Number of local maximums:   17
+	Average local minimum:      11.214211
+	Number of local minimums:   19
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $4321.506358061557
+---------------------------------------------------------------------------

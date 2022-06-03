@@ -1,4 +1,4 @@
-[2022-06-03 13:33:04] SUMMARY
+[2022-06-03 13:36:09] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: IDEXUSD
+	Altname: IDEXUSD
+	Wsname: IDEX/USD
+	Base:
+	 	Name: IDEX
+		Altname: IDEX
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 50
+	Data about this pair of assets (IDEXUSD):
+		Current:                    0.07725
+		Maximum:                    15.681355
+		Minimum:                    11.906179
+		Variance:                   0.240743
+		Mean:                       13.135265
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.6
+		Is ascending:               True
+		Current ascension duration: 105
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.5
+		Is falling:                 True
+		Current fall duration:      191
+		Trending downwards:         True
+		Average local maximum:      0.076691
+		Number of local maximums:   10
+		Average local minimum:      0.078902
+		Number of local minimums:   12
+	Is init: True
 Wins: 0
 Losses: 167
 Total points: -95.22326971823934%

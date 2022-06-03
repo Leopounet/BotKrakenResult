@@ -1334,3 +1334,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4163.782094393498
 Random---Twenty-four hours or ten percent decreasing has sold GARI for $0.6065. Profit was -1.5319144769054955%.
 Random---Twenty-four hours or ten percent decreasing now has $4099.996513702685
 ---------------------------------------------------------------------------
+[2022-06-03 13:36:09] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LSK for $1.28871
+Random---Twenty-four hours or ten percent decreasing now has $4099.996513702685
+---------------------------------------------------------------------------
