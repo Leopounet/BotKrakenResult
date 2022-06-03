@@ -974,3 +974,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5422.803417478823
 Random---Twenty-four hours or ten percent decreasing has sold GALA for $0.0734. Profit was -1.3308108108107914%.
 Random---Twenty-four hours or ten percent decreasing now has $5350.636163349997
 ---------------------------------------------------------------------------
+[2022-06-03 08:49:28] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SHIB for $1.101e-05
+Random---Twenty-four hours or ten percent decreasing now has $5350.636163349997
+---------------------------------------------------------------------------

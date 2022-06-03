@@ -974,3 +974,7 @@ Random---Twenty-four hours or ten percent now has $5476.05841265719
 Random---Twenty-four hours or ten percent has sold QTUM for $3.91483. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5447.582908911373
 ---------------------------------------------------------------------------
+[2022-06-03 08:49:28] BUY
+Random---Twenty-four hours or ten percent has bought XXRP for $0.4014
+Random---Twenty-four hours or ten percent now has $5447.582908911373
+---------------------------------------------------------------------------
