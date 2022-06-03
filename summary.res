@@ -1,4 +1,4 @@
-[2022-06-03 01:49:35] SUMMARY
+[2022-06-03 01:52:32] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MIRUSD
-	Altname: MIRUSD
-	Wsname: MIR/USD
-	Base:
-	 	Name: MIR
-		Altname: MIR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (MIRUSD):
-		Current:                    0.288
-		Maximum:                    3.816794
-		Minimum:                    3.10559
-		Variance:                   0.186335
-		Mean:                       3.520451
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.111111
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.263158
-		Is falling:                 True
-		Current fall duration:      12
-		Trending downwards:         False
-		Average local maximum:      0.28663
-		Number of local maximums:   27
-		Average local minimum:      0.285579
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 0
-Losses: 52
-Total points: -28.322785658670423%
-Wallet: 7527.319067973899
+Losses: 53
+Total points: -28.842785658670422%
+Wallet: 7488.177008820435
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: OXYUSD
+	Altname: OXYUSD
+	Wsname: OXY/USD
+	Base:
+	 	Name: OXY
+		Altname: OXY
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 50
+	Data about this pair of assets (OXYUSD):
+		Current:                    0.0885
+		Maximum:                    11.547344
+		Minimum:                    9.920635
+		Variance:                   0.140873
+		Mean:                       11.062445
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.571429
+		Is ascending:               True
+		Current ascension duration: 155
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.5
+		Is falling:                 True
+		Current fall duration:      8
+		Trending downwards:         True
+		Average local maximum:      0.0905
+		Number of local maximums:   21
+		Average local minimum:      0.091722
+		Number of local minimums:   18
+	Is init: True
 Wins: 2
 Losses: 38
 Total points: -20.08145846335677%
