@@ -542,3 +542,7 @@ Lower All Local Minimums---Always now has $7541.802756637603
 Lower All Local Minimums---Always has sold 1INCH for $0.91. Profit was -0.52%.
 Lower All Local Minimums---Always now has $7502.5853823030875
 ---------------------------------------------------------------------------
+[2022-06-03 03:24:06] BUY
+Lower All Local Minimums---Always has bought ZUSD for $0.95738
+Lower All Local Minimums---Always now has $7502.5853823030875
+---------------------------------------------------------------------------

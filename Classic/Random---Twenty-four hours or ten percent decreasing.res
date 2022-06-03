@@ -542,3 +542,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7187.577545927713
 Random---Twenty-four hours or ten percent decreasing has sold YGG for $0.629. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7150.202142688889
 ---------------------------------------------------------------------------
+[2022-06-03 03:24:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZGBP for $1.25737
+Random---Twenty-four hours or ten percent decreasing now has $7150.202142688889
+---------------------------------------------------------------------------

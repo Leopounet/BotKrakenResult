@@ -542,3 +542,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold 1INCH for $0.91. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $7502.5853823030875
 ---------------------------------------------------------------------------
+[2022-06-03 03:24:06] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought ZUSD for $0.95738
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $7502.5853823030875
+---------------------------------------------------------------------------

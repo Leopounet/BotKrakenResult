@@ -398,3 +398,7 @@ Random---Random now has $7789.4955850780825
 Random---Random has sold ZRX for $0.412. Profit was -0.52%.
 Random---Random now has $7748.990208035677
 ---------------------------------------------------------------------------
+[2022-06-03 03:24:06] BUY
+Random---Random has bought PSTAKE for $0.241
+Random---Random now has $7748.990208035677
+---------------------------------------------------------------------------

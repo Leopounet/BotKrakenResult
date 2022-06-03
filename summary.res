@@ -1,4 +1,4 @@
-[2022-06-03 03:21:09] SUMMARY
+[2022-06-03 03:24:06] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: FTMUSD
+	Altname: FTMUSD
+	Wsname: FTM/USD
+	Base:
+	 	Name: FTM
+		Altname: FTM
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2
+	Data about this pair of assets (FTMUSD):
+		Current:                    0.375
+		Maximum:                    3.333333
+		Minimum:                    2.597403
+		Variance:                   0.220779
+		Mean:                       2.657621
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      0.37825
+		Number of local maximums:   12
+		Average local minimum:      0.37775
+		Number of local minimums:   12
+	Is init: True
 Wins: 0
 Losses: 68
 Total points: -36.64769826503991%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: AUDIOUSD
+	Altname: AUDIOUSD
+	Wsname: AUDIO/USD
+	Base:
+	 	Name: AUDIO
+		Altname: AUDIO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (AUDIOUSD):
+		Current:                    0.4166
+		Maximum:                    2.547771
+		Minimum:                    2.036245
+		Variance:                   0.200774
+		Mean:                       2.348001
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               True
+		Current ascension duration: 48
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 True
+		Current fall duration:      17
+		Trending downwards:         False
+		Average local maximum:      0.423986
+		Number of local maximums:   21
+		Average local minimum:      0.426429
+		Number of local minimums:   21
+	Is init: True
 Wins: 4
 Losses: 64
 Total points: -30.431594671102786%
