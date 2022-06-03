@@ -1,4 +1,4 @@
-[2022-06-03 04:31:59] SUMMARY
+[2022-06-03 04:34:56] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: POWRUSD
+	Altname: POWRUSD
+	Wsname: POWR/USD
+	Base:
+	 	Name: POWR
+		Altname: POWR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 10
+	Data about this pair of assets (POWRUSD):
+		Current:                    0.2966
+		Maximum:                    3.684598
+		Minimum:                    3.171583
+		Variance:                   0.139232
+		Mean:                       3.511613
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.352941
+		Is ascending:               True
+		Current ascension duration: 62
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.684211
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      0.284618
+		Number of local maximums:   17
+		Average local minimum:      0.2855
+		Number of local minimums:   19
+	Is init: True
 Wins: 0
 Losses: 80
 Total points: -42.68105912409382%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: STEPUSD
+	Altname: STEPUSD
+	Wsname: STEP/USD
+	Base:
+	 	Name: STEP
+		Altname: STEP
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 15
+	Data about this pair of assets (STEPUSD):
+		Current:                    0.0981
+		Maximum:                    11.792453
+		Minimum:                    10.01001
+		Variance:                   0.151151
+		Mean:                       10.751513
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.875
+		Is ascending:               True
+		Current ascension duration: 4
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.8
+		Is falling:                 True
+		Current fall duration:      7
+		Trending downwards:         False
+		Average local maximum:      0.093209
+		Number of local maximums:   32
+		Average local minimum:      0.095325
+		Number of local minimums:   20
+	Is init: True
 Wins: 4
 Losses: 76
 Total points: -36.73999143817905%
