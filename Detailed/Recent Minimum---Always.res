@@ -13801,3 +13801,46 @@ Is init: True
 
 Recent Minimum---Always now has $4439.3123179917675
 ---------------------------------------------------------------------------
+[2022-06-03 12:54:05] SOLD
+Recent Minimum---Always has sold: 
+Name: ACAUSD
+Altname: ACAUSD
+Wsname: ACA/USD
+Base:
+ 	Name: ACA
+	Altname: ACA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (ACAUSD):
+	Current:                    0.362
+	Maximum:                    2.941176
+	Minimum:                    2.309469
+	Variance:                   0.214781
+	Mean:                       2.540241
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.88
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.125
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.39264
+	Number of local maximums:   25
+	Average local minimum:      0.394167
+	Number of local minimums:   24
+Is init: True
+Profit was -0.24375690607735434%.
+Recent Minimum---Always now has $4428.491187634319
+---------------------------------------------------------------------------

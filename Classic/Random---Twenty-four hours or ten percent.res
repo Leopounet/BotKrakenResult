@@ -1282,3 +1282,7 @@ Random---Twenty-four hours or ten percent now has $4472.7240128243275
 Random---Twenty-four hours or ten percent has bought KNC for $1.88
 Random---Twenty-four hours or ten percent now has $4472.7240128243275
 ---------------------------------------------------------------------------
+[2022-06-03 12:54:05] SOLD
+Random---Twenty-four hours or ten percent has sold KNC for $1.8747. Profit was -0.8019148936170191%.
+Random---Twenty-four hours or ten percent now has $4436.856572815104
+---------------------------------------------------------------------------
