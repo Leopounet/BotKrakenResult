@@ -326,3 +326,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8198.657001914862
 Random---Twenty-four hours or ten percent decreasing has sold KIN for $1.459e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8156.023985504905
 ---------------------------------------------------------------------------
+[2022-06-03 00:44:45] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CVC for $0.1819
+Random---Twenty-four hours or ten percent decreasing now has $8156.023985504905
+---------------------------------------------------------------------------

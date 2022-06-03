@@ -326,3 +326,7 @@ Random---Twenty-four hours or ten percent now has $8454.134993167765
 Random---Twenty-four hours or ten percent has sold SNX for $2.954. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8410.173491203293
 ---------------------------------------------------------------------------
+[2022-06-03 00:44:45] BUY
+Random---Twenty-four hours or ten percent has bought MOVR for $21.5492
+Random---Twenty-four hours or ten percent now has $8410.173491203293
+---------------------------------------------------------------------------

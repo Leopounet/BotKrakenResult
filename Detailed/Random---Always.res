@@ -3524,3 +3524,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $7964.881437252065
 ---------------------------------------------------------------------------
+[2022-06-03 00:44:45] BUY
+Random---Always has bought: 
+Name: BNTUSD
+Altname: BNTUSD
+Wsname: BNT/USD
+Base:
+ 	Name: BNT
+	Altname: BNT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (BNTUSD):
+	Current:                    1.258
+	Maximum:                    0.811688
+	Minimum:                    0.726216
+	Variance:                   0.105301
+	Mean:                       0.775988
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.857143
+	Is ascending:               True
+	Current ascension duration: 24
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.15
+	Is falling:                 True
+	Current fall duration:      38
+	Trending downwards:         True
+	Average local maximum:      1.302
+	Number of local maximums:   21
+	Average local minimum:      1.3006
+	Number of local minimums:   20
+Is init: True
+
+Random---Always now has $7964.881437252065
+---------------------------------------------------------------------------
