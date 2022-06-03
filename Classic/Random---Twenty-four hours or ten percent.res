@@ -438,3 +438,7 @@ Random---Twenty-four hours or ten percent now has $7869.754531799285
 Random---Twenty-four hours or ten percent has sold TRX for $0.085896. Profit was -0.6792412213917927%.
 Random---Twenty-four hours or ten percent now has $7816.2999149969555
 ---------------------------------------------------------------------------
+[2022-06-03 02:07:17] BUY
+Random---Twenty-four hours or ten percent has bought KSM for $73.1
+Random---Twenty-four hours or ten percent now has $7816.2999149969555
+---------------------------------------------------------------------------

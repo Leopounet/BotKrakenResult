@@ -1,4 +1,4 @@
-[2022-06-03 02:04:20] SUMMARY
+[2022-06-03 02:07:17] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: AUDUSD
+	Altname: AUDUSD
+	Wsname: AUD/USD
+	Base:
+	 	Name: ZAUD
+		Altname: AUD
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 10
+	Data about this pair of assets (AUDUSD):
+		Current:                    0.72556
+		Maximum:                    1.396609
+		Minimum:                    1.37493
+		Variance:                   0.015523
+		Mean:                       1.389789
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.84
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.34375
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      0.719956
+		Number of local maximums:   25
+		Average local minimum:      0.720212
+		Number of local minimums:   32
+	Is init: True
 Wins: 0
 Losses: 55
 Total points: -29.88278565867042%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GNOUSD
-	Altname: GNOUSD
-	Wsname: GNO/USD
-	Base:
-	 	Name: GNO
-		Altname: GNO
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.01
-	Data about this pair of assets (GNOUSD):
-		Current:                    193.68
-		Maximum:                    0.005311
-		Minimum:                    0.004823
-		Variance:                   0.091917
-		Mean:                       0.005078
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.142857
-		Is ascending:               True
-		Current ascension duration: 40
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.2
-		Is falling:                 True
-		Current fall duration:      42
-		Trending downwards:         True
-		Average local maximum:      198.102857
-		Number of local maximums:   28
-		Average local minimum:      199.163
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 2
-Losses: 39
-Total points: -20.60145846335677%
-Wallet: 8133.247887489005
+Losses: 40
+Total points: -21.12145846335677%
+Wallet: 8090.954998474062
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
