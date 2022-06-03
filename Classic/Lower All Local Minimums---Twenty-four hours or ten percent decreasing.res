@@ -1778,3 +1778,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought RUNE for $2.608
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3393.959177743363
 ---------------------------------------------------------------------------
+[2022-06-03 19:17:57] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold RUNE for $2.607. Profit was -0.5583435582822056%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3375.009225303705
+---------------------------------------------------------------------------
