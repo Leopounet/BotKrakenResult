@@ -954,3 +954,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5479.643540741189
 Random---Twenty-four hours or ten percent decreasing has bought MNGO for $0.055
 Random---Twenty-four hours or ten percent decreasing now has $5479.643540741189
 ---------------------------------------------------------------------------
+[2022-06-03 08:33:38] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MNGO for $0.055. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $5451.149394329335
+---------------------------------------------------------------------------
