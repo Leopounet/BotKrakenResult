@@ -642,3 +642,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6737.52168820494
 Random---Twenty-four hours or ten percent decreasing has bought LSK for $1.353592
 Random---Twenty-four hours or ten percent decreasing now has $6737.52168820494
 ---------------------------------------------------------------------------
+[2022-06-03 04:37:52] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold LSK for $1.353592. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6702.486575426275
+---------------------------------------------------------------------------

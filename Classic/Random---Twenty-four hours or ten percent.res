@@ -642,3 +642,7 @@ Random---Twenty-four hours or ten percent now has $6914.965255955101
 Random---Twenty-four hours or ten percent has bought STEP for $0.0981
 Random---Twenty-four hours or ten percent now has $6914.965255955101
 ---------------------------------------------------------------------------
+[2022-06-03 04:37:52] SOLD
+Random---Twenty-four hours or ten percent has sold STEP for $0.0981. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $6879.007436624135
+---------------------------------------------------------------------------
