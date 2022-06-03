@@ -19649,3 +19649,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $3163.650574577732
 ---------------------------------------------------------------------------
+[2022-06-03 19:53:41] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: ASTRUSD
+Altname: ASTRUSD
+Wsname: ASTR/USD
+Base:
+ 	Name: ASTR
+	Altname: ASTR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 100
+Data about this pair of assets (ASTRUSD):
+	Current:                    0.0589
+	Maximum:                    17.482517
+	Minimum:                    14.084507
+	Variance:                   0.194366
+	Mean:                       16.325903
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.214286
+	Is ascending:               True
+	Current ascension duration: 11
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.8
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.061104
+	Number of local maximums:   28
+	Average local minimum:      0.061217
+	Number of local minimums:   30
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3147.199591589928
+---------------------------------------------------------------------------
