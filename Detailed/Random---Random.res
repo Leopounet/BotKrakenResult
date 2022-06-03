@@ -10232,3 +10232,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $4939.675257265977
 ---------------------------------------------------------------------------
+[2022-06-03 14:40:46] BUY
+Random---Random has bought: 
+Name: KP3RUSD
+Altname: KP3RUSD
+Wsname: KP3R/USD
+Base:
+ 	Name: KP3R
+	Altname: KP3R
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.025
+Data about this pair of assets (KP3RUSD):
+	Current:                    128.9
+	Maximum:                    0.007937
+	Minimum:                    0.007032
+	Variance:                   0.113924
+	Mean:                       0.007488
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.4
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.045455
+	Is falling:                 True
+	Current fall duration:      17
+	Trending downwards:         True
+	Average local maximum:      133.253333
+	Number of local maximums:   15
+	Average local minimum:      132.177273
+	Number of local minimums:   22
+Is init: True
+
+Random---Random now has $4939.675257265977
+---------------------------------------------------------------------------

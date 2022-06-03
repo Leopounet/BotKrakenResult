@@ -15220,3 +15220,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $3649.094815509668
 ---------------------------------------------------------------------------
+[2022-06-03 14:40:46] BUY
+Random---Always has bought: 
+Name: YFIUSD
+Altname: YFIUSD
+Wsname: YFI/USD
+Base:
+ 	Name: YFI
+	Altname: YFI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.00015
+Data about this pair of assets (YFIUSD):
+	Current:                    7265.0
+	Maximum:                    0.000139
+	Minimum:                    0.000123
+	Variance:                   0.11973
+	Mean:                       0.000132
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.678571
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.36
+	Is falling:                 True
+	Current fall duration:      26
+	Trending downwards:         True
+	Average local maximum:      7628.642857
+	Number of local maximums:   28
+	Average local minimum:      7602.96
+	Number of local minimums:   25
+Is init: True
+
+Random---Always now has $3649.094815509668
+---------------------------------------------------------------------------

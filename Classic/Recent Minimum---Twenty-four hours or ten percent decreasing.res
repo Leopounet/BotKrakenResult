@@ -1414,3 +1414,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $4095.36329
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold 1INCH for $0.864. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $4074.067407713326
 ---------------------------------------------------------------------------
+[2022-06-03 14:40:46] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought 1INCH for $0.865
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $4074.067407713326
+---------------------------------------------------------------------------

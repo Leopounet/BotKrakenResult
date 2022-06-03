@@ -1414,3 +1414,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3912.8366487379576
 Random---Twenty-four hours or ten percent decreasing has sold API3 for $1.512. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3892.48989816452
 ---------------------------------------------------------------------------
+[2022-06-03 14:40:46] BUY
+Random---Twenty-four hours or ten percent decreasing has bought T for $0.0514
+Random---Twenty-four hours or ten percent decreasing now has $3892.48989816452
+---------------------------------------------------------------------------
