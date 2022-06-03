@@ -22444,3 +22444,46 @@ Is init: True
 Profit was -0.392997549142193%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2985.698661494132
 ---------------------------------------------------------------------------
+[2022-06-03 23:08:48] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought: 
+Name: CVXUSD
+Altname: CVXUSD
+Wsname: CVX/USD
+Base:
+ 	Name: CVX
+	Altname: CVX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (CVXUSD):
+	Current:                    8.32
+	Maximum:                    0.121065
+	Minimum:                    0.097943
+	Variance:                   0.190989
+	Mean:                       0.111423
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.516129
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.576923
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      9.12
+	Number of local maximums:   31
+	Average local minimum:      8.983077
+	Number of local minimums:   26
+Is init: True
+
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2985.698661494132
+---------------------------------------------------------------------------

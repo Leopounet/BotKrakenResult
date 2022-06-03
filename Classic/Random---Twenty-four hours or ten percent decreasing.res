@@ -2086,3 +2086,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2590.554048117334
 Random---Twenty-four hours or ten percent decreasing has sold MANA for $0.97752. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2577.0831670671237
 ---------------------------------------------------------------------------
+[2022-06-03 23:08:48] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XREP for $9.834
+Random---Twenty-four hours or ten percent decreasing now has $2577.0831670671237
+---------------------------------------------------------------------------

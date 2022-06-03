@@ -2086,3 +2086,7 @@ Random---Twenty-four hours or ten percent now has $2727.389990943358
 Random---Twenty-four hours or ten percent has sold CHZ for $0.1214. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2713.2075629904525
 ---------------------------------------------------------------------------
+[2022-06-03 23:08:48] BUY
+Random---Twenty-four hours or ten percent has bought RARE for $0.2496
+Random---Twenty-four hours or ten percent now has $2713.2075629904525
+---------------------------------------------------------------------------

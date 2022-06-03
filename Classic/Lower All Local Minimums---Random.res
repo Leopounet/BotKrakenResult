@@ -1390,3 +1390,7 @@ Lower All Local Minimums---Random now has $4327.68395716114
 Lower All Local Minimums---Random has sold DAI for $0.99972. Profit was -0.392997549142193%.
 Lower All Local Minimums---Random now has $4310.676265274877
 ---------------------------------------------------------------------------
+[2022-06-03 23:08:48] BUY
+Lower All Local Minimums---Random has bought CVX for $8.32
+Lower All Local Minimums---Random now has $4310.676265274877
+---------------------------------------------------------------------------

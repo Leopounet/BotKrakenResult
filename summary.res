@@ -1,4 +1,4 @@
-[2022-06-03 23:05:51] SUMMARY
+[2022-06-03 23:08:48] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,26 +8,63 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.866
+		Maximum:                    1.166861
+		Minimum:                    1.01626
+		Variance:                   0.129065
+		Mean:                       1.093505
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.029412
+		Is ascending:               True
+		Current ascension duration: 13
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.434783
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         True
+		Average local maximum:      0.916059
+		Number of local maximums:   34
+		Average local minimum:      0.919261
+		Number of local minimums:   23
+	Is init: True
 Wins: 1
 Losses: 260
 Total points: -137.27409509306494%
 Wallet: 2524.2227842136995
 ---------------------------------------------------------------------------
 Most wins: 
-Name: Random---Twenty-four hours or ten percent
-BuyStrategy description: Random.
-SellStrategy description: Sells when the profit is 10% or it has been 24h.
+Name: Variance---Random
+BuyStrategy description: Looks for the asset which has the highest Variance.
+SellStrategy description: Random.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
 	None
-Wins: 9
-Losses: 252
-Total points: -129.98014264422108%
-Wallet: 2713.2075629904525
+Wins: 10
+Losses: 167
+Total points: -56.82541620951806%
+Wallet: 5256.754523985434
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
