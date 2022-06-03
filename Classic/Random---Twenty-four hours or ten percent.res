@@ -1970,3 +1970,7 @@ Random---Twenty-four hours or ten percent now has $2927.25732759444
 Random---Twenty-four hours or ten percent has bought MKR for $1146.0
 Random---Twenty-four hours or ten percent now has $2927.25732759444
 ---------------------------------------------------------------------------
+[2022-06-03 21:40:51] SOLD
+Random---Twenty-four hours or ten percent has sold MKR for $1146.0. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2912.035589490949
+---------------------------------------------------------------------------

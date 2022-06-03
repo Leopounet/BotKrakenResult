@@ -1,4 +1,4 @@
-[2022-06-03 21:37:54] SUMMARY
+[2022-06-03 21:40:51] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.869
-		Maximum:                    1.166861
-		Minimum:                    1.009082
-		Variance:                   0.135217
-		Mean:                       1.09017
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.941176
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.636364
-		Is falling:                 True
-		Current fall duration:      19
-		Trending downwards:         True
-		Average local maximum:      0.916059
-		Number of local maximums:   34
-		Average local minimum:      0.921364
-		Number of local minimums:   22
-	Is init: True
+	None
 Wins: 1
-Losses: 245
-Total points: -129.9343942875412%
-Wallet: 2716.9782688258047
+Losses: 246
+Total points: -130.45439428754122%
+Wallet: 2702.8499818279106
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MKRUSD
-	Altname: MKRUSD
-	Wsname: MKR/USD
-	Base:
-	 	Name: MKR
-		Altname: MKR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.002
-	Data about this pair of assets (MKRUSD):
-		Current:                    1146.0
-		Maximum:                    0.000889
-		Minimum:                    0.000755
-		Variance:                   0.150204
-		Mean:                       0.000837
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.375
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.789474
-		Is falling:                 True
-		Current fall duration:      81
-		Trending downwards:         True
-		Average local maximum:      1217.425
-		Number of local maximums:   24
-		Average local minimum:      1203.573684
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 9
-Losses: 237
-Total points: -122.40717612838633%
-Wallet: 2927.25732759444
+Losses: 238
+Total points: -122.92717612838632%
+Wallet: 2912.035589490949
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
