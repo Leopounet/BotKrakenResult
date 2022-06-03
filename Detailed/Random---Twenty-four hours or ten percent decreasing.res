@@ -8426,3 +8426,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6123.531001922689
 ---------------------------------------------------------------------------
+[2022-06-03 06:21:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: FETUSD
+Altname: FETUSD
+Wsname: FET/USD
+Base:
+ 	Name: FET
+	Altname: FET
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 20
+Data about this pair of assets (FETUSD):
+	Current:                    0.1636
+	Maximum:                    6.640106
+	Minimum:                    5.780347
+	Variance:                   0.12948
+	Mean:                       6.225517
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.75
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.4
+	Is falling:                 True
+	Current fall duration:      16
+	Trending downwards:         True
+	Average local maximum:      0.15965
+	Number of local maximums:   20
+	Average local minimum:      0.160712
+	Number of local minimums:   25
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $6123.531001922689
+---------------------------------------------------------------------------

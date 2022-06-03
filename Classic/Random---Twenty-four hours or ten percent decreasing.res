@@ -782,3 +782,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6155.53980892912
 Random---Twenty-four hours or ten percent decreasing has sold KEEP for $0.25203. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6123.531001922689
 ---------------------------------------------------------------------------
+[2022-06-03 06:21:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FET for $0.1636
+Random---Twenty-four hours or ten percent decreasing now has $6123.531001922689
+---------------------------------------------------------------------------

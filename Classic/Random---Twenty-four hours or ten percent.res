@@ -782,3 +782,7 @@ Random---Twenty-four hours or ten percent now has $6393.722436966339
 Random---Twenty-four hours or ten percent has sold JASMY for $0.01172. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6360.475080294114
 ---------------------------------------------------------------------------
+[2022-06-03 06:21:06] BUY
+Random---Twenty-four hours or ten percent has bought UST for $0.02102
+Random---Twenty-four hours or ten percent now has $6360.475080294114
+---------------------------------------------------------------------------
