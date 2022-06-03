@@ -20165,3 +20165,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $3083.297104983392
 ---------------------------------------------------------------------------
+[2022-06-03 20:29:23] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: BNTUSD
+Altname: BNTUSD
+Wsname: BNT/USD
+Base:
+ 	Name: BNT
+	Altname: BNT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (BNTUSD):
+	Current:                    1.194
+	Maximum:                    0.837521
+	Minimum:                    0.743494
+	Variance:                   0.112268
+	Mean:                       0.798456
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.428571
+	Is ascending:               True
+	Current ascension duration: 19
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.705882
+	Is falling:                 True
+	Current fall duration:      16
+	Trending downwards:         True
+	Average local maximum:      1.249429
+	Number of local maximums:   21
+	Average local minimum:      1.261118
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $3067.2639600374782
+---------------------------------------------------------------------------
