@@ -1982,3 +1982,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2753.7160603462094
 Random---Twenty-four hours or ten percent decreasing has sold XZEC for $90.03. Profit was -0.219197860962574%.
 Random---Twenty-four hours or ten percent decreasing now has $2747.6799736449475
 ---------------------------------------------------------------------------
+[2022-06-03 21:49:45] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XMLN for $26.773
+Random---Twenty-four hours or ten percent decreasing now has $2747.6799736449475
+---------------------------------------------------------------------------

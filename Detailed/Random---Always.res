@@ -21326,3 +21326,46 @@ Is init: True
 Profit was -1.729243353783227%.
 Random---Always now has $2329.817671643756
 ---------------------------------------------------------------------------
+[2022-06-03 21:49:45] BUY
+Random---Always has bought: 
+Name: RADUSD
+Altname: RADUSD
+Wsname: RAD/USD
+Base:
+ 	Name: RAD
+	Altname: RAD
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (RADUSD):
+	Current:                    2.075
+	Maximum:                    0.502765
+	Minimum:                    0.431965
+	Variance:                   0.140821
+	Mean:                       0.4824
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.6
+	Is ascending:               True
+	Current ascension duration: 33
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.461538
+	Is falling:                 True
+	Current fall duration:      34
+	Trending downwards:         True
+	Average local maximum:      2.102333
+	Number of local maximums:   15
+	Average local minimum:      2.120769
+	Number of local minimums:   13
+Is init: True
+
+Random---Always now has $2329.817671643756
+---------------------------------------------------------------------------
