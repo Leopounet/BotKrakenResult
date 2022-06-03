@@ -15134,3 +15134,46 @@ Is init: True
 Profit was -1.1757377049180358%.
 Random---Twenty-four hours or ten percent now has $4154.992998695987
 ---------------------------------------------------------------------------
+[2022-06-03 14:34:28] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: ANTUSD
+Altname: ANTUSD
+Wsname: ANT/USD
+Base:
+ 	Name: ANT
+	Altname: ANT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (ANTUSD):
+	Current:                    1.8
+	Maximum:                    0.563857
+	Minimum:                    0.468274
+	Variance:                   0.169515
+	Mean:                       0.523684
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.214286
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.8
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.905654
+	Number of local maximums:   28
+	Average local minimum:      1.870223
+	Number of local minimums:   30
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $4154.992998695987
+---------------------------------------------------------------------------

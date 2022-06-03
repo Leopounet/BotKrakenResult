@@ -1406,3 +1406,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3936.087080062202
 Random---Twenty-four hours or ten percent decreasing has sold XXBT for $29541.0. Profit was -0.590699109326533%.
 Random---Twenty-four hours or ten percent decreasing now has $3912.8366487379576
 ---------------------------------------------------------------------------
+[2022-06-03 14:34:28] BUY
+Random---Twenty-four hours or ten percent decreasing has bought API3 for $1.512
+Random---Twenty-four hours or ten percent decreasing now has $3912.8366487379576
+---------------------------------------------------------------------------
