@@ -654,3 +654,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6702.486575426275
 Random---Twenty-four hours or ten percent decreasing has sold SUSHI for $1.651. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6667.633645234058
 ---------------------------------------------------------------------------
+[2022-06-03 04:46:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ANKR for $0.03904
+Random---Twenty-four hours or ten percent decreasing now has $6667.633645234058
+---------------------------------------------------------------------------
