@@ -650,3 +650,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $7109.072036
 Lower All Local Minimums---Twenty-four hours or ten percent has bought 1INCH for $0.91
 Lower All Local Minimums---Twenty-four hours or ten percent now has $7109.072036251807
 ---------------------------------------------------------------------------
+[2022-06-03 04:43:44] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold 1INCH for $0.91. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $7072.104861663297
+---------------------------------------------------------------------------
