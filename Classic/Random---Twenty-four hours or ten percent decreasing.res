@@ -606,3 +606,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6915.463496216798
 Random---Twenty-four hours or ten percent decreasing has sold XXMR for $198.67. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6879.503086036471
 ---------------------------------------------------------------------------
+[2022-06-03 04:11:20] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FET for $0.163
+Random---Twenty-four hours or ten percent decreasing now has $6879.503086036471
+---------------------------------------------------------------------------
