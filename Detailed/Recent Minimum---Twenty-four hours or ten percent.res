@@ -14661,3 +14661,46 @@ Is init: True
 
 Recent Minimum---Twenty-four hours or ten percent now has $4225.4967711530735
 ---------------------------------------------------------------------------
+[2022-06-03 13:58:45] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold: 
+Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base:
+ 	Name: 1INCH
+	Altname: 1INCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (1INCHUSD):
+	Current:                    0.87
+	Maximum:                    1.149425
+	Minimum:                    1.009082
+	Variance:                   0.122099
+	Mean:                       1.073562
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.818182
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.95
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.923788
+	Number of local maximums:   33
+	Average local minimum:      0.9436
+	Number of local minimums:   20
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent now has $4203.524187943078
+---------------------------------------------------------------------------

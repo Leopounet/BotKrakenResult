@@ -14661,3 +14661,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $4278.950922953617
 ---------------------------------------------------------------------------
+[2022-06-03 13:58:45] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: KSMUSD
+Altname: KSMUSD
+Wsname: KSM/USD
+Base:
+ 	Name: KSM
+	Altname: KSM
+	decimals: 10
+	displayed_decimals: 8
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (KSMUSD):
+	Current:                    68.57
+	Maximum:                    0.014782
+	Minimum:                    0.011554
+	Variance:                   0.218371
+	Mean:                       0.013454
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      75.319524
+	Number of local maximums:   21
+	Average local minimum:      74.325238
+	Number of local minimums:   21
+Is init: True
+Profit was -0.14082543386319157%.
+Random---Twenty-four hours or ten percent now has $4272.925071751574
+---------------------------------------------------------------------------
