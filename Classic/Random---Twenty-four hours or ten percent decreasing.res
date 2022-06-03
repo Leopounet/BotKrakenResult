@@ -278,3 +278,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8367.873021391086
 Random---Twenty-four hours or ten percent decreasing has sold RNDR for $0.7681. Profit was 1.29601272534464%.
 Random---Twenty-four hours or ten percent decreasing now has $8476.321720588996
 ---------------------------------------------------------------------------
+[2022-06-03 00:09:23] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MASK for $1.807
+Random---Twenty-four hours or ten percent decreasing now has $8476.321720588996
+---------------------------------------------------------------------------

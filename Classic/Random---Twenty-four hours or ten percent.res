@@ -278,3 +278,7 @@ Random---Twenty-four hours or ten percent now has $8681.82683565198
 Random---Twenty-four hours or ten percent has sold MSOL for $48.6. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8636.68133610659
 ---------------------------------------------------------------------------
+[2022-06-03 00:09:23] BUY
+Random---Twenty-four hours or ten percent has bought ZRX for $0.411
+Random---Twenty-four hours or ten percent now has $8636.68133610659
+---------------------------------------------------------------------------
