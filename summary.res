@@ -1,4 +1,4 @@
-[2022-06-03 15:10:02] SUMMARY
+[2022-06-03 15:13:30] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: DASHUSD
+	Altname: DASHUSD
+	Wsname: DASH/USD
+	Base:
+	 	Name: DASH
+		Altname: DASH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.03
+	Data about this pair of assets (DASHUSD):
+		Current:                    57.258
+		Maximum:                    0.017794
+		Minimum:                    0.015278
+		Variance:                   0.141397
+		Mean:                       0.016643
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.538462
+		Is ascending:               True
+		Current ascension duration: 14
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.545455
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      60.376385
+		Number of local maximums:   26
+		Average local minimum:      60.320045
+		Number of local minimums:   22
+	Is init: True
 Wins: 1
 Losses: 181
 Total points: -103.37225143604088%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: BCHUSD
+	Altname: BCHUSD
+	Wsname: BCH/USD
+	Base:
+	 	Name: BCH
+		Altname: BCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.01
+	Data about this pair of assets (BCHUSD):
+		Current:                    180.4
+		Maximum:                    0.005543
+		Minimum:                    0.00489
+		Variance:                   0.117762
+		Mean:                       0.005282
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.15
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.857143
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      189.612
+		Number of local maximums:   20
+		Average local minimum:      189.833333
+		Number of local minimums:   21
+	Is init: True
 Wins: 7
 Losses: 175
 Total points: -90.60185652225763%
