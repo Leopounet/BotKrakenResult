@@ -2126,3 +2126,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2523.8964956153773
 Random---Twenty-four hours or ten percent decreasing has sold ZUSD for $0.96258. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $2513.8009096329156
 ---------------------------------------------------------------------------
+[2022-06-03 23:38:29] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BADGER for $5.829
+Random---Twenty-four hours or ten percent decreasing now has $2513.8009096329156
+---------------------------------------------------------------------------

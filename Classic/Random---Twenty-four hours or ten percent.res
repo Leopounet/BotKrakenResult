@@ -2126,3 +2126,7 @@ Random---Twenty-four hours or ten percent now has $2656.71059222288
 Random---Twenty-four hours or ten percent has sold XXRP for $0.3886. Profit was -0.6715969063953238%.
 Random---Twenty-four hours or ten percent now has $2638.8682060736346
 ---------------------------------------------------------------------------
+[2022-06-03 23:38:29] BUY
+Random---Twenty-four hours or ten percent has bought LINK for $6.82763
+Random---Twenty-four hours or ten percent now has $2638.8682060736346
+---------------------------------------------------------------------------

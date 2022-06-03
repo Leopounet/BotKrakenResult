@@ -1414,3 +1414,7 @@ Lower All Local Minimums---Random now has $4265.961792802231
 Lower All Local Minimums---Random has sold USDT for $0.999. Profit was -0.3899889878866688%.
 Lower All Local Minimums---Random now has $4249.32501158285
 ---------------------------------------------------------------------------
+[2022-06-03 23:38:29] BUY
+Lower All Local Minimums---Random has bought DASH for $57.941
+Lower All Local Minimums---Random now has $4249.32501158285
+---------------------------------------------------------------------------

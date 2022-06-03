@@ -2126,3 +2126,7 @@ Lower All Local Minimums---Always now has $2927.9003483076663
 Lower All Local Minimums---Always has sold SUSHI for $1.539. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2912.6752664964665
 ---------------------------------------------------------------------------
+[2022-06-03 23:38:29] BUY
+Lower All Local Minimums---Always has bought DASH for $57.941
+Lower All Local Minimums---Always now has $2912.6752664964665
+---------------------------------------------------------------------------
