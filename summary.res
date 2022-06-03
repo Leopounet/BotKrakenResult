@@ -1,4 +1,4 @@
-[2022-06-03 01:11:18] SUMMARY
+[2022-06-03 01:14:16] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ALICEUSD
+	Altname: ALICEUSD
+	Wsname: ALICE/USD
+	Base:
+	 	Name: ALICE
+		Altname: ALICE
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (ALICEUSD):
+		Current:                    2.853
+		Maximum:                    0.360231
+		Minimum:                    0.314465
+		Variance:                   0.127044
+		Mean:                       0.339353
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.75
+		Is ascending:               True
+		Current ascension duration: 83
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.4
+		Is falling:                 True
+		Current fall duration:      36
+		Trending downwards:         True
+		Average local maximum:      2.975583
+		Number of local maximums:   12
+		Average local minimum:      3.010467
+		Number of local minimums:   15
+	Is init: True
 Wins: 0
 Losses: 46
 Total points: -25.2538714932983%

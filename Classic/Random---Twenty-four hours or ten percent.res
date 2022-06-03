@@ -366,3 +366,7 @@ Random---Twenty-four hours or ten percent now has $8236.601625131978
 Random---Twenty-four hours or ten percent has sold FLOW for $2.523. Profit was -0.4009523809523814%.
 Random---Twenty-four hours or ten percent now has $8203.576774806448
 ---------------------------------------------------------------------------
+[2022-06-03 01:14:16] BUY
+Random---Twenty-four hours or ten percent has bought SRM for $1.088
+Random---Twenty-four hours or ten percent now has $8203.576774806448
+---------------------------------------------------------------------------

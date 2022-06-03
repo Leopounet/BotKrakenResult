@@ -366,3 +366,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7987.697338692301
 Random---Twenty-four hours or ten percent decreasing has sold CHZ for $0.125. Profit was -0.35974358974359033%.
 Random---Twenty-four hours or ten percent decreasing now has $7958.962109548236
 ---------------------------------------------------------------------------
+[2022-06-03 01:14:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought STORJ for $0.58895
+Random---Twenty-four hours or ten percent decreasing now has $7958.962109548236
+---------------------------------------------------------------------------

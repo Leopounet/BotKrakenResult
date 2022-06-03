@@ -366,3 +366,7 @@ Random---Always now has $7803.095527236548
 Random---Always has sold WBTC for $30404.5. Profit was -0.52%.
 Random---Always now has $7762.519430494918
 ---------------------------------------------------------------------------
+[2022-06-03 01:14:16] BUY
+Random---Always has bought ALICE for $2.853
+Random---Always now has $7762.519430494918
+---------------------------------------------------------------------------
