@@ -1814,3 +1814,7 @@ Random---Twenty-four hours or ten percent now has $3196.8109668645798
 Random---Twenty-four hours or ten percent has sold GNO for $185.97. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3180.187549836884
 ---------------------------------------------------------------------------
+[2022-06-03 19:44:47] BUY
+Random---Twenty-four hours or ten percent has bought SGB for $0.038
+Random---Twenty-four hours or ten percent now has $3180.187549836884
+---------------------------------------------------------------------------
