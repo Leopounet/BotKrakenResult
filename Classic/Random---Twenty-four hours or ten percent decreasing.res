@@ -1926,3 +1926,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2825.288843126908
 Random---Twenty-four hours or ten percent decreasing has sold KILT for $0.727. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2810.597341142648
 ---------------------------------------------------------------------------
+[2022-06-03 21:08:17] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SAMO for $0.005526
+Random---Twenty-four hours or ten percent decreasing now has $2810.597341142648
+---------------------------------------------------------------------------
