@@ -12425,3 +12425,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $4747.55390586036
 ---------------------------------------------------------------------------
+[2022-06-03 11:12:55] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: TUSD
+Altname: TUSD
+Wsname: T/USD
+Base:
+ 	Name: T
+	Altname: T
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (TUSD):
+	Current:                    0.0498
+	Maximum:                    21.186441
+	Minimum:                    12.062726
+	Variance:                   0.430639
+	Mean:                       18.469166
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.96875
+	Is ascending:               True
+	Current ascension duration: 22
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.571429
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         False
+	Average local maximum:      0.053735
+	Number of local maximums:   32
+	Average local minimum:      0.054632
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $4722.866625549886
+---------------------------------------------------------------------------

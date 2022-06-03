@@ -1154,3 +1154,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4747.55390586036
 Random---Twenty-four hours or ten percent decreasing has bought T for $0.0498
 Random---Twenty-four hours or ten percent decreasing now has $4747.55390586036
 ---------------------------------------------------------------------------
+[2022-06-03 11:12:55] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold T for $0.0498. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $4722.866625549886
+---------------------------------------------------------------------------
