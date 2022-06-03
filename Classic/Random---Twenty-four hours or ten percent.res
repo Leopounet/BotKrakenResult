@@ -1990,3 +1990,7 @@ Random---Twenty-four hours or ten percent now has $2896.893004425596
 Random---Twenty-four hours or ten percent has sold EOS for $1.2663. Profit was -0.04392287550582141%.
 Random---Twenty-four hours or ten percent now has $2895.620605717725
 ---------------------------------------------------------------------------
+[2022-06-03 21:55:41] BUY
+Random---Twenty-four hours or ten percent has bought JASMY for $0.01232
+Random---Twenty-four hours or ten percent now has $2895.620605717725
+---------------------------------------------------------------------------

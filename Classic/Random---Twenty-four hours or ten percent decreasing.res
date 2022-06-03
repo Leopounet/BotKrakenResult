@@ -1990,3 +1990,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2747.6799736449475
 Random---Twenty-four hours or ten percent decreasing has sold XMLN for $26.773. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2733.3920377819936
 ---------------------------------------------------------------------------
+[2022-06-03 21:55:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WOO for $0.1571
+Random---Twenty-four hours or ten percent decreasing now has $2733.3920377819936
+---------------------------------------------------------------------------
