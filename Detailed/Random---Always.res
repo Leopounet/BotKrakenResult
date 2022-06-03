@@ -22014,3 +22014,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $2226.420731516023
 ---------------------------------------------------------------------------
+[2022-06-03 22:37:59] BUY
+Random---Always has bought: 
+Name: OGNUSD
+Altname: OGNUSD
+Wsname: OGN/USD
+Base:
+ 	Name: OGN
+	Altname: OGN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (OGNUSD):
+	Current:                    0.2878
+	Maximum:                    3.723008
+	Minimum:                    2.915452
+	Variance:                   0.21691
+	Mean:                       3.388536
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.130435
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.875
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.300461
+	Number of local maximums:   23
+	Average local minimum:      0.299717
+	Number of local minimums:   24
+Is init: True
+
+Random---Always now has $2226.420731516023
+---------------------------------------------------------------------------

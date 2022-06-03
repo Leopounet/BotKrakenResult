@@ -2046,3 +2046,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $2743.20193
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold AVAX for $23.16. Profit was -0.7783979328165342%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $2721.8489049636764
 ---------------------------------------------------------------------------
+[2022-06-03 22:37:59] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought ALGO for $0.38435
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $2721.8489049636764
+---------------------------------------------------------------------------

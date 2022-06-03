@@ -2046,3 +2046,7 @@ Recent Minimum---Always now has $2743.201932096096
 Recent Minimum---Always has sold AVAX for $23.16. Profit was -0.7783979328165342%.
 Recent Minimum---Always now has $2721.8489049636764
 ---------------------------------------------------------------------------
+[2022-06-03 22:37:59] BUY
+Recent Minimum---Always has bought ALGO for $0.38435
+Recent Minimum---Always now has $2721.8489049636764
+---------------------------------------------------------------------------
