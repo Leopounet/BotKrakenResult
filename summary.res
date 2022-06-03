@@ -1,4 +1,4 @@
-[2022-06-03 23:08:48] SUMMARY
+[2022-06-03 23:11:47] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.866
-		Maximum:                    1.166861
-		Minimum:                    1.01626
-		Variance:                   0.129065
-		Mean:                       1.093505
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.029412
-		Is ascending:               True
-		Current ascension duration: 13
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.434783
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      0.916059
-		Number of local maximums:   34
-		Average local minimum:      0.919261
-		Number of local minimums:   23
-	Is init: True
+	None
 Wins: 1
-Losses: 260
-Total points: -137.27409509306494%
-Wallet: 2524.2227842136995
+Losses: 261
+Total points: -137.79409509306495%
+Wallet: 2511.096825735788
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: WOOUSD
+	Altname: WOOUSD
+	Wsname: WOO/USD
+	Base:
+	 	Name: WOO
+		Altname: WOO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (WOOUSD):
+		Current:                    0.1528
+		Maximum:                    6.7659
+		Minimum:                    2.534212
+		Variance:                   0.625443
+		Mean:                       6.166264
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.117647
+		Is ascending:               True
+		Current ascension duration: 12
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.25
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.164547
+		Number of local maximums:   17
+		Average local minimum:      0.163442
+		Number of local minimums:   12
+	Is init: True
 Wins: 10
 Losses: 167
 Total points: -56.82541620951806%
