@@ -1070,3 +1070,7 @@ Random---Twenty-four hours or ten percent now has $5137.96400640409
 Random---Twenty-four hours or ten percent has sold GARI for $0.6221. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5111.246593570789
 ---------------------------------------------------------------------------
+[2022-06-03 10:05:55] BUY
+Random---Twenty-four hours or ten percent has bought API3 for $1.573
+Random---Twenty-four hours or ten percent now has $5111.246593570789
+---------------------------------------------------------------------------

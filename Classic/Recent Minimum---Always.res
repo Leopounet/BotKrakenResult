@@ -1070,3 +1070,7 @@ Recent Minimum---Always now has $4934.146916652942
 Recent Minimum---Always has sold BNT for $1.236. Profit was -0.52%.
 Recent Minimum---Always now has $4908.489352686347
 ---------------------------------------------------------------------------
+[2022-06-03 10:05:55] BUY
+Recent Minimum---Always has bought BADGER for $5.826
+Recent Minimum---Always now has $4908.489352686347
+---------------------------------------------------------------------------
