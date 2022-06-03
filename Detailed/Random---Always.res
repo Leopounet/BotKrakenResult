@@ -11737,3 +11737,46 @@ Is init: True
 
 Random---Always now has $4755.8924102484225
 ---------------------------------------------------------------------------
+[2022-06-03 10:21:40] SOLD
+Random---Always has sold: 
+Name: API3USD
+Altname: API3USD
+Wsname: API3/USD
+Base:
+ 	Name: API3
+	Altname: API3
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (API3USD):
+	Current:                    1.573
+	Maximum:                    0.635728
+	Minimum:                    0.545256
+	Variance:                   0.142312
+	Mean:                       0.604216
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.4
+	Is ascending:               True
+	Current ascension duration: 59
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.75
+	Is falling:                 True
+	Current fall duration:      13
+	Trending downwards:         True
+	Average local maximum:      1.666333
+	Number of local maximums:   15
+	Average local minimum:      1.6835
+	Number of local minimums:   12
+Is init: True
+Profit was -0.52%.
+Random---Always now has $4731.1617697151305
+---------------------------------------------------------------------------

@@ -11737,3 +11737,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $4947.98117799307
 ---------------------------------------------------------------------------
+[2022-06-03 10:21:40] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: XETHZUSD
+Altname: ETHUSD
+Wsname: ETH/USD
+Base:
+ 	Name: XETH
+	Altname: ETH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.001
+Data about this pair of assets (XETHZUSD):
+	Current:                    1787.51
+	Maximum:                    0.000564
+	Minimum:                    0.000509
+	Variance:                   0.096952
+	Mean:                       0.00054
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.590909
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.473684
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1865.255455
+	Number of local maximums:   22
+	Average local minimum:      1855.45
+	Number of local minimums:   19
+Is init: True
+Profit was -0.5569228703615665%.
+Random---Twenty-four hours or ten percent decreasing now has $4920.424739191641
+---------------------------------------------------------------------------
