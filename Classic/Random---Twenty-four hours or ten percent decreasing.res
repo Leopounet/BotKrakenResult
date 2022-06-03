@@ -1998,3 +1998,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2733.3920377819936
 Random---Twenty-four hours or ten percent decreasing has sold WOO for $0.1571. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2719.1783991855273
 ---------------------------------------------------------------------------
+[2022-06-03 22:01:37] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SCRT for $1.47
+Random---Twenty-four hours or ten percent decreasing now has $2719.1783991855273
+---------------------------------------------------------------------------

@@ -21498,3 +21498,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2880.563378567993
 ---------------------------------------------------------------------------
+[2022-06-03 22:01:37] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: ALCXUSD
+Altname: ALCXUSD
+Wsname: ALCX/USD
+Base:
+ 	Name: ALCX
+	Altname: ALCX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (ALCXUSD):
+	Current:                    29.55
+	Maximum:                    0.035676
+	Minimum:                    0.030989
+	Variance:                   0.131391
+	Mean:                       0.033916
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.571429
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.5
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         True
+	Average local maximum:      29.717857
+	Number of local maximums:   14
+	Average local minimum:      29.82
+	Number of local minimums:   12
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $2880.563378567993
+---------------------------------------------------------------------------

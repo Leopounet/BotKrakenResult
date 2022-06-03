@@ -21498,3 +21498,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2719.1783991855273
 ---------------------------------------------------------------------------
+[2022-06-03 22:01:37] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: SCRTUSD
+Altname: SCRTUSD
+Wsname: SCRT/USD
+Base:
+ 	Name: SCRT
+	Altname: SCRT
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (SCRTUSD):
+	Current:                    1.47
+	Maximum:                    0.682594
+	Minimum:                    0.58548
+	Variance:                   0.142272
+	Mean:                       0.642334
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.025
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.444444
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      1.55755
+	Number of local maximums:   40
+	Average local minimum:      1.565
+	Number of local minimums:   27
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $2719.1783991855273
+---------------------------------------------------------------------------
