@@ -8985,3 +8985,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $6306.665479851403
 ---------------------------------------------------------------------------
+[2022-06-03 06:59:29] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold: 
+Name: KAVAUSD
+Altname: KAVAUSD
+Wsname: KAVA/USD
+Base:
+ 	Name: KAVA
+	Altname: KAVA
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (KAVAUSD):
+	Current:                    2.57
+	Maximum:                    0.390411
+	Minimum:                    0.327579
+	Variance:                   0.160939
+	Mean:                       0.370846
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.6
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.5
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      2.69885
+	Number of local maximums:   20
+	Average local minimum:      2.689229
+	Number of local minimums:   24
+Is init: True
+Profit was -0.9091050583657463%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $6249.331264959867
+---------------------------------------------------------------------------

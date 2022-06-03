@@ -1,4 +1,4 @@
-[2022-06-03 06:56:27] SUMMARY
+[2022-06-03 06:59:29] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MANAUSD
-	Altname: MANAUSD
-	Wsname: MANA/USD
-	Base:
-	 	Name: MANA
-		Altname: MANA
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1.5
-	Data about this pair of assets (MANAUSD):
-		Current:                    1.01398
-		Maximum:                    1.04419
-		Minimum:                    0.910622
-		Variance:                   0.127915
-		Mean:                       0.983128
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.5
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.6
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.024727
-		Number of local maximums:   18
-		Average local minimum:      1.015787
-		Number of local minimums:   15
-	Is init: True
+	None
 Wins: 0
-Losses: 104
-Total points: -56.16359465781652%
-Wallet: 5693.593729330429
+Losses: 105
+Total points: -57.15007328658633%
+Wallet: 5637.427643981606
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ATOMUSD
-	Altname: ATOMUSD
-	Wsname: ATOM/USD
-	Base:
-	 	Name: ATOM
-		Altname: ATOM
-		decimals: 8
-		displayed_decimals: 6
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.15
-	Data about this pair of assets (ATOMUSD):
-		Current:                    9.49
-		Maximum:                    0.108891
-		Minimum:                    0.095724
-		Variance:                   0.120919
-		Mean:                       0.102949
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.0
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.25
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      9.689539
-		Number of local maximums:   18
-		Average local minimum:      9.674237
-		Number of local minimums:   24
-	Is init: True
+	None
 Wins: 5
-Losses: 99
-Total points: -51.07441143283653%
-Wallet: 5986.871156004272
+Losses: 100
+Total points: -52.04962744969639%
+Wallet: 5928.486229582155
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

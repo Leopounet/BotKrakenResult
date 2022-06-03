@@ -834,3 +834,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5877.006807732769
 Random---Twenty-four hours or ten percent decreasing has bought FET for $0.1636
 Random---Twenty-four hours or ten percent decreasing now has $5877.006807732769
 ---------------------------------------------------------------------------
+[2022-06-03 06:59:29] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold FET for $0.1636. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $5846.446372332558
+---------------------------------------------------------------------------
