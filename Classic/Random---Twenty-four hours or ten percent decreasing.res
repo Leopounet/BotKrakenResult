@@ -1134,3 +1134,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4811.1455218933115
 Random---Twenty-four hours or ten percent decreasing has sold SCRT for $1.5. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4786.127565179467
 ---------------------------------------------------------------------------
+[2022-06-03 10:56:44] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TBTC for $33899.8
+Random---Twenty-four hours or ten percent decreasing now has $4786.127565179467
+---------------------------------------------------------------------------

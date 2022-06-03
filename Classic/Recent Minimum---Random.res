@@ -714,3 +714,7 @@ Recent Minimum---Random now has $6196.677334875839
 Recent Minimum---Random has bought BADGER for $5.8
 Recent Minimum---Random now has $6196.677334875839
 ---------------------------------------------------------------------------
+[2022-06-03 10:56:44] SOLD
+Recent Minimum---Random has sold BADGER for $5.78. Profit was -0.8648275862068862%.
+Recent Minimum---Random now has $6143.086759855603
+---------------------------------------------------------------------------
