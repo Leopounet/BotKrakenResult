@@ -934,3 +934,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5566.0227627001295
 Random---Twenty-four hours or ten percent decreasing has sold AGLD for $0.5162. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5537.079444334089
 ---------------------------------------------------------------------------
+[2022-06-03 08:17:35] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LSK for $1.335033
+Random---Twenty-four hours or ten percent decreasing now has $5537.079444334089
+---------------------------------------------------------------------------
