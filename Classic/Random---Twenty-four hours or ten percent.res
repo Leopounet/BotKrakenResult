@@ -466,3 +466,7 @@ Random---Twenty-four hours or ten percent now has $7808.351468654912
 Random---Twenty-four hours or ten percent has bought KEEP for $0.25244
 Random---Twenty-four hours or ten percent now has $7808.351468654912
 ---------------------------------------------------------------------------
+[2022-06-03 02:28:10] SOLD
+Random---Twenty-four hours or ten percent has sold KEEP for $0.25432. Profit was 0.22473142132782664%.
+Random---Twenty-four hours or ten percent now has $7825.899287892693
+---------------------------------------------------------------------------
