@@ -15736,3 +15736,46 @@ Is init: True
 Profit was -1.2022377397864954%.
 Lower All Local Minimums---Always now has $4115.693630502841
 ---------------------------------------------------------------------------
+[2022-06-03 15:19:28] BUY
+Lower All Local Minimums---Always has bought: 
+Name: BATUSD
+Altname: BATUSD
+Wsname: BAT/USD
+Base:
+ 	Name: BAT
+	Altname: BAT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (BATUSD):
+	Current:                    0.37122
+	Maximum:                    2.69382
+	Minimum:                    2.373211
+	Variance:                   0.119017
+	Mean:                       2.549274
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.642857
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.470588
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.391588
+	Number of local maximums:   28
+	Average local minimum:      0.390695
+	Number of local minimums:   34
+Is init: True
+
+Lower All Local Minimums---Always now has $4115.693630502841
+---------------------------------------------------------------------------

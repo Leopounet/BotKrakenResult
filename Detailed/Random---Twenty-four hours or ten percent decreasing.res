@@ -15736,3 +15736,46 @@ Is init: True
 Profit was -0.4488058151609572%.
 Random---Twenty-four hours or ten percent decreasing now has $3775.312023560309
 ---------------------------------------------------------------------------
+[2022-06-03 15:19:28] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: XTZUSD
+Altname: XTZUSD
+Wsname: XTZ/USD
+Base:
+ 	Name: XTZ
+	Altname: XTZ
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (XTZUSD):
+	Current:                    1.8734
+	Maximum:                    0.536423
+	Minimum:                    0.471854
+	Variance:                   0.12037
+	Mean:                       0.509804
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.25
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.0
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.950279
+	Number of local maximums:   24
+	Average local minimum:      1.970806
+	Number of local minimums:   18
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $3775.312023560309
+---------------------------------------------------------------------------
