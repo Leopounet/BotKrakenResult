@@ -1606,3 +1606,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3479.8676000153214
 Random---Twenty-four hours or ten percent decreasing has sold XXRP for $0.38726. Profit was -0.4398862902183738%.
 Random---Twenty-four hours or ten percent decreasing now has $3464.560139525103
 ---------------------------------------------------------------------------
+[2022-06-03 17:09:59] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OXY for $0.0863
+Random---Twenty-four hours or ten percent decreasing now has $3464.560139525103
+---------------------------------------------------------------------------

@@ -1606,3 +1606,7 @@ Random---Twenty-four hours or ten percent now has $3638.732433230183
 Random---Twenty-four hours or ten percent has sold BAT for $0.37498. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3619.811024577386
 ---------------------------------------------------------------------------
+[2022-06-03 17:09:59] BUY
+Random---Twenty-four hours or ten percent has bought ASTR for $0.0579
+Random---Twenty-four hours or ten percent now has $3619.811024577386
+---------------------------------------------------------------------------
