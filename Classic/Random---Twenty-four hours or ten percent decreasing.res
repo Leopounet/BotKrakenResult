@@ -1758,3 +1758,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3164.690886116717
 Random---Twenty-four hours or ten percent decreasing has sold GNO for $185.97. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3148.2344935089104
 ---------------------------------------------------------------------------
+[2022-06-03 19:03:04] BUY
+Random---Twenty-four hours or ten percent decreasing has bought UNI for $5.052
+Random---Twenty-four hours or ten percent decreasing now has $3148.2344935089104
+---------------------------------------------------------------------------

@@ -1758,3 +1758,7 @@ Random---Twenty-four hours or ten percent now has $3300.6165019089453
 Random---Twenty-four hours or ten percent has sold ZGBP for $1.24974. Profit was -0.42879769618430175%.
 Random---Twenty-four hours or ten percent now has $3286.463534388881
 ---------------------------------------------------------------------------
+[2022-06-03 19:03:04] BUY
+Random---Twenty-four hours or ten percent has bought XXLM for $0.142629
+Random---Twenty-four hours or ten percent now has $3286.463534388881
+---------------------------------------------------------------------------
