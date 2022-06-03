@@ -10619,3 +10619,46 @@ Is init: True
 
 Random---Random now has $4826.268281783513
 ---------------------------------------------------------------------------
+[2022-06-03 15:28:45] SOLD
+Random---Random has sold: 
+Name: USDCHF
+Altname: USDCHF
+Wsname: USD/CHF
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: CHF
+	Altname: CHF
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDCHF):
+	Current:                    0.96253
+	Maximum:                    1.045872
+	Minimum:                    1.035357
+	Variance:                   0.010053
+	Mean:                       1.040878
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.960778
+	Number of local maximums:   27
+	Average local minimum:      0.960683
+	Number of local minimums:   27
+Is init: True
+Profit was -0.3335085659667888%.
+Random---Random now has $4810.172263647227
+---------------------------------------------------------------------------
