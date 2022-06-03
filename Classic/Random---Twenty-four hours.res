@@ -6,3 +6,7 @@ Random---Twenty-four hours now has $10000
 Random---Twenty-four hours has sold ZUSD for $131.0. Profit was 0.14262316471336278%.
 Random---Twenty-four hours now has $10014.262316471337
 ---------------------------------------------------------------------------
+[2022-06-03 20:44:16] BUY
+Random---Twenty-four hours has bought YGG for $0.591
+Random---Twenty-four hours now has $10014.262316471337
+---------------------------------------------------------------------------
