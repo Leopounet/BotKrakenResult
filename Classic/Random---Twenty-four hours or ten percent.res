@@ -1830,3 +1830,7 @@ Random---Twenty-four hours or ten percent now has $3163.650574577732
 Random---Twenty-four hours or ten percent has sold ASTR for $0.0589. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3147.199591589928
 ---------------------------------------------------------------------------
+[2022-06-03 19:56:40] BUY
+Random---Twenty-four hours or ten percent has bought QTUM for $3.80188
+Random---Twenty-four hours or ten percent now has $3147.199591589928
+---------------------------------------------------------------------------
