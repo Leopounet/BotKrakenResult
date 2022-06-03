@@ -5889,3 +5889,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $7150.202142688889
 ---------------------------------------------------------------------------
+[2022-06-03 03:27:03] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: ZGBPZUSD
+Altname: GBPUSD
+Wsname: GBP/USD
+Base:
+ 	Name: ZGBP
+	Altname: GBP
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (ZGBPZUSD):
+	Current:                    1.25737
+	Maximum:                    0.802195
+	Minimum:                    0.791578
+	Variance:                   0.013235
+	Mean:                       0.796361
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.375
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.789474
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.255565
+	Number of local maximums:   24
+	Average local minimum:      1.255524
+	Number of local minimums:   19
+Is init: True
+Profit was -0.4%.
+Random---Twenty-four hours or ten percent decreasing now has $7121.601334118133
+---------------------------------------------------------------------------

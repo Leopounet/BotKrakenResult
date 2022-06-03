@@ -390,3 +390,7 @@ Lower All Local Minimums---Random now has $8175.4197211449955
 Lower All Local Minimums---Random has sold 1INCH for $0.91. Profit was -0.52%.
 Lower All Local Minimums---Random now has $8132.907538595042
 ---------------------------------------------------------------------------
+[2022-06-03 03:27:03] BUY
+Lower All Local Minimums---Random has bought ZUSD for $0.95738
+Lower All Local Minimums---Random now has $8132.907538595042
+---------------------------------------------------------------------------
