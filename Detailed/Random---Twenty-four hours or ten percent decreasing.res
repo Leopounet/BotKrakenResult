@@ -17714,3 +17714,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3374.8312349640096
 ---------------------------------------------------------------------------
+[2022-06-03 17:39:40] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: XZECZUSD
+Altname: ZECUSD
+Wsname: ZEC/USD
+Base:
+ 	Name: XZEC
+	Altname: ZEC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.035
+Data about this pair of assets (XZECZUSD):
+	Current:                    88.75
+	Maximum:                    0.011608
+	Minimum:                    0.010401
+	Variance:                   0.103911
+	Mean:                       0.011068
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.4
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.75
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      90.2536
+	Number of local maximums:   25
+	Average local minimum:      90.001
+	Number of local minimums:   20
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $3374.8312349640096
+---------------------------------------------------------------------------

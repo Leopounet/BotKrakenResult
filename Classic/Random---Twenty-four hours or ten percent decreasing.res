@@ -1646,3 +1646,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3392.4720898311316
 Random---Twenty-four hours or ten percent decreasing has sold ALICE for $2.768. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3374.8312349640096
 ---------------------------------------------------------------------------
+[2022-06-03 17:39:40] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XZEC for $88.75
+Random---Twenty-four hours or ten percent decreasing now has $3374.8312349640096
+---------------------------------------------------------------------------
