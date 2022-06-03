@@ -562,3 +562,7 @@ Random---Always now has $6850.887163508686
 Random---Always has bought ZAUD for $0.7259
 Random---Always now has $6850.887163508686
 ---------------------------------------------------------------------------
+[2022-06-03 03:38:50] SOLD
+Random---Always has sold ZAUD for $0.7259. Profit was -0.4%.
+Random---Always now has $6823.483614854651
+---------------------------------------------------------------------------

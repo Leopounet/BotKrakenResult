@@ -562,3 +562,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7084.569007180719
 Random---Twenty-four hours or ten percent decreasing has bought BCH for $190.17
 Random---Twenty-four hours or ten percent decreasing now has $7084.569007180719
 ---------------------------------------------------------------------------
+[2022-06-03 03:38:50] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold BCH for $190.17. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $7047.729248343379
+---------------------------------------------------------------------------
