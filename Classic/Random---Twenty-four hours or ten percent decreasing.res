@@ -734,3 +734,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6351.1370547506585
 Random---Twenty-four hours or ten percent decreasing has sold PAXG for $1868.82. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6318.111142065955
 ---------------------------------------------------------------------------
+[2022-06-03 05:45:43] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FXS for $6.77
+Random---Twenty-four hours or ten percent decreasing now has $6318.111142065955
+---------------------------------------------------------------------------

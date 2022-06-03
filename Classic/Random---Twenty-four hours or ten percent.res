@@ -734,3 +734,7 @@ Random---Twenty-four hours or ten percent now has $6584.454461452167
 Random---Twenty-four hours or ten percent has sold API3 for $1.597. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6550.215298252616
 ---------------------------------------------------------------------------
+[2022-06-03 05:45:43] BUY
+Random---Twenty-four hours or ten percent has bought ZUSD for $0.95832
+Random---Twenty-four hours or ten percent now has $6550.215298252616
+---------------------------------------------------------------------------
