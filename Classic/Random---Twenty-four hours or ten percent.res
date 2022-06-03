@@ -1330,3 +1330,7 @@ Random---Twenty-four hours or ten percent now has $4344.095655470001
 Random---Twenty-four hours or ten percent has bought RARE for $0.241
 Random---Twenty-four hours or ten percent now has $4344.095655470001
 ---------------------------------------------------------------------------
+[2022-06-03 13:33:04] SOLD
+Random---Twenty-four hours or ten percent has sold RARE for $0.241. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $4321.506358061557
+---------------------------------------------------------------------------
