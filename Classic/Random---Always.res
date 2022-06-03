@@ -706,3 +706,7 @@ Random---Always now has $6203.404980787144
 Random---Always has bought PAXG for $1872.0
 Random---Always now has $6203.404980787144
 ---------------------------------------------------------------------------
+[2022-06-03 05:25:01] SOLD
+Random---Always has sold PAXG for $1872.0. Profit was -0.52%.
+Random---Always now has $6171.147274887051
+---------------------------------------------------------------------------

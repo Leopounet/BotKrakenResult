@@ -706,3 +706,7 @@ Random---Twenty-four hours or ten percent now has $6688.249543956272
 Random---Twenty-four hours or ten percent has bought T for $0.0531
 Random---Twenty-four hours or ten percent now has $6688.249543956272
 ---------------------------------------------------------------------------
+[2022-06-03 05:25:01] SOLD
+Random---Twenty-four hours or ten percent has sold T for $0.0531. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $6653.470646327699
+---------------------------------------------------------------------------

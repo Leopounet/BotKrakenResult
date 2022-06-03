@@ -7609,3 +7609,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $6462.289190231424
 ---------------------------------------------------------------------------
+[2022-06-03 05:25:01] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: SBRUSD
+Altname: SBRUSD
+Wsname: SBR/USD
+Base:
+ 	Name: SBR
+	Altname: SBR
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 500
+Data about this pair of assets (SBRUSD):
+	Current:                    0.00916
+	Maximum:                    139.470014
+	Minimum:                    94.517958
+	Variance:                   0.322306
+	Mean:                       105.358517
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.6
+	Is ascending:               True
+	Current ascension duration: 37
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.461538
+	Is falling:                 True
+	Current fall duration:      34
+	Trending downwards:         True
+	Average local maximum:      0.009401
+	Number of local maximums:   15
+	Average local minimum:      0.009723
+	Number of local minimums:   13
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6428.685286442221
+---------------------------------------------------------------------------
