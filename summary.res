@@ -1,4 +1,4 @@
-[2022-06-03 02:31:06] SUMMARY
+[2022-06-03 02:34:04] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TRXUSD
-	Altname: TRXUSD
-	Wsname: TRX/USD
-	Base:
-	 	Name: TRX
-		Altname: TRX
-		decimals: 8
-		displayed_decimals: 6
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 50
-	Data about this pair of assets (TRXUSD):
-		Current:                    0.085873
-		Maximum:                    12.463233
-		Minimum:                    10.88163
-		Variance:                   0.126902
-		Mean:                       11.91433
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.588235
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.961538
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         False
-		Average local maximum:      0.083623
-		Number of local maximums:   17
-		Average local minimum:      0.083746
-		Number of local minimums:   26
-	Is init: True
+	None
 Wins: 0
-Losses: 59
-Total points: -31.8441639044392%
-Wallet: 7266.216163290871
+Losses: 60
+Total points: -32.4794504322186%
+Wallet: 7220.054870926155
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: PERPUSD
-	Altname: PERPUSD
-	Wsname: PERP/USD
-	Base:
-	 	Name: PERP
-		Altname: PERP
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (PERPUSD):
-		Current:                    1.291
-		Maximum:                    0.81103
-		Minimum:                    0.645161
-		Variance:                   0.204516
-		Mean:                       0.77176
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         False
-		Average local maximum:      1.302367
-		Number of local maximums:   30
-		Average local minimum:      1.282167
-		Number of local minimums:   30
-	Is init: True
+	None
 Wins: 4
-Losses: 55
-Total points: -24.408896112572315%
-Wallet: 7825.899287892693
+Losses: 56
+Total points: -26.168245454167977%
+Wallet: 7688.214380297213
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

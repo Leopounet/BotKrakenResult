@@ -474,3 +474,7 @@ Random---Twenty-four hours or ten percent now has $7825.899287892693
 Random---Twenty-four hours or ten percent has bought PERP for $1.291
 Random---Twenty-four hours or ten percent now has $7825.899287892693
 ---------------------------------------------------------------------------
+[2022-06-03 02:34:04] SOLD
+Random---Twenty-four hours or ten percent has sold PERP for $1.275. Profit was -1.7593493415956636%.
+Random---Twenty-four hours or ten percent now has $7688.214380297213
+---------------------------------------------------------------------------
