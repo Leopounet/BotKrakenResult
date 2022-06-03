@@ -986,3 +986,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5322.812855300577
 Random---Twenty-four hours or ten percent decreasing has bought QNT for $66.74
 Random---Twenty-four hours or ten percent decreasing now has $5322.812855300577
 ---------------------------------------------------------------------------
+[2022-06-03 08:58:45] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold QNT for $66.74. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $5295.134228453015
+---------------------------------------------------------------------------
