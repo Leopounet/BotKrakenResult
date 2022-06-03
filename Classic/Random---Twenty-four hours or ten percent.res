@@ -1526,3 +1526,7 @@ Random---Twenty-four hours or ten percent now has $3870.7942628439605
 Random---Twenty-four hours or ten percent has sold FET for $0.1532. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3850.666132677172
 ---------------------------------------------------------------------------
+[2022-06-03 16:10:18] BUY
+Random---Twenty-four hours or ten percent has bought MKR for $1130.3
+Random---Twenty-four hours or ten percent now has $3850.666132677172
+---------------------------------------------------------------------------
