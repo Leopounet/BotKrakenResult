@@ -1734,3 +1734,7 @@ Random---Twenty-four hours or ten percent now has $3348.6069558774575
 Random---Twenty-four hours or ten percent has sold LSK for $1.30089. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3331.194199706895
 ---------------------------------------------------------------------------
+[2022-06-03 18:45:15] BUY
+Random---Twenty-four hours or ten percent has bought ENJ for $0.607
+Random---Twenty-four hours or ten percent now has $3331.194199706895
+---------------------------------------------------------------------------

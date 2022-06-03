@@ -1734,3 +1734,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3210.7050026331062
 Random---Twenty-four hours or ten percent decreasing has sold ZUSD for $131.0. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $3197.862182622574
 ---------------------------------------------------------------------------
+[2022-06-03 18:45:15] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LSK for $1.30089
+Random---Twenty-four hours or ten percent decreasing now has $3197.862182622574
+---------------------------------------------------------------------------
