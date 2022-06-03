@@ -4685,3 +4685,46 @@ Is init: True
 
 Random---Always now has $7449.238488374569
 ---------------------------------------------------------------------------
+[2022-06-03 02:04:20] SOLD
+Random---Always has sold: 
+Name: XLTCZUSD
+Altname: LTCUSD
+Wsname: LTC/USD
+Base:
+ 	Name: XLTC
+	Altname: LTC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.03
+Data about this pair of assets (XLTCZUSD):
+	Current:                    64.76
+	Maximum:                    0.016098
+	Minimum:                    0.014271
+	Variance:                   0.113458
+	Mean:                       0.015276
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.590909
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.473684
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      65.282727
+	Number of local maximums:   22
+	Average local minimum:      64.693158
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Random---Always now has $7410.502448235021
+---------------------------------------------------------------------------
