@@ -778,3 +778,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6155.53980892912
 Random---Twenty-four hours or ten percent decreasing has bought KEEP for $0.25203
 Random---Twenty-four hours or ten percent decreasing now has $6155.53980892912
 ---------------------------------------------------------------------------
+[2022-06-03 06:18:09] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold KEEP for $0.25203. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6123.531001922689
+---------------------------------------------------------------------------

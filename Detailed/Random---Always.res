@@ -8383,3 +8383,46 @@ Is init: True
 
 Random---Always now has $5919.051569903555
 ---------------------------------------------------------------------------
+[2022-06-03 06:18:09] SOLD
+Random---Always has sold: 
+Name: BONDUSD
+Altname: BONDUSD
+Wsname: BOND/USD
+Base:
+ 	Name: BOND
+	Altname: BOND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (BONDUSD):
+	Current:                    3.486
+	Maximum:                    0.295159
+	Minimum:                    0.268097
+	Variance:                   0.091689
+	Mean:                       0.283389
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.1
+	Is ascending:               True
+	Current ascension duration: 86
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.285714
+	Is falling:                 True
+	Current fall duration:      59
+	Trending downwards:         True
+	Average local maximum:      3.5189
+	Number of local maximums:   10
+	Average local minimum:      3.587286
+	Number of local minimums:   7
+Is init: True
+Profit was -0.52%.
+Random---Always now has $5888.272501740056
+---------------------------------------------------------------------------

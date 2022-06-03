@@ -778,3 +778,7 @@ Random---Always now has $5919.051569903555
 Random---Always has bought BOND for $3.486
 Random---Always now has $5919.051569903555
 ---------------------------------------------------------------------------
+[2022-06-03 06:18:09] SOLD
+Random---Always has sold BOND for $3.486. Profit was -0.52%.
+Random---Always now has $5888.272501740056
+---------------------------------------------------------------------------

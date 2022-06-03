@@ -1,4 +1,4 @@
-[2022-06-03 06:15:13] SUMMARY
+[2022-06-03 06:18:09] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BONDUSD
-	Altname: BONDUSD
-	Wsname: BOND/USD
-	Base:
-	 	Name: BOND
-		Altname: BOND
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.5
-	Data about this pair of assets (BONDUSD):
-		Current:                    3.486
-		Maximum:                    0.295159
-		Minimum:                    0.268097
-		Variance:                   0.091689
-		Mean:                       0.283389
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.1
-		Is ascending:               True
-		Current ascension duration: 86
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.285714
-		Is falling:                 True
-		Current fall duration:      59
-		Trending downwards:         True
-		Average local maximum:      3.5189
-		Number of local maximums:   10
-		Average local minimum:      3.587286
-		Number of local minimums:   7
-	Is init: True
+	None
 Wins: 0
-Losses: 97
-Total points: -52.291120992723876%
-Wallet: 5919.051569903555
+Losses: 98
+Total points: -52.81112099272388%
+Wallet: 5888.272501740056
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: JASMYUSD
-	Altname: JASMYUSD
-	Wsname: JASMY/USD
-	Base:
-	 	Name: JASMY
-		Altname: JASMY
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 100
-	Data about this pair of assets (JASMYUSD):
-		Current:                    0.01172
-		Maximum:                    87.873462
-		Minimum:                    72.516316
-		Variance:                   0.174764
-		Mean:                       81.996666
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.217391
-		Is ascending:               True
-		Current ascension duration: 114
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.058824
-		Is falling:                 True
-		Current fall duration:      12
-		Trending downwards:         True
-		Average local maximum:      0.012199
-		Number of local maximums:   23
-		Average local minimum:      0.012412
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 5
-Losses: 92
-Total points: -44.555927141189215%
-Wallet: 6393.722436966339
+Losses: 93
+Total points: -45.07592714118922%
+Wallet: 6360.475080294114
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
