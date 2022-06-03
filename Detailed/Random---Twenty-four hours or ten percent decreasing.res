@@ -18359,3 +18359,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $3261.3174554332045
 ---------------------------------------------------------------------------
+[2022-06-03 18:24:17] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: PSTAKEUSD
+Altname: PSTAKEUSD
+Wsname: PSTAKE/USD
+Base:
+ 	Name: PSTAKE
+	Altname: PSTAKE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (PSTAKEUSD):
+	Current:                    0.2267
+	Maximum:                    4.411116
+	Minimum:                    3.889537
+	Variance:                   0.118242
+	Mean:                       4.11513
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.75
+	Is ascending:               True
+	Current ascension duration: 91
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.142857
+	Is falling:                 True
+	Current fall duration:      23
+	Trending downwards:         True
+	Average local maximum:      0.243042
+	Number of local maximums:   12
+	Average local minimum:      0.250257
+	Number of local minimums:   7
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3244.3586046649516
+---------------------------------------------------------------------------

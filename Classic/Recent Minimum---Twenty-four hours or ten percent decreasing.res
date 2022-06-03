@@ -1706,3 +1706,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $3388.62963
 Recent Minimum---Twenty-four hours or ten percent decreasing has bought CVX for $8.63
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $3388.6296328733747
 ---------------------------------------------------------------------------
+[2022-06-03 18:24:17] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold CVX for $8.63. Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $3371.0087587824332
+---------------------------------------------------------------------------

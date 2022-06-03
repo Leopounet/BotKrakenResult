@@ -1106,3 +1106,7 @@ Recent Minimum---Random now has $4671.3177740533465
 Recent Minimum---Random has bought CVX for $8.63
 Recent Minimum---Random now has $4671.3177740533465
 ---------------------------------------------------------------------------
+[2022-06-03 18:24:17] SOLD
+Recent Minimum---Random has sold CVX for $8.63. Profit was -0.52%.
+Recent Minimum---Random now has $4647.0269216282695
+---------------------------------------------------------------------------
