@@ -294,3 +294,7 @@ Random---Twenty-four hours or ten percent now has $8591.770593158837
 Random---Twenty-four hours or ten percent has sold LINK for $7.16081. Profit was -0.612919816894943%.
 Random---Twenty-four hours or ten percent now has $8539.109928571215
 ---------------------------------------------------------------------------
+[2022-06-03 00:21:08] BUY
+Random---Twenty-four hours or ten percent has bought MANA for $1.02966
+Random---Twenty-four hours or ten percent now has $8539.109928571215
+---------------------------------------------------------------------------

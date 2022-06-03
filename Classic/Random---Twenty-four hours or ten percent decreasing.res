@@ -294,3 +294,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8432.244847641934
 Random---Twenty-four hours or ten percent decreasing has sold XLTC for $64.33. Profit was -0.737155266015201%.
 Random---Twenty-four hours or ten percent decreasing now has $8370.086110704246
 ---------------------------------------------------------------------------
+[2022-06-03 00:21:08] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WOO for $0.1608
+Random---Twenty-four hours or ten percent decreasing now has $8370.086110704246
+---------------------------------------------------------------------------
