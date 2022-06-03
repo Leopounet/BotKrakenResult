@@ -994,3 +994,7 @@ Random---Twenty-four hours or ten percent now has $5393.360348096525
 Random---Twenty-four hours or ten percent has bought DOT for $9.7286
 Random---Twenty-four hours or ten percent now has $5393.360348096525
 ---------------------------------------------------------------------------
+[2022-06-03 09:04:59] SOLD
+Random---Twenty-four hours or ten percent has sold DOT for $9.7147. Profit was -0.662877700799704%.
+Random---Twenty-four hours or ten percent now has $5357.60896502522
+---------------------------------------------------------------------------
