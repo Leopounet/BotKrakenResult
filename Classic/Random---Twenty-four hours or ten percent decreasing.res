@@ -1750,3 +1750,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3181.2332992729366
 Random---Twenty-four hours or ten percent decreasing has sold CRV for $1.181. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3164.690886116717
 ---------------------------------------------------------------------------
+[2022-06-03 18:57:08] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GNO for $185.97
+Random---Twenty-four hours or ten percent decreasing now has $3164.690886116717
+---------------------------------------------------------------------------
