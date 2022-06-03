@@ -3438,3 +3438,46 @@ Is init: True
 Profit was -0.4020891874105589%.
 Lower All Local Minimums---Always now has $8468.93237165346
 ---------------------------------------------------------------------------
+[2022-06-03 00:38:51] BUY
+Lower All Local Minimums---Always has bought: 
+Name: USDCHF
+Altname: USDCHF
+Wsname: USD/CHF
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: CHF
+	Altname: CHF
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDCHF):
+	Current:                    0.9576
+	Maximum:                    1.045446
+	Minimum:                    1.035357
+	Variance:                   0.00965
+	Mean:                       1.040875
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.576923
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.516129
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.960804
+	Number of local maximums:   26
+	Average local minimum:      0.960492
+	Number of local minimums:   31
+Is init: True
+
+Lower All Local Minimums---Always now has $8468.93237165346
+---------------------------------------------------------------------------

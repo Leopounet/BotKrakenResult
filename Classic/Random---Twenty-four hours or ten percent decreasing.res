@@ -318,3 +318,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8263.783592392603
 Random---Twenty-four hours or ten percent decreasing has sold REN for $0.1488. Profit was -0.7880965147453196%.
 Random---Twenty-four hours or ten percent decreasing now has $8198.657001914862
 ---------------------------------------------------------------------------
+[2022-06-03 00:38:51] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KIN for $1.459e-05
+Random---Twenty-four hours or ten percent decreasing now has $8198.657001914862
+---------------------------------------------------------------------------

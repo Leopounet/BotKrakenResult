@@ -318,3 +318,7 @@ Random---Twenty-four hours or ten percent now has $8458.132210357226
 Random---Twenty-four hours or ten percent has sold OXT for $0.13177. Profit was -0.04725886389628409%.
 Random---Twenty-four hours or ten percent now has $8454.134993167765
 ---------------------------------------------------------------------------
+[2022-06-03 00:38:51] BUY
+Random---Twenty-four hours or ten percent has bought SNX for $2.954
+Random---Twenty-four hours or ten percent now has $8454.134993167765
+---------------------------------------------------------------------------
