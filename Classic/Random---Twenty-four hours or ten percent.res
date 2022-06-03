@@ -1254,3 +1254,7 @@ Random---Twenty-four hours or ten percent now has $4566.978790299433
 Random---Twenty-four hours or ten percent has sold AUDIO for $0.3851. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4543.230500589876
 ---------------------------------------------------------------------------
+[2022-06-03 12:31:56] BUY
+Random---Twenty-four hours or ten percent has bought PHA for $0.1224
+Random---Twenty-four hours or ten percent now has $4543.230500589876
+---------------------------------------------------------------------------
