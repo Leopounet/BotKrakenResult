@@ -1,4 +1,4 @@
-[2022-06-03 08:01:49] SUMMARY
+[2022-06-03 08:05:15] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KINUSD
+	Altname: KINUSD
+	Wsname: KIN/USD
+	Base:
+	 	Name: KIN
+		Altname: KIN
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 250000
+	Data about this pair of assets (KINUSD):
+		Current:                    1.5e-05
+		Maximum:                    72202.166065
+		Minimum:                    67704.807041
+		Variance:                   0.062288
+		Mean:                       69999.011114
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.727273
+		Is ascending:               True
+		Current ascension duration: 20
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.3
+		Is falling:                 True
+		Current fall duration:      17
+		Trending downwards:         False
+		Average local maximum:      1.4e-05
+		Number of local maximums:   33
+		Average local minimum:      1.4e-05
+		Number of local minimums:   30
+	Is init: True
 Wins: 0
 Losses: 115
 Total points: -62.0299779626762%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ZGBPZUSD
+	Altname: GBPUSD
+	Wsname: GBP/USD
+	Base:
+	 	Name: ZGBP
+		Altname: GBP
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (ZGBPZUSD):
+		Current:                    1.25749
+		Maximum:                    0.802195
+		Minimum:                    0.79228
+		Variance:                   0.01236
+		Mean:                       0.796602
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.5
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.6
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      1.255187
+		Number of local maximums:   24
+		Average local minimum:      1.255139
+		Number of local minimums:   20
+	Is init: True
 Wins: 5
 Losses: 110
 Total points: -56.99741422068895%

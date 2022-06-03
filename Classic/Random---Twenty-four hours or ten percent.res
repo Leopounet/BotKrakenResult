@@ -918,3 +918,7 @@ Random---Twenty-four hours or ten percent now has $5676.277474645906
 Random---Twenty-four hours or ten percent has sold DOT for $9.7623. Profit was -0.6110840019649695%.
 Random---Twenty-four hours or ten percent now has $5641.590651091204
 ---------------------------------------------------------------------------
+[2022-06-03 08:05:15] BUY
+Random---Twenty-four hours or ten percent has bought ZGBP for $1.25749
+Random---Twenty-four hours or ten percent now has $5641.590651091204
+---------------------------------------------------------------------------

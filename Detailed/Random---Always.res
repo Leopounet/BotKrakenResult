@@ -9888,3 +9888,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $5368.272027118997
 ---------------------------------------------------------------------------
+[2022-06-03 08:05:15] BUY
+Random---Always has bought: 
+Name: KINUSD
+Altname: KINUSD
+Wsname: KIN/USD
+Base:
+ 	Name: KIN
+	Altname: KIN
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250000
+Data about this pair of assets (KINUSD):
+	Current:                    1.5e-05
+	Maximum:                    72202.166065
+	Minimum:                    67704.807041
+	Variance:                   0.062288
+	Mean:                       69999.011114
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.727273
+	Is ascending:               True
+	Current ascension duration: 20
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.3
+	Is falling:                 True
+	Current fall duration:      17
+	Trending downwards:         False
+	Average local maximum:      1.4e-05
+	Number of local maximums:   33
+	Average local minimum:      1.4e-05
+	Number of local minimums:   30
+Is init: True
+
+Random---Always now has $5368.272027118997
+---------------------------------------------------------------------------

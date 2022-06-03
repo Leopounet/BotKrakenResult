@@ -918,3 +918,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5624.364066184095
 Random---Twenty-four hours or ten percent decreasing has sold CFG for $0.3365. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5595.117373039937
 ---------------------------------------------------------------------------
+[2022-06-03 08:05:15] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SHIB for $1.098e-05
+Random---Twenty-four hours or ten percent decreasing now has $5595.117373039937
+---------------------------------------------------------------------------
