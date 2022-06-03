@@ -1206,3 +1206,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4556.090075896395
 Random---Twenty-four hours or ten percent decreasing has sold ZUSD for $1.25725. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $4537.8657155928095
 ---------------------------------------------------------------------------
+[2022-06-03 11:54:25] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ALGO for $0.37449
+Random---Twenty-four hours or ten percent decreasing now has $4537.8657155928095
+---------------------------------------------------------------------------
