@@ -1,4 +1,4 @@
-[2022-06-03 22:20:13] SUMMARY
+[2022-06-03 22:23:11] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.873
-		Maximum:                    1.166861
-		Minimum:                    1.009082
-		Variance:                   0.135217
-		Mean:                       1.091671
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.029412
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.434783
-		Is falling:                 True
-		Current fall duration:      27
-		Trending downwards:         True
-		Average local maximum:      0.916059
-		Number of local maximums:   34
-		Average local minimum:      0.919261
-		Number of local minimums:   23
-	Is init: True
+	None
 Wins: 1
-Losses: 252
-Total points: -133.11409509306486%
-Wallet: 2631.730839314514
+Losses: 253
+Total points: -133.63409509306487%
+Wallet: 2618.0458389500786
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WAVESUSD
-	Altname: WAVESUSD
-	Wsname: WAVES/USD
-	Base:
-	 	Name: WAVES
-		Altname: WAVES
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (WAVESUSD):
-		Current:                    9.7335
-		Maximum:                    0.117647
-		Minimum:                    0.090562
-		Variance:                   0.230219
-		Mean:                       0.10447
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.321429
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.709677
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         False
-		Average local maximum:      9.489446
-		Number of local maximums:   28
-		Average local minimum:      9.529968
-		Number of local minimums:   31
-	Is init: True
+	None
 Wins: 9
-Losses: 244
-Total points: -125.57109900389213%
-Wallet: 2835.859856133346
+Losses: 245
+Total points: -126.24623333378372%
+Wallet: 2816.7139926969753
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
