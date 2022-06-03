@@ -7179,3 +7179,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $6808.718320751964
 ---------------------------------------------------------------------------
+[2022-06-03 04:55:31] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: REPV2USD
+Altname: REPV2USD
+Wsname: REPV2/USD
+Base:
+ 	Name: REPV2
+	Altname: REPV2
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (REPV2USD):
+	Current:                    9.929
+	Maximum:                    0.105719
+	Minimum:                    0.09214
+	Variance:                   0.128444
+	Mean:                       0.100621
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.181818
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.125
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      10.021091
+	Number of local maximums:   22
+	Average local minimum:      10.044875
+	Number of local minimums:   16
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $6773.312985484054
+---------------------------------------------------------------------------
