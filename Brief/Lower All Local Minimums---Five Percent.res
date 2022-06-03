@@ -4,3 +4,9 @@ Lower All Local Minimums---Five Percent has 0 losses
 Lower All Local Minimums---Five Percent has 0 points
 Lower All Local Minimums---Five Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-03 03:21:09] BRIEF
+Lower All Local Minimums---Five Percent has 1 wins
+Lower All Local Minimums---Five Percent has 0 losses
+Lower All Local Minimums---Five Percent has 6.705433526011571 points
+Lower All Local Minimums---Five Percent now has $10670.543352601157
+---------------------------------------------------------------------------
