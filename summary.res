@@ -1,4 +1,4 @@
-[2022-06-03 01:43:41] SUMMARY
+[2022-06-03 01:46:38] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BATUSD
-	Altname: BATUSD
-	Wsname: BAT/USD
-	Base:
-	 	Name: BAT
-		Altname: BAT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (BATUSD):
-		Current:                    0.40032
-		Maximum:                    2.665245
-		Minimum:                    2.373211
-		Variance:                   0.109571
-		Mean:                       2.527046
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.428571
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.625
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         False
-		Average local maximum:      0.395068
-		Number of local maximums:   28
-		Average local minimum:      0.391342
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 0
-Losses: 51
-Total points: -27.802785658670423%
-Wallet: 7566.665729768696
+Losses: 52
+Total points: -28.322785658670423%
+Wallet: 7527.319067973899
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KAVAUSD
+	Altname: KAVAUSD
+	Wsname: KAVA/USD
+	Base:
+	 	Name: KAVA
+		Altname: KAVA
+		decimals: 8
+		displayed_decimals: 6
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (KAVAUSD):
+		Current:                    2.6164
+		Maximum:                    0.390411
+		Minimum:                    0.320246
+		Variance:                   0.179722
+		Mean:                       0.366988
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.5
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.571429
+		Is falling:                 True
+		Current fall duration:      6
+		Trending downwards:         True
+		Average local maximum:      2.74945
+		Number of local maximums:   18
+		Average local minimum:      2.72201
+		Number of local minimums:   21
+	Is init: True
 Wins: 2
 Losses: 37
 Total points: -19.51941596221015%

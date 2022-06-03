@@ -4427,3 +4427,46 @@ Is init: True
 
 Random---Always now has $7566.665729768696
 ---------------------------------------------------------------------------
+[2022-06-03 01:46:38] SOLD
+Random---Always has sold: 
+Name: BATUSD
+Altname: BATUSD
+Wsname: BAT/USD
+Base:
+ 	Name: BAT
+	Altname: BAT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (BATUSD):
+	Current:                    0.40032
+	Maximum:                    2.665245
+	Minimum:                    2.373211
+	Variance:                   0.109571
+	Mean:                       2.527046
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.428571
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.625
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         False
+	Average local maximum:      0.395068
+	Number of local maximums:   28
+	Average local minimum:      0.391342
+	Number of local minimums:   32
+Is init: True
+Profit was -0.52%.
+Random---Always now has $7527.319067973899
+---------------------------------------------------------------------------
