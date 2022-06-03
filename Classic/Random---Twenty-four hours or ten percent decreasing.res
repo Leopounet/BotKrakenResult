@@ -1422,3 +1422,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3892.48989816452
 Random---Twenty-four hours or ten percent decreasing has sold T for $0.0514. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3872.2489506940647
 ---------------------------------------------------------------------------
+[2022-06-03 14:47:02] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WBTC for $29496.0
+Random---Twenty-four hours or ten percent decreasing now has $3872.2489506940647
+---------------------------------------------------------------------------
