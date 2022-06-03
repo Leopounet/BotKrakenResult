@@ -622,3 +622,7 @@ Random---Twenty-four hours or ten percent now has $7023.970397300794
 Random---Twenty-four hours or ten percent has sold FTM for $0.372. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6987.44575123483
 ---------------------------------------------------------------------------
+[2022-06-03 04:23:09] BUY
+Random---Twenty-four hours or ten percent has bought KNC for $1.9873
+Random---Twenty-four hours or ten percent now has $6987.44575123483
+---------------------------------------------------------------------------

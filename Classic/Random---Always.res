@@ -622,3 +622,7 @@ Random---Always now has $6620.856782461412
 Random---Always has sold 1INCH for $0.91. Profit was -0.52%.
 Random---Always now has $6586.428327192612
 ---------------------------------------------------------------------------
+[2022-06-03 04:23:09] BUY
+Random---Always has bought OCEAN for $0.2141
+Random---Always now has $6586.428327192612
+---------------------------------------------------------------------------

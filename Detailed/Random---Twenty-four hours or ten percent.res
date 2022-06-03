@@ -6706,3 +6706,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6987.44575123483
 ---------------------------------------------------------------------------
+[2022-06-03 04:23:09] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: KNCUSD
+Altname: KNCUSD
+Wsname: KNC/USD
+Base:
+ 	Name: KNC
+	Altname: KNC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (KNCUSD):
+	Current:                    1.9873
+	Maximum:                    0.526704
+	Minimum:                    0.438866
+	Variance:                   0.166769
+	Mean:                       0.491343
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.130435
+	Is ascending:               True
+	Current ascension duration: 17
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.875
+	Is falling:                 True
+	Current fall duration:      18
+	Trending downwards:         True
+	Average local maximum:      2.025213
+	Number of local maximums:   23
+	Average local minimum:      2.023408
+	Number of local minimums:   24
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $6987.44575123483
+---------------------------------------------------------------------------
