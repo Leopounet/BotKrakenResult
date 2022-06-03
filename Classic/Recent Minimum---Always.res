@@ -2098,3 +2098,7 @@ Recent Minimum---Always now has $2630.7842324204566
 Recent Minimum---Always has bought ALGO for $0.38205
 Recent Minimum---Always now has $2630.7842324204566
 ---------------------------------------------------------------------------
+[2022-06-03 23:17:43] SOLD
+Recent Minimum---Always has sold ALGO for $0.38109. Profit was -0.7712760109933288%.
+Recent Minimum---Always now has $2610.493624734803
+---------------------------------------------------------------------------

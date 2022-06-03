@@ -22573,3 +22573,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2970.1730284543623
 ---------------------------------------------------------------------------
+[2022-06-03 23:17:43] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold: 
+Name: CVXUSD
+Altname: CVXUSD
+Wsname: CVX/USD
+Base:
+ 	Name: CVX
+	Altname: CVX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (CVXUSD):
+	Current:                    8.32
+	Maximum:                    0.121065
+	Minimum:                    0.097943
+	Variance:                   0.190989
+	Mean:                       0.111453
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.516129
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.576923
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      9.12
+	Number of local maximums:   31
+	Average local minimum:      8.983077
+	Number of local minimums:   26
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2954.7281287063997
+---------------------------------------------------------------------------

@@ -2098,3 +2098,7 @@ Random---Always now has $2157.853204257456
 Random---Always has bought MINA for $0.849
 Random---Always now has $2157.853204257456
 ---------------------------------------------------------------------------
+[2022-06-03 23:17:43] SOLD
+Random---Always has sold MINA for $0.849. Profit was -0.52%.
+Random---Always now has $2146.632367595317
+---------------------------------------------------------------------------
