@@ -2074,3 +2074,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2604.0953439056434
 Random---Twenty-four hours or ten percent decreasing has bought SGB for $0.0385
 Random---Twenty-four hours or ten percent decreasing now has $2604.0953439056434
 ---------------------------------------------------------------------------
+[2022-06-03 22:59:20] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SGB for $0.0385. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2590.554048117334
+---------------------------------------------------------------------------

@@ -22315,3 +22315,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $2604.0953439056434
 ---------------------------------------------------------------------------
+[2022-06-03 22:59:20] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: SGBUSD
+Altname: SGBUSD
+Wsname: SGB/USD
+Base:
+ 	Name: SGB
+	Altname: SGB
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 150
+Data about this pair of assets (SGBUSD):
+	Current:                    0.0385
+	Maximum:                    27.472527
+	Minimum:                    25.252525
+	Variance:                   0.080808
+	Mean:                       26.365289
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.222222
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.793103
+	Is falling:                 True
+	Current fall duration:      21
+	Trending downwards:         True
+	Average local maximum:      0.037896
+	Number of local maximums:   27
+	Average local minimum:      0.037893
+	Number of local minimums:   29
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2590.554048117334
+---------------------------------------------------------------------------
