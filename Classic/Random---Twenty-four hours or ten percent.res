@@ -1446,3 +1446,7 @@ Random---Twenty-four hours or ten percent now has $4069.2409165241684
 Random---Twenty-four hours or ten percent has sold KIN for $1.556e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4048.0808637582427
 ---------------------------------------------------------------------------
+[2022-06-03 15:06:21] BUY
+Random---Twenty-four hours or ten percent has bought TOKE for $3.18
+Random---Twenty-four hours or ten percent now has $4048.0808637582427
+---------------------------------------------------------------------------

@@ -1446,3 +1446,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3832.082267218473
 Random---Twenty-four hours or ten percent decreasing has sold FIDA for $0.466. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3812.155439428937
 ---------------------------------------------------------------------------
+[2022-06-03 15:06:21] BUY
+Random---Twenty-four hours or ten percent decreasing has bought YFI for $7169.0
+Random---Twenty-four hours or ten percent decreasing now has $3812.155439428937
+---------------------------------------------------------------------------

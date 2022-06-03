@@ -1446,3 +1446,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold OCEAN for $0.2. Profit was -0.5699750124937526%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $4187.551431139774
 ---------------------------------------------------------------------------
+[2022-06-03 15:06:21] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought BAT for $0.37377
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $4187.551431139774
+---------------------------------------------------------------------------

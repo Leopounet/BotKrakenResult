@@ -1446,3 +1446,7 @@ Lower All Local Minimums---Always now has $4211.556249398464
 Lower All Local Minimums---Always has sold OCEAN for $0.2. Profit was -0.5699750124937526%.
 Lower All Local Minimums---Always now has $4187.551431139774
 ---------------------------------------------------------------------------
+[2022-06-03 15:06:21] BUY
+Lower All Local Minimums---Always has bought BAT for $0.37377
+Lower All Local Minimums---Always now has $4187.551431139774
+---------------------------------------------------------------------------
