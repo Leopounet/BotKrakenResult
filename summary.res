@@ -1,4 +1,4 @@
-[2022-06-03 07:14:29] SUMMARY
+[2022-06-03 07:17:26] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BCHUSD
-	Altname: BCHUSD
-	Wsname: BCH/USD
-	Base:
-	 	Name: BCH
-		Altname: BCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.01
-	Data about this pair of assets (BCHUSD):
-		Current:                    188.66
-		Maximum:                    0.005472
-		Minimum:                    0.00481
-		Variance:                   0.120929
-		Mean:                       0.005218
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.789474
-		Is ascending:               True
-		Current ascension duration: 10
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.375
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      191.961579
-		Number of local maximums:   19
-		Average local minimum:      191.119583
-		Number of local minimums:   24
-	Is init: True
+	None
 Wins: 0
-Losses: 107
-Total points: -58.19007328658633%
-Wallet: 5578.95083252769
+Losses: 108
+Total points: -58.439745713173856%
+Wallet: 5565.021730605993
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ALICEUSD
-	Altname: ALICEUSD
-	Wsname: ALICE/USD
-	Base:
-	 	Name: ALICE
-		Altname: ALICE
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (ALICEUSD):
-		Current:                    2.85
-		Maximum:                    0.360231
-		Minimum:                    0.314465
-		Variance:                   0.127044
-		Mean:                       0.341777
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.6
-		Is ascending:               True
-		Current ascension duration: 58
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.5
-		Is falling:                 True
-		Current fall duration:      33
-		Trending downwards:         True
-		Average local maximum:      2.9341
-		Number of local maximums:   10
-		Average local minimum:      2.98375
-		Number of local minimums:   12
-	Is init: True
+	None
 Wins: 5
-Losses: 102
-Total points: -52.96906341971264%
-Wallet: 5874.100733343605
+Losses: 103
+Total points: -53.48906341971264%
+Wallet: 5843.555409530218
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

@@ -9243,3 +9243,46 @@ Is init: True
 
 Random---Always now has $5578.95083252769
 ---------------------------------------------------------------------------
+[2022-06-03 07:17:26] SOLD
+Random---Always has sold: 
+Name: BCHUSD
+Altname: BCHUSD
+Wsname: BCH/USD
+Base:
+ 	Name: BCH
+	Altname: BCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.01
+Data about this pair of assets (BCHUSD):
+	Current:                    188.66
+	Maximum:                    0.005472
+	Minimum:                    0.00481
+	Variance:                   0.120929
+	Mean:                       0.005218
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.789474
+	Is ascending:               True
+	Current ascension duration: 10
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.375
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      191.961579
+	Number of local maximums:   19
+	Average local minimum:      191.119583
+	Number of local minimums:   24
+Is init: True
+Profit was -0.24967242658752342%.
+Random---Always now has $5565.021730605993
+---------------------------------------------------------------------------

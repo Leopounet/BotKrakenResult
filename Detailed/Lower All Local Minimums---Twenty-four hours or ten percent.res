@@ -9243,3 +9243,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent now has $6184.507201721689
 ---------------------------------------------------------------------------
+[2022-06-03 07:17:26] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold: 
+Name: DASHUSD
+Altname: DASHUSD
+Wsname: DASH/USD
+Base:
+ 	Name: DASH
+	Altname: DASH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.03
+Data about this pair of assets (DASHUSD):
+	Current:                    58.384
+	Maximum:                    0.017237
+	Minimum:                    0.014818
+	Variance:                   0.140327
+	Mean:                       0.016396
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.107143
+	Is ascending:               True
+	Current ascension duration: 14
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.896552
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      61.113321
+	Number of local maximums:   28
+	Average local minimum:      61.088069
+	Number of local minimums:   29
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $6152.347764272736
+---------------------------------------------------------------------------

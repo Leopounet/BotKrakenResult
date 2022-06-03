@@ -858,3 +858,7 @@ Random---Twenty-four hours or ten percent now has $5874.100733343605
 Random---Twenty-four hours or ten percent has bought ALICE for $2.85
 Random---Twenty-four hours or ten percent now has $5874.100733343605
 ---------------------------------------------------------------------------
+[2022-06-03 07:17:26] SOLD
+Random---Twenty-four hours or ten percent has sold ALICE for $2.85. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $5843.555409530218
+---------------------------------------------------------------------------
