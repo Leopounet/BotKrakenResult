@@ -1630,3 +1630,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3428.6223957802144
 Random---Twenty-four hours or ten percent decreasing has sold PHA for $0.1229. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3410.7935593221573
 ---------------------------------------------------------------------------
+[2022-06-03 17:27:48] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MATIC for $0.5827
+Random---Twenty-four hours or ten percent decreasing now has $3410.7935593221573
+---------------------------------------------------------------------------

@@ -1630,3 +1630,7 @@ Random---Twenty-four hours or ten percent now has $3582.2628696118854
 Random---Twenty-four hours or ten percent has sold GST for $0.879. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3563.6351026899038
 ---------------------------------------------------------------------------
+[2022-06-03 17:27:48] BUY
+Random---Twenty-four hours or ten percent has bought CHZ for $0.121
+Random---Twenty-four hours or ten percent now has $3563.6351026899038
+---------------------------------------------------------------------------
