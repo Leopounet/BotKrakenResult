@@ -1790,3 +1790,7 @@ Random---Twenty-four hours or ten percent now has $3247.2043988487007
 Random---Twenty-four hours or ten percent has sold ALCX for $28.43. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3230.3189359746875
 ---------------------------------------------------------------------------
+[2022-06-03 19:26:54] BUY
+Random---Twenty-four hours or ten percent has bought OGN for $0.282
+Random---Twenty-four hours or ten percent now has $3230.3189359746875
+---------------------------------------------------------------------------
