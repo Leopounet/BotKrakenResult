@@ -12425,3 +12425,46 @@ Is init: True
 
 Random---Random now has $4276.913205481703
 ---------------------------------------------------------------------------
+[2022-06-03 18:48:14] SOLD
+Random---Random has sold: 
+Name: REPV2USD
+Altname: REPV2USD
+Wsname: REPV2/USD
+Base:
+ 	Name: REPV2
+	Altname: REPV2
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (REPV2USD):
+	Current:                    9.665
+	Maximum:                    0.105719
+	Minimum:                    0.092945
+	Variance:                   0.120829
+	Mean:                       0.102453
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.210526
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.071429
+	Is falling:                 True
+	Current fall duration:      27
+	Trending downwards:         True
+	Average local maximum:      9.742895
+	Number of local maximums:   19
+	Average local minimum:      9.8025
+	Number of local minimums:   14
+Is init: True
+Profit was -0.52%.
+Random---Random now has $4254.673256813198
+---------------------------------------------------------------------------
