@@ -806,3 +806,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6062.545840080783
 Random---Twenty-four hours or ten percent decreasing has sold GLMR for $1.369. Profit was -1.5322921185827916%.
 Random---Twenty-four hours or ten percent decreasing now has $5969.649927987756
 ---------------------------------------------------------------------------
+[2022-06-03 06:38:47] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GST for $0.981
+Random---Twenty-four hours or ten percent decreasing now has $5969.649927987756
+---------------------------------------------------------------------------
