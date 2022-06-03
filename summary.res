@@ -1,4 +1,4 @@
-[2022-06-03 13:36:09] SUMMARY
+[2022-06-03 13:39:30] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,100 +8,26 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: IDEXUSD
-	Altname: IDEXUSD
-	Wsname: IDEX/USD
-	Base:
-	 	Name: IDEX
-		Altname: IDEX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 50
-	Data about this pair of assets (IDEXUSD):
-		Current:                    0.07725
-		Maximum:                    15.681355
-		Minimum:                    11.906179
-		Variance:                   0.240743
-		Mean:                       13.135265
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.6
-		Is ascending:               True
-		Current ascension duration: 105
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.5
-		Is falling:                 True
-		Current fall duration:      191
-		Trending downwards:         True
-		Average local maximum:      0.076691
-		Number of local maximums:   10
-		Average local minimum:      0.078902
-		Number of local minimums:   12
-	Is init: True
+	None
 Wins: 0
-Losses: 167
-Total points: -95.22326971823934%
-Wallet: 3844.389495765993
+Losses: 168
+Total points: -95.74326971823933%
+Wallet: 3824.39867038801
 ---------------------------------------------------------------------------
 Most wins: 
-Name: Variance---Random
-BuyStrategy description: Looks for the asset which has the highest Variance.
-SellStrategy description: Random.
+Name: Random---Twenty-four hours or ten percent
+BuyStrategy description: Random.
+SellStrategy description: Sells when the profit is 10% or it has been 24h.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WOOUSD
-	Altname: WOOUSD
-	Wsname: WOO/USD
-	Base:
-	 	Name: WOO
-		Altname: WOO
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (WOOUSD):
-		Current:                    0.1542
-		Maximum:                    6.7659
-		Minimum:                    2.534212
-		Variance:                   0.625443
-		Mean:                       6.03952
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.434783
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               6.272727
-		Is falling:                 True
-		Current fall duration:      12
-		Trending downwards:         True
-		Average local maximum:      0.16853
-		Number of local maximums:   23
-		Average local minimum:      0.169327
-		Number of local minimums:   11
-	Is init: True
+	None
 Wins: 7
-Losses: 107
-Total points: -25.127844933424754%
-Wallet: 7233.233571508782
+Losses: 161
+Total points: -83.52248159456636%
+Wallet: 4323.381039692941
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
