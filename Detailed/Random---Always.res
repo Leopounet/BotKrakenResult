@@ -15607,3 +15607,46 @@ Is init: True
 
 Random---Always now has $3560.4775547632476
 ---------------------------------------------------------------------------
+[2022-06-03 15:10:02] SOLD
+Random---Always has sold: 
+Name: ATLASUSD
+Altname: ATLASUSD
+Wsname: ATLAS/USD
+Base:
+ 	Name: ATLAS
+	Altname: ATLAS
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 500
+Data about this pair of assets (ATLASUSD):
+	Current:                    0.00843
+	Maximum:                    125.470514
+	Minimum:                    109.89011
+	Variance:                   0.124176
+	Mean:                       117.264268
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.923077
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.294118
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         True
+	Average local maximum:      0.008452
+	Number of local maximums:   13
+	Average local minimum:      0.00852
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Always now has $3541.9630714784785
+---------------------------------------------------------------------------
