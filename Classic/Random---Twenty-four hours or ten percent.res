@@ -446,3 +446,7 @@ Random---Twenty-four hours or ten percent now has $7816.2999149969555
 Random---Twenty-four hours or ten percent has sold KSM for $72.93. Profit was -0.7525581395348664%.
 Random---Twenty-four hours or ten percent now has $7757.477713776189
 ---------------------------------------------------------------------------
+[2022-06-03 02:13:11] BUY
+Random---Twenty-four hours or ten percent has bought RARI for $2.97
+Random---Twenty-four hours or ten percent now has $7757.477713776189
+---------------------------------------------------------------------------

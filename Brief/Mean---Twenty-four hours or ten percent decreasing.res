@@ -670,3 +670,9 @@ Mean---Twenty-four hours or ten percent decreasing has 56 losses
 Mean---Twenty-four hours or ten percent decreasing has -29.121037390182817 points
 Mean---Twenty-four hours or ten percent decreasing now has $7467.419064036653
 ---------------------------------------------------------------------------
+[2022-06-03 02:13:11] BRIEF
+Mean---Twenty-four hours or ten percent decreasing has 0 wins
+Mean---Twenty-four hours or ten percent decreasing has 56 losses
+Mean---Twenty-four hours or ten percent decreasing has -29.121037390182817 points
+Mean---Twenty-four hours or ten percent decreasing now has $7467.419064036653
+---------------------------------------------------------------------------

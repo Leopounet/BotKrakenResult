@@ -4814,3 +4814,46 @@ Is init: True
 Profit was -0.7525581395348664%.
 Random---Twenty-four hours or ten percent now has $7757.477713776189
 ---------------------------------------------------------------------------
+[2022-06-03 02:13:11] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: RARIUSD
+Altname: RARIUSD
+Wsname: RARI/USD
+Base:
+ 	Name: RARI
+	Altname: RARI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.3
+Data about this pair of assets (RARIUSD):
+	Current:                    2.97
+	Maximum:                    0.346021
+	Minimum:                    0.283286
+	Variance:                   0.181303
+	Mean:                       0.319261
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.71875
+	Is ascending:               True
+	Current ascension duration: 21
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.310345
+	Is falling:                 True
+	Current fall duration:      29
+	Trending downwards:         True
+	Average local maximum:      3.174375
+	Number of local maximums:   32
+	Average local minimum:      3.173103
+	Number of local minimums:   29
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $7757.477713776189
+---------------------------------------------------------------------------
