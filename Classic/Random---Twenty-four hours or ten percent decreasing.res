@@ -990,3 +990,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5322.812855300577
 Random---Twenty-four hours or ten percent decreasing has sold QNT for $66.74. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5295.134228453015
 ---------------------------------------------------------------------------
+[2022-06-03 09:01:52] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ICP for $8.545
+Random---Twenty-four hours or ten percent decreasing now has $5295.134228453015
+---------------------------------------------------------------------------

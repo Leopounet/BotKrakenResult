@@ -678,3 +678,7 @@ Random---Random now has $6576.762498603672
 Random---Random has sold BADGER for $5.963. Profit was -0.52%.
 Random---Random now has $6542.563333610932
 ---------------------------------------------------------------------------
+[2022-06-03 09:01:52] BUY
+Random---Random has bought PHA for $0.1274
+Random---Random now has $6542.563333610932
+---------------------------------------------------------------------------

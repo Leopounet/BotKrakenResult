@@ -990,3 +990,7 @@ Random---Twenty-four hours or ten percent now has $5419.255477785034
 Random---Twenty-four hours or ten percent has sold KSM for $71.18. Profit was -0.47783555867885363%.
 Random---Twenty-four hours or ten percent now has $5393.360348096525
 ---------------------------------------------------------------------------
+[2022-06-03 09:01:52] BUY
+Random---Twenty-four hours or ten percent has bought DOT for $9.7286
+Random---Twenty-four hours or ten percent now has $5393.360348096525
+---------------------------------------------------------------------------

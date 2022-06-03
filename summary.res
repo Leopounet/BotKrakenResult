@@ -1,4 +1,4 @@
-[2022-06-03 08:58:45] SUMMARY
+[2022-06-03 09:01:52] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: BCHUSD
+	Altname: BCHUSD
+	Wsname: BCH/USD
+	Base:
+	 	Name: BCH
+		Altname: BCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.01
+	Data about this pair of assets (BCHUSD):
+		Current:                    188.22
+		Maximum:                    0.005472
+		Minimum:                    0.00481
+		Variance:                   0.120929
+		Mean:                       0.005225
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.45
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.608696
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         True
+		Average local maximum:      191.8215
+		Number of local maximums:   20
+		Average local minimum:      190.864348
+		Number of local minimums:   23
+	Is init: True
 Wins: 0
 Losses: 124
 Total points: -67.18771094758318%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: DOTUSD
+	Altname: DOTUSD
+	Wsname: DOT/USD
+	Base:
+	 	Name: DOT
+		Altname: DOT
+		decimals: 10
+		displayed_decimals: 8
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.2
+	Data about this pair of assets (DOTUSD):
+		Current:                    9.7286
+		Maximum:                    0.107551
+		Minimum:                    0.094073
+		Variance:                   0.125315
+		Mean:                       0.101593
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.423077
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.714286
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      9.763546
+		Number of local maximums:   26
+		Average local minimum:      9.768305
+		Number of local minimums:   21
+	Is init: True
 Wins: 5
 Losses: 119
 Total points: -61.48582608613767%
