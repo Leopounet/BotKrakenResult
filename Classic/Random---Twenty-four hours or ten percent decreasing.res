@@ -702,3 +702,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6496.068747719566
 Random---Twenty-four hours or ten percent decreasing has sold RARE for $0.2575. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6462.289190231424
 ---------------------------------------------------------------------------
+[2022-06-03 05:22:04] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SBR for $0.00916
+Random---Twenty-four hours or ten percent decreasing now has $6462.289190231424
+---------------------------------------------------------------------------
