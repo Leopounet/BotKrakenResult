@@ -1590,3 +1590,7 @@ Random---Twenty-four hours or ten percent now has $3680.5887098329267
 Random---Twenty-four hours or ten percent has sold ENS for $10.77. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3661.4496485417953
 ---------------------------------------------------------------------------
+[2022-06-03 16:58:08] BUY
+Random---Twenty-four hours or ten percent has bought XETH for $1762.19
+Random---Twenty-four hours or ten percent now has $3661.4496485417953
+---------------------------------------------------------------------------

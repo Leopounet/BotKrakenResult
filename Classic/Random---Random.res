@@ -1078,3 +1078,7 @@ Random---Random now has $4523.484145286782
 Random---Random has sold USDC for $1.0. Profit was -0.4%.
 Random---Random now has $4505.390208705635
 ---------------------------------------------------------------------------
+[2022-06-03 16:58:08] BUY
+Random---Random has bought KILT for $0.74
+Random---Random now has $4505.390208705635
+---------------------------------------------------------------------------
