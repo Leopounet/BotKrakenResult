@@ -2050,3 +2050,7 @@ Random---Twenty-four hours or ten percent now has $2787.496331119289
 Random---Twenty-four hours or ten percent has bought BICO for $0.706
 Random---Twenty-four hours or ten percent now has $2787.496331119289
 ---------------------------------------------------------------------------
+[2022-06-03 22:41:01] SOLD
+Random---Twenty-four hours or ten percent has sold BICO for $0.706. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2773.001350197469
+---------------------------------------------------------------------------

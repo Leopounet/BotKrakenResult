@@ -2050,3 +2050,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $3049.596010
 Lower All Local Minimums---Twenty-four hours or ten percent has bought KILT for $0.718
 Lower All Local Minimums---Twenty-four hours or ten percent now has $3049.5960105600743
 ---------------------------------------------------------------------------
+[2022-06-03 22:41:01] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold KILT for $0.718. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $3033.738111305162
+---------------------------------------------------------------------------

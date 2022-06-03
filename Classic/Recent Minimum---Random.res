@@ -1362,3 +1362,7 @@ Recent Minimum---Random now has $4005.3833831445654
 Recent Minimum---Random has bought AVAX for $23.22
 Recent Minimum---Random now has $4005.3833831445654
 ---------------------------------------------------------------------------
+[2022-06-03 22:41:01] SOLD
+Recent Minimum---Random has sold AVAX for $23.1. Profit was -1.0367958656330685%.
+Recent Minimum---Random now has $3963.8557338253686
+---------------------------------------------------------------------------
