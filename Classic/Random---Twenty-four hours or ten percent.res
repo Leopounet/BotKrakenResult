@@ -2010,3 +2010,7 @@ Random---Twenty-four hours or ten percent now has $2865.5844489994392
 Random---Twenty-four hours or ten percent has bought AGLD for $0.481
 Random---Twenty-four hours or ten percent now has $2865.5844489994392
 ---------------------------------------------------------------------------
+[2022-06-03 22:10:37] SOLD
+Random---Twenty-four hours or ten percent has sold AGLD for $0.481. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2850.6834098646423
+---------------------------------------------------------------------------
