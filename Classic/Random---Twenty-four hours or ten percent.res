@@ -322,3 +322,7 @@ Random---Twenty-four hours or ten percent now has $8454.134993167765
 Random---Twenty-four hours or ten percent has bought SNX for $2.954
 Random---Twenty-four hours or ten percent now has $8454.134993167765
 ---------------------------------------------------------------------------
+[2022-06-03 00:41:47] SOLD
+Random---Twenty-four hours or ten percent has sold SNX for $2.954. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $8410.173491203293
+---------------------------------------------------------------------------
