@@ -8297,3 +8297,46 @@ Is init: True
 
 Recent Minimum---Always now has $6077.347001812823
 ---------------------------------------------------------------------------
+[2022-06-03 06:12:17] SOLD
+Recent Minimum---Always has sold: 
+Name: ALGOUSD
+Altname: ALGOUSD
+Wsname: ALGO/USD
+Base:
+ 	Name: ALGO
+	Altname: ALGO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (ALGOUSD):
+	Current:                    0.39264
+	Maximum:                    2.653435
+	Minimum:                    2.354603
+	Variance:                   0.112621
+	Mean:                       2.528642
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.863636
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.142857
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.394553
+	Number of local maximums:   22
+	Average local minimum:      0.39377
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Always now has $6045.744797403396
+---------------------------------------------------------------------------

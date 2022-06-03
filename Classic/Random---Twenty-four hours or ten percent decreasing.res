@@ -770,3 +770,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6187.715931774347
 Random---Twenty-four hours or ten percent decreasing has bought KNC for $1.9936
 Random---Twenty-four hours or ten percent decreasing now has $6187.715931774347
 ---------------------------------------------------------------------------
+[2022-06-03 06:12:17] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold KNC for $1.9936. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $6155.53980892912
+---------------------------------------------------------------------------
