@@ -350,3 +350,7 @@ Random---Twenty-four hours or ten percent now has $8322.935097985981
 Random---Twenty-four hours or ten percent has sold SPELL for $0.001257. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8279.655835476455
 ---------------------------------------------------------------------------
+[2022-06-03 01:02:29] BUY
+Random---Twenty-four hours or ten percent has bought ACA for $0.404
+Random---Twenty-four hours or ten percent now has $8279.655835476455
+---------------------------------------------------------------------------

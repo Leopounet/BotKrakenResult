@@ -350,3 +350,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8071.4218749442225
 Random---Twenty-four hours or ten percent decreasing has sold IDEX for $0.06427. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8029.450481194513
 ---------------------------------------------------------------------------
+[2022-06-03 01:02:29] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KNC for $1.9758
+Random---Twenty-four hours or ten percent decreasing now has $8029.450481194513
+---------------------------------------------------------------------------
