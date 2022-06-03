@@ -3094,3 +3094,46 @@ Is init: True
 Profit was -1.0141985388912662%.
 Random---Random now has $8351.58119146618
 ---------------------------------------------------------------------------
+[2022-06-03 01:28:56] BUY
+Random---Random has bought: 
+Name: GALAUSD
+Altname: GALAUSD
+Wsname: GALA/USD
+Base:
+ 	Name: GALA
+	Altname: GALA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (GALAUSD):
+	Current:                    0.0758
+	Maximum:                    13.831259
+	Minimum:                    11.820331
+	Variance:                   0.14539
+	Mean:                       12.904493
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.590909
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.473684
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.077505
+	Number of local maximums:   22
+	Average local minimum:      0.077721
+	Number of local minimums:   19
+Is init: True
+
+Random---Random now has $8351.58119146618
+---------------------------------------------------------------------------
