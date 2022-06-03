@@ -982,3 +982,7 @@ Random---Twenty-four hours or ten percent decreasing now has $5350.636163349997
 Random---Twenty-four hours or ten percent decreasing has sold SHIB for $1.101e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $5322.812855300577
 ---------------------------------------------------------------------------
+[2022-06-03 08:55:33] BUY
+Random---Twenty-four hours or ten percent decreasing has bought QNT for $66.74
+Random---Twenty-four hours or ten percent decreasing now has $5322.812855300577
+---------------------------------------------------------------------------

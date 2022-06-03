@@ -982,3 +982,7 @@ Random---Always now has $5145.354688461886
 Random---Always has sold RUNE for $2.791. Profit was -0.52%.
 Random---Always now has $5118.598844081885
 ---------------------------------------------------------------------------
+[2022-06-03 08:55:33] BUY
+Random---Always has bought USDC for $1.0
+Random---Always now has $5118.598844081885
+---------------------------------------------------------------------------

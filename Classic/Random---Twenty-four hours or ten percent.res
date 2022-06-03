@@ -982,3 +982,7 @@ Random---Twenty-four hours or ten percent now has $5447.582908911373
 Random---Twenty-four hours or ten percent has sold XXRP for $0.4014. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $5419.255477785034
 ---------------------------------------------------------------------------
+[2022-06-03 08:55:33] BUY
+Random---Twenty-four hours or ten percent has bought KSM for $71.15
+Random---Twenty-four hours or ten percent now has $5419.255477785034
+---------------------------------------------------------------------------
