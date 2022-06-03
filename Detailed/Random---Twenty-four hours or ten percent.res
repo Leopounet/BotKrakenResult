@@ -4943,3 +4943,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $7899.97500473672
 ---------------------------------------------------------------------------
+[2022-06-03 02:22:04] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: OGNUSD
+Altname: OGNUSD
+Wsname: OGN/USD
+Base:
+ 	Name: OGN
+	Altname: OGN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (OGNUSD):
+	Current:                    0.3126
+	Maximum:                    3.723008
+	Minimum:                    2.545825
+	Variance:                   0.316191
+	Mean:                       3.27676
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.588235
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               1.961538
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.313506
+	Number of local maximums:   17
+	Average local minimum:      0.314096
+	Number of local minimums:   26
+Is init: True
+Profit was -1.1597952655150308%.
+Random---Twenty-four hours or ten percent now has $7808.351468654912
+---------------------------------------------------------------------------

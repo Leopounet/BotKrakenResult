@@ -1,4 +1,4 @@
-[2022-06-03 02:19:08] SUMMARY
+[2022-06-03 02:22:04] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SDNUSD
-	Altname: SDNUSD
-	Wsname: SDN/USD
-	Base:
-	 	Name: SDN
-		Altname: SDN
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (SDNUSD):
-		Current:                    0.383
-		Maximum:                    2.754821
-		Minimum:                    2.320186
-		Variance:                   0.157773
-		Mean:                       2.555972
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.95
-		Is ascending:               True
-		Current ascension duration: 67
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.615385
-		Is falling:                 True
-		Current fall duration:      115
-		Trending downwards:         True
-		Average local maximum:      0.39435
-		Number of local maximums:   20
-		Average local minimum:      0.392923
-		Number of local minimums:   13
-	Is init: True
+	None
 Wins: 0
-Losses: 57
-Total points: -30.8041639044392%
-Wallet: 7342.378360327413
+Losses: 58
+Total points: -31.3241639044392%
+Wallet: 7304.19799285371
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: OGNUSD
-	Altname: OGNUSD
-	Wsname: OGN/USD
-	Base:
-	 	Name: OGN
-		Altname: OGN
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (OGNUSD):
-		Current:                    0.3126
-		Maximum:                    3.723008
-		Minimum:                    2.545825
-		Variance:                   0.316191
-		Mean:                       3.27676
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.588235
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.961538
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.313506
-		Number of local maximums:   17
-		Average local minimum:      0.314096
-		Number of local minimums:   26
-	Is init: True
+	None
 Wins: 3
-Losses: 54
-Total points: -23.473832268385113%
-Wallet: 7899.97500473672
+Losses: 55
+Total points: -24.633627533900142%
+Wallet: 7808.351468654912
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
