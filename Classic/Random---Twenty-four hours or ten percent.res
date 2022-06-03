@@ -270,3 +270,7 @@ Random---Twenty-four hours or ten percent now has $8550.621993439761
 Random---Twenty-four hours or ten percent has sold XREP for $10.084. Profit was 1.534447930371417%.
 Random---Twenty-four hours or ten percent now has $8681.82683565198
 ---------------------------------------------------------------------------
+[2022-06-03 00:03:32] BUY
+Random---Twenty-four hours or ten percent has bought MSOL for $48.6
+Random---Twenty-four hours or ten percent now has $8681.82683565198
+---------------------------------------------------------------------------

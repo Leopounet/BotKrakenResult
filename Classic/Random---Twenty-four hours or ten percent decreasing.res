@@ -270,3 +270,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8411.613411128956
 Random---Twenty-four hours or ten percent decreasing has sold SC for $0.00573. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8367.873021391086
 ---------------------------------------------------------------------------
+[2022-06-03 00:03:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RNDR for $0.7544
+Random---Twenty-four hours or ten percent decreasing now has $8367.873021391086
+---------------------------------------------------------------------------
