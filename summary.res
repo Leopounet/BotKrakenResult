@@ -1,4 +1,4 @@
-[2022-06-03 01:46:38] SUMMARY
+[2022-06-03 01:49:35] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: MIRUSD
+	Altname: MIRUSD
+	Wsname: MIR/USD
+	Base:
+	 	Name: MIR
+		Altname: MIR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (MIRUSD):
+		Current:                    0.288
+		Maximum:                    3.816794
+		Minimum:                    3.10559
+		Variance:                   0.186335
+		Mean:                       3.520451
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.111111
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.263158
+		Is falling:                 True
+		Current fall duration:      12
+		Trending downwards:         False
+		Average local maximum:      0.28663
+		Number of local maximums:   27
+		Average local minimum:      0.285579
+		Number of local minimums:   19
+	Is init: True
 Wins: 0
 Losses: 52
 Total points: -28.322785658670423%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: KAVAUSD
-	Altname: KAVAUSD
-	Wsname: KAVA/USD
-	Base:
-	 	Name: KAVA
-		Altname: KAVA
-		decimals: 8
-		displayed_decimals: 6
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (KAVAUSD):
-		Current:                    2.6164
-		Maximum:                    0.390411
-		Minimum:                    0.320246
-		Variance:                   0.179722
-		Mean:                       0.366988
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.5
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.571429
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         True
-		Average local maximum:      2.74945
-		Number of local maximums:   18
-		Average local minimum:      2.72201
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 2
-Losses: 37
-Total points: -19.51941596221015%
-Wallet: 8221.972830846433
+Losses: 38
+Total points: -20.08145846335677%
+Wallet: 8175.761849104348
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

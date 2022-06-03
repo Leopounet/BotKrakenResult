@@ -414,3 +414,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7773.297201694345
 Random---Twenty-four hours or ten percent decreasing has sold FET for $0.163. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7732.8760562455345
 ---------------------------------------------------------------------------
+[2022-06-03 01:49:35] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SPELL for $0.001283
+Random---Twenty-four hours or ten percent decreasing now has $7732.8760562455345
+---------------------------------------------------------------------------
