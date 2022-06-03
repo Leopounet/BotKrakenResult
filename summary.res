@@ -1,4 +1,4 @@
-[2022-06-03 05:57:32] SUMMARY
+[2022-06-03 06:00:28] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: UNIUSD
-	Altname: UNIUSD
-	Wsname: UNI/USD
-	Base:
-	 	Name: UNI
-		Altname: UNI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (UNIUSD):
-		Current:                    5.262
-		Maximum:                    0.198491
-		Minimum:                    0.172533
-		Variance:                   0.13078
-		Mean:                       0.186175
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.821429
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.941176
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      5.35825
-		Number of local maximums:   28
-		Average local minimum:      5.349059
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 0
-Losses: 94
-Total points: -50.731120992723866%
-Wallet: 6012.357469373424
+Losses: 95
+Total points: -51.25112099272387%
+Wallet: 5981.093210532682
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SCRTUSD
-	Altname: SCRTUSD
-	Wsname: SCRT/USD
-	Base:
-	 	Name: SCRT
-		Altname: SCRT
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (SCRTUSD):
-		Current:                    1.547
-		Maximum:                    0.655738
-		Minimum:                    0.569152
-		Variance:                   0.132043
-		Mean:                       0.624145
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.189189
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.111111
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.584216
-		Number of local maximums:   37
-		Average local minimum:      1.601815
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 5
-Losses: 89
-Total points: -43.060568382301035%
-Wallet: 6490.293548781871
+Losses: 90
+Total points: -43.51592714118921%
+Wallet: 6460.7394286299395
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
