@@ -18531,3 +18531,46 @@ Is init: True
 
 Random---Always now has $2994.3379898475982
 ---------------------------------------------------------------------------
+[2022-06-03 18:36:09] SOLD
+Random---Always has sold: 
+Name: BICOUSD
+Altname: BICOUSD
+Wsname: BICO/USD
+Base:
+ 	Name: BICO
+	Altname: BICO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 4
+Data about this pair of assets (BICOUSD):
+	Current:                    0.702
+	Maximum:                    1.49925
+	Minimum:                    1.182033
+	Variance:                   0.211584
+	Mean:                       1.361105
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.285714
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.9375
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.748524
+	Number of local maximums:   21
+	Average local minimum:      0.74675
+	Number of local minimums:   16
+Is init: True
+Profit was -0.52%.
+Random---Always now has $2978.7674323003907
+---------------------------------------------------------------------------
