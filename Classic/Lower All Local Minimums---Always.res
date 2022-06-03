@@ -2138,3 +2138,7 @@ Lower All Local Minimums---Always now has $2897.5293551106847
 Lower All Local Minimums---Always has bought SUSHI for $1.542
 Lower All Local Minimums---Always now has $2897.5293551106847
 ---------------------------------------------------------------------------
+[2022-06-03 23:47:19] SOLD
+Lower All Local Minimums---Always has sold SUSHI for $1.542. Profit was -0.52%.
+Lower All Local Minimums---Always now has $2882.462202464109
+---------------------------------------------------------------------------

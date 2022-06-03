@@ -23003,3 +23003,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2897.5293551106847
 ---------------------------------------------------------------------------
+[2022-06-03 23:47:19] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold: 
+Name: SUSHIUSD
+Altname: SUSHIUSD
+Wsname: SUSHI/USD
+Base:
+ 	Name: SUSHI
+	Altname: SUSHI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (SUSHIUSD):
+	Current:                    1.542
+	Maximum:                    0.656168
+	Minimum:                    0.554939
+	Variance:                   0.154273
+	Mean:                       0.614682
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.107143
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.896552
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      1.633571
+	Number of local maximums:   28
+	Average local minimum:      1.638966
+	Number of local minimums:   29
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2882.462202464109
+---------------------------------------------------------------------------

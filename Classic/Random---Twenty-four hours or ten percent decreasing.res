@@ -2138,3 +2138,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2500.7291449028244
 Random---Twenty-four hours or ten percent decreasing has bought AUDIO for $0.3871
 Random---Twenty-four hours or ten percent decreasing now has $2500.7291449028244
 ---------------------------------------------------------------------------
+[2022-06-03 23:47:19] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold AUDIO for $0.3871. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2487.72535334933
+---------------------------------------------------------------------------
