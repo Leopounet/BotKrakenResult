@@ -1,4 +1,4 @@
-[2022-06-03 15:31:43] SUMMARY
+[2022-06-03 15:34:55] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: API3USD
-	Altname: API3USD
-	Wsname: API3/USD
-	Base:
-	 	Name: API3
-		Altname: API3
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (API3USD):
-		Current:                    1.5
-		Maximum:                    0.666667
-		Minimum:                    0.545256
-		Variance:                   0.182116
-		Mean:                       0.612827
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.0
-		Is ascending:               True
-		Current ascension duration: 32
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.5
-		Is falling:                 True
-		Current fall duration:      9
-		Trending downwards:         True
-		Average local maximum:      1.642778
-		Number of local maximums:   18
-		Average local minimum:      1.661083
-		Number of local minimums:   12
-	Is init: True
+	None
 Wins: 1
-Losses: 184
-Total points: -104.93225143604087%
-Wallet: 3486.995273579429
+Losses: 185
+Total points: -105.45225143604087%
+Wallet: 3468.862898156816
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CVXUSD
-	Altname: CVXUSD
-	Wsname: CVX/USD
-	Base:
-	 	Name: CVX
-		Altname: CVX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (CVXUSD):
-		Current:                    8.6
-		Maximum:                    0.121065
-		Minimum:                    0.097943
-		Variance:                   0.190989
-		Mean:                       0.109088
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.419355
-		Is ascending:               True
-		Current ascension duration: 9
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.72
-		Is falling:                 True
-		Current fall duration:      27
-		Trending downwards:         True
-		Average local maximum:      9.174839
-		Number of local maximums:   31
-		Average local minimum:      9.1272
-		Number of local minimums:   25
-	Is init: True
+	None
 Wins: 7
-Losses: 178
-Total points: -91.94884930544595%
-Wallet: 3973.0241570761664
+Losses: 179
+Total points: -92.46884930544594%
+Wallet: 3952.3644314593703
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
