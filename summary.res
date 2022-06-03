@@ -1,4 +1,4 @@
-[2022-06-03 07:58:26] SUMMARY
+[2022-06-03 08:01:49] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GALAUSD
-	Altname: GALAUSD
-	Wsname: GALA/USD
-	Base:
-	 	Name: GALA
-		Altname: GALA
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 25
-	Data about this pair of assets (GALAUSD):
-		Current:                    0.074
-		Maximum:                    13.831259
-		Minimum:                    11.947431
-		Variance:                   0.136201
-		Mean:                       13.025855
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.727273
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.3
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      0.077505
-		Number of local maximums:   22
-		Average local minimum:      0.077295
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 0
-Losses: 114
-Total points: -61.509977962676196%
-Wallet: 5396.332958503214
+Losses: 115
+Total points: -62.0299779626762%
+Wallet: 5368.272027118997
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: DOTUSD
-	Altname: DOTUSD
-	Wsname: DOT/USD
-	Base:
-	 	Name: DOT
-		Altname: DOT
-		decimals: 10
-		displayed_decimals: 8
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (DOTUSD):
-		Current:                    9.7712
-		Maximum:                    0.107551
-		Minimum:                    0.094073
-		Variance:                   0.125315
-		Mean:                       0.101497
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.333333
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.857143
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      9.804348
-		Number of local maximums:   27
-		Average local minimum:      9.793871
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 5
-Losses: 109
-Total points: -56.386330218723984%
-Wallet: 5676.277474645906
+Losses: 110
+Total points: -56.99741422068895%
+Wallet: 5641.590651091204
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
