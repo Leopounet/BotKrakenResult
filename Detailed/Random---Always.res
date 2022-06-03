@@ -10447,3 +10447,46 @@ Is init: True
 
 Random---Always now has $5187.907276177199
 ---------------------------------------------------------------------------
+[2022-06-03 08:46:24] SOLD
+Random---Always has sold: 
+Name: DOTUSD
+Altname: DOTUSD
+Wsname: DOT/USD
+Base:
+ 	Name: DOT
+	Altname: DOT
+	decimals: 10
+	displayed_decimals: 8
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (DOTUSD):
+	Current:                    9.7593
+	Maximum:                    0.107551
+	Minimum:                    0.094073
+	Variance:                   0.125315
+	Mean:                       0.10156
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.357143
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.818182
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      9.804468
+	Number of local maximums:   28
+	Average local minimum:      9.792841
+	Number of local minimums:   22
+Is init: True
+Profit was -0.8202264506675623%.
+Random---Always now has $5145.354688461886
+---------------------------------------------------------------------------

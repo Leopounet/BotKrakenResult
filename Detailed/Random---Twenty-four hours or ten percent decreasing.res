@@ -10447,3 +10447,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $5422.803417478823
 ---------------------------------------------------------------------------
+[2022-06-03 08:46:24] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: GALAUSD
+Altname: GALAUSD
+Wsname: GALA/USD
+Base:
+ 	Name: GALA
+	Altname: GALA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (GALAUSD):
+	Current:                    0.074
+	Maximum:                    13.831259
+	Minimum:                    11.947431
+	Variance:                   0.136201
+	Mean:                       13.043006
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.727273
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.3
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         True
+	Average local maximum:      0.077505
+	Number of local maximums:   22
+	Average local minimum:      0.07689
+	Number of local minimums:   20
+Is init: True
+Profit was -1.3308108108107914%.
+Random---Twenty-four hours or ten percent decreasing now has $5350.636163349997
+---------------------------------------------------------------------------
