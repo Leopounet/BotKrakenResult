@@ -1846,3 +1846,7 @@ Random---Twenty-four hours or ten percent now has $3130.8341537136603
 Random---Twenty-four hours or ten percent has sold ALICE for $2.754. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3114.553816114349
 ---------------------------------------------------------------------------
+[2022-06-03 20:08:34] BUY
+Random---Twenty-four hours or ten percent has bought XETC for $21.838
+Random---Twenty-four hours or ten percent now has $3114.553816114349
+---------------------------------------------------------------------------

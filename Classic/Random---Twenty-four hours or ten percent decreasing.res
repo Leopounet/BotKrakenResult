@@ -1846,3 +1846,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2988.3044319324495
 Random---Twenty-four hours or ten percent decreasing has sold BNT for $1.194. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2972.7652488864005
 ---------------------------------------------------------------------------
+[2022-06-03 20:08:34] BUY
+Random---Twenty-four hours or ten percent decreasing has bought DOT for $9.3215
+Random---Twenty-four hours or ten percent decreasing now has $2972.7652488864005
+---------------------------------------------------------------------------
