@@ -266,3 +266,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8411.613411128956
 Random---Twenty-four hours or ten percent decreasing has bought SC for $0.00573
 Random---Twenty-four hours or ten percent decreasing now has $8411.613411128956
 ---------------------------------------------------------------------------
+[2022-06-03 00:00:34] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SC for $0.00573. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $8367.873021391086
+---------------------------------------------------------------------------

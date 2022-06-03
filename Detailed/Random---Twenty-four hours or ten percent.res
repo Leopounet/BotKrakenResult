@@ -2879,3 +2879,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $8550.621993439761
 ---------------------------------------------------------------------------
+[2022-06-03 00:00:34] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: XREPZUSD
+Altname: REPUSD
+Wsname: REP/USD
+Base:
+ 	Name: XREP
+	Altname: REP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (XREPZUSD):
+	Current:                    9.881
+	Maximum:                    0.105186
+	Minimum:                    0.091794
+	Variance:                   0.127318
+	Mean:                       0.099919
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.35
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.666667
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      10.01495
+	Number of local maximums:   20
+	Average local minimum:      10.247222
+	Number of local minimums:   9
+Is init: True
+Profit was 1.534447930371417%.
+Random---Twenty-four hours or ten percent now has $8681.82683565198
+---------------------------------------------------------------------------
