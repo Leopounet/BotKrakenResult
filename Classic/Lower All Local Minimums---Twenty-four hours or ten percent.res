@@ -2054,3 +2054,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $3049.596010
 Lower All Local Minimums---Twenty-four hours or ten percent has sold KILT for $0.718. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $3033.738111305162
 ---------------------------------------------------------------------------
+[2022-06-03 22:44:04] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought DAI for $0.99965
+Lower All Local Minimums---Twenty-four hours or ten percent now has $3033.738111305162
+---------------------------------------------------------------------------

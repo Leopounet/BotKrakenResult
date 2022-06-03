@@ -2054,3 +2054,7 @@ Random---Twenty-four hours or ten percent now has $2787.496331119289
 Random---Twenty-four hours or ten percent has sold BICO for $0.706. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2773.001350197469
 ---------------------------------------------------------------------------
+[2022-06-03 22:44:05] BUY
+Random---Twenty-four hours or ten percent has bought OXT for $0.12839
+Random---Twenty-four hours or ten percent now has $2773.001350197469
+---------------------------------------------------------------------------
