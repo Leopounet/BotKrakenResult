@@ -1142,3 +1142,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4786.127565179467
 Random---Twenty-four hours or ten percent decreasing has sold TBTC for $33899.8. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4761.239701840534
 ---------------------------------------------------------------------------
+[2022-06-03 11:03:11] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KINT for $4.3
+Random---Twenty-four hours or ten percent decreasing now has $4761.239701840534
+---------------------------------------------------------------------------

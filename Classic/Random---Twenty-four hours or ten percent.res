@@ -1142,3 +1142,7 @@ Random---Twenty-four hours or ten percent now has $4858.807015830923
 Random---Twenty-four hours or ten percent has sold AXS for $19.94. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4833.541219348602
 ---------------------------------------------------------------------------
+[2022-06-03 11:03:11] BUY
+Random---Twenty-four hours or ten percent has bought MOVR for $20.6994
+Random---Twenty-four hours or ten percent now has $4833.541219348602
+---------------------------------------------------------------------------

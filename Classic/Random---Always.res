@@ -1142,3 +1142,7 @@ Random---Always now has $4546.782541645478
 Random---Always has sold SUPER for $0.201. Profit was -0.52%.
 Random---Always now has $4523.139272428922
 ---------------------------------------------------------------------------
+[2022-06-03 11:03:11] BUY
+Random---Always has bought TOKE for $3.29
+Random---Always now has $4523.139272428922
+---------------------------------------------------------------------------
