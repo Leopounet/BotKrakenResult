@@ -18789,3 +18789,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $3313.871989868419
 ---------------------------------------------------------------------------
+[2022-06-03 18:54:11] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: USTUSD
+Altname: USTUSD
+Wsname: UST/USD
+Base:
+ 	Name: UST
+	Altname: UST
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 100
+Data about this pair of assets (USTUSD):
+	Current:                    0.01927
+	Maximum:                    75.075075
+	Minimum:                    44.903458
+	Variance:                   0.401886
+	Mean:                       57.266873
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.653846
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.391304
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         False
+	Average local maximum:      0.017718
+	Number of local maximums:   26
+	Average local minimum:      0.01749
+	Number of local minimums:   23
+Is init: True
+Profit was -0.4%.
+Random---Twenty-four hours or ten percent now has $3300.6165019089453
+---------------------------------------------------------------------------
