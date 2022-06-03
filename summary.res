@@ -1,4 +1,4 @@
-[2022-06-03 11:35:03] SUMMARY
+[2022-06-03 11:38:07] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ZGBPZUSD
-	Altname: GBPUSD
-	Wsname: GBP/USD
-	Base:
-	 	Name: ZGBP
-		Altname: GBP
-		decimals: 4
-		displayed_decimals: 2
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 5
-	Data about this pair of assets (ZGBPZUSD):
-		Current:                    1.25618
-		Maximum:                    0.802195
-		Minimum:                    0.79228
-		Variance:                   0.01236
-		Mean:                       0.79676
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.076923
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.333333
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.255313
-		Number of local maximums:   26
-		Average local minimum:      1.254453
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 0
-Losses: 148
-Total points: -85.66576658005198%
-Wallet: 4231.123953280578
+Losses: 149
+Total points: -86.0570098732106%
+Wallet: 4214.56996458814
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: STORJUSD
-	Altname: STORJUSD
-	Wsname: STORJ/USD
-	Base:
-	 	Name: STORJ
-		Altname: STORJ
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 3
-	Data about this pair of assets (STORJUSD):
-		Current:                    0.56187
-		Maximum:                    1.806
-		Minimum:                    1.639344
-		Variance:                   0.092279
-		Mean:                       1.720935
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.275862
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.954545
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.578777
-		Number of local maximums:   29
-		Average local minimum:      0.580794
-		Number of local minimums:   22
-	Is init: True
-Wins: 5
+	None
+Wins: 6
 Losses: 143
-Total points: -75.39008431976367%
-Wallet: 4690.984255301121
+Total points: -74.53254147177392%
+Wallet: 4731.211455282781
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

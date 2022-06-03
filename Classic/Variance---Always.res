@@ -1186,3 +1186,7 @@ Variance---Always now has $5442.603841202972
 Variance---Always has bought WOO for $0.1514
 Variance---Always now has $5442.603841202972
 ---------------------------------------------------------------------------
+[2022-06-03 11:38:07] SOLD
+Variance---Always has sold WOO for $0.1533. Profit was 0.7349537648612885%.
+Variance---Always now has $5482.6044630403785
+---------------------------------------------------------------------------
