@@ -14532,3 +14532,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4300.899458286538
 ---------------------------------------------------------------------------
+[2022-06-03 13:49:12] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: XETHZUSD
+Altname: ETHUSD
+Wsname: ETH/USD
+Base:
+ 	Name: XETH
+	Altname: ETH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.001
+Data about this pair of assets (XETHZUSD):
+	Current:                    1756.98
+	Maximum:                    0.000574
+	Minimum:                    0.000509
+	Variance:                   0.112972
+	Mean:                       0.000543
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.571429
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.5
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1851.704762
+	Number of local maximums:   21
+	Average local minimum:      1839.881111
+	Number of local minimums:   18
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $4300.899458286538
+---------------------------------------------------------------------------
