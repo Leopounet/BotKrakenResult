@@ -2102,3 +2102,7 @@ Lower All Local Minimums---Always now has $2970.1730284543623
 Lower All Local Minimums---Always has sold CVX for $8.32. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2954.7281287063997
 ---------------------------------------------------------------------------
+[2022-06-03 23:20:40] BUY
+Lower All Local Minimums---Always has bought CVX for $8.32
+Lower All Local Minimums---Always now has $2954.7281287063997
+---------------------------------------------------------------------------

@@ -2102,3 +2102,7 @@ Random---Twenty-four hours or ten percent now has $2699.098883662902
 Random---Twenty-four hours or ten percent has sold SCRT for $1.473. Profit was -0.6555932203389809%.
 Random---Twenty-four hours or ten percent now has $2681.403774371363
 ---------------------------------------------------------------------------
+[2022-06-03 23:20:40] BUY
+Random---Twenty-four hours or ten percent has bought DAI for $0.99979
+Random---Twenty-four hours or ten percent now has $2681.403774371363
+---------------------------------------------------------------------------

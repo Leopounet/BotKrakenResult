@@ -2102,3 +2102,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2563.682334598375
 Random---Twenty-four hours or ten percent decreasing has sold KINT for $4.15. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2550.3511864584634
 ---------------------------------------------------------------------------
+[2022-06-03 23:20:40] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TRIBE for $0.2292
+Random---Twenty-four hours or ten percent decreasing now has $2550.3511864584634
+---------------------------------------------------------------------------
