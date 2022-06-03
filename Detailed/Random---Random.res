@@ -5932,3 +5932,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $7115.111043544856
 ---------------------------------------------------------------------------
+[2022-06-03 06:41:43] BUY
+Random---Random has bought: 
+Name: YGGUSD
+Altname: YGGUSD
+Wsname: YGG/USD
+Base:
+ 	Name: YGG
+	Altname: YGG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (YGGUSD):
+	Current:                    0.622
+	Maximum:                    1.715266
+	Minimum:                    1.40647
+	Variance:                   0.180028
+	Mean:                       1.576925
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.5
+	Is ascending:               True
+	Current ascension duration: 11
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.6
+	Is falling:                 True
+	Current fall duration:      19
+	Trending downwards:         True
+	Average local maximum:      0.640125
+	Number of local maximums:   24
+	Average local minimum:      0.64805
+	Number of local minimums:   20
+Is init: True
+
+Random---Random now has $7115.111043544856
+---------------------------------------------------------------------------
