@@ -494,3 +494,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7406.8791751885
 Random---Twenty-four hours or ten percent decreasing has sold ZUSD for $1.25751. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $7377.251658487746
 ---------------------------------------------------------------------------
+[2022-06-03 02:48:46] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GARI for $0.6221
+Random---Twenty-four hours or ten percent decreasing now has $7377.251658487746
+---------------------------------------------------------------------------

@@ -5330,3 +5330,46 @@ Is init: True
 Profit was -0.52%.
 Variance---Twenty-four hours or ten percent now has $9344.439635626546
 ---------------------------------------------------------------------------
+[2022-06-03 02:48:46] BUY
+Variance---Twenty-four hours or ten percent has bought: 
+Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base:
+ 	Name: ACH
+	Altname: ACH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (ACHUSD):
+	Current:                    0.0187
+	Maximum:                    72.886297
+	Minimum:                    11.764706
+	Variance:                   0.838588
+	Mean:                       57.22364
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.363636
+	Is ascending:               True
+	Current ascension duration: 20
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.6
+	Is falling:                 True
+	Current fall duration:      43
+	Trending downwards:         True
+	Average local maximum:      0.020414
+	Number of local maximums:   22
+	Average local minimum:      0.024873
+	Number of local minimums:   10
+Is init: True
+
+Variance---Twenty-four hours or ten percent now has $9344.439635626546
+---------------------------------------------------------------------------

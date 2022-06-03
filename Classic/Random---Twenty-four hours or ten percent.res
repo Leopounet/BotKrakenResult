@@ -494,3 +494,7 @@ Random---Twenty-four hours or ten percent now has $7648.235665519668
 Random---Twenty-four hours or ten percent has sold BICO for $0.741. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $7608.464840058966
 ---------------------------------------------------------------------------
+[2022-06-03 02:48:46] BUY
+Random---Twenty-four hours or ten percent has bought ZRX for $0.412
+Random---Twenty-four hours or ten percent now has $7608.464840058966
+---------------------------------------------------------------------------
