@@ -1614,3 +1614,7 @@ Random---Twenty-four hours or ten percent now has $3619.811024577386
 Random---Twenty-four hours or ten percent has sold ASTR for $0.0579. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3600.9880072495835
 ---------------------------------------------------------------------------
+[2022-06-03 17:15:55] BUY
+Random---Twenty-four hours or ten percent has bought NMR for $11.45
+Random---Twenty-four hours or ten percent now has $3600.9880072495835
+---------------------------------------------------------------------------
