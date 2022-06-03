@@ -20079,3 +20079,46 @@ Is init: True
 
 Random---Always now has $2541.043264829494
 ---------------------------------------------------------------------------
+[2022-06-03 20:23:26] SOLD
+Random---Always has sold: 
+Name: BALUSD
+Altname: BALUSD
+Wsname: BAL/USD
+Base:
+ 	Name: BAL
+	Altname: BAL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (BALUSD):
+	Current:                    6.7
+	Maximum:                    0.153139
+	Minimum:                    0.131406
+	Variance:                   0.141919
+	Mean:                       0.144751
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.590909
+	Is ascending:               True
+	Current ascension duration: 14
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.473684
+	Is falling:                 True
+	Current fall duration:      21
+	Trending downwards:         True
+	Average local maximum:      6.924545
+	Number of local maximums:   22
+	Average local minimum:      6.916842
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Random---Always now has $2527.8298398523807
+---------------------------------------------------------------------------
