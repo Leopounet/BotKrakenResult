@@ -302,3 +302,7 @@ Random---Twenty-four hours or ten percent now has $8539.109928571215
 Random---Twenty-four hours or ten percent has sold MANA for $1.02966. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $8494.706556942645
 ---------------------------------------------------------------------------
+[2022-06-03 00:27:04] BUY
+Random---Twenty-four hours or ten percent has bought SHIB for $1.118e-05
+Random---Twenty-four hours or ten percent now has $8494.706556942645
+---------------------------------------------------------------------------

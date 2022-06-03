@@ -302,3 +302,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8370.086110704246
 Random---Twenty-four hours or ten percent decreasing has sold WOO for $0.1608. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $8326.561662928583
 ---------------------------------------------------------------------------
+[2022-06-03 00:27:04] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LUNA2 for $6.93312
+Random---Twenty-four hours or ten percent decreasing now has $8326.561662928583
+---------------------------------------------------------------------------
