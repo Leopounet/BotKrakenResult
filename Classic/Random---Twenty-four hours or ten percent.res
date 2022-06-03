@@ -1838,3 +1838,7 @@ Random---Twenty-four hours or ten percent now has $3147.199591589928
 Random---Twenty-four hours or ten percent has sold QTUM for $3.80188. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3130.8341537136603
 ---------------------------------------------------------------------------
+[2022-06-03 20:02:37] BUY
+Random---Twenty-four hours or ten percent has bought ALICE for $2.754
+Random---Twenty-four hours or ten percent now has $3130.8341537136603
+---------------------------------------------------------------------------
