@@ -2110,3 +2110,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2954.728128
 Lower All Local Minimums---Twenty-four hours or ten percent has sold CVX for $8.32. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2939.3635424371264
 ---------------------------------------------------------------------------
+[2022-06-03 23:26:35] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought USDT for $0.9989
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2939.3635424371264
+---------------------------------------------------------------------------

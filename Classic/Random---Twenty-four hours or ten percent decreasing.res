@@ -2110,3 +2110,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2550.3511864584634
 Random---Twenty-four hours or ten percent decreasing has sold TRIBE for $0.2292. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2537.0893602888796
 ---------------------------------------------------------------------------
+[2022-06-03 23:26:35] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OGN for $0.2878
+Random---Twenty-four hours or ten percent decreasing now has $2537.0893602888796
+---------------------------------------------------------------------------

@@ -2110,3 +2110,7 @@ Random---Twenty-four hours or ten percent now has $2681.403774371363
 Random---Twenty-four hours or ten percent has sold DAI for $0.99976. Profit was -0.40300063013232157%.
 Random---Twenty-four hours or ten percent now has $2670.5977002642544
 ---------------------------------------------------------------------------
+[2022-06-03 23:26:35] BUY
+Random---Twenty-four hours or ten percent has bought TRIBE for $0.2292
+Random---Twenty-four hours or ten percent now has $2670.5977002642544
+---------------------------------------------------------------------------

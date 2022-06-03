@@ -1406,3 +1406,7 @@ Lower All Local Minimums---Random now has $4288.260748695448
 Lower All Local Minimums---Random has sold CVX for $8.32. Profit was -0.52%.
 Lower All Local Minimums---Random now has $4265.961792802231
 ---------------------------------------------------------------------------
+[2022-06-03 23:26:35] BUY
+Lower All Local Minimums---Random has bought USDT for $0.9989
+Lower All Local Minimums---Random now has $4265.961792802231
+---------------------------------------------------------------------------
