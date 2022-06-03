@@ -13328,3 +13328,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4444.2117831192
 ---------------------------------------------------------------------------
+[2022-06-03 12:19:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: ALICEUSD
+Altname: ALICEUSD
+Wsname: ALICE/USD
+Base:
+ 	Name: ALICE
+	Altname: ALICE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (ALICEUSD):
+	Current:                    2.73
+	Maximum:                    0.3663
+	Minimum:                    0.314465
+	Variance:                   0.141509
+	Mean:                       0.344967
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 119
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      20
+	Trending downwards:         True
+	Average local maximum:      2.8958
+	Number of local maximums:   10
+	Average local minimum:      2.9537
+	Number of local minimums:   10
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $4444.2117831192
+---------------------------------------------------------------------------
