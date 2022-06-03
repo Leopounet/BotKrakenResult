@@ -1702,3 +1702,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3278.3649531897913
 Random---Twenty-four hours or ten percent decreasing has sold ICX for $0.3772. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $3261.3174554332045
 ---------------------------------------------------------------------------
+[2022-06-03 18:21:18] BUY
+Random---Twenty-four hours or ten percent decreasing has bought PSTAKE for $0.2267
+Random---Twenty-four hours or ten percent decreasing now has $3261.3174554332045
+---------------------------------------------------------------------------

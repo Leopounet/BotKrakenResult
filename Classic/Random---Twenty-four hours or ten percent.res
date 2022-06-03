@@ -1702,3 +1702,7 @@ Random---Twenty-four hours or ten percent now has $3409.4893932621903
 Random---Twenty-four hours or ten percent has sold ZUSD for $0.96312. Profit was -0.3948082693885132%.
 Random---Twenty-four hours or ten percent now has $3396.028447193667
 ---------------------------------------------------------------------------
+[2022-06-03 18:21:18] BUY
+Random---Twenty-four hours or ten percent has bought MULTI for $4.637
+Random---Twenty-four hours or ten percent now has $3396.028447193667
+---------------------------------------------------------------------------
