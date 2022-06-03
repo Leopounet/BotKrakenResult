@@ -1418,3 +1418,7 @@ Lower All Local Minimums---Random now has $4249.32501158285
 Lower All Local Minimums---Random has bought DASH for $57.941
 Lower All Local Minimums---Random now has $4249.32501158285
 ---------------------------------------------------------------------------
+[2022-06-03 23:50:17] SOLD
+Lower All Local Minimums---Random has sold DASH for $58.023. Profit was -0.3784767263250628%.
+Lower All Local Minimums---Random now has $4233.242305388098
+---------------------------------------------------------------------------

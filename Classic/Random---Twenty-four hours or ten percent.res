@@ -2142,3 +2142,7 @@ Random---Twenty-four hours or ten percent now has $2627.839985388154
 Random---Twenty-four hours or ten percent has sold ANT for $1.8022. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2614.175217464136
 ---------------------------------------------------------------------------
+[2022-06-03 23:50:17] BUY
+Random---Twenty-four hours or ten percent has bought ENJ for $0.609
+Random---Twenty-four hours or ten percent now has $2614.175217464136
+---------------------------------------------------------------------------

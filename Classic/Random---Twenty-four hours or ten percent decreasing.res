@@ -2142,3 +2142,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2500.7291449028244
 Random---Twenty-four hours or ten percent decreasing has sold AUDIO for $0.3871. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2487.72535334933
 ---------------------------------------------------------------------------
+[2022-06-03 23:50:17] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WBTC for $29681.7
+Random---Twenty-four hours or ten percent decreasing now has $2487.72535334933
+---------------------------------------------------------------------------

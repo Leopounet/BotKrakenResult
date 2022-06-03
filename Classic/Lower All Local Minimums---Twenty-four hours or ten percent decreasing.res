@@ -2142,3 +2142,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold SUSHI for $1.542. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2882.462202464109
 ---------------------------------------------------------------------------
+[2022-06-03 23:50:17] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought PERP for $1.241
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2882.462202464109
+---------------------------------------------------------------------------
