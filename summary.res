@@ -1,4 +1,4 @@
-[2022-06-03 05:07:20] SUMMARY
+[2022-06-03 05:10:16] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ZUSDZCAD
+	Altname: USDCAD
+	Wsname: USD/CAD
+	Base:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: ZCAD
+		Altname: CAD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (ZUSDZCAD):
+		Current:                    1.2577
+		Maximum:                    0.796413
+		Minimum:                    0.788389
+		Variance:                   0.010076
+		Mean:                       0.79151
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.777778
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.24
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      1.263865
+		Number of local maximums:   27
+		Average local minimum:      1.261972
+		Number of local minimums:   25
+	Is init: True
 Wins: 0
 Losses: 86
 Total points: -46.653751190704284%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: API3USD
+	Altname: API3USD
+	Wsname: API3/USD
+	Base:
+	 	Name: API3
+		Altname: API3
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2.5
+	Data about this pair of assets (API3USD):
+		Current:                    1.584
+		Maximum:                    0.631712
+		Minimum:                    0.535045
+		Variance:                   0.153023
+		Mean:                       0.597644
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.666667
+		Is ascending:               True
+		Current ascension duration: 91
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               5.4
+		Is falling:                 True
+		Current fall duration:      86
+		Trending downwards:         True
+		Average local maximum:      1.703222
+		Number of local maximums:   18
+		Average local minimum:      1.682
+		Number of local minimums:   10
+	Is init: True
 Wins: 4
 Losses: 82
 Total points: -39.84440593134517%

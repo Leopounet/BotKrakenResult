@@ -686,3 +686,7 @@ Random---Twenty-four hours or ten percent now has $6738.091757959536
 Random---Twenty-four hours or ten percent has sold LINK for $7.03543. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $6703.053680818147
 ---------------------------------------------------------------------------
+[2022-06-03 05:10:16] BUY
+Random---Twenty-four hours or ten percent has bought API3 for $1.584
+Random---Twenty-four hours or ten percent now has $6703.053680818147
+---------------------------------------------------------------------------
