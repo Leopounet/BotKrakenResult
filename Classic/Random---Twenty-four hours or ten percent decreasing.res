@@ -310,3 +310,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8326.561662928583
 Random---Twenty-four hours or ten percent decreasing has sold LUNA2 for $6.9169. Profit was -0.7539495061386421%.
 Random---Twenty-four hours or ten percent decreasing now has $8263.783592392603
 ---------------------------------------------------------------------------
+[2022-06-03 00:32:58] BUY
+Random---Twenty-four hours or ten percent decreasing has bought REN for $0.1492
+Random---Twenty-four hours or ten percent decreasing now has $8263.783592392603
+---------------------------------------------------------------------------

@@ -310,3 +310,7 @@ Random---Twenty-four hours or ten percent now has $8494.706556942645
 Random---Twenty-four hours or ten percent has sold SHIB for $1.119e-05. Profit was -0.4305545617173574%.
 Random---Twenty-four hours or ten percent now has $8458.132210357226
 ---------------------------------------------------------------------------
+[2022-06-03 00:32:58] BUY
+Random---Twenty-four hours or ten percent has bought OXT for $0.13115
+Random---Twenty-four hours or ten percent now has $8458.132210357226
+---------------------------------------------------------------------------
