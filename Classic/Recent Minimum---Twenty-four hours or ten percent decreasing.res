@@ -790,3 +790,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $6000.29503
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold AKT for $0.4058. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $5969.0935021119685
 ---------------------------------------------------------------------------
+[2022-06-03 06:27:00] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought 1INCH for $0.912
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $5969.0935021119685
+---------------------------------------------------------------------------

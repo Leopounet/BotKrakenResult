@@ -790,3 +790,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6123.531001922689
 Random---Twenty-four hours or ten percent decreasing has sold FET for $0.1636. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6091.688640712691
 ---------------------------------------------------------------------------
+[2022-06-03 06:27:00] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AVAX for $24.04
+Random---Twenty-four hours or ten percent decreasing now has $6091.688640712691
+---------------------------------------------------------------------------

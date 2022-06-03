@@ -790,3 +790,7 @@ Random---Twenty-four hours or ten percent now has $6360.475080294114
 Random---Twenty-four hours or ten percent has sold UST for $0.02048. Profit was -2.968981921979063%.
 Random---Twenty-four hours or ten percent now has $6171.633725008199
 ---------------------------------------------------------------------------
+[2022-06-03 06:27:00] BUY
+Random---Twenty-four hours or ten percent has bought GMT for $1.06
+Random---Twenty-four hours or ten percent now has $6171.633725008199
+---------------------------------------------------------------------------
