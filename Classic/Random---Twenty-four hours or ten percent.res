@@ -2058,3 +2058,7 @@ Random---Twenty-four hours or ten percent now has $2773.001350197469
 Random---Twenty-four hours or ten percent has bought OXT for $0.12839
 Random---Twenty-four hours or ten percent now has $2773.001350197469
 ---------------------------------------------------------------------------
+[2022-06-03 22:47:01] SOLD
+Random---Twenty-four hours or ten percent has sold OXT for $0.12839. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2758.581743176442
+---------------------------------------------------------------------------
