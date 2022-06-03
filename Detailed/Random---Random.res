@@ -14661,3 +14661,46 @@ Is init: True
 
 Random---Random now has $3472.8382328438197
 ---------------------------------------------------------------------------
+[2022-06-03 23:02:33] SOLD
+Random---Random has sold: 
+Name: POLISUSD
+Altname: POLISUSD
+Wsname: POLIS/USD
+Base:
+ 	Name: POLIS
+	Altname: POLIS
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (POLISUSD):
+	Current:                    0.597
+	Maximum:                    1.694915
+	Minimum:                    1.605136
+	Variance:                   0.05297
+	Mean:                       1.645616
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.636364
+	Is ascending:               True
+	Current ascension duration: 106
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.5
+	Is falling:                 True
+	Current fall duration:      49
+	Trending downwards:         True
+	Average local maximum:      0.607818
+	Number of local maximums:   11
+	Average local minimum:      0.612333
+	Number of local minimums:   6
+Is init: True
+Profit was -0.52%.
+Random---Random now has $3454.779474033032
+---------------------------------------------------------------------------
