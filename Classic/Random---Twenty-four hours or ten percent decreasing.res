@@ -1182,3 +1182,7 @@ Random---Twenty-four hours or ten percent decreasing now has $4627.910717696308
 Random---Twenty-four hours or ten percent decreasing has sold CVC for $0.1717. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $4603.845581964287
 ---------------------------------------------------------------------------
+[2022-06-03 11:35:03] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AKT for $0.4006
+Random---Twenty-four hours or ten percent decreasing now has $4603.845581964287
+---------------------------------------------------------------------------

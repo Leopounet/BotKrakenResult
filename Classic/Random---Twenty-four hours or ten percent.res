@@ -1182,3 +1182,7 @@ Random---Twenty-four hours or ten percent now has $4715.504880680661
 Random---Twenty-four hours or ten percent has sold TOKE for $3.29. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $4690.984255301121
 ---------------------------------------------------------------------------
+[2022-06-03 11:35:03] BUY
+Random---Twenty-four hours or ten percent has bought STORJ for $0.56187
+Random---Twenty-four hours or ten percent now has $4690.984255301121
+---------------------------------------------------------------------------
