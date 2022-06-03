@@ -1,4 +1,4 @@
-[2022-06-03 10:05:55] SUMMARY
+[2022-06-03 10:09:09] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GMTUSD
-	Altname: GMTUSD
-	Wsname: GMT/USD
-	Base:
-	 	Name: GMT
-		Altname: GMT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (GMTUSD):
-		Current:                    1.022
-		Maximum:                    1.072961
-		Minimum:                    0.829876
-		Variance:                   0.226556
-		Mean:                       0.94269
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.923077
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.294118
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      1.057769
-		Number of local maximums:   26
-		Average local minimum:      1.053
-		Number of local minimums:   34
-	Is init: True
+	None
 Wins: 0
-Losses: 134
-Total points: -72.96777685517604%
-Wallet: 4810.473707036557
+Losses: 135
+Total points: -73.58562421329738%
+Wallet: 4780.75232232451
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Twenty-four hours or ten percent
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: API3USD
-	Altname: API3USD
-	Wsname: API3/USD
-	Base:
-	 	Name: API3
-		Altname: API3
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (API3USD):
-		Current:                    1.573
-		Maximum:                    0.635728
-		Minimum:                    0.545256
-		Variance:                   0.142312
-		Mean:                       0.603896
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.2
-		Is ascending:               True
-		Current ascension duration: 56
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.090909
-		Is falling:                 True
-		Current fall duration:      10
-		Trending downwards:         True
-		Average local maximum:      1.666333
-		Number of local maximums:   15
-		Average local minimum:      1.674273
-		Number of local minimums:   11
-	Is init: True
+	None
 Wins: 5
-Losses: 129
-Total points: -66.84385912919551%
-Wallet: 5111.246593570789
+Losses: 130
+Total points: -67.3638591291955%
+Wallet: 5084.668111284221
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
