@@ -298,3 +298,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8370.086110704246
 Random---Twenty-four hours or ten percent decreasing has bought WOO for $0.1608
 Random---Twenty-four hours or ten percent decreasing now has $8370.086110704246
 ---------------------------------------------------------------------------
+[2022-06-03 00:24:06] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold WOO for $0.1608. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $8326.561662928583
+---------------------------------------------------------------------------
