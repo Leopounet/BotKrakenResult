@@ -1662,3 +1662,7 @@ Random---Twenty-four hours or ten percent now has $3508.330976091867
 Random---Twenty-four hours or ten percent has sold REN for $0.1426. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $3490.0876550161893
 ---------------------------------------------------------------------------
+[2022-06-03 17:51:33] BUY
+Random---Twenty-four hours or ten percent has bought XXLM for $0.140652
+Random---Twenty-four hours or ten percent now has $3490.0876550161893
+---------------------------------------------------------------------------
