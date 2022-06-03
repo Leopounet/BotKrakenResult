@@ -486,3 +486,7 @@ Lower All Local Minimums---Always now has $7801.89646041366
 Lower All Local Minimums---Always has sold BNC for $0.351. Profit was -0.52%.
 Lower All Local Minimums---Always now has $7761.326598819509
 ---------------------------------------------------------------------------
+[2022-06-03 02:42:53] BUY
+Lower All Local Minimums---Always has bought BNC for $0.351
+Lower All Local Minimums---Always now has $7761.326598819509
+---------------------------------------------------------------------------

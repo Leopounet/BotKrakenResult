@@ -5244,3 +5244,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $7761.326598819509
 ---------------------------------------------------------------------------
+[2022-06-03 02:42:53] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought: 
+Name: BNCUSD
+Altname: BNCUSD
+Wsname: BNC/USD
+Base:
+ 	Name: BNC
+	Altname: BNC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (BNCUSD):
+	Current:                    0.351
+	Maximum:                    3.003003
+	Minimum:                    2.320186
+	Variance:                   0.227378
+	Mean:                       2.749612
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.785714
+	Is ascending:               True
+	Current ascension duration: 39
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.230769
+	Is falling:                 True
+	Current fall duration:      35
+	Trending downwards:         True
+	Average local maximum:      0.368321
+	Number of local maximums:   28
+	Average local minimum:      0.380731
+	Number of local minimums:   26
+Is init: True
+
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $7761.326598819509
+---------------------------------------------------------------------------

@@ -486,3 +486,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7445.596275822779
 Random---Twenty-four hours or ten percent decreasing has sold ATOM for $9.6478. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $7406.8791751885
 ---------------------------------------------------------------------------
+[2022-06-03 02:42:53] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZUSD for $1.25751
+Random---Twenty-four hours or ten percent decreasing now has $7406.8791751885
+---------------------------------------------------------------------------

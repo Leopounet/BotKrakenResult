@@ -486,3 +486,7 @@ Random---Twenty-four hours or ten percent now has $7688.214380297213
 Random---Twenty-four hours or ten percent has sold IMX for $0.968. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $7648.235665519668
 ---------------------------------------------------------------------------
+[2022-06-03 02:42:53] BUY
+Random---Twenty-four hours or ten percent has bought BICO for $0.741
+Random---Twenty-four hours or ten percent now has $7648.235665519668
+---------------------------------------------------------------------------
