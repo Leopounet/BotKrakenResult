@@ -22186,3 +22186,46 @@ Is init: True
 Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $2617.707422502657
 ---------------------------------------------------------------------------
+[2022-06-03 22:50:11] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: DASHUSD
+Altname: DASHUSD
+Wsname: DASH/USD
+Base:
+ 	Name: DASH
+	Altname: DASH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.03
+Data about this pair of assets (DASHUSD):
+	Current:                    58.167
+	Maximum:                    0.017794
+	Minimum:                    0.015278
+	Variance:                   0.141397
+	Mean:                       0.016844
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.391304
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.653846
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      59.846261
+	Number of local maximums:   23
+	Average local minimum:      59.817731
+	Number of local minimums:   26
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $2617.707422502657
+---------------------------------------------------------------------------

@@ -2062,3 +2062,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2628.2203037175273
 Random---Twenty-four hours or ten percent decreasing has sold USDC for $1.0. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $2617.707422502657
 ---------------------------------------------------------------------------
+[2022-06-03 22:50:11] BUY
+Random---Twenty-four hours or ten percent decreasing has bought DASH for $58.167
+Random---Twenty-four hours or ten percent decreasing now has $2617.707422502657
+---------------------------------------------------------------------------
