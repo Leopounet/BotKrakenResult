@@ -766,3 +766,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6220.060245048599
 Random---Twenty-four hours or ten percent decreasing has sold PLA for $0.5501. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6187.715931774347
 ---------------------------------------------------------------------------
+[2022-06-03 06:09:19] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KNC for $1.9936
+Random---Twenty-four hours or ten percent decreasing now has $6187.715931774347
+---------------------------------------------------------------------------
