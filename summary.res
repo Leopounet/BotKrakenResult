@@ -1,4 +1,4 @@
-[2022-06-03 16:03:57] SUMMARY
+[2022-06-03 16:07:08] SUMMARY
 Most losses: 
 Name: Random---Always
 BuyStrategy description: Random.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: KEEPUSD
-	Altname: KEEPUSD
-	Wsname: KEEP/USD
-	Base:
-	 	Name: KEEP
-		Altname: KEEP
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (KEEPUSD):
-		Current:                    0.24028
-		Maximum:                    4.334446
-		Minimum:                    2.78257
-		Variance:                   0.358033
-		Mean:                       3.962659
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.647059
-		Is ascending:               True
-		Current ascension duration: 6
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.4
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.251438
-		Number of local maximums:   34
-		Average local minimum:      0.248206
-		Number of local minimums:   30
-	Is init: True
+	None
 Wins: 1
-Losses: 189
-Total points: -107.53225143604085%
-Wallet: 3397.271389728553
+Losses: 190
+Total points: -108.05225143604085%
+Wallet: 3379.6055785019644
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Random
