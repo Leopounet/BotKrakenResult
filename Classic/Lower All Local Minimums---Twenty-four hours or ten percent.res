@@ -2114,3 +2114,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2939.363542
 Lower All Local Minimums---Twenty-four hours or ten percent has bought USDT for $0.9989
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2939.3635424371264
 ---------------------------------------------------------------------------
+[2022-06-03 23:29:33] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold USDT for $0.999. Profit was -0.3899889878866688%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2927.9003483076663
+---------------------------------------------------------------------------

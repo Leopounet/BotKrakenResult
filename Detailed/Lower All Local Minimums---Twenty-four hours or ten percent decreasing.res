@@ -22745,3 +22745,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2939.3635424371264
 ---------------------------------------------------------------------------
+[2022-06-03 23:29:33] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold: 
+Name: USDTZUSD
+Altname: USDTUSD
+Wsname: USDT/USD
+Base:
+ 	Name: USDT
+	Altname: USDT
+	decimals: 8
+	displayed_decimals: 4
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDTZUSD):
+	Current:                    0.9989
+	Maximum:                    1.001201
+	Minimum:                    1.0006
+	Variance:                   0.0006
+	Mean:                       1.000841
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.695652
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.307692
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.999174
+	Number of local maximums:   46
+	Average local minimum:      0.999188
+	Number of local minimums:   26
+Is init: True
+Profit was -0.3899889878866688%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2927.9003483076663
+---------------------------------------------------------------------------
