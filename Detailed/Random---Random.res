@@ -8727,3 +8727,46 @@ Is init: True
 
 Random---Random now has $5680.78188376631
 ---------------------------------------------------------------------------
+[2022-06-03 11:50:59] SOLD
+Random---Random has sold: 
+Name: TRIBEUSD
+Altname: TRIBEUSD
+Wsname: TRIBE/USD
+Base:
+ 	Name: TRIBE
+	Altname: TRIBE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (TRIBEUSD):
+	Current:                    0.2308
+	Maximum:                    4.870921
+	Minimum:                    3.573981
+	Variance:                   0.266262
+	Mean:                       4.298225
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.181818
+	Is ascending:               True
+	Current ascension duration: 27
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.125
+	Is falling:                 True
+	Current fall duration:      19
+	Trending downwards:         True
+	Average local maximum:      0.229727
+	Number of local maximums:   11
+	Average local minimum:      0.235737
+	Number of local minimums:   8
+Is init: True
+Profit was -0.52%.
+Random---Random now has $5651.241817970725
+---------------------------------------------------------------------------
