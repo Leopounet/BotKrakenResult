@@ -1690,3 +1690,7 @@ Random---Twenty-four hours or ten percent decreasing now has $3295.501561308596
 Random---Twenty-four hours or ten percent decreasing has bought NMR for $11.45
 Random---Twenty-four hours or ten percent decreasing now has $3295.501561308596
 ---------------------------------------------------------------------------
+[2022-06-03 18:12:25] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold NMR for $11.45. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $3278.3649531897913
+---------------------------------------------------------------------------
