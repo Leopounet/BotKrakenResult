@@ -742,3 +742,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6318.111142065955
 Random---Twenty-four hours or ten percent decreasing has sold FXS for $6.77. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $6285.256964127212
 ---------------------------------------------------------------------------
+[2022-06-03 05:51:37] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KP3R for $132.9
+Random---Twenty-four hours or ten percent decreasing now has $6285.256964127212
+---------------------------------------------------------------------------

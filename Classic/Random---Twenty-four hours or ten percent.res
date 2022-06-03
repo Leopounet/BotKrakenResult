@@ -742,3 +742,7 @@ Random---Twenty-four hours or ten percent now has $6550.215298252616
 Random---Twenty-four hours or ten percent has sold ZUSD for $0.95835. Profit was -0.39686952166291223%.
 Random---Twenty-four hours or ten percent now has $6524.21949013055
 ---------------------------------------------------------------------------
+[2022-06-03 05:51:37] BUY
+Random---Twenty-four hours or ten percent has bought AXS for $20.997
+Random---Twenty-four hours or ten percent now has $6524.21949013055
+---------------------------------------------------------------------------

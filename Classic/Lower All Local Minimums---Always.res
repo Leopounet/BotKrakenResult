@@ -742,3 +742,7 @@ Lower All Local Minimums---Always now has $6712.842497842238
 Lower All Local Minimums---Always has sold 1INCH for $0.908. Profit was -0.2992494481236192%.
 Lower All Local Minimums---Always now has $6692.754353714037
 ---------------------------------------------------------------------------
+[2022-06-03 05:51:37] BUY
+Lower All Local Minimums---Always has bought 1INCH for $0.908
+Lower All Local Minimums---Always now has $6692.754353714037
+---------------------------------------------------------------------------
