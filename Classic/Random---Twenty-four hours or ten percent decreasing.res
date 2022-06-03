@@ -1854,3 +1854,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2972.7652488864005
 Random---Twenty-four hours or ten percent decreasing has sold DOT for $9.3591. Profit was -0.11663144343722243%.
 Random---Twenty-four hours or ten percent decreasing now has $2969.2980698666242
 ---------------------------------------------------------------------------
+[2022-06-03 20:14:30] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ANKR for $0.03766
+Random---Twenty-four hours or ten percent decreasing now has $2969.2980698666242
+---------------------------------------------------------------------------

@@ -1854,3 +1854,7 @@ Random---Twenty-four hours or ten percent now has $3114.553816114349
 Random---Twenty-four hours or ten percent has sold XETC for $21.959. Profit was 0.03408004396007014%.
 Random---Twenty-four hours or ten percent now has $3115.615257424041
 ---------------------------------------------------------------------------
+[2022-06-03 20:14:30] BUY
+Random---Twenty-four hours or ten percent has bought SHIB for $1.084e-05
+Random---Twenty-four hours or ten percent now has $3115.615257424041
+---------------------------------------------------------------------------

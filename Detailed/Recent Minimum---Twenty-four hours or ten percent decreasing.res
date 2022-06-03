@@ -19950,3 +19950,46 @@ Is init: True
 Profit was -0.17197215777261698%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $3074.8744225578
 ---------------------------------------------------------------------------
+[2022-06-03 20:14:30] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought: 
+Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base:
+ 	Name: 1INCH
+	Altname: 1INCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (1INCHUSD):
+	Current:                    0.865
+	Maximum:                    1.166861
+	Minimum:                    1.009082
+	Variance:                   0.135217
+	Mean:                       1.087114
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.941176
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.636364
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.919176
+	Number of local maximums:   34
+	Average local minimum:      0.931227
+	Number of local minimums:   22
+Is init: True
+
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $3074.8744225578
+---------------------------------------------------------------------------
