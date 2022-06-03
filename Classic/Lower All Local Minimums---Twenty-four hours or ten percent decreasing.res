@@ -2022,3 +2022,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold RUNE for $2.598. Profit was -1.283941940412527%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3089.2469987148506
 ---------------------------------------------------------------------------
+[2022-06-03 22:20:13] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought DAI for $0.99946
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $3089.2469987148506
+---------------------------------------------------------------------------

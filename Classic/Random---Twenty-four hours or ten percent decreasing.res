@@ -2022,3 +2022,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2685.451983333198
 Random---Twenty-four hours or ten percent decreasing has sold TOKE for $3.18. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2671.4876330198654
 ---------------------------------------------------------------------------
+[2022-06-03 22:20:13] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KP3R for $131.1
+Random---Twenty-four hours or ten percent decreasing now has $2671.4876330198654
+---------------------------------------------------------------------------

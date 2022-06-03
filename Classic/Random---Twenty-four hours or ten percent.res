@@ -2022,3 +2022,7 @@ Random---Twenty-four hours or ten percent now has $2850.6834098646423
 Random---Twenty-four hours or ten percent has sold CRV for $1.191. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2835.859856133346
 ---------------------------------------------------------------------------
+[2022-06-03 22:20:13] BUY
+Random---Twenty-four hours or ten percent has bought WAVES for $9.7335
+Random---Twenty-four hours or ten percent now has $2835.859856133346
+---------------------------------------------------------------------------
