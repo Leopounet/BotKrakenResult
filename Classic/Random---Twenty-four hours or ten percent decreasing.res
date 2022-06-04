@@ -2770,3 +2770,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1639.9629248197732
 Random---Twenty-four hours or ten percent decreasing has bought MIR for $0.277
 Random---Twenty-four hours or ten percent decreasing now has $1639.9629248197732
 ---------------------------------------------------------------------------
+[2022-06-04 07:42:40] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MIR for $0.277. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1631.4351176107104
+---------------------------------------------------------------------------
