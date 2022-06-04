@@ -30872,3 +30872,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1651.1335674548081
 ---------------------------------------------------------------------------
+[2022-06-04 08:57:38] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: PAXGUSD
+Altname: PAXGUSD
+Wsname: PAXG/USD
+Base:
+ 	Name: PAXG
+	Altname: PAXG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.004
+Data about this pair of assets (PAXGUSD):
+	Current:                    1850.01
+	Maximum:                    0.000542
+	Minimum:                    0.000533
+	Variance:                   0.016493
+	Mean:                       0.000538
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         False
+	Average local maximum:      1857.945
+	Number of local maximums:   30
+	Average local minimum:      1858.722667
+	Number of local minimums:   30
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1651.1335674548081
+---------------------------------------------------------------------------
