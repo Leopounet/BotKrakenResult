@@ -3334,3 +3334,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold ICX for $0.3735. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1423.8321219105712
 ---------------------------------------------------------------------------
+[2022-06-04 14:52:10] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought KEEP for $0.23216
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1423.8321219105712
+---------------------------------------------------------------------------

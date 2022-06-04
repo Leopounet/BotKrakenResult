@@ -3334,3 +3334,7 @@ Lower All Local Minimums---Always now has $1431.2747506137628
 Lower All Local Minimums---Always has sold ICX for $0.3735. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1423.8321219105712
 ---------------------------------------------------------------------------
+[2022-06-04 14:52:10] BUY
+Lower All Local Minimums---Always has bought KEEP for $0.23216
+Lower All Local Minimums---Always now has $1423.8321219105712
+---------------------------------------------------------------------------

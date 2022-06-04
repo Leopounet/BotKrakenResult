@@ -3334,3 +3334,7 @@ Random---Always now has $999.645779470929
 Random---Always has sold BADGER for $5.765. Profit was -0.52%.
 Random---Always now has $994.4476214176802
 ---------------------------------------------------------------------------
+[2022-06-04 14:52:10] BUY
+Random---Always has bought ICP for $7.733
+Random---Always now has $994.4476214176802
+---------------------------------------------------------------------------
