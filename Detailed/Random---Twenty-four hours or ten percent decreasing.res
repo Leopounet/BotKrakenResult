@@ -28421,3 +28421,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1780.6628259397608
 ---------------------------------------------------------------------------
+[2022-06-04 06:04:23] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: USDTZUSD
+Altname: USDTUSD
+Wsname: USDT/USD
+Base:
+ 	Name: USDT
+	Altname: USDT
+	decimals: 8
+	displayed_decimals: 4
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDTZUSD):
+	Current:                    0.999
+	Maximum:                    1.001201
+	Minimum:                    1.0006
+	Variance:                   0.0006
+	Mean:                       1.000857
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.77551
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.068966
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         True
+	Average local maximum:      0.999159
+	Number of local maximums:   49
+	Average local minimum:      0.999166
+	Number of local minimums:   29
+Is init: True
+Profit was -0.4100100100100087%.
+Random---Twenty-four hours or ten percent decreasing now has $1773.3619301088806
+---------------------------------------------------------------------------
