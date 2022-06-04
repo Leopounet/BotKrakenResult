@@ -3046,3 +3046,7 @@ Random---Twenty-four hours or ten percent now has $1496.3286780626597
 Random---Twenty-four hours or ten percent has sold CQT for $0.136. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1488.547768936734
 ---------------------------------------------------------------------------
+[2022-06-04 11:10:25] BUY
+Random---Twenty-four hours or ten percent has bought KAR for $0.525
+Random---Twenty-four hours or ten percent now has $1488.547768936734
+---------------------------------------------------------------------------
