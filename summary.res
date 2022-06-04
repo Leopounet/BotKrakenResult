@@ -1,4 +1,4 @@
-[2022-06-04 20:33:41] SUMMARY
+[2022-06-04 20:36:39] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.862
-		Maximum:                    1.17096
-		Minimum:                    1.074114
-		Variance:                   0.082707
-		Mean:                       1.130455
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.935484
-		Is ascending:               True
-		Current ascension duration: 19
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.65
-		Is falling:                 True
-		Current fall duration:      22
-		Trending downwards:         True
-		Average local maximum:      0.888677
-		Number of local maximums:   31
-		Average local minimum:      0.88065
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 2
-Losses: 472
-Total points: -248.60817796717828%
-Wallet: 826.5980634561374
+Losses: 473
+Total points: -249.1281779671783%
+Wallet: 822.2997535261655
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: AUDIOUSD
+	Altname: AUDIOUSD
+	Wsname: AUDIO/USD
+	Base:
+	 	Name: AUDIO
+		Altname: AUDIO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (AUDIOUSD):
+		Current:                    0.3982
+		Maximum:                    2.613696
+		Minimum:                    2.389486
+		Variance:                   0.085783
+		Mean:                       2.507926
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.833333
+		Is ascending:               True
+		Current ascension duration: 15
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.176471
+		Is falling:                 True
+		Current fall duration:      39
+		Trending downwards:         True
+		Average local maximum:      0.397156
+		Number of local maximums:   18
+		Average local minimum:      0.399288
+		Number of local minimums:   17
+	Is init: True
 Wins: 19
 Losses: 293
 Total points: -161.14854043563335%
