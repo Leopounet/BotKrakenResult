@@ -3314,3 +3314,7 @@ Lower All Local Minimums---Always now has $1446.2769232879516
 Lower All Local Minimums---Always has bought ICX for $0.3735
 Lower All Local Minimums---Always now has $1446.2769232879516
 ---------------------------------------------------------------------------
+[2022-06-04 14:37:16] SOLD
+Lower All Local Minimums---Always has sold ICX for $0.3735. Profit was -0.52%.
+Lower All Local Minimums---Always now has $1438.7562832868543
+---------------------------------------------------------------------------

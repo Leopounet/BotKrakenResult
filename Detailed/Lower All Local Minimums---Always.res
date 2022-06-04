@@ -35645,3 +35645,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $1446.2769232879516
 ---------------------------------------------------------------------------
+[2022-06-04 14:37:16] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: ICXUSD
+Altname: ICXUSD
+Wsname: ICX/USD
+Base:
+ 	Name: ICX
+	Altname: ICX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (ICXUSD):
+	Current:                    0.3735
+	Maximum:                    2.677376
+	Minimum:                    2.4667
+	Variance:                   0.078688
+	Mean:                       2.590563
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.756757
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.264706
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      0.386127
+	Number of local maximums:   37
+	Average local minimum:      0.384356
+	Number of local minimums:   34
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Always now has $1438.7562832868543
+---------------------------------------------------------------------------
