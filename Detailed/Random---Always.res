@@ -33452,3 +33452,46 @@ Is init: True
 Profit was 0.284485616772288%.
 Random---Always now has $1146.1957107412438
 ---------------------------------------------------------------------------
+[2022-06-04 11:58:32] BUY
+Random---Always has bought: 
+Name: SUPERUSD
+Altname: SUPERUSD
+Wsname: SUPER/USD
+Base:
+ 	Name: SUPER
+	Altname: SUPER
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (SUPERUSD):
+	Current:                    0.201
+	Maximum:                    5.47046
+	Minimum:                    4.631774
+	Variance:                   0.153312
+	Mean:                       5.000947
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.727273
+	Is ascending:               True
+	Current ascension duration: 36
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.3
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.198991
+	Number of local maximums:   22
+	Average local minimum:      0.200585
+	Number of local minimums:   20
+Is init: True
+
+Random---Always now has $1146.1957107412438
+---------------------------------------------------------------------------
