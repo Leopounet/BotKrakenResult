@@ -3526,3 +3526,7 @@ Random---Twenty-four hours or ten percent decreasing now has $963.572594893
 Random---Twenty-four hours or ten percent decreasing has sold ACA for $0.368. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $958.5620173995563
 ---------------------------------------------------------------------------
+[2022-06-04 17:16:50] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BCH for $186.8
+Random---Twenty-four hours or ten percent decreasing now has $958.5620173995563
+---------------------------------------------------------------------------
