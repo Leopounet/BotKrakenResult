@@ -2674,3 +2674,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2050.410058
 Lower All Local Minimums---Twenty-four hours or ten percent has bought ANT for $1.7823
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2050.4100586301693
 ---------------------------------------------------------------------------
+[2022-06-04 06:29:15] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold ANT for $1.7823. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2039.7479263252924
+---------------------------------------------------------------------------

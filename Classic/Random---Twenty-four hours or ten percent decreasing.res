@@ -2674,3 +2674,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1745.8410897700783
 Random---Twenty-four hours or ten percent decreasing has bought SAND for $1.2897
 Random---Twenty-four hours or ten percent decreasing now has $1745.8410897700783
 ---------------------------------------------------------------------------
+[2022-06-04 06:29:15] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SAND for $1.2897. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1736.7627161032738
+---------------------------------------------------------------------------
