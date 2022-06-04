@@ -2818,3 +2818,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1591.3739746801377
 Random---Twenty-four hours or ten percent decreasing has bought YGG for $0.6
 Random---Twenty-four hours or ten percent decreasing now has $1591.3739746801377
 ---------------------------------------------------------------------------
+[2022-06-04 08:19:00] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold YGG for $0.6. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1583.098830011801
+---------------------------------------------------------------------------

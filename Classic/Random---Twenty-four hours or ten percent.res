@@ -2818,3 +2818,7 @@ Random---Twenty-four hours or ten percent now has $1711.6824749266261
 Random---Twenty-four hours or ten percent has bought CFG for $0.3105
 Random---Twenty-four hours or ten percent now has $1711.6824749266261
 ---------------------------------------------------------------------------
+[2022-06-04 08:19:00] SOLD
+Random---Twenty-four hours or ten percent has sold CFG for $0.3105. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1702.7817260570077
+---------------------------------------------------------------------------
