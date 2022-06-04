@@ -16123,3 +16123,46 @@ Is init: True
 
 Random---Random now has $3167.890129990719
 ---------------------------------------------------------------------------
+[2022-06-04 02:02:50] SOLD
+Random---Random has sold: 
+Name: SNXUSD
+Altname: SNXUSD
+Wsname: SNX/USD
+Base:
+ 	Name: SNX
+	Altname: SNX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.4
+Data about this pair of assets (SNXUSD):
+	Current:                    2.637
+	Maximum:                    0.379219
+	Minimum:                    0.311236
+	Variance:                   0.179272
+	Mean:                       0.351271
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.75
+	Is ascending:               True
+	Current ascension duration: 22
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.272727
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      2.82575
+	Number of local maximums:   24
+	Average local minimum:      2.798
+	Number of local minimums:   22
+Is init: True
+Profit was 0.01090633295411747%.
+Random---Random now has $3168.235630635916
+---------------------------------------------------------------------------
