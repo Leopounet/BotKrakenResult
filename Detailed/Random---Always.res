@@ -35688,3 +35688,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $1004.8711092389717
 ---------------------------------------------------------------------------
+[2022-06-04 14:40:13] BUY
+Random---Always has bought: 
+Name: MIRUSD
+Altname: MIRUSD
+Wsname: MIR/USD
+Base:
+ 	Name: MIR
+	Altname: MIR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (MIRUSD):
+	Current:                    0.272
+	Maximum:                    3.745318
+	Minimum:                    3.10559
+	Variance:                   0.170807
+	Mean:                       3.561032
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.538462
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.545455
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         False
+	Average local maximum:      0.281
+	Number of local maximums:   26
+	Average local minimum:      0.282
+	Number of local minimums:   22
+Is init: True
+
+Random---Always now has $1004.8711092389717
+---------------------------------------------------------------------------

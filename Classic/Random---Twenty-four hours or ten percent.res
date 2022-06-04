@@ -3318,3 +3318,7 @@ Random---Twenty-four hours or ten percent now has $1259.9081426588893
 Random---Twenty-four hours or ten percent has sold ATOM for $9.2255. Profit was -0.620706025035735%.
 Random---Twenty-four hours or ten percent now has $1252.0878169074897
 ---------------------------------------------------------------------------
+[2022-06-04 14:40:13] BUY
+Random---Twenty-four hours or ten percent has bought INJ for $2.015
+Random---Twenty-four hours or ten percent now has $1252.0878169074897
+---------------------------------------------------------------------------

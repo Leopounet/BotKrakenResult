@@ -3318,3 +3318,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1105.6443421060426
 Random---Twenty-four hours or ten percent decreasing has sold PAXG for $1859.05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1099.8949915270912
 ---------------------------------------------------------------------------
+[2022-06-04 14:40:13] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XXBT for $29688.9
+Random---Twenty-four hours or ten percent decreasing now has $1099.8949915270912
+---------------------------------------------------------------------------

@@ -2170,3 +2170,7 @@ Lower All Local Minimums---Random now has $2608.9877820725933
 Lower All Local Minimums---Random has bought ICX for $0.3735
 Lower All Local Minimums---Random now has $2608.9877820725933
 ---------------------------------------------------------------------------
+[2022-06-04 14:40:13] SOLD
+Lower All Local Minimums---Random has sold ICX for $0.3735. Profit was -0.52%.
+Lower All Local Minimums---Random now has $2595.421045605816
+---------------------------------------------------------------------------
