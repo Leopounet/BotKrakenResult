@@ -3482,3 +3482,7 @@ Random---Twenty-four hours or ten percent decreasing now has $989.1787322588092
 Random---Twenty-four hours or ten percent decreasing has bought XLTC for $63.08
 Random---Twenty-four hours or ten percent decreasing now has $989.1787322588092
 ---------------------------------------------------------------------------
+[2022-06-04 16:43:48] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XLTC for $63.07. Profit was -0.5358528852251094%.
+Random---Twenty-four hours or ten percent decreasing now has $983.8781894819672
+---------------------------------------------------------------------------

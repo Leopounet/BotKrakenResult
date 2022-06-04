@@ -37451,3 +37451,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $989.1787322588092
 ---------------------------------------------------------------------------
+[2022-06-04 16:43:48] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: XLTCZUSD
+Altname: LTCUSD
+Wsname: LTC/USD
+Base:
+ 	Name: XLTC
+	Altname: LTC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.03
+Data about this pair of assets (XLTCZUSD):
+	Current:                    63.08
+	Maximum:                    0.016284
+	Minimum:                    0.015442
+	Variance:                   0.051729
+	Mean:                       0.015872
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.73913
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.285714
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      62.940435
+	Number of local maximums:   23
+	Average local minimum:      63.175714
+	Number of local minimums:   21
+Is init: True
+Profit was -0.5358528852251094%.
+Random---Twenty-four hours or ten percent decreasing now has $983.8781894819672
+---------------------------------------------------------------------------
