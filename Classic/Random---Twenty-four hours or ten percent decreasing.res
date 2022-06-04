@@ -2614,3 +2614,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1818.187157406652
 Random---Twenty-four hours or ten percent decreasing has sold UMA for $3.014. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1808.7325841881375
 ---------------------------------------------------------------------------
+[2022-06-04 05:42:51] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RNDR for $0.7112
+Random---Twenty-four hours or ten percent decreasing now has $1808.7325841881375
+---------------------------------------------------------------------------
