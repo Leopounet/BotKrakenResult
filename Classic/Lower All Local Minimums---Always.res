@@ -3974,3 +3974,7 @@ Lower All Local Minimums---Always now has $1018.0495269727205
 Lower All Local Minimums---Always has sold LUNA for $9.254e-05. Profit was -0.35764476674963364%.
 Lower All Local Minimums---Always now has $1014.4085261165832
 ---------------------------------------------------------------------------
+[2022-06-04 22:50:35] BUY
+Lower All Local Minimums---Always has bought DAI for $0.99967
+Lower All Local Minimums---Always now has $1014.4085261165832
+---------------------------------------------------------------------------

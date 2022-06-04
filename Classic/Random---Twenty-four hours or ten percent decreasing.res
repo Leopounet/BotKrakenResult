@@ -3974,3 +3974,7 @@ Random---Twenty-four hours or ten percent decreasing now has $729.5847402485922
 Random---Twenty-four hours or ten percent decreasing has sold MNGO for $0.0547. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $725.7908995992996
 ---------------------------------------------------------------------------
+[2022-06-04 22:50:35] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TRIBE for $0.23
+Random---Twenty-four hours or ten percent decreasing now has $725.7908995992996
+---------------------------------------------------------------------------

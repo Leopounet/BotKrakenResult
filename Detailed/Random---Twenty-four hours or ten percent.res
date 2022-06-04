@@ -42740,3 +42740,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $788.583245641965
 ---------------------------------------------------------------------------
+[2022-06-04 22:50:35] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: USDCUSD
+Altname: USDCUSD
+Wsname: USDC/USD
+Base:
+ 	Name: USDC
+	Altname: USDC
+	decimals: 8
+	displayed_decimals: 4
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDCUSD):
+	Current:                    1.0
+	Maximum:                    1.0001
+	Minimum:                    1.0
+	Variance:                   0.0001
+	Mean:                       1.000041
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.875
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.8
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      0.999992
+	Number of local maximums:   64
+	Average local minimum:      0.999967
+	Number of local minimums:   40
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $788.583245641965
+---------------------------------------------------------------------------

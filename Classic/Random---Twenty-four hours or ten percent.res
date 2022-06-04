@@ -3974,3 +3974,7 @@ Random---Twenty-four hours or ten percent now has $792.7053132709741
 Random---Twenty-four hours or ten percent has sold IDEX for $0.07289. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $788.583245641965
 ---------------------------------------------------------------------------
+[2022-06-04 22:50:35] BUY
+Random---Twenty-four hours or ten percent has bought USDC for $1.0
+Random---Twenty-four hours or ten percent now has $788.583245641965
+---------------------------------------------------------------------------
