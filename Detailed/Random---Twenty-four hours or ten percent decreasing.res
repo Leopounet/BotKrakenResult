@@ -36333,3 +36333,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1062.942212246375
 ---------------------------------------------------------------------------
+[2022-06-04 15:26:09] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base:
+ 	Name: ACH
+	Altname: ACH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (ACHUSD):
+	Current:                    0.01553
+	Maximum:                    72.886297
+	Minimum:                    50.632911
+	Variance:                   0.305316
+	Mean:                       61.48055
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.294118
+	Is ascending:               True
+	Current ascension duration: 30
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.923077
+	Is falling:                 True
+	Current fall duration:      36
+	Trending downwards:         True
+	Average local maximum:      0.015659
+	Number of local maximums:   17
+	Average local minimum:      0.015665
+	Number of local minimums:   13
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1057.4149127426938
+---------------------------------------------------------------------------
