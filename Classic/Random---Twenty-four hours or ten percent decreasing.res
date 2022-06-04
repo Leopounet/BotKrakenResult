@@ -3134,3 +3134,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1267.7552493107823
 Random---Twenty-four hours or ten percent decreasing has sold OGN for $0.2771. Profit was -1.6968901569186752%.
 Random---Twenty-four hours or ten percent decreasing now has $1246.2428352714078
 ---------------------------------------------------------------------------
+[2022-06-04 12:17:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SDN for $0.378
+Random---Twenty-four hours or ten percent decreasing now has $1246.2428352714078
+---------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-[2022-06-04 12:14:05] SUMMARY
+[2022-06-04 12:17:06] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SHIBUSD
+	Altname: SHIBUSD
+	Wsname: SHIB/USD
+	Base:
+	 	Name: SHIB
+		Altname: SHIB
+		decimals: 5
+		displayed_decimals: 0
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 500000
+	Data about this pair of assets (SHIBUSD):
+		Current:                    1.1e-05
+		Maximum:                    94966.761633
+		Minimum:                    88652.48227
+		Variance:                   0.066489
+		Mean:                       91725.64476
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          4.0
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.25
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      1.1e-05
+		Number of local maximums:   21
+		Average local minimum:      1.1e-05
+		Number of local minimums:   28
+	Is init: True
 Wins: 2
 Losses: 390
 Total points: -206.30024463578332%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MASKUSD
-	Altname: MASKUSD
-	Wsname: MASK/USD
-	Base:
-	 	Name: MASK
-		Altname: MASK
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (MASKUSD):
-		Current:                    1.741
-		Maximum:                    0.598444
-		Minimum:                    0.553403
-		Variance:                   0.075263
-		Mean:                       0.571351
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.769231
-		Is ascending:               True
-		Current ascension duration: 35
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.25
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.743038
-		Number of local maximums:   26
-		Average local minimum:      1.757458
-		Number of local minimums:   24
-	Is init: True
+	None
 Wins: 12
-Losses: 241
-Total points: -143.16147428082436%
-Wallet: 2358.320316199683
+Losses: 242
+Total points: -143.68147428082438%
+Wallet: 2346.0570505554447
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
