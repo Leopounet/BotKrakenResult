@@ -3358,3 +3358,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1078.5116588135452
 Random---Twenty-four hours or ten percent decreasing has sold ZUSD for $1.26022. Profit was -0.3769828482534928%.
 Random---Twenty-four hours or ten percent decreasing now has $1074.4458548434038
 ---------------------------------------------------------------------------
+[2022-06-04 15:11:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MANA for $0.984
+Random---Twenty-four hours or ten percent decreasing now has $1074.4458548434038
+---------------------------------------------------------------------------
