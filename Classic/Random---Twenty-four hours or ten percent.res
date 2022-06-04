@@ -3590,3 +3590,7 @@ Random---Twenty-four hours or ten percent now has $1027.0902603848524
 Random---Twenty-four hours or ten percent has sold ZEUR for $1.07058. Profit was -0.41400913395532835%.
 Random---Twenty-four hours or ten percent now has $1022.8380128928935
 ---------------------------------------------------------------------------
+[2022-06-04 18:04:34] BUY
+Random---Twenty-four hours or ten percent has bought RAY for $0.869
+Random---Twenty-four hours or ten percent now has $1022.8380128928935
+---------------------------------------------------------------------------

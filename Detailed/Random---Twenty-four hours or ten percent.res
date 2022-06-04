@@ -38612,3 +38612,46 @@ Is init: True
 Profit was -0.41400913395532835%.
 Random---Twenty-four hours or ten percent now has $1022.8380128928935
 ---------------------------------------------------------------------------
+[2022-06-04 18:04:34] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: RAYUSD
+Altname: RAYUSD
+Wsname: RAY/USD
+Base:
+ 	Name: RAY
+	Altname: RAY
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (RAYUSD):
+	Current:                    0.869
+	Maximum:                    1.173709
+	Minimum:                    1.074114
+	Variance:                   0.084855
+	Mean:                       1.11546
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      53
+	Trending downwards:         True
+	Average local maximum:      0.893889
+	Number of local maximums:   9
+	Average local minimum:      0.889167
+	Number of local minimums:   6
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1022.8380128928935
+---------------------------------------------------------------------------

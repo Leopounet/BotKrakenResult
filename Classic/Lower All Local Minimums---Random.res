@@ -2374,3 +2374,7 @@ Lower All Local Minimums---Random now has $2371.319493268656
 Lower All Local Minimums---Random has sold FTM for $0.35. Profit was 1.1946178436500792%.
 Lower All Local Minimums---Random now has $2399.647699065196
 ---------------------------------------------------------------------------
+[2022-06-04 18:04:34] BUY
+Lower All Local Minimums---Random has bought RBC for $0.07883
+Lower All Local Minimums---Random now has $2399.647699065196
+---------------------------------------------------------------------------
