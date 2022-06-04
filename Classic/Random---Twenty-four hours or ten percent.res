@@ -2198,3 +2198,7 @@ Random---Twenty-four hours or ten percent now has $2539.1810247117114
 Random---Twenty-four hours or ten percent has sold SDN for $0.365. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2525.9772833832103
 ---------------------------------------------------------------------------
+[2022-06-04 00:31:32] BUY
+Random---Twenty-four hours or ten percent has bought WBTC for $29681.7
+Random---Twenty-four hours or ten percent now has $2525.9772833832103
+---------------------------------------------------------------------------
