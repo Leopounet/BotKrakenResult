@@ -24508,3 +24508,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $1933.3912675825522
 ---------------------------------------------------------------------------
+[2022-06-04 01:30:30] BUY
+Random---Always has bought: 
+Name: STORJUSD
+Altname: STORJUSD
+Wsname: STORJ/USD
+Base:
+ 	Name: STORJ
+	Altname: STORJ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (STORJUSD):
+	Current:                    0.55602
+	Maximum:                    1.806
+	Minimum:                    1.651691
+	Variance:                   0.085442
+	Mean:                       1.739236
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.909091
+	Is ascending:               True
+	Current ascension duration: 16
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.714286
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.573925
+	Number of local maximums:   33
+	Average local minimum:      0.574154
+	Number of local minimums:   21
+Is init: True
+
+Random---Always now has $1933.3912675825522
+---------------------------------------------------------------------------
