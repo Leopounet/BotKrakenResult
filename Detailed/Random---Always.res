@@ -28249,3 +28249,46 @@ Is init: True
 
 Random---Always now has $1551.403637730123
 ---------------------------------------------------------------------------
+[2022-06-04 05:52:11] SOLD
+Random---Always has sold: 
+Name: AVAXUSD
+Altname: AVAXUSD
+Wsname: AVAX/USD
+Base:
+ 	Name: AVAX
+	Altname: AVAX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (AVAXUSD):
+	Current:                    22.92
+	Maximum:                    0.045106
+	Minimum:                    0.04029
+	Variance:                   0.106769
+	Mean:                       0.042503
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.409091
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.64
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      23.752727
+	Number of local maximums:   22
+	Average local minimum:      23.5076
+	Number of local minimums:   25
+Is init: True
+Profit was 0.134450261780104%.
+Random---Always now has $1553.489503982317
+---------------------------------------------------------------------------

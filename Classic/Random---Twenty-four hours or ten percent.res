@@ -2626,3 +2626,7 @@ Random---Twenty-four hours or ten percent now has $1928.9721458641138
 Random---Twenty-four hours or ten percent has bought BAND for $1.618
 Random---Twenty-four hours or ten percent now has $1928.9721458641138
 ---------------------------------------------------------------------------
+[2022-06-04 05:52:11] SOLD
+Random---Twenty-four hours or ten percent has sold BAND for $1.618. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1918.9414907056205
+---------------------------------------------------------------------------
