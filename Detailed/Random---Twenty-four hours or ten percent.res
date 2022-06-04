@@ -34570,3 +34570,46 @@ Is init: True
 Profit was -0.6383712121212155%.
 Random---Twenty-four hours or ten percent now has $1347.7156580016594
 ---------------------------------------------------------------------------
+[2022-06-04 13:20:18] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: DYDXUSD
+Altname: DYDXUSD
+Wsname: DYDX/USD
+Base:
+ 	Name: DYDX
+	Altname: DYDX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (DYDXUSD):
+	Current:                    1.712
+	Maximum:                    0.60241
+	Minimum:                    0.539084
+	Variance:                   0.105121
+	Mean:                       0.563587
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.142857
+	Is ascending:               True
+	Current ascension duration: 29
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.863636
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.76819
+	Number of local maximums:   21
+	Average local minimum:      1.753682
+	Number of local minimums:   22
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1347.7156580016594
+---------------------------------------------------------------------------

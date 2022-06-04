@@ -3214,3 +3214,7 @@ Random---Twenty-four hours or ten percent now has $1356.3743614537732
 Random---Twenty-four hours or ten percent has sold EOS for $1.2657. Profit was -0.6383712121212155%.
 Random---Twenty-four hours or ten percent now has $1347.7156580016594
 ---------------------------------------------------------------------------
+[2022-06-04 13:20:18] BUY
+Random---Twenty-four hours or ten percent has bought DYDX for $1.712
+Random---Twenty-four hours or ten percent now has $1347.7156580016594
+---------------------------------------------------------------------------
