@@ -4054,3 +4054,7 @@ Random---Twenty-four hours or ten percent decreasing now has $694.5613923352278
 Random---Twenty-four hours or ten percent decreasing has sold SDN for $0.367. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $690.9496730950846
 ---------------------------------------------------------------------------
+[2022-06-04 23:50:10] BUY
+Random---Twenty-four hours or ten percent decreasing has bought IDEX for $0.0729
+Random---Twenty-four hours or ten percent decreasing now has $690.9496730950846
+---------------------------------------------------------------------------
