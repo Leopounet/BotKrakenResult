@@ -2402,3 +2402,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2076.3731763025203
 Random---Twenty-four hours or ten percent decreasing has bought RARI for $2.61
 Random---Twenty-four hours or ten percent decreasing now has $2076.3731763025203
 ---------------------------------------------------------------------------
+[2022-06-04 03:02:53] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold RARI for $2.61. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2065.576035785747
+---------------------------------------------------------------------------
