@@ -3934,3 +3934,7 @@ Random---Twenty-four hours or ten percent decreasing now has $747.0501120340434
 Random---Twenty-four hours or ten percent decreasing has sold ASTR for $0.0621. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $743.1654514514664
 ---------------------------------------------------------------------------
+[2022-06-04 22:21:01] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZUSD for $1.26039
+Random---Twenty-four hours or ten percent decreasing now has $743.1654514514664
+---------------------------------------------------------------------------

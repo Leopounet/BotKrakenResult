@@ -3934,3 +3934,7 @@ Random---Twenty-four hours or ten percent now has $814.6288296903871
 Random---Twenty-four hours or ten percent has sold MKR for $1192.7. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $810.3927597759971
 ---------------------------------------------------------------------------
+[2022-06-04 22:21:01] BUY
+Random---Twenty-four hours or ten percent has bought ZGBP for $1.24944
+Random---Twenty-four hours or ten percent now has $810.3927597759971
+---------------------------------------------------------------------------

@@ -3934,3 +3934,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $1076.79511517466
 Variance---Twenty-four hours or ten percent decreasing has sold KINT for $5.16. Profit was -0.52%.
 Variance---Twenty-four hours or ten percent decreasing now has $1071.1957805757606
 ---------------------------------------------------------------------------
+[2022-06-04 22:21:01] BUY
+Variance---Twenty-four hours or ten percent decreasing has bought UST for $0.01759
+Variance---Twenty-four hours or ten percent decreasing now has $1071.1957805757606
+---------------------------------------------------------------------------
