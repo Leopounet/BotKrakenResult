@@ -24895,3 +24895,46 @@ Is init: True
 
 Random---Random now has $2002.6874184419053
 ---------------------------------------------------------------------------
+[2022-06-04 17:01:43] SOLD
+Random---Random has sold: 
+Name: NMRUSD
+Altname: NMRUSD
+Wsname: NMR/USD
+Base:
+ 	Name: NMR
+	Altname: NMR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (NMRUSD):
+	Current:                    11.73
+	Maximum:                    0.089206
+	Minimum:                    0.080906
+	Variance:                   0.093042
+	Mean:                       0.085131
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 14
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      46
+	Trending downwards:         True
+	Average local maximum:      11.608571
+	Number of local maximums:   7
+	Average local minimum:      11.921429
+	Number of local minimums:   7
+Is init: True
+Profit was -0.52%.
+Random---Random now has $1992.2734438660073
+---------------------------------------------------------------------------
