@@ -41751,3 +41751,46 @@ Is init: True
 
 Variance---Twenty-four hours or ten percent now has $1074.5309262281648
 ---------------------------------------------------------------------------
+[2022-06-04 21:42:19] SOLD
+Variance---Twenty-four hours or ten percent has sold: 
+Name: KINTUSD
+Altname: KINTUSD
+Wsname: KINT/USD
+Base:
+ 	Name: KINT
+	Altname: KINT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (KINTUSD):
+	Current:                    4.99
+	Maximum:                    0.309598
+	Minimum:                    0.200401
+	Variance:                   0.352705
+	Mean:                       0.244453
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.714286
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.25
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         False
+	Average local maximum:      4.088286
+	Number of local maximums:   35
+	Average local minimum:      4.1285
+	Number of local minimums:   20
+Is init: True
+Profit was 1.0832064128256529%.
+Variance---Twenty-four hours or ten percent now has $1086.1703141288633
+---------------------------------------------------------------------------

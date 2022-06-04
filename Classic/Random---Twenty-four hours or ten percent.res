@@ -3882,3 +3882,7 @@ Random---Twenty-four hours or ten percent now has $838.6982789574344
 Random---Twenty-four hours or ten percent has bought OCEAN for $0.2353
 Random---Twenty-four hours or ten percent now has $838.6982789574344
 ---------------------------------------------------------------------------
+[2022-06-04 21:42:19] SOLD
+Random---Twenty-four hours or ten percent has sold OCEAN for $0.2341. Profit was -1.0299872503187442%.
+Random---Twenty-four hours or ten percent now has $830.05979361553
+---------------------------------------------------------------------------

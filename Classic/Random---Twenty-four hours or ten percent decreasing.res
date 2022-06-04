@@ -3882,3 +3882,7 @@ Random---Twenty-four hours or ten percent decreasing now has $767.1031049976574
 Random---Twenty-four hours or ten percent decreasing has bought MINA for $0.837
 Random---Twenty-four hours or ten percent decreasing now has $767.1031049976574
 ---------------------------------------------------------------------------
+[2022-06-04 21:42:19] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MINA for $0.841. Profit was -0.04210274790920243%.
+Random---Twenty-four hours or ten percent decreasing now has $766.7801335111566
+---------------------------------------------------------------------------
