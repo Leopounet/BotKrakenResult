@@ -25927,3 +25927,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $2190.9561728667227
 ---------------------------------------------------------------------------
+[2022-06-04 03:09:02] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: YFIUSD
+Altname: YFIUSD
+Wsname: YFI/USD
+Base:
+ 	Name: YFI
+	Altname: YFI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.00015
+Data about this pair of assets (YFIUSD):
+	Current:                    7355.0
+	Maximum:                    0.00014
+	Minimum:                    0.000127
+	Variance:                   0.09639
+	Mean:                       0.000134
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.34375
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.84
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      7433.09375
+	Number of local maximums:   32
+	Average local minimum:      7439.84
+	Number of local minimums:   25
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2179.563200767816
+---------------------------------------------------------------------------
