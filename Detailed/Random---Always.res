@@ -31130,3 +31130,46 @@ Is init: True
 Profit was -0.6328031584884393%.
 Random---Always now has $1313.1697473658128
 ---------------------------------------------------------------------------
+[2022-06-04 09:15:29] BUY
+Random---Always has bought: 
+Name: BONDUSD
+Altname: BONDUSD
+Wsname: BOND/USD
+Base:
+ 	Name: BOND
+	Altname: BOND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (BONDUSD):
+	Current:                    3.455
+	Maximum:                    0.296121
+	Minimum:                    0.284252
+	Variance:                   0.04008
+	Mean:                       0.291024
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 41
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      37
+	Trending downwards:         False
+	Average local maximum:      3.426
+	Number of local maximums:   7
+	Average local minimum:      3.455
+	Number of local minimums:   7
+Is init: True
+
+Random---Always now has $1313.1697473658128
+---------------------------------------------------------------------------
