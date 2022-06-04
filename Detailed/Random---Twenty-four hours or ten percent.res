@@ -43256,3 +43256,46 @@ Is init: True
 Profit was 0.5742120343839477%.
 Random---Twenty-four hours or ten percent now has $773.6359260297324
 ---------------------------------------------------------------------------
+[2022-06-04 23:26:00] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: BATUSD
+Altname: BATUSD
+Wsname: BAT/USD
+Base:
+ 	Name: BAT
+	Altname: BAT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (BATUSD):
+	Current:                    0.37966
+	Maximum:                    2.711497
+	Minimum:                    2.480774
+	Variance:                   0.085091
+	Mean:                       2.609511
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.666667
+	Is ascending:               True
+	Current ascension duration: 10
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.375
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.382171
+	Number of local maximums:   27
+	Average local minimum:      0.384615
+	Number of local minimums:   24
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $773.6359260297324
+---------------------------------------------------------------------------

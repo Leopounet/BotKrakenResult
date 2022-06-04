@@ -4022,3 +4022,7 @@ Random---Twenty-four hours or ten percent now has $769.2189780867928
 Random---Twenty-four hours or ten percent has sold UST for $0.01762. Profit was 0.5742120343839477%.
 Random---Twenty-four hours or ten percent now has $773.6359260297324
 ---------------------------------------------------------------------------
+[2022-06-04 23:26:00] BUY
+Random---Twenty-four hours or ten percent has bought BAT for $0.37966
+Random---Twenty-four hours or ten percent now has $773.6359260297324
+---------------------------------------------------------------------------
