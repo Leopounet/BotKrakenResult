@@ -2350,3 +2350,7 @@ Random---Twenty-four hours or ten percent now has $2286.126224775023
 Random---Twenty-four hours or ten percent has sold RUNE for $2.579. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2274.238368406193
 ---------------------------------------------------------------------------
+[2022-06-04 02:23:33] BUY
+Random---Twenty-four hours or ten percent has bought XXLM for $0.142391
+Random---Twenty-four hours or ten percent now has $2274.238368406193
+---------------------------------------------------------------------------
