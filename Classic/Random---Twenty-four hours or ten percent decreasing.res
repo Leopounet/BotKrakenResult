@@ -2534,3 +2534,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1910.846230464938
 Random---Twenty-four hours or ten percent decreasing has sold RARI for $2.69. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1900.9098300665203
 ---------------------------------------------------------------------------
+[2022-06-04 04:43:20] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ENJ for $0.614
+Random---Twenty-four hours or ten percent decreasing now has $1900.9098300665203
+---------------------------------------------------------------------------

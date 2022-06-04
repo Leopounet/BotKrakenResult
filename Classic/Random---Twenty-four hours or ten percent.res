@@ -2534,3 +2534,7 @@ Random---Twenty-four hours or ten percent now has $2048.9613011192414
 Random---Twenty-four hours or ten percent has sold DAI for $0.99974. Profit was -0.4020004801152274%.
 Random---Twenty-four hours or ten percent now has $2040.7244668513667
 ---------------------------------------------------------------------------
+[2022-06-04 04:43:20] BUY
+Random---Twenty-four hours or ten percent has bought XETH for $1766.06
+Random---Twenty-four hours or ten percent now has $2040.7244668513667
+---------------------------------------------------------------------------
