@@ -40289,3 +40289,46 @@ Is init: True
 
 Random---Always now has $780.2367457930995
 ---------------------------------------------------------------------------
+[2022-06-04 20:00:49] SOLD
+Random---Always has sold: 
+Name: TRXUSD
+Altname: TRXUSD
+Wsname: TRX/USD
+Base:
+ 	Name: TRX
+	Altname: TRX
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (TRXUSD):
+	Current:                    0.080117
+	Maximum:                    13.023377
+	Minimum:                    11.623447
+	Variance:                   0.107494
+	Mean:                       12.219797
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.421053
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.035714
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.081132
+	Number of local maximums:   19
+	Average local minimum:      0.082226
+	Number of local minimums:   28
+Is init: True
+Profit was -0.44386135277155914%.
+Random---Always now has $776.7735764184015
+---------------------------------------------------------------------------

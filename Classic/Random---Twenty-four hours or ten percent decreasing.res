@@ -3746,3 +3746,7 @@ Random---Twenty-four hours or ten percent decreasing now has $837.6418116954846
 Random---Twenty-four hours or ten percent decreasing has bought FIL for $7.365
 Random---Twenty-four hours or ten percent decreasing now has $837.6418116954846
 ---------------------------------------------------------------------------
+[2022-06-04 20:00:49] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold FIL for $7.365. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $833.2860742746682
+---------------------------------------------------------------------------
