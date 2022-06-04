@@ -1,4 +1,4 @@
-[2022-06-04 14:15:32] SUMMARY
+[2022-06-04 14:18:42] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.857
-		Maximum:                    1.17096
-		Minimum:                    1.068376
-		Variance:                   0.087607
-		Mean:                       1.121707
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.545455
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.823529
-		Is falling:                 True
-		Current fall duration:      20
-		Trending downwards:         True
-		Average local maximum:      0.895212
-		Number of local maximums:   33
-		Average local minimum:      0.893059
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 2
-Losses: 409
-Total points: -215.62060019040138%
-Wallet: 1150.661435215187
+Losses: 410
+Total points: -216.1406001904014%
+Wallet: 1144.6779957520682
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AGLDUSD
-	Altname: AGLDUSD
-	Wsname: AGLD/USD
-	Base:
-	 	Name: AGLD
-		Altname: AGLD
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (AGLDUSD):
-		Current:                    0.501
-		Maximum:                    2.079002
-		Minimum:                    1.937234
-		Variance:                   0.068191
-		Mean:                       2.00312
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.5
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               6.0
-		Is falling:                 True
-		Current fall duration:      321
-		Trending downwards:         True
-		Average local maximum:      0.499175
-		Number of local maximums:   4
-		Average local minimum:      0.51415
-		Number of local minimums:   2
-	Is init: True
+	None
 Wins: 13
-Losses: 253
-Total points: -148.68147008357633%
-Wallet: 2231.1956133234835
+Losses: 254
+Total points: -149.20147008357634%
+Wallet: 2219.593396134201
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
