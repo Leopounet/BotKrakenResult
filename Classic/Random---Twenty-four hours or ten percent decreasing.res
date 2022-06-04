@@ -3142,3 +3142,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1246.2428352714078
 Random---Twenty-four hours or ten percent decreasing has sold SDN for $0.378. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1239.7623725279964
 ---------------------------------------------------------------------------
+[2022-06-04 12:23:37] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XXLM for $0.143114
+Random---Twenty-four hours or ten percent decreasing now has $1239.7623725279964
+---------------------------------------------------------------------------

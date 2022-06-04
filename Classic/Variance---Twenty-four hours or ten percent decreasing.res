@@ -3142,3 +3142,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $1773.24622280880
 Variance---Twenty-four hours or ten percent decreasing has sold WOO for $0.1559. Profit was -0.52%.
 Variance---Twenty-four hours or ten percent decreasing now has $1764.0253424501957
 ---------------------------------------------------------------------------
+[2022-06-04 12:23:37] BUY
+Variance---Twenty-four hours or ten percent decreasing has bought WOO for $0.1559
+Variance---Twenty-four hours or ten percent decreasing now has $1764.0253424501957
+---------------------------------------------------------------------------
