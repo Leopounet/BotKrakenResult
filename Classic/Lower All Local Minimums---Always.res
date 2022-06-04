@@ -3406,3 +3406,7 @@ Lower All Local Minimums---Always now has $1382.3216150855044
 Lower All Local Minimums---Always has sold KEEP for $0.23499. Profit was -0.26401638295149477%.
 Lower All Local Minimums---Always now has $1378.672059556599
 ---------------------------------------------------------------------------
+[2022-06-04 15:46:54] BUY
+Lower All Local Minimums---Always has bought FTM for $0.35
+Lower All Local Minimums---Always now has $1378.672059556599
+---------------------------------------------------------------------------

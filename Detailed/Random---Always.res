@@ -36634,3 +36634,46 @@ Is init: True
 Profit was -0.5622511407808024%.
 Random---Always now has $948.4608520656791
 ---------------------------------------------------------------------------
+[2022-06-04 15:46:54] BUY
+Random---Always has bought: 
+Name: MKRUSD
+Altname: MKRUSD
+Wsname: MKR/USD
+Base:
+ 	Name: MKR
+	Altname: MKR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.002
+Data about this pair of assets (MKRUSD):
+	Current:                    1168.2
+	Maximum:                    0.000893
+	Minimum:                    0.00081
+	Variance:                   0.092824
+	Mean:                       0.000855
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.428571
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.625
+	Is falling:                 True
+	Current fall duration:      22
+	Trending downwards:         True
+	Average local maximum:      1164.242857
+	Number of local maximums:   21
+	Average local minimum:      1179.245833
+	Number of local minimums:   24
+Is init: True
+
+Random---Always now has $948.4608520656791
+---------------------------------------------------------------------------
