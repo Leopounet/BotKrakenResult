@@ -38225,3 +38225,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1048.7343778537263
 ---------------------------------------------------------------------------
+[2022-06-04 17:37:49] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: RLCUSD
+Altname: RLCUSD
+Wsname: RLC/USD
+Base:
+ 	Name: RLC
+	Altname: RLC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (RLCUSD):
+	Current:                    0.8674
+	Maximum:                    1.171509
+	Minimum:                    1.09553
+	Variance:                   0.064855
+	Mean:                       1.127098
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 28
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      36
+	Trending downwards:         True
+	Average local maximum:      0.885327
+	Number of local maximums:   15
+	Average local minimum:      0.8934
+	Number of local minimums:   10
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1043.280959088887
+---------------------------------------------------------------------------
