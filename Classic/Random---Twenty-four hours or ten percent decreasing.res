@@ -2878,3 +2878,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1532.2828659263228
 Random---Twenty-four hours or ten percent decreasing has sold SPELL for $0.00123. Profit was -1.0054368932038833%.
 Random---Twenty-four hours or ten percent decreasing now has $1516.8767286840578
 ---------------------------------------------------------------------------
+[2022-06-04 09:03:38] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BCH for $186.04
+Random---Twenty-four hours or ten percent decreasing now has $1516.8767286840578
+---------------------------------------------------------------------------
