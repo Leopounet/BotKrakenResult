@@ -36591,3 +36591,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1046.4463901494105
 ---------------------------------------------------------------------------
+[2022-06-04 15:43:55] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: BATUSD
+Altname: BATUSD
+Wsname: BAT/USD
+Base:
+ 	Name: BAT
+	Altname: BAT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (BATUSD):
+	Current:                    0.37819
+	Maximum:                    2.711497
+	Minimum:                    2.480774
+	Variance:                   0.085091
+	Mean:                       2.602946
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.333333
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.7
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      0.382314
+	Number of local maximums:   27
+	Average local minimum:      0.385003
+	Number of local minimums:   30
+Is init: True
+Profit was -0.6125460747243534%.
+Random---Twenty-four hours or ten percent decreasing now has $1040.0364238624556
+---------------------------------------------------------------------------

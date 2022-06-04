@@ -3402,3 +3402,7 @@ Random---Twenty-four hours or ten percent now has $1183.3925375188646
 Random---Twenty-four hours or ten percent has bought DASH for $58.36
 Random---Twenty-four hours or ten percent now has $1183.3925375188646
 ---------------------------------------------------------------------------
+[2022-06-04 15:43:55] SOLD
+Random---Twenty-four hours or ten percent has sold DASH for $58.36. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1177.2388963237665
+---------------------------------------------------------------------------
