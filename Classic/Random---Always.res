@@ -2482,3 +2482,7 @@ Random---Always now has $1702.5368777122646
 Random---Always has bought ORCA for $0.82
 Random---Always now has $1702.5368777122646
 ---------------------------------------------------------------------------
+[2022-06-04 04:03:45] SOLD
+Random---Always has sold ORCA for $0.82. Profit was -0.52%.
+Random---Always now has $1693.683685948161
+---------------------------------------------------------------------------
