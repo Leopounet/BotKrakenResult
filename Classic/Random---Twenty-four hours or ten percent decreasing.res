@@ -3338,3 +3338,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1089.8162794880234
 Random---Twenty-four hours or ten percent decreasing has bought PSTAKE for $0.2279
 Random---Twenty-four hours or ten percent decreasing now has $1089.8162794880234
 ---------------------------------------------------------------------------
+[2022-06-04 14:55:10] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold PSTAKE for $0.2279. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1084.1492348346856
+---------------------------------------------------------------------------

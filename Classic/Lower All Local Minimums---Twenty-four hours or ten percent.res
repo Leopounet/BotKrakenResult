@@ -3338,3 +3338,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1423.832121
 Lower All Local Minimums---Twenty-four hours or ten percent has bought KEEP for $0.23216
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1423.8321219105712
 ---------------------------------------------------------------------------
+[2022-06-04 14:55:10] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold KEEP for $0.23435. Profit was 0.4233149552033004%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1429.859416219607
+---------------------------------------------------------------------------
