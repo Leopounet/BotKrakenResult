@@ -2830,3 +2830,7 @@ Random---Twenty-four hours or ten percent now has $1702.7817260570077
 Random---Twenty-four hours or ten percent has sold PAXG for $1852.63. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1693.9272610815112
 ---------------------------------------------------------------------------
+[2022-06-04 08:27:54] BUY
+Random---Twenty-four hours or ten percent has bought GARI for $0.6152
+Random---Twenty-four hours or ten percent now has $1693.9272610815112
+---------------------------------------------------------------------------
