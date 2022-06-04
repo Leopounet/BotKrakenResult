@@ -3386,3 +3386,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1057.4149127426938
 Random---Twenty-four hours or ten percent decreasing has bought CQT for $0.134
 Random---Twenty-four hours or ten percent decreasing now has $1057.4149127426938
 ---------------------------------------------------------------------------
+[2022-06-04 15:32:05] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold CQT for $0.134. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1051.9163551964318
+---------------------------------------------------------------------------
