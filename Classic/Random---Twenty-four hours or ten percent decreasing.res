@@ -3878,3 +3878,7 @@ Random---Twenty-four hours or ten percent decreasing now has $771.1128920362459
 Random---Twenty-four hours or ten percent decreasing has sold TRIBE for $0.23. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $767.1031049976574
 ---------------------------------------------------------------------------
+[2022-06-04 21:39:17] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MINA for $0.837
+Random---Twenty-four hours or ten percent decreasing now has $767.1031049976574
+---------------------------------------------------------------------------
