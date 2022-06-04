@@ -3558,3 +3558,7 @@ Random---Twenty-four hours or ten percent now has $1048.7343778537263
 Random---Twenty-four hours or ten percent has sold RLC for $0.8674. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1043.280959088887
 ---------------------------------------------------------------------------
+[2022-06-04 17:40:45] BUY
+Random---Twenty-four hours or ten percent has bought CHZ for $0.1257
+Random---Twenty-four hours or ten percent now has $1043.280959088887
+---------------------------------------------------------------------------
