@@ -36247,3 +36247,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1411.0675128635792
 ---------------------------------------------------------------------------
+[2022-06-04 15:20:08] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold: 
+Name: FTMUSD
+Altname: FTMUSD
+Wsname: FTM/USD
+Base:
+ 	Name: FTM
+	Altname: FTM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (FTMUSD):
+	Current:                    0.349
+	Maximum:                    3.333333
+	Minimum:                    2.500625
+	Variance:                   0.249812
+	Mean:                       2.759593
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.4
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.75
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.3642
+	Number of local maximums:   45
+	Average local minimum:      0.365186
+	Number of local minimums:   36
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1403.7299617966885
+---------------------------------------------------------------------------
