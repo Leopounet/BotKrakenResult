@@ -3670,3 +3670,7 @@ Random---Twenty-four hours or ten percent decreasing now has $880.3629663182508
 Random---Twenty-four hours or ten percent decreasing has sold XLTC for $63.18. Profit was -0.5358252888115218%.
 Random---Twenty-four hours or ten percent decreasing now has $875.6457589113863
 ---------------------------------------------------------------------------
+[2022-06-04 19:03:58] BUY
+Random---Twenty-four hours or ten percent decreasing has bought DYDX for $1.711
+Random---Twenty-four hours or ten percent decreasing now has $875.6457589113863
+---------------------------------------------------------------------------

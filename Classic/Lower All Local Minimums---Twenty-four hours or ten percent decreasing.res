@@ -3670,3 +3670,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold KEEP for $0.235. Profit was 0.13964190867813242%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1193.396279241382
 ---------------------------------------------------------------------------
+[2022-06-04 19:03:58] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought ANT for $1.7738
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1193.396279241382
+---------------------------------------------------------------------------

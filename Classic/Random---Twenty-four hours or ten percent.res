@@ -3670,3 +3670,7 @@ Random---Twenty-four hours or ten percent now has $977.1301434865198
 Random---Twenty-four hours or ten percent has sold SHIB for $1.083e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $972.0490667403899
 ---------------------------------------------------------------------------
+[2022-06-04 19:03:58] BUY
+Random---Twenty-four hours or ten percent has bought LUNA for $9.298e-05
+Random---Twenty-four hours or ten percent now has $972.0490667403899
+---------------------------------------------------------------------------
