@@ -1,4 +1,4 @@
-[2022-06-04 06:32:13] SUMMARY
+[2022-06-04 06:35:12] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SHIBUSD
-	Altname: SHIBUSD
-	Wsname: SHIB/USD
-	Base:
-	 	Name: SHIB
-		Altname: SHIB
-		decimals: 5
-		displayed_decimals: 0
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500000
-	Data about this pair of assets (SHIBUSD):
-		Current:                    1.1e-05
-		Maximum:                    94966.761633
-		Minimum:                    88652.48227
-		Variance:                   0.066489
-		Mean:                       91691.664286
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.409091
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.64
-		Is falling:                 True
-		Current fall duration:      10
-		Trending downwards:         True
-		Average local maximum:      1.1e-05
-		Number of local maximums:   22
-		Average local minimum:      1.1e-05
-		Number of local minimums:   25
-	Is init: True
+	None
 Wins: 2
-Losses: 333
-Total points: -176.11050897892505%
-Wallet: 1709.5058965904188
+Losses: 334
+Total points: -176.81450161921944%
+Wallet: 1697.4711008930237
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Random
