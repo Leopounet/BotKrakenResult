@@ -42611,3 +42611,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $798.8492481936153
 ---------------------------------------------------------------------------
+[2022-06-04 22:41:42] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: XDGUSD
+Altname: XDGUSD
+Wsname: XDG/USD
+Base:
+ 	Name: XXDG
+	Altname: XDG
+	decimals: 8
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 20
+Data about this pair of assets (XDGUSD):
+	Current:                    0.081695
+	Maximum:                    12.599092
+	Minimum:                    12.051155
+	Variance:                   0.04349
+	Mean:                       12.29513
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.608696
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.45
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.08154
+	Number of local maximums:   23
+	Average local minimum:      0.081379
+	Number of local minimums:   20
+Is init: True
+Profit was -0.769098166710926%.
+Random---Twenty-four hours or ten percent now has $792.7053132709741
+---------------------------------------------------------------------------

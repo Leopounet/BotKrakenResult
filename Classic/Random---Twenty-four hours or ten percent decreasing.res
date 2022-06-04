@@ -3962,3 +3962,7 @@ Random---Twenty-four hours or ten percent decreasing now has $732.5147994463777
 Random---Twenty-four hours or ten percent decreasing has bought ZAUD for $0.72069
 Random---Twenty-four hours or ten percent decreasing now has $732.5147994463777
 ---------------------------------------------------------------------------
+[2022-06-04 22:41:42] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ZAUD for $0.72069. Profit was -0.4%.
+Random---Twenty-four hours or ten percent decreasing now has $729.5847402485922
+---------------------------------------------------------------------------

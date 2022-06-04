@@ -42611,3 +42611,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $732.5147994463777
 ---------------------------------------------------------------------------
+[2022-06-04 22:41:42] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: AUDUSD
+Altname: AUDUSD
+Wsname: AUD/USD
+Base:
+ 	Name: ZAUD
+	Altname: AUD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 10
+Data about this pair of assets (AUDUSD):
+	Current:                    0.72069
+	Maximum:                    1.391111
+	Minimum:                    1.37493
+	Variance:                   0.011632
+	Mean:                       1.384213
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.428571
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.625
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.722103
+	Number of local maximums:   35
+	Average local minimum:      0.722455
+	Number of local minimums:   40
+Is init: True
+Profit was -0.4%.
+Random---Twenty-four hours or ten percent decreasing now has $729.5847402485922
+---------------------------------------------------------------------------
