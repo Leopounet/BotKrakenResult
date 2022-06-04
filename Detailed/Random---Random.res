@@ -27819,3 +27819,46 @@ Is init: True
 
 Random---Random now has $1885.9796019903997
 ---------------------------------------------------------------------------
+[2022-06-04 22:03:17] SOLD
+Random---Random has sold: 
+Name: BNCUSD
+Altname: BNCUSD
+Wsname: BNC/USD
+Base:
+ 	Name: BNC
+	Altname: BNC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (BNCUSD):
+	Current:                    0.348
+	Maximum:                    3.144654
+	Minimum:                    2.695418
+	Variance:                   0.142857
+	Mean:                       2.909392
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.826087
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.928571
+	Is falling:                 True
+	Current fall duration:      31
+	Trending downwards:         True
+	Average local maximum:      0.343826
+	Number of local maximums:   23
+	Average local minimum:      0.350143
+	Number of local minimums:   14
+Is init: True
+Profit was -0.52%.
+Random---Random now has $1876.1725080600497
+---------------------------------------------------------------------------

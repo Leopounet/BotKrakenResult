@@ -3910,3 +3910,7 @@ Random---Twenty-four hours or ten percent now has $821.4496165787479
 Random---Twenty-four hours or ten percent has sold OXT for $0.13115. Profit was 0.04744114715128189%.
 Random---Twenty-four hours or ten percent now has $821.8393217001226
 ---------------------------------------------------------------------------
+[2022-06-04 22:03:17] BUY
+Random---Twenty-four hours or ten percent has bought GARI for $0.6167
+Random---Twenty-four hours or ten percent now has $821.8393217001226
+---------------------------------------------------------------------------

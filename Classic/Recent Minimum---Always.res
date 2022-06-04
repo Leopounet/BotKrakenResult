@@ -3910,3 +3910,7 @@ Recent Minimum---Always now has $792.3087772575154
 Recent Minimum---Always has sold AIR for $0.02717. Profit was -0.52%.
 Recent Minimum---Always now has $788.1887716157763
 ---------------------------------------------------------------------------
+[2022-06-04 22:03:17] BUY
+Recent Minimum---Always has bought AAVE for $105.79
+Recent Minimum---Always now has $788.1887716157763
+---------------------------------------------------------------------------

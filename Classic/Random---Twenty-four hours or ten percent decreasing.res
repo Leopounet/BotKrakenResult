@@ -3910,3 +3910,7 @@ Random---Twenty-four hours or ten percent decreasing now has $758.8263538574507
 Random---Twenty-four hours or ten percent decreasing has sold MOVR for $20.5669. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $754.880456817392
 ---------------------------------------------------------------------------
+[2022-06-04 22:03:17] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GARI for $0.6167
+Random---Twenty-four hours or ten percent decreasing now has $754.880456817392
+---------------------------------------------------------------------------
