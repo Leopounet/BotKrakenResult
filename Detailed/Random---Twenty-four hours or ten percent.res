@@ -36849,3 +36849,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1165.0274443417559
 ---------------------------------------------------------------------------
+[2022-06-04 16:01:42] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: TRXUSD
+Altname: TRXUSD
+Wsname: TRX/USD
+Base:
+ 	Name: TRX
+	Altname: TRX
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (TRXUSD):
+	Current:                    0.08004
+	Maximum:                    13.023377
+	Minimum:                    11.623447
+	Variance:                   0.107494
+	Mean:                       12.194371
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.263158
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.111111
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.081424
+	Number of local maximums:   19
+	Average local minimum:      0.082451
+	Number of local minimums:   27
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1158.9693016311787
+---------------------------------------------------------------------------
