@@ -40117,3 +40117,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $928.6466848856749
 ---------------------------------------------------------------------------
+[2022-06-04 19:48:47] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: PLAUSD
+Altname: PLAUSD
+Wsname: PLA/USD
+Base:
+ 	Name: PLA
+	Altname: PLA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (PLAUSD):
+	Current:                    0.5353
+	Maximum:                    1.905488
+	Minimum:                    1.749169
+	Variance:                   0.082036
+	Mean:                       1.855428
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.625
+	Is ascending:               True
+	Current ascension duration: 124
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.428571
+	Is falling:                 True
+	Current fall duration:      58
+	Trending downwards:         False
+	Average local maximum:      0.541963
+	Number of local maximums:   8
+	Average local minimum:      0.541329
+	Number of local minimums:   7
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $923.8177221242694
+---------------------------------------------------------------------------
