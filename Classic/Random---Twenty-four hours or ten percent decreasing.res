@@ -2766,3 +2766,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1648.5353084235758
 Random---Twenty-four hours or ten percent decreasing has sold PHA for $0.1242. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1639.9629248197732
 ---------------------------------------------------------------------------
+[2022-06-04 07:39:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MIR for $0.277
+Random---Twenty-four hours or ten percent decreasing now has $1639.9629248197732
+---------------------------------------------------------------------------
