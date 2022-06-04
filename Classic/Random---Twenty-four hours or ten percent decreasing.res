@@ -3006,3 +3006,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1377.8328602569063
 Random---Twenty-four hours or ten percent decreasing has sold OCEAN for $0.253. Profit was -0.2822820919175979%.
 Random---Twenty-four hours or ten percent decreasing now has $1373.943484835845
 ---------------------------------------------------------------------------
+[2022-06-04 10:40:21] BUY
+Random---Twenty-four hours or ten percent decreasing has bought UNI for $5.079
+Random---Twenty-four hours or ten percent decreasing now has $1373.943484835845
+---------------------------------------------------------------------------
