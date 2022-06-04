@@ -3390,3 +3390,7 @@ Random---Twenty-four hours or ten percent now has $1195.7964866429525
 Random---Twenty-four hours or ten percent has sold CVC for $0.1756. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1189.5783449124092
 ---------------------------------------------------------------------------
+[2022-06-04 15:35:03] BUY
+Random---Twenty-four hours or ten percent has bought GARI for $0.6184
+Random---Twenty-four hours or ten percent now has $1189.5783449124092
+---------------------------------------------------------------------------

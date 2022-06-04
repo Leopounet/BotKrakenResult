@@ -3390,3 +3390,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1057.4149127426938
 Random---Twenty-four hours or ten percent decreasing has sold CQT for $0.134. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1051.9163551964318
 ---------------------------------------------------------------------------
+[2022-06-04 15:35:03] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KIN for $1.54e-05
+Random---Twenty-four hours or ten percent decreasing now has $1051.9163551964318
+---------------------------------------------------------------------------
