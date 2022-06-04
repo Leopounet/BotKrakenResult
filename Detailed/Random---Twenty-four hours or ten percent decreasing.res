@@ -27905,3 +27905,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1837.2448244812026
 ---------------------------------------------------------------------------
+[2022-06-04 05:28:03] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: BADGERUSD
+Altname: BADGERUSD
+Wsname: BADGER/USD
+Base:
+ 	Name: BADGER
+	Altname: BADGER
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (BADGERUSD):
+	Current:                    5.74
+	Maximum:                    0.175994
+	Minimum:                    0.16742
+	Variance:                   0.048719
+	Mean:                       0.172063
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.230769
+	Is ascending:               True
+	Current ascension duration: 18
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.785714
+	Is falling:                 True
+	Current fall duration:      33
+	Trending downwards:         True
+	Average local maximum:      5.761231
+	Number of local maximums:   13
+	Average local minimum:      5.820929
+	Number of local minimums:   14
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1827.6911513939003
+---------------------------------------------------------------------------

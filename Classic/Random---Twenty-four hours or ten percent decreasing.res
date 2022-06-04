@@ -2594,3 +2594,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1837.2448244812026
 Random---Twenty-four hours or ten percent decreasing has bought BADGER for $5.74
 Random---Twenty-four hours or ten percent decreasing now has $1837.2448244812026
 ---------------------------------------------------------------------------
+[2022-06-04 05:28:03] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold BADGER for $5.74. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1827.6911513939003
+---------------------------------------------------------------------------
