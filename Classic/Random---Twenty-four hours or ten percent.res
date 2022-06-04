@@ -3830,3 +3830,7 @@ Random---Twenty-four hours or ten percent now has $866.4429042853822
 Random---Twenty-four hours or ten percent has sold MC for $0.982. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $861.9374011830981
 ---------------------------------------------------------------------------
+[2022-06-04 21:03:28] BUY
+Random---Twenty-four hours or ten percent has bought NMR for $11.73
+Random---Twenty-four hours or ten percent now has $861.9374011830981
+---------------------------------------------------------------------------
