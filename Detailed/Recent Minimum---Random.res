@@ -28077,3 +28077,46 @@ Is init: True
 
 Recent Minimum---Random now has $1739.9320493001055
 ---------------------------------------------------------------------------
+[2022-06-04 20:24:46] SOLD
+Recent Minimum---Random has sold: 
+Name: AUDUSD
+Altname: AUDUSD
+Wsname: AUD/USD
+Base:
+ 	Name: ZAUD
+	Altname: AUD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 10
+Data about this pair of assets (AUDUSD):
+	Current:                    0.72084
+	Maximum:                    1.392215
+	Minimum:                    1.37493
+	Variance:                   0.012416
+	Mean:                       1.384324
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.6
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.5
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         False
+	Average local maximum:      0.722062
+	Number of local maximums:   35
+	Average local minimum:      0.722308
+	Number of local minimums:   42
+Is init: True
+Profit was -0.4%.
+Recent Minimum---Random now has $1732.9723211029052
+---------------------------------------------------------------------------

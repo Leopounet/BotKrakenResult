@@ -40633,3 +40633,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $900.2203081745625
 ---------------------------------------------------------------------------
+[2022-06-04 20:24:46] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: MIRUSD
+Altname: MIRUSD
+Wsname: MIR/USD
+Base:
+ 	Name: MIR
+	Altname: MIR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (MIRUSD):
+	Current:                    0.273
+	Maximum:                    3.717472
+	Minimum:                    3.344482
+	Variance:                   0.100334
+	Mean:                       3.573882
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.12
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.884615
+	Is falling:                 True
+	Current fall duration:      37
+	Trending downwards:         True
+	Average local maximum:      0.28044
+	Number of local maximums:   25
+	Average local minimum:      0.279885
+	Number of local minimums:   26
+Is init: True
+Profit was -0.886300366300365%.
+Random---Twenty-four hours or ten percent now has $892.2416522857011
+---------------------------------------------------------------------------

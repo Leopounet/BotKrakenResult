@@ -2610,3 +2610,7 @@ Recent Minimum---Random now has $1739.9320493001055
 Recent Minimum---Random has bought ZAUD for $0.72084
 Recent Minimum---Random now has $1739.9320493001055
 ---------------------------------------------------------------------------
+[2022-06-04 20:24:46] SOLD
+Recent Minimum---Random has sold ZAUD for $0.72084. Profit was -0.4%.
+Recent Minimum---Random now has $1732.9723211029052
+---------------------------------------------------------------------------

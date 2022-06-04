@@ -40633,3 +40633,46 @@ Is init: True
 
 Random---Always now has $768.5127056474947
 ---------------------------------------------------------------------------
+[2022-06-04 20:24:46] SOLD
+Random---Always has sold: 
+Name: SUSHIUSD
+Altname: SUSHIUSD
+Wsname: SUSHI/USD
+Base:
+ 	Name: SUSHI
+	Altname: SUSHI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (SUSHIUSD):
+	Current:                    1.573
+	Maximum:                    0.662691
+	Minimum:                    0.589623
+	Variance:                   0.110259
+	Mean:                       0.629175
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.545455
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.535714
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         True
+	Average local maximum:      1.592121
+	Number of local maximums:   33
+	Average local minimum:      1.595179
+	Number of local minimums:   28
+Is init: True
+Profit was -0.52%.
+Random---Always now has $764.5164395781278
+---------------------------------------------------------------------------
