@@ -2998,3 +2998,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1383.366325559143
 Random---Twenty-four hours or ten percent decreasing has sold ZGBP for $1.24946. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $1377.8328602569063
 ---------------------------------------------------------------------------
+[2022-06-04 10:34:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OCEAN for $0.2524
+Random---Twenty-four hours or ten percent decreasing now has $1377.8328602569063
+---------------------------------------------------------------------------
