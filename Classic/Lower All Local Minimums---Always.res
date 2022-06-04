@@ -3502,3 +3502,7 @@ Lower All Local Minimums---Always now has $1292.2673745255508
 Lower All Local Minimums---Always has sold ANT for $1.7853. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1285.547584178018
 ---------------------------------------------------------------------------
+[2022-06-04 16:58:44] BUY
+Lower All Local Minimums---Always has bought FTM for $0.349
+Lower All Local Minimums---Always now has $1285.547584178018
+---------------------------------------------------------------------------

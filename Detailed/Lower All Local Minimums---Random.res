@@ -24852,3 +24852,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Random now has $2459.459272374442
 ---------------------------------------------------------------------------
+[2022-06-04 16:58:44] BUY
+Lower All Local Minimums---Random has bought: 
+Name: FTMUSD
+Altname: FTMUSD
+Wsname: FTM/USD
+Base:
+ 	Name: FTM
+	Altname: FTM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (FTMUSD):
+	Current:                    0.349
+	Maximum:                    3.333333
+	Minimum:                    2.500625
+	Variance:                   0.249812
+	Mean:                       2.76306
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.413043
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.72973
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.363891
+	Number of local maximums:   46
+	Average local minimum:      0.364776
+	Number of local minimums:   37
+Is init: True
+
+Lower All Local Minimums---Random now has $2459.459272374442
+---------------------------------------------------------------------------
