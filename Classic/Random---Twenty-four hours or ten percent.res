@@ -2166,3 +2166,7 @@ Random---Twenty-four hours or ten percent now has $2590.4392644670384
 Random---Twenty-four hours or ten percent has sold LRC for $0.516. Profit was -0.36472049689441244%.
 Random---Twenty-four hours or ten percent now has $2580.991401509926
 ---------------------------------------------------------------------------
+[2022-06-04 00:07:56] BUY
+Random---Twenty-four hours or ten percent has bought ZGBP for $1.24907
+Random---Twenty-four hours or ten percent now has $2580.991401509926
+---------------------------------------------------------------------------

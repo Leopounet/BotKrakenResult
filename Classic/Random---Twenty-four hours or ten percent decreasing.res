@@ -2166,3 +2166,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2461.920277768051
 Random---Twenty-four hours or ten percent decreasing has sold COMP for $55.96. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2449.1182923236574
 ---------------------------------------------------------------------------
+[2022-06-04 00:07:56] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SHIB for $1.082e-05
+Random---Twenty-four hours or ten percent decreasing now has $2449.1182923236574
+---------------------------------------------------------------------------

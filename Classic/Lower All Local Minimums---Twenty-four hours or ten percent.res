@@ -2166,3 +2166,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2852.562537
 Lower All Local Minimums---Twenty-four hours or ten percent has sold SUSHI for $1.542. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2837.7292121422875
 ---------------------------------------------------------------------------
+[2022-06-04 00:07:56] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought CVX for $8.32
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2837.7292121422875
+---------------------------------------------------------------------------
