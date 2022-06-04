@@ -1,4 +1,4 @@
-[2022-06-04 10:19:11] SUMMARY
+[2022-06-04 10:22:20] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,63 +8,63 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
-Wins: 2
-Losses: 371
-Total points: -196.23660732511658%
-Wallet: 1397.0863037302267
----------------------------------------------------------------------------
-Most wins: 
-Name: Random---Random
-BuyStrategy description: Random.
-SellStrategy description: Random.
-Buy strategy cached data: 
-	{}
-Sell strategy cached data: 
-	{}
-Bought asset pair: 
-	Name: KP3RUSD
-	Altname: KP3RUSD
-	Wsname: KP3R/USD
+	Name: SHIBUSD
+	Altname: SHIBUSD
+	Wsname: SHIB/USD
 	Base:
-	 	Name: KP3R
-		Altname: KP3R
-		decimals: 10
-		displayed_decimals: 5
+	 	Name: SHIB
+		Altname: SHIB
+		decimals: 5
+		displayed_decimals: 0
 	Quote:
 	 	Name: ZUSD
 		Altname: USD
 		decimals: 4
 		displayed_decimals: 2
 	Fee: 0.26
-	Min order: 0.025
-	Data about this pair of assets (KP3RUSD):
-		Current:                    128.8
-		Maximum:                    0.007955
-		Minimum:                    0.007273
-		Variance:                   0.085818
-		Mean:                       0.007614
+	Min order: 500000
+	Data about this pair of assets (SHIBUSD):
+		Current:                    1.1e-05
+		Maximum:                    94966.761633
+		Minimum:                    88652.48227
+		Variance:                   0.066489
+		Mean:                       91706.403954
 		Longest ascension:          3
 		Shortest ascension:         3
-		Average ascension:          3.5
-		Is ascending:               True
-		Current ascension duration: 71
+		Average ascension:          3.681818
+		Is ascending:               False
+		Current ascension duration: 0
 		Trending upwards:           True
 		Longest fall:               3
 		Shortest fall:              3
-		Average fall:               2.571429
-		Is falling:                 False
-		Current fall duration:      0
+		Average fall:               2.444444
+		Is falling:                 True
+		Current fall duration:      7
 		Trending downwards:         False
-		Average local maximum:      131.877778
-		Number of local maximums:   18
-		Average local minimum:      130.638095
-		Number of local minimums:   21
+		Average local maximum:      1.1e-05
+		Number of local maximums:   22
+		Average local minimum:      1.1e-05
+		Number of local minimums:   27
 	Is init: True
-Wins: 11
-Losses: 233
-Total points: -139.6367386428477%
-Wallet: 2443.635909074376
+Wins: 2
+Losses: 371
+Total points: -196.23660732511658%
+Wallet: 1397.0863037302267
+---------------------------------------------------------------------------
+Most wins: 
+Name: Variance---Random
+BuyStrategy description: Looks for the asset which has the highest Variance.
+SellStrategy description: Random.
+Buy strategy cached data: 
+	{}
+Sell strategy cached data: 
+	{}
+Bought asset pair: 
+	None
+Wins: 12
+Losses: 244
+Total points: -100.12849444990346%
+Wallet: 3399.7385361129027
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
