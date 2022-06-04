@@ -23519,3 +23519,46 @@ Is init: True
 
 Lower All Local Minimums---Random now has $2581.9248561686654
 ---------------------------------------------------------------------------
+[2022-06-04 14:59:07] SOLD
+Lower All Local Minimums---Random has sold: 
+Name: KEEPUSD
+Altname: KEEPUSD
+Wsname: KEEP/USD
+Base:
+ 	Name: KEEP
+	Altname: KEEP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (KEEPUSD):
+	Current:                    0.23216
+	Maximum:                    4.334446
+	Minimum:                    3.753895
+	Variance:                   0.133939
+	Mean:                       4.15505
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.914286
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.088235
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.240335
+	Number of local maximums:   35
+	Average local minimum:      0.240215
+	Number of local minimums:   34
+Is init: True
+Profit was 1.53892487939352%.
+Lower All Local Minimums---Random now has $2621.6587401474903
+---------------------------------------------------------------------------

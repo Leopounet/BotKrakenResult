@@ -3342,3 +3342,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1089.8162794880234
 Random---Twenty-four hours or ten percent decreasing has sold PSTAKE for $0.2279. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1084.1492348346856
 ---------------------------------------------------------------------------
+[2022-06-04 14:59:07] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SDN for $0.374
+Random---Twenty-four hours or ten percent decreasing now has $1084.1492348346856
+---------------------------------------------------------------------------
