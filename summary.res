@@ -1,4 +1,4 @@
-[2022-06-04 14:09:20] SUMMARY
+[2022-06-04 14:12:19] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.857
-		Maximum:                    1.17096
-		Minimum:                    1.068376
-		Variance:                   0.087607
-		Mean:                       1.12157
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.545455
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.823529
-		Is falling:                 True
-		Current fall duration:      19
-		Trending downwards:         True
-		Average local maximum:      0.895212
-		Number of local maximums:   33
-		Average local minimum:      0.893059
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 2
-Losses: 408
-Total points: -215.10060019040137%
-Wallet: 1156.6761512014345
+Losses: 409
+Total points: -215.62060019040138%
+Wallet: 1150.661435215187
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MCUSD
-	Altname: MCUSD
-	Wsname: MC/USD
-	Base:
-	 	Name: MC
-		Altname: MC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2
-	Data about this pair of assets (MCUSD):
-		Current:                    0.982
-		Maximum:                    1.028807
-		Minimum:                    0.984252
-		Variance:                   0.043307
-		Mean:                       1.009504
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.965517
-		Is ascending:               True
-		Current ascension duration: 9
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.578947
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         True
-		Average local maximum:      0.992138
-		Number of local maximums:   29
-		Average local minimum:      0.991105
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 13
-Losses: 252
-Total points: -148.16147008357632%
-Wallet: 2242.8584774059946
+Losses: 253
+Total points: -148.68147008357633%
+Wallet: 2231.1956133234835
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
