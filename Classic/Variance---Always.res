@@ -3782,3 +3782,7 @@ Variance---Always now has $1130.8841019235406
 Variance---Always has sold WOO for $0.1561. Profit was -0.52%.
 Variance---Always now has $1125.003504593538
 ---------------------------------------------------------------------------
+[2022-06-04 20:27:45] BUY
+Variance---Always has bought UST for $0.01788
+Variance---Always now has $1125.003504593538
+---------------------------------------------------------------------------

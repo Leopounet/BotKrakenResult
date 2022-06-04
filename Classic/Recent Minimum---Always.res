@@ -3782,3 +3782,7 @@ Recent Minimum---Always now has $860.1981014982126
 Recent Minimum---Always has sold ZAUD for $0.72084. Profit was -0.4%.
 Recent Minimum---Always now has $856.7573090922198
 ---------------------------------------------------------------------------
+[2022-06-04 20:27:45] BUY
+Recent Minimum---Always has bought ALICE for $2.939
+Recent Minimum---Always now has $856.7573090922198
+---------------------------------------------------------------------------

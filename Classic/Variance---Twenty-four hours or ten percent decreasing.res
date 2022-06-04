@@ -3782,3 +3782,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $1130.88410192354
 Variance---Twenty-four hours or ten percent decreasing has sold WOO for $0.1561. Profit was -0.52%.
 Variance---Twenty-four hours or ten percent decreasing now has $1125.003504593538
 ---------------------------------------------------------------------------
+[2022-06-04 20:27:45] BUY
+Variance---Twenty-four hours or ten percent decreasing has bought UST for $0.01788
+Variance---Twenty-four hours or ten percent decreasing now has $1125.003504593538
+---------------------------------------------------------------------------

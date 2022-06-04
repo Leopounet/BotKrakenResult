@@ -3782,3 +3782,7 @@ Random---Twenty-four hours or ten percent now has $900.2203081745625
 Random---Twenty-four hours or ten percent has sold MIR for $0.272. Profit was -0.886300366300365%.
 Random---Twenty-four hours or ten percent now has $892.2416522857011
 ---------------------------------------------------------------------------
+[2022-06-04 20:27:45] BUY
+Random---Twenty-four hours or ten percent has bought DASH for $58.335
+Random---Twenty-four hours or ten percent now has $892.2416522857011
+---------------------------------------------------------------------------
