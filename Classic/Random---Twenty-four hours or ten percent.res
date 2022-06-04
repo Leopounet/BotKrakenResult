@@ -2366,3 +2366,7 @@ Random---Twenty-four hours or ten percent now has $2260.575573671635
 Random---Twenty-four hours or ten percent has sold MNGO for $0.0552. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2248.8205806885426
 ---------------------------------------------------------------------------
+[2022-06-04 02:35:40] BUY
+Random---Twenty-four hours or ten percent has bought QNT for $63.91
+Random---Twenty-four hours or ten percent now has $2248.8205806885426
+---------------------------------------------------------------------------

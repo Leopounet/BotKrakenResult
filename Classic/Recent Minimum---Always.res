@@ -2366,3 +2366,7 @@ Recent Minimum---Always now has $2191.4765128994723
 Recent Minimum---Always has sold ADA for $0.548449. Profit was -0.08287015027598388%.
 Recent Minimum---Always now has $2189.66043301997
 ---------------------------------------------------------------------------
+[2022-06-04 02:35:40] BUY
+Recent Minimum---Always has bought ADA for $0.548245
+Recent Minimum---Always now has $2189.66043301997
+---------------------------------------------------------------------------
