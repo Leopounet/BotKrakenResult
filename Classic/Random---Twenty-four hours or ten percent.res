@@ -2694,3 +2694,7 @@ Random---Twenty-four hours or ten percent now has $1852.3392224609847
 Random---Twenty-four hours or ten percent has sold KIN for $1.561e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1842.7070585041877
 ---------------------------------------------------------------------------
+[2022-06-04 06:44:21] BUY
+Random---Twenty-four hours or ten percent has bought ALCX for $29.19
+Random---Twenty-four hours or ten percent now has $1842.7070585041877
+---------------------------------------------------------------------------
