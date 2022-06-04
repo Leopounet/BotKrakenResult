@@ -3014,3 +3014,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1373.943484835845
 Random---Twenty-four hours or ten percent decreasing has sold UNI for $5.07. Profit was -0.6972002362669723%.
 Random---Twenty-four hours or ten percent decreasing now has $1364.364347613395
 ---------------------------------------------------------------------------
+[2022-06-04 10:46:15] BUY
+Random---Twenty-four hours or ten percent decreasing has bought PERP for $1.245
+Random---Twenty-four hours or ten percent decreasing now has $1364.364347613395
+---------------------------------------------------------------------------
