@@ -43170,3 +43170,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $707.115572199494
 ---------------------------------------------------------------------------
+[2022-06-04 23:20:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: PHAUSD
+Altname: PHAUSD
+Wsname: PHA/USD
+Base:
+ 	Name: PHA
+	Altname: PHA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (PHAUSD):
+	Current:                    0.1276
+	Maximum:                    8.169935
+	Minimum:                    7.462687
+	Variance:                   0.086567
+	Mean:                       7.966368
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.736842
+	Is ascending:               True
+	Current ascension duration: 16
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.181818
+	Is falling:                 True
+	Current fall duration:      23
+	Trending downwards:         True
+	Average local maximum:      0.125863
+	Number of local maximums:   19
+	Average local minimum:      0.125073
+	Number of local minimums:   11
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $707.115572199494
+---------------------------------------------------------------------------
