@@ -2382,3 +2382,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2109.104411123164
 Random---Twenty-four hours or ten percent decreasing has sold NANO for $1.118809. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2098.1370681853236
 ---------------------------------------------------------------------------
+[2022-06-04 02:47:40] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BICO for $0.692
+Random---Twenty-four hours or ten percent decreasing now has $2098.1370681853236
+---------------------------------------------------------------------------
