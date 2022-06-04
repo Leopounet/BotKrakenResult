@@ -37623,3 +37623,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1106.4508881732922
 ---------------------------------------------------------------------------
+[2022-06-04 16:55:42] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: SOLUSD
+Altname: SOLUSD
+Wsname: SOL/USD
+Base:
+ 	Name: SOL
+	Altname: SOL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (SOLUSD):
+	Current:                    37.51
+	Maximum:                    0.027801
+	Minimum:                    0.02416
+	Variance:                   0.13095
+	Mean:                       0.025701
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.5
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.571429
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      38.551111
+	Number of local maximums:   18
+	Average local minimum:      38.568095
+	Number of local minimums:   21
+Is init: True
+Profit was -0.44002132764594704%.
+Random---Twenty-four hours or ten percent now has $1101.5822682854018
+---------------------------------------------------------------------------
