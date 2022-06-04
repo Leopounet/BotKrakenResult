@@ -20122,3 +20122,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $2564.4961540636014
 ---------------------------------------------------------------------------
+[2022-06-04 08:48:40] BUY
+Random---Random has bought: 
+Name: SOLUSD
+Altname: SOLUSD
+Wsname: SOL/USD
+Base:
+ 	Name: SOL
+	Altname: SOL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (SOLUSD):
+	Current:                    37.64
+	Maximum:                    0.027801
+	Minimum:                    0.02416
+	Variance:                   0.13095
+	Mean:                       0.025466
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.5
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.0
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      39.078125
+	Number of local maximums:   16
+	Average local minimum:      39.1875
+	Number of local minimums:   24
+Is init: True
+
+Random---Random now has $2564.4961540636014
+---------------------------------------------------------------------------

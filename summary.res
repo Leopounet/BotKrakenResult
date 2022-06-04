@@ -1,4 +1,4 @@
-[2022-06-04 08:45:41] SUMMARY
+[2022-06-04 08:48:40] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SHIBUSD
-	Altname: SHIBUSD
-	Wsname: SHIB/USD
-	Base:
-	 	Name: SHIB
-		Altname: SHIB
-		decimals: 5
-		displayed_decimals: 0
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500000
-	Data about this pair of assets (SHIBUSD):
-		Current:                    1.1e-05
-		Maximum:                    94966.761633
-		Minimum:                    88652.48227
-		Variance:                   0.066489
-		Mean:                       91713.776751
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.681818
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.444444
-		Is falling:                 True
-		Current fall duration:      12
-		Trending downwards:         False
-		Average local maximum:      1.1e-05
-		Number of local maximums:   22
-		Average local minimum:      1.1e-05
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 2
-Losses: 355
-Total points: -187.5477744727358%
-Wallet: 1524.286591548113
+Losses: 356
+Total points: -188.0677744727358%
+Wallet: 1516.3603012720628
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SOLUSD
+	Altname: SOLUSD
+	Wsname: SOL/USD
+	Base:
+	 	Name: SOL
+		Altname: SOL
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.02
+	Data about this pair of assets (SOLUSD):
+		Current:                    37.64
+		Maximum:                    0.027801
+		Minimum:                    0.02416
+		Variance:                   0.13095
+		Mean:                       0.025466
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          4.5
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.0
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      39.078125
+		Number of local maximums:   16
+		Average local minimum:      39.1875
+		Number of local minimums:   24
+	Is init: True
 Wins: 11
 Losses: 223
 Total points: -134.82139782721944%
