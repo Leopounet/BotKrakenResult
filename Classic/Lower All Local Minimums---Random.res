@@ -2366,3 +2366,7 @@ Lower All Local Minimums---Random now has $2383.714810282123
 Lower All Local Minimums---Random has sold FTM for $0.3441. Profit was -0.52%.
 Lower All Local Minimums---Random now has $2371.319493268656
 ---------------------------------------------------------------------------
+[2022-06-04 17:58:33] BUY
+Lower All Local Minimums---Random has bought FTM for $0.3441
+Lower All Local Minimums---Random now has $2371.319493268656
+---------------------------------------------------------------------------

@@ -3582,3 +3582,7 @@ Random---Twenty-four hours or ten percent now has $1032.4590474314962
 Random---Twenty-four hours or ten percent has sold ACH for $0.01584. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1027.0902603848524
 ---------------------------------------------------------------------------
+[2022-06-04 17:58:33] BUY
+Random---Twenty-four hours or ten percent has bought ZEUR for $1.07073
+Random---Twenty-four hours or ten percent now has $1027.0902603848524
+---------------------------------------------------------------------------
