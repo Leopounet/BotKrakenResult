@@ -3062,3 +3062,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1689.347088
 Lower All Local Minimums---Twenty-four hours or ten percent has sold FTM for $0.351. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1680.5624838091646
 ---------------------------------------------------------------------------
+[2022-06-04 11:22:27] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought QNT for $64.37
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1680.5624838091646
+---------------------------------------------------------------------------

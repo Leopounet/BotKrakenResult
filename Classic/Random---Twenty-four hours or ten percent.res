@@ -3062,3 +3062,7 @@ Random---Twenty-four hours or ten percent now has $1480.807320538263
 Random---Twenty-four hours or ten percent has sold AKT for $0.3914. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1473.107122471464
 ---------------------------------------------------------------------------
+[2022-06-04 11:22:27] BUY
+Random---Twenty-four hours or ten percent has bought USDT for $0.999
+Random---Twenty-four hours or ten percent now has $1473.107122471464
+---------------------------------------------------------------------------
