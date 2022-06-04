@@ -3714,3 +3714,7 @@ Random---Twenty-four hours or ten percent decreasing now has $854.1436044428264
 Random---Twenty-four hours or ten percent decreasing has bought INJ for $2.027
 Random---Twenty-four hours or ten percent decreasing now has $854.1436044428264
 ---------------------------------------------------------------------------
+[2022-06-04 19:36:54] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold INJ for $2.027. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $849.7020576997237
+---------------------------------------------------------------------------
