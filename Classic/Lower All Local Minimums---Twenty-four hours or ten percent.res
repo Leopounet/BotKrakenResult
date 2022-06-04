@@ -2778,3 +2778,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1920.481913
 Lower All Local Minimums---Twenty-four hours or ten percent has bought RBC for $0.07947
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1920.4819133387439
 ---------------------------------------------------------------------------
+[2022-06-04 07:49:08] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold RBC for $0.07947. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1910.4954073893823
+---------------------------------------------------------------------------
