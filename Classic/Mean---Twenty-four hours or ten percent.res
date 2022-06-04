@@ -3538,3 +3538,7 @@ Mean---Twenty-four hours or ten percent now has $985.980653680372
 Mean---Twenty-four hours or ten percent has bought SHIB for $1.078e-05
 Mean---Twenty-four hours or ten percent now has $985.980653680372
 ---------------------------------------------------------------------------
+[2022-06-04 17:25:55] SOLD
+Mean---Twenty-four hours or ten percent has sold SHIB for $1.078e-05. Profit was -0.52%.
+Mean---Twenty-four hours or ten percent now has $980.8535542812341
+---------------------------------------------------------------------------

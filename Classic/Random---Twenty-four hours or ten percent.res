@@ -3538,3 +3538,7 @@ Random---Twenty-four hours or ten percent now has $1059.7268824159516
 Random---Twenty-four hours or ten percent has bought RLC for $0.8674
 Random---Twenty-four hours or ten percent now has $1059.7268824159516
 ---------------------------------------------------------------------------
+[2022-06-04 17:25:55] SOLD
+Random---Twenty-four hours or ten percent has sold RLC for $0.8674. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1054.2163026273888
+---------------------------------------------------------------------------
