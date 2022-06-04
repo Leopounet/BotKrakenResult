@@ -3850,3 +3850,7 @@ Random---Twenty-four hours or ten percent now has $852.9965589981219
 Random---Twenty-four hours or ten percent has bought SPELL for $0.00127
 Random---Twenty-four hours or ten percent now has $852.9965589981219
 ---------------------------------------------------------------------------
+[2022-06-04 21:18:19] SOLD
+Random---Twenty-four hours or ten percent has sold SPELL for $0.001275. Profit was -0.12629921259842591%.
+Random---Twenty-four hours or ten percent now has $851.9192310606156
+---------------------------------------------------------------------------
