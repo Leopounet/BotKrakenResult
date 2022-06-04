@@ -33280,3 +33280,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $1148.918575480172
 ---------------------------------------------------------------------------
+[2022-06-04 11:46:32] BUY
+Random---Always has bought: 
+Name: KNCUSD
+Altname: KNCUSD
+Wsname: KNC/USD
+Base:
+ 	Name: KNC
+	Altname: KNC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (KNCUSD):
+	Current:                    1.8872
+	Maximum:                    0.542888
+	Minimum:                    0.487258
+	Variance:                   0.10247
+	Mean:                       0.517184
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.9
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.103448
+	Is falling:                 True
+	Current fall duration:      14
+	Trending downwards:         True
+	Average local maximum:      1.932133
+	Number of local maximums:   30
+	Average local minimum:      1.927783
+	Number of local minimums:   29
+Is init: True
+
+Random---Always now has $1148.918575480172
+---------------------------------------------------------------------------

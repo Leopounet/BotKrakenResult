@@ -3094,3 +3094,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1301.2373917985474
 Random---Twenty-four hours or ten percent decreasing has sold ALGO for $0.37402. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1294.470957361195
 ---------------------------------------------------------------------------
+[2022-06-04 11:46:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought IDEX for $0.08
+Random---Twenty-four hours or ten percent decreasing now has $1294.470957361195
+---------------------------------------------------------------------------

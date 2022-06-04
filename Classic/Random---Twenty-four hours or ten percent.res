@@ -3094,3 +3094,7 @@ Random---Twenty-four hours or ten percent now has $1452.1412632422093
 Random---Twenty-four hours or ten percent has sold ZUSD for $130.88. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $1446.3326981892405
 ---------------------------------------------------------------------------
+[2022-06-04 11:46:32] BUY
+Random---Twenty-four hours or ten percent has bought SGB for $0.038
+Random---Twenty-four hours or ten percent now has $1446.3326981892405
+---------------------------------------------------------------------------
