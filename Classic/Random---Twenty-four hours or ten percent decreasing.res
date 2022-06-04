@@ -3690,3 +3690,7 @@ Random---Twenty-four hours or ten percent decreasing now has $866.5627204800288
 Random---Twenty-four hours or ten percent decreasing has bought USDT for $0.9991
 Random---Twenty-four hours or ten percent decreasing now has $866.5627204800288
 ---------------------------------------------------------------------------
+[2022-06-04 19:18:58] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold USDT for $0.9991. Profit was -0.4%.
+Random---Twenty-four hours or ten percent decreasing now has $863.0964695981087
+---------------------------------------------------------------------------
