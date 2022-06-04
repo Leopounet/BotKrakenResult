@@ -2874,3 +2874,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1532.2828659263228
 Random---Twenty-four hours or ten percent decreasing has bought SPELL for $0.001236
 Random---Twenty-four hours or ten percent decreasing now has $1532.2828659263228
 ---------------------------------------------------------------------------
+[2022-06-04 09:00:36] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SPELL for $0.00123. Profit was -1.0054368932038833%.
+Random---Twenty-four hours or ten percent decreasing now has $1516.8767286840578
+---------------------------------------------------------------------------
