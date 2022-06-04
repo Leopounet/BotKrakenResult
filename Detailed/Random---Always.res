@@ -30657,3 +30657,46 @@ Is init: True
 
 Random---Always now has $1345.4980179803763
 ---------------------------------------------------------------------------
+[2022-06-04 08:42:43] SOLD
+Random---Always has sold: 
+Name: KAVAUSD
+Altname: KAVAUSD
+Wsname: KAVA/USD
+Base:
+ 	Name: KAVA
+	Altname: KAVA
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (KAVAUSD):
+	Current:                    2.5187
+	Maximum:                    0.414938
+	Minimum:                    0.366878
+	Variance:                   0.115823
+	Mean:                       0.389985
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.5
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.571429
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      2.585961
+	Number of local maximums:   18
+	Average local minimum:      2.575771
+	Number of local minimums:   21
+Is init: True
+Profit was 0.13509985309881722%.
+Random---Always now has $1347.3157838261152
+---------------------------------------------------------------------------

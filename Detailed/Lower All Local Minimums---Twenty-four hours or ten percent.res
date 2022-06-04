@@ -30657,3 +30657,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1842.0441358239866
 ---------------------------------------------------------------------------
+[2022-06-04 08:42:43] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold: 
+Name: RBCUSD
+Altname: RBCUSD
+Wsname: RBC/USD
+Base:
+ 	Name: RBC
+	Altname: RBC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (RBCUSD):
+	Current:                    0.07947
+	Maximum:                    12.938284
+	Minimum:                    10.090817
+	Variance:                   0.220081
+	Mean:                       11.675097
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.107143
+	Is ascending:               True
+	Current ascension duration: 32
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.896552
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         True
+	Average local maximum:      0.08548
+	Number of local maximums:   28
+	Average local minimum:      0.085603
+	Number of local minimums:   29
+Is init: True
+Profit was 1.9966729583490754%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1878.823732964839
+---------------------------------------------------------------------------

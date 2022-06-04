@@ -30657,3 +30657,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1677.1614708844068
 ---------------------------------------------------------------------------
+[2022-06-04 08:42:43] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: PHAUSD
+Altname: PHAUSD
+Wsname: PHA/USD
+Base:
+ 	Name: PHA
+	Altname: PHA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (PHAUSD):
+	Current:                    0.1242
+	Maximum:                    8.169935
+	Minimum:                    6.666667
+	Variance:                   0.184
+	Mean:                       7.9737
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 46
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      55
+	Trending downwards:         False
+	Average local maximum:      0.126115
+	Number of local maximums:   13
+	Average local minimum:      0.124415
+	Number of local minimums:   13
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1668.440231235808
+---------------------------------------------------------------------------
