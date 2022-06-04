@@ -3918,3 +3918,7 @@ Random---Twenty-four hours or ten percent decreasing now has $754.880456817392
 Random---Twenty-four hours or ten percent decreasing has sold GARI for $0.6167. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $750.9550784419415
 ---------------------------------------------------------------------------
+[2022-06-04 22:09:12] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CTSI for $0.201
+Random---Twenty-four hours or ten percent decreasing now has $750.9550784419415
+---------------------------------------------------------------------------
