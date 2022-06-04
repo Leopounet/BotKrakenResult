@@ -2966,3 +2966,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1428.8218882855244
 Random---Twenty-four hours or ten percent decreasing has sold EWT for $2.7. Profit was -1.6551153423654226%.
 Random---Twenty-four hours or ten percent decreasing now has $1405.1732379974353
 ---------------------------------------------------------------------------
+[2022-06-04 10:10:04] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ICX for $0.3852
+Random---Twenty-four hours or ten percent decreasing now has $1405.1732379974353
+---------------------------------------------------------------------------
