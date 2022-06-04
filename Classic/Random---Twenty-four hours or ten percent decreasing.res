@@ -2230,3 +2230,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2364.1975342608266
 Random---Twenty-four hours or ten percent decreasing has sold MIR for $0.278. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2351.9037070826703
 ---------------------------------------------------------------------------
+[2022-06-04 00:55:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XMLN for $26.578
+Random---Twenty-four hours or ten percent decreasing now has $2351.9037070826703
+---------------------------------------------------------------------------

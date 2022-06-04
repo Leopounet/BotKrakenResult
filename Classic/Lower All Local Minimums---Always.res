@@ -2230,3 +2230,7 @@ Lower All Local Minimums---Always now has $2742.638137521026
 Lower All Local Minimums---Always has sold TRX for $0.080784. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2728.3764192059166
 ---------------------------------------------------------------------------
+[2022-06-04 00:55:06] BUY
+Lower All Local Minimums---Always has bought RUNE for $2.603
+Lower All Local Minimums---Always now has $2728.3764192059166
+---------------------------------------------------------------------------
