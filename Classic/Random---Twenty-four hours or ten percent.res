@@ -3922,3 +3922,7 @@ Random---Twenty-four hours or ten percent now has $817.5657572272819
 Random---Twenty-four hours or ten percent has bought ENJ for $0.622
 Random---Twenty-four hours or ten percent now has $817.5657572272819
 ---------------------------------------------------------------------------
+[2022-06-04 22:12:10] SOLD
+Random---Twenty-four hours or ten percent has sold ENJ for $0.623. Profit was -0.3592282958199262%.
+Random---Twenty-four hours or ten percent now has $814.6288296903871
+---------------------------------------------------------------------------

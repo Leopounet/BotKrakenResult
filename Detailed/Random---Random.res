@@ -27905,3 +27905,46 @@ Is init: True
 
 Random---Random now has $1876.1725080600497
 ---------------------------------------------------------------------------
+[2022-06-04 22:12:10] SOLD
+Random---Random has sold: 
+Name: DASHUSD
+Altname: DASHUSD
+Wsname: DASH/USD
+Base:
+ 	Name: DASH
+	Altname: DASH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.03
+Data about this pair of assets (DASHUSD):
+	Current:                    58.723
+	Maximum:                    0.017794
+	Minimum:                    0.016617
+	Variance:                   0.066152
+	Mean:                       0.017114
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.869565
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.136364
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      58.452087
+	Number of local maximums:   23
+	Average local minimum:      58.680545
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Random now has $1866.4164110181375
+---------------------------------------------------------------------------
