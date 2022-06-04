@@ -3190,3 +3190,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1203.733603439849
 Random---Twenty-four hours or ten percent decreasing has sold NYM for $0.3693. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1197.4741887019618
 ---------------------------------------------------------------------------
+[2022-06-04 13:01:49] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ALCX for $29.75
+Random---Twenty-four hours or ten percent decreasing now has $1197.4741887019618
+---------------------------------------------------------------------------

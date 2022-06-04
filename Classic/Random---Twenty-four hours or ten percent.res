@@ -3190,3 +3190,7 @@ Random---Twenty-four hours or ten percent now has $1365.8158084089196
 Random---Twenty-four hours or ten percent has sold FXS for $6.416. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1358.7135662051933
 ---------------------------------------------------------------------------
+[2022-06-04 13:01:49] BUY
+Random---Twenty-four hours or ten percent has bought WAVES for $8.7161
+Random---Twenty-four hours or ten percent now has $1358.7135662051933
+---------------------------------------------------------------------------
