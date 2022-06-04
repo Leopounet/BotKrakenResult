@@ -3510,3 +3510,7 @@ Random---Twenty-four hours or ten percent now has $1101.5822682854018
 Random---Twenty-four hours or ten percent has sold POLIS for $0.563. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1095.8540404903176
 ---------------------------------------------------------------------------
+[2022-06-04 17:04:47] BUY
+Random---Twenty-four hours or ten percent has bought SRM for $1.003
+Random---Twenty-four hours or ten percent now has $1095.8540404903176
+---------------------------------------------------------------------------
