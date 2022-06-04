@@ -2258,3 +2258,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2315.4044649844222
 Random---Twenty-four hours or ten percent decreasing has bought MOVR for $20.5565
 Random---Twenty-four hours or ten percent decreasing now has $2315.4044649844222
 ---------------------------------------------------------------------------
+[2022-06-04 01:15:45] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MOVR for $20.5565. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2303.3643617665034
+---------------------------------------------------------------------------
