@@ -3950,3 +3950,7 @@ Random---Twenty-four hours or ten percent now has $807.222535262997
 Random---Twenty-four hours or ten percent has sold INJ for $2.044. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $803.0249780796294
 ---------------------------------------------------------------------------
+[2022-06-04 22:32:56] BUY
+Random---Twenty-four hours or ten percent has bought YFI for $7471.0
+Random---Twenty-four hours or ten percent now has $803.0249780796294
+---------------------------------------------------------------------------
