@@ -31775,3 +31775,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1567.256113707806
 ---------------------------------------------------------------------------
+[2022-06-04 10:00:52] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: NMRUSD
+Altname: NMRUSD
+Wsname: NMR/USD
+Base:
+ 	Name: NMR
+	Altname: NMR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (NMRUSD):
+	Current:                    11.59
+	Maximum:                    0.089206
+	Minimum:                    0.080906
+	Variance:                   0.093042
+	Mean:                       0.084931
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.5
+	Is ascending:               True
+	Current ascension duration: 115
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.6
+	Is falling:                 True
+	Current fall duration:      118
+	Trending downwards:         True
+	Average local maximum:      11.64
+	Number of local maximums:   6
+	Average local minimum:      12.01
+	Number of local minimums:   5
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1559.1063819165254
+---------------------------------------------------------------------------
