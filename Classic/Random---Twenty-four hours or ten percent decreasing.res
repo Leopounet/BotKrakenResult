@@ -3266,3 +3266,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1145.1362761475757
 Random---Twenty-four hours or ten percent decreasing has bought MSOL for $45.77
 Random---Twenty-four hours or ten percent decreasing now has $1145.1362761475757
 ---------------------------------------------------------------------------
+[2022-06-04 13:59:52] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MSOL for $45.77. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1139.1815675116084
+---------------------------------------------------------------------------
