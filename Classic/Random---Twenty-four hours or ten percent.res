@@ -2178,3 +2178,7 @@ Random---Twenty-four hours or ten percent now has $2570.7294258180195
 Random---Twenty-four hours or ten percent has bought LUNA2 for $6.53702
 Random---Twenty-four hours or ten percent now has $2570.7294258180195
 ---------------------------------------------------------------------------
+[2022-06-04 00:16:47] SOLD
+Random---Twenty-four hours or ten percent has sold LUNA2 for $6.52454. Profit was -0.7109126788659066%.
+Random---Twenty-four hours or ten percent now has $2552.4537843905423
+---------------------------------------------------------------------------

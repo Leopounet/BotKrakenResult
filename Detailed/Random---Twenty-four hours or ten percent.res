@@ -23433,3 +23433,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $2570.7294258180195
 ---------------------------------------------------------------------------
+[2022-06-04 00:16:47] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: LUNA2USD
+Altname: LUNA2USD
+Wsname: LUNA2/USD
+Base:
+ 	Name: LUNA2
+	Altname: LUNA2
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (LUNA2USD):
+	Current:                    6.53702
+	Maximum:                    0.164779
+	Minimum:                    0.134225
+	Variance:                   0.185419
+	Mean:                       0.150128
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.678571
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.36
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         True
+	Average local maximum:      6.735877
+	Number of local maximums:   28
+	Average local minimum:      6.683318
+	Number of local minimums:   25
+Is init: True
+Profit was -0.7109126788659066%.
+Random---Twenty-four hours or ten percent now has $2552.4537843905423
+---------------------------------------------------------------------------
