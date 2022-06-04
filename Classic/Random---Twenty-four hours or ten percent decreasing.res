@@ -3786,3 +3786,7 @@ Random---Twenty-four hours or ten percent decreasing now has $816.0884482049588
 Random---Twenty-four hours or ten percent decreasing has bought REPV2 for $9.702
 Random---Twenty-four hours or ten percent decreasing now has $816.0884482049588
 ---------------------------------------------------------------------------
+[2022-06-04 20:30:42] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold REPV2 for $9.702. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $811.844788274293
+---------------------------------------------------------------------------
