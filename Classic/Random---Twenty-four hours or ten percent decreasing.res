@@ -3894,3 +3894,7 @@ Random---Twenty-four hours or ten percent decreasing now has $766.7801335111566
 Random---Twenty-four hours or ten percent decreasing has sold POLIS for $0.58. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $762.7928768168986
 ---------------------------------------------------------------------------
+[2022-06-04 21:51:24] BUY
+Random---Twenty-four hours or ten percent decreasing has bought IDEX for $0.07289
+Random---Twenty-four hours or ten percent decreasing now has $762.7928768168986
+---------------------------------------------------------------------------

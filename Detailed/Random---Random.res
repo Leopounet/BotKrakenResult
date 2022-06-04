@@ -27647,3 +27647,46 @@ Is init: True
 
 Random---Random now has $1881.6110588718589
 ---------------------------------------------------------------------------
+[2022-06-04 21:51:24] SOLD
+Random---Random has sold: 
+Name: RAYUSD
+Altname: RAYUSD
+Wsname: RAY/USD
+Base:
+ 	Name: RAY
+	Altname: RAY
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (RAYUSD):
+	Current:                    0.862
+	Maximum:                    1.173709
+	Minimum:                    1.074114
+	Variance:                   0.084855
+	Mean:                       1.119181
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.909091
+	Is ascending:               True
+	Current ascension duration: 41
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.714286
+	Is falling:                 True
+	Current fall duration:      21
+	Trending downwards:         True
+	Average local maximum:      0.888455
+	Number of local maximums:   11
+	Average local minimum:      0.886857
+	Number of local minimums:   7
+Is init: True
+Profit was 0.7561020881670637%.
+Random---Random now has $1895.8379593791715
+---------------------------------------------------------------------------

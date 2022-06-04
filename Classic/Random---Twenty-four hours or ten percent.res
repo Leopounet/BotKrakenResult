@@ -3894,3 +3894,7 @@ Random---Twenty-four hours or ten percent now has $830.05979361553
 Random---Twenty-four hours or ten percent has sold ACA for $0.368. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $825.7434826887293
 ---------------------------------------------------------------------------
+[2022-06-04 21:51:24] BUY
+Random---Twenty-four hours or ten percent has bought APE for $6.1698
+Random---Twenty-four hours or ten percent now has $825.7434826887293
+---------------------------------------------------------------------------
