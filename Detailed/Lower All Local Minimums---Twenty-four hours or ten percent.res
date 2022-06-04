@@ -25411,3 +25411,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2516.009373176386
 ---------------------------------------------------------------------------
+[2022-06-04 02:32:35] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold: 
+Name: BATUSD
+Altname: BATUSD
+Wsname: BAT/USD
+Base:
+ 	Name: BAT
+	Altname: BAT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (BATUSD):
+	Current:                    0.3696
+	Maximum:                    2.705628
+	Minimum:                    2.45056
+	Variance:                   0.094273
+	Mean:                       2.587344
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.62069
+	Is ascending:               True
+	Current ascension duration: 11
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.485714
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.385436
+	Number of local maximums:   29
+	Average local minimum:      0.386595
+	Number of local minimums:   35
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2502.9261244358686
+---------------------------------------------------------------------------
