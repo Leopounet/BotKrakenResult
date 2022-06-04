@@ -2262,3 +2262,7 @@ Random---Twenty-four hours or ten percent now has $2439.3567384537632
 Random---Twenty-four hours or ten percent has sold XZEC for $88.61. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2426.6720834138036
 ---------------------------------------------------------------------------
+[2022-06-04 01:18:42] BUY
+Random---Twenty-four hours or ten percent has bought EOS for $1.2486
+Random---Twenty-four hours or ten percent now has $2426.6720834138036
+---------------------------------------------------------------------------
