@@ -1818,3 +1818,7 @@ Lower All Local Minimums---Random now has $3230.807348809406
 Lower All Local Minimums---Random has bought ANT for $1.7834
 Lower All Local Minimums---Random now has $3230.807348809406
 ---------------------------------------------------------------------------
+[2022-06-04 07:36:34] SOLD
+Lower All Local Minimums---Random has sold ANT for $1.7909. Profit was -0.09945497364586453%.
+Lower All Local Minimums---Random now has $3227.594150212099
+---------------------------------------------------------------------------

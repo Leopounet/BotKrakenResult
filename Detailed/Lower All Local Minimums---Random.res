@@ -19563,3 +19563,46 @@ Is init: True
 
 Lower All Local Minimums---Random now has $3230.807348809406
 ---------------------------------------------------------------------------
+[2022-06-04 07:36:34] SOLD
+Lower All Local Minimums---Random has sold: 
+Name: ANTUSD
+Altname: ANTUSD
+Wsname: ANT/USD
+Base:
+ 	Name: ANT
+	Altname: ANT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (ANTUSD):
+	Current:                    1.7834
+	Maximum:                    0.57867
+	Minimum:                    0.479731
+	Variance:                   0.170976
+	Mean:                       0.543541
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.517241
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.558824
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.833069
+	Number of local maximums:   29
+	Average local minimum:      1.839782
+	Number of local minimums:   34
+Is init: True
+Profit was -0.09945497364586453%.
+Lower All Local Minimums---Random now has $3227.594150212099
+---------------------------------------------------------------------------

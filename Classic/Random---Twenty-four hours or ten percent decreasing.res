@@ -2762,3 +2762,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1648.5353084235758
 Random---Twenty-four hours or ten percent decreasing has bought PHA for $0.1242
 Random---Twenty-four hours or ten percent decreasing now has $1648.5353084235758
 ---------------------------------------------------------------------------
+[2022-06-04 07:36:34] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold PHA for $0.1242. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1639.9629248197732
+---------------------------------------------------------------------------
