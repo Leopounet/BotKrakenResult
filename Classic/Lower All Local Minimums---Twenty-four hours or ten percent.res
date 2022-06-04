@@ -2478,3 +2478,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2340.468934
 Lower All Local Minimums---Twenty-four hours or ten percent has sold PERP for $1.228. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2328.298495839389
 ---------------------------------------------------------------------------
+[2022-06-04 04:00:42] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought BAT for $0.3703
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2328.298495839389
+---------------------------------------------------------------------------
