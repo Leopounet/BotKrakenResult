@@ -20681,3 +20681,46 @@ Is init: True
 
 Recent Minimum---Random now has $2716.6834224242934
 ---------------------------------------------------------------------------
+[2022-06-04 08:39:44] SOLD
+Recent Minimum---Random has sold: 
+Name: ACAUSD
+Altname: ACAUSD
+Wsname: ACA/USD
+Base:
+ 	Name: ACA
+	Altname: ACA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (ACAUSD):
+	Current:                    0.369
+	Maximum:                    2.941176
+	Minimum:                    2.475248
+	Variance:                   0.158416
+	Mean:                       2.628664
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.130435
+	Is ascending:               True
+	Current ascension duration: 20
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.875
+	Is falling:                 True
+	Current fall duration:      44
+	Trending downwards:         True
+	Average local maximum:      0.379
+	Number of local maximums:   23
+	Average local minimum:      0.381833
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Random now has $2702.556668627687
+---------------------------------------------------------------------------
