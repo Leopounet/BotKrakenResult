@@ -1,4 +1,4 @@
-[2022-06-04 09:09:35] SUMMARY
+[2022-06-04 09:12:32] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SHIBUSD
-	Altname: SHIBUSD
-	Wsname: SHIB/USD
-	Base:
-	 	Name: SHIB
-		Altname: SHIB
-		decimals: 5
-		displayed_decimals: 0
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500000
-	Data about this pair of assets (SHIBUSD):
-		Current:                    1.1e-05
-		Maximum:                    94966.761633
-		Minimum:                    88652.48227
-		Variance:                   0.066489
-		Mean:                       91710.452286
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.521739
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.555556
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         False
-		Average local maximum:      1.1e-05
-		Number of local maximums:   23
-		Average local minimum:      1.1e-05
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 2
-Losses: 359
-Total points: -189.5355235502266%
-Wallet: 1494.2122205928204
+Losses: 360
+Total points: -190.0555235502266%
+Wallet: 1486.4423170457376
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: LRCUSD
+	Altname: LRCUSD
+	Wsname: LRC/USD
+	Base:
+	 	Name: LRC
+		Altname: LRC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 15
+	Data about this pair of assets (LRCUSD):
+		Current:                    0.5132
+		Maximum:                    2.007629
+		Minimum:                    1.801153
+		Variance:                   0.102846
+		Mean:                       1.897364
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.875
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.130435
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.529396
+		Number of local maximums:   24
+		Average local minimum:      0.529152
+		Number of local minimums:   23
+	Is init: True
 Wins: 11
 Losses: 225
 Total points: -135.5425880503863%

@@ -2890,3 +2890,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1508.9889696949006
 Random---Twenty-four hours or ten percent decreasing has bought TBTC for $29720.1
 Random---Twenty-four hours or ten percent decreasing now has $1508.9889696949006
 ---------------------------------------------------------------------------
+[2022-06-04 09:12:32] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold TBTC for $29720.1. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1501.142227052487
+---------------------------------------------------------------------------
