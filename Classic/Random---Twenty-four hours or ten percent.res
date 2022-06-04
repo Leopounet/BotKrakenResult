@@ -2838,3 +2838,7 @@ Random---Twenty-four hours or ten percent now has $1693.9272610815112
 Random---Twenty-four hours or ten percent has sold GARI for $0.6152. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1685.1188393238874
 ---------------------------------------------------------------------------
+[2022-06-04 08:33:48] BUY
+Random---Twenty-four hours or ten percent has bought XLTC for $62.78
+Random---Twenty-four hours or ten percent now has $1685.1188393238874
+---------------------------------------------------------------------------
