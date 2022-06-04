@@ -28679,3 +28679,46 @@ Is init: True
 
 Random---Random now has $1807.1774917479056
 ---------------------------------------------------------------------------
+[2022-06-04 23:56:02] SOLD
+Random---Random has sold: 
+Name: ZUSDZJPY
+Altname: USDJPY
+Wsname: USD/JPY
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZJPY
+	Altname: JPY
+	decimals: 2
+	displayed_decimals: 0
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (ZUSDZJPY):
+	Current:                    131.331
+	Maximum:                    0.007751
+	Minimum:                    0.007613
+	Variance:                   0.017792
+	Mean:                       0.007659
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 34
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      13
+	Trending downwards:         False
+	Average local maximum:      130.725667
+	Number of local maximums:   6
+	Average local minimum:      131.14775
+	Number of local minimums:   4
+Is init: True
+Profit was -0.4%.
+Random---Random now has $1799.948781780914
+---------------------------------------------------------------------------

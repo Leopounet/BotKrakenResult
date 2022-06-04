@@ -4062,3 +4062,7 @@ Random---Twenty-four hours or ten percent decreasing now has $690.9496730950846
 Random---Twenty-four hours or ten percent decreasing has sold IDEX for $0.0729. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $687.3567347949901
 ---------------------------------------------------------------------------
+[2022-06-04 23:56:02] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZRX for $0.395
+Random---Twenty-four hours or ten percent decreasing now has $687.3567347949901
+---------------------------------------------------------------------------
