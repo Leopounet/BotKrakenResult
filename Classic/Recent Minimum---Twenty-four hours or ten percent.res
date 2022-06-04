@@ -2246,3 +2246,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $2390.091992545356
 Recent Minimum---Twenty-four hours or ten percent has sold 1INCH for $0.877. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $2377.6635141841202
 ---------------------------------------------------------------------------
+[2022-06-04 01:06:56] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought ALCX for $29.61
+Recent Minimum---Twenty-four hours or ten percent now has $2377.6635141841202
+---------------------------------------------------------------------------

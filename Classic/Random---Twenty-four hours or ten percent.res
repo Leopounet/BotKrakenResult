@@ -2246,3 +2246,7 @@ Random---Twenty-four hours or ten percent now has $2460.9813557714187
 Random---Twenty-four hours or ten percent has sold SGB for $0.0382. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2448.1842527214076
 ---------------------------------------------------------------------------
+[2022-06-04 01:06:56] BUY
+Random---Twenty-four hours or ten percent has bought UNI for $5.018
+Random---Twenty-four hours or ten percent now has $2448.1842527214076
+---------------------------------------------------------------------------
