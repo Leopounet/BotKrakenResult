@@ -1,4 +1,4 @@
-[2022-06-04 14:03:10] SUMMARY
+[2022-06-04 14:06:17] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.857
-		Maximum:                    1.17096
-		Minimum:                    1.068376
-		Variance:                   0.087607
-		Mean:                       1.121433
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.545455
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.823529
-		Is falling:                 True
-		Current fall duration:      18
-		Trending downwards:         True
-		Average local maximum:      0.895212
-		Number of local maximums:   33
-		Average local minimum:      0.893059
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 2
-Losses: 407
-Total points: -214.58060019040136%
-Wallet: 1162.7223071988687
+Losses: 408
+Total points: -215.10060019040137%
+Wallet: 1156.6761512014345
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: UNIUSD
-	Altname: UNIUSD
-	Wsname: UNI/USD
-	Base:
-	 	Name: UNI
-		Altname: UNI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (UNIUSD):
-		Current:                    4.994
-		Maximum:                    0.202758
-		Minimum:                    0.187547
-		Variance:                   0.075019
-		Mean:                       0.194503
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.777778
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.0625
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      5.164815
-		Number of local maximums:   27
-		Average local minimum:      5.143875
-		Number of local minimums:   16
-	Is init: True
+	None
 Wins: 13
-Losses: 251
-Total points: -147.58139799707251%
-Wallet: 2255.9445822144153
+Losses: 252
+Total points: -148.16147008357632%
+Wallet: 2242.8584774059946
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
