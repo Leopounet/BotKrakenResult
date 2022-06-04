@@ -2610,3 +2610,7 @@ Random---Twenty-four hours or ten percent now has $1949.1910264134594
 Random---Twenty-four hours or ten percent has bought ICX for $0.3824
 Random---Twenty-four hours or ten percent now has $1949.1910264134594
 ---------------------------------------------------------------------------
+[2022-06-04 05:39:54] SOLD
+Random---Twenty-four hours or ten percent has sold ICX for $0.3824. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1939.0552330761095
+---------------------------------------------------------------------------
