@@ -3678,3 +3678,7 @@ Random---Twenty-four hours or ten percent decreasing now has $875.6457589113863
 Random---Twenty-four hours or ten percent decreasing has sold DYDX for $1.711. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $871.0924009650471
 ---------------------------------------------------------------------------
+[2022-06-04 19:09:54] BUY
+Random---Twenty-four hours or ten percent decreasing has bought UMA for $3.025
+Random---Twenty-four hours or ten percent decreasing now has $871.0924009650471
+---------------------------------------------------------------------------

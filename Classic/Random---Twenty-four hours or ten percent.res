@@ -3678,3 +3678,7 @@ Random---Twenty-four hours or ten percent now has $972.0490667403899
 Random---Twenty-four hours or ten percent has sold LUNA for $9.311e-05. Profit was -0.3801849860184965%.
 Random---Twenty-four hours or ten percent now has $968.35348213191
 ---------------------------------------------------------------------------
+[2022-06-04 19:09:54] BUY
+Random---Twenty-four hours or ten percent has bought AKT for $0.3914
+Random---Twenty-four hours or ten percent now has $968.35348213191
+---------------------------------------------------------------------------
