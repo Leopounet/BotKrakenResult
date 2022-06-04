@@ -1,4 +1,4 @@
-[2022-06-04 20:45:40] SUMMARY
+[2022-06-04 20:48:38] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.862
-		Maximum:                    1.17096
-		Minimum:                    1.074114
-		Variance:                   0.082707
-		Mean:                       1.130636
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.0
-		Is ascending:               True
-		Current ascension duration: 21
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.5
-		Is falling:                 True
-		Current fall duration:      24
-		Trending downwards:         True
-		Average local maximum:      0.887733
-		Number of local maximums:   30
-		Average local minimum:      0.88065
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 2
-Losses: 474
-Total points: -249.6481779671783%
-Wallet: 818.0237948078295
+Losses: 475
+Total points: -250.1681779671783%
+Wallet: 813.7700710748288
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: POLISUSD
+	Altname: POLISUSD
+	Wsname: POLIS/USD
+	Base:
+	 	Name: POLIS
+		Altname: POLIS
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (POLISUSD):
+		Current:                    0.581
+		Maximum:                    1.776199
+		Minimum:                    1.605136
+		Variance:                   0.096308
+		Mean:                       1.668921
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.090909
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               8.25
+		Is falling:                 True
+		Current fall duration:      57
+		Trending downwards:         True
+		Average local maximum:      0.599545
+		Number of local maximums:   11
+		Average local minimum:      0.61325
+		Number of local minimums:   4
+	Is init: True
 Wins: 19
 Losses: 295
 Total points: -162.22770156631626%
