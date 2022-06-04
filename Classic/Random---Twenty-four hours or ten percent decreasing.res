@@ -2822,3 +2822,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1591.3739746801377
 Random---Twenty-four hours or ten percent decreasing has sold YGG for $0.6. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1583.098830011801
 ---------------------------------------------------------------------------
+[2022-06-04 08:21:58] BUY
+Random---Twenty-four hours or ten percent decreasing has bought UNI for $5.108
+Random---Twenty-four hours or ten percent decreasing now has $1583.098830011801
+---------------------------------------------------------------------------
