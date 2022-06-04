@@ -3398,3 +3398,7 @@ Random---Twenty-four hours or ten percent now has $1189.5783449124092
 Random---Twenty-four hours or ten percent has sold GARI for $0.6184. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1183.3925375188646
 ---------------------------------------------------------------------------
+[2022-06-04 15:40:57] BUY
+Random---Twenty-four hours or ten percent has bought DASH for $58.36
+Random---Twenty-four hours or ten percent now has $1183.3925375188646
+---------------------------------------------------------------------------
