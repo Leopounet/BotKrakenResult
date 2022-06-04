@@ -2686,3 +2686,7 @@ Random---Twenty-four hours or ten percent now has $1862.0217354855095
 Random---Twenty-four hours or ten percent has sold KP3R for $129.6. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1852.3392224609847
 ---------------------------------------------------------------------------
+[2022-06-04 06:38:16] BUY
+Random---Twenty-four hours or ten percent has bought KIN for $1.561e-05
+Random---Twenty-four hours or ten percent now has $1852.3392224609847
+---------------------------------------------------------------------------

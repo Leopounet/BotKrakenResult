@@ -2686,3 +2686,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1736.7627161032738
 Random---Twenty-four hours or ten percent decreasing has sold PAXG for $1850.01. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1727.7315499795368
 ---------------------------------------------------------------------------
+[2022-06-04 06:38:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought IMX for $0.964
+Random---Twenty-four hours or ten percent decreasing now has $1727.7315499795368
+---------------------------------------------------------------------------
