@@ -36376,3 +36376,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1057.4149127426938
 ---------------------------------------------------------------------------
+[2022-06-04 15:29:08] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: CQTUSD
+Altname: CQTUSD
+Wsname: CQT/USD
+Base:
+ 	Name: CQT
+	Altname: CQT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (CQTUSD):
+	Current:                    0.134
+	Maximum:                    7.518797
+	Minimum:                    6.55308
+	Variance:                   0.12844
+	Mean:                       7.071259
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.75
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.272727
+	Is falling:                 True
+	Current fall duration:      30
+	Trending downwards:         True
+	Average local maximum:      0.142558
+	Number of local maximums:   12
+	Average local minimum:      0.141382
+	Number of local minimums:   11
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $1057.4149127426938
+---------------------------------------------------------------------------

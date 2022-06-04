@@ -36376,3 +36376,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1195.7964866429525
 ---------------------------------------------------------------------------
+[2022-06-04 15:29:08] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: CVCUSD
+Altname: CVCUSD
+Wsname: CVC/USD
+Base:
+ 	Name: CVC
+	Altname: CVC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (CVCUSD):
+	Current:                    0.1756
+	Maximum:                    5.945303
+	Minimum:                    5.235602
+	Variance:                   0.119372
+	Mean:                       5.710504
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.571429
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.5
+	Is falling:                 True
+	Current fall duration:      18
+	Trending downwards:         False
+	Average local maximum:      0.174257
+	Number of local maximums:   14
+	Average local minimum:      0.176917
+	Number of local minimums:   12
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1195.7964866429525
+---------------------------------------------------------------------------

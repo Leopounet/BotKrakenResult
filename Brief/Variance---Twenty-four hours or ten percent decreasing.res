@@ -5074,3 +5074,9 @@ Variance---Twenty-four hours or ten percent decreasing has 411 losses
 Variance---Twenty-four hours or ten percent decreasing has -182.00588136226193 points
 Variance---Twenty-four hours or ten percent decreasing now has $1507.5423832192653
 ---------------------------------------------------------------------------
+[2022-06-04 15:29:08] BRIEF
+Variance---Twenty-four hours or ten percent decreasing has 12 wins
+Variance---Twenty-four hours or ten percent decreasing has 411 losses
+Variance---Twenty-four hours or ten percent decreasing has -182.00588136226193 points
+Variance---Twenty-four hours or ten percent decreasing now has $1507.5423832192653
+---------------------------------------------------------------------------
