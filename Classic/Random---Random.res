@@ -1798,3 +1798,7 @@ Random---Random now has $2656.3546618231794
 Random---Random has sold POLIS for $0.59. Profit was -0.52%.
 Random---Random now has $2642.541617581699
 ---------------------------------------------------------------------------
+[2022-06-04 07:24:11] BUY
+Random---Random has bought MATIC for $0.5921
+Random---Random now has $2642.541617581699
+---------------------------------------------------------------------------
