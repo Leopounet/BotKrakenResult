@@ -2406,3 +2406,7 @@ Random---Twenty-four hours or ten percent now has $2202.4086980968264
 Random---Twenty-four hours or ten percent has sold REN for $0.1399. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2190.9561728667227
 ---------------------------------------------------------------------------
+[2022-06-04 03:05:52] BUY
+Random---Twenty-four hours or ten percent has bought YFI for $7355.0
+Random---Twenty-four hours or ten percent now has $2190.9561728667227
+---------------------------------------------------------------------------

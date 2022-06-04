@@ -25884,3 +25884,46 @@ Is init: True
 Profit was -0.52%.
 Variance---Always now has $2494.1491436365945
 ---------------------------------------------------------------------------
+[2022-06-04 03:05:52] BUY
+Variance---Always has bought: 
+Name: WOOUSD
+Altname: WOOUSD
+Wsname: WOO/USD
+Base:
+ 	Name: WOO
+	Altname: WOO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (WOOUSD):
+	Current:                    0.154
+	Maximum:                    6.7659
+	Minimum:                    2.534212
+	Variance:                   0.625443
+	Mean:                       6.224388
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      18
+	Trending downwards:         True
+	Average local maximum:      0.162767
+	Number of local maximums:   18
+	Average local minimum:      0.161758
+	Number of local minimums:   12
+Is init: True
+
+Variance---Always now has $2494.1491436365945
+---------------------------------------------------------------------------
