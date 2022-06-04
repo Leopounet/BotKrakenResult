@@ -3254,3 +3254,7 @@ Random---Twenty-four hours or ten percent now has $1321.4932292076817
 Random---Twenty-four hours or ten percent has sold ALICE for $2.967. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1314.6214644158017
 ---------------------------------------------------------------------------
+[2022-06-04 13:50:38] BUY
+Random---Twenty-four hours or ten percent has bought ORCA for $0.852
+Random---Twenty-four hours or ten percent now has $1314.6214644158017
+---------------------------------------------------------------------------
