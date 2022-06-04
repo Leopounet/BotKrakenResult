@@ -3126,3 +3126,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1274.382035897449
 Random---Twenty-four hours or ten percent decreasing has sold CVX for $8.31. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1267.7552493107823
 ---------------------------------------------------------------------------
+[2022-06-04 12:11:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OGN for $0.2804
+Random---Twenty-four hours or ten percent decreasing now has $1267.7552493107823
+---------------------------------------------------------------------------

@@ -21713,3 +21713,46 @@ Is init: True
 
 Random---Random now has $2370.647684157301
 ---------------------------------------------------------------------------
+[2022-06-04 12:11:06] SOLD
+Random---Random has sold: 
+Name: RENUSD
+Altname: RENUSD
+Wsname: REN/USD
+Base:
+ 	Name: REN
+	Altname: REN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (RENUSD):
+	Current:                    0.1454
+	Maximum:                    7.147963
+	Minimum:                    6.65779
+	Variance:                   0.068575
+	Mean:                       6.904354
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.789474
+	Is ascending:               True
+	Current ascension duration: 31
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.375
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         False
+	Average local maximum:      0.144153
+	Number of local maximums:   19
+	Average local minimum:      0.144813
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Random now has $2358.320316199683
+---------------------------------------------------------------------------

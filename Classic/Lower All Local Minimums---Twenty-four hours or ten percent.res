@@ -3126,3 +3126,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1624.890757
 Lower All Local Minimums---Twenty-four hours or ten percent has sold ANT for $1.7735. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1616.441325134963
 ---------------------------------------------------------------------------
+[2022-06-04 12:11:06] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought FTM for $0.3492
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1616.441325134963
+---------------------------------------------------------------------------

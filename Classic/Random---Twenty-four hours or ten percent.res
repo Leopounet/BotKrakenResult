@@ -3126,3 +3126,7 @@ Random---Twenty-four hours or ten percent now has $1422.8288248619574
 Random---Twenty-four hours or ten percent has sold WBTC for $29616.2. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1415.4301149726753
 ---------------------------------------------------------------------------
+[2022-06-04 12:11:06] BUY
+Random---Twenty-four hours or ten percent has bought GNO for $188.32
+Random---Twenty-four hours or ten percent now has $1415.4301149726753
+---------------------------------------------------------------------------
