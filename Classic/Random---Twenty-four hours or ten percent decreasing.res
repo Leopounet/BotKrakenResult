@@ -3346,3 +3346,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1084.1492348346856
 Random---Twenty-four hours or ten percent decreasing has bought SDN for $0.374
 Random---Twenty-four hours or ten percent decreasing now has $1084.1492348346856
 ---------------------------------------------------------------------------
+[2022-06-04 15:02:18] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SDN for $0.374. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1078.5116588135452
+---------------------------------------------------------------------------
