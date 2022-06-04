@@ -1,4 +1,4 @@
-[2022-06-04 07:58:08] SUMMARY
+[2022-06-04 08:01:04] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SHIBUSD
-	Altname: SHIBUSD
-	Wsname: SHIB/USD
-	Base:
-	 	Name: SHIB
-		Altname: SHIB
-		decimals: 5
-		displayed_decimals: 0
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500000
-	Data about this pair of assets (SHIBUSD):
-		Current:                    1.1e-05
-		Maximum:                    94966.761633
-		Minimum:                    88652.48227
-		Variance:                   0.066489
-		Mean:                       91723.883143
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.954545
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.275862
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.1e-05
-		Number of local maximums:   22
-		Average local minimum:      1.1e-05
-		Number of local minimums:   29
-	Is init: True
+	None
 Wins: 2
-Losses: 347
-Total points: -183.6659829057768%
-Wallet: 1584.7734053727854
+Losses: 348
+Total points: -184.00028188442116%
+Wallet: 1579.4755240647964
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: GRTUSD
+	Altname: GRTUSD
+	Wsname: GRT/USD
+	Base:
+	 	Name: GRT
+		Altname: GRT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 25
+	Data about this pair of assets (GRTUSD):
+		Current:                    0.16837
+		Maximum:                    7.119465
+		Minimum:                    5.9393
+		Variance:                   0.165766
+		Mean:                       6.792539
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.652174
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.464286
+		Is falling:                 True
+		Current fall duration:      6
+		Trending downwards:         False
+		Average local maximum:      0.147716
+		Number of local maximums:   23
+		Average local minimum:      0.146276
+		Number of local minimums:   28
+	Is init: True
 Wins: 11
 Losses: 218
 Total points: -132.03255420899765%
