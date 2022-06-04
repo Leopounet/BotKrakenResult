@@ -16381,3 +16381,46 @@ Is init: True
 
 Random---Random now has $3131.796487017159
 ---------------------------------------------------------------------------
+[2022-06-04 02:38:36] SOLD
+Random---Random has sold: 
+Name: NANOUSD
+Altname: NANOUSD
+Wsname: NANO/USD
+Base:
+ 	Name: NANO
+	Altname: NANO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1.5
+Data about this pair of assets (NANOUSD):
+	Current:                    1.118809
+	Maximum:                    0.906382
+	Minimum:                    0.807121
+	Variance:                   0.109514
+	Mean:                       0.871769
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.542857
+	Is ascending:               True
+	Current ascension duration: 22
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.833333
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.150597
+	Number of local maximums:   35
+	Average local minimum:      1.147013
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Random now has $3115.51114528467
+---------------------------------------------------------------------------
