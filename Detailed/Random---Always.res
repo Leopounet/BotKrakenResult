@@ -41837,3 +41837,46 @@ Is init: True
 
 Random---Always now has $711.444388859303
 ---------------------------------------------------------------------------
+[2022-06-04 21:48:14] SOLD
+Random---Always has sold: 
+Name: FIDAUSD
+Altname: FIDAUSD
+Wsname: FIDA/USD
+Base:
+ 	Name: FIDA
+	Altname: FIDA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 7.5
+Data about this pair of assets (FIDAUSD):
+	Current:                    0.474
+	Maximum:                    2.159827
+	Minimum:                    1.828154
+	Variance:                   0.153565
+	Mean:                       2.092695
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.545455
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.538462
+	Is falling:                 True
+	Current fall duration:      20
+	Trending downwards:         True
+	Average local maximum:      0.474909
+	Number of local maximums:   11
+	Average local minimum:      0.482385
+	Number of local minimums:   13
+Is init: True
+Profit was -0.52%.
+Random---Always now has $707.7448780372346
+---------------------------------------------------------------------------
