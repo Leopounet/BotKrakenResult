@@ -3898,3 +3898,7 @@ Random---Twenty-four hours or ten percent decreasing now has $762.7928768168986
 Random---Twenty-four hours or ten percent decreasing has bought IDEX for $0.07289
 Random---Twenty-four hours or ten percent decreasing now has $762.7928768168986
 ---------------------------------------------------------------------------
+[2022-06-04 21:54:22] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold IDEX for $0.07289. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $758.8263538574507
+---------------------------------------------------------------------------

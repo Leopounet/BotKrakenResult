@@ -41923,3 +41923,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $825.7434826887293
 ---------------------------------------------------------------------------
+[2022-06-04 21:54:22] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: APEUSD
+Altname: APEUSD
+Wsname: APE/USD
+Base:
+ 	Name: APE
+	Altname: APE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (APEUSD):
+	Current:                    6.1698
+	Maximum:                    0.1668
+	Minimum:                    0.154381
+	Variance:                   0.074458
+	Mean:                       0.161619
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.478261
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.631579
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         False
+	Average local maximum:      6.195613
+	Number of local maximums:   23
+	Average local minimum:      6.182963
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $821.4496165787479
+---------------------------------------------------------------------------
