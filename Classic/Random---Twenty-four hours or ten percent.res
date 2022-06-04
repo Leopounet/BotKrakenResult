@@ -2462,3 +2462,7 @@ Random---Twenty-four hours or ten percent now has $2131.2086323670947
 Random---Twenty-four hours or ten percent has sold XETC for $21.594. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2120.1263474787856
 ---------------------------------------------------------------------------
+[2022-06-04 03:48:21] BUY
+Random---Twenty-four hours or ten percent has bought ZEUR for $1.07108
+Random---Twenty-four hours or ten percent now has $2120.1263474787856
+---------------------------------------------------------------------------

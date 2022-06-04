@@ -26486,3 +26486,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2352.702989844931
 ---------------------------------------------------------------------------
+[2022-06-04 03:48:21] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought: 
+Name: PERPUSD
+Altname: PERPUSD
+Wsname: PERP/USD
+Base:
+ 	Name: PERP
+	Altname: PERP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (PERPUSD):
+	Current:                    1.228
+	Maximum:                    0.830565
+	Minimum:                    0.757002
+	Variance:                   0.088569
+	Mean:                       0.794183
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          5.045455
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               1.783784
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      1.260318
+	Number of local maximums:   22
+	Average local minimum:      1.259054
+	Number of local minimums:   37
+Is init: True
+
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2352.702989844931
+---------------------------------------------------------------------------
