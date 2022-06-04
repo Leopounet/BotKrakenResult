@@ -2962,3 +2962,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1428.8218882855244
 Random---Twenty-four hours or ten percent decreasing has bought EWT for $2.731
 Random---Twenty-four hours or ten percent decreasing now has $1428.8218882855244
 ---------------------------------------------------------------------------
+[2022-06-04 10:07:02] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold EWT for $2.7. Profit was -1.6551153423654226%.
+Random---Twenty-four hours or ten percent decreasing now has $1405.1732379974353
+---------------------------------------------------------------------------

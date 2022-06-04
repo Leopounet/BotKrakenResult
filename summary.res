@@ -1,4 +1,4 @@
-[2022-06-04 10:03:52] SUMMARY
+[2022-06-04 10:07:02] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SHIBUSD
-	Altname: SHIBUSD
-	Wsname: SHIB/USD
-	Base:
-	 	Name: SHIB
-		Altname: SHIB
-		decimals: 5
-		displayed_decimals: 0
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500000
-	Data about this pair of assets (SHIBUSD):
-		Current:                    1.1e-05
-		Maximum:                    94966.761633
-		Minimum:                    88652.48227
-		Variance:                   0.066489
-		Mean:                       91710.088612
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.681818
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.444444
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         False
-		Average local maximum:      1.1e-05
-		Number of local maximums:   22
-		Average local minimum:      1.1e-05
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 2
-Losses: 368
-Total points: -194.67669250602378%
-Wallet: 1419.109499551909
+Losses: 369
+Total points: -195.10435640260735%
+Wallet: 1413.040480569338
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: XXBTZUSD
+	Altname: XBTUSD
+	Wsname: XBT/USD
+	Base:
+	 	Name: XXBT
+		Altname: XBT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (XXBTZUSD):
+		Current:                    29731.9
+		Maximum:                    3.4e-05
+		Minimum:                    3.3e-05
+		Variance:                   0.041919
+		Mean:                       3.3e-05
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.130435
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.875
+		Is falling:                 True
+		Current fall duration:      4
+		Trending downwards:         False
+		Average local maximum:      29874.017391
+		Number of local maximums:   23
+		Average local minimum:      29875.895833
+		Number of local minimums:   24
+	Is init: True
 Wins: 11
 Losses: 231
 Total points: -138.54258805038637%
