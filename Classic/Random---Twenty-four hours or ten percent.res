@@ -2758,3 +2758,7 @@ Random---Twenty-four hours or ten percent now has $1781.2104311158823
 Random---Twenty-four hours or ten percent has sold MANA for $0.97853. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1771.9481368740796
 ---------------------------------------------------------------------------
+[2022-06-04 07:33:18] BUY
+Random---Twenty-four hours or ten percent has bought ZAUD for $0.72067
+Random---Twenty-four hours or ten percent now has $1771.9481368740796
+---------------------------------------------------------------------------

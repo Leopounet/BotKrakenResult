@@ -2758,3 +2758,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1657.152501431017
 Random---Twenty-four hours or ten percent decreasing has sold JASMY for $0.01188. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1648.5353084235758
 ---------------------------------------------------------------------------
+[2022-06-04 07:33:18] BUY
+Random---Twenty-four hours or ten percent decreasing has bought PHA for $0.1242
+Random---Twenty-four hours or ten percent decreasing now has $1648.5353084235758
+---------------------------------------------------------------------------
