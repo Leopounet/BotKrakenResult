@@ -3710,3 +3710,7 @@ Random---Twenty-four hours or ten percent now has $953.7202346345285
 Random---Twenty-four hours or ten percent has sold QNT for $65.56. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $948.760889414429
 ---------------------------------------------------------------------------
+[2022-06-04 19:33:57] BUY
+Random---Twenty-four hours or ten percent has bought ZEUR for $1.07071
+Random---Twenty-four hours or ten percent now has $948.760889414429
+---------------------------------------------------------------------------

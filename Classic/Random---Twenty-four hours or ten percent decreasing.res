@@ -3710,3 +3710,7 @@ Random---Twenty-four hours or ten percent decreasing now has $858.6083679561985
 Random---Twenty-four hours or ten percent decreasing has sold TOKE for $3.28. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $854.1436044428264
 ---------------------------------------------------------------------------
+[2022-06-04 19:33:57] BUY
+Random---Twenty-four hours or ten percent decreasing has bought INJ for $2.027
+Random---Twenty-four hours or ten percent decreasing now has $854.1436044428264
+---------------------------------------------------------------------------
