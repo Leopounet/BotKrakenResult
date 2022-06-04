@@ -2286,3 +2286,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2279.471655376474
 Random---Twenty-four hours or ten percent decreasing has sold ADA for $0.553806. Profit was -0.40864585404650944%.
 Random---Twenty-four hours or ten percent decreasing now has $2270.1566889626124
 ---------------------------------------------------------------------------
+[2022-06-04 01:36:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought COMP for $55.66
+Random---Twenty-four hours or ten percent decreasing now has $2270.1566889626124
+---------------------------------------------------------------------------

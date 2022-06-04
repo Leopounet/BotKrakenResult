@@ -24594,3 +24594,46 @@ Is init: True
 Profit was -0.5159271779415904%.
 Random---Twenty-four hours or ten percent now has $2389.110318176844
 ---------------------------------------------------------------------------
+[2022-06-04 01:36:22] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: ATOMUSD
+Altname: ATOMUSD
+Wsname: ATOM/USD
+Base:
+ 	Name: ATOM
+	Altname: ATOM
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (ATOMUSD):
+	Current:                    9.0681
+	Maximum:                    0.111398
+	Minimum:                    0.095798
+	Variance:                   0.140038
+	Mean:                       0.106467
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.631579
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.478261
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      9.388521
+	Number of local maximums:   19
+	Average local minimum:      9.295083
+	Number of local minimums:   23
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $2389.110318176844
+---------------------------------------------------------------------------
