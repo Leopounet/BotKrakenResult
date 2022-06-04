@@ -2458,3 +2458,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1997.8212438961286
 Random---Twenty-four hours or ten percent decreasing has bought ACA for $0.368
 Random---Twenty-four hours or ten percent decreasing now has $1997.8212438961286
 ---------------------------------------------------------------------------
+[2022-06-04 03:45:14] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ACA for $0.368. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1987.4325734278689
+---------------------------------------------------------------------------
