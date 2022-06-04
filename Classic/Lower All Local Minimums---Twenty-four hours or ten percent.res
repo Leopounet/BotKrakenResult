@@ -3598,3 +3598,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1238.702261
 Lower All Local Minimums---Twenty-four hours or ten percent has sold RBC for $0.07883. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1232.2610094366214
 ---------------------------------------------------------------------------
+[2022-06-04 18:10:35] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought DAI for $0.99967
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1232.2610094366214
+---------------------------------------------------------------------------

@@ -3598,3 +3598,7 @@ Random---Twenty-four hours or ten percent now has $1022.8380128928935
 Random---Twenty-four hours or ten percent has sold RAY for $0.869. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1017.5192552258504
 ---------------------------------------------------------------------------
+[2022-06-04 18:10:35] BUY
+Random---Twenty-four hours or ten percent has bought WBTC for $29738.6
+Random---Twenty-four hours or ten percent now has $1017.5192552258504
+---------------------------------------------------------------------------
