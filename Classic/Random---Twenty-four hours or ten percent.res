@@ -2622,3 +2622,7 @@ Random---Twenty-four hours or ten percent now has $1939.0552330761095
 Random---Twenty-four hours or ten percent has sold PHA for $0.1242. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1928.9721458641138
 ---------------------------------------------------------------------------
+[2022-06-04 05:48:58] BUY
+Random---Twenty-four hours or ten percent has bought BAND for $1.618
+Random---Twenty-four hours or ten percent now has $1928.9721458641138
+---------------------------------------------------------------------------
