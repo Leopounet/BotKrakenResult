@@ -27045,3 +27045,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $2070.4378703306666
 ---------------------------------------------------------------------------
+[2022-06-04 04:28:03] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: ALICEUSD
+Altname: ALICEUSD
+Wsname: ALICE/USD
+Base:
+ 	Name: ALICE
+	Altname: ALICE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (ALICEUSD):
+	Current:                    2.783
+	Maximum:                    0.36846
+	Minimum:                    0.337952
+	Variance:                   0.082798
+	Mean:                       0.354422
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.454545
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.666667
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      2.804091
+	Number of local maximums:   11
+	Average local minimum:      2.828111
+	Number of local minimums:   9
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2059.671593404947
+---------------------------------------------------------------------------
