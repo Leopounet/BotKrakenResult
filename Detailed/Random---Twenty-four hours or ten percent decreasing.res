@@ -38956,3 +38956,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $903.6138566578837
 ---------------------------------------------------------------------------
+[2022-06-04 18:28:23] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: ENJUSD
+Altname: ENJUSD
+Wsname: ENJ/USD
+Base:
+ 	Name: ENJ
+	Altname: ENJ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (ENJUSD):
+	Current:                    0.617
+	Maximum:                    1.672241
+	Minimum:                    1.526718
+	Variance:                   0.087023
+	Mean:                       1.601018
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.75
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.4
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.625625
+	Number of local maximums:   24
+	Average local minimum:      0.626367
+	Number of local minimums:   30
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $903.6138566578837
+---------------------------------------------------------------------------

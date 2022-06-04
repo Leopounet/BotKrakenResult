@@ -3622,3 +3622,7 @@ Random---Twenty-four hours or ten percent now has $1006.9645686921629
 Random---Twenty-four hours or ten percent has sold EWT for $2.717. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1001.7283529349636
 ---------------------------------------------------------------------------
+[2022-06-04 18:28:23] BUY
+Random---Twenty-four hours or ten percent has bought BCH for $188.58
+Random---Twenty-four hours or ten percent now has $1001.7283529349636
+---------------------------------------------------------------------------

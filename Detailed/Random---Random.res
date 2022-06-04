@@ -25755,3 +25755,46 @@ Is init: True
 
 Random---Random now has $1971.4288526206392
 ---------------------------------------------------------------------------
+[2022-06-04 18:28:23] SOLD
+Random---Random has sold: 
+Name: KILTUSD
+Altname: KILTUSD
+Wsname: KILT/USD
+Base:
+ 	Name: KILT
+	Altname: KILT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (KILTUSD):
+	Current:                    0.723
+	Maximum:                    1.428571
+	Minimum:                    1.251564
+	Variance:                   0.123905
+	Mean:                       1.325558
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.2
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.090909
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.745933
+	Number of local maximums:   30
+	Average local minimum:      0.761
+	Number of local minimums:   22
+Is init: True
+Profit was 0.44818810511756224%.
+Random---Random now has $1980.2645622389405
+---------------------------------------------------------------------------

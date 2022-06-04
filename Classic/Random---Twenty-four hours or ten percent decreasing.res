@@ -3622,3 +3622,7 @@ Random---Twenty-four hours or ten percent decreasing now has $908.3372101506671
 Random---Twenty-four hours or ten percent decreasing has sold AIR for $0.02756. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $903.6138566578837
 ---------------------------------------------------------------------------
+[2022-06-04 18:28:23] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ENJ for $0.617
+Random---Twenty-four hours or ten percent decreasing now has $903.6138566578837
+---------------------------------------------------------------------------
