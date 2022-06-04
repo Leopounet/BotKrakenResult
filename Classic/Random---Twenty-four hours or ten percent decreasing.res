@@ -2330,3 +2330,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2208.7175400631736
 Random---Twenty-four hours or ten percent decreasing has bought ICP for $7.776
 Random---Twenty-four hours or ten percent decreasing now has $2208.7175400631736
 ---------------------------------------------------------------------------
+[2022-06-04 02:08:49] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ICP for $7.776. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2197.232208854845
+---------------------------------------------------------------------------
