@@ -2602,3 +2602,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1827.6911513939003
 Random---Twenty-four hours or ten percent decreasing has bought STORJ for $0.55881
 Random---Twenty-four hours or ten percent decreasing now has $1827.6911513939003
 ---------------------------------------------------------------------------
+[2022-06-04 05:33:58] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold STORJ for $0.55881. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1818.187157406652
+---------------------------------------------------------------------------
