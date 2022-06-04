@@ -2502,3 +2502,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1946.4153006187394
 Random---Twenty-four hours or ten percent decreasing has sold USDT for $0.9989. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $1938.6296394162644
 ---------------------------------------------------------------------------
+[2022-06-04 04:19:05] BUY
+Random---Twenty-four hours or ten percent decreasing has bought INJ for $2.024
+Random---Twenty-four hours or ten percent decreasing now has $1938.6296394162644
+---------------------------------------------------------------------------
