@@ -3638,3 +3638,7 @@ Random---Twenty-four hours or ten percent decreasing now has $898.9150646032627
 Random---Twenty-four hours or ten percent decreasing has sold BICO for $0.675. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $894.2407062673258
 ---------------------------------------------------------------------------
+[2022-06-04 18:40:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CFG for $0.3086
+Random---Twenty-four hours or ten percent decreasing now has $894.2407062673258
+---------------------------------------------------------------------------

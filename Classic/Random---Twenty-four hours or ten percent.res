@@ -3638,3 +3638,7 @@ Random---Twenty-four hours or ten percent now has $996.5193654997017
 Random---Twenty-four hours or ten percent has sold XLTC for $63.18. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $991.3374647991033
 ---------------------------------------------------------------------------
+[2022-06-04 18:40:14] BUY
+Random---Twenty-four hours or ten percent has bought REQ for $0.12692
+Random---Twenty-four hours or ten percent now has $991.3374647991033
+---------------------------------------------------------------------------
