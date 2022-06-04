@@ -33538,3 +33538,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1422.8288248619574
 ---------------------------------------------------------------------------
+[2022-06-04 12:04:53] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: WBTCUSD
+Altname: WBTCUSD
+Wsname: WBTC/USD
+Base:
+ 	Name: WBTC
+	Altname: WBTC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.0001
+Data about this pair of assets (WBTCUSD):
+	Current:                    29616.2
+	Maximum:                    3.4e-05
+	Minimum:                    3.3e-05
+	Variance:                   0.039622
+	Mean:                       3.3e-05
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.45
+	Is ascending:               True
+	Current ascension duration: 31
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.608696
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      30012.235
+	Number of local maximums:   20
+	Average local minimum:      30089.643478
+	Number of local minimums:   23
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1422.8288248619574
+---------------------------------------------------------------------------
