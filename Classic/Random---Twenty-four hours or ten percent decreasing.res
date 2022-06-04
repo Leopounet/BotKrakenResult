@@ -2810,3 +2810,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1599.6923750302954
 Random---Twenty-four hours or ten percent decreasing has bought GNO for $186.71
 Random---Twenty-four hours or ten percent decreasing now has $1599.6923750302954
 ---------------------------------------------------------------------------
+[2022-06-04 08:13:03] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold GNO for $186.71. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1591.3739746801377
+---------------------------------------------------------------------------
