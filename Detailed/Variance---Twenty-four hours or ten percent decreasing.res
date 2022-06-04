@@ -33237,3 +33237,46 @@ Is init: True
 
 Variance---Twenty-four hours or ten percent decreasing now has $1662.4759513380989
 ---------------------------------------------------------------------------
+[2022-06-04 11:43:34] SOLD
+Variance---Twenty-four hours or ten percent decreasing has sold: 
+Name: WOOUSD
+Altname: WOOUSD
+Wsname: WOO/USD
+Base:
+ 	Name: WOO
+	Altname: WOO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (WOOUSD):
+	Current:                    0.14
+	Maximum:                    7.142857
+	Minimum:                    2.534212
+	Variance:                   0.64521
+	Mean:                       6.282922
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.647059
+	Is ascending:               True
+	Current ascension duration: 15
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.4
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.161412
+	Number of local maximums:   17
+	Average local minimum:      0.15896
+	Number of local minimums:   15
+Is init: True
+Profit was 9.479999999999986%.
+Variance---Twenty-four hours or ten percent decreasing now has $1820.0786715249503
+---------------------------------------------------------------------------
