@@ -2638,3 +2638,7 @@ Random---Twenty-four hours or ten percent now has $1918.9414907056205
 Random---Twenty-four hours or ten percent has sold 1INCH for $0.865. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1908.9629949539512
 ---------------------------------------------------------------------------
+[2022-06-04 06:01:25] BUY
+Random---Twenty-four hours or ten percent has bought ZUSD for $0.96257
+Random---Twenty-four hours or ten percent now has $1908.9629949539512
+---------------------------------------------------------------------------
