@@ -3146,3 +3146,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1239.7623725279964
 Random---Twenty-four hours or ten percent decreasing has bought XXLM for $0.143114
 Random---Twenty-four hours or ten percent decreasing now has $1239.7623725279964
 ---------------------------------------------------------------------------
+[2022-06-04 12:26:49] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XXLM for $0.142576. Profit was -0.8959240884888882%.
+Random---Twenty-four hours or ten percent decreasing now has $1228.6550427924967
+---------------------------------------------------------------------------
