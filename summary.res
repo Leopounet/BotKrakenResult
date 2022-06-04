@@ -1,4 +1,4 @@
-[2022-06-04 14:31:06] SUMMARY
+[2022-06-04 14:34:04] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,27 +8,12 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
-Wins: 2
-Losses: 412
-Total points: -217.1806001904014%
-Wallet: 1132.804296689252
----------------------------------------------------------------------------
-Most wins: 
-Name: Random---Random
-BuyStrategy description: Random.
-SellStrategy description: Random.
-Buy strategy cached data: 
-	{}
-Sell strategy cached data: 
-	{}
-Bought asset pair: 
-	Name: SUSHIUSD
-	Altname: SUSHIUSD
-	Wsname: SUSHI/USD
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
 	Base:
-	 	Name: SUSHI
-		Altname: SUSHI
+	 	Name: 1INCH
+		Altname: 1INCH
 		decimals: 10
 		displayed_decimals: 5
 	Quote:
@@ -37,34 +22,49 @@ Bought asset pair:
 		decimals: 4
 		displayed_decimals: 2
 	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (SUSHIUSD):
-		Current:                    1.566
-		Maximum:                    0.662691
-		Minimum:                    0.589623
-		Variance:                   0.110259
-		Mean:                       0.62717
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.865
+		Maximum:                    1.17096
+		Minimum:                    1.068376
+		Variance:                   0.087607
+		Mean:                       1.122239
 		Longest ascension:          3
 		Shortest ascension:         3
-		Average ascension:          3.0
+		Average ascension:          1.727273
 		Is ascending:               False
 		Current ascension duration: 0
 		Trending upwards:           False
 		Longest fall:               3
 		Shortest fall:              3
-		Average fall:               3.0
+		Average fall:               5.210526
 		Is falling:                 True
-		Current fall duration:      5
+		Current fall duration:      24
 		Trending downwards:         True
-		Average local maximum:      1.597724
-		Number of local maximums:   29
-		Average local minimum:      1.602
-		Number of local minimums:   29
+		Average local maximum:      0.895212
+		Number of local maximums:   33
+		Average local minimum:      0.889263
+		Number of local minimums:   19
 	Is init: True
-Wins: 13
-Losses: 255
-Total points: -149.72147008357635%
-Wallet: 2208.051510474303
+Wins: 2
+Losses: 412
+Total points: -217.1806001904014%
+Wallet: 1132.804296689252
+---------------------------------------------------------------------------
+Most wins: 
+Name: Variance---Random
+BuyStrategy description: Looks for the asset which has the highest Variance.
+SellStrategy description: Random.
+Buy strategy cached data: 
+	{}
+Sell strategy cached data: 
+	{}
+Bought asset pair: 
+	None
+Wins: 14
+Losses: 267
+Total points: -116.79910856204758%
+Wallet: 2871.848675151034
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

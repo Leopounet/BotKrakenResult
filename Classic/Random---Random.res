@@ -2146,3 +2146,7 @@ Random---Random now has $2208.051510474303
 Random---Random has bought SUSHI for $1.566
 Random---Random now has $2208.051510474303
 ---------------------------------------------------------------------------
+[2022-06-04 14:34:04] SOLD
+Random---Random has sold SUSHI for $1.566. Profit was -0.52%.
+Random---Random now has $2196.5696426198365
+---------------------------------------------------------------------------

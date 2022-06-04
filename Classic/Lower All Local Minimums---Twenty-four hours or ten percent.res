@@ -3310,3 +3310,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1441.202549
 Lower All Local Minimums---Twenty-four hours or ten percent has sold FTM for $0.347. Profit was 0.3520930232558155%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1446.2769232879516
 ---------------------------------------------------------------------------
+[2022-06-04 14:34:04] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought ICX for $0.3735
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1446.2769232879516
+---------------------------------------------------------------------------

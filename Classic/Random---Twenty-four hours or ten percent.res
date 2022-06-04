@@ -3310,3 +3310,7 @@ Random---Twenty-four hours or ten percent now has $1266.493910996069
 Random---Twenty-four hours or ten percent has sold TBTC for $28955.0. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1259.9081426588893
 ---------------------------------------------------------------------------
+[2022-06-04 14:34:04] BUY
+Random---Twenty-four hours or ten percent has bought ATOM for $9.2348
+Random---Twenty-four hours or ten percent now has $1259.9081426588893
+---------------------------------------------------------------------------

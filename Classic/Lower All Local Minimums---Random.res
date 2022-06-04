@@ -2166,3 +2166,7 @@ Lower All Local Minimums---Random now has $2599.833948125009
 Lower All Local Minimums---Random has sold FTM for $0.347. Profit was 0.3520930232558155%.
 Lower All Local Minimums---Random now has $2608.9877820725933
 ---------------------------------------------------------------------------
+[2022-06-04 14:34:04] BUY
+Lower All Local Minimums---Random has bought ICX for $0.3735
+Lower All Local Minimums---Random now has $2608.9877820725933
+---------------------------------------------------------------------------
