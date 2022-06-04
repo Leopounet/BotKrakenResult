@@ -3702,3 +3702,7 @@ Random---Twenty-four hours or ten percent decreasing now has $863.0964695981087
 Random---Twenty-four hours or ten percent decreasing has sold FXS for $5.59. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $858.6083679561985
 ---------------------------------------------------------------------------
+[2022-06-04 19:28:03] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TOKE for $3.28
+Random---Twenty-four hours or ten percent decreasing now has $858.6083679561985
+---------------------------------------------------------------------------
