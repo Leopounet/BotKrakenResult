@@ -3182,3 +3182,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1210.0257372736721
 Random---Twenty-four hours or ten percent decreasing has sold XMLN for $26.381. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1203.733603439849
 ---------------------------------------------------------------------------
+[2022-06-04 12:55:18] BUY
+Random---Twenty-four hours or ten percent decreasing has bought NYM for $0.3693
+Random---Twenty-four hours or ten percent decreasing now has $1203.733603439849
+---------------------------------------------------------------------------

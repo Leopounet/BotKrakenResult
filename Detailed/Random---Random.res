@@ -22272,3 +22272,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $2280.78873714835
 ---------------------------------------------------------------------------
+[2022-06-04 12:55:18] BUY
+Random---Random has bought: 
+Name: ANKRUSD
+Altname: ANKRUSD
+Wsname: ANKR/USD
+Base:
+ 	Name: ANKR
+	Altname: ANKR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (ANKRUSD):
+	Current:                    0.03708
+	Maximum:                    27.37476
+	Minimum:                    24.289531
+	Variance:                   0.112703
+	Mean:                       26.31277
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.608696
+	Is ascending:               True
+	Current ascension duration: 20
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.45
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.037917
+	Number of local maximums:   23
+	Average local minimum:      0.037801
+	Number of local minimums:   20
+Is init: True
+
+Random---Random now has $2280.78873714835
+---------------------------------------------------------------------------
