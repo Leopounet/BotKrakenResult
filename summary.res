@@ -1,4 +1,4 @@
-[2022-06-04 08:33:48] SUMMARY
+[2022-06-04 08:36:46] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SHIBUSD
-	Altname: SHIBUSD
-	Wsname: SHIB/USD
-	Base:
-	 	Name: SHIB
-		Altname: SHIB
-		decimals: 5
-		displayed_decimals: 0
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500000
-	Data about this pair of assets (SHIBUSD):
-		Current:                    1.1e-05
-		Maximum:                    94966.761633
-		Minimum:                    88652.48227
-		Variance:                   0.066489
-		Mean:                       91719.655501
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.681818
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.444444
-		Is falling:                 True
-		Current fall duration:      9
-		Trending downwards:         False
-		Average local maximum:      1.1e-05
-		Number of local maximums:   22
-		Average local minimum:      1.1e-05
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 2
-Losses: 353
-Total points: -186.600025395245%
-Wallet: 1538.8366736564685
+Losses: 354
+Total points: -187.02777447273579%
+Wallet: 1532.254313980813
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ATLASUSD
-	Altname: ATLASUSD
-	Wsname: ATLAS/USD
-	Base:
-	 	Name: ATLAS
-		Altname: ATLAS
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500
-	Data about this pair of assets (ATLASUSD):
-		Current:                    0.00827
-		Maximum:                    125.470514
-		Minimum:                    114.416476
-		Variance:                   0.088101
-		Mean:                       119.036983
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 33
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.00835
-		Number of local maximums:   15
-		Average local minimum:      0.008419
-		Number of local minimums:   15
-	Is init: True
+	None
 Wins: 11
-Losses: 221
-Total points: -133.78139782721942%
-Wallet: 2591.376397782746
+Losses: 222
+Total points: -134.30139782721943%
+Wallet: 2577.9012405142757
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

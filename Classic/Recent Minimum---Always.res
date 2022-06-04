@@ -2842,3 +2842,7 @@ Recent Minimum---Always now has $1600.2004003949492
 Recent Minimum---Always has bought ACA for $0.369
 Recent Minimum---Always now has $1600.2004003949492
 ---------------------------------------------------------------------------
+[2022-06-04 08:36:46] SOLD
+Recent Minimum---Always has sold ACA for $0.369. Profit was -0.52%.
+Recent Minimum---Always now has $1591.8793583128954
+---------------------------------------------------------------------------
