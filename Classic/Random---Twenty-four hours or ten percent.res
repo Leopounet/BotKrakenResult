@@ -2814,3 +2814,7 @@ Random---Twenty-four hours or ten percent now has $1718.3840005182367
 Random---Twenty-four hours or ten percent has sold USDT for $0.9991. Profit was -0.38998998998998025%.
 Random---Twenty-four hours or ten percent now has $1711.6824749266261
 ---------------------------------------------------------------------------
+[2022-06-04 08:16:01] BUY
+Random---Twenty-four hours or ten percent has bought CFG for $0.3105
+Random---Twenty-four hours or ten percent now has $1711.6824749266261
+---------------------------------------------------------------------------
