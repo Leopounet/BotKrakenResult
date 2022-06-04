@@ -2698,3 +2698,7 @@ Random---Twenty-four hours or ten percent now has $1842.7070585041877
 Random---Twenty-four hours or ten percent has bought ALCX for $29.19
 Random---Twenty-four hours or ten percent now has $1842.7070585041877
 ---------------------------------------------------------------------------
+[2022-06-04 06:47:20] SOLD
+Random---Twenty-four hours or ten percent has sold ALCX for $29.19. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1833.124981799966
+---------------------------------------------------------------------------
