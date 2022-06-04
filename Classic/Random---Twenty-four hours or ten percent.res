@@ -3694,3 +3694,7 @@ Random---Twenty-four hours or ten percent now has $963.3180440248241
 Random---Twenty-four hours or ten percent has sold UNI for $5.084. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $958.308790195895
 ---------------------------------------------------------------------------
+[2022-06-04 19:22:07] BUY
+Random---Twenty-four hours or ten percent has bought ADA for $0.556069
+Random---Twenty-four hours or ten percent now has $958.308790195895
+---------------------------------------------------------------------------

@@ -3694,3 +3694,7 @@ Random---Twenty-four hours or ten percent decreasing now has $866.5627204800288
 Random---Twenty-four hours or ten percent decreasing has sold USDT for $0.9991. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $863.0964695981087
 ---------------------------------------------------------------------------
+[2022-06-04 19:22:07] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FXS for $5.59
+Random---Twenty-four hours or ten percent decreasing now has $863.0964695981087
+---------------------------------------------------------------------------
