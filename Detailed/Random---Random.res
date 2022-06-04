@@ -17327,3 +17327,46 @@ Is init: True
 
 Random---Random now has $2949.555406136564
 ---------------------------------------------------------------------------
+[2022-06-04 04:06:49] SOLD
+Random---Random has sold: 
+Name: XETCZUSD
+Altname: ETCUSD
+Wsname: ETC/USD
+Base:
+ 	Name: XETC
+	Altname: ETC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (XETCZUSD):
+	Current:                    21.594
+	Maximum:                    0.046959
+	Minimum:                    0.043952
+	Variance:                   0.064038
+	Mean:                       0.045424
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.222222
+	Is ascending:               True
+	Current ascension duration: 27
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.793103
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      22.136667
+	Number of local maximums:   27
+	Average local minimum:      22.066759
+	Number of local minimums:   29
+Is init: True
+Profit was 0.22557747522459026%.
+Random---Random now has $2956.2089387520773
+---------------------------------------------------------------------------
