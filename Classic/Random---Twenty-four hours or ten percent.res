@@ -2542,3 +2542,7 @@ Random---Twenty-four hours or ten percent now has $2040.7244668513667
 Random---Twenty-four hours or ten percent has sold XETH for $1766.15. Profit was -0.514903910399402%.
 Random---Twenty-four hours or ten percent now has $2030.2166967710716
 ---------------------------------------------------------------------------
+[2022-06-04 04:49:20] BUY
+Random---Twenty-four hours or ten percent has bought GMT for $1.007
+Random---Twenty-four hours or ten percent now has $2030.2166967710716
+---------------------------------------------------------------------------
