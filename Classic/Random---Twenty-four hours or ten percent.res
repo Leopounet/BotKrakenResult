@@ -4046,3 +4046,7 @@ Random---Twenty-four hours or ten percent now has $765.6110315144631
 Random---Twenty-four hours or ten percent has sold ADA for $0.563678. Profit was -0.5192903699656211%.
 Random---Twenty-four hours or ten percent now has $761.635287156414
 ---------------------------------------------------------------------------
+[2022-06-04 23:44:16] BUY
+Random---Twenty-four hours or ten percent has bought LPT for $12.3
+Random---Twenty-four hours or ten percent now has $761.635287156414
+---------------------------------------------------------------------------

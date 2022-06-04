@@ -4046,3 +4046,7 @@ Random---Twenty-four hours or ten percent decreasing now has $697.2696001044417
 Random---Twenty-four hours or ten percent decreasing has sold KSM for $68.48. Profit was -0.38840181313056954%.
 Random---Twenty-four hours or ten percent decreasing now has $694.5613923352278
 ---------------------------------------------------------------------------
+[2022-06-04 23:44:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SDN for $0.367
+Random---Twenty-four hours or ten percent decreasing now has $694.5613923352278
+---------------------------------------------------------------------------
