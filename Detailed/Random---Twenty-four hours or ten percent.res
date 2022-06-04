@@ -38311,3 +38311,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1043.280959088887
 ---------------------------------------------------------------------------
+[2022-06-04 17:43:44] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: CHZUSD
+Altname: CHZUSD
+Wsname: CHZ/USD
+Base:
+ 	Name: CHZ
+	Altname: CHZ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (CHZUSD):
+	Current:                    0.1257
+	Maximum:                    8.453085
+	Minimum:                    7.763975
+	Variance:                   0.081522
+	Mean:                       8.09565
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.83871
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.894737
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         False
+	Average local maximum:      0.122971
+	Number of local maximums:   31
+	Average local minimum:      0.122537
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1037.8558981016247
+---------------------------------------------------------------------------
