@@ -2634,3 +2634,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1789.9706734416573
 Random---Twenty-four hours or ten percent decreasing has bought KAR for $0.516
 Random---Twenty-four hours or ten percent decreasing now has $1789.9706734416573
 ---------------------------------------------------------------------------
+[2022-06-04 05:58:29] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold KAR for $0.516. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1780.6628259397608
+---------------------------------------------------------------------------
