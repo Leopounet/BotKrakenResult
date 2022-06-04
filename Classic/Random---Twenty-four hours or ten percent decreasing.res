@@ -3618,3 +3618,7 @@ Random---Twenty-four hours or ten percent decreasing now has $908.3372101506671
 Random---Twenty-four hours or ten percent decreasing has bought AIR for $0.02756
 Random---Twenty-four hours or ten percent decreasing now has $908.3372101506671
 ---------------------------------------------------------------------------
+[2022-06-04 18:25:26] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold AIR for $0.02756. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $903.6138566578837
+---------------------------------------------------------------------------

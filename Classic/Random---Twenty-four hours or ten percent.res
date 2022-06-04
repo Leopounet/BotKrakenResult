@@ -3618,3 +3618,7 @@ Random---Twenty-four hours or ten percent now has $1006.9645686921629
 Random---Twenty-four hours or ten percent has bought EWT for $2.717
 Random---Twenty-four hours or ten percent now has $1006.9645686921629
 ---------------------------------------------------------------------------
+[2022-06-04 18:25:26] SOLD
+Random---Twenty-four hours or ten percent has sold EWT for $2.717. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1001.7283529349636
+---------------------------------------------------------------------------
