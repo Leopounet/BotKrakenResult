@@ -3958,3 +3958,7 @@ Random---Twenty-four hours or ten percent decreasing now has $736.3437871395031
 Random---Twenty-four hours or ten percent decreasing has sold ENJ for $0.623. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $732.5147994463777
 ---------------------------------------------------------------------------
+[2022-06-04 22:38:48] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZAUD for $0.72069
+Random---Twenty-four hours or ten percent decreasing now has $732.5147994463777
+---------------------------------------------------------------------------
