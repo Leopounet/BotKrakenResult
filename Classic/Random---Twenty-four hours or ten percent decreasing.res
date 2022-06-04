@@ -3606,3 +3606,7 @@ Random---Twenty-four hours or ten percent decreasing now has $917.8581156701894
 Random---Twenty-four hours or ten percent decreasing has sold KAVA for $2.5224. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $913.0852534687044
 ---------------------------------------------------------------------------
+[2022-06-04 18:16:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought POWR for $0.2768
+Random---Twenty-four hours or ten percent decreasing now has $913.0852534687044
+---------------------------------------------------------------------------
