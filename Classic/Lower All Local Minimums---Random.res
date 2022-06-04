@@ -1434,3 +1434,7 @@ Lower All Local Minimums---Random now has $4211.22944540008
 Lower All Local Minimums---Random has bought SUSHI for $1.542
 Lower All Local Minimums---Random now has $4211.22944540008
 ---------------------------------------------------------------------------
+[2022-06-04 00:05:00] SOLD
+Lower All Local Minimums---Random has sold SUSHI for $1.542. Profit was -0.52%.
+Lower All Local Minimums---Random now has $4189.331052284
+---------------------------------------------------------------------------
