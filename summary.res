@@ -1,4 +1,4 @@
-[2022-06-04 21:27:24] SUMMARY
+[2022-06-04 21:30:21] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.862
-		Maximum:                    1.17096
-		Minimum:                    1.074114
-		Variance:                   0.082707
-		Mean:                       1.131509
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.1
-		Is ascending:               True
-		Current ascension duration: 30
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.285714
-		Is falling:                 True
-		Current fall duration:      33
-		Trending downwards:         True
-		Average local maximum:      0.887733
-		Number of local maximums:   30
-		Average local minimum:      0.882381
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 2
-Losses: 481
-Total points: -253.28817796717837%
-Wallet: 788.7082304528926
+Losses: 482
+Total points: -253.80817796717838%
+Wallet: 784.6069476545376
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: REQUSD
+	Altname: REQUSD
+	Wsname: REQ/USD
+	Base:
+	 	Name: REQ
+		Altname: REQ
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 50
+	Data about this pair of assets (REQUSD):
+		Current:                    0.12692
+		Maximum:                    10.190564
+		Minimum:                    7.698229
+		Variance:                   0.244573
+		Mean:                       8.285349
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.142857
+		Is ascending:               True
+		Current ascension duration: 70
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.863636
+		Is falling:                 True
+		Current fall duration:      113
+		Trending downwards:         True
+		Average local maximum:      0.119194
+		Number of local maximums:   21
+		Average local minimum:      0.121045
+		Number of local minimums:   22
+	Is init: True
 Wins: 19
 Losses: 300
 Total points: -165.04093068771624%

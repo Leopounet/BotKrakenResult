@@ -3866,3 +3866,7 @@ Random---Twenty-four hours or ten percent now has $847.4892510591004
 Random---Twenty-four hours or ten percent has bought CVX for $8.46
 Random---Twenty-four hours or ten percent now has $847.4892510591004
 ---------------------------------------------------------------------------
+[2022-06-04 21:30:21] SOLD
+Random---Twenty-four hours or ten percent has sold CVX for $8.46. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $843.082306953593
+---------------------------------------------------------------------------

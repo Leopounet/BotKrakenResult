@@ -2590,3 +2590,7 @@ Lower All Local Minimums---Random now has $2150.7406777539245
 Lower All Local Minimums---Random has sold LUNA for $9.27e-05. Profit was -0.4444305300658553%.
 Lower All Local Minimums---Random now has $2141.182129559441
 ---------------------------------------------------------------------------
+[2022-06-04 21:30:21] BUY
+Lower All Local Minimums---Random has bought RBC for $0.07883
+Lower All Local Minimums---Random now has $2141.182129559441
+---------------------------------------------------------------------------
