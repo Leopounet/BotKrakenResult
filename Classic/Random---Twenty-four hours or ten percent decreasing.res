@@ -3494,3 +3494,7 @@ Random---Twenty-four hours or ten percent decreasing now has $983.8781894819672
 Random---Twenty-four hours or ten percent decreasing has sold RUNE for $2.761. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $978.7620228966609
 ---------------------------------------------------------------------------
+[2022-06-04 16:52:42] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ANT for $1.7853
+Random---Twenty-four hours or ten percent decreasing now has $978.7620228966609
+---------------------------------------------------------------------------

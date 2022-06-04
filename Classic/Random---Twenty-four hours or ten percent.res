@@ -3494,3 +3494,7 @@ Random---Twenty-four hours or ten percent now has $1114.646200808388
 Random---Twenty-four hours or ten percent has sold AVAX for $23.18. Profit was -0.73523891519587%.
 Random---Twenty-four hours or ten percent now has $1106.4508881732922
 ---------------------------------------------------------------------------
+[2022-06-04 16:52:42] BUY
+Random---Twenty-four hours or ten percent has bought SOL for $37.51
+Random---Twenty-four hours or ten percent now has $1106.4508881732922
+---------------------------------------------------------------------------
