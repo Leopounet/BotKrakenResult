@@ -3154,3 +3154,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1228.6550427924967
 Random---Twenty-four hours or ten percent decreasing has bought XXDG for $0.080743
 Random---Twenty-four hours or ten percent decreasing now has $1228.6550427924967
 ---------------------------------------------------------------------------
+[2022-06-04 12:33:32] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XXDG for $0.0807721. Profit was -0.48395972406275645%.
+Random---Twenty-four hours or ten percent decreasing now has $1222.708847237715
+---------------------------------------------------------------------------
