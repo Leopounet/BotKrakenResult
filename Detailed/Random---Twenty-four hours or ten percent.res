@@ -28636,3 +28636,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1879.2719485556918
 ---------------------------------------------------------------------------
+[2022-06-04 06:20:06] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: ORCAUSD
+Altname: ORCAUSD
+Wsname: ORCA/USD
+Base:
+ 	Name: ORCA
+	Altname: ORCA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (ORCAUSD):
+	Current:                    0.82
+	Maximum:                    1.240695
+	Minimum:                    1.153403
+	Variance:                   0.070358
+	Mean:                       1.203046
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 37
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      169
+	Trending downwards:         True
+	Average local maximum:      0.82625
+	Number of local maximums:   4
+	Average local minimum:      0.8325
+	Number of local minimums:   4
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1879.2719485556918
+---------------------------------------------------------------------------
