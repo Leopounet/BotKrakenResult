@@ -31689,3 +31689,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1456.9217754594192
 ---------------------------------------------------------------------------
+[2022-06-04 09:54:43] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: IDEXUSD
+Altname: IDEXUSD
+Wsname: IDEX/USD
+Base:
+ 	Name: IDEX
+	Altname: IDEX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (IDEXUSD):
+	Current:                    0.07313
+	Maximum:                    15.681355
+	Minimum:                    11.76609
+	Variance:                   0.249676
+	Mean:                       13.434296
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.0
+	Is ascending:               True
+	Current ascension duration: 78
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.25
+	Is falling:                 True
+	Current fall duration:      74
+	Trending downwards:         True
+	Average local maximum:      0.072057
+	Number of local maximums:   6
+	Average local minimum:      0.077313
+	Number of local minimums:   8
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1449.3457822270302
+---------------------------------------------------------------------------
