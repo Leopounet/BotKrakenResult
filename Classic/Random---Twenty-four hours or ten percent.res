@@ -3546,3 +3546,7 @@ Random---Twenty-four hours or ten percent now has $1054.2163026273888
 Random---Twenty-four hours or ten percent has bought ATLAS for $0.00837
 Random---Twenty-four hours or ten percent now has $1054.2163026273888
 ---------------------------------------------------------------------------
+[2022-06-04 17:31:51] SOLD
+Random---Twenty-four hours or ten percent has sold ATLAS for $0.00837. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1048.7343778537263
+---------------------------------------------------------------------------
