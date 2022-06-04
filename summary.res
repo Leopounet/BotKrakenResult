@@ -1,4 +1,4 @@
-[2022-06-04 09:06:36] SUMMARY
+[2022-06-04 09:09:35] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SHIBUSD
+	Altname: SHIBUSD
+	Wsname: SHIB/USD
+	Base:
+	 	Name: SHIB
+		Altname: SHIB
+		decimals: 5
+		displayed_decimals: 0
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 500000
+	Data about this pair of assets (SHIBUSD):
+		Current:                    1.1e-05
+		Maximum:                    94966.761633
+		Minimum:                    88652.48227
+		Variance:                   0.066489
+		Mean:                       91710.452286
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.521739
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.555556
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         False
+		Average local maximum:      1.1e-05
+		Number of local maximums:   23
+		Average local minimum:      1.1e-05
+		Number of local minimums:   27
+	Is init: True
 Wins: 2
 Losses: 359
 Total points: -189.5355235502266%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CQTUSD
-	Altname: CQTUSD
-	Wsname: CQT/USD
-	Base:
-	 	Name: CQT
-		Altname: CQT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 25
-	Data about this pair of assets (CQTUSD):
-		Current:                    0.1374
-		Maximum:                    7.518797
-		Minimum:                    6.55308
-		Variance:                   0.12844
-		Mean:                       7.026338
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 9
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         True
-		Average local maximum:      0.143155
-		Number of local maximums:   11
-		Average local minimum:      0.141382
-		Number of local minimums:   11
-	Is init: True
+	None
 Wins: 11
-Losses: 224
-Total points: -135.0225880503863%
-Wallet: 2559.336638528135
+Losses: 225
+Total points: -135.5425880503863%
+Wallet: 2546.028088007789
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

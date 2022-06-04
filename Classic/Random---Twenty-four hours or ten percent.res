@@ -2886,3 +2886,7 @@ Random---Twenty-four hours or ten percent now has $1642.547672904043
 Random---Twenty-four hours or ten percent has sold KAR for $0.523. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1634.006425004942
 ---------------------------------------------------------------------------
+[2022-06-04 09:09:35] BUY
+Random---Twenty-four hours or ten percent has bought CTSI for $0.2085
+Random---Twenty-four hours or ten percent now has $1634.006425004942
+---------------------------------------------------------------------------

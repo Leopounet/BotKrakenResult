@@ -2886,3 +2886,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1516.8767286840578
 Random---Twenty-four hours or ten percent decreasing has sold BCH for $186.04. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1508.9889696949006
 ---------------------------------------------------------------------------
+[2022-06-04 09:09:35] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TBTC for $29720.1
+Random---Twenty-four hours or ten percent decreasing now has $1508.9889696949006
+---------------------------------------------------------------------------
