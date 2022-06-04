@@ -30012,3 +30012,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1737.471440272737
 ---------------------------------------------------------------------------
+[2022-06-04 07:58:08] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: MINAUSD
+Altname: MINAUSD
+Wsname: MINA/USD
+Base:
+ 	Name: MINA
+	Altname: MINA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (MINAUSD):
+	Current:                    0.837
+	Maximum:                    1.219512
+	Minimum:                    1.123596
+	Variance:                   0.078652
+	Mean:                       1.175108
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.769231
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.086957
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.850231
+	Number of local maximums:   39
+	Average local minimum:      0.848783
+	Number of local minimums:   23
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1737.471440272737
+---------------------------------------------------------------------------

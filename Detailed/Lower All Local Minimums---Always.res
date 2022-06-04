@@ -30012,3 +30012,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Always now has $1900.5608312709576
 ---------------------------------------------------------------------------
+[2022-06-04 07:58:08] BUY
+Lower All Local Minimums---Always has bought: 
+Name: RBCUSD
+Altname: RBCUSD
+Wsname: RBC/USD
+Base:
+ 	Name: RBC
+	Altname: RBC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (RBCUSD):
+	Current:                    0.07947
+	Maximum:                    12.938284
+	Minimum:                    10.090817
+	Variance:                   0.220081
+	Mean:                       11.66634
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.222222
+	Is ascending:               True
+	Current ascension duration: 24
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.793103
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.085702
+	Number of local maximums:   27
+	Average local minimum:      0.085603
+	Number of local minimums:   29
+Is init: True
+
+Lower All Local Minimums---Always now has $1900.5608312709576
+---------------------------------------------------------------------------

@@ -2790,3 +2790,7 @@ Random---Twenty-four hours or ten percent now has $1746.5535185692975
 Random---Twenty-four hours or ten percent has sold FXS for $6.419. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1737.471440272737
 ---------------------------------------------------------------------------
+[2022-06-04 07:58:08] BUY
+Random---Twenty-four hours or ten percent has bought MINA for $0.837
+Random---Twenty-four hours or ten percent now has $1737.471440272737
+---------------------------------------------------------------------------
