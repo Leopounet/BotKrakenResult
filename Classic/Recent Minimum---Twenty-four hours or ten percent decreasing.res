@@ -3814,3 +3814,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $843.461274
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold ALICE for $2.939. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $839.07527612763
 ---------------------------------------------------------------------------
+[2022-06-04 20:51:35] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought AIR for $0.02686
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $839.07527612763
+---------------------------------------------------------------------------

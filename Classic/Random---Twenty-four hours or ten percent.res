@@ -3814,3 +3814,7 @@ Random---Twenty-four hours or ten percent now has $875.5246868409963
 Random---Twenty-four hours or ten percent has sold BICO for $0.689. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $870.9719584694232
 ---------------------------------------------------------------------------
+[2022-06-04 20:51:35] BUY
+Random---Twenty-four hours or ten percent has bought RBC for $0.07883
+Random---Twenty-four hours or ten percent now has $870.9719584694232
+---------------------------------------------------------------------------
