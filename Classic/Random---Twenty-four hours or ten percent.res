@@ -3534,3 +3534,7 @@ Random---Twenty-four hours or ten percent now has $1065.2662670043744
 Random---Twenty-four hours or ten percent has sold COMP for $56.93. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1059.7268824159516
 ---------------------------------------------------------------------------
+[2022-06-04 17:22:51] BUY
+Random---Twenty-four hours or ten percent has bought RLC for $0.8674
+Random---Twenty-four hours or ten percent now has $1059.7268824159516
+---------------------------------------------------------------------------

@@ -3534,3 +3534,7 @@ Random---Twenty-four hours or ten percent decreasing now has $958.5620173995563
 Random---Twenty-four hours or ten percent decreasing has sold BCH for $186.8. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $953.5774949090786
 ---------------------------------------------------------------------------
+[2022-06-04 17:22:51] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MOVR for $20.2563
+Random---Twenty-four hours or ten percent decreasing now has $953.5774949090786
+---------------------------------------------------------------------------
