@@ -3914,3 +3914,7 @@ Random---Twenty-four hours or ten percent now has $821.8393217001226
 Random---Twenty-four hours or ten percent has bought GARI for $0.6167
 Random---Twenty-four hours or ten percent now has $821.8393217001226
 ---------------------------------------------------------------------------
+[2022-06-04 22:06:14] SOLD
+Random---Twenty-four hours or ten percent has sold GARI for $0.6167. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $817.5657572272819
+---------------------------------------------------------------------------
