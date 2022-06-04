@@ -2634,3 +2634,7 @@ Variance---Random now has $2249.450502908019
 Variance---Random has bought UST for $0.01785
 Variance---Random now has $2249.450502908019
 ---------------------------------------------------------------------------
+[2022-06-04 20:57:32] SOLD
+Variance---Random has sold UST for $0.018. Profit was 0.4403361344537563%.
+Variance---Random now has $2259.355646298975
+---------------------------------------------------------------------------

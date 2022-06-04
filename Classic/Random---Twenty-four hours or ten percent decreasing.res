@@ -3822,3 +3822,7 @@ Random---Twenty-four hours or ten percent decreasing now has $799.7744537374967
 Random---Twenty-four hours or ten percent decreasing has sold AVAX for $23.22. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $795.6156265780618
 ---------------------------------------------------------------------------
+[2022-06-04 20:57:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MOVR for $20.3817
+Random---Twenty-four hours or ten percent decreasing now has $795.6156265780618
+---------------------------------------------------------------------------
