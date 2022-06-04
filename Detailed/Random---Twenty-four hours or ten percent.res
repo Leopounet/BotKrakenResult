@@ -31947,3 +31947,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1550.9990287305595
 ---------------------------------------------------------------------------
+[2022-06-04 10:13:14] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: NANOUSD
+Altname: NANOUSD
+Wsname: NANO/USD
+Base:
+ 	Name: NANO
+	Altname: NANO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1.5
+Data about this pair of assets (NANOUSD):
+	Current:                    1.142396
+	Maximum:                    0.906382
+	Minimum:                    0.845503
+	Variance:                   0.067168
+	Mean:                       0.874794
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.83871
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.894737
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      1.145576
+	Number of local maximums:   31
+	Average local minimum:      1.144707
+	Number of local minimums:   19
+Is init: True
+Profit was 0.584082997489475%.
+Random---Twenty-four hours or ten percent now has $1560.0581503486017
+---------------------------------------------------------------------------

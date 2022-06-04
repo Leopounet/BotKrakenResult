@@ -31947,3 +31947,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1405.1732379974353
 ---------------------------------------------------------------------------
+[2022-06-04 10:13:14] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: ICXUSD
+Altname: ICXUSD
+Wsname: ICX/USD
+Base:
+ 	Name: ICX
+	Altname: ICX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (ICXUSD):
+	Current:                    0.3852
+	Maximum:                    2.730748
+	Minimum:                    2.4667
+	Variance:                   0.096695
+	Mean:                       2.593116
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.264706
+	Is ascending:               True
+	Current ascension duration: 15
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.756757
+	Is falling:                 True
+	Current fall duration:      30
+	Trending downwards:         False
+	Average local maximum:      0.386724
+	Number of local maximums:   34
+	Average local minimum:      0.382968
+	Number of local minimums:   37
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1397.8663371598486
+---------------------------------------------------------------------------

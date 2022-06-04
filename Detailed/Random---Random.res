@@ -20896,3 +20896,46 @@ Is init: True
 Profit was -0.5741505924612995%.
 Random---Random now has $2456.409237107334
 ---------------------------------------------------------------------------
+[2022-06-04 10:13:14] BUY
+Random---Random has bought: 
+Name: BANDUSD
+Altname: BANDUSD
+Wsname: BAND/USD
+Base:
+ 	Name: BAND
+	Altname: BAND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (BANDUSD):
+	Current:                    1.687
+	Maximum:                    0.630915
+	Minimum:                    0.589623
+	Variance:                   0.065448
+	Mean:                       0.612513
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.923077
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.294118
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         False
+	Average local maximum:      1.628846
+	Number of local maximums:   13
+	Average local minimum:      1.642647
+	Number of local minimums:   17
+Is init: True
+
+Random---Random now has $2456.409237107334
+---------------------------------------------------------------------------
