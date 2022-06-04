@@ -30700,3 +30700,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1668.440231235808
 ---------------------------------------------------------------------------
+[2022-06-04 08:45:41] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: GNOUSD
+Altname: GNOUSD
+Wsname: GNO/USD
+Base:
+ 	Name: GNO
+	Altname: GNO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.01
+Data about this pair of assets (GNOUSD):
+	Current:                    187.95
+	Maximum:                    0.005402
+	Minimum:                    0.005132
+	Variance:                   0.050087
+	Mean:                       0.00526
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.4375
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.692308
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         True
+	Average local maximum:      190.3525
+	Number of local maximums:   16
+	Average local minimum:      191.462308
+	Number of local minimums:   13
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1668.440231235808
+---------------------------------------------------------------------------
