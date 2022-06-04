@@ -2862,3 +2862,7 @@ Random---Twenty-four hours or ten percent now has $1668.440231235808
 Random---Twenty-four hours or ten percent has sold GNO for $187.95. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1659.7643420333818
 ---------------------------------------------------------------------------
+[2022-06-04 08:51:38] BUY
+Random---Twenty-four hours or ten percent has bought XZEC for $89.57
+Random---Twenty-four hours or ten percent now has $1659.7643420333818
+---------------------------------------------------------------------------
