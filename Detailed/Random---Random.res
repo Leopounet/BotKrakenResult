@@ -17370,3 +17370,46 @@ Is init: True
 Profit was 0.22557747522459026%.
 Random---Random now has $2956.2089387520773
 ---------------------------------------------------------------------------
+[2022-06-04 04:09:58] BUY
+Random---Random has bought: 
+Name: XETHZUSD
+Altname: ETHUSD
+Wsname: ETH/USD
+Base:
+ 	Name: XETH
+	Altname: ETH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.001
+Data about this pair of assets (XETHZUSD):
+	Current:                    1759.76
+	Maximum:                    0.000574
+	Minimum:                    0.000536
+	Variance:                   0.06524
+	Mean:                       0.000555
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.352941
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.684211
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      1813.024118
+	Number of local maximums:   17
+	Average local minimum:      1797.068947
+	Number of local minimums:   19
+Is init: True
+
+Random---Random now has $2956.2089387520773
+---------------------------------------------------------------------------

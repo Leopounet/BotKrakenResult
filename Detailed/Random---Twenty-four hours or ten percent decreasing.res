@@ -26787,3 +26787,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1956.5895663638312
 ---------------------------------------------------------------------------
+[2022-06-04 04:09:58] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: BALUSD
+Altname: BALUSD
+Wsname: BAL/USD
+Base:
+ 	Name: BAL
+	Altname: BAL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (BALUSD):
+	Current:                    6.59
+	Maximum:                    0.15456
+	Minimum:                    0.141643
+	Variance:                   0.083569
+	Mean:                       0.146808
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.842105
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.166667
+	Is falling:                 True
+	Current fall duration:      18
+	Trending downwards:         True
+	Average local maximum:      6.794211
+	Number of local maximums:   19
+	Average local minimum:      6.807778
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1946.4153006187394
+---------------------------------------------------------------------------

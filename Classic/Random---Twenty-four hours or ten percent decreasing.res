@@ -2490,3 +2490,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1956.5895663638312
 Random---Twenty-four hours or ten percent decreasing has bought BAL for $6.59
 Random---Twenty-four hours or ten percent decreasing now has $1956.5895663638312
 ---------------------------------------------------------------------------
+[2022-06-04 04:09:58] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold BAL for $6.59. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1946.4153006187394
+---------------------------------------------------------------------------
