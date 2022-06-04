@@ -3870,3 +3870,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold LUNA for $9.275e-05. Profit was -0.46606256742177843%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1074.6969725985157
 ---------------------------------------------------------------------------
+[2022-06-04 21:33:20] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought RBC for $0.07883
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1074.6969725985157
+---------------------------------------------------------------------------

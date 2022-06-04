@@ -3870,3 +3870,7 @@ Lower All Local Minimums---Always now has $1079.7291861647575
 Lower All Local Minimums---Always has sold LUNA for $9.275e-05. Profit was -0.46606256742177843%.
 Lower All Local Minimums---Always now has $1074.6969725985157
 ---------------------------------------------------------------------------
+[2022-06-04 21:33:20] BUY
+Lower All Local Minimums---Always has bought RBC for $0.07883
+Lower All Local Minimums---Always now has $1074.6969725985157
+---------------------------------------------------------------------------

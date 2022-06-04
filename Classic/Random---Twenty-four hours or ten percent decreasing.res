@@ -3870,3 +3870,7 @@ Random---Twenty-four hours or ten percent decreasing now has $775.1436389588317
 Random---Twenty-four hours or ten percent decreasing has sold NANO for $1.168293. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $771.1128920362459
 ---------------------------------------------------------------------------
+[2022-06-04 21:33:20] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TRIBE for $0.23
+Random---Twenty-four hours or ten percent decreasing now has $771.1128920362459
+---------------------------------------------------------------------------
