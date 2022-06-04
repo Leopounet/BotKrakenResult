@@ -1,4 +1,4 @@
-[2022-06-04 10:16:11] SUMMARY
+[2022-06-04 10:19:11] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SHIBUSD
-	Altname: SHIBUSD
-	Wsname: SHIB/USD
-	Base:
-	 	Name: SHIB
-		Altname: SHIB
-		decimals: 5
-		displayed_decimals: 0
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500000
-	Data about this pair of assets (SHIBUSD):
-		Current:                    1.1e-05
-		Maximum:                    94966.761633
-		Minimum:                    88652.48227
-		Variance:                   0.066489
-		Mean:                       91707.235176
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.681818
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.444444
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         False
-		Average local maximum:      1.1e-05
-		Number of local maximums:   22
-		Average local minimum:      1.1e-05
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 2
-Losses: 370
-Total points: -195.71660732511657%
-Wallet: 1404.3891271916232
+Losses: 371
+Total points: -196.23660732511658%
+Wallet: 1397.0863037302267
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KP3RUSD
+	Altname: KP3RUSD
+	Wsname: KP3R/USD
+	Base:
+	 	Name: KP3R
+		Altname: KP3R
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.025
+	Data about this pair of assets (KP3RUSD):
+		Current:                    128.8
+		Maximum:                    0.007955
+		Minimum:                    0.007273
+		Variance:                   0.085818
+		Mean:                       0.007614
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.5
+		Is ascending:               True
+		Current ascension duration: 71
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.571429
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      131.877778
+		Number of local maximums:   18
+		Average local minimum:      130.638095
+		Number of local minimums:   21
+	Is init: True
 Wins: 11
 Losses: 233
 Total points: -139.6367386428477%

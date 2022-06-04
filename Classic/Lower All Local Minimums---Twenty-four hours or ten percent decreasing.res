@@ -2978,3 +2978,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought DAI for $0.99973
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1762.6411471120896
 ---------------------------------------------------------------------------
+[2022-06-04 10:19:11] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold DAI for $0.99973. Profit was -0.4%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1755.5905825236412
+---------------------------------------------------------------------------
