@@ -3718,3 +3718,7 @@ Random---Twenty-four hours or ten percent now has $948.760889414429
 Random---Twenty-four hours or ten percent has sold ZEUR for $1.07071. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $944.9658458567714
 ---------------------------------------------------------------------------
+[2022-06-04 19:39:53] BUY
+Random---Twenty-four hours or ten percent has bought RUNE for $2.817
+Random---Twenty-four hours or ten percent now has $944.9658458567714
+---------------------------------------------------------------------------

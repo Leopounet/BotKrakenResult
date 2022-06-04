@@ -3718,3 +3718,7 @@ Random---Twenty-four hours or ten percent decreasing now has $854.1436044428264
 Random---Twenty-four hours or ten percent decreasing has sold INJ for $2.027. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $849.7020576997237
 ---------------------------------------------------------------------------
+[2022-06-04 19:39:53] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ADA for $0.55472
+Random---Twenty-four hours or ten percent decreasing now has $849.7020576997237
+---------------------------------------------------------------------------
