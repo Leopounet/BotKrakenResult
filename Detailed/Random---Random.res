@@ -17499,3 +17499,46 @@ Is init: True
 
 Random---Random now has $2943.2388996124855
 ---------------------------------------------------------------------------
+[2022-06-04 04:22:02] SOLD
+Random---Random has sold: 
+Name: KNCUSD
+Altname: KNCUSD
+Wsname: KNC/USD
+Base:
+ 	Name: KNC
+	Altname: KNC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (KNCUSD):
+	Current:                    1.899
+	Maximum:                    0.542888
+	Minimum:                    0.487258
+	Variance:                   0.10247
+	Mean:                       0.514243
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.103448
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.9
+	Is falling:                 True
+	Current fall duration:      21
+	Trending downwards:         True
+	Average local maximum:      1.946162
+	Number of local maximums:   29
+	Average local minimum:      1.940383
+	Number of local minimums:   30
+Is init: True
+Profit was -0.52%.
+Random---Random now has $2927.9340573345007
+---------------------------------------------------------------------------
