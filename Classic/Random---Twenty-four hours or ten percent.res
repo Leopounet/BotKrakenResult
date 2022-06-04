@@ -3462,3 +3462,7 @@ Random---Twenty-four hours or ten percent now has $1142.3595699864343
 Random---Twenty-four hours or ten percent has sold XXLM for $0.142093. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1136.4193002225047
 ---------------------------------------------------------------------------
+[2022-06-04 16:28:23] BUY
+Random---Twenty-four hours or ten percent has bought BICO for $0.675
+Random---Twenty-four hours or ten percent now has $1136.4193002225047
+---------------------------------------------------------------------------
