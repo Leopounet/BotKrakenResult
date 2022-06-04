@@ -3038,3 +3038,7 @@ Random---Twenty-four hours or ten percent now has $1504.1502594116
 Random---Twenty-four hours or ten percent has sold FTM for $0.351. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1496.3286780626597
 ---------------------------------------------------------------------------
+[2022-06-04 11:04:27] BUY
+Random---Twenty-four hours or ten percent has bought CQT for $0.136
+Random---Twenty-four hours or ten percent now has $1496.3286780626597
+---------------------------------------------------------------------------
