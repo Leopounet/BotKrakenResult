@@ -3654,3 +3654,7 @@ Random---Twenty-four hours or ten percent decreasing now has $889.5906545947357
 Random---Twenty-four hours or ten percent decreasing has sold OXT for $0.1313. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $884.9647831908431
 ---------------------------------------------------------------------------
+[2022-06-04 18:52:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LDO for $1.014
+Random---Twenty-four hours or ten percent decreasing now has $884.9647831908431
+---------------------------------------------------------------------------

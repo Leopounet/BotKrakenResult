@@ -3654,3 +3654,7 @@ Random---Twenty-four hours or ten percent now has $986.182509982148
 Random---Twenty-four hours or ten percent has sold EWT for $2.717. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $981.0543609302408
 ---------------------------------------------------------------------------
+[2022-06-04 18:52:06] BUY
+Random---Twenty-four hours or ten percent has bought ZUSD for $130.736
+Random---Twenty-four hours or ten percent now has $981.0543609302408
+---------------------------------------------------------------------------
