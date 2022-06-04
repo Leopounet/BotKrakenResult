@@ -2358,3 +2358,7 @@ Random---Twenty-four hours or ten percent now has $2274.238368406193
 Random---Twenty-four hours or ten percent has sold XXLM for $0.142276. Profit was -0.6007635314029498%.
 Random---Twenty-four hours or ten percent now has $2260.575573671635
 ---------------------------------------------------------------------------
+[2022-06-04 02:29:35] BUY
+Random---Twenty-four hours or ten percent has bought MNGO for $0.0552
+Random---Twenty-four hours or ten percent now has $2260.575573671635
+---------------------------------------------------------------------------

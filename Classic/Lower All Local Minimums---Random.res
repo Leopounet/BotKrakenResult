@@ -1546,3 +1546,7 @@ Lower All Local Minimums---Random now has $3836.407915158861
 Lower All Local Minimums---Random has bought BAT for $0.3696
 Lower All Local Minimums---Random now has $3836.407915158861
 ---------------------------------------------------------------------------
+[2022-06-04 02:29:35] SOLD
+Lower All Local Minimums---Random has sold BAT for $0.3696. Profit was -0.52%.
+Lower All Local Minimums---Random now has $3816.458594000035
+---------------------------------------------------------------------------
