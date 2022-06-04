@@ -35731,3 +35731,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1252.0878169074897
 ---------------------------------------------------------------------------
+[2022-06-04 14:43:10] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: INJUSD
+Altname: INJUSD
+Wsname: INJ/USD
+Base:
+ 	Name: INJ
+	Altname: INJ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (INJUSD):
+	Current:                    2.015
+	Maximum:                    0.502008
+	Minimum:                    0.467508
+	Variance:                   0.068724
+	Mean:                       0.48516
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.95
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.615385
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      2.05925
+	Number of local maximums:   20
+	Average local minimum:      2.069769
+	Number of local minimums:   13
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1245.5769602595708
+---------------------------------------------------------------------------

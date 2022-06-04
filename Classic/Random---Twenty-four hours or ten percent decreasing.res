@@ -3322,3 +3322,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1099.8949915270912
 Random---Twenty-four hours or ten percent decreasing has bought XXBT for $29688.9
 Random---Twenty-four hours or ten percent decreasing now has $1099.8949915270912
 ---------------------------------------------------------------------------
+[2022-06-04 14:43:10] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XXBT for $29725.0. Profit was -0.398405734129605%.
+Random---Twenty-four hours or ten percent decreasing now has $1095.5129468114428
+---------------------------------------------------------------------------
