@@ -3082,3 +3082,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought QNT for $64.37
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1663.1300763871116
 ---------------------------------------------------------------------------
+[2022-06-04 11:37:34] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold QNT for $64.55. Profit was -0.2403666304179004%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1659.1324666630333
+---------------------------------------------------------------------------
