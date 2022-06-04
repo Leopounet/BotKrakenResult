@@ -31345,3 +31345,46 @@ Is init: True
 
 Random---Always now has $1299.548290103177
 ---------------------------------------------------------------------------
+[2022-06-04 09:30:26] SOLD
+Random---Always has sold: 
+Name: XXMRZUSD
+Altname: XMRUSD
+Wsname: XMR/USD
+Base:
+ 	Name: XXMR
+	Altname: XMR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (XXMRZUSD):
+	Current:                    195.01
+	Maximum:                    0.00532
+	Minimum:                    0.004923
+	Variance:                   0.074492
+	Mean:                       0.005088
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.478261
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.631579
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      197.028696
+	Number of local maximums:   23
+	Average local minimum:      196.227368
+	Number of local minimums:   19
+Is init: True
+Profit was -0.561023537254492%.
+Random---Always now has $1292.2575183177098
+---------------------------------------------------------------------------

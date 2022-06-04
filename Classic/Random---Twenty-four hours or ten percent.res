@@ -2914,3 +2914,7 @@ Random---Twenty-four hours or ten percent now has $1608.6482456216859
 Random---Twenty-four hours or ten percent has bought RAY for $0.872
 Random---Twenty-four hours or ten percent now has $1608.6482456216859
 ---------------------------------------------------------------------------
+[2022-06-04 09:30:26] SOLD
+Random---Twenty-four hours or ten percent has sold RAY for $0.872. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1600.2832747444531
+---------------------------------------------------------------------------
