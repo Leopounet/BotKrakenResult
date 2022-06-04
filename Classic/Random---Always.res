@@ -3522,3 +3522,7 @@ Random---Always now has $879.4960092307164
 Random---Always has bought KEEP for $0.235
 Random---Always now has $879.4960092307164
 ---------------------------------------------------------------------------
+[2022-06-04 17:13:47] SOLD
+Random---Always has sold KEEP for $0.235. Profit was -0.52%.
+Random---Always now has $874.9226299827167
+---------------------------------------------------------------------------
