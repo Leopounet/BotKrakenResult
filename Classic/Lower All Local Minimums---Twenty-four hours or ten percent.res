@@ -3330,3 +3330,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1431.274750
 Lower All Local Minimums---Twenty-four hours or ten percent has bought ICX for $0.3735
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1431.2747506137628
 ---------------------------------------------------------------------------
+[2022-06-04 14:49:13] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold ICX for $0.3735. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1423.8321219105712
+---------------------------------------------------------------------------
