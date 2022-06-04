@@ -2294,3 +2294,7 @@ Random---Twenty-four hours or ten percent now has $2389.110318176844
 Random---Twenty-four hours or ten percent has sold ATOM for $9.06. Profit was -0.609324114202527%.
 Random---Twenty-four hours or ten percent now has $2374.5528928932918
 ---------------------------------------------------------------------------
+[2022-06-04 01:42:16] BUY
+Random---Twenty-four hours or ten percent has bought ZGBP for $1.2489
+Random---Twenty-four hours or ten percent now has $2374.5528928932918
+---------------------------------------------------------------------------

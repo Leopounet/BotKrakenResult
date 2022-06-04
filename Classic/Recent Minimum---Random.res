@@ -1530,3 +1530,7 @@ Recent Minimum---Random now has $3549.8971386006165
 Recent Minimum---Random has bought ALCX for $29.61
 Recent Minimum---Random now has $3549.8971386006165
 ---------------------------------------------------------------------------
+[2022-06-04 01:42:16] SOLD
+Recent Minimum---Random has sold ALCX for $29.61. Profit was -0.52%.
+Recent Minimum---Random now has $3531.4376734798934
+---------------------------------------------------------------------------
