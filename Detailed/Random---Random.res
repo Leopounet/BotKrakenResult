@@ -18660,3 +18660,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $2760.251328293747
 ---------------------------------------------------------------------------
+[2022-06-04 06:07:24] BUY
+Random---Random has bought: 
+Name: SCUSD
+Altname: SCUSD
+Wsname: SC/USD
+Base:
+ 	Name: SC
+	Altname: SC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 280
+Data about this pair of assets (SCUSD):
+	Current:                    0.00539
+	Maximum:                    189.753321
+	Minimum:                    174.216028
+	Variance:                   0.081882
+	Mean:                       182.252792
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.444444
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.681818
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.005522
+	Number of local maximums:   27
+	Average local minimum:      0.005509
+	Number of local minimums:   22
+Is init: True
+
+Random---Random now has $2760.251328293747
+---------------------------------------------------------------------------

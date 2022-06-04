@@ -2646,3 +2646,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1780.6628259397608
 Random---Twenty-four hours or ten percent decreasing has sold USDT for $0.9989. Profit was -0.4100100100100087%.
 Random---Twenty-four hours or ten percent decreasing now has $1773.3619301088806
 ---------------------------------------------------------------------------
+[2022-06-04 06:07:24] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LDO for $1.004
+Random---Twenty-four hours or ten percent decreasing now has $1773.3619301088806
+---------------------------------------------------------------------------

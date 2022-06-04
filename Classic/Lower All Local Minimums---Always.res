@@ -2646,3 +2646,7 @@ Lower All Local Minimums---Always now has $2081.4568337958967
 Lower All Local Minimums---Always has sold ANT for $1.772. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2070.633258260158
 ---------------------------------------------------------------------------
+[2022-06-04 06:07:24] BUY
+Lower All Local Minimums---Always has bought ANT for $1.772
+Lower All Local Minimums---Always now has $2070.633258260158
+---------------------------------------------------------------------------
