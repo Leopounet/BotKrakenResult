@@ -2678,3 +2678,7 @@ Random---Twenty-four hours or ten percent now has $1869.4997344232022
 Random---Twenty-four hours or ten percent has sold USDT for $0.9989. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $1862.0217354855095
 ---------------------------------------------------------------------------
+[2022-06-04 06:32:13] BUY
+Random---Twenty-four hours or ten percent has bought KP3R for $129.6
+Random---Twenty-four hours or ten percent now has $1862.0217354855095
+---------------------------------------------------------------------------
