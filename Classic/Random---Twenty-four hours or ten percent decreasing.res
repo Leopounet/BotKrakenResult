@@ -2590,3 +2590,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1844.7970644992317
 Random---Twenty-four hours or ten percent decreasing has sold SBR for $0.00905. Profit was -0.4093805309734262%.
 Random---Twenty-four hours or ten percent decreasing now has $1837.2448244812026
 ---------------------------------------------------------------------------
+[2022-06-04 05:25:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BADGER for $5.74
+Random---Twenty-four hours or ten percent decreasing now has $1837.2448244812026
+---------------------------------------------------------------------------
