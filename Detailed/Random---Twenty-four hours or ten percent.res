@@ -41493,3 +41493,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $851.9192310606156
 ---------------------------------------------------------------------------
+[2022-06-04 21:24:24] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: GSTUSD
+Altname: GSTUSD
+Wsname: GST/USD
+Base:
+ 	Name: GST
+	Altname: GST
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (GSTUSD):
+	Current:                    0.767
+	Maximum:                    1.360544
+	Minimum:                    1.0
+	Variance:                   0.265
+	Mean:                       1.145179
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.5
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.0
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         True
+	Average local maximum:      0.888636
+	Number of local maximums:   44
+	Average local minimum:      0.869409
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $847.4892510591004
+---------------------------------------------------------------------------

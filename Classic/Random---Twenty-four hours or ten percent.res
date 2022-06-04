@@ -3858,3 +3858,7 @@ Random---Twenty-four hours or ten percent now has $851.9192310606156
 Random---Twenty-four hours or ten percent has bought GST for $0.767
 Random---Twenty-four hours or ten percent now has $851.9192310606156
 ---------------------------------------------------------------------------
+[2022-06-04 21:24:24] SOLD
+Random---Twenty-four hours or ten percent has sold GST for $0.767. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $847.4892510591004
+---------------------------------------------------------------------------
