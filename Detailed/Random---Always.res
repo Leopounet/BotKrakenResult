@@ -29625,3 +29625,46 @@ Is init: True
 
 Random---Always now has $1438.3012745539345
 ---------------------------------------------------------------------------
+[2022-06-04 07:30:13] SOLD
+Random---Always has sold: 
+Name: WBTCUSD
+Altname: WBTCUSD
+Wsname: WBTC/USD
+Base:
+ 	Name: WBTC
+	Altname: WBTC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.0001
+Data about this pair of assets (WBTCUSD):
+	Current:                    29597.9
+	Maximum:                    3.4e-05
+	Minimum:                    3.3e-05
+	Variance:                   0.039622
+	Mean:                       3.3e-05
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.136364
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.869565
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      30020.45
+	Number of local maximums:   22
+	Average local minimum:      30126.186957
+	Number of local minimums:   23
+Is init: True
+Profit was -0.52%.
+Random---Always now has $1430.822107926254
+---------------------------------------------------------------------------
