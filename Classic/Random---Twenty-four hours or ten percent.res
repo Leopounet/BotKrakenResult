@@ -2390,3 +2390,7 @@ Random---Twenty-four hours or ten percent now has $2225.4936547578836
 Random---Twenty-four hours or ten percent has sold T for $0.05005. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2213.9210877531427
 ---------------------------------------------------------------------------
+[2022-06-04 02:53:33] BUY
+Random---Twenty-four hours or ten percent has bought POWR for $0.2758
+Random---Twenty-four hours or ten percent now has $2213.9210877531427
+---------------------------------------------------------------------------
