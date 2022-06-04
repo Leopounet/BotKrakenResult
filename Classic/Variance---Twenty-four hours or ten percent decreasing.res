@@ -3834,3 +3834,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $1107.59568391231
 Variance---Twenty-four hours or ten percent decreasing has bought UST for $0.018
 Variance---Twenty-four hours or ten percent decreasing now has $1107.5956839123196
 ---------------------------------------------------------------------------
+[2022-06-04 21:06:26] SOLD
+Variance---Twenty-four hours or ten percent decreasing has sold UST for $0.018. Profit was -0.4%.
+Variance---Twenty-four hours or ten percent decreasing now has $1103.1653011766703
+---------------------------------------------------------------------------
