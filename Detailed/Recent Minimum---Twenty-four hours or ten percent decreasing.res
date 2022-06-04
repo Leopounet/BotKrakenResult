@@ -24465,3 +24465,46 @@ Is init: True
 
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $2340.764505108607
 ---------------------------------------------------------------------------
+[2022-06-04 01:27:34] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold: 
+Name: ALCXUSD
+Altname: ALCXUSD
+Wsname: ALCX/USD
+Base:
+ 	Name: ALCX
+	Altname: ALCX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (ALCXUSD):
+	Current:                    29.61
+	Maximum:                    0.035676
+	Minimum:                    0.031162
+	Variance:                   0.126519
+	Mean:                       0.03406
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.769231
+	Is ascending:               True
+	Current ascension duration: 20
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.25
+	Is falling:                 True
+	Current fall duration:      50
+	Trending downwards:         True
+	Average local maximum:      29.563077
+	Number of local maximums:   13
+	Average local minimum:      29.598333
+	Number of local minimums:   12
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $2328.5925296820424
+---------------------------------------------------------------------------
