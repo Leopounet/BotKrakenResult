@@ -3394,3 +3394,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1051.9163551964318
 Random---Twenty-four hours or ten percent decreasing has bought KIN for $1.54e-05
 Random---Twenty-four hours or ten percent decreasing now has $1051.9163551964318
 ---------------------------------------------------------------------------
+[2022-06-04 15:38:00] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold KIN for $1.54e-05. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1046.4463901494105
+---------------------------------------------------------------------------

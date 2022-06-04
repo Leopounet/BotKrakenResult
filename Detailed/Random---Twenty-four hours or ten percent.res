@@ -36505,3 +36505,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1189.5783449124092
 ---------------------------------------------------------------------------
+[2022-06-04 15:38:00] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: GARIUSD
+Altname: GARIUSD
+Wsname: GARI/USD
+Base:
+ 	Name: GARI
+	Altname: GARI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 15
+Data about this pair of assets (GARIUSD):
+	Current:                    0.6184
+	Maximum:                    1.652893
+	Minimum:                    1.569366
+	Variance:                   0.050534
+	Mean:                       1.618694
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      12
+	Trending downwards:         True
+	Average local maximum:      0.6163
+	Number of local maximums:   8
+	Average local minimum:      0.620138
+	Number of local minimums:   8
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1183.3925375188646
+---------------------------------------------------------------------------
