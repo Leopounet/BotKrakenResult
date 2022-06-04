@@ -3086,3 +3086,7 @@ Random---Twenty-four hours or ten percent now has $1459.7318689608055
 Random---Twenty-four hours or ten percent has sold SHIB for $1.083e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1452.1412632422093
 ---------------------------------------------------------------------------
+[2022-06-04 11:40:36] BUY
+Random---Twenty-four hours or ten percent has bought ZUSD for $130.88
+Random---Twenty-four hours or ten percent now has $1452.1412632422093
+---------------------------------------------------------------------------
