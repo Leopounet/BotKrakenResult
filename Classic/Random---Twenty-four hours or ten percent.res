@@ -3722,3 +3722,7 @@ Random---Twenty-four hours or ten percent now has $944.9658458567714
 Random---Twenty-four hours or ten percent has bought RUNE for $2.817
 Random---Twenty-four hours or ten percent now has $944.9658458567714
 ---------------------------------------------------------------------------
+[2022-06-04 19:42:52] SOLD
+Random---Twenty-four hours or ten percent has sold RUNE for $2.783. Profit was -1.7269577564785328%.
+Random---Twenty-four hours or ten percent now has $928.6466848856749
+---------------------------------------------------------------------------
