@@ -2750,3 +2750,7 @@ Random---Twenty-four hours or ten percent now has $1790.521141049339
 Random---Twenty-four hours or ten percent has sold SCRT for $1.458. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1781.2104311158823
 ---------------------------------------------------------------------------
+[2022-06-04 07:27:15] BUY
+Random---Twenty-four hours or ten percent has bought MANA for $0.97853
+Random---Twenty-four hours or ten percent now has $1781.2104311158823
+---------------------------------------------------------------------------

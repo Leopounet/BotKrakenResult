@@ -2750,3 +2750,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1665.8147380689757
 Random---Twenty-four hours or ten percent decreasing has sold GLMR for $1.285. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1657.152501431017
 ---------------------------------------------------------------------------
+[2022-06-04 07:27:15] BUY
+Random---Twenty-four hours or ten percent decreasing has bought JASMY for $0.01188
+Random---Twenty-four hours or ten percent decreasing now has $1657.152501431017
+---------------------------------------------------------------------------
