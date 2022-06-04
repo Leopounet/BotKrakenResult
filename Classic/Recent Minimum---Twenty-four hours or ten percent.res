@@ -2450,3 +2450,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $2069.383028860839
 Recent Minimum---Twenty-four hours or ten percent has bought ADA for $0.553428
 Recent Minimum---Twenty-four hours or ten percent now has $2069.383028860839
 ---------------------------------------------------------------------------
+[2022-06-04 03:39:16] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold ADA for $0.553806. Profit was -0.45169843231639595%.
+Recent Minimum---Twenty-four hours or ten percent now has $2060.035658160853
+---------------------------------------------------------------------------
