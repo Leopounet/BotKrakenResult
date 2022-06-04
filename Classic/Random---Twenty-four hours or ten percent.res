@@ -2942,3 +2942,7 @@ Random---Twenty-four hours or ten percent now has $1583.68360034686
 Random---Twenty-four hours or ten percent has sold FIDA for $0.476. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1575.4484456250564
 ---------------------------------------------------------------------------
+[2022-06-04 09:51:37] BUY
+Random---Twenty-four hours or ten percent has bought CRV for $1.168
+Random---Twenty-four hours or ten percent now has $1575.4484456250564
+---------------------------------------------------------------------------
