@@ -26228,3 +26228,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2018.7617790800548
 ---------------------------------------------------------------------------
+[2022-06-04 03:29:51] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: BICOUSD
+Altname: BICOUSD
+Wsname: BICO/USD
+Base:
+ 	Name: BICO
+	Altname: BICO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 4
+Data about this pair of assets (BICOUSD):
+	Current:                    0.692
+	Maximum:                    1.49925
+	Minimum:                    1.28866
+	Variance:                   0.140464
+	Mean:                       1.390795
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.823529
+	Is ascending:               True
+	Current ascension duration: 32
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.1875
+	Is falling:                 True
+	Current fall duration:      17
+	Trending downwards:         True
+	Average local maximum:      0.711412
+	Number of local maximums:   17
+	Average local minimum:      0.732
+	Number of local minimums:   16
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $2018.7617790800548
+---------------------------------------------------------------------------
