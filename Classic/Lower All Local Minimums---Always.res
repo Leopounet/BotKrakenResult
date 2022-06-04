@@ -2158,3 +2158,7 @@ Lower All Local Minimums---Always now has $2867.4733990112954
 Lower All Local Minimums---Always has sold PERP for $1.241. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2852.562537336437
 ---------------------------------------------------------------------------
+[2022-06-04 00:02:04] BUY
+Lower All Local Minimums---Always has bought SUSHI for $1.542
+Lower All Local Minimums---Always now has $2852.562537336437
+---------------------------------------------------------------------------

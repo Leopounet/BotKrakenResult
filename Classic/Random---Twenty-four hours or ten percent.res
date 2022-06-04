@@ -2158,3 +2158,7 @@ Random---Twenty-four hours or ten percent now has $2600.5815063333225
 Random---Twenty-four hours or ten percent has sold USDC for $1.0. Profit was -0.3899989998999983%.
 Random---Twenty-four hours or ten percent now has $2590.4392644670384
 ---------------------------------------------------------------------------
+[2022-06-04 00:02:04] BUY
+Random---Twenty-four hours or ten percent has bought LRC for $0.5152
+Random---Twenty-four hours or ten percent now has $2590.4392644670384
+---------------------------------------------------------------------------

@@ -2158,3 +2158,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2474.7891815119133
 Random---Twenty-four hours or ten percent decreasing has sold GLMR for $1.291. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2461.920277768051
 ---------------------------------------------------------------------------
+[2022-06-04 00:02:04] BUY
+Random---Twenty-four hours or ten percent decreasing has bought COMP for $55.96
+Random---Twenty-four hours or ten percent decreasing now has $2461.920277768051
+---------------------------------------------------------------------------
