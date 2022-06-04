@@ -2342,3 +2342,7 @@ Random---Twenty-four hours or ten percent now has $2298.076221124872
 Random---Twenty-four hours or ten percent has sold NANO for $1.124951. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2286.126224775023
 ---------------------------------------------------------------------------
+[2022-06-04 02:17:39] BUY
+Random---Twenty-four hours or ten percent has bought RUNE for $2.579
+Random---Twenty-four hours or ten percent now has $2286.126224775023
+---------------------------------------------------------------------------
