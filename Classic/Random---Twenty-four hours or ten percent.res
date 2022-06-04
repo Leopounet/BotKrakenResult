@@ -3246,3 +3246,7 @@ Random---Twenty-four hours or ten percent now has $1326.8004309314074
 Random---Twenty-four hours or ten percent has sold UST for $0.01806. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $1321.4932292076817
 ---------------------------------------------------------------------------
+[2022-06-04 13:44:37] BUY
+Random---Twenty-four hours or ten percent has bought ALICE for $2.967
+Random---Twenty-four hours or ten percent now has $1321.4932292076817
+---------------------------------------------------------------------------
