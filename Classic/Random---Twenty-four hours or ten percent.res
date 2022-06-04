@@ -3350,3 +3350,7 @@ Random---Twenty-four hours or ten percent now has $1232.6566402738767
 Random---Twenty-four hours or ten percent has sold SGB for $0.0376. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1226.2468257444525
 ---------------------------------------------------------------------------
+[2022-06-04 15:05:16] BUY
+Random---Twenty-four hours or ten percent has bought SAND for $1.2911
+Random---Twenty-four hours or ten percent now has $1226.2468257444525
+---------------------------------------------------------------------------

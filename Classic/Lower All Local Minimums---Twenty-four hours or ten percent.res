@@ -3350,3 +3350,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1429.859416
 Lower All Local Minimums---Twenty-four hours or ten percent has sold FTM for $0.35. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1422.424147255265
 ---------------------------------------------------------------------------
+[2022-06-04 15:05:15] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought ZAUD for $0.71987
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1422.424147255265
+---------------------------------------------------------------------------
