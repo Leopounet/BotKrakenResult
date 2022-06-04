@@ -2470,3 +2470,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold PERP for $1.228. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2340.468934297737
 ---------------------------------------------------------------------------
+[2022-06-04 03:54:27] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought PERP for $1.228
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2340.468934297737
+---------------------------------------------------------------------------

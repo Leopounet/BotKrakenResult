@@ -2470,3 +2470,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1987.4325734278689
 Random---Twenty-four hours or ten percent decreasing has sold NYM for $0.3588. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1977.097924046044
 ---------------------------------------------------------------------------
+[2022-06-04 03:54:27] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OXY for $0.0893
+Random---Twenty-four hours or ten percent decreasing now has $1977.097924046044
+---------------------------------------------------------------------------

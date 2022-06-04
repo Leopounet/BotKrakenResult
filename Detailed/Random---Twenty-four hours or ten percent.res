@@ -26572,3 +26572,46 @@ Is init: True
 Profit was -0.3943981775404334%.
 Random---Twenty-four hours or ten percent now has $2111.7646078027747
 ---------------------------------------------------------------------------
+[2022-06-04 03:54:27] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: AUDUSD
+Altname: AUDUSD
+Wsname: AUD/USD
+Base:
+ 	Name: ZAUD
+	Altname: AUD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 10
+Data about this pair of assets (AUDUSD):
+	Current:                    0.72076
+	Maximum:                    1.396609
+	Minimum:                    1.37493
+	Variance:                   0.015523
+	Mean:                       1.386059
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.342857
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.692308
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         False
+	Average local maximum:      0.721164
+	Number of local maximums:   35
+	Average local minimum:      0.721951
+	Number of local minimums:   39
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $2111.7646078027747
+---------------------------------------------------------------------------
