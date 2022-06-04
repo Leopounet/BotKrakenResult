@@ -2418,3 +2418,7 @@ Random---Twenty-four hours or ten percent now has $2179.563200767816
 Random---Twenty-four hours or ten percent has bought ASTR for $0.0588
 Random---Twenty-four hours or ten percent now has $2179.563200767816
 ---------------------------------------------------------------------------
+[2022-06-04 03:14:58] SOLD
+Random---Twenty-four hours or ten percent has sold ASTR for $0.0588. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2168.229472123823
+---------------------------------------------------------------------------
