@@ -25755,3 +25755,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $2213.9210877531427
 ---------------------------------------------------------------------------
+[2022-06-04 02:56:30] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: POWRUSD
+Altname: POWRUSD
+Wsname: POWR/USD
+Base:
+ 	Name: POWR
+	Altname: POWR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (POWRUSD):
+	Current:                    0.2758
+	Maximum:                    3.68053
+	Minimum:                    3.254149
+	Variance:                   0.115848
+	Mean:                       3.527651
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.727273
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.3
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      0.282332
+	Number of local maximums:   22
+	Average local minimum:      0.284725
+	Number of local minimums:   20
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2202.4086980968264
+---------------------------------------------------------------------------

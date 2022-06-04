@@ -2394,3 +2394,7 @@ Random---Twenty-four hours or ten percent now has $2213.9210877531427
 Random---Twenty-four hours or ten percent has bought POWR for $0.2758
 Random---Twenty-four hours or ten percent now has $2213.9210877531427
 ---------------------------------------------------------------------------
+[2022-06-04 02:56:30] SOLD
+Random---Twenty-four hours or ten percent has sold POWR for $0.2758. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2202.4086980968264
+---------------------------------------------------------------------------

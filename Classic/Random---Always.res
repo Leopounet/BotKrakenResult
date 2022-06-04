@@ -2394,3 +2394,7 @@ Random---Always now has $1797.395899382306
 Random---Always has bought XZEC for $88.3
 Random---Always now has $1797.395899382306
 ---------------------------------------------------------------------------
+[2022-06-04 02:56:30] SOLD
+Random---Always has sold XZEC for $88.3. Profit was -0.52%.
+Random---Always now has $1788.049440705518
+---------------------------------------------------------------------------
