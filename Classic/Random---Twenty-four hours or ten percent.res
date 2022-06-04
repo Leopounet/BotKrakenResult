@@ -3774,3 +3774,7 @@ Random---Twenty-four hours or ten percent now has $904.9259229740275
 Random---Twenty-four hours or ten percent has sold TBTC for $28955.0. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $900.2203081745625
 ---------------------------------------------------------------------------
+[2022-06-04 20:21:43] BUY
+Random---Twenty-four hours or ten percent has bought MIR for $0.273
+Random---Twenty-four hours or ten percent now has $900.2203081745625
+---------------------------------------------------------------------------

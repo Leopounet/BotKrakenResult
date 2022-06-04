@@ -2606,3 +2606,7 @@ Recent Minimum---Random now has $1749.0269896462662
 Recent Minimum---Random has sold BNT for $1.214. Profit was -0.52%.
 Recent Minimum---Random now has $1739.9320493001055
 ---------------------------------------------------------------------------
+[2022-06-04 20:21:43] BUY
+Recent Minimum---Random has bought ZAUD for $0.72084
+Recent Minimum---Random now has $1739.9320493001055
+---------------------------------------------------------------------------

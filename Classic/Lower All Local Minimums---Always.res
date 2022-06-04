@@ -3774,3 +3774,7 @@ Lower All Local Minimums---Always now has $1134.7204210417174
 Lower All Local Minimums---Always has sold DAI for $0.99973. Profit was -0.3729854121225392%.
 Lower All Local Minimums---Always now has $1130.4880794028563
 ---------------------------------------------------------------------------
+[2022-06-04 20:21:43] BUY
+Lower All Local Minimums---Always has bought FTM for $0.348
+Lower All Local Minimums---Always now has $1130.4880794028563
+---------------------------------------------------------------------------

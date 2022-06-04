@@ -3774,3 +3774,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1134.720421
 Lower All Local Minimums---Twenty-four hours or ten percent has sold DAI for $0.99973. Profit was -0.3729854121225392%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1130.4880794028563
 ---------------------------------------------------------------------------
+[2022-06-04 20:21:43] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought FTM for $0.348
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1130.4880794028563
+---------------------------------------------------------------------------

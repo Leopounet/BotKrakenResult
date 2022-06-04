@@ -3774,3 +3774,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $864.694512
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold BNT for $1.214. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $860.1981014982126
 ---------------------------------------------------------------------------
+[2022-06-04 20:21:43] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought ZAUD for $0.72084
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $860.1981014982126
+---------------------------------------------------------------------------

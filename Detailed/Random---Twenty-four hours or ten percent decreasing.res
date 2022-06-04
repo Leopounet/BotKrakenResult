@@ -40590,3 +40590,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $820.3542905156402
 ---------------------------------------------------------------------------
+[2022-06-04 20:21:43] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: CRVUSD
+Altname: CRVUSD
+Wsname: CRV/USD
+Base:
+ 	Name: CRV
+	Altname: CRV
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (CRVUSD):
+	Current:                    1.162
+	Maximum:                    0.870322
+	Minimum:                    0.789266
+	Variance:                   0.093133
+	Mean:                       0.832778
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.961538
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.588235
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         True
+	Average local maximum:      1.211269
+	Number of local maximums:   26
+	Average local minimum:      1.206824
+	Number of local minimums:   17
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $820.3542905156402
+---------------------------------------------------------------------------
