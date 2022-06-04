@@ -27217,3 +27217,46 @@ Is init: True
 
 Random---Always now has $1651.564298543931
 ---------------------------------------------------------------------------
+[2022-06-04 04:40:11] SOLD
+Random---Always has sold: 
+Name: YFIUSD
+Altname: YFIUSD
+Wsname: YFI/USD
+Base:
+ 	Name: YFI
+	Altname: YFI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.00015
+Data about this pair of assets (YFIUSD):
+	Current:                    7370.0
+	Maximum:                    0.00014
+	Minimum:                    0.00013
+	Variance:                   0.076146
+	Mean:                       0.000135
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.9
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.103448
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      7408.866667
+	Number of local maximums:   30
+	Average local minimum:      7453.551724
+	Number of local minimums:   29
+Is init: True
+Profit was -0.52%.
+Random---Always now has $1642.9761641915027
+---------------------------------------------------------------------------
