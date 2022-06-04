@@ -1,4 +1,4 @@
-[2022-06-04 21:42:19] SUMMARY
+[2022-06-04 21:45:16] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.862
+		Maximum:                    1.17096
+		Minimum:                    1.074114
+		Variance:                   0.082707
+		Mean:                       1.131799
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.1
+		Is ascending:               True
+		Current ascension duration: 33
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.285714
+		Is falling:                 True
+		Current fall duration:      36
+		Trending downwards:         True
+		Average local maximum:      0.887733
+		Number of local maximums:   30
+		Average local minimum:      0.882381
+		Number of local minimums:   21
+	Is init: True
 Wins: 2
 Losses: 484
 Total points: -254.8481779671784%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ANTUSD
-	Altname: ANTUSD
-	Wsname: ANT/USD
-	Base:
-	 	Name: ANT
-		Altname: ANT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (ANTUSD):
-		Current:                    1.7719
-		Maximum:                    0.57867
-		Minimum:                    0.479731
-		Variance:                   0.170976
-		Mean:                       0.546296
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.103448
-		Is ascending:               True
-		Current ascension duration: 11
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.9
-		Is falling:                 True
-		Current fall duration:      15
-		Trending downwards:         True
-		Average local maximum:      1.82449
-		Number of local maximums:   29
-		Average local minimum:      1.835827
-		Number of local minimums:   30
-	Is init: True
-Wins: 19
+	None
+Wins: 20
 Losses: 301
-Total points: -165.56093068771625%
-Wallet: 1880.5644635624126
+Total points: -165.50527743414665%
+Wallet: 1881.6110588718589
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

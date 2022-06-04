@@ -41794,3 +41794,46 @@ Is init: True
 Profit was -1.0299872503187442%.
 Random---Twenty-four hours or ten percent now has $830.05979361553
 ---------------------------------------------------------------------------
+[2022-06-04 21:45:16] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: ACAUSD
+Altname: ACAUSD
+Wsname: ACA/USD
+Base:
+ 	Name: ACA
+	Altname: ACA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (ACAUSD):
+	Current:                    0.368
+	Maximum:                    2.941176
+	Minimum:                    2.475248
+	Variance:                   0.158416
+	Mean:                       2.653761
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 73
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      68
+	Trending downwards:         True
+	Average local maximum:      0.37825
+	Number of local maximums:   24
+	Average local minimum:      0.37925
+	Number of local minimums:   16
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $830.05979361553
+---------------------------------------------------------------------------
