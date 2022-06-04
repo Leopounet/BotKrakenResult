@@ -24379,3 +24379,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $2426.6720834138036
 ---------------------------------------------------------------------------
+[2022-06-04 01:21:37] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: EOSUSD
+Altname: EOSUSD
+Wsname: EOS/USD
+Base:
+ 	Name: EOS
+	Altname: EOS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (EOSUSD):
+	Current:                    1.2486
+	Maximum:                    0.810373
+	Minimum:                    0.73078
+	Variance:                   0.098217
+	Mean:                       0.78598
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.470588
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.642857
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.274697
+	Number of local maximums:   34
+	Average local minimum:      1.276329
+	Number of local minimums:   28
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2414.053388580052
+---------------------------------------------------------------------------
