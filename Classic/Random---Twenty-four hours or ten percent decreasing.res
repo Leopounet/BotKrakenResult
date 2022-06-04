@@ -2242,3 +2242,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2339.67380780584
 Random---Twenty-four hours or ten percent decreasing has bought RAY for $0.883
 Random---Twenty-four hours or ten percent decreasing now has $2339.67380780584
 ---------------------------------------------------------------------------
+[2022-06-04 01:04:00] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold RAY for $0.883. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2327.5075040052498
+---------------------------------------------------------------------------
