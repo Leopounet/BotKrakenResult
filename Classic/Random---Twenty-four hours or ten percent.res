@@ -3218,3 +3218,7 @@ Random---Twenty-four hours or ten percent now has $1347.7156580016594
 Random---Twenty-four hours or ten percent has bought DYDX for $1.712
 Random---Twenty-four hours or ten percent now has $1347.7156580016594
 ---------------------------------------------------------------------------
+[2022-06-04 13:23:18] SOLD
+Random---Twenty-four hours or ten percent has sold DYDX for $1.712. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1340.7075365800508
+---------------------------------------------------------------------------

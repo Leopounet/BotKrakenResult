@@ -1,4 +1,4 @@
-[2022-06-04 13:20:18] SUMMARY
+[2022-06-04 13:23:18] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.855
-		Maximum:                    1.17096
-		Minimum:                    1.068376
-		Variance:                   0.087607
-		Mean:                       1.120239
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.636364
-		Is ascending:               True
-		Current ascension duration: 108
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.5
-		Is falling:                 True
-		Current fall duration:      9
-		Trending downwards:         True
-		Average local maximum:      0.895
-		Number of local maximums:   33
-		Average local minimum:      0.895056
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 2
-Losses: 400
-Total points: -210.94060019040128%
-Wallet: 1205.9396330837985
+Losses: 401
+Total points: -211.4606001904013%
+Wallet: 1199.6687469917629
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: INJUSD
+	Altname: INJUSD
+	Wsname: INJ/USD
+	Base:
+	 	Name: INJ
+		Altname: INJ
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.5
+	Data about this pair of assets (INJUSD):
+		Current:                    2.008
+		Maximum:                    0.502008
+		Minimum:                    0.467508
+		Variance:                   0.068724
+		Mean:                       0.485009
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.857143
+		Is ascending:               True
+		Current ascension duration: 18
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.846154
+		Is falling:                 True
+		Current fall duration:      4
+		Trending downwards:         True
+		Average local maximum:      2.05681
+		Number of local maximums:   21
+		Average local minimum:      2.072615
+		Number of local minimums:   13
+	Is init: True
 Wins: 12
 Losses: 249
 Total points: -147.41582030782948%
