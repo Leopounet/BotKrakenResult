@@ -20165,3 +20165,46 @@ Is init: True
 
 Lower All Local Minimums---Random now has $3145.380350750167
 ---------------------------------------------------------------------------
+[2022-06-04 08:54:35] SOLD
+Lower All Local Minimums---Random has sold: 
+Name: LUNAUSD
+Altname: LUNAUSD
+Wsname: LUNA/USD
+Base:
+ 	Name: LUNA
+	Altname: LUNA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50000
+Data about this pair of assets (LUNAUSD):
+	Current:                    9.4e-05
+	Maximum:                    10973.334796
+	Minimum:                    9523.809524
+	Variance:                   0.132095
+	Mean:                       10288.687264
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.72
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.419355
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         True
+	Average local maximum:      9.8e-05
+	Number of local maximums:   25
+	Average local minimum:      9.8e-05
+	Number of local minimums:   31
+Is init: True
+Profit was -0.6477819188584828%.
+Lower All Local Minimums---Random now has $3125.00514555868
+---------------------------------------------------------------------------
