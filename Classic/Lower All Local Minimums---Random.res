@@ -2654,3 +2654,7 @@ Lower All Local Minimums---Random now has $2074.462796966902
 Lower All Local Minimums---Random has sold DAI for $0.99968. Profit was -0.4%.
 Lower All Local Minimums---Random now has $2066.164945779034
 ---------------------------------------------------------------------------
+[2022-06-04 22:44:41] BUY
+Lower All Local Minimums---Random has bought LUNA for $9.239e-05
+Lower All Local Minimums---Random now has $2066.164945779034
+---------------------------------------------------------------------------

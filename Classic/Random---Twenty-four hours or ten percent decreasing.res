@@ -3966,3 +3966,7 @@ Random---Twenty-four hours or ten percent decreasing now has $732.5147994463777
 Random---Twenty-four hours or ten percent decreasing has sold ZAUD for $0.72069. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $729.5847402485922
 ---------------------------------------------------------------------------
+[2022-06-04 22:44:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MNGO for $0.0547
+Random---Twenty-four hours or ten percent decreasing now has $729.5847402485922
+---------------------------------------------------------------------------

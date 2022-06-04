@@ -3966,3 +3966,7 @@ Random---Twenty-four hours or ten percent now has $798.8492481936153
 Random---Twenty-four hours or ten percent has sold XXDG for $0.0814912. Profit was -0.769098166710926%.
 Random---Twenty-four hours or ten percent now has $792.7053132709741
 ---------------------------------------------------------------------------
+[2022-06-04 22:44:41] BUY
+Random---Twenty-four hours or ten percent has bought IDEX for $0.07289
+Random---Twenty-four hours or ten percent now has $792.7053132709741
+---------------------------------------------------------------------------
