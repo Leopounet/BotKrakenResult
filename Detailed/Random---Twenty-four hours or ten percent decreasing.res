@@ -31517,3 +31517,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1472.1927721977154
 ---------------------------------------------------------------------------
+[2022-06-04 09:42:20] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: EWTUSD
+Altname: EWTUSD
+Wsname: EWT/USD
+Base:
+ 	Name: EWT
+	Altname: EWT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (EWTUSD):
+	Current:                    2.731
+	Maximum:                    0.387447
+	Minimum:                    0.339559
+	Variance:                   0.123599
+	Mean:                       0.364865
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.029412
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.434783
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         False
+	Average local maximum:      2.737882
+	Number of local maximums:   34
+	Average local minimum:      2.757
+	Number of local minimums:   23
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1464.5373697822872
+---------------------------------------------------------------------------
