@@ -2314,3 +2314,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2237.622010656534
 Random---Twenty-four hours or ten percent decreasing has bought ALICE for $2.827
 Random---Twenty-four hours or ten percent decreasing now has $2237.622010656534
 ---------------------------------------------------------------------------
+[2022-06-04 01:56:58] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ALICE for $2.827. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2225.98637620112
+---------------------------------------------------------------------------
