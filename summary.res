@@ -1,4 +1,4 @@
-[2022-06-04 07:18:08] SUMMARY
+[2022-06-04 07:21:06] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SHIBUSD
+	Altname: SHIBUSD
+	Wsname: SHIB/USD
+	Base:
+	 	Name: SHIB
+		Altname: SHIB
+		decimals: 5
+		displayed_decimals: 0
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 500000
+	Data about this pair of assets (SHIBUSD):
+		Current:                    1.1e-05
+		Maximum:                    94966.761633
+		Minimum:                    88652.48227
+		Variance:                   0.066489
+		Mean:                       91711.037698
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.681818
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.444444
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         True
+		Average local maximum:      1.1e-05
+		Number of local maximums:   22
+		Average local minimum:      1.1e-05
+		Number of local minimums:   27
+	Is init: True
 Wins: 2
 Losses: 341
 Total points: -180.54598290577673%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: WOOUSD
+	Altname: WOOUSD
+	Wsname: WOO/USD
+	Base:
+	 	Name: WOO
+		Altname: WOO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (WOOUSD):
+		Current:                    0.1543
+		Maximum:                    6.7659
+		Minimum:                    2.534212
+		Variance:                   0.625443
+		Mean:                       6.267077
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.8125
+		Is ascending:               True
+		Current ascension duration: 14
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.2
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.161894
+		Number of local maximums:   16
+		Average local minimum:      0.159167
+		Number of local minimums:   15
+	Is init: True
 Wins: 11
 Losses: 227
 Total points: -90.85660197873824%

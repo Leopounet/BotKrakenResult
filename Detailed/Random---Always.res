@@ -29496,3 +29496,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $1445.8195361418723
 ---------------------------------------------------------------------------
+[2022-06-04 07:21:06] BUY
+Random---Always has bought: 
+Name: MCUSD
+Altname: MCUSD
+Wsname: MC/USD
+Base:
+ 	Name: MC
+	Altname: MC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (MCUSD):
+	Current:                    0.978
+	Maximum:                    1.028807
+	Minimum:                    0.984252
+	Variance:                   0.043307
+	Mean:                       1.007897
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.9
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.736842
+	Is falling:                 True
+	Current fall duration:      15
+	Trending downwards:         True
+	Average local maximum:      0.994033
+	Number of local maximums:   30
+	Average local minimum:      0.992526
+	Number of local minimums:   19
+Is init: True
+
+Random---Always now has $1445.8195361418723
+---------------------------------------------------------------------------

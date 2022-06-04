@@ -2742,3 +2742,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1674.5222537886768
 Random---Twenty-four hours or ten percent decreasing has sold ROOK for $42.56. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1665.8147380689757
 ---------------------------------------------------------------------------
+[2022-06-04 07:21:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GLMR for $1.285
+Random---Twenty-four hours or ten percent decreasing now has $1665.8147380689757
+---------------------------------------------------------------------------

@@ -2742,3 +2742,7 @@ Random---Twenty-four hours or ten percent now has $1799.8805197520496
 Random---Twenty-four hours or ten percent has sold KAR for $0.526. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1790.521141049339
 ---------------------------------------------------------------------------
+[2022-06-04 07:21:06] BUY
+Random---Twenty-four hours or ten percent has bought SCRT for $1.458
+Random---Twenty-four hours or ten percent now has $1790.521141049339
+---------------------------------------------------------------------------
