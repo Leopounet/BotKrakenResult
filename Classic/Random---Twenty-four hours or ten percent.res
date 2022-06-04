@@ -2806,3 +2806,7 @@ Random---Twenty-four hours or ten percent now has $1728.4365887833187
 Random---Twenty-four hours or ten percent has sold OXT for $0.12979. Profit was -0.5816000616000756%.
 Random---Twenty-four hours or ten percent now has $1718.3840005182367
 ---------------------------------------------------------------------------
+[2022-06-04 08:10:04] BUY
+Random---Twenty-four hours or ten percent has bought USDT for $0.999
+Random---Twenty-four hours or ten percent now has $1718.3840005182367
+---------------------------------------------------------------------------
