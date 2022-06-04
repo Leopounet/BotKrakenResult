@@ -2574,3 +2574,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1861.6782414693214
 Random---Twenty-four hours or ten percent decreasing has sold CRV for $1.176. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1851.997514613681
 ---------------------------------------------------------------------------
+[2022-06-04 05:13:18] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZGBP for $1.2493
+Random---Twenty-four hours or ten percent decreasing now has $1851.997514613681
+---------------------------------------------------------------------------
