@@ -3982,3 +3982,7 @@ Random---Twenty-four hours or ten percent now has $788.583245641965
 Random---Twenty-four hours or ten percent has sold USDC for $1.0. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $785.4289126593972
 ---------------------------------------------------------------------------
+[2022-06-04 22:56:30] BUY
+Random---Twenty-four hours or ten percent has bought POLIS for $0.579
+Random---Twenty-four hours or ten percent now has $785.4289126593972
+---------------------------------------------------------------------------

@@ -3982,3 +3982,7 @@ Variance---Always now has $1058.9493712140234
 Variance---Always has sold UST for $0.01757. Profit was -0.456882821387938%.
 Variance---Always now has $1054.111213449751
 ---------------------------------------------------------------------------
+[2022-06-04 22:56:30] BUY
+Variance---Always has bought KINT for $5.63
+Variance---Always now has $1054.111213449751
+---------------------------------------------------------------------------
