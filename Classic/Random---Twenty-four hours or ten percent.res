@@ -2526,3 +2526,7 @@ Random---Twenty-four hours or ten percent now has $2059.671593404947
 Random---Twenty-four hours or ten percent has sold MIR for $0.274. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2048.9613011192414
 ---------------------------------------------------------------------------
+[2022-06-04 04:37:08] BUY
+Random---Twenty-four hours or ten percent has bought DAI for $0.99976
+Random---Twenty-four hours or ten percent now has $2048.9613011192414
+---------------------------------------------------------------------------

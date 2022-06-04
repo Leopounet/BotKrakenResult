@@ -2526,3 +2526,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1918.520311711785
 Random---Twenty-four hours or ten percent decreasing has sold ZAUD for $0.72048. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $1910.846230464938
 ---------------------------------------------------------------------------
+[2022-06-04 04:37:08] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RARI for $2.69
+Random---Twenty-four hours or ten percent decreasing now has $1910.846230464938
+---------------------------------------------------------------------------
