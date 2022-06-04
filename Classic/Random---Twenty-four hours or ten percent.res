@@ -2206,3 +2206,7 @@ Random---Twenty-four hours or ten percent now has $2525.9772833832103
 Random---Twenty-four hours or ten percent has sold WBTC for $29681.7. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2512.8422015096176
 ---------------------------------------------------------------------------
+[2022-06-04 00:37:27] BUY
+Random---Twenty-four hours or ten percent has bought ICX for $0.3869
+Random---Twenty-four hours or ten percent now has $2512.8422015096176
+---------------------------------------------------------------------------
