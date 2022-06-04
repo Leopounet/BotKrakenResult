@@ -2498,3 +2498,7 @@ Random---Twenty-four hours or ten percent now has $2084.010776922372
 Random---Twenty-four hours or ten percent has bought ATOM for $9.1231
 Random---Twenty-four hours or ten percent now has $2084.010776922372
 ---------------------------------------------------------------------------
+[2022-06-04 04:15:58] SOLD
+Random---Twenty-four hours or ten percent has sold ATOM for $9.1585. Profit was -0.13197400006578386%.
+Random---Twenty-four hours or ten percent now has $2081.2604245382654
+---------------------------------------------------------------------------
