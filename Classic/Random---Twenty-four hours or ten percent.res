@@ -2238,3 +2238,7 @@ Random---Twenty-four hours or ten percent now has $2473.8453515997376
 Random---Twenty-four hours or ten percent has sold BAT for $0.3766. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2460.9813557714187
 ---------------------------------------------------------------------------
+[2022-06-04 01:01:03] BUY
+Random---Twenty-four hours or ten percent has bought SGB for $0.0382
+Random---Twenty-four hours or ten percent now has $2460.9813557714187
+---------------------------------------------------------------------------
