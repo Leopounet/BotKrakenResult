@@ -25669,3 +25669,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $2098.1370681853236
 ---------------------------------------------------------------------------
+[2022-06-04 02:50:36] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: BICOUSD
+Altname: BICOUSD
+Wsname: BICO/USD
+Base:
+ 	Name: BICO
+	Altname: BICO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 4
+Data about this pair of assets (BICOUSD):
+	Current:                    0.692
+	Maximum:                    1.49925
+	Minimum:                    1.278772
+	Variance:                   0.147059
+	Mean:                       1.388963
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.5
+	Is ascending:               True
+	Current ascension duration: 24
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.6
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         True
+	Average local maximum:      0.715333
+	Number of local maximums:   18
+	Average local minimum:      0.7296
+	Number of local minimums:   15
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2087.22675543076
+---------------------------------------------------------------------------
