@@ -3222,3 +3222,7 @@ Random---Twenty-four hours or ten percent now has $1347.7156580016594
 Random---Twenty-four hours or ten percent has sold DYDX for $1.712. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1340.7075365800508
 ---------------------------------------------------------------------------
+[2022-06-04 13:26:15] BUY
+Random---Twenty-four hours or ten percent has bought WOO for $0.1547
+Random---Twenty-four hours or ten percent now has $1340.7075365800508
+---------------------------------------------------------------------------
