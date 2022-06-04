@@ -3442,3 +3442,7 @@ Random---Twenty-four hours or ten percent now has $1152.9426612626967
 Random---Twenty-four hours or ten percent has bought USDC for $1.0
 Random---Twenty-four hours or ten percent now has $1152.9426612626967
 ---------------------------------------------------------------------------
+[2022-06-04 16:13:34] SOLD
+Random---Twenty-four hours or ten percent has sold USDC for $1.0. Profit was -0.4%.
+Random---Twenty-four hours or ten percent now has $1148.330890617646
+---------------------------------------------------------------------------
