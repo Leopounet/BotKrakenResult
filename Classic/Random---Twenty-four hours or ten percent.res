@@ -2926,3 +2926,7 @@ Random---Twenty-four hours or ten percent now has $1600.2832747444531
 Random---Twenty-four hours or ten percent has sold STORJ for $0.55687. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1591.961801715782
 ---------------------------------------------------------------------------
+[2022-06-04 09:39:19] BUY
+Random---Twenty-four hours or ten percent has bought MINA for $0.84
+Random---Twenty-four hours or ten percent now has $1591.961801715782
+---------------------------------------------------------------------------
