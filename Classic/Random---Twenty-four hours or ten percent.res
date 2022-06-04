@@ -3698,3 +3698,7 @@ Random---Twenty-four hours or ten percent now has $958.308790195895
 Random---Twenty-four hours or ten percent has bought ADA for $0.556069
 Random---Twenty-four hours or ten percent now has $958.308790195895
 ---------------------------------------------------------------------------
+[2022-06-04 19:25:05] SOLD
+Random---Twenty-four hours or ten percent has sold ADA for $0.556298. Profit was -0.47881806034863095%.
+Random---Twenty-four hours or ten percent now has $953.7202346345285
+---------------------------------------------------------------------------
