@@ -21455,3 +21455,46 @@ Is init: True
 
 Random---Random now has $2425.4583459646806
 ---------------------------------------------------------------------------
+[2022-06-04 11:16:27] SOLD
+Random---Random has sold: 
+Name: SOLUSD
+Altname: SOLUSD
+Wsname: SOL/USD
+Base:
+ 	Name: SOL
+	Altname: SOL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (SOLUSD):
+	Current:                    37.22
+	Maximum:                    0.027801
+	Minimum:                    0.02416
+	Variance:                   0.13095
+	Mean:                       0.025544
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.8
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               1.875
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      38.973333
+	Number of local maximums:   15
+	Average local minimum:      39.184167
+	Number of local minimums:   24
+Is init: True
+Profit was -0.5468672756582378%.
+Random---Random now has $2412.1943079858784
+---------------------------------------------------------------------------

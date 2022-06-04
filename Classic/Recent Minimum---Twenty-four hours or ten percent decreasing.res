@@ -3054,3 +3054,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $1394.02313
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold AAVE for $105.54. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $1386.7742152450721
 ---------------------------------------------------------------------------
+[2022-06-04 11:16:27] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought AAVE for $105.48
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $1386.7742152450721
+---------------------------------------------------------------------------
