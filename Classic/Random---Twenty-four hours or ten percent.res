@@ -2918,3 +2918,7 @@ Random---Twenty-four hours or ten percent now has $1608.6482456216859
 Random---Twenty-four hours or ten percent has sold RAY for $0.872. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1600.2832747444531
 ---------------------------------------------------------------------------
+[2022-06-04 09:33:23] BUY
+Random---Twenty-four hours or ten percent has bought STORJ for $0.55687
+Random---Twenty-four hours or ten percent now has $1600.2832747444531
+---------------------------------------------------------------------------
