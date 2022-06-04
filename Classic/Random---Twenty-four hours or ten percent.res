@@ -3122,3 +3122,7 @@ Random---Twenty-four hours or ten percent now has $1422.8288248619574
 Random---Twenty-four hours or ten percent has bought WBTC for $29616.2
 Random---Twenty-four hours or ten percent now has $1422.8288248619574
 ---------------------------------------------------------------------------
+[2022-06-04 12:07:59] SOLD
+Random---Twenty-four hours or ten percent has sold WBTC for $29616.2. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1415.4301149726753
+---------------------------------------------------------------------------
