@@ -37322,3 +37322,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $909.6695441386033
 ---------------------------------------------------------------------------
+[2022-06-04 16:34:17] BUY
+Random---Always has bought: 
+Name: KEEPUSD
+Altname: KEEPUSD
+Wsname: KEEP/USD
+Base:
+ 	Name: KEEP
+	Altname: KEEP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (KEEPUSD):
+	Current:                    0.235
+	Maximum:                    4.334446
+	Minimum:                    3.753895
+	Variance:                   0.133939
+	Mean:                       4.157055
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.918919
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.083333
+	Is falling:                 True
+	Current fall duration:      11
+	Trending downwards:         False
+	Average local maximum:      0.240002
+	Number of local maximums:   37
+	Average local minimum:      0.239911
+	Number of local minimums:   36
+Is init: True
+
+Random---Always now has $909.6695441386033
+---------------------------------------------------------------------------
