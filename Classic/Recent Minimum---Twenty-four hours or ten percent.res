@@ -3806,3 +3806,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $847.8701997952986
 Recent Minimum---Twenty-four hours or ten percent has sold ALICE for $2.939. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $843.4612747563631
 ---------------------------------------------------------------------------
+[2022-06-04 20:45:40] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought ALICE for $2.939
+Recent Minimum---Twenty-four hours or ten percent now has $843.4612747563631
+---------------------------------------------------------------------------

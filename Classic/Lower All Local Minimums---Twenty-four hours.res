@@ -14,3 +14,7 @@ Lower All Local Minimums---Twenty-four hours now has $10121.410404624277
 Lower All Local Minimums---Twenty-four hours has sold ACA for $0.368. Profit was 1.1374585635359185%.
 Lower All Local Minimums---Twenty-four hours now has $10236.537254022292
 ---------------------------------------------------------------------------
+[2022-06-04 20:45:40] BUY
+Lower All Local Minimums---Twenty-four hours has bought LUNA for $9.246e-05
+Lower All Local Minimums---Twenty-four hours now has $10236.537254022292
+---------------------------------------------------------------------------

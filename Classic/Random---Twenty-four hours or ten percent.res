@@ -3806,3 +3806,7 @@ Random---Twenty-four hours or ten percent now has $882.9864653162076
 Random---Twenty-four hours or ten percent has sold LINK for $7.06485. Profit was -0.8450614780985539%.
 Random---Twenty-four hours or ten percent now has $875.5246868409963
 ---------------------------------------------------------------------------
+[2022-06-04 20:45:40] BUY
+Random---Twenty-four hours or ten percent has bought BICO for $0.689
+Random---Twenty-four hours or ten percent now has $875.5246868409963
+---------------------------------------------------------------------------

@@ -170,3 +170,46 @@ Is init: True
 Profit was 0.8336379018612488%.
 Random---Twenty-four hours now has $10097.74500273325
 ---------------------------------------------------------------------------
+[2022-06-04 20:45:40] BUY
+Random---Twenty-four hours has bought: 
+Name: TRIBEUSD
+Altname: TRIBEUSD
+Wsname: TRIBE/USD
+Base:
+ 	Name: TRIBE
+	Altname: TRIBE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (TRIBEUSD):
+	Current:                    0.23
+	Maximum:                    4.870921
+	Minimum:                    4.038772
+	Variance:                   0.17084
+	Mean:                       4.308289
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.0
+	Is ascending:               True
+	Current ascension duration: 122
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.25
+	Is falling:                 True
+	Current fall duration:      126
+	Trending downwards:         True
+	Average local maximum:      0.226867
+	Number of local maximums:   6
+	Average local minimum:      0.235475
+	Number of local minimums:   8
+Is init: True
+
+Random---Twenty-four hours now has $10097.74500273325
+---------------------------------------------------------------------------
