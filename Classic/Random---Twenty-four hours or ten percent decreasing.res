@@ -4010,3 +4010,7 @@ Random---Twenty-four hours or ten percent decreasing now has $710.8117935258283
 Random---Twenty-four hours or ten percent decreasing has bought XXRP for $0.39156
 Random---Twenty-four hours or ten percent decreasing now has $710.8117935258283
 ---------------------------------------------------------------------------
+[2022-06-04 23:17:09] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XXRP for $0.39156. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $707.115572199494
+---------------------------------------------------------------------------
