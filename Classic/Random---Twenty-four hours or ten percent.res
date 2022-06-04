@@ -3414,3 +3414,7 @@ Random---Twenty-four hours or ten percent now has $1177.2388963237665
 Random---Twenty-four hours or ten percent has sold MNGO for $0.0547. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1171.117254062883
 ---------------------------------------------------------------------------
+[2022-06-04 15:52:49] BUY
+Random---Twenty-four hours or ten percent has bought PLA for $0.5353
+Random---Twenty-four hours or ten percent now has $1171.117254062883
+---------------------------------------------------------------------------

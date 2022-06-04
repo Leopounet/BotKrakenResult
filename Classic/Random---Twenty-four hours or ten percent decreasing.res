@@ -3414,3 +3414,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1040.0364238624556
 Random---Twenty-four hours or ten percent decreasing has sold GARI for $0.6184. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1034.6282344583708
 ---------------------------------------------------------------------------
+[2022-06-04 15:52:49] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ADA for $0.558033
+Random---Twenty-four hours or ten percent decreasing now has $1034.6282344583708
+---------------------------------------------------------------------------
