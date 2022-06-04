@@ -3326,3 +3326,7 @@ Random---Always now has $1004.8711092389717
 Random---Always has sold MIR for $0.272. Profit was -0.52%.
 Random---Always now has $999.645779470929
 ---------------------------------------------------------------------------
+[2022-06-04 14:46:08] BUY
+Random---Always has bought BADGER for $5.765
+Random---Always now has $999.645779470929
+---------------------------------------------------------------------------
