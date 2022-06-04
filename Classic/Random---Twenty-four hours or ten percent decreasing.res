@@ -3158,3 +3158,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1228.6550427924967
 Random---Twenty-four hours or ten percent decreasing has sold XXDG for $0.0807721. Profit was -0.48395972406275645%.
 Random---Twenty-four hours or ten percent decreasing now has $1222.708847237715
 ---------------------------------------------------------------------------
+[2022-06-04 12:36:36] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SAMO for $0.005557
+Random---Twenty-four hours or ten percent decreasing now has $1222.708847237715
+---------------------------------------------------------------------------

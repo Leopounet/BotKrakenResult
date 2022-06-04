@@ -3158,3 +3158,7 @@ Random---Twenty-four hours or ten percent now has $1391.1147313235601
 Random---Twenty-four hours or ten percent has sold QTUM for $3.8029. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1383.8809347206777
 ---------------------------------------------------------------------------
+[2022-06-04 12:36:36] BUY
+Random---Twenty-four hours or ten percent has bought AAVE for $104.38
+Random---Twenty-four hours or ten percent now has $1383.8809347206777
+---------------------------------------------------------------------------
