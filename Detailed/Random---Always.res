@@ -42224,3 +42224,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $697.4884386424505
 ---------------------------------------------------------------------------
+[2022-06-04 22:15:07] BUY
+Random---Always has bought: 
+Name: USTUSD
+Altname: USTUSD
+Wsname: UST/USD
+Base:
+ 	Name: UST
+	Altname: UST
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 100
+Data about this pair of assets (USTUSD):
+	Current:                    0.01779
+	Maximum:                    67.980965
+	Minimum:                    44.903458
+	Variance:                   0.33947
+	Mean:                       53.923392
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.346154
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.689655
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         False
+	Average local maximum:      0.018718
+	Number of local maximums:   26
+	Average local minimum:      0.018283
+	Number of local minimums:   29
+Is init: True
+
+Random---Always now has $697.4884386424505
+---------------------------------------------------------------------------

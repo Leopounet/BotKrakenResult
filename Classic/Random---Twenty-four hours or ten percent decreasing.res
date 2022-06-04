@@ -3926,3 +3926,7 @@ Random---Twenty-four hours or ten percent decreasing now has $750.9550784419415
 Random---Twenty-four hours or ten percent decreasing has sold CTSI for $0.201. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $747.0501120340434
 ---------------------------------------------------------------------------
+[2022-06-04 22:15:07] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ASTR for $0.0621
+Random---Twenty-four hours or ten percent decreasing now has $747.0501120340434
+---------------------------------------------------------------------------
