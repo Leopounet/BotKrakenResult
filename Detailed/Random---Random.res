@@ -24336,3 +24336,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $2038.7243727931493
 ---------------------------------------------------------------------------
+[2022-06-04 16:22:28] BUY
+Random---Random has bought: 
+Name: XDGUSD
+Altname: XDGUSD
+Wsname: XDG/USD
+Base:
+ 	Name: XXDG
+	Altname: XDG
+	decimals: 8
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 20
+Data about this pair of assets (XDGUSD):
+	Current:                    0.081317
+	Maximum:                    12.599092
+	Minimum:                    12.051155
+	Variance:                   0.04349
+	Mean:                       12.301996
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.608696
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.45
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.081468
+	Number of local maximums:   23
+	Average local minimum:      0.081333
+	Number of local minimums:   20
+Is init: True
+
+Random---Random now has $2038.7243727931493
+---------------------------------------------------------------------------
