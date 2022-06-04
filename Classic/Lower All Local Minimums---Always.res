@@ -2222,3 +2222,7 @@ Lower All Local Minimums---Always now has $2753.652748515086
 Lower All Local Minimums---Always has sold USDT for $0.9989. Profit was -0.4%.
 Lower All Local Minimums---Always now has $2742.638137521026
 ---------------------------------------------------------------------------
+[2022-06-04 00:49:12] BUY
+Lower All Local Minimums---Always has bought TRX for $0.080784
+Lower All Local Minimums---Always now has $2742.638137521026
+---------------------------------------------------------------------------

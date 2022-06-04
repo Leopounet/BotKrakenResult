@@ -2222,3 +2222,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2753.652748
 Lower All Local Minimums---Twenty-four hours or ten percent has sold USDT for $0.9989. Profit was -0.4%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2742.638137521026
 ---------------------------------------------------------------------------
+[2022-06-04 00:49:12] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought TRX for $0.080784
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2742.638137521026
+---------------------------------------------------------------------------
