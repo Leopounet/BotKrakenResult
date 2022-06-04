@@ -2950,3 +2950,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1456.9217754594192
 Random---Twenty-four hours or ten percent decreasing has sold IDEX for $0.07313. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1449.3457822270302
 ---------------------------------------------------------------------------
+[2022-06-04 09:57:51] BUY
+Random---Twenty-four hours or ten percent decreasing has bought STORJ for $0.55687
+Random---Twenty-four hours or ten percent decreasing now has $1449.3457822270302
+---------------------------------------------------------------------------

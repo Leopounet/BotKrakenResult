@@ -2950,3 +2950,7 @@ Lower All Local Minimums---Always now has $1793.288288424347
 Lower All Local Minimums---Always has sold ANT for $1.7869. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1783.9631893245405
 ---------------------------------------------------------------------------
+[2022-06-04 09:57:51] BUY
+Lower All Local Minimums---Always has bought DAI for $0.99973
+Lower All Local Minimums---Always now has $1783.9631893245405
+---------------------------------------------------------------------------

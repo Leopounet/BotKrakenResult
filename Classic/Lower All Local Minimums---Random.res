@@ -1942,3 +1942,7 @@ Lower All Local Minimums---Random now has $3013.0164819452048
 Lower All Local Minimums---Random has sold ANT for $1.7869. Profit was -0.52%.
 Lower All Local Minimums---Random now has $2997.3487962390896
 ---------------------------------------------------------------------------
+[2022-06-04 09:57:51] BUY
+Lower All Local Minimums---Random has bought DAI for $0.99973
+Lower All Local Minimums---Random now has $2997.3487962390896
+---------------------------------------------------------------------------
