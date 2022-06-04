@@ -35516,3 +35516,46 @@ Is init: True
 Profit was -0.0938146424437254%.
 Random---Twenty-four hours or ten percent decreasing now has $1111.4237455830746
 ---------------------------------------------------------------------------
+[2022-06-04 14:27:59] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: LDOUSD
+Altname: LDOUSD
+Wsname: LDO/USD
+Base:
+ 	Name: LDO
+	Altname: LDO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (LDOUSD):
+	Current:                    1.011
+	Maximum:                    1.008065
+	Minimum:                    0.84317
+	Variance:                   0.163575
+	Mean:                       0.975249
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.555556
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.521739
+	Is falling:                 True
+	Current fall duration:      13
+	Trending downwards:         True
+	Average local maximum:      1.025148
+	Number of local maximums:   27
+	Average local minimum:      1.042217
+	Number of local minimums:   23
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $1111.4237455830746
+---------------------------------------------------------------------------

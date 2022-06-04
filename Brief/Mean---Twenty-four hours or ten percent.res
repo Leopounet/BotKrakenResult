@@ -4954,3 +4954,9 @@ Mean---Twenty-four hours or ten percent has 409 losses
 Mean---Twenty-four hours or ten percent has -216.0030013598834 points
 Mean---Twenty-four hours or ten percent now has $1145.856598800517
 ---------------------------------------------------------------------------
+[2022-06-04 14:27:59] BRIEF
+Mean---Twenty-four hours or ten percent has 4 wins
+Mean---Twenty-four hours or ten percent has 409 losses
+Mean---Twenty-four hours or ten percent has -216.0030013598834 points
+Mean---Twenty-four hours or ten percent now has $1145.856598800517
+---------------------------------------------------------------------------

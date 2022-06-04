@@ -3302,3 +3302,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1112.4674028994077
 Random---Twenty-four hours or ten percent decreasing has sold LUNA2 for $6.37641. Profit was -0.0938146424437254%.
 Random---Twenty-four hours or ten percent decreasing now has $1111.4237455830746
 ---------------------------------------------------------------------------
+[2022-06-04 14:27:59] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LDO for $1.011
+Random---Twenty-four hours or ten percent decreasing now has $1111.4237455830746
+---------------------------------------------------------------------------
