@@ -40891,3 +40891,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $882.9864653162076
 ---------------------------------------------------------------------------
+[2022-06-04 20:42:44] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: LINKUSD
+Altname: LINKUSD
+Wsname: LINK/USD
+Base:
+ 	Name: LINK
+	Altname: LINK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (LINKUSD):
+	Current:                    7.08789
+	Maximum:                    0.149208
+	Minimum:                    0.138402
+	Variance:                   0.072418
+	Mean:                       0.144223
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.115385
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.888889
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         False
+	Average local maximum:      6.941074
+	Number of local maximums:   26
+	Average local minimum:      6.906187
+	Number of local minimums:   27
+Is init: True
+Profit was -0.8450614780985539%.
+Random---Twenty-four hours or ten percent now has $875.5246868409963
+---------------------------------------------------------------------------

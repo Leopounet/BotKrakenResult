@@ -10,3 +10,7 @@ Lower All Local Minimums---Twenty-four hours now has $10121.410404624277
 Lower All Local Minimums---Twenty-four hours has bought ACA for $0.362
 Lower All Local Minimums---Twenty-four hours now has $10121.410404624277
 ---------------------------------------------------------------------------
+[2022-06-04 20:42:44] SOLD
+Lower All Local Minimums---Twenty-four hours has sold ACA for $0.368. Profit was 1.1374585635359185%.
+Lower All Local Minimums---Twenty-four hours now has $10236.537254022292
+---------------------------------------------------------------------------

@@ -10,3 +10,7 @@ Random---Twenty-four hours now has $10014.262316471337
 Random---Twenty-four hours has bought YGG for $0.591
 Random---Twenty-four hours now has $10014.262316471337
 ---------------------------------------------------------------------------
+[2022-06-04 20:42:44] SOLD
+Random---Twenty-four hours has sold YGG for $0.599. Profit was 0.8336379018612488%.
+Random---Twenty-four hours now has $10097.74500273325
+---------------------------------------------------------------------------
