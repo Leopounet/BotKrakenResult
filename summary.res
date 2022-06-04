@@ -1,4 +1,4 @@
-[2022-06-04 18:58:02] SUMMARY
+[2022-06-04 19:00:59] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.862
-		Maximum:                    1.17096
-		Minimum:                    1.074114
-		Variance:                   0.082707
-		Mean:                       1.128694
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.9
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.736842
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      0.889333
-		Number of local maximums:   30
-		Average local minimum:      0.881632
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 2
-Losses: 456
-Total points: -240.28817796717811%
-Wallet: 898.5080199705612
+Losses: 457
+Total points: -240.80817796717812%
+Wallet: 893.8357782667143
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: API3USD
+	Altname: API3USD
+	Wsname: API3/USD
+	Base:
+	 	Name: API3
+		Altname: API3
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2.5
+	Data about this pair of assets (API3USD):
+		Current:                    1.483
+		Maximum:                    0.679348
+		Minimum:                    0.620732
+		Variance:                   0.086282
+		Mean:                       0.648189
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.538462
+		Is ascending:               True
+		Current ascension duration: 51
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.545455
+		Is falling:                 True
+		Current fall duration:      18
+		Trending downwards:         True
+		Average local maximum:      1.532308
+		Number of local maximums:   13
+		Average local minimum:      1.549091
+		Number of local minimums:   11
+	Is init: True
 Wins: 18
 Losses: 284
 Total points: -156.69263904800445%
