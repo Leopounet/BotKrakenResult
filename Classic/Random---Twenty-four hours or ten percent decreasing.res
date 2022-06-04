@@ -2606,3 +2606,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1827.6911513939003
 Random---Twenty-four hours or ten percent decreasing has sold STORJ for $0.55881. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1818.187157406652
 ---------------------------------------------------------------------------
+[2022-06-04 05:36:56] BUY
+Random---Twenty-four hours or ten percent decreasing has bought UMA for $3.014
+Random---Twenty-four hours or ten percent decreasing now has $1818.187157406652
+---------------------------------------------------------------------------

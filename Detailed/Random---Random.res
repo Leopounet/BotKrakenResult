@@ -18402,3 +18402,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $2803.762983819591
 ---------------------------------------------------------------------------
+[2022-06-04 05:36:56] BUY
+Random---Random has bought: 
+Name: POWRUSD
+Altname: POWRUSD
+Wsname: POWR/USD
+Base:
+ 	Name: POWR
+	Altname: POWR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (POWRUSD):
+	Current:                    0.2758
+	Maximum:                    3.68053
+	Minimum:                    3.254149
+	Variance:                   0.115848
+	Mean:                       3.530169
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.85
+	Is ascending:               True
+	Current ascension duration: 36
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.157895
+	Is falling:                 True
+	Current fall duration:      38
+	Trending downwards:         True
+	Average local maximum:      0.28256
+	Number of local maximums:   20
+	Average local minimum:      0.284937
+	Number of local minimums:   19
+Is init: True
+
+Random---Random now has $2803.762983819591
+---------------------------------------------------------------------------

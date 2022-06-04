@@ -1710,3 +1710,7 @@ Random---Random now has $2818.418761378761
 Random---Random has sold PSTAKE for $0.2251. Profit was -0.52%.
 Random---Random now has $2803.762983819591
 ---------------------------------------------------------------------------
+[2022-06-04 05:36:56] BUY
+Random---Random has bought POWR for $0.2758
+Random---Random now has $2803.762983819591
+---------------------------------------------------------------------------
