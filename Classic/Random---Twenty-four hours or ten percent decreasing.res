@@ -3286,3 +3286,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1133.257823360548
 Random---Twenty-four hours or ten percent decreasing has sold UNI for $4.951. Profit was -1.321442596674018%.
 Random---Twenty-four hours or ten percent decreasing now has $1118.282471752521
 ---------------------------------------------------------------------------
+[2022-06-04 14:15:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ENJ for $0.606
+Random---Twenty-four hours or ten percent decreasing now has $1118.282471752521
+---------------------------------------------------------------------------
