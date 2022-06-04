@@ -2774,3 +2774,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold ANT for $1.7909. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1920.4819133387439
 ---------------------------------------------------------------------------
+[2022-06-04 07:45:57] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought RBC for $0.07947
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $1920.4819133387439
+---------------------------------------------------------------------------

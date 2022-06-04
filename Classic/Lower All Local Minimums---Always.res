@@ -2774,3 +2774,7 @@ Lower All Local Minimums---Always now has $1930.5206205656855
 Lower All Local Minimums---Always has sold ANT for $1.7909. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1920.4819133387439
 ---------------------------------------------------------------------------
+[2022-06-04 07:45:57] BUY
+Lower All Local Minimums---Always has bought RBC for $0.07947
+Lower All Local Minimums---Always now has $1920.4819133387439
+---------------------------------------------------------------------------

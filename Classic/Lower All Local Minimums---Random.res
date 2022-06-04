@@ -1830,3 +1830,7 @@ Lower All Local Minimums---Random now has $3227.594150212099
 Lower All Local Minimums---Random has sold ANT for $1.7909. Profit was -0.52%.
 Lower All Local Minimums---Random now has $3210.810660630996
 ---------------------------------------------------------------------------
+[2022-06-04 07:45:57] BUY
+Lower All Local Minimums---Random has bought RBC for $0.07947
+Lower All Local Minimums---Random now has $3210.810660630996
+---------------------------------------------------------------------------
