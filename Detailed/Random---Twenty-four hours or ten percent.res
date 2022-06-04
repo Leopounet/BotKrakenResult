@@ -37795,3 +37795,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1095.8540404903176
 ---------------------------------------------------------------------------
+[2022-06-04 17:07:51] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: SRMUSD
+Altname: SRMUSD
+Wsname: SRM/USD
+Base:
+ 	Name: SRM
+	Altname: SRM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (SRMUSD):
+	Current:                    1.003
+	Maximum:                    1.001001
+	Minimum:                    0.914913
+	Variance:                   0.086002
+	Mean:                       0.961501
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.176471
+	Is ascending:               True
+	Current ascension duration: 36
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.833333
+	Is falling:                 True
+	Current fall duration:      57
+	Trending downwards:         True
+	Average local maximum:      1.027412
+	Number of local maximums:   17
+	Average local minimum:      1.049611
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1090.155599479768
+---------------------------------------------------------------------------
