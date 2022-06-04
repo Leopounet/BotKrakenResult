@@ -3550,3 +3550,7 @@ Random---Twenty-four hours or ten percent now has $1054.2163026273888
 Random---Twenty-four hours or ten percent has sold ATLAS for $0.00837. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1048.7343778537263
 ---------------------------------------------------------------------------
+[2022-06-04 17:34:50] BUY
+Random---Twenty-four hours or ten percent has bought RLC for $0.8674
+Random---Twenty-four hours or ten percent now has $1048.7343778537263
+---------------------------------------------------------------------------
