@@ -27733,3 +27733,46 @@ Is init: True
 
 Random---Random now has $1895.8379593791715
 ---------------------------------------------------------------------------
+[2022-06-04 21:57:19] SOLD
+Random---Random has sold: 
+Name: MULTIUSD
+Altname: MULTIUSD
+Wsname: MULTI/USD
+Base:
+ 	Name: MULTI
+	Altname: MULTI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (MULTIUSD):
+	Current:                    4.715
+	Maximum:                    0.215657
+	Minimum:                    0.198295
+	Variance:                   0.080508
+	Mean:                       0.208421
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.714286
+	Is ascending:               True
+	Current ascension duration: 90
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.25
+	Is falling:                 True
+	Current fall duration:      392
+	Trending downwards:         True
+	Average local maximum:      4.912
+	Number of local maximums:   7
+	Average local minimum:      4.8565
+	Number of local minimums:   4
+Is init: True
+Profit was -0.52%.
+Random---Random now has $1885.9796019903997
+---------------------------------------------------------------------------

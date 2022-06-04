@@ -3902,3 +3902,7 @@ Random---Twenty-four hours or ten percent now has $825.7434826887293
 Random---Twenty-four hours or ten percent has sold APE for $6.1698. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $821.4496165787479
 ---------------------------------------------------------------------------
+[2022-06-04 21:57:19] BUY
+Random---Twenty-four hours or ten percent has bought OXT for $0.13041
+Random---Twenty-four hours or ten percent now has $821.4496165787479
+---------------------------------------------------------------------------
