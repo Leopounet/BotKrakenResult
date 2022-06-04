@@ -4038,3 +4038,7 @@ Random---Twenty-four hours or ten percent now has $769.6130192143778
 Random---Twenty-four hours or ten percent has sold SDN for $0.367. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $765.6110315144631
 ---------------------------------------------------------------------------
+[2022-06-04 23:38:13] BUY
+Random---Twenty-four hours or ten percent has bought ADA for $0.563674
+Random---Twenty-four hours or ten percent now has $765.6110315144631
+---------------------------------------------------------------------------
