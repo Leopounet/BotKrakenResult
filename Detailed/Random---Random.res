@@ -17972,3 +17972,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $2849.211890604078
 ---------------------------------------------------------------------------
+[2022-06-04 05:04:27] BUY
+Random---Random has bought: 
+Name: NYMUSD
+Altname: NYMUSD
+Wsname: NYM/USD
+Base:
+ 	Name: NYM
+	Altname: NYM
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (NYMUSD):
+	Current:                    0.3588
+	Maximum:                    2.801905
+	Minimum:                    2.5
+	Variance:                   0.10775
+	Mean:                       2.659931
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.045455
+	Is ascending:               True
+	Current ascension duration: 79
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.4
+	Is falling:                 True
+	Current fall duration:      30
+	Trending downwards:         True
+	Average local maximum:      0.3773
+	Number of local maximums:   22
+	Average local minimum:      0.380333
+	Number of local minimums:   15
+Is init: True
+
+Random---Random now has $2849.211890604078
+---------------------------------------------------------------------------

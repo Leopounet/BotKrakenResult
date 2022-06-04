@@ -2562,3 +2562,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1871.4095712397682
 Random---Twenty-four hours or ten percent decreasing has bought ATLAS for $0.00829
 Random---Twenty-four hours or ten percent decreasing now has $1871.4095712397682
 ---------------------------------------------------------------------------
+[2022-06-04 05:04:27] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ATLAS for $0.00829. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1861.6782414693214
+---------------------------------------------------------------------------
