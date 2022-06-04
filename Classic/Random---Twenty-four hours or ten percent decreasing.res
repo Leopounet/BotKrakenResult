@@ -2934,3 +2934,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1472.1927721977154
 Random---Twenty-four hours or ten percent decreasing has sold EWT for $2.731. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1464.5373697822872
 ---------------------------------------------------------------------------
+[2022-06-04 09:45:17] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MNGO for $0.0543
+Random---Twenty-four hours or ten percent decreasing now has $1464.5373697822872
+---------------------------------------------------------------------------
