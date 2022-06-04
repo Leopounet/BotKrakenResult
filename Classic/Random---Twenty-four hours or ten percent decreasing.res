@@ -2714,3 +2714,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1700.9188484503127
 Random---Twenty-four hours or ten percent decreasing has bought RNDR for $0.7178
 Random---Twenty-four hours or ten percent decreasing now has $1700.9188484503127
 ---------------------------------------------------------------------------
+[2022-06-04 06:59:29] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold RNDR for $0.7178. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1692.074070438371
+---------------------------------------------------------------------------
