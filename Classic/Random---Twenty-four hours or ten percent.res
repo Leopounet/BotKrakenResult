@@ -2214,3 +2214,7 @@ Random---Twenty-four hours or ten percent now has $2512.8422015096176
 Random---Twenty-four hours or ten percent has sold ICX for $0.3869. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2499.7754220617676
 ---------------------------------------------------------------------------
+[2022-06-04 00:43:19] BUY
+Random---Twenty-four hours or ten percent has bought NANO for $1.124951
+Random---Twenty-four hours or ten percent now has $2499.7754220617676
+---------------------------------------------------------------------------

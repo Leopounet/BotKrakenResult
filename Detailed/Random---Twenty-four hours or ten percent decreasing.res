@@ -23820,3 +23820,46 @@ Is init: True
 Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $2376.5556235030426
 ---------------------------------------------------------------------------
+[2022-06-04 00:43:19] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: XMLNZUSD
+Altname: MLNUSD
+Wsname: MLN/USD
+Base:
+ 	Name: XMLN
+	Altname: MLN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (XMLNZUSD):
+	Current:                    26.578
+	Maximum:                    0.038388
+	Minimum:                    0.034871
+	Variance:                   0.091607
+	Mean:                       0.036979
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.193548
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.818182
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      26.991161
+	Number of local maximums:   31
+	Average local minimum:      27.198212
+	Number of local minimums:   33
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $2376.5556235030426
+---------------------------------------------------------------------------

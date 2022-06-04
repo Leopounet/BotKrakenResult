@@ -2214,3 +2214,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2386.1000235974325
 Random---Twenty-four hours or ten percent decreasing has sold ZUSD for $1.25922. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $2376.5556235030426
 ---------------------------------------------------------------------------
+[2022-06-04 00:43:19] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XMLN for $26.578
+Random---Twenty-four hours or ten percent decreasing now has $2376.5556235030426
+---------------------------------------------------------------------------
