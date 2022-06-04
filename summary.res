@@ -1,4 +1,4 @@
-[2022-06-04 21:09:25] SUMMARY
+[2022-06-04 21:12:24] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.862
-		Maximum:                    1.17096
-		Minimum:                    1.074114
-		Variance:                   0.082707
-		Mean:                       1.131123
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.1
-		Is ascending:               True
-		Current ascension duration: 26
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.285714
-		Is falling:                 True
-		Current fall duration:      29
-		Trending downwards:         True
-		Average local maximum:      0.887733
-		Number of local maximums:   30
-		Average local minimum:      0.882381
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 2
-Losses: 478
-Total points: -251.72817796717834%
-Wallet: 801.1411565716448
+Losses: 479
+Total points: -252.24817796717835%
+Wallet: 796.9752225574723
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: BALUSD
+	Altname: BALUSD
+	Wsname: BAL/USD
+	Base:
+	 	Name: BAL
+		Altname: BAL
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.15
+	Data about this pair of assets (BALUSD):
+		Current:                    6.71
+		Maximum:                    0.15456
+		Minimum:                    0.141643
+		Variance:                   0.083569
+		Mean:                       0.147249
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.5
+		Is ascending:               True
+		Current ascension duration: 4
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.6
+		Is falling:                 True
+		Current fall duration:      14
+		Trending downwards:         True
+		Average local maximum:      6.781111
+		Number of local maximums:   18
+		Average local minimum:      6.79
+		Number of local minimums:   15
+	Is init: True
 Wins: 19
 Losses: 298
 Total points: -163.9598186059032%

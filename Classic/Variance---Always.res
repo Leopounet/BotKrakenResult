@@ -3842,3 +3842,7 @@ Variance---Always now has $1103.1653011766703
 Variance---Always has bought UST for $0.018
 Variance---Always now has $1103.1653011766703
 ---------------------------------------------------------------------------
+[2022-06-04 21:12:24] SOLD
+Variance---Always has sold UST for $0.018. Profit was -0.4%.
+Variance---Always now has $1098.7526399719636
+---------------------------------------------------------------------------

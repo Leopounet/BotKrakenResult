@@ -41321,3 +41321,46 @@ Is init: True
 
 Variance---Twenty-four hours or ten percent now has $1103.1653011766703
 ---------------------------------------------------------------------------
+[2022-06-04 21:12:24] SOLD
+Variance---Twenty-four hours or ten percent has sold: 
+Name: USTUSD
+Altname: USTUSD
+Wsname: UST/USD
+Base:
+ 	Name: UST
+	Altname: UST
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 100
+Data about this pair of assets (USTUSD):
+	Current:                    0.018
+	Maximum:                    67.980965
+	Minimum:                    44.903458
+	Variance:                   0.33947
+	Mean:                       54.053848
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.36
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.678571
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         False
+	Average local maximum:      0.018752
+	Number of local maximums:   25
+	Average local minimum:      0.018382
+	Number of local minimums:   28
+Is init: True
+Profit was -0.4%.
+Variance---Twenty-four hours or ten percent now has $1098.7526399719636
+---------------------------------------------------------------------------

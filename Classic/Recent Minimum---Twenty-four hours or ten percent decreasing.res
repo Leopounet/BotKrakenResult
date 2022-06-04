@@ -3842,3 +3842,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $826.053649
 Recent Minimum---Twenty-four hours or ten percent decreasing has bought AIR for $0.02717
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $826.053649625742
 ---------------------------------------------------------------------------
+[2022-06-04 21:12:24] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold AIR for $0.02717. Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $821.7581706476881
+---------------------------------------------------------------------------
