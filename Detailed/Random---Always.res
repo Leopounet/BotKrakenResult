@@ -29066,3 +29066,46 @@ Is init: True
 Profit was -0.8665169076353192%.
 Random---Always now has $1478.8988236145176
 ---------------------------------------------------------------------------
+[2022-06-04 06:50:18] BUY
+Random---Always has bought: 
+Name: LUNA2USD
+Altname: LUNA2USD
+Wsname: LUNA2/USD
+Base:
+ 	Name: LUNA2
+	Altname: LUNA2
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (LUNA2USD):
+	Current:                    6.39729
+	Maximum:                    0.161054
+	Minimum:                    0.136893
+	Variance:                   0.150018
+	Mean:                       0.151107
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.64
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.409091
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      6.694888
+	Number of local maximums:   25
+	Average local minimum:      6.671363
+	Number of local minimums:   22
+Is init: True
+
+Random---Always now has $1478.8988236145176
+---------------------------------------------------------------------------

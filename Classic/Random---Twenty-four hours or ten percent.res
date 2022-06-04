@@ -2702,3 +2702,7 @@ Random---Twenty-four hours or ten percent now has $1842.7070585041877
 Random---Twenty-four hours or ten percent has sold ALCX for $29.19. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1833.124981799966
 ---------------------------------------------------------------------------
+[2022-06-04 06:50:18] BUY
+Random---Twenty-four hours or ten percent has bought CRV for $1.18
+Random---Twenty-four hours or ten percent now has $1833.124981799966
+---------------------------------------------------------------------------
