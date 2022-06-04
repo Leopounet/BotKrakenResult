@@ -40547,3 +40547,46 @@ Is init: True
 
 Recent Minimum---Twenty-four hours or ten percent now has $864.6945129656339
 ---------------------------------------------------------------------------
+[2022-06-04 20:18:45] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold: 
+Name: BNTUSD
+Altname: BNTUSD
+Wsname: BNT/USD
+Base:
+ 	Name: BNT
+	Altname: BNT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (BNTUSD):
+	Current:                    1.214
+	Maximum:                    0.838926
+	Minimum:                    0.791766
+	Variance:                   0.056215
+	Mean:                       0.818587
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.166667
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.842105
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         True
+	Average local maximum:      1.226833
+	Number of local maximums:   18
+	Average local minimum:      1.234158
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent now has $860.1981014982126
+---------------------------------------------------------------------------

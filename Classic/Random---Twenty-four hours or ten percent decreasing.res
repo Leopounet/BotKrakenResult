@@ -3770,3 +3770,7 @@ Random---Twenty-four hours or ten percent decreasing now has $824.64243115766
 Random---Twenty-four hours or ten percent decreasing has bought KINT for $4.44
 Random---Twenty-four hours or ten percent decreasing now has $824.64243115766
 ---------------------------------------------------------------------------
+[2022-06-04 20:18:45] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold KINT for $4.44. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $820.3542905156402
+---------------------------------------------------------------------------

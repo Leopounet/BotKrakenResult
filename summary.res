@@ -1,4 +1,4 @@
-[2022-06-04 20:15:44] SUMMARY
+[2022-06-04 20:18:45] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.862
-		Maximum:                    1.17096
-		Minimum:                    1.074114
-		Variance:                   0.082707
-		Mean:                       1.130115
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.032258
-		Is ascending:               True
-		Current ascension duration: 15
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.428571
-		Is falling:                 True
-		Current fall duration:      18
-		Trending downwards:         True
-		Average local maximum:      0.888452
-		Number of local maximums:   31
-		Average local minimum:      0.882048
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 2
-Losses: 469
-Total points: -247.04817796717825%
-Wallet: 839.6282719109835
+Losses: 470
+Total points: -247.56817796717826%
+Wallet: 835.2622048970463
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: EWTUSD
+	Altname: EWTUSD
+	Wsname: EWT/USD
+	Base:
+	 	Name: EWT
+		Altname: EWT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.5
+	Data about this pair of assets (EWTUSD):
+		Current:                    2.7
+		Maximum:                    0.384615
+		Minimum:                    0.339559
+		Variance:                   0.117148
+		Mean:                       0.362704
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.0
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.5
+		Is falling:                 True
+		Current fall duration:      8
+		Trending downwards:         False
+		Average local maximum:      2.759242
+		Number of local maximums:   33
+		Average local minimum:      2.770955
+		Number of local minimums:   22
+	Is init: True
 Wins: 19
 Losses: 291
 Total points: -160.2795337513492%
