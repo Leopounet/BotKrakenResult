@@ -3070,3 +3070,7 @@ Random---Twenty-four hours or ten percent now has $1473.107122471464
 Random---Twenty-four hours or ten percent has sold USDT for $0.9991. Profit was -0.38998998998998025%.
 Random---Twenty-four hours or ten percent now has $1467.3621521519958
 ---------------------------------------------------------------------------
+[2022-06-04 11:28:25] BUY
+Random---Twenty-four hours or ten percent has bought NANO for $1.162606
+Random---Twenty-four hours or ten percent now has $1467.3621521519958
+---------------------------------------------------------------------------
