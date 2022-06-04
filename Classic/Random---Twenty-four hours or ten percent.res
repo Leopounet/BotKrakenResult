@@ -3846,3 +3846,7 @@ Random---Twenty-four hours or ten percent now has $857.455326696946
 Random---Twenty-four hours or ten percent has sold OMG for $2.42248. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $852.9965589981219
 ---------------------------------------------------------------------------
+[2022-06-04 21:15:21] BUY
+Random---Twenty-four hours or ten percent has bought SPELL for $0.00127
+Random---Twenty-four hours or ten percent now has $852.9965589981219
+---------------------------------------------------------------------------

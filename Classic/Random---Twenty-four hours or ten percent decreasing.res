@@ -3846,3 +3846,7 @@ Random---Twenty-four hours or ten percent decreasing now has $787.3627375081926
 Random---Twenty-four hours or ten percent decreasing has sold XXLM for $0.143682. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $783.26845127315
 ---------------------------------------------------------------------------
+[2022-06-04 21:15:21] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SUSHI for $1.573
+Random---Twenty-four hours or ten percent decreasing now has $783.26845127315
+---------------------------------------------------------------------------
