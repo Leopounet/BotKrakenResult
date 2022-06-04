@@ -37494,3 +37494,46 @@ Is init: True
 Profit was -0.5358528852251094%.
 Random---Twenty-four hours or ten percent decreasing now has $983.8781894819672
 ---------------------------------------------------------------------------
+[2022-06-04 16:46:45] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: RUNEUSD
+Altname: RUNEUSD
+Wsname: RUNE/USD
+Base:
+ 	Name: RUNE
+	Altname: RUNE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (RUNEUSD):
+	Current:                    2.761
+	Maximum:                    0.4
+	Minimum:                    0.353357
+	Variance:                   0.116608
+	Mean:                       0.372383
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.130435
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.875
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      2.694739
+	Number of local maximums:   23
+	Average local minimum:      2.695083
+	Number of local minimums:   24
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $983.8781894819672
+---------------------------------------------------------------------------
