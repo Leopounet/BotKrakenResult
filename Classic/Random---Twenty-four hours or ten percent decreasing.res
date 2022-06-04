@@ -2398,3 +2398,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2087.22675543076
 Random---Twenty-four hours or ten percent decreasing has sold SGB for $0.038. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2076.3731763025203
 ---------------------------------------------------------------------------
+[2022-06-04 02:59:39] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RARI for $2.61
+Random---Twenty-four hours or ten percent decreasing now has $2076.3731763025203
+---------------------------------------------------------------------------
