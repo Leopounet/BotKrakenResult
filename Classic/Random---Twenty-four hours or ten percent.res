@@ -2546,3 +2546,7 @@ Random---Twenty-four hours or ten percent now has $2030.2166967710716
 Random---Twenty-four hours or ten percent has bought GMT for $1.007
 Random---Twenty-four hours or ten percent now has $2030.2166967710716
 ---------------------------------------------------------------------------
+[2022-06-04 04:52:16] SOLD
+Random---Twenty-four hours or ten percent has sold GMT for $1.007. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2019.659569947862
+---------------------------------------------------------------------------
