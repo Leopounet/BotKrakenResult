@@ -3938,3 +3938,7 @@ Random---Twenty-four hours or ten percent now has $810.3927597759971
 Random---Twenty-four hours or ten percent has bought ZGBP for $1.24944
 Random---Twenty-four hours or ten percent now has $810.3927597759971
 ---------------------------------------------------------------------------
+[2022-06-04 22:24:04] SOLD
+Random---Twenty-four hours or ten percent has sold ZGBP for $1.24955. Profit was -0.3911960558330204%.
+Random---Twenty-four hours or ten percent now has $807.222535262997
+---------------------------------------------------------------------------
