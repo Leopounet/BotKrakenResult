@@ -2706,3 +2706,7 @@ Random---Twenty-four hours or ten percent now has $1833.124981799966
 Random---Twenty-four hours or ten percent has bought CRV for $1.18
 Random---Twenty-four hours or ten percent now has $1833.124981799966
 ---------------------------------------------------------------------------
+[2022-06-04 06:53:30] SOLD
+Random---Twenty-four hours or ten percent has sold CRV for $1.183. Profit was -0.26576271186439415%.
+Random---Twenty-four hours or ten percent now has $1828.2532191364708
+---------------------------------------------------------------------------
