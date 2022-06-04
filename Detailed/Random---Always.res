@@ -38354,3 +38354,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $852.4099936663245
 ---------------------------------------------------------------------------
+[2022-06-04 17:46:41] BUY
+Random---Always has bought: 
+Name: ZUSDZJPY
+Altname: USDJPY
+Wsname: USD/JPY
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZJPY
+	Altname: JPY
+	decimals: 2
+	displayed_decimals: 0
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (ZUSDZJPY):
+	Current:                    130.736
+	Maximum:                    0.007751
+	Minimum:                    0.007615
+	Variance:                   0.017545
+	Mean:                       0.007663
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 192
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      34
+	Trending downwards:         False
+	Average local maximum:      130.403667
+	Number of local maximums:   6
+	Average local minimum:      130.98825
+	Number of local minimums:   4
+Is init: True
+
+Random---Always now has $852.4099936663245
+---------------------------------------------------------------------------
