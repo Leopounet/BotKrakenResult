@@ -27303,3 +27303,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1900.9098300665203
 ---------------------------------------------------------------------------
+[2022-06-04 04:46:23] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: ENJUSD
+Altname: ENJUSD
+Wsname: ENJ/USD
+Base:
+ 	Name: ENJ
+	Altname: ENJ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (ENJUSD):
+	Current:                    0.614
+	Maximum:                    1.672241
+	Minimum:                    1.526718
+	Variance:                   0.087023
+	Mean:                       1.590779
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.206897
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.806452
+	Is falling:                 True
+	Current fall duration:      13
+	Trending downwards:         True
+	Average local maximum:      0.630828
+	Number of local maximums:   29
+	Average local minimum:      0.629677
+	Number of local minimums:   31
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1891.0250989501744
+---------------------------------------------------------------------------
