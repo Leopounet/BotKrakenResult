@@ -2302,3 +2302,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2258.3518741800067
 Random---Twenty-four hours or ten percent decreasing has sold USDT for $0.999. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $2249.3184666832867
 ---------------------------------------------------------------------------
+[2022-06-04 01:48:10] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BCH for $181.64
+Random---Twenty-four hours or ten percent decreasing now has $2249.3184666832867
+---------------------------------------------------------------------------

@@ -24766,3 +24766,46 @@ Is init: True
 Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $2365.0546813217184
 ---------------------------------------------------------------------------
+[2022-06-04 01:48:10] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: LPTUSD
+Altname: LPTUSD
+Wsname: LPT/USD
+Base:
+ 	Name: LPT
+	Altname: LPT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (LPTUSD):
+	Current:                    12.01
+	Maximum:                    0.085324
+	Minimum:                    0.075188
+	Variance:                   0.118797
+	Mean:                       0.082673
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.666667
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.375
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      12.084444
+	Number of local maximums:   18
+	Average local minimum:      12.076875
+	Number of local minimums:   16
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $2365.0546813217184
+---------------------------------------------------------------------------

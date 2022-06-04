@@ -2302,3 +2302,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $2304.4381325153518
 Recent Minimum---Twenty-four hours or ten percent has sold ALCX for $29.61. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $2292.455054226272
 ---------------------------------------------------------------------------
+[2022-06-04 01:48:10] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought ADA for $0.553017
+Recent Minimum---Twenty-four hours or ten percent now has $2292.455054226272
+---------------------------------------------------------------------------
