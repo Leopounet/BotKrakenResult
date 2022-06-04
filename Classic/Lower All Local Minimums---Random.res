@@ -2390,3 +2390,7 @@ Lower All Local Minimums---Random now has $2387.169531030057
 Lower All Local Minimums---Random has sold DAI for $0.99967. Profit was -0.4%.
 Lower All Local Minimums---Random now has $2377.6208529059368
 ---------------------------------------------------------------------------
+[2022-06-04 18:19:32] BUY
+Lower All Local Minimums---Random has bought FTM for $0.349
+Lower All Local Minimums---Random now has $2377.6208529059368
+---------------------------------------------------------------------------
