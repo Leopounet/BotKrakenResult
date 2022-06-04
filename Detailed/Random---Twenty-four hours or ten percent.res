@@ -27819,3 +27819,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1979.9174054304729
 ---------------------------------------------------------------------------
+[2022-06-04 05:22:09] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: MASKUSD
+Altname: MASKUSD
+Wsname: MASK/USD
+Base:
+ 	Name: MASK
+	Altname: MASK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (MASKUSD):
+	Current:                    1.751
+	Maximum:                    0.598444
+	Minimum:                    0.531067
+	Variance:                   0.112586
+	Mean:                       0.569854
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.357143
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.818182
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.754179
+	Number of local maximums:   28
+	Average local minimum:      1.760409
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1969.6218349222345
+---------------------------------------------------------------------------

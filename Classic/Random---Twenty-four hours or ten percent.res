@@ -2586,3 +2586,7 @@ Random---Twenty-four hours or ten percent now has $1979.9174054304729
 Random---Twenty-four hours or ten percent has bought MASK for $1.751
 Random---Twenty-four hours or ten percent now has $1979.9174054304729
 ---------------------------------------------------------------------------
+[2022-06-04 05:22:09] SOLD
+Random---Twenty-four hours or ten percent has sold MASK for $1.751. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1969.6218349222345
+---------------------------------------------------------------------------
