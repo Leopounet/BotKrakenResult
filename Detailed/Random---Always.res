@@ -40461,3 +40461,46 @@ Is init: True
 
 Random---Always now has $776.353841717627
 ---------------------------------------------------------------------------
+[2022-06-04 20:12:46] SOLD
+Random---Always has sold: 
+Name: LINKUSD
+Altname: LINKUSD
+Wsname: LINK/USD
+Base:
+ 	Name: LINK
+	Altname: LINK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (LINKUSD):
+	Current:                    7.05975
+	Maximum:                    0.149208
+	Minimum:                    0.138402
+	Variance:                   0.072418
+	Mean:                       0.144239
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.230769
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.785714
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         False
+	Average local maximum:      6.941074
+	Number of local maximums:   26
+	Average local minimum:      6.907892
+	Number of local minimums:   28
+Is init: True
+Profit was -0.5663189206416748%.
+Random---Always now has $771.9572030208516
+---------------------------------------------------------------------------
