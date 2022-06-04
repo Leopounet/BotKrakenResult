@@ -2582,3 +2582,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1851.997514613681
 Random---Twenty-four hours or ten percent decreasing has sold ZGBP for $1.24944. Profit was -0.3887937244857028%.
 Random---Twenty-four hours or ten percent decreasing now has $1844.7970644992317
 ---------------------------------------------------------------------------
+[2022-06-04 05:19:12] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SBR for $0.00904
+Random---Twenty-four hours or ten percent decreasing now has $1844.7970644992317
+---------------------------------------------------------------------------

@@ -2582,3 +2582,7 @@ Random---Twenty-four hours or ten percent now has $1988.316431460697
 Random---Twenty-four hours or ten percent has sold XXMR for $194.9. Profit was -0.42241898207590234%.
 Random---Twenty-four hours or ten percent now has $1979.9174054304729
 ---------------------------------------------------------------------------
+[2022-06-04 05:19:12] BUY
+Random---Twenty-four hours or ten percent has bought MASK for $1.751
+Random---Twenty-four hours or ten percent now has $1979.9174054304729
+---------------------------------------------------------------------------
