@@ -32979,3 +32979,46 @@ Is init: True
 
 Random---Always now has $1173.1300100239541
 ---------------------------------------------------------------------------
+[2022-06-04 11:25:26] SOLD
+Random---Always has sold: 
+Name: KINTUSD
+Altname: KINTUSD
+Wsname: KINT/USD
+Base:
+ 	Name: KINT
+	Altname: KINT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (KINTUSD):
+	Current:                    4.29
+	Maximum:                    0.318471
+	Minimum:                    0.21692
+	Variance:                   0.318872
+	Mean:                       0.258521
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.727273
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.210526
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         False
+	Average local maximum:      3.921515
+	Number of local maximums:   33
+	Average local minimum:      4.002632
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Random---Always now has $1167.0297339718295
+---------------------------------------------------------------------------
