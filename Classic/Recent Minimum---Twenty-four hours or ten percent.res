@@ -2254,3 +2254,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $2377.6635141841202
 Recent Minimum---Twenty-four hours or ten percent has sold ALCX for $29.61. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $2365.2996639103626
 ---------------------------------------------------------------------------
+[2022-06-04 01:12:48] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought ALCX for $29.61
+Recent Minimum---Twenty-four hours or ten percent now has $2365.2996639103626
+---------------------------------------------------------------------------

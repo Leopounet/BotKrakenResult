@@ -2254,3 +2254,7 @@ Random---Twenty-four hours or ten percent now has $2448.1842527214076
 Random---Twenty-four hours or ten percent has sold UNI for $5.026. Profit was -0.3605739338381837%.
 Random---Twenty-four hours or ten percent now has $2439.3567384537632
 ---------------------------------------------------------------------------
+[2022-06-04 01:12:48] BUY
+Random---Twenty-four hours or ten percent has bought XZEC for $88.61
+Random---Twenty-four hours or ten percent now has $2439.3567384537632
+---------------------------------------------------------------------------
