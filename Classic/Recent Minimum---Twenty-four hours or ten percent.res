@@ -2902,3 +2902,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $1542.8539294043417
 Recent Minimum---Twenty-four hours or ten percent has sold ACA for $0.369. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $1534.8310889714392
 ---------------------------------------------------------------------------
+[2022-06-04 09:21:25] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought AAVE for $106.3
+Recent Minimum---Twenty-four hours or ten percent now has $1534.8310889714392
+---------------------------------------------------------------------------
