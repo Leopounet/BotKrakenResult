@@ -2798,3 +2798,7 @@ Random---Twenty-four hours or ten percent now has $1737.471440272737
 Random---Twenty-four hours or ten percent has sold MINA for $0.837. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1728.4365887833187
 ---------------------------------------------------------------------------
+[2022-06-04 08:04:08] BUY
+Random---Twenty-four hours or ten percent has bought OXT for $0.12987
+Random---Twenty-four hours or ten percent now has $1728.4365887833187
+---------------------------------------------------------------------------

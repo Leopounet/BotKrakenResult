@@ -2798,3 +2798,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1614.5123063931392
 Random---Twenty-four hours or ten percent decreasing has sold USDC for $1.0. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $1608.0542571675667
 ---------------------------------------------------------------------------
+[2022-06-04 08:04:08] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ASTR for $0.0601
+Random---Twenty-four hours or ten percent decreasing now has $1608.0542571675667
+---------------------------------------------------------------------------
