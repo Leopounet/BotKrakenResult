@@ -2726,3 +2726,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1692.074070438371
 Random---Twenty-four hours or ten percent decreasing has sold BICO for $0.696. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1683.2752852720917
 ---------------------------------------------------------------------------
+[2022-06-04 07:08:51] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MINA for $0.836
+Random---Twenty-four hours or ten percent decreasing now has $1683.2752852720917
+---------------------------------------------------------------------------

@@ -2726,3 +2726,7 @@ Recent Minimum---Always now has $1730.3650147562018
 Recent Minimum---Always has sold 1INCH for $0.865. Profit was -0.52%.
 Recent Minimum---Always now has $1721.3671166794695
 ---------------------------------------------------------------------------
+[2022-06-04 07:08:51] BUY
+Recent Minimum---Always has bought ACA for $0.369
+Recent Minimum---Always now has $1721.3671166794695
+---------------------------------------------------------------------------
