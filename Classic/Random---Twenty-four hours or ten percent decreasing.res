@@ -3294,3 +3294,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1118.282471752521
 Random---Twenty-four hours or ten percent decreasing has sold ENJ for $0.606. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1112.4674028994077
 ---------------------------------------------------------------------------
+[2022-06-04 14:21:46] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LUNA2 for $6.34935
+Random---Twenty-four hours or ten percent decreasing now has $1112.4674028994077
+---------------------------------------------------------------------------
