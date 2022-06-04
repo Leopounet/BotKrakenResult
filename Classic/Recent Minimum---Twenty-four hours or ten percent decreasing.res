@@ -2738,3 +2738,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $1712.41600
 Recent Minimum---Twenty-four hours or ten percent decreasing has bought ACA for $0.369
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $1712.4160076727362
 ---------------------------------------------------------------------------
+[2022-06-04 07:18:08] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold ACA for $0.369. Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $1703.511444432838
+---------------------------------------------------------------------------

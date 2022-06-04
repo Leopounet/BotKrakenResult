@@ -1858,3 +1858,7 @@ Recent Minimum---Random now has $2832.388483362661
 Recent Minimum---Random has bought PSTAKE for $0.2279
 Recent Minimum---Random now has $2832.388483362661
 ---------------------------------------------------------------------------
+[2022-06-04 07:18:08] SOLD
+Recent Minimum---Random has sold PSTAKE for $0.2279. Profit was -0.52%.
+Recent Minimum---Random now has $2817.6600632491754
+---------------------------------------------------------------------------
