@@ -28937,3 +28937,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1852.3392224609847
 ---------------------------------------------------------------------------
+[2022-06-04 06:41:18] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: KINUSD
+Altname: KINUSD
+Wsname: KIN/USD
+Base:
+ 	Name: KIN
+	Altname: KIN
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250000
+Data about this pair of assets (KINUSD):
+	Current:                    1.6e-05
+	Maximum:                    71839.08046
+	Minimum:                    61199.510404
+	Variance:                   0.148103
+	Mean:                       68049.942318
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.75
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.142857
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         False
+	Average local maximum:      1.5e-05
+	Number of local maximums:   36
+	Average local minimum:      1.5e-05
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1842.7070585041877
+---------------------------------------------------------------------------

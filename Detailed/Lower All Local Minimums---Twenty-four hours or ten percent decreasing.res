@@ -28937,3 +28937,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2029.141237108401
 ---------------------------------------------------------------------------
+[2022-06-04 06:41:18] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold: 
+Name: ANTUSD
+Altname: ANTUSD
+Wsname: ANT/USD
+Base:
+ 	Name: ANT
+	Altname: ANT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (ANTUSD):
+	Current:                    1.7801
+	Maximum:                    0.57867
+	Minimum:                    0.479731
+	Variance:                   0.170976
+	Mean:                       0.543177
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.413793
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.636364
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.833783
+	Number of local maximums:   29
+	Average local minimum:      1.839473
+	Number of local minimums:   33
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2018.5897026754371
+---------------------------------------------------------------------------
