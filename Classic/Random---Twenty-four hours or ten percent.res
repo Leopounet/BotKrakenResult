@@ -4030,3 +4030,7 @@ Random---Twenty-four hours or ten percent now has $773.6359260297324
 Random---Twenty-four hours or ten percent has sold BAT for $0.37966. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $769.6130192143778
 ---------------------------------------------------------------------------
+[2022-06-04 23:32:15] BUY
+Random---Twenty-four hours or ten percent has bought SDN for $0.367
+Random---Twenty-four hours or ten percent now has $769.6130192143778
+---------------------------------------------------------------------------
