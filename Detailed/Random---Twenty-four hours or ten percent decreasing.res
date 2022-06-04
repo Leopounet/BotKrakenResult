@@ -34742,3 +34742,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1167.6360337349302
 ---------------------------------------------------------------------------
+[2022-06-04 13:32:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: ZUSDZCAD
+Altname: USDCAD
+Wsname: USD/CAD
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZCAD
+	Altname: CAD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (ZUSDZCAD):
+	Current:                    1.26048
+	Maximum:                    0.796806
+	Minimum:                    0.788724
+	Variance:                   0.010143
+	Mean:                       0.793753
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.272727
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.96
+	Is falling:                 True
+	Current fall duration:      7
+	Trending downwards:         True
+	Average local maximum:      1.25968
+	Number of local maximums:   33
+	Average local minimum:      1.258672
+	Number of local minimums:   25
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $1167.6360337349302
+---------------------------------------------------------------------------

@@ -22487,3 +22487,46 @@ Is init: True
 
 Random---Random now has $2259.8302255311805
 ---------------------------------------------------------------------------
+[2022-06-04 13:32:16] SOLD
+Random---Random has sold: 
+Name: INJUSD
+Altname: INJUSD
+Wsname: INJ/USD
+Base:
+ 	Name: INJ
+	Altname: INJ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (INJUSD):
+	Current:                    2.008
+	Maximum:                    0.502008
+	Minimum:                    0.467508
+	Variance:                   0.068724
+	Mean:                       0.485009
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.857143
+	Is ascending:               True
+	Current ascension duration: 18
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.846154
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      2.05681
+	Number of local maximums:   21
+	Average local minimum:      2.072615
+	Number of local minimums:   13
+Is init: True
+Profit was 0.8744223107569709%.
+Random---Random now has $2279.590685208455
+---------------------------------------------------------------------------

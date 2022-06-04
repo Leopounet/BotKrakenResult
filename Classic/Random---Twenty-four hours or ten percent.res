@@ -3230,3 +3230,7 @@ Random---Twenty-four hours or ten percent now has $1340.7075365800508
 Random---Twenty-four hours or ten percent has sold WOO for $0.1547. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1333.7358573898346
 ---------------------------------------------------------------------------
+[2022-06-04 13:32:16] BUY
+Random---Twenty-four hours or ten percent has bought BADGER for $5.744
+Random---Twenty-four hours or ten percent now has $1333.7358573898346
+---------------------------------------------------------------------------

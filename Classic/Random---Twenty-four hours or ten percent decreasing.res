@@ -3230,3 +3230,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1173.7394790258647
 Random---Twenty-four hours or ten percent decreasing has sold API3 for $1.515. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1167.6360337349302
 ---------------------------------------------------------------------------
+[2022-06-04 13:32:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZUSD for $1.26048
+Random---Twenty-four hours or ten percent decreasing now has $1167.6360337349302
+---------------------------------------------------------------------------
