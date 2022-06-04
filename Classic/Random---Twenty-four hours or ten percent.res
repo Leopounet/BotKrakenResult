@@ -3942,3 +3942,7 @@ Random---Twenty-four hours or ten percent now has $810.3927597759971
 Random---Twenty-four hours or ten percent has sold ZGBP for $1.24955. Profit was -0.3911960558330204%.
 Random---Twenty-four hours or ten percent now has $807.222535262997
 ---------------------------------------------------------------------------
+[2022-06-04 22:27:00] BUY
+Random---Twenty-four hours or ten percent has bought INJ for $2.044
+Random---Twenty-four hours or ten percent now has $807.222535262997
+---------------------------------------------------------------------------
