@@ -3258,3 +3258,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1151.1221111254279
 Random---Twenty-four hours or ten percent decreasing has bought ROOK for $35.47
 Random---Twenty-four hours or ten percent decreasing now has $1151.1221111254279
 ---------------------------------------------------------------------------
+[2022-06-04 13:53:47] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ROOK for $35.47. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1145.1362761475757
+---------------------------------------------------------------------------
