@@ -2446,3 +2446,7 @@ Lower All Local Minimums---Always now has $2389.790193100453
 Lower All Local Minimums---Always has sold BAT for $0.37166. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2377.3632840963305
 ---------------------------------------------------------------------------
+[2022-06-04 03:36:17] BUY
+Lower All Local Minimums---Always has bought PERP for $1.228
+Lower All Local Minimums---Always now has $2377.3632840963305
+---------------------------------------------------------------------------
