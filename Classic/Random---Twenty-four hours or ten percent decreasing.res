@@ -2234,3 +2234,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2351.9037070826703
 Random---Twenty-four hours or ten percent decreasing has bought XMLN for $26.578
 Random---Twenty-four hours or ten percent decreasing now has $2351.9037070826703
 ---------------------------------------------------------------------------
+[2022-06-04 00:58:02] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XMLN for $26.578. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $2339.67380780584
+---------------------------------------------------------------------------
