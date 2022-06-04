@@ -3354,3 +3354,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $1422.424147
 Lower All Local Minimums---Twenty-four hours or ten percent has bought ZAUD for $0.71987
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1422.424147255265
 ---------------------------------------------------------------------------
+[2022-06-04 15:08:15] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold ZAUD for $0.71987. Profit was -0.4%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1416.7344506662441
+---------------------------------------------------------------------------
