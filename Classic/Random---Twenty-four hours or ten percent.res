@@ -2654,3 +2654,7 @@ Random---Twenty-four hours or ten percent now has $1901.3271429741355
 Random---Twenty-four hours or ten percent has sold LINK for $6.88331. Profit was -0.6433347988409572%.
 Random---Twenty-four hours or ten percent now has $1889.0952438235743
 ---------------------------------------------------------------------------
+[2022-06-04 06:13:55] BUY
+Random---Twenty-four hours or ten percent has bought YFI for $7399.0
+Random---Twenty-four hours or ten percent now has $1889.0952438235743
+---------------------------------------------------------------------------
