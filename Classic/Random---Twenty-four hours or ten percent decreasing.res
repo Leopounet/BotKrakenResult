@@ -3198,3 +3198,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1197.4741887019618
 Random---Twenty-four hours or ten percent decreasing has sold ALCX for $29.75. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1191.2473229207117
 ---------------------------------------------------------------------------
+[2022-06-04 13:08:09] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LDO for $1.009
+Random---Twenty-four hours or ten percent decreasing now has $1191.2473229207117
+---------------------------------------------------------------------------
