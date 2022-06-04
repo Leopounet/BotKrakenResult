@@ -1,4 +1,4 @@
-[2022-06-04 19:12:52] SUMMARY
+[2022-06-04 19:15:50] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.862
+		Maximum:                    1.17096
+		Minimum:                    1.074114
+		Variance:                   0.082707
+		Mean:                       1.129018
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.96875
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.571429
+		Is falling:                 True
+		Current fall duration:      6
+		Trending downwards:         True
+		Average local maximum:      0.889406
+		Number of local maximums:   32
+		Average local minimum:      0.882476
+		Number of local minimums:   21
+	Is init: True
 Wins: 2
 Losses: 459
 Total points: -241.84817796717815%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: API3USD
-	Altname: API3USD
-	Wsname: API3/USD
-	Base:
-	 	Name: API3
-		Altname: API3
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (API3USD):
-		Current:                    1.483
-		Maximum:                    0.679348
-		Minimum:                    0.620732
-		Variance:                   0.086282
-		Mean:                       0.648326
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.538462
-		Is ascending:               True
-		Current ascension duration: 53
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.545455
-		Is falling:                 True
-		Current fall duration:      20
-		Trending downwards:         True
-		Average local maximum:      1.532308
-		Number of local maximums:   13
-		Average local minimum:      1.549091
-		Number of local minimums:   11
-	Is init: True
+	None
 Wins: 18
-Losses: 286
-Total points: -157.73263904800447%
-Wallet: 2034.144241730525
+Losses: 287
+Total points: -158.25263904800448%
+Wallet: 2023.5666916735263
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

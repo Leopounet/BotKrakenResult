@@ -3686,3 +3686,7 @@ Random---Twenty-four hours or ten percent now has $968.35348213191
 Random---Twenty-four hours or ten percent has sold AKT for $0.3914. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $963.3180440248241
 ---------------------------------------------------------------------------
+[2022-06-04 19:15:50] BUY
+Random---Twenty-four hours or ten percent has bought UNI for $5.084
+Random---Twenty-four hours or ten percent now has $963.3180440248241
+---------------------------------------------------------------------------

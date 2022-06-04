@@ -39644,3 +39644,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $963.3180440248241
 ---------------------------------------------------------------------------
+[2022-06-04 19:15:50] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: UNIUSD
+Altname: UNIUSD
+Wsname: UNI/USD
+Base:
+ 	Name: UNI
+	Altname: UNI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (UNIUSD):
+	Current:                    5.084
+	Maximum:                    0.202758
+	Minimum:                    0.187547
+	Variance:                   0.075019
+	Mean:                       0.194736
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.928571
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.666667
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      5.154857
+	Number of local maximums:   28
+	Average local minimum:      5.131889
+	Number of local minimums:   18
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $963.3180440248241
+---------------------------------------------------------------------------

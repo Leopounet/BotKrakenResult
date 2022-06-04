@@ -3686,3 +3686,7 @@ Random---Twenty-four hours or ten percent decreasing now has $871.0924009650471
 Random---Twenty-four hours or ten percent decreasing has sold UMA for $3.025. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $866.5627204800288
 ---------------------------------------------------------------------------
+[2022-06-04 19:15:50] BUY
+Random---Twenty-four hours or ten percent decreasing has bought USDT for $0.9991
+Random---Twenty-four hours or ten percent decreasing now has $866.5627204800288
+---------------------------------------------------------------------------
