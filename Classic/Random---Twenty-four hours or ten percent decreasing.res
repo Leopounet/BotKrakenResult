@@ -2986,3 +2986,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1390.5974322066174
 Random---Twenty-four hours or ten percent decreasing has bought NYM for $0.3771
 Random---Twenty-four hours or ten percent decreasing now has $1390.5974322066174
 ---------------------------------------------------------------------------
+[2022-06-04 10:25:18] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold NYM for $0.3771. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1383.366325559143
+---------------------------------------------------------------------------
