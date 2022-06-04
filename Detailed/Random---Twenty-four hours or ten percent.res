@@ -29367,3 +29367,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1809.288821624497
 ---------------------------------------------------------------------------
+[2022-06-04 07:11:56] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: ORCAUSD
+Altname: ORCAUSD
+Wsname: ORCA/USD
+Base:
+ 	Name: ORCA
+	Altname: ORCA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (ORCAUSD):
+	Current:                    0.82
+	Maximum:                    1.240695
+	Minimum:                    1.153403
+	Variance:                   0.070358
+	Mean:                       1.203468
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 47
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      179
+	Trending downwards:         True
+	Average local maximum:      0.82625
+	Number of local maximums:   4
+	Average local minimum:      0.8325
+	Number of local minimums:   4
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1799.8805197520496
+---------------------------------------------------------------------------
