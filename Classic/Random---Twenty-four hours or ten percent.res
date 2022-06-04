@@ -3954,3 +3954,7 @@ Random---Twenty-four hours or ten percent now has $803.0249780796294
 Random---Twenty-four hours or ten percent has bought YFI for $7471.0
 Random---Twenty-four hours or ten percent now has $803.0249780796294
 ---------------------------------------------------------------------------
+[2022-06-04 22:35:51] SOLD
+Random---Twenty-four hours or ten percent has sold YFI for $7471.0. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $798.8492481936153
+---------------------------------------------------------------------------

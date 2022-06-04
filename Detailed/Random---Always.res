@@ -42525,3 +42525,46 @@ Is init: True
 
 Random---Always now has $686.3284028992149
 ---------------------------------------------------------------------------
+[2022-06-04 22:35:51] SOLD
+Random---Always has sold: 
+Name: ZRXUSD
+Altname: ZRXUSD
+Wsname: ZRX/USD
+Base:
+ 	Name: ZRX
+	Altname: ZRX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (ZRXUSD):
+	Current:                    0.395
+	Maximum:                    2.638522
+	Minimum:                    2.415459
+	Variance:                   0.084541
+	Mean:                       2.531416
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.954545
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.275862
+	Is falling:                 True
+	Current fall duration:      29
+	Trending downwards:         True
+	Average local maximum:      0.394727
+	Number of local maximums:   22
+	Average local minimum:      0.397276
+	Number of local minimums:   29
+Is init: True
+Profit was -0.52%.
+Random---Always now has $682.759495204139
+---------------------------------------------------------------------------
