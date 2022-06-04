@@ -29281,3 +29281,46 @@ Is init: True
 
 Random---Always now has $1468.6109395783224
 ---------------------------------------------------------------------------
+[2022-06-04 07:05:48] SOLD
+Random---Always has sold: 
+Name: XZECZUSD
+Altname: ZECUSD
+Wsname: ZEC/USD
+Base:
+ 	Name: XZEC
+	Altname: ZEC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.035
+Data about this pair of assets (XZECZUSD):
+	Current:                    89.41
+	Maximum:                    0.011608
+	Minimum:                    0.010749
+	Variance:                   0.073955
+	Mean:                       0.011178
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.357143
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.818182
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      89.684643
+	Number of local maximums:   28
+	Average local minimum:      89.153636
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Always now has $1460.9741626925152
+---------------------------------------------------------------------------

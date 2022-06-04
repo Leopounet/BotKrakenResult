@@ -1854,3 +1854,7 @@ Recent Minimum---Random now has $2847.193891598976
 Recent Minimum---Random has sold 1INCH for $0.865. Profit was -0.52%.
 Recent Minimum---Random now has $2832.388483362661
 ---------------------------------------------------------------------------
+[2022-06-04 07:05:48] BUY
+Recent Minimum---Random has bought PSTAKE for $0.2279
+Recent Minimum---Random now has $2832.388483362661
+---------------------------------------------------------------------------
