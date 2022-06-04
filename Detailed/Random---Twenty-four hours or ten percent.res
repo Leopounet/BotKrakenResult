@@ -24551,3 +24551,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $2401.5003109594354
 ---------------------------------------------------------------------------
+[2022-06-04 01:33:26] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: KAVAUSD
+Altname: KAVAUSD
+Wsname: KAVA/USD
+Base:
+ 	Name: KAVA
+	Altname: KAVA
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (KAVAUSD):
+	Current:                    2.4553
+	Maximum:                    0.409567
+	Minimum:                    0.358654
+	Variance:                   0.12431
+	Mean:                       0.38607
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.631579
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.478261
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      2.589195
+	Number of local maximums:   19
+	Average local minimum:      2.599222
+	Number of local minimums:   23
+Is init: True
+Profit was -0.5159271779415904%.
+Random---Twenty-four hours or ten percent now has $2389.110318176844
+---------------------------------------------------------------------------
