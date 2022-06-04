@@ -2598,3 +2598,7 @@ Recent Minimum---Random now has $1758.1694708949199
 Recent Minimum---Random has sold 1INCH for $0.862. Profit was -0.52%.
 Recent Minimum---Random now has $1749.0269896462662
 ---------------------------------------------------------------------------
+[2022-06-04 20:06:49] BUY
+Recent Minimum---Random has bought BNT for $1.214
+Recent Minimum---Random now has $1749.0269896462662
+---------------------------------------------------------------------------

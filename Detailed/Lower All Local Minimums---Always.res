@@ -40375,3 +40375,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $1145.1177329591324
 ---------------------------------------------------------------------------
+[2022-06-04 20:06:49] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: DAIUSD
+Altname: DAIUSD
+Wsname: DAI/USD
+Base:
+ 	Name: DAI
+	Altname: DAI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (DAIUSD):
+	Current:                    0.99968
+	Maximum:                    1.00054
+	Minimum:                    0.99994
+	Variance:                   0.0006
+	Mean:                       1.000193
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.666667
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.454545
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.999827
+	Number of local maximums:   27
+	Average local minimum:      0.999814
+	Number of local minimums:   33
+Is init: True
+Profit was -0.38999679897566664%.
+Lower All Local Minimums---Always now has $1140.651810456089
+---------------------------------------------------------------------------

@@ -3754,3 +3754,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $873.757969
 Recent Minimum---Twenty-four hours or ten percent decreasing has bought GMT for $0.999
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $873.7579694322357
 ---------------------------------------------------------------------------
+[2022-06-04 20:06:49] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold GMT for $0.999. Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $869.214427991188
+---------------------------------------------------------------------------

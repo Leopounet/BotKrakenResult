@@ -40375,3 +40375,46 @@ Is init: True
 
 Recent Minimum---Twenty-four hours or ten percent now has $873.7579694322357
 ---------------------------------------------------------------------------
+[2022-06-04 20:06:49] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold: 
+Name: GMTUSD
+Altname: GMTUSD
+Wsname: GMT/USD
+Base:
+ 	Name: GMT
+	Altname: GMT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (GMTUSD):
+	Current:                    0.999
+	Maximum:                    1.015228
+	Minimum:                    0.932836
+	Variance:                   0.081157
+	Mean:                       0.979305
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.111111
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.892857
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         False
+	Average local maximum:      1.021667
+	Number of local maximums:   27
+	Average local minimum:      1.024071
+	Number of local minimums:   28
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent now has $869.214427991188
+---------------------------------------------------------------------------

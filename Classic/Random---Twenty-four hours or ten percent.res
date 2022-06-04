@@ -3754,3 +3754,7 @@ Random---Twenty-four hours or ten percent now has $913.3093723648387
 Random---Twenty-four hours or ten percent has bought UST for $0.01774
 Random---Twenty-four hours or ten percent now has $913.3093723648387
 ---------------------------------------------------------------------------
+[2022-06-04 20:06:49] SOLD
+Random---Twenty-four hours or ten percent has sold UST for $0.01774. Profit was -0.4%.
+Random---Twenty-four hours or ten percent now has $909.6561348753794
+---------------------------------------------------------------------------
