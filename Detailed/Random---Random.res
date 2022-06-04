@@ -25411,3 +25411,46 @@ Is init: True
 
 Random---Random now has $1944.017969009031
 ---------------------------------------------------------------------------
+[2022-06-04 17:52:37] SOLD
+Random---Random has sold: 
+Name: GARIUSD
+Altname: GARIUSD
+Wsname: GARI/USD
+Base:
+ 	Name: GARI
+	Altname: GARI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 15
+Data about this pair of assets (GARIUSD):
+	Current:                    0.6185
+	Maximum:                    1.652893
+	Minimum:                    1.577038
+	Variance:                   0.045892
+	Mean:                       1.620081
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.75
+	Is ascending:               True
+	Current ascension duration: 10
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.4
+	Is falling:                 True
+	Current fall duration:      39
+	Trending downwards:         True
+	Average local maximum:      0.6163
+	Number of local maximums:   8
+	Average local minimum:      0.62096
+	Number of local minimums:   10
+Is init: True
+Profit was -0.52%.
+Random---Random now has $1933.909075570184
+---------------------------------------------------------------------------

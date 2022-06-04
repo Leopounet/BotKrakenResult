@@ -3574,3 +3574,7 @@ Random---Twenty-four hours or ten percent decreasing now has $935.1078567798465
 Random---Twenty-four hours or ten percent decreasing has sold WBTC for $29738.6. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $930.2452959245913
 ---------------------------------------------------------------------------
+[2022-06-04 17:52:37] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SNX for $2.697
+Random---Twenty-four hours or ten percent decreasing now has $930.2452959245913
+---------------------------------------------------------------------------

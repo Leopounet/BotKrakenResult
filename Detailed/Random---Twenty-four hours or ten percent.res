@@ -38440,3 +38440,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1032.4590474314962
 ---------------------------------------------------------------------------
+[2022-06-04 17:52:37] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base:
+ 	Name: ACH
+	Altname: ACH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (ACHUSD):
+	Current:                    0.01584
+	Maximum:                    72.886297
+	Minimum:                    52.631579
+	Variance:                   0.277895
+	Mean:                       61.695313
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.470588
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.642857
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         False
+	Average local maximum:      0.015429
+	Number of local maximums:   17
+	Average local minimum:      0.015609
+	Number of local minimums:   14
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1032.4590474314962
+---------------------------------------------------------------------------
