@@ -3518,3 +3518,7 @@ Random---Twenty-four hours or ten percent now has $1095.8540404903176
 Random---Twenty-four hours or ten percent has sold SRM for $1.003. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1090.155599479768
 ---------------------------------------------------------------------------
+[2022-06-04 17:10:49] BUY
+Random---Twenty-four hours or ten percent has bought AUDIO for $0.4027
+Random---Twenty-four hours or ten percent now has $1090.155599479768
+---------------------------------------------------------------------------

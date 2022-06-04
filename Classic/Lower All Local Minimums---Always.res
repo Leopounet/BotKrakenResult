@@ -3518,3 +3518,7 @@ Lower All Local Minimums---Always now has $1278.8627367402923
 Lower All Local Minimums---Always has sold RBC for $0.07975. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1272.2126505092428
 ---------------------------------------------------------------------------
+[2022-06-04 17:10:49] BUY
+Lower All Local Minimums---Always has bought FTM for $0.349
+Lower All Local Minimums---Always now has $1272.2126505092428
+---------------------------------------------------------------------------
