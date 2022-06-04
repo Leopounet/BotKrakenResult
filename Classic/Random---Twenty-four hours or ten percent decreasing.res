@@ -2174,3 +2174,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2449.1182923236574
 Random---Twenty-four hours or ten percent decreasing has sold SHIB for $1.082e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $2436.3828772035745
 ---------------------------------------------------------------------------
+[2022-06-04 00:13:50] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BNT for $1.195
+Random---Twenty-four hours or ten percent decreasing now has $2436.3828772035745
+---------------------------------------------------------------------------

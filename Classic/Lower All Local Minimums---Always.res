@@ -2174,3 +2174,7 @@ Lower All Local Minimums---Always now has $2837.7292121422875
 Lower All Local Minimums---Always has sold CVX for $8.32. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2822.9730202391474
 ---------------------------------------------------------------------------
+[2022-06-04 00:13:50] BUY
+Lower All Local Minimums---Always has bought BAT for $0.37809
+Lower All Local Minimums---Always now has $2822.9730202391474
+---------------------------------------------------------------------------

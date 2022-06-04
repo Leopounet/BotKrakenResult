@@ -23390,3 +23390,46 @@ Is init: True
 Profit was -0.52%.
 Recent Minimum---Always now has $2491.8873424794247
 ---------------------------------------------------------------------------
+[2022-06-04 00:13:50] BUY
+Recent Minimum---Always has bought: 
+Name: ALCXUSD
+Altname: ALCXUSD
+Wsname: ALCX/USD
+Base:
+ 	Name: ALCX
+	Altname: ALCX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (ALCXUSD):
+	Current:                    29.61
+	Maximum:                    0.035676
+	Minimum:                    0.031162
+	Variance:                   0.126519
+	Mean:                       0.034015
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      36
+	Trending downwards:         True
+	Average local maximum:      29.521538
+	Number of local maximums:   13
+	Average local minimum:      29.748462
+	Number of local minimums:   13
+Is init: True
+
+Recent Minimum---Always now has $2491.8873424794247
+---------------------------------------------------------------------------
