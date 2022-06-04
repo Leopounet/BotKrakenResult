@@ -2734,3 +2734,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1683.2752852720917
 Random---Twenty-four hours or ten percent decreasing has sold MINA for $0.836. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1674.5222537886768
 ---------------------------------------------------------------------------
+[2022-06-04 07:15:02] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ROOK for $42.56
+Random---Twenty-four hours or ten percent decreasing now has $1674.5222537886768
+---------------------------------------------------------------------------

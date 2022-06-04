@@ -2734,3 +2734,7 @@ Random---Twenty-four hours or ten percent now has $1809.288821624497
 Random---Twenty-four hours or ten percent has sold ORCA for $0.82. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1799.8805197520496
 ---------------------------------------------------------------------------
+[2022-06-04 07:15:02] BUY
+Random---Twenty-four hours or ten percent has bought KAR for $0.526
+Random---Twenty-four hours or ten percent now has $1799.8805197520496
+---------------------------------------------------------------------------
