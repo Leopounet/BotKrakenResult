@@ -5158,3 +5158,9 @@ Lower All Local Minimums---Twenty-four hours or ten percent has 415 losses
 Lower All Local Minimums---Twenty-four hours or ten percent has -200.41156429905448 points
 Lower All Local Minimums---Twenty-four hours or ten percent now has $1338.5505202544014
 ---------------------------------------------------------------------------
+[2022-06-04 16:10:35] BRIEF
+Lower All Local Minimums---Twenty-four hours or ten percent has 15 wins
+Lower All Local Minimums---Twenty-four hours or ten percent has 415 losses
+Lower All Local Minimums---Twenty-four hours or ten percent has -200.41156429905448 points
+Lower All Local Minimums---Twenty-four hours or ten percent now has $1338.5505202544014
+---------------------------------------------------------------------------

@@ -3438,3 +3438,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1025.3605479874784
 Random---Twenty-four hours or ten percent decreasing has sold LPT for $12.05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1020.0286731379435
 ---------------------------------------------------------------------------
+[2022-06-04 16:10:35] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KP3R for $130.2
+Random---Twenty-four hours or ten percent decreasing now has $1020.0286731379435
+---------------------------------------------------------------------------
