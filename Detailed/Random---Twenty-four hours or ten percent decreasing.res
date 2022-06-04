@@ -27432,3 +27432,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1881.1917684356335
 ---------------------------------------------------------------------------
+[2022-06-04 04:55:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: BONDUSD
+Altname: BONDUSD
+Wsname: BOND/USD
+Base:
+ 	Name: BOND
+	Altname: BOND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (BONDUSD):
+	Current:                    3.429
+	Maximum:                    0.296121
+	Minimum:                    0.28393
+	Variance:                   0.04117
+	Mean:                       0.290977
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.333333
+	Is ascending:               True
+	Current ascension duration: 62
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.857143
+	Is falling:                 True
+	Current fall duration:      121
+	Trending downwards:         True
+	Average local maximum:      3.434
+	Number of local maximums:   9
+	Average local minimum:      3.474143
+	Number of local minimums:   7
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $1881.1917684356335
+---------------------------------------------------------------------------

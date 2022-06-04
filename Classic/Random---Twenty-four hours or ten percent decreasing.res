@@ -2550,3 +2550,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1891.0250989501744
 Random---Twenty-four hours or ten percent decreasing has sold ANT for $1.7858. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1881.1917684356335
 ---------------------------------------------------------------------------
+[2022-06-04 04:55:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BOND for $3.429
+Random---Twenty-four hours or ten percent decreasing now has $1881.1917684356335
+---------------------------------------------------------------------------
