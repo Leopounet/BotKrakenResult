@@ -3366,3 +3366,7 @@ Lower All Local Minimums---Always now has $1416.7344506662441
 Lower All Local Minimums---Always has sold ZAUD for $0.71987. Profit was -0.4%.
 Lower All Local Minimums---Always now has $1411.0675128635792
 ---------------------------------------------------------------------------
+[2022-06-04 15:17:10] BUY
+Lower All Local Minimums---Always has bought FTM for $0.349
+Lower All Local Minimums---Always now has $1411.0675128635792
+---------------------------------------------------------------------------

@@ -2206,3 +2206,7 @@ Lower All Local Minimums---Random now has $2608.026114698723
 Lower All Local Minimums---Random has sold ZAUD for $0.71987. Profit was -0.4%.
 Lower All Local Minimums---Random now has $2597.594010239928
 ---------------------------------------------------------------------------
+[2022-06-04 15:17:10] BUY
+Lower All Local Minimums---Random has bought FTM for $0.349
+Lower All Local Minimums---Random now has $2597.594010239928
+---------------------------------------------------------------------------

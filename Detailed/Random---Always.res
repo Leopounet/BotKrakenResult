@@ -36204,3 +36204,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $973.9238914922286
 ---------------------------------------------------------------------------
+[2022-06-04 15:17:10] BUY
+Random---Always has bought: 
+Name: KARUSD
+Altname: KARUSD
+Wsname: KAR/USD
+Base:
+ 	Name: KAR
+	Altname: KAR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (KARUSD):
+	Current:                    0.557
+	Maximum:                    1.972387
+	Minimum:                    1.760563
+	Variance:                   0.107394
+	Mean:                       1.874367
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.928571
+	Is ascending:               True
+	Current ascension duration: 35
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.666667
+	Is falling:                 True
+	Current fall duration:      38
+	Trending downwards:         False
+	Average local maximum:      0.530929
+	Number of local maximums:   14
+	Average local minimum:      0.531333
+	Number of local minimums:   9
+Is init: True
+
+Random---Always now has $973.9238914922286
+---------------------------------------------------------------------------

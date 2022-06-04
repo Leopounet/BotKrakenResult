@@ -3366,3 +3366,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1074.4458548434038
 Random---Twenty-four hours or ten percent decreasing has sold MANA for $0.98367. Profit was -0.5535365853658454%.
 Random---Twenty-four hours or ten percent decreasing now has $1068.4984039468989
 ---------------------------------------------------------------------------
+[2022-06-04 15:17:10] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GHST for $1.4755
+Random---Twenty-four hours or ten percent decreasing now has $1068.4984039468989
+---------------------------------------------------------------------------
