@@ -3206,3 +3206,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1191.2473229207117
 Random---Twenty-four hours or ten percent decreasing has sold LDO for $1.009. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1185.052836841524
 ---------------------------------------------------------------------------
+[2022-06-04 13:14:20] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AKT for $0.3845
+Random---Twenty-four hours or ten percent decreasing now has $1185.052836841524
+---------------------------------------------------------------------------

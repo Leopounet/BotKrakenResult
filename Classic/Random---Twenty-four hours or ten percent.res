@@ -3206,3 +3206,7 @@ Random---Twenty-four hours or ten percent now has $1363.4643762100654
 Random---Twenty-four hours or ten percent has sold BICO for $0.668. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1356.3743614537732
 ---------------------------------------------------------------------------
+[2022-06-04 13:14:20] BUY
+Random---Twenty-four hours or ten percent has bought EOS for $1.2672
+Random---Twenty-four hours or ten percent now has $1356.3743614537732
+---------------------------------------------------------------------------

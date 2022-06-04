@@ -34484,3 +34484,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1356.3743614537732
 ---------------------------------------------------------------------------
+[2022-06-04 13:14:20] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: EOSUSD
+Altname: EOSUSD
+Wsname: EOS/USD
+Base:
+ 	Name: EOS
+	Altname: EOS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (EOSUSD):
+	Current:                    1.2672
+	Maximum:                    0.810373
+	Minimum:                    0.769408
+	Variance:                   0.05055
+	Mean:                       0.78916
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      1.270423
+	Number of local maximums:   30
+	Average local minimum:      1.271483
+	Number of local minimums:   30
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $1356.3743614537732
+---------------------------------------------------------------------------
