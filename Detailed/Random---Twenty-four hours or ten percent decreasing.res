@@ -25239,3 +25239,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $2188.4432800194254
 ---------------------------------------------------------------------------
+[2022-06-04 02:20:35] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: AXSUSD
+Altname: AXSUSD
+Wsname: AXS/USD
+Base:
+ 	Name: AXS
+	Altname: AXS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (AXSUSD):
+	Current:                    20.49
+	Maximum:                    0.051414
+	Minimum:                    0.044458
+	Variance:                   0.135287
+	Mean:                       0.048809
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.307692
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.9
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         True
+	Average local maximum:      20.361038
+	Number of local maximums:   26
+	Average local minimum:      20.21255
+	Number of local minimums:   20
+Is init: True
+Profit was -2.1061395802830636%.
+Random---Twenty-four hours or ten percent decreasing now has $2142.3516099068916
+---------------------------------------------------------------------------

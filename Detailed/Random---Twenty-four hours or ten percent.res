@@ -25239,3 +25239,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $2286.126224775023
 ---------------------------------------------------------------------------
+[2022-06-04 02:20:35] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: RUNEUSD
+Altname: RUNEUSD
+Wsname: RUNE/USD
+Base:
+ 	Name: RUNE
+	Altname: RUNE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (RUNEUSD):
+	Current:                    2.579
+	Maximum:                    0.4
+	Minimum:                    0.340368
+	Variance:                   0.149081
+	Mean:                       0.370332
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.793103
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.222222
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      2.699483
+	Number of local maximums:   29
+	Average local minimum:      2.708481
+	Number of local minimums:   27
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $2274.238368406193
+---------------------------------------------------------------------------
