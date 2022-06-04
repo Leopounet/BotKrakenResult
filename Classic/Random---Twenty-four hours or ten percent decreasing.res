@@ -3726,3 +3726,7 @@ Random---Twenty-four hours or ten percent decreasing now has $849.7020576997237
 Random---Twenty-four hours or ten percent decreasing has sold ADA for $0.555463. Profit was -0.3860585520622979%.
 Random---Twenty-four hours or ten percent decreasing now has $846.4217102389246
 ---------------------------------------------------------------------------
+[2022-06-04 19:45:49] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BAL for $6.72
+Random---Twenty-four hours or ten percent decreasing now has $846.4217102389246
+---------------------------------------------------------------------------
