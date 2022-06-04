@@ -1,4 +1,4 @@
-[2022-06-04 10:58:24] SUMMARY
+[2022-06-04 11:01:27] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SHIBUSD
-	Altname: SHIBUSD
-	Wsname: SHIB/USD
-	Base:
-	 	Name: SHIB
-		Altname: SHIB
-		decimals: 5
-		displayed_decimals: 0
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500000
-	Data about this pair of assets (SHIBUSD):
-		Current:                    1.1e-05
-		Maximum:                    94966.761633
-		Minimum:                    88652.48227
-		Variance:                   0.066489
-		Mean:                       91707.937375
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.521739
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.555556
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         True
-		Average local maximum:      1.1e-05
-		Number of local maximums:   23
-		Average local minimum:      1.1e-05
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 2
-Losses: 377
-Total points: -198.98640684201195%
-Wallet: 1359.1024095397263
+Losses: 378
+Total points: -199.50640684201196%
+Wallet: 1352.0350770101197
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BNCUSD
-	Altname: BNCUSD
-	Wsname: BNC/USD
-	Base:
-	 	Name: BNC
-		Altname: BNC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (BNCUSD):
-		Current:                    0.348
-		Maximum:                    3.144654
-		Minimum:                    2.695418
-		Variance:                   0.142857
-		Mean:                       2.888748
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.04
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.411765
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         True
-		Average local maximum:      0.3472
-		Number of local maximums:   25
-		Average local minimum:      0.351824
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 12
-Losses: 236
-Total points: -139.84596397062106%
-Wallet: 2438.136656578891
+Losses: 237
+Total points: -140.36596397062107%
+Wallet: 2425.4583459646806
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing
