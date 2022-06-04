@@ -3970,3 +3970,7 @@ Random---Always now has $679.2091458290774
 Random---Always has bought SCRT for $1.453
 Random---Always now has $679.2091458290774
 ---------------------------------------------------------------------------
+[2022-06-04 22:47:37] SOLD
+Random---Always has sold SCRT for $1.453. Profit was -0.52%.
+Random---Always now has $675.6772582707663
+---------------------------------------------------------------------------
