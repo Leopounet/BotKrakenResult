@@ -2182,3 +2182,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold BAT for $0.37809. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2808.293560533904
 ---------------------------------------------------------------------------
+[2022-06-04 00:19:45] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought CVX for $8.32
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $2808.293560533904
+---------------------------------------------------------------------------
