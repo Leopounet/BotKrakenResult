@@ -2958,3 +2958,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1449.3457822270302
 Random---Twenty-four hours or ten percent decreasing has sold STORJ for $0.55188. Profit was -1.4160798750156984%.
 Random---Twenty-four hours or ten percent decreasing now has $1428.8218882855244
 ---------------------------------------------------------------------------
+[2022-06-04 10:03:52] BUY
+Random---Twenty-four hours or ten percent decreasing has bought EWT for $2.731
+Random---Twenty-four hours or ten percent decreasing now has $1428.8218882855244
+---------------------------------------------------------------------------

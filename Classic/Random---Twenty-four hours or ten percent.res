@@ -2958,3 +2958,7 @@ Random---Twenty-four hours or ten percent now has $1567.256113707806
 Random---Twenty-four hours or ten percent has sold NMR for $11.59. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1559.1063819165254
 ---------------------------------------------------------------------------
+[2022-06-04 10:03:52] BUY
+Random---Twenty-four hours or ten percent has bought MSOL for $39.49
+Random---Twenty-four hours or ten percent now has $1559.1063819165254
+---------------------------------------------------------------------------
