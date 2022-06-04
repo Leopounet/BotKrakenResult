@@ -3238,3 +3238,7 @@ Random---Twenty-four hours or ten percent now has $1333.7358573898346
 Random---Twenty-four hours or ten percent has sold BADGER for $5.744. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1326.8004309314074
 ---------------------------------------------------------------------------
+[2022-06-04 13:38:28] BUY
+Random---Twenty-four hours or ten percent has bought UST for $0.01806
+Random---Twenty-four hours or ten percent now has $1326.8004309314074
+---------------------------------------------------------------------------
