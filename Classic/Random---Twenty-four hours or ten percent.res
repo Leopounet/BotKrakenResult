@@ -2558,3 +2558,7 @@ Random---Twenty-four hours or ten percent now has $2019.659569947862
 Random---Twenty-four hours or ten percent has sold CQT for $0.139. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2009.1573401841333
 ---------------------------------------------------------------------------
+[2022-06-04 05:01:28] BUY
+Random---Twenty-four hours or ten percent has bought XREP for $9.658
+Random---Twenty-four hours or ten percent now has $2009.1573401841333
+---------------------------------------------------------------------------
