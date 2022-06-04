@@ -3750,3 +3750,7 @@ Random---Twenty-four hours or ten percent now has $918.0834060764362
 Random---Twenty-four hours or ten percent has sold AKT for $0.3914. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $913.3093723648387
 ---------------------------------------------------------------------------
+[2022-06-04 20:03:50] BUY
+Random---Twenty-four hours or ten percent has bought UST for $0.01774
+Random---Twenty-four hours or ten percent now has $913.3093723648387
+---------------------------------------------------------------------------
