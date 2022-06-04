@@ -3270,3 +3270,7 @@ Random---Twenty-four hours or ten percent now has $1307.7854328008395
 Random---Twenty-four hours or ten percent has sold KNC for $1.8683. Profit was -0.9516776806650991%.
 Random---Twenty-four hours or ten percent now has $1295.3395307258845
 ---------------------------------------------------------------------------
+[2022-06-04 14:03:10] BUY
+Random---Twenty-four hours or ten percent has bought EOS for $1.268
+Random---Twenty-four hours or ten percent now has $1295.3395307258845
+---------------------------------------------------------------------------

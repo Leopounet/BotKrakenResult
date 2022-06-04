@@ -24121,3 +24121,46 @@ Is init: True
 
 Recent Minimum---Random now has $2207.210882258478
 ---------------------------------------------------------------------------
+[2022-06-04 14:03:10] SOLD
+Recent Minimum---Random has sold: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    103.69
+	Maximum:                    0.009727
+	Minimum:                    0.008843
+	Variance:                   0.090821
+	Mean:                       0.009366
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.4
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.75
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      107.0008
+	Number of local maximums:   25
+	Average local minimum:      106.7085
+	Number of local minimums:   20
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Random now has $2195.7333856707337
+---------------------------------------------------------------------------

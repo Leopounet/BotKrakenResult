@@ -3270,3 +3270,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1145.1362761475757
 Random---Twenty-four hours or ten percent decreasing has sold MSOL for $45.77. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1139.1815675116084
 ---------------------------------------------------------------------------
+[2022-06-04 14:03:10] BUY
+Random---Twenty-four hours or ten percent decreasing has bought API3 for $1.515
+Random---Twenty-four hours or ten percent decreasing now has $1139.1815675116084
+---------------------------------------------------------------------------

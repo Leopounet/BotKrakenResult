@@ -4906,3 +4906,9 @@ Recent Minimum---Always has 406 losses
 Recent Minimum---Always has -212.3319616426629 points
 Recent Minimum---Always now has $1188.4352204525362
 ---------------------------------------------------------------------------
+[2022-06-04 14:03:10] BRIEF
+Recent Minimum---Always has 3 wins
+Recent Minimum---Always has 406 losses
+Recent Minimum---Always has -212.3319616426629 points
+Recent Minimum---Always now has $1188.4352204525362
+---------------------------------------------------------------------------
