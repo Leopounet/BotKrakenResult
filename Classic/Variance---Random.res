@@ -2606,3 +2606,7 @@ Variance---Random now has $2274.4028616776764
 Variance---Random has sold WOO for $0.1561. Profit was -0.52%.
 Variance---Random now has $2262.5759667969523
 ---------------------------------------------------------------------------
+[2022-06-04 20:33:41] BUY
+Variance---Random has bought UST for $0.01774
+Variance---Random now has $2262.5759667969523
+---------------------------------------------------------------------------
