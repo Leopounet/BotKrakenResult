@@ -32893,3 +32893,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $1480.807320538263
 ---------------------------------------------------------------------------
+[2022-06-04 11:19:30] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: AKTUSD
+Altname: AKTUSD
+Wsname: AKT/USD
+Base:
+ 	Name: AKT
+	Altname: AKT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (AKTUSD):
+	Current:                    0.3914
+	Maximum:                    2.566735
+	Minimum:                    2.453386
+	Variance:                   0.044161
+	Mean:                       2.502829
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.857143
+	Is ascending:               True
+	Current ascension duration: 41
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.15
+	Is falling:                 True
+	Current fall duration:      38
+	Trending downwards:         True
+	Average local maximum:      0.399276
+	Number of local maximums:   21
+	Average local minimum:      0.400945
+	Number of local minimums:   20
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1473.107122471464
+---------------------------------------------------------------------------

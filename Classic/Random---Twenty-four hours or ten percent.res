@@ -3058,3 +3058,7 @@ Random---Twenty-four hours or ten percent now has $1480.807320538263
 Random---Twenty-four hours or ten percent has bought AKT for $0.3914
 Random---Twenty-four hours or ten percent now has $1480.807320538263
 ---------------------------------------------------------------------------
+[2022-06-04 11:19:30] SOLD
+Random---Twenty-four hours or ten percent has sold AKT for $0.3914. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $1473.107122471464
+---------------------------------------------------------------------------

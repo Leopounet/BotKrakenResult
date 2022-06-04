@@ -3058,3 +3058,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1327.2613805547921
 Random---Twenty-four hours or ten percent decreasing has bought POLIS for $0.59
 Random---Twenty-four hours or ten percent decreasing now has $1327.2613805547921
 ---------------------------------------------------------------------------
+[2022-06-04 11:19:30] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold POLIS for $0.59. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1320.3596213759072
+---------------------------------------------------------------------------
