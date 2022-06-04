@@ -2598,3 +2598,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1837.2448244812026
 Random---Twenty-four hours or ten percent decreasing has sold BADGER for $5.74. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1827.6911513939003
 ---------------------------------------------------------------------------
+[2022-06-04 05:31:01] BUY
+Random---Twenty-four hours or ten percent decreasing has bought STORJ for $0.55881
+Random---Twenty-four hours or ten percent decreasing now has $1827.6911513939003
+---------------------------------------------------------------------------
