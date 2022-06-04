@@ -28593,3 +28593,46 @@ Is init: True
 
 Random---Always now has $1531.2257186191002
 ---------------------------------------------------------------------------
+[2022-06-04 06:16:55] SOLD
+Random---Always has sold: 
+Name: FLOWUSD
+Altname: FLOWUSD
+Wsname: FLOW/USD
+Base:
+ 	Name: FLOW
+	Altname: FLOW
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1.5
+Data about this pair of assets (FLOWUSD):
+	Current:                    2.462
+	Maximum:                    0.419287
+	Minimum:                    0.390472
+	Variance:                   0.068723
+	Mean:                       0.404885
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.625
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.428571
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      2.480333
+	Number of local maximums:   24
+	Average local minimum:      2.477381
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Random---Always now has $1523.263344882281
+---------------------------------------------------------------------------
