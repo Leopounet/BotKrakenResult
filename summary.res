@@ -1,4 +1,4 @@
-[2022-06-04 20:12:46] SUMMARY
+[2022-06-04 20:15:44] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.862
+		Maximum:                    1.17096
+		Minimum:                    1.074114
+		Variance:                   0.082707
+		Mean:                       1.130115
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.032258
+		Is ascending:               True
+		Current ascension duration: 15
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.428571
+		Is falling:                 True
+		Current fall duration:      18
+		Trending downwards:         True
+		Average local maximum:      0.888452
+		Number of local maximums:   31
+		Average local minimum:      0.882048
+		Number of local minimums:   21
+	Is init: True
 Wins: 2
 Losses: 469
 Total points: -247.04817796717825%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SUSHIUSD
-	Altname: SUSHIUSD
-	Wsname: SUSHI/USD
-	Base:
-	 	Name: SUSHI
-		Altname: SUSHI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (SUSHIUSD):
-		Current:                    1.562
-		Maximum:                    0.662691
-		Minimum:                    0.589623
-		Variance:                   0.110259
-		Mean:                       0.629047
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.709677
-		Is ascending:               True
-		Current ascension duration: 15
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.321429
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      1.591581
-		Number of local maximums:   31
-		Average local minimum:      1.595179
-		Number of local minimums:   28
-	Is init: True
-Wins: 18
+	None
+Wins: 19
 Losses: 291
-Total points: -160.46375910346185%
-Wallet: 1979.1915461841504
+Total points: -160.2795337513492%
+Wallet: 1982.8377187790925
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten percent decreasing

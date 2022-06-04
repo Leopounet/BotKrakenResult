@@ -3766,3 +3766,7 @@ Random---Twenty-four hours or ten percent now has $909.6561348753794
 Random---Twenty-four hours or ten percent has sold ALCX for $29.67. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $904.9259229740275
 ---------------------------------------------------------------------------
+[2022-06-04 20:15:44] BUY
+Random---Twenty-four hours or ten percent has bought TBTC for $28955.0
+Random---Twenty-four hours or ten percent now has $904.9259229740275
+---------------------------------------------------------------------------

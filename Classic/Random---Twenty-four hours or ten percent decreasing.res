@@ -3766,3 +3766,7 @@ Random---Twenty-four hours or ten percent decreasing now has $828.9529866884399
 Random---Twenty-four hours or ten percent decreasing has sold BAT for $0.37669. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $824.64243115766
 ---------------------------------------------------------------------------
+[2022-06-04 20:15:44] BUY
+Random---Twenty-four hours or ten percent decreasing has bought KINT for $4.44
+Random---Twenty-four hours or ten percent decreasing now has $824.64243115766
+---------------------------------------------------------------------------
