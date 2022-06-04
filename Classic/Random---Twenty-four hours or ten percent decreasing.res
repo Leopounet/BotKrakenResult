@@ -3542,3 +3542,7 @@ Random---Twenty-four hours or ten percent decreasing now has $953.5774949090786
 Random---Twenty-four hours or ten percent decreasing has sold MOVR for $20.2563. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $948.6188919355513
 ---------------------------------------------------------------------------
+[2022-06-04 17:28:54] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ADA for $0.556784
+Random---Twenty-four hours or ten percent decreasing now has $948.6188919355513
+---------------------------------------------------------------------------
