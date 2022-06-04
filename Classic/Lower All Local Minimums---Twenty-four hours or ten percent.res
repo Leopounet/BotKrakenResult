@@ -2426,3 +2426,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $2405.358432
 Lower All Local Minimums---Twenty-four hours or ten percent has bought BAT for $0.37057
 Lower All Local Minimums---Twenty-four hours or ten percent now has $2405.3584329326595
 ---------------------------------------------------------------------------
+[2022-06-04 03:20:52] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold BAT for $0.37166. Profit was -0.22585854224573998%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $2399.925725440253
+---------------------------------------------------------------------------

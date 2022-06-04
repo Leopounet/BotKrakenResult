@@ -26099,3 +26099,46 @@ Is init: True
 
 Recent Minimum---Twenty-four hours or ten percent now has $2115.207313127572
 ---------------------------------------------------------------------------
+[2022-06-04 03:20:52] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold: 
+Name: ADAUSD
+Altname: ADAUSD
+Wsname: ADA/USD
+Base:
+ 	Name: ADA
+	Altname: ADA
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (ADAUSD):
+	Current:                    0.556578
+	Maximum:                    1.84993
+	Minimum:                    1.659459
+	Variance:                   0.102961
+	Mean:                       1.759023
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.75
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.272727
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         True
+	Average local maximum:      0.56687
+	Number of local maximums:   24
+	Average local minimum:      0.565999
+	Number of local minimums:   22
+Is init: True
+Profit was -0.5668936968403444%.
+Recent Minimum---Twenty-four hours or ten percent now has $2103.216336194346
+---------------------------------------------------------------------------

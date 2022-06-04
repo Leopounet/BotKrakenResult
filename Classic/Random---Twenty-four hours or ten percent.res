@@ -2426,3 +2426,7 @@ Random---Twenty-four hours or ten percent now has $2168.229472123823
 Random---Twenty-four hours or ten percent has bought WAVES for $9.3988
 Random---Twenty-four hours or ten percent now has $2168.229472123823
 ---------------------------------------------------------------------------
+[2022-06-04 03:20:52] SOLD
+Random---Twenty-four hours or ten percent has sold WAVES for $9.404. Profit was -0.46467378814315685%.
+Random---Twenty-four hours or ten percent now has $2158.154278100069
+---------------------------------------------------------------------------

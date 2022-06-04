@@ -16897,3 +16897,46 @@ Is init: True
 
 Random---Random now has $3035.3459204409073
 ---------------------------------------------------------------------------
+[2022-06-04 03:20:52] SOLD
+Random---Random has sold: 
+Name: SAMOUSD
+Altname: SAMOUSD
+Wsname: SAMO/USD
+Base:
+ 	Name: SAMO
+	Altname: SAMO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 200
+Data about this pair of assets (SAMOUSD):
+	Current:                    0.005543
+	Maximum:                    182.315406
+	Minimum:                    175.346309
+	Variance:                   0.038225
+	Mean:                       178.529039
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.142857
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.2
+	Is falling:                 True
+	Current fall duration:      16
+	Trending downwards:         True
+	Average local maximum:      0.005596
+	Number of local maximums:   28
+	Average local minimum:      0.005607
+	Number of local minimums:   20
+Is init: True
+Profit was -0.52%.
+Random---Random now has $3019.5621216546147
+---------------------------------------------------------------------------
