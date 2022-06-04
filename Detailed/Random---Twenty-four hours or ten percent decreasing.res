@@ -25153,3 +25153,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $2197.232208854845
 ---------------------------------------------------------------------------
+[2022-06-04 02:14:42] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: ZUSDZJPY
+Altname: USDJPY
+Wsname: USD/JPY
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZJPY
+	Altname: JPY
+	decimals: 2
+	displayed_decimals: 0
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (ZUSDZJPY):
+	Current:                    131.316
+	Maximum:                    0.007801
+	Minimum:                    0.007615
+	Variance:                   0.02379
+	Mean:                       0.007671
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.0
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.25
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         False
+	Average local maximum:      129.941667
+	Number of local maximums:   6
+	Average local minimum:      130.51675
+	Number of local minimums:   8
+Is init: True
+Profit was -0.4%.
+Random---Twenty-four hours or ten percent decreasing now has $2188.4432800194254
+---------------------------------------------------------------------------
