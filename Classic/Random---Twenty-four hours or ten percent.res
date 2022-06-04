@@ -3646,3 +3646,7 @@ Random---Twenty-four hours or ten percent now has $991.3374647991033
 Random---Twenty-four hours or ten percent has sold REQ for $0.12692. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $986.182509982148
 ---------------------------------------------------------------------------
+[2022-06-04 18:46:08] BUY
+Random---Twenty-four hours or ten percent has bought EWT for $2.717
+Random---Twenty-four hours or ten percent now has $986.182509982148
+---------------------------------------------------------------------------
