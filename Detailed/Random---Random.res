@@ -26443,3 +26443,46 @@ Is init: True
 
 Random---Random now has $1999.9368107243215
 ---------------------------------------------------------------------------
+[2022-06-04 19:54:47] SOLD
+Random---Random has sold: 
+Name: MINAUSD
+Altname: MINAUSD
+Wsname: MINA/USD
+Base:
+ 	Name: MINA
+	Altname: MINA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (MINAUSD):
+	Current:                    0.837
+	Maximum:                    1.219512
+	Minimum:                    1.128668
+	Variance:                   0.074492
+	Mean:                       1.181501
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.108108
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.269231
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.846946
+	Number of local maximums:   37
+	Average local minimum:      0.846308
+	Number of local minimums:   26
+Is init: True
+Profit was -0.52%.
+Random---Random now has $1989.537139308555
+---------------------------------------------------------------------------
