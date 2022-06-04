@@ -5860,3 +5860,9 @@ Recent Minimum---Twenty-four hours or ten percent has 484 losses
 Recent Minimum---Twenty-four hours or ten percent has -252.764203137081 points
 Recent Minimum---Twenty-four hours or ten percent now has $792.3087772575154
 ---------------------------------------------------------------------------
+[2022-06-04 22:00:17] BRIEF
+Recent Minimum---Twenty-four hours or ten percent has 4 wins
+Recent Minimum---Twenty-four hours or ten percent has 485 losses
+Recent Minimum---Twenty-four hours or ten percent has -253.28420313708102 points
+Recent Minimum---Twenty-four hours or ten percent now has $788.1887716157763
+---------------------------------------------------------------------------

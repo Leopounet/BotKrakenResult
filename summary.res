@@ -1,4 +1,4 @@
-[2022-06-04 21:57:19] SUMMARY
+[2022-06-04 22:00:17] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.862
-		Maximum:                    1.17096
-		Minimum:                    1.074114
-		Variance:                   0.082707
-		Mean:                       1.132089
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.1
-		Is ascending:               True
-		Current ascension duration: 36
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.285714
-		Is falling:                 True
-		Current fall duration:      39
-		Trending downwards:         True
-		Average local maximum:      0.887733
-		Number of local maximums:   30
-		Average local minimum:      0.882381
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 2
-Losses: 486
-Total points: -255.88817796717842%
-Wallet: 768.4139770601305
+Losses: 487
+Total points: -256.4081779671784%
+Wallet: 764.4182243794178
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: BNCUSD
+	Altname: BNCUSD
+	Wsname: BNC/USD
+	Base:
+	 	Name: BNC
+		Altname: BNC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 10
+	Data about this pair of assets (BNCUSD):
+		Current:                    0.348
+		Maximum:                    3.144654
+		Minimum:                    2.695418
+		Variance:                   0.142857
+		Mean:                       2.909392
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.826087
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.928571
+		Is falling:                 True
+		Current fall duration:      31
+		Trending downwards:         True
+		Average local maximum:      0.343826
+		Number of local maximums:   23
+		Average local minimum:      0.350143
+		Number of local minimums:   14
+	Is init: True
 Wins: 21
 Losses: 302
 Total points: -165.2691753459796%
