@@ -2910,3 +2910,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1493.336287471814
 Random---Twenty-four hours or ten percent decreasing has sold ATLAS for $0.00855. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1485.5709387769607
 ---------------------------------------------------------------------------
+[2022-06-04 09:27:29] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SDN for $0.368
+Random---Twenty-four hours or ten percent decreasing now has $1485.5709387769607
+---------------------------------------------------------------------------

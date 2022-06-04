@@ -31302,3 +31302,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1485.5709387769607
 ---------------------------------------------------------------------------
+[2022-06-04 09:27:29] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: SDNUSD
+Altname: SDNUSD
+Wsname: SDN/USD
+Base:
+ 	Name: SDN
+	Altname: SDN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (SDNUSD):
+	Current:                    0.368
+	Maximum:                    2.793296
+	Minimum:                    2.570694
+	Variance:                   0.079692
+	Mean:                       2.683322
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.875
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.8
+	Is falling:                 True
+	Current fall duration:      34
+	Trending downwards:         True
+	Average local maximum:      0.371562
+	Number of local maximums:   16
+	Average local minimum:      0.3743
+	Number of local minimums:   10
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $1485.5709387769607
+---------------------------------------------------------------------------
