@@ -1,4 +1,4 @@
-[2022-06-04 13:38:28] SUMMARY
+[2022-06-04 13:41:31] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.855
-		Maximum:                    1.17096
-		Minimum:                    1.068376
-		Variance:                   0.087607
-		Mean:                       1.120757
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.59375
-		Is ascending:               True
-		Current ascension duration: 112
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.647059
-		Is falling:                 True
-		Current fall duration:      13
-		Trending downwards:         True
-		Average local maximum:      0.893937
-		Number of local maximums:   32
-		Average local minimum:      0.893059
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 2
-Losses: 403
-Total points: -212.50060019040131%
-Wallet: 1187.224631065967
+Losses: 404
+Total points: -213.02060019040132%
+Wallet: 1181.051062984424
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: CVCUSD
+	Altname: CVCUSD
+	Wsname: CVC/USD
+	Base:
+	 	Name: CVC
+		Altname: CVC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 25
+	Data about this pair of assets (CVCUSD):
+		Current:                    0.1723
+		Maximum:                    5.945303
+		Minimum:                    5.235602
+		Variance:                   0.119372
+		Mean:                       5.710791
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.538462
+		Is ascending:               True
+		Current ascension duration: 152
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.545455
+		Is falling:                 True
+		Current fall duration:      38
+		Trending downwards:         False
+		Average local maximum:      0.174454
+		Number of local maximums:   13
+		Average local minimum:      0.177036
+		Number of local minimums:   11
+	Is init: True
 Wins: 13
 Losses: 250
 Total points: -147.0613979970725%
