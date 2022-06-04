@@ -24465,3 +24465,46 @@ Is init: True
 
 Random---Random now has $2028.6419810625791
 ---------------------------------------------------------------------------
+[2022-06-04 16:31:20] SOLD
+Random---Random has sold: 
+Name: MSOLUSD
+Altname: MSOLUSD
+Wsname: MSOL/USD
+Base:
+ 	Name: MSOL
+	Altname: MSOL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (MSOLUSD):
+	Current:                    39.35
+	Maximum:                    0.025471
+	Minimum:                    0.018811
+	Variance:                   0.261475
+	Mean:                       0.022789
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.454545
+	Is ascending:               True
+	Current ascension duration: 29
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.666667
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      43.68
+	Number of local maximums:   11
+	Average local minimum:      46.423333
+	Number of local minimums:   9
+Is init: True
+Profit was -0.52%.
+Random---Random now has $2018.0930427610538
+---------------------------------------------------------------------------
