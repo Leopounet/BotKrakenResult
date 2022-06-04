@@ -1618,3 +1618,7 @@ Recent Minimum---Random now has $3304.8801441362843
 Recent Minimum---Random has bought ADA for $0.5535
 Recent Minimum---Random now has $3304.8801441362843
 ---------------------------------------------------------------------------
+[2022-06-04 03:12:01] SOLD
+Recent Minimum---Random has sold ADA for $0.553301. Profit was -0.5559530261969221%.
+Recent Minimum---Random now has $3286.5065629627775
+---------------------------------------------------------------------------

@@ -2414,3 +2414,7 @@ Random---Twenty-four hours or ten percent decreasing now has $2065.576035785747
 Random---Twenty-four hours or ten percent decreasing has sold UNI for $4.975. Profit was -0.7206018054162673%.
 Random---Twenty-four hours or ten percent decreasing now has $2050.691457579629
 ---------------------------------------------------------------------------
+[2022-06-04 03:12:01] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XXMR for $193.36
+Random---Twenty-four hours or ten percent decreasing now has $2050.691457579629
+---------------------------------------------------------------------------

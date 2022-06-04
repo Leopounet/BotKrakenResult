@@ -25970,3 +25970,46 @@ Is init: True
 Profit was -0.7003426510369688%.
 Recent Minimum---Twenty-four hours or ten percent now has $2113.977690215026
 ---------------------------------------------------------------------------
+[2022-06-04 03:12:01] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought: 
+Name: ADAUSD
+Altname: ADAUSD
+Wsname: ADA/USD
+Base:
+ 	Name: ADA
+	Altname: ADA
+	decimals: 8
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (ADAUSD):
+	Current:                    0.553301
+	Maximum:                    1.84993
+	Minimum:                    1.659459
+	Variance:                   0.102961
+	Mean:                       1.758937
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.875
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.130435
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         True
+	Average local maximum:      0.56687
+	Number of local maximums:   24
+	Average local minimum:      0.566506
+	Number of local minimums:   23
+Is init: True
+
+Recent Minimum---Twenty-four hours or ten percent now has $2113.977690215026
+---------------------------------------------------------------------------
