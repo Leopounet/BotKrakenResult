@@ -3166,3 +3166,7 @@ Random---Twenty-four hours or ten percent now has $1383.8809347206777
 Random---Twenty-four hours or ten percent has sold AAVE for $104.64. Profit was -0.2709101360413819%.
 Random---Twenty-four hours or ten percent now has $1380.1318609977752
 ---------------------------------------------------------------------------
+[2022-06-04 12:42:52] BUY
+Random---Twenty-four hours or ten percent has bought SUSHI for $1.518
+Random---Twenty-four hours or ten percent now has $1380.1318609977752
+---------------------------------------------------------------------------
