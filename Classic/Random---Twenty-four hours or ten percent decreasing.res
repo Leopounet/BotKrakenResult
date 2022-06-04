@@ -3474,3 +3474,7 @@ Random---Twenty-four hours or ten percent decreasing now has $994.3493488729486
 Random---Twenty-four hours or ten percent decreasing has bought RAD for $2.014
 Random---Twenty-four hours or ten percent decreasing now has $994.3493488729486
 ---------------------------------------------------------------------------
+[2022-06-04 16:37:14] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold RAD for $2.014. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $989.1787322588092
+---------------------------------------------------------------------------

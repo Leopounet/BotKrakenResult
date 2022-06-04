@@ -3474,3 +3474,7 @@ Random---Twenty-four hours or ten percent now has $1130.5099198613477
 Random---Twenty-four hours or ten percent has bought AAVE for $104.92
 Random---Twenty-four hours or ten percent now has $1130.5099198613477
 ---------------------------------------------------------------------------
+[2022-06-04 16:37:14] SOLD
+Random---Twenty-four hours or ten percent has sold AAVE for $104.52. Profit was -0.9012428516965394%.
+Random---Twenty-four hours or ten percent now has $1120.321280020877
+---------------------------------------------------------------------------
