@@ -3930,3 +3930,7 @@ Random---Twenty-four hours or ten percent decreasing now has $747.0501120340434
 Random---Twenty-four hours or ten percent decreasing has bought ASTR for $0.0621
 Random---Twenty-four hours or ten percent decreasing now has $747.0501120340434
 ---------------------------------------------------------------------------
+[2022-06-04 22:18:04] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ASTR for $0.0621. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $743.1654514514664
+---------------------------------------------------------------------------

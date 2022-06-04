@@ -2734,3 +2734,7 @@ Variance---Random now has $2159.6701695660486
 Variance---Random has sold KINT for $5.16. Profit was -0.52%.
 Variance---Random now has $2148.439884684305
 ---------------------------------------------------------------------------
+[2022-06-04 22:18:04] BUY
+Variance---Random has bought UST for $0.01776
+Variance---Random now has $2148.439884684305
+---------------------------------------------------------------------------
