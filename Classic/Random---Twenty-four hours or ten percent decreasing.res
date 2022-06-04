@@ -3854,3 +3854,7 @@ Random---Twenty-four hours or ten percent decreasing now has $783.26845127315
 Random---Twenty-four hours or ten percent decreasing has sold SUSHI for $1.573. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $779.1954553265297
 ---------------------------------------------------------------------------
+[2022-06-04 21:21:21] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WOO for $0.1511
+Random---Twenty-four hours or ten percent decreasing now has $779.1954553265297
+---------------------------------------------------------------------------
