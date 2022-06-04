@@ -2566,3 +2566,7 @@ Random---Always now has $1617.478783240962
 Random---Always has sold JASMY for $0.0118. Profit was -0.52%.
 Random---Always now has $1609.067893568109
 ---------------------------------------------------------------------------
+[2022-06-04 05:07:23] BUY
+Random---Always has bought WAVES for $9.5767
+Random---Always now has $1609.067893568109
+---------------------------------------------------------------------------
