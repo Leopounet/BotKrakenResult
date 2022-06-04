@@ -3758,3 +3758,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $873.7579694322357
 Recent Minimum---Twenty-four hours or ten percent has sold GMT for $0.999. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $869.214427991188
 ---------------------------------------------------------------------------
+[2022-06-04 20:09:49] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought BNT for $1.214
+Recent Minimum---Twenty-four hours or ten percent now has $869.214427991188
+---------------------------------------------------------------------------
