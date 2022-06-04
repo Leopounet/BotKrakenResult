@@ -1,4 +1,4 @@
-[2022-06-04 21:33:20] SUMMARY
+[2022-06-04 21:36:17] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.862
-		Maximum:                    1.17096
-		Minimum:                    1.074114
-		Variance:                   0.082707
-		Mean:                       1.131606
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.1
-		Is ascending:               True
-		Current ascension duration: 31
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.285714
-		Is falling:                 True
-		Current fall duration:      34
-		Trending downwards:         True
-		Average local maximum:      0.887733
-		Number of local maximums:   30
-		Average local minimum:      0.882381
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 2
-Losses: 482
-Total points: -253.80817796717838%
-Wallet: 784.6069476545376
+Losses: 483
+Total points: -254.3281779671784%
+Wallet: 780.526991526734
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ANTUSD
+	Altname: ANTUSD
+	Wsname: ANT/USD
+	Base:
+	 	Name: ANT
+		Altname: ANT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (ANTUSD):
+		Current:                    1.7719
+		Maximum:                    0.57867
+		Minimum:                    0.479731
+		Variance:                   0.170976
+		Mean:                       0.546296
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.103448
+		Is ascending:               True
+		Current ascension duration: 11
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.9
+		Is falling:                 True
+		Current fall duration:      15
+		Trending downwards:         True
+		Average local maximum:      1.82449
+		Number of local maximums:   29
+		Average local minimum:      1.835827
+		Number of local minimums:   30
+	Is init: True
 Wins: 19
 Losses: 301
 Total points: -165.56093068771625%
