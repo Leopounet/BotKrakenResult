@@ -28507,3 +28507,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $1773.3619301088806
 ---------------------------------------------------------------------------
+[2022-06-04 06:10:45] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: LDOUSD
+Altname: LDOUSD
+Wsname: LDO/USD
+Base:
+ 	Name: LDO
+	Altname: LDO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (LDOUSD):
+	Current:                    1.004
+	Maximum:                    1.013171
+	Minimum:                    0.84317
+	Variance:                   0.167791
+	Mean:                       0.974112
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.4
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.75
+	Is falling:                 True
+	Current fall duration:      13
+	Trending downwards:         True
+	Average local maximum:      1.022467
+	Number of local maximums:   30
+	Average local minimum:      1.038083
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1764.1404480723145
+---------------------------------------------------------------------------

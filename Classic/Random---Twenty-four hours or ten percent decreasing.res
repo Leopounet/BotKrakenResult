@@ -2650,3 +2650,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1773.3619301088806
 Random---Twenty-four hours or ten percent decreasing has bought LDO for $1.004
 Random---Twenty-four hours or ten percent decreasing now has $1773.3619301088806
 ---------------------------------------------------------------------------
+[2022-06-04 06:10:45] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold LDO for $1.004. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $1764.1404480723145
+---------------------------------------------------------------------------
