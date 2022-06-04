@@ -3994,3 +3994,7 @@ Random---Twenty-four hours or ten percent decreasing now has $718.262299629392
 Random---Twenty-four hours or ten percent decreasing has bought CVC for $0.1781
 Random---Twenty-four hours or ten percent decreasing now has $718.262299629392
 ---------------------------------------------------------------------------
+[2022-06-04 23:05:19] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold CVC for $0.1781. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $714.5273356713192
+---------------------------------------------------------------------------

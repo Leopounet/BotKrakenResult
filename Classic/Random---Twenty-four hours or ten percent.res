@@ -3994,3 +3994,7 @@ Random---Twenty-four hours or ten percent now has $781.3446823135683
 Random---Twenty-four hours or ten percent has bought REN for $0.1451
 Random---Twenty-four hours or ten percent now has $781.3446823135683
 ---------------------------------------------------------------------------
+[2022-06-04 23:05:19] SOLD
+Random---Twenty-four hours or ten percent has sold REN for $0.1451. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $777.2816899655378
+---------------------------------------------------------------------------

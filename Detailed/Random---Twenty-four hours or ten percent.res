@@ -42955,3 +42955,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $781.3446823135683
 ---------------------------------------------------------------------------
+[2022-06-04 23:05:19] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: RENUSD
+Altname: RENUSD
+Wsname: REN/USD
+Base:
+ 	Name: REN
+	Altname: REN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (RENUSD):
+	Current:                    0.1451
+	Maximum:                    7.147963
+	Minimum:                    6.65779
+	Variance:                   0.068575
+	Mean:                       6.889141
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.176471
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.833333
+	Is falling:                 True
+	Current fall duration:      27
+	Trending downwards:         True
+	Average local maximum:      0.144647
+	Number of local maximums:   17
+	Average local minimum:      0.145433
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $777.2816899655378
+---------------------------------------------------------------------------
