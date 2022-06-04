@@ -3422,3 +3422,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1034.6282344583708
 Random---Twenty-four hours or ten percent decreasing has sold ADA for $0.558827. Profit was -0.3777145079233786%.
 Random---Twenty-four hours or ten percent decreasing now has $1030.72029351375
 ---------------------------------------------------------------------------
+[2022-06-04 15:58:42] BUY
+Random---Twenty-four hours or ten percent decreasing has bought IDEX for $0.07063
+Random---Twenty-four hours or ten percent decreasing now has $1030.72029351375
+---------------------------------------------------------------------------

@@ -3422,3 +3422,7 @@ Lower All Local Minimums---Always now has $1355.7467127376863
 Lower All Local Minimums---Always has sold FTM for $0.346. Profit was -1.3795988538681931%.
 Lower All Local Minimums---Always now has $1337.0428466274013
 ---------------------------------------------------------------------------
+[2022-06-04 15:58:42] BUY
+Lower All Local Minimums---Always has bought FTM for $0.346
+Lower All Local Minimums---Always now has $1337.0428466274013
+---------------------------------------------------------------------------

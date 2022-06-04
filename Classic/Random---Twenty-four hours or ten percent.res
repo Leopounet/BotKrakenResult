@@ -3422,3 +3422,7 @@ Random---Twenty-four hours or ten percent now has $1171.117254062883
 Random---Twenty-four hours or ten percent has sold PLA for $0.5353. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $1165.0274443417559
 ---------------------------------------------------------------------------
+[2022-06-04 15:58:42] BUY
+Random---Twenty-four hours or ten percent has bought TRX for $0.08004
+Random---Twenty-four hours or ten percent now has $1165.0274443417559
+---------------------------------------------------------------------------
