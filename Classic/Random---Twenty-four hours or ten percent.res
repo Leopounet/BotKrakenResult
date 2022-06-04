@@ -2334,3 +2334,7 @@ Random---Twenty-four hours or ten percent now has $2310.08868227269
 Random---Twenty-four hours or ten percent has sold SHIB for $1.068e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $2298.076221124872
 ---------------------------------------------------------------------------
+[2022-06-04 02:11:45] BUY
+Random---Twenty-four hours or ten percent has bought NANO for $1.124951
+Random---Twenty-four hours or ten percent now has $2298.076221124872
+---------------------------------------------------------------------------
