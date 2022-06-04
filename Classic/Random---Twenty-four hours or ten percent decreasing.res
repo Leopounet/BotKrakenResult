@@ -3102,3 +3102,7 @@ Random---Twenty-four hours or ten percent decreasing now has $1294.470957361195
 Random---Twenty-four hours or ten percent decreasing has sold IDEX for $0.08. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $1287.7397083829167
 ---------------------------------------------------------------------------
+[2022-06-04 11:52:36] BUY
+Random---Twenty-four hours or ten percent decreasing has bought API3 for $1.515
+Random---Twenty-four hours or ten percent decreasing now has $1287.7397083829167
+---------------------------------------------------------------------------
