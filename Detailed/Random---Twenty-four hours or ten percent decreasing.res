@@ -37064,3 +37064,46 @@ Is init: True
 Profit was -0.9808294930875556%.
 Random---Twenty-four hours or ten percent decreasing now has $1010.0239310738569
 ---------------------------------------------------------------------------
+[2022-06-04 16:16:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: GALAUSD
+Altname: GALAUSD
+Wsname: GALA/USD
+Base:
+ 	Name: GALA
+	Altname: GALA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (GALAUSD):
+	Current:                    0.0737
+	Maximum:                    14.184397
+	Minimum:                    12.903226
+	Variance:                   0.090323
+	Mean:                       13.526298
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.545455
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.538462
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         False
+	Average local maximum:      0.073464
+	Number of local maximums:   22
+	Average local minimum:      0.073354
+	Number of local minimums:   26
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $1010.0239310738569
+---------------------------------------------------------------------------

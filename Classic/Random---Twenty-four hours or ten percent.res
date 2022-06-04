@@ -3446,3 +3446,7 @@ Random---Twenty-four hours or ten percent now has $1152.9426612626967
 Random---Twenty-four hours or ten percent has sold USDC for $1.0. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $1148.330890617646
 ---------------------------------------------------------------------------
+[2022-06-04 16:16:32] BUY
+Random---Twenty-four hours or ten percent has bought BAND for $1.625
+Random---Twenty-four hours or ten percent now has $1148.330890617646
+---------------------------------------------------------------------------
