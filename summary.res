@@ -1,4 +1,4 @@
-[2022-06-04 14:27:59] SUMMARY
+[2022-06-04 14:31:06] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.857
-		Maximum:                    1.17096
-		Minimum:                    1.068376
-		Variance:                   0.087607
-		Mean:                       1.122117
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          1.636364
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               5.5
-		Is falling:                 True
-		Current fall duration:      23
-		Trending downwards:         True
-		Average local maximum:      0.895212
-		Number of local maximums:   33
-		Average local minimum:      0.891056
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 2
-Losses: 411
-Total points: -216.6606001904014%
-Wallet: 1138.7256701741576
+Losses: 412
+Total points: -217.1806001904014%
+Wallet: 1132.804296689252
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Random---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SUSHIUSD
+	Altname: SUSHIUSD
+	Wsname: SUSHI/USD
+	Base:
+	 	Name: SUSHI
+		Altname: SUSHI
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 2.5
+	Data about this pair of assets (SUSHIUSD):
+		Current:                    1.566
+		Maximum:                    0.662691
+		Minimum:                    0.589623
+		Variance:                   0.110259
+		Mean:                       0.62717
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 True
+		Current fall duration:      5
+		Trending downwards:         True
+		Average local maximum:      1.597724
+		Number of local maximums:   29
+		Average local minimum:      1.602
+		Number of local minimums:   29
+	Is init: True
 Wins: 13
 Losses: 255
 Total points: -149.72147008357635%
