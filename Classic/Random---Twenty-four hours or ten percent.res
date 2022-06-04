@@ -2454,3 +2454,7 @@ Random---Twenty-four hours or ten percent now has $2139.767703179814
 Random---Twenty-four hours or ten percent has sold ZGBP for $1.24891. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $2131.2086323670947
 ---------------------------------------------------------------------------
+[2022-06-04 03:42:17] BUY
+Random---Twenty-four hours or ten percent has bought XETC for $21.594
+Random---Twenty-four hours or ten percent now has $2131.2086323670947
+---------------------------------------------------------------------------
