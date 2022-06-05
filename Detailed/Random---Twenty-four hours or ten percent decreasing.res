@@ -51211,3 +51211,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $503.5156696175219
 ---------------------------------------------------------------------------
+[2022-06-05 08:34:30] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: XETCZUSD
+Altname: ETCUSD
+Wsname: ETC/USD
+Base:
+ 	Name: XETC
+	Altname: ETC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (XETCZUSD):
+	Current:                    21.902
+	Maximum:                    0.046959
+	Minimum:                    0.044295
+	Variance:                   0.056742
+	Mean:                       0.045673
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.2
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.090909
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         True
+	Average local maximum:      21.942467
+	Number of local maximums:   30
+	Average local minimum:      21.932409
+	Number of local minimums:   22
+Is init: True
+Profit was -0.647842206191231%.
+Random---Twenty-four hours or ten percent decreasing now has $500.2536825949532
+---------------------------------------------------------------------------

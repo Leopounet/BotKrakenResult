@@ -4762,3 +4762,7 @@ Random---Twenty-four hours or ten percent decreasing now has $503.5156696175219
 Random---Twenty-four hours or ten percent decreasing has bought XETC for $21.902
 Random---Twenty-four hours or ten percent decreasing now has $503.5156696175219
 ---------------------------------------------------------------------------
+[2022-06-05 08:34:30] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XETC for $21.874. Profit was -0.647842206191231%.
+Random---Twenty-four hours or ten percent decreasing now has $500.2536825949532
+---------------------------------------------------------------------------
