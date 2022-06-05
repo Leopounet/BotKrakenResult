@@ -414,3 +414,7 @@ Random---Random now has $7723.669822590571
 Random---Random has sold DASH for $58.767. Profit was -0.52%.
 Random---Random now has $7683.5067395131
 ---------------------------------------------------------------------------
+[2022-06-05 21:56:07] BUY
+Random---Random has bought GLMR for $1.342
+Random---Random now has $7683.5067395131
+---------------------------------------------------------------------------
