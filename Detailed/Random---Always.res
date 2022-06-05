@@ -48502,3 +48502,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $472.1484721154811
 ---------------------------------------------------------------------------
+[2022-06-05 05:26:32] BUY
+Random---Always has bought: 
+Name: AUDUSD
+Altname: AUDUSD
+Wsname: AUD/USD
+Base:
+ 	Name: ZAUD
+	Altname: AUD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 10
+Data about this pair of assets (AUDUSD):
+	Current:                    0.72093
+	Maximum:                    1.390028
+	Minimum:                    1.37493
+	Variance:                   0.010862
+	Mean:                       1.384569
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.617647
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.487805
+	Is falling:                 True
+	Current fall duration:      18
+	Trending downwards:         True
+	Average local maximum:      0.72189
+	Number of local maximums:   34
+	Average local minimum:      0.722069
+	Number of local minimums:   41
+Is init: True
+
+Random---Always now has $472.1484721154811
+---------------------------------------------------------------------------
