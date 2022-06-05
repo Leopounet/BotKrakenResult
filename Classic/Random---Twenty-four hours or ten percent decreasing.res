@@ -5118,3 +5118,7 @@ Random---Twenty-four hours or ten percent decreasing now has $414.4832185078858
 Random---Twenty-four hours or ten percent decreasing has sold PHA for $0.1254. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $412.3279057716448
 ---------------------------------------------------------------------------
+[2022-06-05 13:02:51] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SHIB for $1.081e-05
+Random---Twenty-four hours or ten percent decreasing now has $412.3279057716448
+---------------------------------------------------------------------------
