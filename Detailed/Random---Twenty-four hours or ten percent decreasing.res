@@ -54565,3 +54565,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $425.25476202811257
 ---------------------------------------------------------------------------
+[2022-06-05 12:29:05] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: WOOUSD
+Altname: WOOUSD
+Wsname: WOO/USD
+Base:
+ 	Name: WOO
+	Altname: WOO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (WOOUSD):
+	Current:                    0.1539
+	Maximum:                    6.775068
+	Minimum:                    6.006006
+	Variance:                   0.113514
+	Mean:                       6.451855
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.923077
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.294118
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      0.154315
+	Number of local maximums:   13
+	Average local minimum:      0.156288
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $423.04343726556635
+---------------------------------------------------------------------------
