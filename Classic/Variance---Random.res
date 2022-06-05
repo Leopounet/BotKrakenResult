@@ -3210,3 +3210,7 @@ Variance---Random now has $1407.7709354600956
 Variance---Random has bought KINT for $5.28
 Variance---Random now has $1407.7709354600956
 ---------------------------------------------------------------------------
+[2022-06-05 06:40:06] SOLD
+Variance---Random has sold KINT for $5.29. Profit was -0.33060606060605524%.
+Variance---Random now has $1403.1167594280141
+---------------------------------------------------------------------------
