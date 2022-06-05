@@ -5190,3 +5190,7 @@ Random---Twenty-four hours or ten percent decreasing now has $395.484020921761
 Random---Twenty-four hours or ten percent decreasing has sold LINK for $7.35562. Profit was -1.134234679263026%.
 Random---Twenty-four hours or ten percent decreasing now has $390.9983040055225
 ---------------------------------------------------------------------------
+[2022-06-05 13:58:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought AXS for $19.84
+Random---Twenty-four hours or ten percent decreasing now has $390.9983040055225
+---------------------------------------------------------------------------

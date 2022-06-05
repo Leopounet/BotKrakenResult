@@ -5190,3 +5190,7 @@ Random---Twenty-four hours or ten percent now has $350.19206651774056
 Random---Twenty-four hours or ten percent has sold DASH for $58.067. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $348.3710677718483
 ---------------------------------------------------------------------------
+[2022-06-05 13:58:22] BUY
+Random---Twenty-four hours or ten percent has bought MOVR for $20.1574
+Random---Twenty-four hours or ten percent now has $348.3710677718483
+---------------------------------------------------------------------------
