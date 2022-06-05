@@ -642,3 +642,7 @@ Random---Always now has $6315.173787002362
 Random---Always has bought ATOM for $9.2921
 Random---Always now has $6315.173787002362
 ---------------------------------------------------------------------------
+[2022-06-05 21:48:19] SOLD
+Random---Always has sold ATOM for $9.2921. Profit was -0.52%.
+Random---Always now has $6282.334883309949
+---------------------------------------------------------------------------
