@@ -4398,3 +4398,7 @@ Random---Twenty-four hours or ten percent decreasing now has $581.2810425649021
 Random---Twenty-four hours or ten percent decreasing has sold XREP for $9.694. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $578.2583811435646
 ---------------------------------------------------------------------------
+[2022-06-05 04:04:02] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SHIB for $1.079e-05
+Random---Twenty-four hours or ten percent decreasing now has $578.2583811435646
+---------------------------------------------------------------------------
