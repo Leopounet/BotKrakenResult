@@ -56328,3 +56328,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $378.7467149476938
 ---------------------------------------------------------------------------
+[2022-06-05 14:34:23] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: PSTAKEUSD
+Altname: PSTAKEUSD
+Wsname: PSTAKE/USD
+Base:
+ 	Name: PSTAKE
+	Altname: PSTAKE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (PSTAKEUSD):
+	Current:                    0.2239
+	Maximum:                    5.882353
+	Minimum:                    4.027386
+	Variance:                   0.315344
+	Mean:                       4.353992
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.285714
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               7.0
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.2325
+	Number of local maximums:   7
+	Average local minimum:      0.236867
+	Number of local minimums:   3
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $378.7467149476938
+---------------------------------------------------------------------------

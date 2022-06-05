@@ -5238,3 +5238,7 @@ Random---Twenty-four hours or ten percent now has $336.7548491604107
 Random---Twenty-four hours or ten percent has sold GALA for $0.073. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $335.00372394477654
 ---------------------------------------------------------------------------
+[2022-06-05 14:34:23] BUY
+Random---Twenty-four hours or ten percent has bought REQ for $0.1187
+Random---Twenty-four hours or ten percent now has $335.00372394477654
+---------------------------------------------------------------------------

@@ -56328,3 +56328,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $299.79530963465237
 ---------------------------------------------------------------------------
+[2022-06-05 14:34:23] BUY
+Random---Always has bought: 
+Name: WAVESUSD
+Altname: WAVESUSD
+Wsname: WAVES/USD
+Base:
+ 	Name: WAVES
+	Altname: WAVES
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (WAVESUSD):
+	Current:                    8.3842
+	Maximum:                    0.125816
+	Minimum:                    0.096101
+	Variance:                   0.236178
+	Mean:                       0.10969
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.4
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.428571
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      9.29346
+	Number of local maximums:   30
+	Average local minimum:      9.337843
+	Number of local minimums:   14
+Is init: True
+
+Random---Always now has $299.79530963465237
+---------------------------------------------------------------------------
