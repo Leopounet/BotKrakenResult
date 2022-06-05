@@ -4766,3 +4766,7 @@ Random---Twenty-four hours or ten percent decreasing now has $503.5156696175219
 Random---Twenty-four hours or ten percent decreasing has sold XETC for $21.874. Profit was -0.647842206191231%.
 Random---Twenty-four hours or ten percent decreasing now has $500.2536825949532
 ---------------------------------------------------------------------------
+[2022-06-05 08:37:27] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LDO for $1.026
+Random---Twenty-four hours or ten percent decreasing now has $500.2536825949532
+---------------------------------------------------------------------------

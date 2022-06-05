@@ -51254,3 +51254,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $396.43854688205647
 ---------------------------------------------------------------------------
+[2022-06-05 08:37:27] BUY
+Random---Always has bought: 
+Name: EWTUSD
+Altname: EWTUSD
+Wsname: EWT/USD
+Base:
+ 	Name: EWT
+	Altname: EWT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (EWTUSD):
+	Current:                    2.729
+	Maximum:                    0.373134
+	Minimum:                    0.339559
+	Variance:                   0.089983
+	Mean:                       0.363232
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.37931
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.782609
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      2.763241
+	Number of local maximums:   29
+	Average local minimum:      2.763261
+	Number of local minimums:   23
+Is init: True
+
+Random---Always now has $396.43854688205647
+---------------------------------------------------------------------------

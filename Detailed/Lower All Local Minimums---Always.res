@@ -51254,3 +51254,46 @@ Is init: True
 Profit was 0.2272270869819164%.
 Lower All Local Minimums---Always now has $560.307479724299
 ---------------------------------------------------------------------------
+[2022-06-05 08:37:27] BUY
+Lower All Local Minimums---Always has bought: 
+Name: LUNAUSD
+Altname: LUNAUSD
+Wsname: LUNA/USD
+Base:
+ 	Name: LUNA
+	Altname: LUNA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50000
+Data about this pair of assets (LUNAUSD):
+	Current:                    8.7e-05
+	Maximum:                    12623.074981
+	Minimum:                    9729.519362
+	Variance:                   0.229227
+	Mean:                       10643.536609
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.517241
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.558824
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      9.3e-05
+	Number of local maximums:   29
+	Average local minimum:      9.5e-05
+	Number of local minimums:   34
+Is init: True
+
+Lower All Local Minimums---Always now has $560.307479724299
+---------------------------------------------------------------------------
