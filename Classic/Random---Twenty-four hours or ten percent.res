@@ -4198,3 +4198,7 @@ Random---Twenty-four hours or ten percent now has $698.4098341037966
 Random---Twenty-four hours or ten percent has sold XXMR for $188.86. Profit was -0.6363528665115266%.
 Random---Twenty-four hours or ten percent now has $693.9654831044787
 ---------------------------------------------------------------------------
+[2022-06-05 01:36:25] BUY
+Random---Twenty-four hours or ten percent has bought SRM for $1.014
+Random---Twenty-four hours or ten percent now has $693.9654831044787
+---------------------------------------------------------------------------

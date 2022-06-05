@@ -2794,3 +2794,7 @@ Lower All Local Minimums---Random now has $1789.7039723627101
 Lower All Local Minimums---Random has bought LUNA for $8.4e-05
 Lower All Local Minimums---Random now has $1789.7039723627101
 ---------------------------------------------------------------------------
+[2022-06-05 01:36:25] SOLD
+Lower All Local Minimums---Random has sold LUNA for $8.55e-05. Profit was 1.2657142857143016%.
+Lower All Local Minimums---Random now has $1812.3565112129013
+---------------------------------------------------------------------------
