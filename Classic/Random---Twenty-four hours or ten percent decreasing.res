@@ -4338,3 +4338,7 @@ Random---Twenty-four hours or ten percent decreasing now has $599.2220447066559
 Random---Twenty-four hours or ten percent decreasing has bought SRM for $1.025
 Random---Twenty-four hours or ten percent decreasing now has $599.2220447066559
 ---------------------------------------------------------------------------
+[2022-06-05 03:19:42] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SRM for $1.03. Profit was -0.0321951219512191%.
+Random---Twenty-four hours or ten percent decreasing now has $599.029124438604
+---------------------------------------------------------------------------
