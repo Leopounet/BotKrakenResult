@@ -55339,3 +55339,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $359.4408396351118
 ---------------------------------------------------------------------------
+[2022-06-05 13:24:08] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: WBTCUSD
+Altname: WBTCUSD
+Wsname: WBTC/USD
+Base:
+ 	Name: WBTC
+	Altname: WBTC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.0001
+Data about this pair of assets (WBTCUSD):
+	Current:                    29679.1
+	Maximum:                    3.4e-05
+	Minimum:                    3.3e-05
+	Variance:                   0.039622
+	Mean:                       3.4e-05
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.368421
+	Is ascending:               True
+	Current ascension duration: 66
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.8
+	Is falling:                 True
+	Current fall duration:      32
+	Trending downwards:         True
+	Average local maximum:      29862.131579
+	Number of local maximums:   19
+	Average local minimum:      29917.893333
+	Number of local minimums:   15
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $357.5717472690092
+---------------------------------------------------------------------------
