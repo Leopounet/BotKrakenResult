@@ -686,3 +686,7 @@ Lower All Local Minimums---Always now has $7295.330017784949
 Lower All Local Minimums---Always has sold GMT for $0.939. Profit was -0.52%.
 Lower All Local Minimums---Always now has $7257.394301692467
 ---------------------------------------------------------------------------
+[2022-06-05 22:09:55] BUY
+Lower All Local Minimums---Always has bought ZUSD for $0.96125
+Lower All Local Minimums---Always now has $7257.394301692467
+---------------------------------------------------------------------------

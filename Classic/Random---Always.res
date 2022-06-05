@@ -686,3 +686,7 @@ Random---Always now has $6158.774140537047
 Random---Always has sold PSTAKE for $0.2231. Profit was -0.52%.
 Random---Always now has $6126.748515006255
 ---------------------------------------------------------------------------
+[2022-06-05 22:09:55] BUY
+Random---Always has bought XXRP for $0.39736
+Random---Always now has $6126.748515006255
+---------------------------------------------------------------------------
