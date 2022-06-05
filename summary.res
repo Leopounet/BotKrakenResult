@@ -1,4 +1,4 @@
-[2022-06-05 18:59:23] SUMMARY
+[2022-06-05 19:01:23] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    28955.0
-		Maximum:                    33899.8
-		Minimum:                    28955.0
-		Variance:                   0.145865
-		Mean:                       29667.950972
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 352
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 True
-		Current fall duration:      355
-		Trending downwards:         True
-		Average local maximum:      31427.4
-		Number of local maximums:   2
-		Average local minimum:      31427.4
-		Number of local minimums:   2
-	Is init: True
+	None
 Wins: 0
-Losses: 38
-Total points: -19.759999999999987%
-Wallet: 8202.750665103724
+Losses: 39
+Total points: -20.279999999999987%
+Wallet: 8160.0963616451845
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
