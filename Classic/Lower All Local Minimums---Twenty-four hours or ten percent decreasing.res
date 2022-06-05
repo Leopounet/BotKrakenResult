@@ -5306,3 +5306,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought GST for $0.606
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $400.01022895421806
 ---------------------------------------------------------------------------
+[2022-06-05 15:24:58] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold GST for $0.609. Profit was -0.02495049504950453%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $399.91042442184533
+---------------------------------------------------------------------------

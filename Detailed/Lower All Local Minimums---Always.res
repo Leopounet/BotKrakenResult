@@ -57059,3 +57059,46 @@ Is init: True
 
 Lower All Local Minimums---Always now has $400.01022895421806
 ---------------------------------------------------------------------------
+[2022-06-05 15:24:58] SOLD
+Lower All Local Minimums---Always has sold: 
+Name: GSTUSD
+Altname: GSTUSD
+Wsname: GST/USD
+Base:
+ 	Name: GST
+	Altname: GST
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (GSTUSD):
+	Current:                    0.606
+	Maximum:                    1.672241
+	Minimum:                    1.0
+	Variance:                   0.402
+	Mean:                       1.266381
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.175
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.137931
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.806875
+	Number of local maximums:   40
+	Average local minimum:      0.79469
+	Number of local minimums:   29
+Is init: True
+Profit was -0.02495049504950453%.
+Lower All Local Minimums---Always now has $399.91042442184533
+---------------------------------------------------------------------------
