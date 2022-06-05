@@ -222,3 +222,7 @@ Random---Always now has $8339.997023745738
 Random---Always has sold QNT for $66.62. Profit was -0.52%.
 Random---Always now has $8296.62903922226
 ---------------------------------------------------------------------------
+[2022-06-05 18:19:57] BUY
+Random---Always has bought SUPER for $0.2084
+Random---Always now has $8296.62903922226
+---------------------------------------------------------------------------
