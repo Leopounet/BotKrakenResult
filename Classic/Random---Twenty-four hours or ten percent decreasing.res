@@ -4114,3 +4114,7 @@ Random---Twenty-four hours or ten percent decreasing now has $666.1880711267701
 Random---Twenty-four hours or ten percent decreasing has bought GLMR for $1.319
 Random---Twenty-four hours or ten percent decreasing now has $666.1880711267701
 ---------------------------------------------------------------------------
+[2022-06-05 00:34:31] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold GLMR for $1.319. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $662.7238931569109
+---------------------------------------------------------------------------
