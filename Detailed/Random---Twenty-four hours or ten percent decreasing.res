@@ -45621,3 +45621,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $633.3198467878566
 ---------------------------------------------------------------------------
+[2022-06-05 02:08:52] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: MANAUSD
+Altname: MANAUSD
+Wsname: MANA/USD
+Base:
+ 	Name: MANA
+	Altname: MANA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1.5
+Data about this pair of assets (MANAUSD):
+	Current:                    0.95552
+	Maximum:                    1.058829
+	Minimum:                    0.963233
+	Variance:                   0.090284
+	Mean:                       1.011793
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.125
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.235294
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.983503
+	Number of local maximums:   24
+	Average local minimum:      0.978824
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $630.0265835845597
+---------------------------------------------------------------------------

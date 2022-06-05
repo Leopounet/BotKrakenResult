@@ -4242,3 +4242,7 @@ Random---Twenty-four hours or ten percent decreasing now has $633.3198467878566
 Random---Twenty-four hours or ten percent decreasing has bought MANA for $0.95552
 Random---Twenty-four hours or ten percent decreasing now has $633.3198467878566
 ---------------------------------------------------------------------------
+[2022-06-05 02:08:52] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold MANA for $0.95552. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $630.0265835845597
+---------------------------------------------------------------------------
