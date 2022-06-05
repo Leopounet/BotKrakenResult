@@ -53404,3 +53404,46 @@ Is init: True
 Profit was -0.8411561621838666%.
 Random---Twenty-four hours or ten percent now has $401.58675149516705
 ---------------------------------------------------------------------------
+[2022-06-05 11:06:45] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: COMPUSD
+Altname: COMPUSD
+Wsname: COMP/USD
+Base:
+ 	Name: COMP
+	Altname: COMP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (COMPUSD):
+	Current:                    57.64
+	Maximum:                    0.018182
+	Minimum:                    0.016889
+	Variance:                   0.071103
+	Mean:                       0.017588
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.625
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.428571
+	Is falling:                 True
+	Current fall duration:      15
+	Trending downwards:         True
+	Average local maximum:      56.62125
+	Number of local maximums:   32
+	Average local minimum:      56.933571
+	Number of local minimums:   28
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $401.58675149516705
+---------------------------------------------------------------------------
