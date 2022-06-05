@@ -5010,3 +5010,7 @@ Random---Twenty-four hours or ten percent decreasing now has $443.1831906090624
 Random---Twenty-four hours or ten percent decreasing has bought FLOW for $2.429
 Random---Twenty-four hours or ten percent decreasing now has $443.1831906090624
 ---------------------------------------------------------------------------
+[2022-06-05 11:40:04] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold FLOW for $2.43. Profit was -0.47883079456564515%.
+Random---Twenty-four hours or ten percent decreasing now has $441.0610930160877
+---------------------------------------------------------------------------

@@ -53877,3 +53877,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $443.1831906090624
 ---------------------------------------------------------------------------
+[2022-06-05 11:40:04] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: FLOWUSD
+Altname: FLOWUSD
+Wsname: FLOW/USD
+Base:
+ 	Name: FLOW
+	Altname: FLOW
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1.5
+Data about this pair of assets (FLOWUSD):
+	Current:                    2.429
+	Maximum:                    0.419287
+	Minimum:                    0.39185
+	Variance:                   0.065439
+	Mean:                       0.407432
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.115385
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.888889
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      2.462038
+	Number of local maximums:   26
+	Average local minimum:      2.451185
+	Number of local minimums:   27
+Is init: True
+Profit was -0.47883079456564515%.
+Random---Twenty-four hours or ten percent decreasing now has $441.0610930160877
+---------------------------------------------------------------------------
