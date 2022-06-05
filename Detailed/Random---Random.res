@@ -34398,3 +34398,46 @@ Is init: True
 Profit was -0.6965484772693893%.
 Random---Random now has $1288.5080746440724
 ---------------------------------------------------------------------------
+[2022-06-05 09:18:59] BUY
+Random---Random has bought: 
+Name: SGBUSD
+Altname: SGBUSD
+Wsname: SGB/USD
+Base:
+ 	Name: SGB
+	Altname: SGB
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 150
+Data about this pair of assets (SGBUSD):
+	Current:                    0.0365
+	Maximum:                    27.39726
+	Minimum:                    25.252525
+	Variance:                   0.078283
+	Mean:                       26.339344
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.36
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.678571
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.03794
+	Number of local maximums:   25
+	Average local minimum:      0.038114
+	Number of local minimums:   28
+Is init: True
+
+Random---Random now has $1288.5080746440724
+---------------------------------------------------------------------------

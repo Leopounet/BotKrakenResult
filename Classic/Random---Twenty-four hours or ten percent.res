@@ -4822,3 +4822,7 @@ Random---Twenty-four hours or ten percent now has $440.5324383388602
 Random---Twenty-four hours or ten percent has sold GNO for $189.23. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $438.2416696594981
 ---------------------------------------------------------------------------
+[2022-06-05 09:18:59] BUY
+Random---Twenty-four hours or ten percent has bought KNC for $1.8705
+Random---Twenty-four hours or ten percent now has $438.2416696594981
+---------------------------------------------------------------------------
