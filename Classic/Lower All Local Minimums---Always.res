@@ -4890,3 +4890,7 @@ Lower All Local Minimums---Always now has $516.0126733807209
 Lower All Local Minimums---Always has bought FIL for $7.291
 Lower All Local Minimums---Always now has $516.0126733807209
 ---------------------------------------------------------------------------
+[2022-06-05 10:09:25] SOLD
+Lower All Local Minimums---Always has sold FIL for $7.291. Profit was -0.52%.
+Lower All Local Minimums---Always now has $513.3294074791412
+---------------------------------------------------------------------------

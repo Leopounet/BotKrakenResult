@@ -34914,3 +34914,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $1279.9777523697178
 ---------------------------------------------------------------------------
+[2022-06-05 10:09:25] BUY
+Random---Random has bought: 
+Name: SAMOUSD
+Altname: SAMOUSD
+Wsname: SAMO/USD
+Base:
+ 	Name: SAMO
+	Altname: SAMO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 200
+Data about this pair of assets (SAMOUSD):
+	Current:                    0.005433
+	Maximum:                    185.253798
+	Minimum:                    176.83466
+	Variance:                   0.045447
+	Mean:                       180.873818
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.888889
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.764706
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.005534
+	Number of local maximums:   27
+	Average local minimum:      0.005569
+	Number of local minimums:   17
+Is init: True
+
+Random---Random now has $1279.9777523697178
+---------------------------------------------------------------------------
