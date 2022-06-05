@@ -4706,3 +4706,7 @@ Random---Always now has $415.1848928385773
 Random---Always has bought OCEAN for $0.2355
 Random---Always now has $415.1848928385773
 ---------------------------------------------------------------------------
+[2022-06-05 07:52:53] SOLD
+Random---Always has sold OCEAN for $0.2355. Profit was -0.52%.
+Random---Always now has $413.0259313958167
+---------------------------------------------------------------------------

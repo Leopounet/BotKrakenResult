@@ -4706,3 +4706,7 @@ Random---Twenty-four hours or ten percent now has $474.19440001245675
 Random---Twenty-four hours or ten percent has bought AIR for $0.02658
 Random---Twenty-four hours or ten percent now has $474.19440001245675
 ---------------------------------------------------------------------------
+[2022-06-05 07:52:53] SOLD
+Random---Twenty-four hours or ten percent has sold AIR for $0.02658. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $471.72858913239196
+---------------------------------------------------------------------------
