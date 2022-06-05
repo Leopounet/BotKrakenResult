@@ -4290,3 +4290,7 @@ Random---Always now has $551.5543999396652
 Random---Always has bought ROOK for $42.52
 Random---Always now has $551.5543999396652
 ---------------------------------------------------------------------------
+[2022-06-05 02:44:17] SOLD
+Random---Always has sold ROOK for $42.52. Profit was -0.52%.
+Random---Always now has $548.6863170599789
+---------------------------------------------------------------------------
