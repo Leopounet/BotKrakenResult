@@ -5246,3 +5246,7 @@ Random---Twenty-four hours or ten percent now has $335.00372394477654
 Random---Twenty-four hours or ten percent has sold REQ for $0.1187. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $333.2617045802637
 ---------------------------------------------------------------------------
+[2022-06-05 14:40:31] BUY
+Random---Twenty-four hours or ten percent has bought MANA for $0.96676
+Random---Twenty-four hours or ten percent now has $333.2617045802637
+---------------------------------------------------------------------------

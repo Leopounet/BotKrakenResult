@@ -56414,3 +56414,46 @@ Is init: True
 Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $300.9654420928353
 ---------------------------------------------------------------------------
+[2022-06-05 14:40:31] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought: 
+Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base:
+ 	Name: ACH
+	Altname: ACH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (ACHUSD):
+	Current:                    0.01457
+	Maximum:                    70.028011
+	Minimum:                    53.475936
+	Variance:                   0.236364
+	Mean:                       63.374956
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.136364
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.869565
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.015427
+	Number of local maximums:   22
+	Average local minimum:      0.015642
+	Number of local minimums:   23
+Is init: True
+
+Recent Minimum---Twenty-four hours or ten percent now has $300.9654420928353
+---------------------------------------------------------------------------
