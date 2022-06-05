@@ -54006,3 +54006,46 @@ Is init: True
 Profit was -0.52%.
 Lower All Local Minimums---Always now has $469.28311266201206
 ---------------------------------------------------------------------------
+[2022-06-05 11:49:08] BUY
+Lower All Local Minimums---Always has bought: 
+Name: FILUSD
+Altname: FILUSD
+Wsname: FIL/USD
+Base:
+ 	Name: FIL
+	Altname: FIL
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (FILUSD):
+	Current:                    7.311
+	Maximum:                    0.138485
+	Minimum:                    0.128899
+	Variance:                   0.069219
+	Mean:                       0.134857
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.290323
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.735294
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      7.392097
+	Number of local maximums:   31
+	Average local minimum:      7.3925
+	Number of local minimums:   34
+Is init: True
+
+Lower All Local Minimums---Always now has $469.28311266201206
+---------------------------------------------------------------------------

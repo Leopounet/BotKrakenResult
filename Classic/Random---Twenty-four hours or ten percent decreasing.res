@@ -5022,3 +5022,7 @@ Random---Twenty-four hours or ten percent decreasing now has $441.0610930160877
 Random---Twenty-four hours or ten percent decreasing has sold ALICE for $2.828. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $438.767575332404
 ---------------------------------------------------------------------------
+[2022-06-05 11:49:08] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CHZ for $0.1236
+Random---Twenty-four hours or ten percent decreasing now has $438.767575332404
+---------------------------------------------------------------------------

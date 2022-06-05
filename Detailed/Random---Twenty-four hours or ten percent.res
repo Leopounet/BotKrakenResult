@@ -54006,3 +54006,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $386.2117820991307
 ---------------------------------------------------------------------------
+[2022-06-05 11:49:08] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: GHSTUSD
+Altname: GHSTUSD
+Wsname: GHST/USD
+Base:
+ 	Name: GHST
+	Altname: GHST
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (GHSTUSD):
+	Current:                    1.482
+	Maximum:                    0.683527
+	Minimum:                    0.660895
+	Variance:                   0.033111
+	Mean:                       0.672724
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.8
+	Is ascending:               True
+	Current ascension duration: 16
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.0
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         True
+	Average local maximum:      1.48488
+	Number of local maximums:   15
+	Average local minimum:      1.488933
+	Number of local minimums:   9
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $386.2117820991307
+---------------------------------------------------------------------------

@@ -5022,3 +5022,7 @@ Random---Twenty-four hours or ten percent now has $388.2305811209597
 Random---Twenty-four hours or ten percent has sold ORCA for $0.82. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $386.2117820991307
 ---------------------------------------------------------------------------
+[2022-06-05 11:49:08] BUY
+Random---Twenty-four hours or ten percent has bought GHST for $1.482
+Random---Twenty-four hours or ten percent now has $386.2117820991307
+---------------------------------------------------------------------------
