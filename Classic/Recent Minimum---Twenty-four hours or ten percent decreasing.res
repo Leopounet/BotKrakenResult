@@ -4106,3 +4106,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $699.084979
 Recent Minimum---Twenty-four hours or ten percent decreasing has bought ATOM for $9.2305
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $699.0849797707315
 ---------------------------------------------------------------------------
+[2022-06-05 00:28:36] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold ATOM for $9.2305. Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $695.4497378759237
+---------------------------------------------------------------------------

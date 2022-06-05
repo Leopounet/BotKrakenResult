@@ -4106,3 +4106,7 @@ Random---Twenty-four hours or ten percent now has $734.701958738302
 Random---Twenty-four hours or ten percent has bought WOO for $0.158
 Random---Twenty-four hours or ten percent now has $734.701958738302
 ---------------------------------------------------------------------------
+[2022-06-05 00:28:36] SOLD
+Random---Twenty-four hours or ten percent has sold WOO for $0.1603. Profit was 0.9356962025316533%.
+Random---Twenty-four hours or ten percent now has $741.5765370661419
+---------------------------------------------------------------------------

@@ -29066,3 +29066,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $1762.8008597774872
 ---------------------------------------------------------------------------
+[2022-06-05 00:28:36] BUY
+Random---Random has bought: 
+Name: FILUSD
+Altname: FILUSD
+Wsname: FIL/USD
+Base:
+ 	Name: FIL
+	Altname: FIL
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (FILUSD):
+	Current:                    7.495
+	Maximum:                    0.138485
+	Minimum:                    0.12837
+	Variance:                   0.073042
+	Mean:                       0.134021
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.666667
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.454545
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         True
+	Average local maximum:      7.42437
+	Number of local maximums:   27
+	Average local minimum:      7.446697
+	Number of local minimums:   33
+Is init: True
+
+Random---Random now has $1762.8008597774872
+---------------------------------------------------------------------------
