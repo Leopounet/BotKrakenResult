@@ -7222,3 +7222,9 @@ Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing 
 Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing has -316.0889509368791 points
 Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $420.14863652028197
 ---------------------------------------------------------------------------
+[2022-06-05 09:13:04] BRIEF
+Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing has 2 wins
+Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing has 600 losses
+Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing has -316.0889509368791 points
+Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $420.14863652028197
+---------------------------------------------------------------------------
