@@ -366,3 +366,7 @@ Variance---Always now has $8178.791317823806
 Variance---Always has sold GST for $0.629. Profit was 0.60540192926045%.
 Variance---Always now has $8228.305878252097
 ---------------------------------------------------------------------------
+[2022-06-05 19:31:15] BUY
+Variance---Always has bought GST for $0.629
+Variance---Always now has $8228.305878252097
+---------------------------------------------------------------------------

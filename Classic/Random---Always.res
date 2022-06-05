@@ -366,3 +366,7 @@ Random---Always now has $7463.558522384492
 Random---Always has sold ALGO for $0.39695. Profit was -0.52%.
 Random---Always now has $7424.748018068092
 ---------------------------------------------------------------------------
+[2022-06-05 19:31:15] BUY
+Random---Always has bought TRIBE for $0.23
+Random---Always now has $7424.748018068092
+---------------------------------------------------------------------------
