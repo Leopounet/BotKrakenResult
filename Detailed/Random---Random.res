@@ -36462,3 +36462,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $1158.389060665352
 ---------------------------------------------------------------------------
+[2022-06-05 12:47:35] BUY
+Random---Random has bought: 
+Name: GMTUSD
+Altname: GMTUSD
+Wsname: GMT/USD
+Base:
+ 	Name: GMT
+	Altname: GMT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (GMTUSD):
+	Current:                    0.945
+	Maximum:                    1.068376
+	Minimum:                    0.934579
+	Variance:                   0.125234
+	Mean:                       0.999405
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.1
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.285714
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.992933
+	Number of local maximums:   30
+	Average local minimum:      1.00981
+	Number of local minimums:   21
+Is init: True
+
+Random---Random now has $1158.389060665352
+---------------------------------------------------------------------------
