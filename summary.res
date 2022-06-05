@@ -1,4 +1,4 @@
-[2022-06-05 21:30:37] SUMMARY
+[2022-06-05 21:32:34] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    28976.7
-		Maximum:                    33899.8
-		Minimum:                    28844.5
-		Variance:                   0.149125
-		Mean:                       29481.504306
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         True
-		Average local maximum:      31474.266667
-		Number of local maximums:   3
-		Average local minimum:      30566.433333
-		Number of local minimums:   3
-	Is init: True
+	None
 Wins: 0
-Losses: 76
-Total points: -39.87888205258895%
-Wallet: 6704.230841356666
+Losses: 77
+Total points: -40.39922715744907%
+Wallet: 6669.345704355144
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: USDCHF
+	Altname: USDCHF
+	Wsname: USD/CHF
+	Base:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: CHF
+		Altname: CHF
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (USDCHF):
+		Current:                    0.9609
+		Maximum:                    1.042481
+		Minimum:                    1.037129
+		Variance:                   0.005134
+		Mean:                       1.039265
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.090909
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.911765
+		Is falling:                 True
+		Current fall duration:      6
+		Trending downwards:         False
+		Average local maximum:      0.962205
+		Number of local maximums:   33
+		Average local minimum:      0.962245
+		Number of local minimums:   34
+	Is init: True
 Wins: 6
 Losses: 46
 Total points: -7.277116928529749%
