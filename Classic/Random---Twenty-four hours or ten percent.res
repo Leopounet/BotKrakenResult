@@ -4782,3 +4782,7 @@ Random---Twenty-four hours or ten percent now has $453.41320180293377
 Random---Twenty-four hours or ten percent has sold FTM for $0.353. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $451.0554531535585
 ---------------------------------------------------------------------------
+[2022-06-05 08:49:18] BUY
+Random---Twenty-four hours or ten percent has bought LRC for $0.5109
+Random---Twenty-four hours or ten percent now has $451.0554531535585
+---------------------------------------------------------------------------
