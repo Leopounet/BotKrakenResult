@@ -4994,3 +4994,7 @@ Random---Twenty-four hours or ten percent now has $394.3505148882864
 Random---Twenty-four hours or ten percent has bought MC for $0.987
 Random---Twenty-four hours or ten percent now has $394.3505148882864
 ---------------------------------------------------------------------------
+[2022-06-05 11:27:36] SOLD
+Random---Twenty-four hours or ten percent has sold MC for $0.987. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $392.2998922108673
+---------------------------------------------------------------------------
