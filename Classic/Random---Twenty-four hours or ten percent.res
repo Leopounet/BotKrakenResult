@@ -5198,3 +5198,7 @@ Random---Twenty-four hours or ten percent now has $348.3710677718483
 Random---Twenty-four hours or ten percent has sold MOVR for $20.0007. Profit was -1.2973820036314216%.
 Random---Twenty-four hours or ten percent now has $343.8513642327177
 ---------------------------------------------------------------------------
+[2022-06-05 14:04:27] BUY
+Random---Twenty-four hours or ten percent has bought BADGER for $5.737
+Random---Twenty-four hours or ten percent now has $343.8513642327177
+---------------------------------------------------------------------------

@@ -5198,3 +5198,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold LUNA for $8.005e-05. Profit was -0.39492182614134963%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $418.44749222551394
 ---------------------------------------------------------------------------
+[2022-06-05 14:04:27] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought LUNA for $8.022e-05
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $418.44749222551394
+---------------------------------------------------------------------------
