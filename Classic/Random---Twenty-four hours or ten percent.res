@@ -5138,3 +5138,7 @@ Random---Twenty-four hours or ten percent now has $360.88099375652024
 Random---Twenty-four hours or ten percent has bought ZEUR for $1.07091
 Random---Twenty-four hours or ten percent now has $360.88099375652024
 ---------------------------------------------------------------------------
+[2022-06-05 13:17:56] SOLD
+Random---Twenty-four hours or ten percent has sold ZEUR for $1.07092. Profit was -0.3990662147145715%.
+Random---Twenty-four hours or ten percent now has $359.4408396351118
+---------------------------------------------------------------------------

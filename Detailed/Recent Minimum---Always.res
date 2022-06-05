@@ -55253,3 +55253,46 @@ Is init: True
 
 Recent Minimum---Always now has $346.99408878698557
 ---------------------------------------------------------------------------
+[2022-06-05 13:17:56] SOLD
+Recent Minimum---Always has sold: 
+Name: ALICEUSD
+Altname: ALICEUSD
+Wsname: ALICE/USD
+Base:
+ 	Name: ALICE
+	Altname: ALICE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (ALICEUSD):
+	Current:                    2.841
+	Maximum:                    0.36846
+	Minimum:                    0.334448
+	Variance:                   0.092308
+	Mean:                       0.348943
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.764706
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.1
+	Is falling:                 True
+	Current fall duration:      30
+	Trending downwards:         True
+	Average local maximum:      2.858529
+	Number of local maximums:   17
+	Average local minimum:      2.8681
+	Number of local minimums:   10
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Always now has $345.18971952529324
+---------------------------------------------------------------------------
