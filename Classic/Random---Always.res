@@ -470,3 +470,7 @@ Random---Always now has $7102.043556408744
 Random---Always has sold GHST for $1.4968. Profit was -0.52%.
 Random---Always now has $7065.112929915418
 ---------------------------------------------------------------------------
+[2022-06-05 20:23:01] BUY
+Random---Always has bought AUDIO for $0.4022
+Random---Always now has $7065.112929915418
+---------------------------------------------------------------------------
