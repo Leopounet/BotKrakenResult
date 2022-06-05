@@ -4958,3 +4958,7 @@ Random---Twenty-four hours or ten percent now has $407.11035208361164
 Random---Twenty-four hours or ten percent has sold XLTC for $62.69. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $404.9933782527769
 ---------------------------------------------------------------------------
+[2022-06-05 10:59:58] BUY
+Random---Twenty-four hours or ten percent has bought UNI for $4.982
+Random---Twenty-four hours or ten percent now has $404.9933782527769
+---------------------------------------------------------------------------
