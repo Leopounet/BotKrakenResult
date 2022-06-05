@@ -53533,3 +53533,46 @@ Is init: True
 
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $483.2629274542126
 ---------------------------------------------------------------------------
+[2022-06-05 11:15:41] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold: 
+Name: FILUSD
+Altname: FILUSD
+Wsname: FIL/USD
+Base:
+ 	Name: FIL
+	Altname: FIL
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (FILUSD):
+	Current:                    7.297
+	Maximum:                    0.138485
+	Minimum:                    0.128502
+	Variance:                   0.072089
+	Mean:                       0.134777
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.290323
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.735294
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      7.407097
+	Number of local maximums:   31
+	Average local minimum:      7.3925
+	Number of local minimums:   34
+Is init: True
+Profit was -0.4514786898725549%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $481.0810983207026
+---------------------------------------------------------------------------

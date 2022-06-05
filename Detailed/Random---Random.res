@@ -35602,3 +35602,46 @@ Is init: True
 Profit was -0.40100033010893565%.
 Random---Random now has $1229.8087053912457
 ---------------------------------------------------------------------------
+[2022-06-05 11:15:41] BUY
+Random---Random has bought: 
+Name: BALUSD
+Altname: BALUSD
+Wsname: BAL/USD
+Base:
+ 	Name: BAL
+	Altname: BAL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (BALUSD):
+	Current:                    6.63
+	Maximum:                    0.15456
+	Minimum:                    0.141643
+	Variance:                   0.083569
+	Mean:                       0.148561
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.823529
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.1875
+	Is falling:                 True
+	Current fall duration:      17
+	Trending downwards:         True
+	Average local maximum:      6.722941
+	Number of local maximums:   17
+	Average local minimum:      6.720625
+	Number of local minimums:   16
+Is init: True
+
+Random---Random now has $1229.8087053912457
+---------------------------------------------------------------------------
