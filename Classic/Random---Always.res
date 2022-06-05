@@ -6,3 +6,7 @@ Random---Always now has $10000
 Random---Always has sold SRM for $1.037. Profit was -0.52%.
 Random---Always now has $9948.0
 ---------------------------------------------------------------------------
+[2022-06-05 16:33:11] BUY
+Random---Always has bought RARE for $0.2489
+Random---Always now has $9948.0
+---------------------------------------------------------------------------
