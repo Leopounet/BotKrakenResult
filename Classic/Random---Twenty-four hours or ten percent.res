@@ -4694,3 +4694,7 @@ Random---Twenty-four hours or ten percent now has $479.16475686886724
 Random---Twenty-four hours or ten percent has sold ALGO for $0.38572. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $476.67310013314915
 ---------------------------------------------------------------------------
+[2022-06-05 07:43:53] BUY
+Random---Twenty-four hours or ten percent has bought BAT for $0.37814
+Random---Twenty-four hours or ten percent now has $476.67310013314915
+---------------------------------------------------------------------------
