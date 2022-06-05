@@ -4486,3 +4486,7 @@ Random---Twenty-four hours or ten percent now has $550.8446119781131
 Random---Twenty-four hours or ten percent has sold SUSHI for $1.534. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $547.9802199958269
 ---------------------------------------------------------------------------
+[2022-06-05 05:08:49] BUY
+Random---Twenty-four hours or ten percent has bought CVX for $8.32
+Random---Twenty-four hours or ten percent now has $547.9802199958269
+---------------------------------------------------------------------------
