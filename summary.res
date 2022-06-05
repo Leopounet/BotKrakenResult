@@ -1,4 +1,4 @@
-[2022-06-05 21:04:46] SUMMARY
+[2022-06-05 21:06:48] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: XXMRZUSD
+	Altname: XMRUSD
+	Wsname: XMR/USD
+	Base:
+	 	Name: XXMR
+		Altname: XMR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.02
+	Data about this pair of assets (XXMRZUSD):
+		Current:                    187.47
+		Maximum:                    198.14
+		Minimum:                    185.87
+		Variance:                   0.061926
+		Mean:                       191.646264
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 True
+		Current fall duration:      12
+		Trending downwards:         True
+		Average local maximum:      191.805
+		Number of local maximums:   20
+		Average local minimum:      192.529
+		Number of local minimums:   20
+	Is init: True
 Wins: 0
 Losses: 70
 Total points: -36.781626662061825%
