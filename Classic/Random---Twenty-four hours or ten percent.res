@@ -5038,3 +5038,7 @@ Random---Twenty-four hours or ten percent now has $384.20348083221523
 Random---Twenty-four hours or ten percent has sold XXRP for $0.39408. Profit was -0.3369615619280082%.
 Random---Twenty-four hours or ten percent now has $382.9088627822212
 ---------------------------------------------------------------------------
+[2022-06-05 12:01:21] BUY
+Random---Twenty-four hours or ten percent has bought UMA for $3.079
+Random---Twenty-four hours or ten percent now has $382.9088627822212
+---------------------------------------------------------------------------

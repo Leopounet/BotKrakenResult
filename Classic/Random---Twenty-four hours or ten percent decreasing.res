@@ -5038,3 +5038,7 @@ Random---Twenty-four hours or ten percent decreasing now has $436.4859839406755
 Random---Twenty-four hours or ten percent decreasing has sold WAVES for $8.2351. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $434.216256824184
 ---------------------------------------------------------------------------
+[2022-06-05 12:01:21] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RARE for $0.2624
+Random---Twenty-four hours or ten percent decreasing now has $434.216256824184
+---------------------------------------------------------------------------
