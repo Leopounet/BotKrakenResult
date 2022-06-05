@@ -45277,3 +45277,46 @@ Is init: True
 
 Random---Always now has $579.67352261274
 ---------------------------------------------------------------------------
+[2022-06-05 01:45:14] SOLD
+Random---Always has sold: 
+Name: ZUSDZCAD
+Altname: USDCAD
+Wsname: USD/CAD
+Base:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZCAD
+	Altname: CAD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (ZUSDZCAD):
+	Current:                    1.25998
+	Maximum:                    0.796806
+	Minimum:                    0.791365
+	Variance:                   0.006829
+	Mean:                       0.794492
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.903226
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.1
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      1.258642
+	Number of local maximums:   31
+	Average local minimum:      1.258434
+	Number of local minimums:   30
+Is init: True
+Profit was -0.4%.
+Random---Always now has $577.354828522289
+---------------------------------------------------------------------------

@@ -4210,3 +4210,7 @@ Random---Twenty-four hours or ten percent now has $690.3568625923355
 Random---Twenty-four hours or ten percent has bought SAND for $1.2723
 Random---Twenty-four hours or ten percent now has $690.3568625923355
 ---------------------------------------------------------------------------
+[2022-06-05 01:45:14] SOLD
+Random---Twenty-four hours or ten percent has sold SAND for $1.2723. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $686.7670069068553
+---------------------------------------------------------------------------

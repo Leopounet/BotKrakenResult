@@ -4210,3 +4210,7 @@ Random---Twenty-four hours or ten percent decreasing now has $646.6659466273286
 Random---Twenty-four hours or ten percent decreasing has bought BNT for $1.224
 Random---Twenty-four hours or ten percent decreasing now has $646.6659466273286
 ---------------------------------------------------------------------------
+[2022-06-05 01:45:14] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold BNT for $1.224. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $643.3032837048664
+---------------------------------------------------------------------------
