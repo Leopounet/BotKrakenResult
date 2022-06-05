@@ -29754,3 +29754,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $1688.1008233952764
 ---------------------------------------------------------------------------
+[2022-06-05 01:39:21] BUY
+Random---Random has bought: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    104.7
+	Maximum:                    0.009733
+	Minimum:                    0.008843
+	Variance:                   0.09144
+	Mean:                       0.009373
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.888889
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.764706
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      106.785185
+	Number of local maximums:   27
+	Average local minimum:      106.922941
+	Number of local minimums:   17
+Is init: True
+
+Random---Random now has $1688.1008233952764
+---------------------------------------------------------------------------
