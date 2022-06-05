@@ -4990,3 +4990,7 @@ Random---Twenty-four hours or ten percent decreasing now has $449.76363767488374
 Random---Twenty-four hours or ten percent decreasing has sold UNI for $4.941. Profit was -0.540234722784307%.
 Random---Twenty-four hours or ten percent decreasing now has $447.3338583337062
 ---------------------------------------------------------------------------
+[2022-06-05 11:24:38] BUY
+Random---Twenty-four hours or ten percent decreasing has bought USDC for $1.0
+Random---Twenty-four hours or ten percent decreasing now has $447.3338583337062
+---------------------------------------------------------------------------

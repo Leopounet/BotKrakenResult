@@ -4990,3 +4990,7 @@ Random---Twenty-four hours or ten percent now has $397.42110818537776
 Random---Twenty-four hours or ten percent has sold XETC for $21.716. Profit was -0.7726296449405163%.
 Random---Twenty-four hours or ten percent now has $394.3505148882864
 ---------------------------------------------------------------------------
+[2022-06-05 11:24:38] BUY
+Random---Twenty-four hours or ten percent has bought MC for $0.987
+Random---Twenty-four hours or ten percent now has $394.3505148882864
+---------------------------------------------------------------------------
