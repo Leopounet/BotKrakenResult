@@ -4186,3 +4186,7 @@ Random---Twenty-four hours or ten percent now has $704.0981327710429
 Random---Twenty-four hours or ten percent has bought GRT for $0.16326
 Random---Twenty-four hours or ten percent now has $704.0981327710429
 ---------------------------------------------------------------------------
+[2022-06-05 01:27:37] SOLD
+Random---Twenty-four hours or ten percent has sold GRT for $0.16279. Profit was -0.8078843562415745%.
+Random---Twenty-four hours or ten percent now has $698.4098341037966
+---------------------------------------------------------------------------

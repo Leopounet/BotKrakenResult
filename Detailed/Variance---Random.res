@@ -31259,3 +31259,46 @@ Is init: True
 
 Variance---Random now has $1751.8599718095052
 ---------------------------------------------------------------------------
+[2022-06-05 01:27:36] SOLD
+Variance---Random has sold: 
+Name: KINTUSD
+Altname: KINTUSD
+Wsname: KINT/USD
+Base:
+ 	Name: KINT
+	Altname: KINT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (KINTUSD):
+	Current:                    5.73
+	Maximum:                    0.278552
+	Minimum:                    0.162075
+	Variance:                   0.418152
+	Mean:                       0.240002
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.78125
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.052632
+	Is falling:                 True
+	Current fall duration:      11
+	Trending downwards:         False
+	Average local maximum:      4.115312
+	Number of local maximums:   32
+	Average local minimum:      4.162632
+	Number of local minimums:   19
+Is init: True
+Profit was 0.35260034904013127%.
+Variance---Random now has $1758.0370361847997
+---------------------------------------------------------------------------
