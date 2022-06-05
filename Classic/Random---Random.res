@@ -30,3 +30,7 @@ Random---Random now has $9865.820983728916
 Random---Random has sold GMT for $0.946. Profit was -0.52%.
 Random---Random now has $9814.518714613525
 ---------------------------------------------------------------------------
+[2022-06-05 16:58:58] BUY
+Random---Random has bought RARI for $2.72
+Random---Random now has $9814.518714613525
+---------------------------------------------------------------------------
