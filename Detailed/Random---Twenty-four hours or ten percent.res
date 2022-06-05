@@ -52243,3 +52243,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $429.5450144578727
 ---------------------------------------------------------------------------
+[2022-06-05 09:45:39] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: OXTUSD
+Altname: OXTUSD
+Wsname: OXT/USD
+Base:
+ 	Name: OXT
+	Altname: OXT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (OXTUSD):
+	Current:                    0.12806
+	Maximum:                    7.92393
+	Minimum:                    7.458234
+	Variance:                   0.058771
+	Mean:                       7.699842
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.15
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.857143
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.12935
+	Number of local maximums:   20
+	Average local minimum:      0.130591
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $427.31138038269177
+---------------------------------------------------------------------------
