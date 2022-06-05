@@ -4158,3 +4158,7 @@ Random---Twenty-four hours or ten percent decreasing now has $645.7288974677085
 Random---Twenty-four hours or ten percent decreasing has sold ANT for $1.7555. Profit was -1.5349422046800139%.
 Random---Twenty-four hours or ten percent decreasing now has $635.8173320926617
 ---------------------------------------------------------------------------
+[2022-06-05 01:07:04] BUY
+Random---Twenty-four hours or ten percent decreasing has bought STEP for $0.0884
+Random---Twenty-four hours or ten percent decreasing now has $635.8173320926617
+---------------------------------------------------------------------------

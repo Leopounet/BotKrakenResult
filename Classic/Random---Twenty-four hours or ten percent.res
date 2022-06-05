@@ -4158,3 +4158,7 @@ Random---Twenty-four hours or ten percent now has $721.4904716053122
 Random---Twenty-four hours or ten percent has sold SCRT for $1.442. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $717.7387211529646
 ---------------------------------------------------------------------------
+[2022-06-05 01:07:04] BUY
+Random---Twenty-four hours or ten percent has bought AAVE for $105.04
+Random---Twenty-four hours or ten percent now has $717.7387211529646
+---------------------------------------------------------------------------
