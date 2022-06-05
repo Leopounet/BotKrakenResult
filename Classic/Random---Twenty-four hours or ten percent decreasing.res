@@ -4902,3 +4902,7 @@ Random---Twenty-four hours or ten percent decreasing now has $464.5126249480977
 Random---Twenty-four hours or ten percent decreasing has sold CQT for $0.1315. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $462.0971592983676
 ---------------------------------------------------------------------------
+[2022-06-05 10:18:20] BUY
+Random---Twenty-four hours or ten percent decreasing has bought DOT for $9.3391
+Random---Twenty-four hours or ten percent decreasing now has $462.0971592983676
+---------------------------------------------------------------------------
