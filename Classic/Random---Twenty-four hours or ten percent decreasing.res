@@ -4798,3 +4798,7 @@ Random---Twenty-four hours or ten percent decreasing now has $493.08431287092094
 Random---Twenty-four hours or ten percent decreasing has sold BOND for $3.446. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $490.52027444399215
 ---------------------------------------------------------------------------
+[2022-06-05 09:01:10] BUY
+Random---Twenty-four hours or ten percent decreasing has bought YGG for $0.599
+Random---Twenty-four hours or ten percent decreasing now has $490.52027444399215
+---------------------------------------------------------------------------

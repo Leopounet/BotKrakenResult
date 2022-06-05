@@ -4798,3 +4798,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $436.283935
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold AXS for $20.108. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $434.01525914333683
 ---------------------------------------------------------------------------
+[2022-06-05 09:01:10] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought ADA for $0.562658
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $434.01525914333683
+---------------------------------------------------------------------------

@@ -3302,3 +3302,7 @@ Recent Minimum---Random now has $1103.3220641976645
 Recent Minimum---Random has sold AXS for $20.108. Profit was -0.52%.
 Recent Minimum---Random now has $1097.5847894638366
 ---------------------------------------------------------------------------
+[2022-06-05 09:01:10] BUY
+Recent Minimum---Random has bought ADA for $0.562658
+Recent Minimum---Random now has $1097.5847894638366
+---------------------------------------------------------------------------
