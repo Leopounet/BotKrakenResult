@@ -44417,3 +44417,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $655.9079464049174
 ---------------------------------------------------------------------------
+[2022-06-05 00:46:26] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: ROOKUSD
+Altname: ROOKUSD
+Wsname: ROOK/USD
+Base:
+ 	Name: ROOK
+	Altname: ROOK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (ROOKUSD):
+	Current:                    42.52
+	Maximum:                    0.028441
+	Minimum:                    0.023441
+	Variance:                   0.175809
+	Mean:                       0.025446
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.666667
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.375
+	Is falling:                 True
+	Current fall duration:      147
+	Trending downwards:         False
+	Average local maximum:      37.017778
+	Number of local maximums:   9
+	Average local minimum:      41.6725
+	Number of local minimums:   8
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $652.4972250836119
+---------------------------------------------------------------------------

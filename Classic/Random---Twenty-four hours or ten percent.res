@@ -4130,3 +4130,7 @@ Random---Twenty-four hours or ten percent now has $733.8841933102163
 Random---Twenty-four hours or ten percent has bought APE for $6.1453
 Random---Twenty-four hours or ten percent now has $733.8841933102163
 ---------------------------------------------------------------------------
+[2022-06-05 00:46:26] SOLD
+Random---Twenty-four hours or ten percent has sold APE for $6.1368. Profit was -0.6583170878557549%.
+Random---Twenty-four hours or ten percent now has $729.0529082605829
+---------------------------------------------------------------------------
