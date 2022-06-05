@@ -4838,3 +4838,7 @@ Random---Twenty-four hours or ten percent now has $435.9628129772687
 Random---Twenty-four hours or ten percent has sold RNDR for $0.7102. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $433.6958063497869
 ---------------------------------------------------------------------------
+[2022-06-05 09:30:50] BUY
+Random---Twenty-four hours or ten percent has bought ADA for $0.558052
+Random---Twenty-four hours or ten percent now has $433.6958063497869
+---------------------------------------------------------------------------
