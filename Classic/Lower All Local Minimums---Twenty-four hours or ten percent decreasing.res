@@ -5302,3 +5302,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold LUNA for $8.218e-05. Profit was -0.1536101612115277%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $400.01022895421806
 ---------------------------------------------------------------------------
+[2022-06-05 15:21:58] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought GST for $0.606
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $400.01022895421806
+---------------------------------------------------------------------------
