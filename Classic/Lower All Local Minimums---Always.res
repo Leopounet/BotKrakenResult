@@ -498,3 +498,7 @@ Lower All Local Minimums---Always now has $7896.6949484831575
 Lower All Local Minimums---Always has bought STEP for $0.0816
 Lower All Local Minimums---Always now has $7896.6949484831575
 ---------------------------------------------------------------------------
+[2022-06-05 20:36:56] SOLD
+Lower All Local Minimums---Always has sold STEP for $0.0832. Profit was 1.4407843137254832%.
+Lower All Local Minimums---Always now has $8010.469290603655
+---------------------------------------------------------------------------

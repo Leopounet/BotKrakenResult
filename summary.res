@@ -1,4 +1,4 @@
-[2022-06-05 20:34:56] SUMMARY
+[2022-06-05 20:36:56] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    28844.5
-		Maximum:                    33899.8
-		Minimum:                    28844.5
-		Variance:                   0.149125
-		Mean:                       29535.314583
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.5
-		Is ascending:               True
-		Current ascension duration: 11
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.0
-		Is falling:                 True
-		Current fall duration:      374
-		Trending downwards:         True
-		Average local maximum:      31427.4
-		Number of local maximums:   2
-		Average local minimum:      30566.433333
-		Number of local minimums:   3
-	Is init: True
+	None
 Wins: 0
-Losses: 62
-Total points: -32.6216266620618%
-Wallet: 7210.226342283862
+Losses: 63
+Total points: -33.1416266620618%
+Wallet: 7172.733165303986
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: STEPUSD
-	Altname: STEPUSD
-	Wsname: STEP/USD
-	Base:
-	 	Name: STEP
-		Altname: STEP
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 15
-	Data about this pair of assets (STEPUSD):
-		Current:                    0.0816
-		Maximum:                    0.1036
-		Minimum:                    0.0789
-		Variance:                   0.238417
-		Mean:                       0.092329
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.857143
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.852941
-		Is falling:                 True
-		Current fall duration:      57
-		Trending downwards:         True
-		Average local maximum:      0.09229
-		Number of local maximums:   21
-		Average local minimum:      0.091726
-		Number of local minimums:   34
-	Is init: True
-Wins: 5
+	None
+Wins: 6
 Losses: 37
-Total points: -5.09292858867375%
-Wallet: 9473.920129193108
+Total points: -3.652144274948267%
+Wallet: 9610.418884309403
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
