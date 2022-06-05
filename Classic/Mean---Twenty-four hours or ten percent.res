@@ -5310,3 +5310,7 @@ Mean---Twenty-four hours or ten percent now has $306.3096255531551
 Mean---Twenty-four hours or ten percent has sold SHIB for $1.084e-05. Profit was -0.4276638965835651%.
 Mean---Twenty-four hours or ten percent now has $304.99964987290394
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Mean---Twenty-four hours or ten percent has bought AAVE for $104.79
+Mean---Twenty-four hours or ten percent now has $10000
+---------------------------------------------------------------------------

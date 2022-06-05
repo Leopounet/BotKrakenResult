@@ -10,3 +10,7 @@ Random---Ten Percent now has $11619.111111111113
 Random---Ten Percent has bought ZRX for $0.412
 Random---Ten Percent now has $11619.111111111113
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Random---Ten Percent has bought 1INCH for $0.856
+Random---Ten Percent now has $10000
+---------------------------------------------------------------------------

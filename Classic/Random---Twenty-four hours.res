@@ -18,3 +18,7 @@ Random---Twenty-four hours now has $10097.74500273325
 Random---Twenty-four hours has bought TRIBE for $0.23
 Random---Twenty-four hours now has $10097.74500273325
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Random---Twenty-four hours has bought AAVE for $104.79
+Random---Twenty-four hours now has $10000
+---------------------------------------------------------------------------

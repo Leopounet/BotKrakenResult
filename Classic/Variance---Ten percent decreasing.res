@@ -10,3 +10,7 @@ Variance---Ten percent decreasing now has $13570.448979591836
 Variance---Ten percent decreasing has bought ACH for $0.01869
 Variance---Ten percent decreasing now has $13570.448979591836
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Variance---Ten percent decreasing has bought AAVE for $104.79
+Variance---Ten percent decreasing now has $10000
+---------------------------------------------------------------------------

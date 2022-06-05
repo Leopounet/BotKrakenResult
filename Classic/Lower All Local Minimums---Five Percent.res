@@ -10,3 +10,7 @@ Lower All Local Minimums---Five Percent now has $10670.543352601157
 Lower All Local Minimums---Five Percent has bought ZUSD for $0.95738
 Lower All Local Minimums---Five Percent now has $10670.543352601157
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Lower All Local Minimums---Five Percent has bought AAVE for $104.79
+Lower All Local Minimums---Five Percent now has $10000
+---------------------------------------------------------------------------

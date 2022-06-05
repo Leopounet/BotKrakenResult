@@ -5310,3 +5310,15 @@ Variance---Always now has $441.43125527987985
 Variance---Always has sold GST for $0.609. Profit was -0.02495049504950453%.
 Variance---Always now has $441.32111599638426
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Variance---Always has bought AAVE for $104.79
+Variance---Always now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:32:54] SOLD
+Variance---Always has sold AAVE for $104.79. Profit was -0.52%.
+Variance---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:33:00] BUY
+Variance---Always has bought AAVE for $104.79
+Variance---Always now has $9948.0
+---------------------------------------------------------------------------

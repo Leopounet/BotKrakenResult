@@ -1,49 +1,123 @@
-[2022-06-05 15:24:58] SUMMARY
+[2022-06-05 15:33:00] SUMMARY
 Most losses: 
-Name: Mean---Always
-BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
-SellStrategy description: Always sells.
+Name: Random---Random
+BuyStrategy description: Random.
+SellStrategy description: Random.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
-Wins: 4
-Losses: 660
-Total points: -347.9961536530681%
-Wallet: 304.99964987290394
+	Name: AAVEUSD
+	Altname: AAVEUSD
+	Wsname: AAVE/USD
+	Base:
+	 	Name: AAVE
+		Altname: AAVE
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.02
+	Data about this pair of assets (AAVEUSD):
+		Current:                    104.79
+		Maximum:                    111.89
+		Minimum:                    102.74
+		Variance:                   0.081777
+		Mean:                       105.935778
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.555556
+		Is ascending:               True
+		Current ascension duration: 16
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.521739
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      105.586667
+		Number of local maximums:   27
+		Average local minimum:      106.123478
+		Number of local minimums:   23
+	Is init: True
+Wins: 0
+Losses: 1
+Total points: -0.52%
+Wallet: 9948.0
 ---------------------------------------------------------------------------
 Most wins: 
-Name: Variance---Always
-BuyStrategy description: Looks for the asset which has the highest Variance.
-SellStrategy description: Always sells.
+Name: Random---Ten percent decreasing
+BuyStrategy description: Random.
+SellStrategy description: Sells when the profit is 10% and the price is decreasing.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
-Wins: 43
-Losses: 621
-Total points: -302.1481119128677%
-Wallet: 441.32111599638426
+	Name: AAVEUSD
+	Altname: AAVEUSD
+	Wsname: AAVE/USD
+	Base:
+	 	Name: AAVE
+		Altname: AAVE
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.02
+	Data about this pair of assets (AAVEUSD):
+		Current:                    104.79
+		Maximum:                    111.89
+		Minimum:                    102.74
+		Variance:                   0.081777
+		Mean:                       105.935778
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.555556
+		Is ascending:               True
+		Current ascension duration: 16
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.521739
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      105.586667
+		Number of local maximums:   27
+		Average local minimum:      106.123478
+		Number of local minimums:   23
+	Is init: True
+Wins: 0
+Losses: 0
+Total points: 0%
+Wallet: 10000
 ---------------------------------------------------------------------------
 Best score: 
-Name: Variance---Ten percent decreasing
-BuyStrategy description: Looks for the asset which has the highest Variance.
+Name: Random---Ten percent decreasing
+BuyStrategy description: Random.
 SellStrategy description: Sells when the profit is 10% and the price is decreasing.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ACHUSD
-	Altname: ACHUSD
-	Wsname: ACH/USD
+	Name: AAVEUSD
+	Altname: AAVEUSD
+	Wsname: AAVE/USD
 	Base:
-	 	Name: ACH
-		Altname: ACH
+	 	Name: AAVE
+		Altname: AAVE
 		decimals: 10
 		displayed_decimals: 5
 	Quote:
@@ -52,50 +126,50 @@ Bought asset pair:
 		decimals: 4
 		displayed_decimals: 2
 	Fee: 0.26
-	Min order: 250
-	Data about this pair of assets (ACHUSD):
-		Current:                    0.01869
-		Maximum:                    72.886297
-		Minimum:                    11.764706
-		Variance:                   0.838588
-		Mean:                       57.164441
+	Min order: 0.02
+	Data about this pair of assets (AAVEUSD):
+		Current:                    104.79
+		Maximum:                    111.89
+		Minimum:                    102.74
+		Variance:                   0.081777
+		Mean:                       105.935778
 		Longest ascension:          3
 		Shortest ascension:         3
-		Average ascension:          1.35
-		Is ascending:               False
-		Current ascension duration: 0
+		Average ascension:          2.555556
+		Is ascending:               True
+		Current ascension duration: 16
 		Trending upwards:           False
 		Longest fall:               3
 		Shortest fall:              3
-		Average fall:               6.666667
-		Is falling:                 True
-		Current fall duration:      23
+		Average fall:               3.521739
+		Is falling:                 False
+		Current fall duration:      0
 		Trending downwards:         True
-		Average local maximum:      0.020753
-		Number of local maximums:   20
-		Average local minimum:      0.025559
-		Number of local minimums:   9
+		Average local maximum:      105.586667
+		Number of local maximums:   27
+		Average local minimum:      106.123478
+		Number of local minimums:   23
 	Is init: True
-Wins: 1
+Wins: 0
 Losses: 0
-Total points: 35.70448979591836%
-Wallet: 13570.448979591836
+Total points: 0%
+Wallet: 10000
 ---------------------------------------------------------------------------
 Biggest wallet: 
-Name: Variance---Ten percent decreasing
-BuyStrategy description: Looks for the asset which has the highest Variance.
+Name: Random---Ten percent decreasing
+BuyStrategy description: Random.
 SellStrategy description: Sells when the profit is 10% and the price is decreasing.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ACHUSD
-	Altname: ACHUSD
-	Wsname: ACH/USD
+	Name: AAVEUSD
+	Altname: AAVEUSD
+	Wsname: AAVE/USD
 	Base:
-	 	Name: ACH
-		Altname: ACH
+	 	Name: AAVE
+		Altname: AAVE
 		decimals: 10
 		displayed_decimals: 5
 	Quote:
@@ -104,32 +178,32 @@ Bought asset pair:
 		decimals: 4
 		displayed_decimals: 2
 	Fee: 0.26
-	Min order: 250
-	Data about this pair of assets (ACHUSD):
-		Current:                    0.01869
-		Maximum:                    72.886297
-		Minimum:                    11.764706
-		Variance:                   0.838588
-		Mean:                       57.164441
+	Min order: 0.02
+	Data about this pair of assets (AAVEUSD):
+		Current:                    104.79
+		Maximum:                    111.89
+		Minimum:                    102.74
+		Variance:                   0.081777
+		Mean:                       105.935778
 		Longest ascension:          3
 		Shortest ascension:         3
-		Average ascension:          1.35
-		Is ascending:               False
-		Current ascension duration: 0
+		Average ascension:          2.555556
+		Is ascending:               True
+		Current ascension duration: 16
 		Trending upwards:           False
 		Longest fall:               3
 		Shortest fall:              3
-		Average fall:               6.666667
-		Is falling:                 True
-		Current fall duration:      23
+		Average fall:               3.521739
+		Is falling:                 False
+		Current fall duration:      0
 		Trending downwards:         True
-		Average local maximum:      0.020753
-		Number of local maximums:   20
-		Average local minimum:      0.025559
-		Number of local minimums:   9
+		Average local maximum:      105.586667
+		Number of local maximums:   27
+		Average local minimum:      106.123478
+		Number of local minimums:   23
 	Is init: True
-Wins: 1
+Wins: 0
 Losses: 0
-Total points: 35.70448979591836%
-Wallet: 13570.448979591836
+Total points: 0%
+Wallet: 10000
 ---------------------------------------------------------------------------

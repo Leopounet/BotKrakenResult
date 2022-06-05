@@ -18,3 +18,7 @@ Lower All Local Minimums---Twenty-four hours now has $10236.537254022292
 Lower All Local Minimums---Twenty-four hours has bought LUNA for $9.246e-05
 Lower All Local Minimums---Twenty-four hours now has $10236.537254022292
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Lower All Local Minimums---Twenty-four hours has bought AAVE for $104.79
+Lower All Local Minimums---Twenty-four hours now has $10000
+---------------------------------------------------------------------------

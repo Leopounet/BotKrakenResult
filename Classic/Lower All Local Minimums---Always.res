@@ -5310,3 +5310,15 @@ Lower All Local Minimums---Always now has $400.01022895421806
 Lower All Local Minimums---Always has sold GST for $0.609. Profit was -0.02495049504950453%.
 Lower All Local Minimums---Always now has $399.91042442184533
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Lower All Local Minimums---Always has bought AAVE for $104.79
+Lower All Local Minimums---Always now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:32:54] SOLD
+Lower All Local Minimums---Always has sold AAVE for $104.79. Profit was -0.52%.
+Lower All Local Minimums---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:33:00] BUY
+Lower All Local Minimums---Always has bought AAVE for $104.79
+Lower All Local Minimums---Always now has $9948.0
+---------------------------------------------------------------------------

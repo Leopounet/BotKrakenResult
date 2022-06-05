@@ -5310,3 +5310,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $441.431255279879
 Variance---Twenty-four hours or ten percent decreasing has sold GST for $0.609. Profit was -0.02495049504950453%.
 Variance---Twenty-four hours or ten percent decreasing now has $441.32111599638426
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Variance---Twenty-four hours or ten percent decreasing has bought AAVE for $104.79
+Variance---Twenty-four hours or ten percent decreasing now has $10000
+---------------------------------------------------------------------------

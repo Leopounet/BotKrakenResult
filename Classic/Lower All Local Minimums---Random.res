@@ -3534,3 +3534,15 @@ Lower All Local Minimums---Random now has $1133.7775828787776
 Lower All Local Minimums---Random has sold LUNA for $8.239e-05. Profit was 1.675484991317298%.
 Lower All Local Minimums---Random now has $1152.7738561148315
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Lower All Local Minimums---Random has bought AAVE for $104.79
+Lower All Local Minimums---Random now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:32:54] SOLD
+Lower All Local Minimums---Random has sold AAVE for $104.79. Profit was -0.52%.
+Lower All Local Minimums---Random now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:33:00] BUY
+Lower All Local Minimums---Random has bought AAVE for $104.79
+Lower All Local Minimums---Random now has $9948.0
+---------------------------------------------------------------------------

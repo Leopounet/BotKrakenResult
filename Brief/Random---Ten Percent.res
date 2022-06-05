@@ -16,3 +16,9 @@ Random---Ten Percent has 0 losses
 Random---Ten Percent has 16.191111111111123 points
 Random---Ten Percent now has $11619.111111111113
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BRIEF
+Random---Ten Percent has 0 wins
+Random---Ten Percent has 0 losses
+Random---Ten Percent has 0 points
+Random---Ten Percent now has $10000
+---------------------------------------------------------------------------

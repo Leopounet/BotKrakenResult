@@ -3698,3 +3698,15 @@ Variance---Random now has $815.0068919307498
 Variance---Random has bought GST for $0.609
 Variance---Random now has $815.0068919307498
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Variance---Random has bought AAVE for $104.79
+Variance---Random now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:32:54] SOLD
+Variance---Random has sold AAVE for $104.79. Profit was -0.52%.
+Variance---Random now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:33:00] BUY
+Variance---Random has bought AAVE for $104.79
+Variance---Random now has $9948.0
+---------------------------------------------------------------------------

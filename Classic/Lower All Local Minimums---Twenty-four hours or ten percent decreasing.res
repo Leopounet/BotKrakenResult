@@ -5310,3 +5310,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold GST for $0.609. Profit was -0.02495049504950453%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $399.91042442184533
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought AAVE for $104.79
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $10000
+---------------------------------------------------------------------------

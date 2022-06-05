@@ -5310,3 +5310,7 @@ Random---Twenty-four hours or ten percent decreasing now has $363.7128536105622
 Random---Twenty-four hours or ten percent decreasing has sold XXBT for $29847.9. Profit was -0.43818532365415175%.
 Random---Twenty-four hours or ten percent decreasing now has $362.119117265797
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Random---Twenty-four hours or ten percent decreasing has bought 1INCH for $0.856
+Random---Twenty-four hours or ten percent decreasing now has $10000
+---------------------------------------------------------------------------

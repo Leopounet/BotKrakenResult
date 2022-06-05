@@ -39386,3 +39386,132 @@ Is init: True
 Profit was -0.24299168975069518%.
 Recent Minimum---Random now has $799.9200169333004
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Recent Minimum---Random has bought: 
+Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base:
+ 	Name: 1INCH
+	Altname: 1INCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (1INCHUSD):
+	Current:                    0.856
+	Maximum:                    0.912
+	Minimum:                    0.85
+	Variance:                   0.067982
+	Mean:                       0.867529
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.461538
+	Is ascending:               True
+	Current ascension duration: 50
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.6
+	Is falling:                 True
+	Current fall duration:      36
+	Trending downwards:         True
+	Average local maximum:      0.867846
+	Number of local maximums:   13
+	Average local minimum:      0.872333
+	Number of local minimums:   15
+Is init: True
+
+Recent Minimum---Random now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:32:54] SOLD
+Recent Minimum---Random has sold: 
+Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base:
+ 	Name: 1INCH
+	Altname: 1INCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (1INCHUSD):
+	Current:                    0.856
+	Maximum:                    0.912
+	Minimum:                    0.85
+	Variance:                   0.067982
+	Mean:                       0.867529
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.461538
+	Is ascending:               True
+	Current ascension duration: 50
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.6
+	Is falling:                 True
+	Current fall duration:      36
+	Trending downwards:         True
+	Average local maximum:      0.867846
+	Number of local maximums:   13
+	Average local minimum:      0.872333
+	Number of local minimums:   15
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Random now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:33:00] BUY
+Recent Minimum---Random has bought: 
+Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base:
+ 	Name: 1INCH
+	Altname: 1INCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (1INCHUSD):
+	Current:                    0.856
+	Maximum:                    0.912
+	Minimum:                    0.85
+	Variance:                   0.067982
+	Mean:                       0.867529
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.461538
+	Is ascending:               True
+	Current ascension duration: 50
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.6
+	Is falling:                 True
+	Current fall duration:      36
+	Trending downwards:         True
+	Average local maximum:      0.867846
+	Number of local maximums:   13
+	Average local minimum:      0.872333
+	Number of local minimums:   15
+Is init: True
+
+Recent Minimum---Random now has $9948.0
+---------------------------------------------------------------------------

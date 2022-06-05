@@ -18,3 +18,7 @@ Variance---Twenty-four hours now has $11391.356579549538
 Variance---Twenty-four hours has bought UST for $0.01798
 Variance---Twenty-four hours now has $11391.356579549538
 ---------------------------------------------------------------------------
+[2022-06-05 15:32:47] BUY
+Variance---Twenty-four hours has bought AAVE for $104.79
+Variance---Twenty-four hours now has $10000
+---------------------------------------------------------------------------
