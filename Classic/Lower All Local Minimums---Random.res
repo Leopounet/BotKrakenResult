@@ -3254,3 +3254,7 @@ Lower All Local Minimums---Random now has $1307.4575981361447
 Lower All Local Minimums---Random has sold FIL for $7.319. Profit was -0.053287577213447346%.
 Lower All Local Minimums---Random now has $1306.7608856590048
 ---------------------------------------------------------------------------
+[2022-06-05 09:51:37] BUY
+Lower All Local Minimums---Random has bought LUNA for $8.197e-05
+Lower All Local Minimums---Random now has $1306.7608856590048
+---------------------------------------------------------------------------
