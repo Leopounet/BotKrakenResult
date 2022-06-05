@@ -36720,3 +36720,46 @@ Is init: True
 Profit was -2.2999352750809128%.
 Variance---Random now has $1037.0845324498998
 ---------------------------------------------------------------------------
+[2022-06-05 10:39:10] BUY
+Variance---Random has bought: 
+Name: GSTUSD
+Altname: GSTUSD
+Wsname: GST/USD
+Base:
+ 	Name: GST
+	Altname: GST
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (GSTUSD):
+	Current:                    0.606
+	Maximum:                    1.672241
+	Minimum:                    1.0
+	Variance:                   0.402
+	Mean:                       1.227994
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.875
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.8
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.830125
+	Number of local maximums:   40
+	Average local minimum:      0.8312
+	Number of local minimums:   25
+Is init: True
+
+Variance---Random now has $1037.0845324498998
+---------------------------------------------------------------------------
