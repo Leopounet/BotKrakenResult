@@ -1,4 +1,4 @@
-[2022-06-05 23:21:00] SUMMARY
+[2022-06-05 23:22:58] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: PAXGUSD
-	Altname: PAXGUSD
-	Wsname: PAXG/USD
-	Base:
-	 	Name: PAXG
-		Altname: PAXG
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.004
-	Data about this pair of assets (PAXGUSD):
-		Current:                    1851.91
-		Maximum:                    1868.12
-		Minimum:                    1850.0
-		Variance:                   0.0097
-		Mean:                       1856.960861
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 10
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 True
-		Current fall duration:      13
-		Trending downwards:         True
-		Average local maximum:      1857.478462
-		Number of local maximums:   26
-		Average local minimum:      1856.641538
-		Number of local minimums:   26
-	Is init: True
+	None
 Wins: 0
-Losses: 104
-Total points: -54.37397618540523%
-Wallet: 5797.3563392038095
+Losses: 105
+Total points: -54.893976185405236%
+Wallet: 5767.210086239949
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
