@@ -34,3 +34,7 @@ Random---Random now has $9814.518714613525
 Random---Random has bought RARI for $2.72
 Random---Random now has $9814.518714613525
 ---------------------------------------------------------------------------
+[2022-06-05 17:00:54] SOLD
+Random---Random has sold RARI for $2.72. Profit was -0.52%.
+Random---Random now has $9763.483217297535
+---------------------------------------------------------------------------
