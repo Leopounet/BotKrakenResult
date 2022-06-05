@@ -46051,3 +46051,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $656.255072195714
 ---------------------------------------------------------------------------
+[2022-06-05 02:38:26] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: IMXUSD
+Altname: IMXUSD
+Wsname: IMX/USD
+Base:
+ 	Name: IMX
+	Altname: IMX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (IMXUSD):
+	Current:                    0.944
+	Maximum:                    1.098901
+	Minimum:                    0.992063
+	Variance:                   0.097222
+	Mean:                       1.04571
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.4
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.75
+	Is falling:                 True
+	Current fall duration:      14
+	Trending downwards:         True
+	Average local maximum:      0.954533
+	Number of local maximums:   30
+	Average local minimum:      0.959125
+	Number of local minimums:   24
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $652.8425458202962
+---------------------------------------------------------------------------
