@@ -6,3 +6,7 @@ Random---Random now has $10000
 Random---Random has sold MOVR for $20.6341. Profit was -0.52%.
 Random---Random now has $9948.0
 ---------------------------------------------------------------------------
+[2022-06-05 16:35:24] BUY
+Random---Random has bought ANKR for $0.03855
+Random---Random now has $9948.0
+---------------------------------------------------------------------------
