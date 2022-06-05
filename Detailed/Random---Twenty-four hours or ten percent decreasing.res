@@ -50781,3 +50781,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $484.72061273973964
 ---------------------------------------------------------------------------
+[2022-06-05 08:04:42] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: RADUSD
+Altname: RADUSD
+Wsname: RAD/USD
+Base:
+ 	Name: RAD
+	Altname: RAD
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (RADUSD):
+	Current:                    2.08
+	Maximum:                    0.501002
+	Minimum:                    0.431965
+	Variance:                   0.137797
+	Mean:                       0.484702
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.9
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.307692
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      2.0918
+	Number of local maximums:   10
+	Average local minimum:      2.077538
+	Number of local minimums:   13
+Is init: True
+Profit was 6.066538461538471%.
+Random---Twenty-four hours or ten percent decreasing now has $514.1263751426009
+---------------------------------------------------------------------------
