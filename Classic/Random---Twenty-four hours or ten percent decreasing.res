@@ -5270,3 +5270,7 @@ Random---Twenty-four hours or ten percent decreasing now has $373.31871846171634
 Random---Twenty-four hours or ten percent decreasing has sold LPT for $12.29. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $371.3774611257154
 ---------------------------------------------------------------------------
+[2022-06-05 14:58:19] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FIDA for $0.476
+Random---Twenty-four hours or ten percent decreasing now has $371.3774611257154
+---------------------------------------------------------------------------
