@@ -5042,3 +5042,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $464.4152577
 Lower All Local Minimums---Twenty-four hours or ten percent has bought FIL for $7.311
 Lower All Local Minimums---Twenty-four hours or ten percent now has $464.41525770569353
 ---------------------------------------------------------------------------
+[2022-06-05 12:04:30] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold FIL for $7.311. Profit was -0.52%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $462.0002983656239
+---------------------------------------------------------------------------

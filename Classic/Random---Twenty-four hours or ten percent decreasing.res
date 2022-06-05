@@ -5042,3 +5042,7 @@ Random---Twenty-four hours or ten percent decreasing now has $434.216256824184
 Random---Twenty-four hours or ten percent decreasing has bought RARE for $0.2624
 Random---Twenty-four hours or ten percent decreasing now has $434.216256824184
 ---------------------------------------------------------------------------
+[2022-06-05 12:04:30] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold RARE for $0.2624. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $431.9583322886982
+---------------------------------------------------------------------------
