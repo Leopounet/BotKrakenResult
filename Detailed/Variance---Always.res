@@ -55210,3 +55210,46 @@ Is init: True
 Profit was -0.52%.
 Variance---Always now has $525.0594728185969
 ---------------------------------------------------------------------------
+[2022-06-05 13:14:50] BUY
+Variance---Always has bought: 
+Name: GSTUSD
+Altname: GSTUSD
+Wsname: GST/USD
+Base:
+ 	Name: GST
+	Altname: GST
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (GSTUSD):
+	Current:                    0.642
+	Maximum:                    1.672241
+	Minimum:                    1.0
+	Variance:                   0.402
+	Mean:                       1.249156
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.928571
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.666667
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.814143
+	Number of local maximums:   42
+	Average local minimum:      0.806741
+	Number of local minimums:   27
+Is init: True
+
+Variance---Always now has $525.0594728185969
+---------------------------------------------------------------------------

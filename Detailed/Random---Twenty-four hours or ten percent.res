@@ -55210,3 +55210,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $360.88099375652024
 ---------------------------------------------------------------------------
+[2022-06-05 13:14:50] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: ZEURZUSD
+Altname: EURUSD
+Wsname: EUR/USD
+Base:
+ 	Name: ZEUR
+	Altname: EUR
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (ZEURZUSD):
+	Current:                    1.07091
+	Maximum:                    0.934387
+	Minimum:                    0.929325
+	Variance:                   0.005418
+	Mean:                       0.932969
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.923077
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.294118
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.072093
+	Number of local maximums:   26
+	Average local minimum:      1.071547
+	Number of local minimums:   34
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $360.88099375652024
+---------------------------------------------------------------------------

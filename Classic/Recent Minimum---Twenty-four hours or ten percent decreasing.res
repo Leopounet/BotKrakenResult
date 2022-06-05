@@ -5134,3 +5134,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $348.807889
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold 1INCH for $0.856. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $346.99408878698557
 ---------------------------------------------------------------------------
+[2022-06-05 13:14:50] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought ALICE for $2.841
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $346.99408878698557
+---------------------------------------------------------------------------

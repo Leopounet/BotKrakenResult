@@ -5134,3 +5134,7 @@ Random---Twenty-four hours or ten percent now has $362.76738415412166
 Random---Twenty-four hours or ten percent has sold GALA for $0.0736. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $360.88099375652024
 ---------------------------------------------------------------------------
+[2022-06-05 13:14:50] BUY
+Random---Twenty-four hours or ten percent has bought ZEUR for $1.07091
+Random---Twenty-four hours or ten percent now has $360.88099375652024
+---------------------------------------------------------------------------
