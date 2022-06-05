@@ -4674,3 +4674,7 @@ Random---Twenty-four hours or ten percent decreasing now has $500.1230014477603
 Random---Twenty-four hours or ten percent decreasing has bought PLA for $0.5583
 Random---Twenty-four hours or ten percent decreasing now has $500.1230014477603
 ---------------------------------------------------------------------------
+[2022-06-05 07:28:16] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold PLA for $0.5583. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $497.52236184023195
+---------------------------------------------------------------------------
