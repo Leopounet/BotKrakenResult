@@ -62,3 +62,7 @@ Random---Random now has $9684.01574098759
 Random---Random has sold TOKE for $3.3. Profit was -0.52%.
 Random---Random now has $9633.658859134455
 ---------------------------------------------------------------------------
+[2022-06-05 17:22:34] BUY
+Random---Random has bought KILT for $0.66
+Random---Random now has $9633.658859134455
+---------------------------------------------------------------------------
