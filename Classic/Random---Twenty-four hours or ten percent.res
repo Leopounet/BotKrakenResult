@@ -4606,3 +4606,7 @@ Random---Twenty-four hours or ten percent now has $508.02458846371815
 Random---Twenty-four hours or ten percent has sold AKT for $0.3873. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $505.38286060370683
 ---------------------------------------------------------------------------
+[2022-06-05 06:37:09] BUY
+Random---Twenty-four hours or ten percent has bought ENS for $10.82
+Random---Twenty-four hours or ten percent now has $505.38286060370683
+---------------------------------------------------------------------------

@@ -4606,3 +4606,7 @@ Random---Twenty-four hours or ten percent decreasing now has $518.3716596758451
 Random---Twenty-four hours or ten percent decreasing has sold XTZ for $1.8888. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $515.6761270455307
 ---------------------------------------------------------------------------
+[2022-06-05 06:37:09] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZUSD for $0.96209
+Random---Twenty-four hours or ten percent decreasing now has $515.6761270455307
+---------------------------------------------------------------------------
