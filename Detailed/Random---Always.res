@@ -48287,3 +48287,46 @@ Is init: True
 
 Random---Always now has $479.59125874333563
 ---------------------------------------------------------------------------
+[2022-06-05 05:11:45] SOLD
+Random---Always has sold: 
+Name: CHZUSD
+Altname: CHZUSD
+Wsname: CHZ/USD
+Base:
+ 	Name: CHZ
+	Altname: CHZ
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (CHZUSD):
+	Current:                    0.1251
+	Maximum:                    8.453085
+	Minimum:                    7.751938
+	Variance:                   0.082946
+	Mean:                       8.055303
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.6875
+	Is ascending:               True
+	Current ascension duration: 21
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.333333
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         False
+	Average local maximum:      0.1236
+	Number of local maximums:   32
+	Average local minimum:      0.123439
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Always now has $477.09738419787027
+---------------------------------------------------------------------------

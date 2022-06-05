@@ -48287,3 +48287,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $547.1808533693622
 ---------------------------------------------------------------------------
+[2022-06-05 05:11:45] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: RARIUSD
+Altname: RARIUSD
+Wsname: RARI/USD
+Base:
+ 	Name: RARI
+	Altname: RARI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.3
+Data about this pair of assets (RARIUSD):
+	Current:                    2.72
+	Maximum:                    0.398406
+	Minimum:                    0.327869
+	Variance:                   0.177049
+	Mean:                       0.353899
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.551724
+	Is ascending:               True
+	Current ascension duration: 14
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.8
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      2.791379
+	Number of local maximums:   29
+	Average local minimum:      2.868667
+	Number of local minimums:   15
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $544.3355129318415
+---------------------------------------------------------------------------
