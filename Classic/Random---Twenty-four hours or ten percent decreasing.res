@@ -5006,3 +5006,7 @@ Random---Twenty-four hours or ten percent decreasing now has $445.499789514538
 Random---Twenty-four hours or ten percent decreasing has sold KNC for $1.8958. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $443.1831906090624
 ---------------------------------------------------------------------------
+[2022-06-05 11:37:07] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FLOW for $2.429
+Random---Twenty-four hours or ten percent decreasing now has $443.1831906090624
+---------------------------------------------------------------------------

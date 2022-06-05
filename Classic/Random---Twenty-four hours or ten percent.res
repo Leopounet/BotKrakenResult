@@ -5006,3 +5006,7 @@ Random---Twenty-four hours or ten percent now has $392.2998922108673
 Random---Twenty-four hours or ten percent has sold ATLAS for $0.00825. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $390.2599327713708
 ---------------------------------------------------------------------------
+[2022-06-05 11:37:07] BUY
+Random---Twenty-four hours or ten percent has bought MSOL for $41.62
+Random---Twenty-four hours or ten percent now has $390.2599327713708
+---------------------------------------------------------------------------
