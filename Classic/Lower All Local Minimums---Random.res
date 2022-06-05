@@ -350,3 +350,7 @@ Lower All Local Minimums---Random now has $9610.418884309403
 Lower All Local Minimums---Random has sold ZUSD for $0.96104. Profit was -0.40208103552328256%.
 Lower All Local Minimums---Random now has $9571.777212541247
 ---------------------------------------------------------------------------
+[2022-06-05 20:44:49] BUY
+Lower All Local Minimums---Random has bought ZUSD for $0.96104
+Lower All Local Minimums---Random now has $9571.777212541247
+---------------------------------------------------------------------------
