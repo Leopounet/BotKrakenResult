@@ -5230,3 +5230,7 @@ Random---Twenty-four hours or ten percent now has $338.5151278251012
 Random---Twenty-four hours or ten percent has sold MKR for $1161.9. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $336.7548491604107
 ---------------------------------------------------------------------------
+[2022-06-05 14:28:20] BUY
+Random---Twenty-four hours or ten percent has bought GALA for $0.073
+Random---Twenty-four hours or ten percent now has $336.7548491604107
+---------------------------------------------------------------------------
