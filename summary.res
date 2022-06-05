@@ -1,4 +1,4 @@
-[2022-06-05 22:23:44] SUMMARY
+[2022-06-05 22:25:41] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: PAXGUSD
+	Altname: PAXGUSD
+	Wsname: PAXG/USD
+	Base:
+	 	Name: PAXG
+		Altname: PAXG
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.004
+	Data about this pair of assets (PAXGUSD):
+		Current:                    1851.91
+		Maximum:                    1868.12
+		Minimum:                    1850.0
+		Variance:                   0.0097
+		Mean:                       1857.170778
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.88
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.125
+		Is falling:                 False
+		Current fall duration:      2
+		Trending downwards:         True
+		Average local maximum:      1857.7012
+		Number of local maximums:   25
+		Average local minimum:      1856.360417
+		Number of local minimums:   24
+	Is init: True
 Wins: 0
 Losses: 90
 Total points: -47.09397618540519%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: LUNAUSD
+	Altname: LUNAUSD
+	Wsname: LUNA/USD
+	Base:
+	 	Name: LUNA
+		Altname: LUNA
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 50000
+	Data about this pair of assets (LUNAUSD):
+		Current:                    8.1e-05
+		Maximum:                    9.8e-05
+		Minimum:                    7.9e-05
+		Variance:                   0.193054
+		Mean:                       9e-05
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.806452
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.206897
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         True
+		Average local maximum:      9.1e-05
+		Number of local maximums:   31
+		Average local minimum:      8.8e-05
+		Number of local minimums:   29
+	Is init: True
 Wins: 7
 Losses: 55
 Total points: -11.129351439685475%
