@@ -4586,3 +4586,7 @@ Random---Twenty-four hours or ten percent decreasing now has $523.8050687012808
 Random---Twenty-four hours or ten percent decreasing has bought SCRT for $1.427
 Random---Twenty-four hours or ten percent decreasing now has $523.8050687012808
 ---------------------------------------------------------------------------
+[2022-06-05 06:22:29] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SCRT for $1.427. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $521.0812823440341
+---------------------------------------------------------------------------
