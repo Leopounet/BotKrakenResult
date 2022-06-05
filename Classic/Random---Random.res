@@ -162,3 +162,7 @@ Random---Random now has $9060.39749157827
 Random---Random has bought BICO for $0.736
 Random---Random now has $9060.39749157827
 ---------------------------------------------------------------------------
+[2022-06-05 18:35:37] SOLD
+Random---Random has sold BICO for $0.736. Profit was -0.52%.
+Random---Random now has $9013.283424622063
+---------------------------------------------------------------------------
