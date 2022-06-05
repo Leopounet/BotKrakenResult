@@ -4734,3 +4734,7 @@ Random---Twenty-four hours or ten percent decreasing now has $514.1263751426009
 Random---Twenty-four hours or ten percent decreasing has sold DOT for $9.3167. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $511.45291799185935
 ---------------------------------------------------------------------------
+[2022-06-05 08:13:38] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MSOL for $40.78
+Random---Twenty-four hours or ten percent decreasing now has $511.45291799185935
+---------------------------------------------------------------------------

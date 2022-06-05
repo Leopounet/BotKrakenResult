@@ -50910,3 +50910,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $464.4078234362636
 ---------------------------------------------------------------------------
+[2022-06-05 08:13:38] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: CQTUSD
+Altname: CQTUSD
+Wsname: CQT/USD
+Base:
+ 	Name: CQT
+	Altname: CQT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (CQTUSD):
+	Current:                    0.1361
+	Maximum:                    7.518797
+	Minimum:                    6.830601
+	Variance:                   0.09153
+	Mean:                       7.229546
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.75
+	Is ascending:               True
+	Current ascension duration: 24
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.4
+	Is falling:                 True
+	Current fall duration:      21
+	Trending downwards:         True
+	Average local maximum:      0.138075
+	Number of local maximums:   8
+	Average local minimum:      0.13975
+	Number of local minimums:   10
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $464.4078234362636
+---------------------------------------------------------------------------

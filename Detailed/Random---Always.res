@@ -50910,3 +50910,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $404.7927907190973
 ---------------------------------------------------------------------------
+[2022-06-05 08:13:38] BUY
+Random---Always has bought: 
+Name: NMRUSD
+Altname: NMRUSD
+Wsname: NMR/USD
+Base:
+ 	Name: NMR
+	Altname: NMR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (NMRUSD):
+	Current:                    11.67
+	Maximum:                    0.089206
+	Minimum:                    0.080906
+	Variance:                   0.093042
+	Mean:                       0.0855
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.25
+	Is ascending:               True
+	Current ascension duration: 197
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.0
+	Is falling:                 True
+	Current fall duration:      15
+	Trending downwards:         True
+	Average local maximum:      11.6475
+	Number of local maximums:   8
+	Average local minimum:      11.936667
+	Number of local minimums:   6
+Is init: True
+
+Random---Always now has $404.7927907190973
+---------------------------------------------------------------------------
