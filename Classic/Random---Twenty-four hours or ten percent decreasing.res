@@ -5054,3 +5054,7 @@ Random---Twenty-four hours or ten percent decreasing now has $431.9583322886982
 Random---Twenty-four hours or ten percent decreasing has sold FLOW for $2.433. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $429.712148960797
 ---------------------------------------------------------------------------
+[2022-06-05 12:13:44] BUY
+Random---Twenty-four hours or ten percent decreasing has bought NMR for $11.36
+Random---Twenty-four hours or ten percent decreasing now has $429.712148960797
+---------------------------------------------------------------------------

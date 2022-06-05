@@ -5054,3 +5054,7 @@ Random---Twenty-four hours or ten percent now has $380.91773669575366
 Random---Twenty-four hours or ten percent has sold SPELL for $0.001252. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $378.9369644649357
 ---------------------------------------------------------------------------
+[2022-06-05 12:13:44] BUY
+Random---Twenty-four hours or ten percent has bought CTSI for $0.2007
+Random---Twenty-four hours or ten percent now has $378.9369644649357
+---------------------------------------------------------------------------

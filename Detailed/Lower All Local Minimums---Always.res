@@ -54350,3 +54350,46 @@ Is init: True
 Profit was -0.027591300779640893%.
 Lower All Local Minimums---Always now has $461.87282647369904
 ---------------------------------------------------------------------------
+[2022-06-05 12:13:44] BUY
+Lower All Local Minimums---Always has bought: 
+Name: FTMUSD
+Altname: FTMUSD
+Wsname: FTM/USD
+Base:
+ 	Name: FTM
+	Altname: FTM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (FTMUSD):
+	Current:                    0.346
+	Maximum:                    2.923977
+	Minimum:                    2.500625
+	Variance:                   0.144786
+	Mean:                       2.810004
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.176471
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.135135
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.358431
+	Number of local maximums:   51
+	Average local minimum:      0.3601
+	Number of local minimums:   37
+Is init: True
+
+Lower All Local Minimums---Always now has $461.87282647369904
+---------------------------------------------------------------------------

@@ -36118,3 +36118,46 @@ Is init: True
 Profit was -1.4081987577639805%.
 Random---Random now has $1182.8000689970877
 ---------------------------------------------------------------------------
+[2022-06-05 12:13:44] BUY
+Random---Random has bought: 
+Name: ATLASUSD
+Altname: ATLASUSD
+Wsname: ATLAS/USD
+Base:
+ 	Name: ATLAS
+	Altname: ATLAS
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 500
+Data about this pair of assets (ATLASUSD):
+	Current:                    0.00825
+	Maximum:                    122.100122
+	Minimum:                    114.416476
+	Variance:                   0.062929
+	Mean:                       119.132144
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 17
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 True
+	Current fall duration:      13
+	Trending downwards:         True
+	Average local maximum:      0.008326
+	Number of local maximums:   12
+	Average local minimum:      0.008493
+	Number of local minimums:   8
+Is init: True
+
+Random---Random now has $1182.8000689970877
+---------------------------------------------------------------------------
