@@ -3666,3 +3666,7 @@ Variance---Random now has $896.6648427738254
 Variance---Random has bought GST for $0.657
 Variance---Random now has $896.6648427738254
 ---------------------------------------------------------------------------
+[2022-06-05 14:49:25] SOLD
+Variance---Random has sold GST for $0.622. Profit was -5.847245053272456%.
+Variance---Random now has $844.2346521102996
+---------------------------------------------------------------------------
