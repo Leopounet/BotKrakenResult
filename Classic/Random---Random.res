@@ -82,3 +82,7 @@ Random---Random now has $9519.208749872785
 Random---Random has bought FXS for $5.63
 Random---Random now has $9519.208749872785
 ---------------------------------------------------------------------------
+[2022-06-05 17:36:20] SOLD
+Random---Random has sold FXS for $5.63. Profit was -0.52%.
+Random---Random now has $9469.708864373446
+---------------------------------------------------------------------------
