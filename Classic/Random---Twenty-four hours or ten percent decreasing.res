@@ -4178,3 +4178,7 @@ Random---Twenty-four hours or ten percent decreasing now has $629.2220243395577
 Random---Twenty-four hours or ten percent decreasing has bought LUNA for $8.102e-05
 Random---Twenty-four hours or ten percent decreasing now has $629.2220243395577
 ---------------------------------------------------------------------------
+[2022-06-05 01:21:44] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold LUNA for $8.5e-05. Profit was 4.39236731671194%.
+Random---Twenty-four hours or ten percent decreasing now has $656.8597668862017
+---------------------------------------------------------------------------
