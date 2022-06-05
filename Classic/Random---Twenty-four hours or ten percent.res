@@ -5106,3 +5106,7 @@ Random---Twenty-four hours or ten percent now has $367.8875258819238
 Random---Twenty-four hours or ten percent has bought RAD for $2.06
 Random---Twenty-four hours or ten percent now has $367.8875258819238
 ---------------------------------------------------------------------------
+[2022-06-05 12:53:41] SOLD
+Random---Twenty-four hours or ten percent has sold RAD for $2.06. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $365.97451074733783
+---------------------------------------------------------------------------
