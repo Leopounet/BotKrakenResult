@@ -5046,3 +5046,7 @@ Random---Twenty-four hours or ten percent now has $382.9088627822212
 Random---Twenty-four hours or ten percent has sold UMA for $3.079. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $380.91773669575366
 ---------------------------------------------------------------------------
+[2022-06-05 12:07:33] BUY
+Random---Twenty-four hours or ten percent has bought SPELL for $0.001252
+Random---Twenty-four hours or ten percent now has $380.91773669575366
+---------------------------------------------------------------------------
