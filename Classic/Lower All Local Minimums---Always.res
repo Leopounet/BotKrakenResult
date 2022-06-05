@@ -190,3 +190,7 @@ Lower All Local Minimums---Always now has $9405.786042101137
 Lower All Local Minimums---Always has sold OGN for $0.2754. Profit was -0.52%.
 Lower All Local Minimums---Always now has $9356.875954682211
 ---------------------------------------------------------------------------
+[2022-06-05 18:03:57] BUY
+Lower All Local Minimums---Always has bought ZUSD for $0.96065
+Lower All Local Minimums---Always now has $9356.875954682211
+---------------------------------------------------------------------------
