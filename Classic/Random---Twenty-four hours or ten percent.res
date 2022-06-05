@@ -4614,3 +4614,7 @@ Random---Twenty-four hours or ten percent now has $505.38286060370683
 Random---Twenty-four hours or ten percent has sold ENS for $10.82. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $502.75486972856754
 ---------------------------------------------------------------------------
+[2022-06-05 06:43:02] BUY
+Random---Twenty-four hours or ten percent has bought KAVA for $2.533
+Random---Twenty-four hours or ten percent now has $502.75486972856754
+---------------------------------------------------------------------------
