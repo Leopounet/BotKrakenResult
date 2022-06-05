@@ -4118,3 +4118,7 @@ Random---Twenty-four hours or ten percent decreasing now has $666.1880711267701
 Random---Twenty-four hours or ten percent decreasing has sold GLMR for $1.319. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $662.7238931569109
 ---------------------------------------------------------------------------
+[2022-06-05 00:37:29] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CRV for $1.18
+Random---Twenty-four hours or ten percent decreasing now has $662.7238931569109
+---------------------------------------------------------------------------
