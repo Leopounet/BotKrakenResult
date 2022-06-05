@@ -590,3 +590,7 @@ Random---Always now has $6553.639496866119
 Random---Always has sold BNC for $0.33. Profit was -0.52%.
 Random---Always now has $6519.560571482415
 ---------------------------------------------------------------------------
+[2022-06-05 21:22:45] BUY
+Random---Always has bought OCEAN for $0.239
+Random---Always now has $6519.560571482415
+---------------------------------------------------------------------------

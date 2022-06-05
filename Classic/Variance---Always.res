@@ -590,3 +590,7 @@ Variance---Always now has $7020.824523743597
 Variance---Always has sold GST for $0.643. Profit was -0.52%.
 Variance---Always now has $6984.31623622013
 ---------------------------------------------------------------------------
+[2022-06-05 21:22:45] BUY
+Variance---Always has bought KINT for $4.56
+Variance---Always now has $6984.31623622013
+---------------------------------------------------------------------------
