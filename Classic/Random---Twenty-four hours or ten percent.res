@@ -5194,3 +5194,7 @@ Random---Twenty-four hours or ten percent now has $348.3710677718483
 Random---Twenty-four hours or ten percent has bought MOVR for $20.1574
 Random---Twenty-four hours or ten percent now has $348.3710677718483
 ---------------------------------------------------------------------------
+[2022-06-05 14:01:21] SOLD
+Random---Twenty-four hours or ten percent has sold MOVR for $20.0007. Profit was -1.2973820036314216%.
+Random---Twenty-four hours or ten percent now has $343.8513642327177
+---------------------------------------------------------------------------

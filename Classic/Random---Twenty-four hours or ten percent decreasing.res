@@ -5194,3 +5194,7 @@ Random---Twenty-four hours or ten percent decreasing now has $390.9983040055225
 Random---Twenty-four hours or ten percent decreasing has bought AXS for $19.84
 Random---Twenty-four hours or ten percent decreasing now has $390.9983040055225
 ---------------------------------------------------------------------------
+[2022-06-05 14:01:21] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold AXS for $19.84. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $388.9651128246938
+---------------------------------------------------------------------------
