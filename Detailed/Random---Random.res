@@ -29238,3 +29238,46 @@ Is init: True
 Profit was -0.52%.
 Random---Random now has $1744.5153969710495
 ---------------------------------------------------------------------------
+[2022-06-05 00:40:32] BUY
+Random---Random has bought: 
+Name: DAIUSD
+Altname: DAIUSD
+Wsname: DAI/USD
+Base:
+ 	Name: DAI
+	Altname: DAI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (DAIUSD):
+	Current:                    0.9998
+	Maximum:                    1.00054
+	Minimum:                    0.99998
+	Variance:                   0.00056
+	Mean:                       1.000213
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.413793
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.636364
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.999799
+	Number of local maximums:   29
+	Average local minimum:      0.999799
+	Number of local minimums:   33
+Is init: True
+
+Random---Random now has $1744.5153969710495
+---------------------------------------------------------------------------

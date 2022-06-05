@@ -44331,3 +44331,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $737.720339073398
 ---------------------------------------------------------------------------
+[2022-06-05 00:40:32] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: KP3RUSD
+Altname: KP3RUSD
+Wsname: KP3R/USD
+Base:
+ 	Name: KP3R
+	Altname: KP3R
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.025
+Data about this pair of assets (KP3RUSD):
+	Current:                    130.9
+	Maximum:                    0.007955
+	Minimum:                    0.007273
+	Variance:                   0.085818
+	Mean:                       0.007648
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.478261
+	Is ascending:               True
+	Current ascension duration: 27
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.631579
+	Is falling:                 True
+	Current fall duration:      56
+	Trending downwards:         True
+	Average local maximum:      131.182609
+	Number of local maximums:   23
+	Average local minimum:      130.052632
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $733.8841933102163
+---------------------------------------------------------------------------
