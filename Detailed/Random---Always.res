@@ -47685,3 +47685,46 @@ Is init: True
 
 Random---Always now has $497.417227671899
 ---------------------------------------------------------------------------
+[2022-06-05 04:30:33] SOLD
+Random---Always has sold: 
+Name: RAREUSD
+Altname: RAREUSD
+Wsname: RARE/USD
+Base:
+ 	Name: RARE
+	Altname: RARE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (RAREUSD):
+	Current:                    0.2443
+	Maximum:                    4.299226
+	Minimum:                    3.85208
+	Variance:                   0.104006
+	Mean:                       4.062604
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.357143
+	Is ascending:               True
+	Current ascension duration: 74
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.818182
+	Is falling:                 True
+	Current fall duration:      71
+	Trending downwards:         True
+	Average local maximum:      0.243571
+	Number of local maximums:   14
+	Average local minimum:      0.246236
+	Number of local minimums:   11
+Is init: True
+Profit was -0.52%.
+Random---Always now has $494.8306580880051
+---------------------------------------------------------------------------
