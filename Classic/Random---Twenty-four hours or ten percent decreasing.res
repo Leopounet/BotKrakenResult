@@ -4642,3 +4642,7 @@ Random---Twenty-four hours or ten percent decreasing now has $509.4835953571356
 Random---Twenty-four hours or ten percent decreasing has bought USDC for $1.0
 Random---Twenty-four hours or ten percent decreasing now has $509.4835953571356
 ---------------------------------------------------------------------------
+[2022-06-05 07:03:49] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold USDC for $0.9999. Profit was -0.4099999999999989%.
+Random---Twenty-four hours or ten percent decreasing now has $507.3947126161713
+---------------------------------------------------------------------------

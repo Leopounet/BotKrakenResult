@@ -49921,3 +49921,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $495.6676503686702
 ---------------------------------------------------------------------------
+[2022-06-05 07:03:49] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: MOVRUSD
+Altname: MOVRUSD
+Wsname: MOVR/USD
+Base:
+ 	Name: MOVR
+	Altname: MOVR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (MOVRUSD):
+	Current:                    20.5435
+	Maximum:                    0.049949
+	Minimum:                    0.046071
+	Variance:                   0.077647
+	Mean:                       0.048288
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.36
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.678571
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      20.84062
+	Number of local maximums:   25
+	Average local minimum:      20.639693
+	Number of local minimums:   28
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $493.0901785867531
+---------------------------------------------------------------------------
