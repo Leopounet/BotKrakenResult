@@ -4846,3 +4846,7 @@ Random---Twenty-four hours or ten percent decreasing now has $481.1976792503309
 Random---Twenty-four hours or ten percent decreasing has sold ZEUR for $1.07113. Profit was -0.4%.
 Random---Twenty-four hours or ten percent decreasing now has $479.2728885333296
 ---------------------------------------------------------------------------
+[2022-06-05 09:36:46] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SRM for $1.027
+Random---Twenty-four hours or ten percent decreasing now has $479.2728885333296
+---------------------------------------------------------------------------

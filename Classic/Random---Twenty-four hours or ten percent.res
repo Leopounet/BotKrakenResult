@@ -4846,3 +4846,7 @@ Random---Twenty-four hours or ten percent now has $433.6958063497869
 Random---Twenty-four hours or ten percent has sold ADA for $0.558315. Profit was -0.4728717753900953%.
 Random---Twenty-four hours or ten percent now has $431.64498129050827
 ---------------------------------------------------------------------------
+[2022-06-05 09:36:46] BUY
+Random---Twenty-four hours or ten percent has bought XXBT for $29555.1
+Random---Twenty-four hours or ten percent now has $431.64498129050827
+---------------------------------------------------------------------------
