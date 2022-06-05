@@ -4926,3 +4926,7 @@ Random---Twenty-four hours or ten percent now has $415.1886547058689
 Random---Twenty-four hours or ten percent has sold USDC for $1.0. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $413.5279000870454
 ---------------------------------------------------------------------------
+[2022-06-05 10:36:06] BUY
+Random---Twenty-four hours or ten percent has bought KSM for $67.92
+Random---Twenty-four hours or ten percent now has $413.5279000870454
+---------------------------------------------------------------------------

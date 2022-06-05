@@ -4926,3 +4926,7 @@ Random---Twenty-four hours or ten percent decreasing now has $457.26938816854675
 Random---Twenty-four hours or ten percent decreasing has sold CQT for $0.1334. Profit was 0.924866920152088%.
 Random---Twenty-four hours or ten percent decreasing now has $461.4985214756995
 ---------------------------------------------------------------------------
+[2022-06-05 10:36:06] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BADGER for $5.737
+Random---Twenty-four hours or ten percent decreasing now has $461.4985214756995
+---------------------------------------------------------------------------
