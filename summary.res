@@ -1,8 +1,8 @@
-[2022-06-05 15:39:01] SUMMARY
+[2022-06-05 15:44:56] SUMMARY
 Most losses: 
-Name: Lower All Local Minimums---Always
-BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
-SellStrategy description: Always sells.
+Name: Mean---Twenty-four hours or ten percent
+BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
+SellStrategy description: Sells when the profit is 10% or it has been 24h.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
@@ -24,37 +24,37 @@ Bought asset pair:
 	Fee: 0.26
 	Min order: 0.02
 	Data about this pair of assets (AAVEUSD):
-		Current:                    104.4
+		Current:                    104.61
 		Maximum:                    111.89
 		Minimum:                    102.74
 		Variance:                   0.081777
-		Mean:                       105.924833
+		Mean:                       105.914722
 		Longest ascension:          3
 		Shortest ascension:         3
-		Average ascension:          2.555556
+		Average ascension:          2.769231
 		Is ascending:               False
-		Current ascension duration: 0
+		Current ascension duration: 1
 		Trending upwards:           False
 		Longest fall:               3
 		Shortest fall:              3
-		Average fall:               3.521739
+		Average fall:               3.25
 		Is falling:                 False
-		Current fall duration:      2
+		Current fall duration:      0
 		Trending downwards:         True
-		Average local maximum:      105.586667
-		Number of local maximums:   27
-		Average local minimum:      106.123478
-		Number of local minimums:   23
+		Average local maximum:      105.344231
+		Number of local maximums:   26
+		Average local minimum:      106.36375
+		Number of local minimums:   24
 	Is init: True
 Wins: 0
-Losses: 2
-Total points: -1.04%
-Wallet: 9896.2704
+Losses: 0
+Total points: 0%
+Wallet: 10000
 ---------------------------------------------------------------------------
 Most wins: 
-Name: Lower All Local Minimums---Twenty-four hours or ten percent decreasing
-BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
-SellStrategy description: Sells when the profit is 10% and the price is decreasing or it has been 24h.
+Name: Mean---Twenty-four hours or ten percent
+BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
+SellStrategy description: Sells when the profit is 10% or it has been 24h.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
@@ -76,27 +76,27 @@ Bought asset pair:
 	Fee: 0.26
 	Min order: 0.02
 	Data about this pair of assets (AAVEUSD):
-		Current:                    104.4
+		Current:                    104.61
 		Maximum:                    111.89
 		Minimum:                    102.74
 		Variance:                   0.081777
-		Mean:                       105.924833
+		Mean:                       105.914722
 		Longest ascension:          3
 		Shortest ascension:         3
-		Average ascension:          2.555556
+		Average ascension:          2.769231
 		Is ascending:               False
-		Current ascension duration: 0
+		Current ascension duration: 1
 		Trending upwards:           False
 		Longest fall:               3
 		Shortest fall:              3
-		Average fall:               3.521739
+		Average fall:               3.25
 		Is falling:                 False
-		Current fall duration:      2
+		Current fall duration:      0
 		Trending downwards:         True
-		Average local maximum:      105.586667
-		Number of local maximums:   27
-		Average local minimum:      106.123478
-		Number of local minimums:   23
+		Average local maximum:      105.344231
+		Number of local maximums:   26
+		Average local minimum:      106.36375
+		Number of local minimums:   24
 	Is init: True
 Wins: 0
 Losses: 0
@@ -104,9 +104,9 @@ Total points: 0%
 Wallet: 10000
 ---------------------------------------------------------------------------
 Best score: 
-Name: Lower All Local Minimums---Twenty-four hours or ten percent decreasing
-BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
-SellStrategy description: Sells when the profit is 10% and the price is decreasing or it has been 24h.
+Name: Mean---Twenty-four hours or ten percent
+BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
+SellStrategy description: Sells when the profit is 10% or it has been 24h.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
@@ -128,27 +128,27 @@ Bought asset pair:
 	Fee: 0.26
 	Min order: 0.02
 	Data about this pair of assets (AAVEUSD):
-		Current:                    104.4
+		Current:                    104.61
 		Maximum:                    111.89
 		Minimum:                    102.74
 		Variance:                   0.081777
-		Mean:                       105.924833
+		Mean:                       105.914722
 		Longest ascension:          3
 		Shortest ascension:         3
-		Average ascension:          2.555556
+		Average ascension:          2.769231
 		Is ascending:               False
-		Current ascension duration: 0
+		Current ascension duration: 1
 		Trending upwards:           False
 		Longest fall:               3
 		Shortest fall:              3
-		Average fall:               3.521739
+		Average fall:               3.25
 		Is falling:                 False
-		Current fall duration:      2
+		Current fall duration:      0
 		Trending downwards:         True
-		Average local maximum:      105.586667
-		Number of local maximums:   27
-		Average local minimum:      106.123478
-		Number of local minimums:   23
+		Average local maximum:      105.344231
+		Number of local maximums:   26
+		Average local minimum:      106.36375
+		Number of local minimums:   24
 	Is init: True
 Wins: 0
 Losses: 0
@@ -156,9 +156,9 @@ Total points: 0%
 Wallet: 10000
 ---------------------------------------------------------------------------
 Biggest wallet: 
-Name: Lower All Local Minimums---Twenty-four hours or ten percent decreasing
-BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
-SellStrategy description: Sells when the profit is 10% and the price is decreasing or it has been 24h.
+Name: Mean---Twenty-four hours or ten percent
+BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
+SellStrategy description: Sells when the profit is 10% or it has been 24h.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
@@ -180,27 +180,27 @@ Bought asset pair:
 	Fee: 0.26
 	Min order: 0.02
 	Data about this pair of assets (AAVEUSD):
-		Current:                    104.4
+		Current:                    104.61
 		Maximum:                    111.89
 		Minimum:                    102.74
 		Variance:                   0.081777
-		Mean:                       105.924833
+		Mean:                       105.914722
 		Longest ascension:          3
 		Shortest ascension:         3
-		Average ascension:          2.555556
+		Average ascension:          2.769231
 		Is ascending:               False
-		Current ascension duration: 0
+		Current ascension duration: 1
 		Trending upwards:           False
 		Longest fall:               3
 		Shortest fall:              3
-		Average fall:               3.521739
+		Average fall:               3.25
 		Is falling:                 False
-		Current fall duration:      2
+		Current fall duration:      0
 		Trending downwards:         True
-		Average local maximum:      105.586667
-		Number of local maximums:   27
-		Average local minimum:      106.123478
-		Number of local minimums:   23
+		Average local maximum:      105.344231
+		Number of local maximums:   26
+		Average local minimum:      106.36375
+		Number of local minimums:   24
 	Is init: True
 Wins: 0
 Losses: 0

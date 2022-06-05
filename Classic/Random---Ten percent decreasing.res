@@ -22,3 +22,7 @@ Random---Ten percent decreasing now has $10000
 Random---Ten percent decreasing has bought AAVE for $104.4
 Random---Ten percent decreasing now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:44:56] BUY
+Random---Ten percent decreasing has bought AAVE for $104.61
+Random---Ten percent decreasing now has $10000
+---------------------------------------------------------------------------

@@ -22,3 +22,7 @@ Mean---Ten Percent now has $10000
 Mean---Ten Percent has bought AAVE for $104.4
 Mean---Ten Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:44:56] BUY
+Mean---Ten Percent has bought AAVE for $104.61
+Mean---Ten Percent now has $10000
+---------------------------------------------------------------------------

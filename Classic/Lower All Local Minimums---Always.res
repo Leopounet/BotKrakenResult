@@ -5402,3 +5402,7 @@ Lower All Local Minimums---Always now has $9896.2704
 Lower All Local Minimums---Always has bought AAVE for $104.4
 Lower All Local Minimums---Always now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-05 15:44:56] BUY
+Lower All Local Minimums---Always has bought AAVE for $104.61
+Lower All Local Minimums---Always now has $10000
+---------------------------------------------------------------------------

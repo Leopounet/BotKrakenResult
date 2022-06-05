@@ -3578,3 +3578,7 @@ Mean---Random now has $10000
 Mean---Random has sold AAVE for $104.4. Profit was -0.52%.
 Mean---Random now has $9948.0
 ---------------------------------------------------------------------------
+[2022-06-05 15:44:56] BUY
+Mean---Random has bought AAVE for $104.61
+Mean---Random now has $10000
+---------------------------------------------------------------------------

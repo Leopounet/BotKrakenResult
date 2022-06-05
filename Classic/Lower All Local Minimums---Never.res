@@ -22,3 +22,7 @@ Lower All Local Minimums---Never now has $10000
 Lower All Local Minimums---Never has bought AAVE for $104.4
 Lower All Local Minimums---Never now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:44:56] BUY
+Lower All Local Minimums---Never has bought AAVE for $104.61
+Lower All Local Minimums---Never now has $10000
+---------------------------------------------------------------------------

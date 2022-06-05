@@ -30,3 +30,7 @@ Lower All Local Minimums---Five Percent now has $10000
 Lower All Local Minimums---Five Percent has bought AAVE for $104.4
 Lower All Local Minimums---Five Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:44:56] BUY
+Lower All Local Minimums---Five Percent has bought AAVE for $104.61
+Lower All Local Minimums---Five Percent now has $10000
+---------------------------------------------------------------------------

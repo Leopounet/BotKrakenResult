@@ -22,3 +22,7 @@ Variance Lower All Local Minimums---Ten percent decreasing now has $10000
 Variance Lower All Local Minimums---Ten percent decreasing has bought 1INCH for $0.856
 Variance Lower All Local Minimums---Ten percent decreasing now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:44:56] BUY
+Variance Lower All Local Minimums---Ten percent decreasing has bought 1INCH for $0.856
+Variance Lower All Local Minimums---Ten percent decreasing now has $10000
+---------------------------------------------------------------------------
