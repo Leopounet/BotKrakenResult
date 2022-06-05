@@ -4686,3 +4686,7 @@ Random---Twenty-four hours or ten percent now has $481.66943794618743
 Random---Twenty-four hours or ten percent has sold MOVR for $20.6648. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $479.16475686886724
 ---------------------------------------------------------------------------
+[2022-06-05 07:37:25] BUY
+Random---Twenty-four hours or ten percent has bought ALGO for $0.38572
+Random---Twenty-four hours or ten percent now has $479.16475686886724
+---------------------------------------------------------------------------
