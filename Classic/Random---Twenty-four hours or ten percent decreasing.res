@@ -4266,3 +4266,7 @@ Random---Twenty-four hours or ten percent decreasing now has $623.4913430341004
 Random---Twenty-four hours or ten percent decreasing has bought OGN for $0.2759
 Random---Twenty-four hours or ten percent decreasing now has $623.4913430341004
 ---------------------------------------------------------------------------
+[2022-06-05 02:26:39] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold OGN for $0.2759. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $620.249188050323
+---------------------------------------------------------------------------
