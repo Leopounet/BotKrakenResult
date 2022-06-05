@@ -5250,3 +5250,7 @@ Random---Twenty-four hours or ten percent decreasing now has $376.77723202996583
 Random---Twenty-four hours or ten percent decreasing has bought LRC for $0.5037
 Random---Twenty-four hours or ten percent decreasing now has $376.77723202996583
 ---------------------------------------------------------------------------
+[2022-06-05 14:43:29] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold LRC for $0.5037. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $374.81799042341
+---------------------------------------------------------------------------

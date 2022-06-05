@@ -5250,3 +5250,7 @@ Random---Twenty-four hours or ten percent now has $333.2617045802637
 Random---Twenty-four hours or ten percent has bought MANA for $0.96676
 Random---Twenty-four hours or ten percent now has $333.2617045802637
 ---------------------------------------------------------------------------
+[2022-06-05 14:43:29] SOLD
+Random---Twenty-four hours or ten percent has sold MANA for $0.96676. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $331.52874371644634
+---------------------------------------------------------------------------
