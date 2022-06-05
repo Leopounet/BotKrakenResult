@@ -5170,3 +5170,7 @@ Random---Twenty-four hours or ten percent now has $353.8626698374577
 Random---Twenty-four hours or ten percent has bought SAMO for $0.005527
 Random---Twenty-four hours or ten percent now has $353.8626698374577
 ---------------------------------------------------------------------------
+[2022-06-05 13:43:03] SOLD
+Random---Twenty-four hours or ten percent has sold SAMO for $0.005527. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $352.02258395430295
+---------------------------------------------------------------------------

@@ -55597,3 +55597,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $399.62936029088394
 ---------------------------------------------------------------------------
+[2022-06-05 13:43:03] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: CFGUSD
+Altname: CFGUSD
+Wsname: CFG/USD
+Base:
+ 	Name: CFG
+	Altname: CFG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (CFGUSD):
+	Current:                    0.3068
+	Maximum:                    3.259452
+	Minimum:                    2.82167
+	Variance:                   0.134312
+	Mean:                       3.124215
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.428571
+	Is ascending:               True
+	Current ascension duration: 22
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.705882
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.322271
+	Number of local maximums:   21
+	Average local minimum:      0.3279
+	Number of local minimums:   17
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $397.5512876173713
+---------------------------------------------------------------------------
