@@ -426,3 +426,7 @@ Lower All Local Minimums---Random now has $9236.223790957702
 Lower All Local Minimums---Random has bought GMT for $0.945
 Lower All Local Minimums---Random now has $9236.223790957702
 ---------------------------------------------------------------------------
+[2022-06-05 21:38:29] SOLD
+Lower All Local Minimums---Random has sold GMT for $0.945. Profit was -0.52%.
+Lower All Local Minimums---Random now has $9188.195427244722
+---------------------------------------------------------------------------
