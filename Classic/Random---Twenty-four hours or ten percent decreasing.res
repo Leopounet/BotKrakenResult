@@ -4430,3 +4430,7 @@ Random---Twenty-four hours or ten percent decreasing now has $569.814738976194
 Random---Twenty-four hours or ten percent decreasing has sold SDN for $0.367. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $566.8517023335178
 ---------------------------------------------------------------------------
+[2022-06-05 04:27:36] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SUSHI for $1.532
+Random---Twenty-four hours or ten percent decreasing now has $566.8517023335178
+---------------------------------------------------------------------------

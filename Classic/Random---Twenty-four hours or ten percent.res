@@ -4430,3 +4430,7 @@ Random---Twenty-four hours or ten percent now has $591.7360511183418
 Random---Twenty-four hours or ten percent has sold XXMR for $190.28. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $588.6590236525265
 ---------------------------------------------------------------------------
+[2022-06-05 04:27:36] BUY
+Random---Twenty-four hours or ten percent has bought DYDX for $1.698
+Random---Twenty-four hours or ten percent now has $588.6590236525265
+---------------------------------------------------------------------------
