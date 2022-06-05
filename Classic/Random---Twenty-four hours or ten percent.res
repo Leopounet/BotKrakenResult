@@ -4970,3 +4970,7 @@ Random---Twenty-four hours or ten percent now has $401.58675149516705
 Random---Twenty-four hours or ten percent has bought COMP for $57.64
 Random---Twenty-four hours or ten percent now has $401.58675149516705
 ---------------------------------------------------------------------------
+[2022-06-05 11:09:44] SOLD
+Random---Twenty-four hours or ten percent has sold COMP for $57.64. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $399.4985003873922
+---------------------------------------------------------------------------

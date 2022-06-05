@@ -4970,3 +4970,7 @@ Random---Twenty-four hours or ten percent decreasing now has $454.1650923794234
 Random---Twenty-four hours or ten percent decreasing has bought FIDA for $0.492
 Random---Twenty-four hours or ten percent decreasing now has $454.1650923794234
 ---------------------------------------------------------------------------
+[2022-06-05 11:09:44] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold FIDA for $0.492. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $451.8034338990504
+---------------------------------------------------------------------------
