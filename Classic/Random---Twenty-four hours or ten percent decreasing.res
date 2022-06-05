@@ -4718,3 +4718,7 @@ Random---Twenty-four hours or ten percent decreasing now has $487.25433528321236
 Random---Twenty-four hours or ten percent decreasing has sold BADGER for $5.781. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $484.72061273973964
 ---------------------------------------------------------------------------
+[2022-06-05 08:01:44] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RAD for $2.08
+Random---Twenty-four hours or ten percent decreasing now has $484.72061273973964
+---------------------------------------------------------------------------

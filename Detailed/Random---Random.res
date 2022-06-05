@@ -33581,3 +33581,46 @@ Is init: True
 
 Random---Random now has $1348.0094572627695
 ---------------------------------------------------------------------------
+[2022-06-05 08:01:44] SOLD
+Random---Random has sold: 
+Name: ICXUSD
+Altname: ICXUSD
+Wsname: ICX/USD
+Base:
+ 	Name: ICX
+	Altname: ICX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (ICXUSD):
+	Current:                    0.3857
+	Maximum:                    2.677376
+	Minimum:                    2.491901
+	Variance:                   0.069275
+	Mean:                       2.603525
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.264706
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.756757
+	Is falling:                 True
+	Current fall duration:      9
+	Trending downwards:         True
+	Average local maximum:      0.384012
+	Number of local maximums:   34
+	Average local minimum:      0.382808
+	Number of local minimums:   37
+Is init: True
+Profit was -0.52%.
+Random---Random now has $1340.999808085003
+---------------------------------------------------------------------------
