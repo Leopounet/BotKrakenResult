@@ -53103,3 +53103,46 @@ Is init: True
 
 Random---Always now has $352.1958246976065
 ---------------------------------------------------------------------------
+[2022-06-05 10:45:06] SOLD
+Random---Always has sold: 
+Name: YGGUSD
+Altname: YGGUSD
+Wsname: YGG/USD
+Base:
+ 	Name: YGG
+	Altname: YGG
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (YGGUSD):
+	Current:                    0.594
+	Maximum:                    1.712329
+	Minimum:                    1.560062
+	Variance:                   0.088924
+	Mean:                       1.660002
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.0
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.5
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.599571
+	Number of local maximums:   21
+	Average local minimum:      0.603786
+	Number of local minimums:   14
+Is init: True
+Profit was -0.52%.
+Random---Always now has $350.36440640917897
+---------------------------------------------------------------------------
