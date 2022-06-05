@@ -43858,3 +43858,46 @@ Is init: True
 Profit was -1.0131683795358688%.
 Random---Always now has $626.5858967356088
 ---------------------------------------------------------------------------
+[2022-06-05 00:07:57] BUY
+Random---Always has bought: 
+Name: POLISUSD
+Altname: POLISUSD
+Wsname: POLIS/USD
+Base:
+ 	Name: POLIS
+	Altname: POLIS
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (POLISUSD):
+	Current:                    0.579
+	Maximum:                    1.776199
+	Minimum:                    1.605136
+	Variance:                   0.096308
+	Mean:                       1.671624
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          0.923077
+	Is ascending:               True
+	Current ascension duration: 40
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               9.75
+	Is falling:                 True
+	Current fall duration:      15
+	Trending downwards:         True
+	Average local maximum:      0.596462
+	Number of local maximums:   13
+	Average local minimum:      0.61325
+	Number of local minimums:   4
+Is init: True
+
+Random---Always now has $626.5858967356088
+---------------------------------------------------------------------------
