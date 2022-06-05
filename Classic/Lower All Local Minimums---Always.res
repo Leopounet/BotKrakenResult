@@ -382,3 +382,7 @@ Lower All Local Minimums---Always now has $8539.033876346466
 Lower All Local Minimums---Always has sold GST for $0.617. Profit was -0.52%.
 Lower All Local Minimums---Always now has $8494.630900189464
 ---------------------------------------------------------------------------
+[2022-06-05 19:39:12] BUY
+Lower All Local Minimums---Always has bought STEP for $0.083
+Lower All Local Minimums---Always now has $8494.630900189464
+---------------------------------------------------------------------------
