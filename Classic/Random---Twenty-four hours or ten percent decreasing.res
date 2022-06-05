@@ -4166,3 +4166,7 @@ Random---Twenty-four hours or ten percent decreasing now has $635.8173320926617
 Random---Twenty-four hours or ten percent decreasing has sold STEP for $0.0884. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $632.5110819657798
 ---------------------------------------------------------------------------
+[2022-06-05 01:12:58] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TRIBE for $0.23
+Random---Twenty-four hours or ten percent decreasing now has $632.5110819657798
+---------------------------------------------------------------------------

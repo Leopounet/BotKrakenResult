@@ -4166,3 +4166,7 @@ Random---Twenty-four hours or ten percent now has $717.7387211529646
 Random---Twenty-four hours or ten percent has sold AAVE for $104.67. Profit was -0.8722467631378534%.
 Random---Twenty-four hours or ten percent now has $711.4782683899208
 ---------------------------------------------------------------------------
+[2022-06-05 01:12:58] BUY
+Random---Twenty-four hours or ten percent has bought EOS for $1.271
+Random---Twenty-four hours or ten percent now has $711.4782683899208
+---------------------------------------------------------------------------
