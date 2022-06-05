@@ -4658,3 +4658,7 @@ Random---Twenty-four hours or ten percent decreasing now has $504.7562601105672
 Random---Twenty-four hours or ten percent decreasing has bought DAI for $0.99976
 Random---Twenty-four hours or ten percent decreasing now has $504.7562601105672
 ---------------------------------------------------------------------------
+[2022-06-05 07:15:36] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold DAI for $0.99976. Profit was -0.4%.
+Random---Twenty-four hours or ten percent decreasing now has $502.73723507012494
+---------------------------------------------------------------------------
