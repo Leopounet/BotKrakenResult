@@ -5262,3 +5262,7 @@ Random---Twenty-four hours or ten percent now has $331.52874371644634
 Random---Twenty-four hours or ten percent has sold 1INCH for $0.856. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $329.80479424912085
 ---------------------------------------------------------------------------
+[2022-06-05 14:52:22] BUY
+Random---Twenty-four hours or ten percent has bought REQ for $0.1187
+Random---Twenty-four hours or ten percent now has $329.80479424912085
+---------------------------------------------------------------------------
