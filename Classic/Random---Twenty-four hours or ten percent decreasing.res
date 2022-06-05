@@ -4878,3 +4878,7 @@ Random---Twenty-four hours or ten percent decreasing now has $471.83504269932513
 Random---Twenty-four hours or ten percent decreasing has sold UMA for $3.08. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $469.3815004772886
 ---------------------------------------------------------------------------
+[2022-06-05 10:00:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CRV for $1.166
+Random---Twenty-four hours or ten percent decreasing now has $469.3815004772886
+---------------------------------------------------------------------------

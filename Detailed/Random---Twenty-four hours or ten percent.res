@@ -52458,3 +52458,46 @@ Is init: True
 Profit was 0.22509803921569693%.
 Random---Twenty-four hours or ten percent now has $426.0462290216881
 ---------------------------------------------------------------------------
+[2022-06-05 10:00:32] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: ICXUSD
+Altname: ICXUSD
+Wsname: ICX/USD
+Base:
+ 	Name: ICX
+	Altname: ICX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (ICXUSD):
+	Current:                    0.3868
+	Maximum:                    2.677376
+	Minimum:                    2.491901
+	Variance:                   0.069275
+	Mean:                       2.604869
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.171429
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.837838
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      0.383914
+	Number of local maximums:   35
+	Average local minimum:      0.382808
+	Number of local minimums:   37
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $426.0462290216881
+---------------------------------------------------------------------------
