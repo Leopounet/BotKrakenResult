@@ -4618,3 +4618,7 @@ Random---Twenty-four hours or ten percent decreasing now has $513.6134225373486
 Random---Twenty-four hours or ten percent decreasing has bought JASMY for $0.01191
 Random---Twenty-four hours or ten percent decreasing now has $513.6134225373486
 ---------------------------------------------------------------------------
+[2022-06-05 06:46:02] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold JASMY for $0.012. Profit was 0.23566750629723066%.
+Random---Twenty-four hours or ten percent decreasing now has $514.8238424822503
+---------------------------------------------------------------------------
