@@ -250,3 +250,7 @@ Random---Always now has $8167.873482185638
 Random---Always has bought RUNE for $2.737
 Random---Always now has $8167.873482185638
 ---------------------------------------------------------------------------
+[2022-06-05 18:33:40] SOLD
+Random---Always has sold RUNE for $2.737. Profit was -0.52%.
+Random---Always now has $8125.400540078273
+---------------------------------------------------------------------------
