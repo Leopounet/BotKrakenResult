@@ -4422,3 +4422,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold LUNA for $8.201e-05. Profit was -1.6770447149572227%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $690.2187435492049
 ---------------------------------------------------------------------------
+[2022-06-05 04:21:43] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought FTM for $0.343
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $690.2187435492049
+---------------------------------------------------------------------------

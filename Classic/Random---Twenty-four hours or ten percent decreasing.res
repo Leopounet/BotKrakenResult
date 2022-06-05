@@ -4422,3 +4422,7 @@ Random---Twenty-four hours or ten percent decreasing now has $572.7932639487274
 Random---Twenty-four hours or ten percent decreasing has sold PLA for $0.5583. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $569.814738976194
 ---------------------------------------------------------------------------
+[2022-06-05 04:21:43] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SDN for $0.367
+Random---Twenty-four hours or ten percent decreasing now has $569.814738976194
+---------------------------------------------------------------------------
