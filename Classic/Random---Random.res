@@ -430,3 +430,7 @@ Random---Random now has $7643.5525044676315
 Random---Random has sold SPELL for $0.001267. Profit was -0.52%.
 Random---Random now has $7603.8060314444
 ---------------------------------------------------------------------------
+[2022-06-05 22:04:00] BUY
+Random---Random has bought ORCA for $0.82
+Random---Random now has $7603.8060314444
+---------------------------------------------------------------------------
