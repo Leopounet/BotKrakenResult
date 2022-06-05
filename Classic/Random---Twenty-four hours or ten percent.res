@@ -4862,3 +4862,7 @@ Random---Twenty-four hours or ten percent now has $429.5450144578727
 Random---Twenty-four hours or ten percent has sold OXT for $0.12806. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $427.31138038269177
 ---------------------------------------------------------------------------
+[2022-06-05 09:48:38] BUY
+Random---Twenty-four hours or ten percent has bought SGB for $0.0365
+Random---Twenty-four hours or ten percent now has $427.31138038269177
+---------------------------------------------------------------------------

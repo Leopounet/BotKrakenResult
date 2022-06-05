@@ -34957,3 +34957,46 @@ Is init: True
 
 Lower All Local Minimums---Random now has $1307.4575981361447
 ---------------------------------------------------------------------------
+[2022-06-05 09:48:37] SOLD
+Lower All Local Minimums---Random has sold: 
+Name: FILUSD
+Altname: FILUSD
+Wsname: FIL/USD
+Base:
+ 	Name: FIL
+	Altname: FIL
+	decimals: 10
+	displayed_decimals: 6
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (FILUSD):
+	Current:                    7.285
+	Maximum:                    0.138485
+	Minimum:                    0.12837
+	Variance:                   0.073042
+	Mean:                       0.134573
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.62069
+	Is ascending:               True
+	Current ascension duration: 9
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.485714
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      7.397586
+	Number of local maximums:   29
+	Average local minimum:      7.402686
+	Number of local minimums:   35
+Is init: True
+Profit was -0.053287577213447346%.
+Lower All Local Minimums---Random now has $1306.7608856590048
+---------------------------------------------------------------------------
