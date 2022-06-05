@@ -46997,3 +46997,46 @@ Is init: True
 
 Recent Minimum---Always now has $575.1393237694766
 ---------------------------------------------------------------------------
+[2022-06-05 03:43:25] SOLD
+Recent Minimum---Always has sold: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    105.62
+	Maximum:                    0.009733
+	Minimum:                    0.008843
+	Variance:                   0.09144
+	Mean:                       0.009373
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.714286
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.25
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      106.711071
+	Number of local maximums:   28
+	Average local minimum:      106.940625
+	Number of local minimums:   16
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Always now has $572.1485992858753
+---------------------------------------------------------------------------

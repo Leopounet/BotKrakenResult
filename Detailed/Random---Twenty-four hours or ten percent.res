@@ -46997,3 +46997,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $615.2689350561606
 ---------------------------------------------------------------------------
+[2022-06-05 03:43:25] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: DAIUSD
+Altname: DAIUSD
+Wsname: DAI/USD
+Base:
+ 	Name: DAI
+	Altname: DAI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (DAIUSD):
+	Current:                    0.99972
+	Maximum:                    1.00054
+	Minimum:                    0.99998
+	Variance:                   0.00056
+	Mean:                       1.000225
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.206897
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.806452
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.999788
+	Number of local maximums:   29
+	Average local minimum:      0.999784
+	Number of local minimums:   31
+Is init: True
+Profit was -0.4%.
+Random---Twenty-four hours or ten percent now has $612.807859315936
+---------------------------------------------------------------------------
