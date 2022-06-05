@@ -22,3 +22,7 @@ Random---Always now has $9896.2704
 Random---Always has sold SAMO for $0.005484. Profit was -0.52%.
 Random---Always now has $9844.80979392
 ---------------------------------------------------------------------------
+[2022-06-05 16:41:17] BUY
+Random---Always has bought JASMY for $0.01181
+Random---Always now has $9844.80979392
+---------------------------------------------------------------------------

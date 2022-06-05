@@ -14,3 +14,7 @@ Random---Random now has $9948.0
 Random---Random has sold ANKR for $0.03855. Profit was -0.52%.
 Random---Random now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-05 16:41:17] BUY
+Random---Random has bought KINT for $4.71
+Random---Random now has $9896.2704
+---------------------------------------------------------------------------

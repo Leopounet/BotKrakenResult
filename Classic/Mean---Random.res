@@ -14,3 +14,7 @@ Mean---Random now has $9948.0
 Mean---Random has sold TBTC for $28955.0. Profit was -0.52%.
 Mean---Random now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-05 16:41:17] BUY
+Mean---Random has bought TBTC for $28955.0
+Mean---Random now has $9896.2704
+---------------------------------------------------------------------------
