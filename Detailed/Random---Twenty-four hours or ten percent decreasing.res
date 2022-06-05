@@ -51125,3 +51125,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $506.1476373316465
 ---------------------------------------------------------------------------
+[2022-06-05 08:28:30] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: TOKEUSD
+Altname: TOKEUSD
+Wsname: TOKE/USD
+Base:
+ 	Name: TOKE
+	Altname: TOKE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.3
+Data about this pair of assets (TOKEUSD):
+	Current:                    3.26
+	Maximum:                    0.314465
+	Minimum:                    0.292398
+	Variance:                   0.070175
+	Mean:                       0.305895
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.363636
+	Is ascending:               True
+	Current ascension duration: 231
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.6
+	Is falling:                 True
+	Current fall duration:      150
+	Trending downwards:         True
+	Average local maximum:      3.295455
+	Number of local maximums:   11
+	Average local minimum:      3.354
+	Number of local minimums:   5
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $503.5156696175219
+---------------------------------------------------------------------------
