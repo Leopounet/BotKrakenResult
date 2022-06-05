@@ -49233,3 +49233,46 @@ Is init: True
 
 Random---Always now has $449.76104942648254
 ---------------------------------------------------------------------------
+[2022-06-05 06:16:36] SOLD
+Random---Always has sold: 
+Name: SDNUSD
+Altname: SDNUSD
+Wsname: SDN/USD
+Base:
+ 	Name: SDN
+	Altname: SDN
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (SDNUSD):
+	Current:                    0.367
+	Maximum:                    2.793296
+	Minimum:                    2.597403
+	Variance:                   0.07013
+	Mean:                       2.695237
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.454545
+	Is ascending:               True
+	Current ascension duration: 219
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.666667
+	Is falling:                 True
+	Current fall duration:      161
+	Trending downwards:         True
+	Average local maximum:      0.368909
+	Number of local maximums:   11
+	Average local minimum:      0.374111
+	Number of local minimums:   9
+Is init: True
+Profit was -0.52%.
+Random---Always now has $447.4222919694648
+---------------------------------------------------------------------------
