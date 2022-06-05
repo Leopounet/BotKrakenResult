@@ -4726,3 +4726,7 @@ Random---Twenty-four hours or ten percent now has $469.2756004689035
 Random---Twenty-four hours or ten percent has sold GALA for $0.0739. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $466.8353673464652
 ---------------------------------------------------------------------------
+[2022-06-05 08:07:41] BUY
+Random---Twenty-four hours or ten percent has bought ANT for $1.779
+Random---Twenty-four hours or ten percent now has $466.8353673464652
+---------------------------------------------------------------------------

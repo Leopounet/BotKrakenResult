@@ -50824,3 +50824,46 @@ Is init: True
 Profit was 6.066538461538471%.
 Random---Twenty-four hours or ten percent decreasing now has $514.1263751426009
 ---------------------------------------------------------------------------
+[2022-06-05 08:07:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: DOTUSD
+Altname: DOTUSD
+Wsname: DOT/USD
+Base:
+ 	Name: DOT
+	Altname: DOT
+	decimals: 10
+	displayed_decimals: 8
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (DOTUSD):
+	Current:                    9.3167
+	Maximum:                    0.109449
+	Minimum:                    0.100086
+	Variance:                   0.085544
+	Mean:                       0.105762
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.714286
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.315789
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      9.46691
+	Number of local maximums:   21
+	Average local minimum:      9.413237
+	Number of local minimums:   19
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $514.1263751426009
+---------------------------------------------------------------------------

@@ -4726,3 +4726,7 @@ Random---Twenty-four hours or ten percent decreasing now has $484.72061273973964
 Random---Twenty-four hours or ten percent decreasing has sold RAD for $2.217. Profit was 6.066538461538471%.
 Random---Twenty-four hours or ten percent decreasing now has $514.1263751426009
 ---------------------------------------------------------------------------
+[2022-06-05 08:07:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought DOT for $9.3167
+Random---Twenty-four hours or ten percent decreasing now has $514.1263751426009
+---------------------------------------------------------------------------
