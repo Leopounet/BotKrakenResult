@@ -50953,3 +50953,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $511.45291799185935
 ---------------------------------------------------------------------------
+[2022-06-05 08:16:35] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: MSOLUSD
+Altname: MSOLUSD
+Wsname: MSOL/USD
+Base:
+ 	Name: MSOL
+	Altname: MSOL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (MSOLUSD):
+	Current:                    40.78
+	Maximum:                    0.025471
+	Minimum:                    0.01904
+	Variance:                   0.252475
+	Mean:                       0.023376
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.666667
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.454545
+	Is falling:                 True
+	Current fall duration:      73
+	Trending downwards:         True
+	Average local maximum:      42.106667
+	Number of local maximums:   9
+	Average local minimum:      44.11
+	Number of local minimums:   11
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $508.79336281830166
+---------------------------------------------------------------------------
