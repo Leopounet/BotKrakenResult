@@ -44546,3 +44546,46 @@ Is init: True
 Profit was 1.9008566108007368%.
 Variance---Twenty-four hours or ten percent decreasing now has $925.4190676977576
 ---------------------------------------------------------------------------
+[2022-06-05 00:55:17] BUY
+Variance---Twenty-four hours or ten percent decreasing has bought: 
+Name: KINTUSD
+Altname: KINTUSD
+Wsname: KINT/USD
+Base:
+ 	Name: KINT
+	Altname: KINT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (KINTUSD):
+	Current:                    5.41
+	Maximum:                    0.278552
+	Minimum:                    0.162075
+	Variance:                   0.418152
+	Mean:                       0.240561
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.78125
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.052632
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         False
+	Average local maximum:      4.115312
+	Number of local maximums:   32
+	Average local minimum:      4.163158
+	Number of local minimums:   19
+Is init: True
+
+Variance---Twenty-four hours or ten percent decreasing now has $925.4190676977576
+---------------------------------------------------------------------------

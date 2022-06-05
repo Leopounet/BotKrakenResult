@@ -4142,3 +4142,7 @@ Random---Twenty-four hours or ten percent now has $729.0529082605829
 Random---Twenty-four hours or ten percent has sold BOND for $3.428. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $725.2618331376278
 ---------------------------------------------------------------------------
+[2022-06-05 00:55:17] BUY
+Random---Twenty-four hours or ten percent has bought BAT for $0.37785
+Random---Twenty-four hours or ten percent now has $725.2618331376278
+---------------------------------------------------------------------------
