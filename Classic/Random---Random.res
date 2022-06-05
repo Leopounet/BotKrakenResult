@@ -158,3 +158,7 @@ Random---Random now has $9107.757832306263
 Random---Random has sold STORJ for $0.58041. Profit was -0.52%.
 Random---Random now has $9060.39749157827
 ---------------------------------------------------------------------------
+[2022-06-05 18:31:41] BUY
+Random---Random has bought BICO for $0.736
+Random---Random now has $9060.39749157827
+---------------------------------------------------------------------------
