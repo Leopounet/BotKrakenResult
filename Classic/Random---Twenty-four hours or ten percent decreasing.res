@@ -4894,3 +4894,7 @@ Random---Twenty-four hours or ten percent decreasing now has $466.9407166748067
 Random---Twenty-four hours or ten percent decreasing has sold ANT for $1.7705. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $464.5126249480977
 ---------------------------------------------------------------------------
+[2022-06-05 10:12:23] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CQT for $0.1315
+Random---Twenty-four hours or ten percent decreasing now has $464.5126249480977
+---------------------------------------------------------------------------

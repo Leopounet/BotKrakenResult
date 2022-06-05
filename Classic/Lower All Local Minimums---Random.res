@@ -3274,3 +3274,7 @@ Lower All Local Minimums---Random now has $1293.2274115484727
 Lower All Local Minimums---Random has bought FIL for $7.291
 Lower All Local Minimums---Random now has $1293.2274115484727
 ---------------------------------------------------------------------------
+[2022-06-05 10:12:23] SOLD
+Lower All Local Minimums---Random has sold FIL for $7.291. Profit was -0.52%.
+Lower All Local Minimums---Random now has $1286.5026290084206
+---------------------------------------------------------------------------
