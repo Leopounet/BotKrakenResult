@@ -5282,3 +5282,7 @@ Random---Twenty-four hours or ten percent decreasing now has $369.44629832786165
 Random---Twenty-four hours or ten percent decreasing has bought RLC for $0.8543
 Random---Twenty-four hours or ten percent decreasing now has $369.44629832786165
 ---------------------------------------------------------------------------
+[2022-06-05 15:07:11] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold RLC for $0.8543. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $367.52517757655676
+---------------------------------------------------------------------------
