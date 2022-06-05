@@ -4598,3 +4598,7 @@ Random---Twenty-four hours or ten percent now has $510.68012511431255
 Random---Twenty-four hours or ten percent has sold GST for $0.659. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $508.02458846371815
 ---------------------------------------------------------------------------
+[2022-06-05 06:31:18] BUY
+Random---Twenty-four hours or ten percent has bought AKT for $0.3873
+Random---Twenty-four hours or ten percent now has $508.02458846371815
+---------------------------------------------------------------------------

@@ -4598,3 +4598,7 @@ Random---Twenty-four hours or ten percent decreasing now has $521.0812823440341
 Random---Twenty-four hours or ten percent decreasing has sold EWT for $2.697. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $518.3716596758451
 ---------------------------------------------------------------------------
+[2022-06-05 06:31:18] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XTZ for $1.8888
+Random---Twenty-four hours or ten percent decreasing now has $518.3716596758451
+---------------------------------------------------------------------------
