@@ -4310,3 +4310,7 @@ Random---Twenty-four hours or ten percent now has $643.357066159204
 Random---Twenty-four hours or ten percent has sold OMG for $2.398894. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $640.0116094151762
 ---------------------------------------------------------------------------
+[2022-06-05 02:59:01] BUY
+Random---Twenty-four hours or ten percent has bought UNI for $5.068
+Random---Twenty-four hours or ten percent now has $640.0116094151762
+---------------------------------------------------------------------------

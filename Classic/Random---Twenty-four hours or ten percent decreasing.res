@@ -4310,3 +4310,7 @@ Random---Twenty-four hours or ten percent decreasing now has $611.8495934487789
 Random---Twenty-four hours or ten percent decreasing has sold SUPER for $0.1916. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $608.6679755628453
 ---------------------------------------------------------------------------
+[2022-06-05 02:59:01] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OMG for $2.398894
+Random---Twenty-four hours or ten percent decreasing now has $608.6679755628453
+---------------------------------------------------------------------------

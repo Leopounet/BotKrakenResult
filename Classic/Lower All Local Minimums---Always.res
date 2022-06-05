@@ -4310,3 +4310,7 @@ Lower All Local Minimums---Always now has $808.1065366706744
 Lower All Local Minimums---Always has sold FTM for $0.345. Profit was -0.52%.
 Lower All Local Minimums---Always now has $803.9043826799868
 ---------------------------------------------------------------------------
+[2022-06-05 02:59:01] BUY
+Lower All Local Minimums---Always has bought LUNA for $8.649e-05
+Lower All Local Minimums---Always now has $803.9043826799868
+---------------------------------------------------------------------------
