@@ -4806,3 +4806,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $434.015259
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold ADA for $0.561927. Profit was -0.6499190627343849%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $431.19451123898824
 ---------------------------------------------------------------------------
+[2022-06-05 09:07:05] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought 1INCH for $0.861
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $431.19451123898824
+---------------------------------------------------------------------------

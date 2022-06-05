@@ -4806,3 +4806,7 @@ Random---Twenty-four hours or ten percent decreasing now has $490.52027444399215
 Random---Twenty-four hours or ten percent decreasing has sold YGG for $0.599. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $487.9695690168834
 ---------------------------------------------------------------------------
+[2022-06-05 09:07:05] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MSOL for $41.25
+Random---Twenty-four hours or ten percent decreasing now has $487.9695690168834
+---------------------------------------------------------------------------
