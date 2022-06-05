@@ -4230,3 +4230,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $942.230289328984
 Variance---Twenty-four hours or ten percent decreasing has sold KINT for $5.53. Profit was -2.81681978798586%.
 Variance---Twenty-four hours or ten percent decreasing now has $915.6893600907689
 ---------------------------------------------------------------------------
+[2022-06-05 01:59:57] BUY
+Variance---Twenty-four hours or ten percent decreasing has bought KINT for $5.53
+Variance---Twenty-four hours or ten percent decreasing now has $915.6893600907689
+---------------------------------------------------------------------------

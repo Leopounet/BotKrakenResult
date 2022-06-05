@@ -4230,3 +4230,7 @@ Random---Twenty-four hours or ten percent now has $683.1958184709396
 Random---Twenty-four hours or ten percent has sold XZEC for $89.27. Profit was -0.3067085765604012%.
 Random---Twenty-four hours or ten percent now has $681.1003983009872
 ---------------------------------------------------------------------------
+[2022-06-05 01:59:57] BUY
+Random---Twenty-four hours or ten percent has bought BAT for $0.3752
+Random---Twenty-four hours or ten percent now has $681.1003983009872
+---------------------------------------------------------------------------
