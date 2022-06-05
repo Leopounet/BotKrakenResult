@@ -4174,3 +4174,7 @@ Random---Twenty-four hours or ten percent now has $711.4782683899208
 Random---Twenty-four hours or ten percent has sold EOS for $1.271. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $707.7785813942932
 ---------------------------------------------------------------------------
+[2022-06-05 01:18:49] BUY
+Random---Twenty-four hours or ten percent has bought RBC for $0.07942
+Random---Twenty-four hours or ten percent now has $707.7785813942932
+---------------------------------------------------------------------------
