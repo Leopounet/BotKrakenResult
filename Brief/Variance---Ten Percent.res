@@ -28,3 +28,9 @@ Variance---Ten Percent has 0 losses
 Variance---Ten Percent has 0 points
 Variance---Ten Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:36:15] BRIEF
+Variance---Ten Percent has 0 wins
+Variance---Ten Percent has 0 losses
+Variance---Ten Percent has 0 points
+Variance---Ten Percent now has $10000
+---------------------------------------------------------------------------

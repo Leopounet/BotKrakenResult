@@ -57446,3 +57446,132 @@ Is init: True
 
 Mean---Always now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-05 15:36:15] BUY
+Mean---Always has bought: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    104.4
+	Maximum:                    111.89
+	Minimum:                    102.74
+	Variance:                   0.081777
+	Mean:                       105.924833
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.555556
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.521739
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      105.586667
+	Number of local maximums:   27
+	Average local minimum:      106.123478
+	Number of local minimums:   23
+Is init: True
+
+Mean---Always now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:36:22] SOLD
+Mean---Always has sold: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    104.4
+	Maximum:                    111.89
+	Minimum:                    102.74
+	Variance:                   0.081777
+	Mean:                       105.924833
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.555556
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.521739
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      105.586667
+	Number of local maximums:   27
+	Average local minimum:      106.123478
+	Number of local minimums:   23
+Is init: True
+Profit was -0.52%.
+Mean---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:36:28] BUY
+Mean---Always has bought: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    104.4
+	Maximum:                    111.89
+	Minimum:                    102.74
+	Variance:                   0.081777
+	Mean:                       105.924833
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.555556
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.521739
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      105.586667
+	Number of local maximums:   27
+	Average local minimum:      106.123478
+	Number of local minimums:   23
+Is init: True
+
+Mean---Always now has $9948.0
+---------------------------------------------------------------------------

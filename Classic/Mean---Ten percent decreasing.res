@@ -10,3 +10,7 @@ Mean---Ten percent decreasing now has $10000
 Mean---Ten percent decreasing has bought AAVE for $104.79
 Mean---Ten percent decreasing now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:36:15] BUY
+Mean---Ten percent decreasing has bought AAVE for $104.4
+Mean---Ten percent decreasing now has $10000
+---------------------------------------------------------------------------

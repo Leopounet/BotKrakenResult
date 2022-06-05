@@ -18,3 +18,7 @@ Variance---Ten percent decreasing now has $10000
 Variance---Ten percent decreasing has bought AAVE for $104.79
 Variance---Ten percent decreasing now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:36:15] BUY
+Variance---Ten percent decreasing has bought AAVE for $104.4
+Variance---Ten percent decreasing now has $10000
+---------------------------------------------------------------------------
