@@ -56070,3 +56070,46 @@ Is init: True
 Profit was -0.24413793103447334%.
 Random---Always now has $304.5211801042629
 ---------------------------------------------------------------------------
+[2022-06-05 14:16:23] BUY
+Random---Always has bought: 
+Name: PERPUSD
+Altname: PERPUSD
+Wsname: PERP/USD
+Base:
+ 	Name: PERP
+	Altname: PERP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (PERPUSD):
+	Current:                    1.179
+	Maximum:                    0.851789
+	Minimum:                    0.759301
+	Variance:                   0.10858
+	Mean:                       0.806822
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.48
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.586207
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      1.23736
+	Number of local maximums:   25
+	Average local minimum:      1.243828
+	Number of local minimums:   29
+Is init: True
+
+Random---Always now has $304.5211801042629
+---------------------------------------------------------------------------
