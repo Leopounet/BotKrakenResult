@@ -4446,3 +4446,7 @@ Random---Twenty-four hours or ten percent now has $585.5979967295333
 Random---Twenty-four hours or ten percent has sold GST for $0.675. Profit was -3.953476394849777%.
 Random---Twenty-four hours or ten percent now has $562.446518160118
 ---------------------------------------------------------------------------
+[2022-06-05 04:39:22] BUY
+Random---Twenty-four hours or ten percent has bought NANO for $1.152545
+Random---Twenty-four hours or ten percent now has $562.446518160118
+---------------------------------------------------------------------------
