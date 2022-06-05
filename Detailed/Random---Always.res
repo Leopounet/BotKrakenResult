@@ -47857,3 +47857,46 @@ Is init: True
 
 Random---Always now has $492.2575386659475
 ---------------------------------------------------------------------------
+[2022-06-05 04:42:18] SOLD
+Random---Always has sold: 
+Name: XXRPZUSD
+Altname: XRPUSD
+Wsname: XRP/USD
+Base:
+ 	Name: XXRP
+	Altname: XRP
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (XXRPZUSD):
+	Current:                    0.39112
+	Maximum:                    2.604777
+	Minimum:                    2.444091
+	Variance:                   0.061689
+	Mean:                       2.540035
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.73913
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.285714
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.39204
+	Number of local maximums:   23
+	Average local minimum:      0.393754
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Random---Always now has $489.69779946488455
+---------------------------------------------------------------------------
