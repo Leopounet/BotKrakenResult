@@ -4530,3 +4530,7 @@ Random---Twenty-four hours or ten percent now has $534.0268855541337
 Random---Twenty-four hours or ten percent has bought SC for $0.00542
 Random---Twenty-four hours or ten percent now has $534.0268855541337
 ---------------------------------------------------------------------------
+[2022-06-05 05:41:20] SOLD
+Random---Twenty-four hours or ten percent has sold SC for $0.00542. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $531.2499457492522
+---------------------------------------------------------------------------
