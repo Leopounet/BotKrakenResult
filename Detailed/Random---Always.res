@@ -46223,3 +46223,46 @@ Is init: True
 
 Random---Always now has $548.6863170599789
 ---------------------------------------------------------------------------
+[2022-06-05 02:50:09] SOLD
+Random---Always has sold: 
+Name: SRMUSD
+Altname: SRMUSD
+Wsname: SRM/USD
+Base:
+ 	Name: SRM
+	Altname: SRM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (SRMUSD):
+	Current:                    1.014
+	Maximum:                    1.001001
+	Minimum:                    0.919118
+	Variance:                   0.081801
+	Mean:                       0.969372
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.4
+	Is ascending:               True
+	Current ascension duration: 60
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.75
+	Is falling:                 True
+	Current fall duration:      174
+	Trending downwards:         True
+	Average local maximum:      1.023333
+	Number of local maximums:   15
+	Average local minimum:      1.037167
+	Number of local minimums:   12
+Is init: True
+Profit was -0.52%.
+Random---Always now has $545.833148211267
+---------------------------------------------------------------------------

@@ -4298,3 +4298,7 @@ Random---Twenty-four hours or ten percent now has $649.4477645820307
 Random---Twenty-four hours or ten percent has bought SCRT for $1.436
 Random---Twenty-four hours or ten percent now has $649.4477645820307
 ---------------------------------------------------------------------------
+[2022-06-05 02:50:09] SOLD
+Random---Twenty-four hours or ten percent has sold SCRT for $1.43. Profit was -0.9378272980501441%.
+Random---Twenty-four hours or ten percent now has $643.357066159204
+---------------------------------------------------------------------------
