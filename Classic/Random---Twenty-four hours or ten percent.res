@@ -4910,3 +4910,7 @@ Random---Twenty-four hours or ten percent now has $419.4344088135398
 Random---Twenty-four hours or ten percent has sold SOL for $39.74. Profit was -0.49483010319656584%.
 Random---Twenty-four hours or ten percent now has $417.35892109556585
 ---------------------------------------------------------------------------
+[2022-06-05 10:24:14] BUY
+Random---Twenty-four hours or ten percent has bought TRX for $0.080317
+Random---Twenty-four hours or ten percent now has $417.35892109556585
+---------------------------------------------------------------------------

@@ -4910,3 +4910,7 @@ Random---Twenty-four hours or ten percent decreasing now has $462.0971592983676
 Random---Twenty-four hours or ten percent decreasing has sold DOT for $9.3384. Profit was -0.5274953689327639%.
 Random---Twenty-four hours or ten percent decreasing now has $459.65961818309887
 ---------------------------------------------------------------------------
+[2022-06-05 10:24:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RARI for $2.71
+Random---Twenty-four hours or ten percent decreasing now has $459.65961818309887
+---------------------------------------------------------------------------
