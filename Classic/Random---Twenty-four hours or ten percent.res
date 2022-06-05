@@ -4622,3 +4622,7 @@ Random---Twenty-four hours or ten percent now has $502.75486972856754
 Random---Twenty-four hours or ten percent has sold KAVA for $2.5336. Profit was -0.4963126727200913%.
 Random---Twenty-four hours or ten percent now has $500.2596335973873
 ---------------------------------------------------------------------------
+[2022-06-05 06:49:04] BUY
+Random---Twenty-four hours or ten percent has bought USDC for $0.9999
+Random---Twenty-four hours or ten percent now has $500.2596335973873
+---------------------------------------------------------------------------
