@@ -526,3 +526,7 @@ Random---Always now has $6847.527225403511
 Random---Always has sold ROOK for $42.11. Profit was -0.52%.
 Random---Always now has $6811.920083831413
 ---------------------------------------------------------------------------
+[2022-06-05 20:50:44] BUY
+Random---Always has bought LUNA for $8.15e-05
+Random---Always now has $6811.920083831413
+---------------------------------------------------------------------------
