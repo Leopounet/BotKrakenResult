@@ -50351,3 +50351,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $497.52236184023195
 ---------------------------------------------------------------------------
+[2022-06-05 07:34:26] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: XRTUSD
+Altname: XRTUSD
+Wsname: XRT/USD
+Base:
+ 	Name: XRT
+	Altname: XRT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (XRTUSD):
+	Current:                    3.91
+	Maximum:                    0.285714
+	Minimum:                    0.2457
+	Variance:                   0.140049
+	Mean:                       0.263427
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 197
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      393
+	Trending downwards:         True
+	Average local maximum:      3.74
+	Number of local maximums:   5
+	Average local minimum:      3.76
+	Number of local minimums:   5
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $494.93524555866276
+---------------------------------------------------------------------------

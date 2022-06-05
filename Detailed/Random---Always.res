@@ -50351,3 +50351,46 @@ Is init: True
 
 Random---Always now has $421.7297251339371
 ---------------------------------------------------------------------------
+[2022-06-05 07:34:26] SOLD
+Random---Always has sold: 
+Name: CVCUSD
+Altname: CVCUSD
+Wsname: CVC/USD
+Base:
+ 	Name: CVC
+	Altname: CVC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (CVCUSD):
+	Current:                    0.1794
+	Maximum:                    5.945303
+	Minimum:                    5.467469
+	Variance:                   0.080372
+	Mean:                       5.717694
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.9
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.307692
+	Is falling:                 True
+	Current fall duration:      26
+	Trending downwards:         False
+	Average local maximum:      0.17255
+	Number of local maximums:   10
+	Average local minimum:      0.177069
+	Number of local minimums:   13
+Is init: True
+Profit was -0.52%.
+Random---Always now has $419.5367305632406
+---------------------------------------------------------------------------
