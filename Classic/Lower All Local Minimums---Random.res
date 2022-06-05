@@ -342,3 +342,7 @@ Lower All Local Minimums---Random now has $9473.920129193108
 Lower All Local Minimums---Random has sold STEP for $0.0832. Profit was 1.4407843137254832%.
 Lower All Local Minimums---Random now has $9610.418884309403
 ---------------------------------------------------------------------------
+[2022-06-05 20:38:56] BUY
+Lower All Local Minimums---Random has bought ZUSD for $0.96106
+Lower All Local Minimums---Random now has $9610.418884309403
+---------------------------------------------------------------------------

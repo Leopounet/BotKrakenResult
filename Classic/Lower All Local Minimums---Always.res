@@ -502,3 +502,7 @@ Lower All Local Minimums---Always now has $7896.6949484831575
 Lower All Local Minimums---Always has sold STEP for $0.0832. Profit was 1.4407843137254832%.
 Lower All Local Minimums---Always now has $8010.469290603655
 ---------------------------------------------------------------------------
+[2022-06-05 20:38:56] BUY
+Lower All Local Minimums---Always has bought ZUSD for $0.96106
+Lower All Local Minimums---Always now has $8010.469290603655
+---------------------------------------------------------------------------
