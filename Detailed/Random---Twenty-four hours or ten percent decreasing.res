@@ -52071,3 +52071,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $481.1976792503309
 ---------------------------------------------------------------------------
+[2022-06-05 09:33:47] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: ZEURZUSD
+Altname: EURUSD
+Wsname: EUR/USD
+Base:
+ 	Name: ZEUR
+	Altname: EUR
+	decimals: 4
+	displayed_decimals: 2
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (ZEURZUSD):
+	Current:                    1.07113
+	Maximum:                    0.934387
+	Minimum:                    0.929325
+	Variance:                   0.005418
+	Mean:                       0.932768
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.96
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.272727
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      1.072426
+	Number of local maximums:   25
+	Average local minimum:      1.071662
+	Number of local minimums:   33
+Is init: True
+Profit was -0.4%.
+Random---Twenty-four hours or ten percent decreasing now has $479.2728885333296
+---------------------------------------------------------------------------
