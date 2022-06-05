@@ -4126,3 +4126,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $691.833399
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold ADA for $0.563238. Profit was -0.9078457318399642%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $685.5526192525346
 ---------------------------------------------------------------------------
+[2022-06-05 00:43:30] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought ALICE for $2.974
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $685.5526192525346
+---------------------------------------------------------------------------

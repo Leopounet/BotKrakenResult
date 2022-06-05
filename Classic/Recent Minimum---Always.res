@@ -4126,3 +4126,7 @@ Recent Minimum---Always now has $691.8333992389689
 Recent Minimum---Always has sold ADA for $0.563238. Profit was -0.9078457318399642%.
 Recent Minimum---Always now has $685.5526192525346
 ---------------------------------------------------------------------------
+[2022-06-05 00:43:30] BUY
+Recent Minimum---Always has bought ALICE for $2.974
+Recent Minimum---Always now has $685.5526192525346
+---------------------------------------------------------------------------
