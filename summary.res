@@ -1,4 +1,4 @@
-[2022-06-05 22:11:53] SUMMARY
+[2022-06-05 22:13:51] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: BCHUSD
+	Altname: BCHUSD
+	Wsname: BCH/USD
+	Base:
+	 	Name: BCH
+		Altname: BCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.01
+	Data about this pair of assets (BCHUSD):
+		Current:                    181.07
+		Maximum:                    189.64
+		Minimum:                    178.97
+		Variance:                   0.056265
+		Mean:                       184.904708
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.454545
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.666667
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         True
+		Average local maximum:      185.010909
+		Number of local maximums:   22
+		Average local minimum:      184.866667
+		Number of local minimums:   18
+	Is init: True
 Wins: 0
 Losses: 87
 Total points: -45.52311776830574%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GMTUSD
-	Altname: GMTUSD
-	Wsname: GMT/USD
-	Base:
-	 	Name: GMT
-		Altname: GMT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (GMTUSD):
-		Current:                    0.947
-		Maximum:                    1.038
-		Minimum:                    0.912
-		Variance:                   0.121387
-		Mean:                       0.985253
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.535714
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.545455
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.986893
-		Number of local maximums:   28
-		Average local minimum:      0.985303
-		Number of local minimums:   33
-	Is init: True
+	None
 Wins: 7
-Losses: 52
-Total points: -9.643745977374747%
-Wallet: 9050.233706488785
+Losses: 53
+Total points: -10.163745977374747%
+Wallet: 9003.172491215044
 ---------------------------------------------------------------------------
 Best score: 
 Name: Mean---Five Percent
