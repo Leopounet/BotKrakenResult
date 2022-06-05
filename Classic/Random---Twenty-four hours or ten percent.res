@@ -4270,3 +4270,7 @@ Random---Twenty-four hours or ten percent now has $662.8135134907819
 Random---Twenty-four hours or ten percent has sold XXBT for $29768.3. Profit was -0.47193923506082713%.
 Random---Twenty-four hours or ten percent now has $659.6854364653337
 ---------------------------------------------------------------------------
+[2022-06-05 02:29:36] BUY
+Random---Twenty-four hours or ten percent has bought PLA for $0.5583
+Random---Twenty-four hours or ten percent now has $659.6854364653337
+---------------------------------------------------------------------------
