@@ -406,3 +406,7 @@ Random---Always now has $7380.032582158886
 Random---Always has sold FIDA for $0.493. Profit was -0.52%.
 Random---Always now has $7341.65641273166
 ---------------------------------------------------------------------------
+[2022-06-05 19:51:18] BUY
+Random---Always has bought PERP for $1.199
+Random---Always now has $7341.65641273166
+---------------------------------------------------------------------------
