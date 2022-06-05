@@ -44675,3 +44675,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $721.4904716053122
 ---------------------------------------------------------------------------
+[2022-06-05 01:04:09] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: SCRTUSD
+Altname: SCRTUSD
+Wsname: SCRT/USD
+Base:
+ 	Name: SCRT
+	Altname: SCRT
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (SCRTUSD):
+	Current:                    1.442
+	Maximum:                    0.694927
+	Minimum:                    0.606061
+	Variance:                   0.127879
+	Mean:                       0.66706
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.395349
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               6.45
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.503186
+	Number of local maximums:   43
+	Average local minimum:      1.5002
+	Number of local minimums:   20
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $717.7387211529646
+---------------------------------------------------------------------------
