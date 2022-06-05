@@ -2830,3 +2830,7 @@ Recent Minimum---Random now has $1514.7371470593944
 Recent Minimum---Random has sold 1INCH for $0.869. Profit was -0.52%.
 Recent Minimum---Random now has $1506.8605138946855
 ---------------------------------------------------------------------------
+[2022-06-05 00:19:45] BUY
+Recent Minimum---Random has bought ZAUD for $0.72121
+Recent Minimum---Random now has $1506.8605138946855
+---------------------------------------------------------------------------

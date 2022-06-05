@@ -4094,3 +4094,7 @@ Recent Minimum---Always now has $705.9152501902818
 Recent Minimum---Always has sold 1INCH for $0.869. Profit was -0.52%.
 Recent Minimum---Always now has $702.2444908892923
 ---------------------------------------------------------------------------
+[2022-06-05 00:19:45] BUY
+Recent Minimum---Always has bought ZAUD for $0.72121
+Recent Minimum---Always now has $702.2444908892923
+---------------------------------------------------------------------------

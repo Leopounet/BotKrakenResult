@@ -4094,3 +4094,7 @@ Random---Twenty-four hours or ten percent decreasing now has $676.689631462659
 Random---Twenty-four hours or ten percent decreasing has sold QNT for $65.05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $673.1708453790532
 ---------------------------------------------------------------------------
+[2022-06-05 00:19:45] BUY
+Random---Twenty-four hours or ten percent decreasing has bought EOS for $1.2906
+Random---Twenty-four hours or ten percent decreasing now has $673.1708453790532
+---------------------------------------------------------------------------

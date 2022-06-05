@@ -4094,3 +4094,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $705.915250
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold 1INCH for $0.869. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $702.2444908892923
 ---------------------------------------------------------------------------
+[2022-06-05 00:19:45] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought ZAUD for $0.72121
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $702.2444908892923
+---------------------------------------------------------------------------
