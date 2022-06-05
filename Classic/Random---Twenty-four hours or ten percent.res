@@ -4662,3 +4662,7 @@ Random---Twenty-four hours or ten percent now has $490.526109658102
 Random---Twenty-four hours or ten percent has sold DYDX for $1.698. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $487.97537388787987
 ---------------------------------------------------------------------------
+[2022-06-05 07:18:34] BUY
+Random---Twenty-four hours or ten percent has bought LUNA2 for $5.49352
+Random---Twenty-four hours or ten percent now has $487.97537388787987
+---------------------------------------------------------------------------
