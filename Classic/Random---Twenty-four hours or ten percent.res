@@ -4698,3 +4698,7 @@ Random---Twenty-four hours or ten percent now has $476.67310013314915
 Random---Twenty-four hours or ten percent has bought BAT for $0.37814
 Random---Twenty-four hours or ten percent now has $476.67310013314915
 ---------------------------------------------------------------------------
+[2022-06-05 07:46:57] SOLD
+Random---Twenty-four hours or ten percent has sold BAT for $0.37814. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $474.19440001245675
+---------------------------------------------------------------------------
