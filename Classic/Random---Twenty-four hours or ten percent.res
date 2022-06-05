@@ -4390,3 +4390,7 @@ Random---Twenty-four hours or ten percent now has $607.3641392603258
 Random---Twenty-four hours or ten percent has sold XMLN for $27.293. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $604.2058457361721
 ---------------------------------------------------------------------------
+[2022-06-05 03:58:09] BUY
+Random---Twenty-four hours or ten percent has bought BADGER for $5.76
+Random---Twenty-four hours or ten percent now has $604.2058457361721
+---------------------------------------------------------------------------

@@ -47212,3 +47212,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $581.2810425649021
 ---------------------------------------------------------------------------
+[2022-06-05 03:58:09] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: XREPZUSD
+Altname: REPUSD
+Wsname: REP/USD
+Base:
+ 	Name: XREP
+	Altname: REP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.15
+Data about this pair of assets (XREPZUSD):
+	Current:                    9.694
+	Maximum:                    0.10513
+	Minimum:                    0.093006
+	Variance:                   0.115327
+	Mean:                       0.102517
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.772727
+	Is ascending:               True
+	Current ascension duration: 14
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.076923
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      9.8335
+	Number of local maximums:   22
+	Average local minimum:      9.809
+	Number of local minimums:   13
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $581.2810425649021
+---------------------------------------------------------------------------
