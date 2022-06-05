@@ -5222,3 +5222,7 @@ Random---Twenty-four hours or ten percent decreasing now has $385.52687819329736
 Random---Twenty-four hours or ten percent decreasing has sold ZUSD for $130.899. Profit was -0.7289398542613564%.
 Random---Twenty-four hours or ten percent decreasing now has $382.7166191292568
 ---------------------------------------------------------------------------
+[2022-06-05 14:22:20] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BOND for $3.471
+Random---Twenty-four hours or ten percent decreasing now has $382.7166191292568
+---------------------------------------------------------------------------

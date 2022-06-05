@@ -5222,3 +5222,7 @@ Random---Twenty-four hours or ten percent now has $340.2846077855863
 Random---Twenty-four hours or ten percent has sold AKT for $0.3838. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $338.5151278251012
 ---------------------------------------------------------------------------
+[2022-06-05 14:22:20] BUY
+Random---Twenty-four hours or ten percent has bought MKR for $1161.9
+Random---Twenty-four hours or ten percent now has $338.5151278251012
+---------------------------------------------------------------------------
