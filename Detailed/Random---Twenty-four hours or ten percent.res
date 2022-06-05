@@ -56887,3 +56887,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $324.6865468505515
 ---------------------------------------------------------------------------
+[2022-06-05 15:13:06] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: ANKRUSD
+Altname: ANKRUSD
+Wsname: ANKR/USD
+Base:
+ 	Name: ANKR
+	Altname: ANKR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (ANKRUSD):
+	Current:                    0.03824
+	Maximum:                    27.37476
+	Minimum:                    25.608195
+	Variance:                   0.064533
+	Mean:                       26.533283
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.869565
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.136364
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         True
+	Average local maximum:      0.037566
+	Number of local maximums:   23
+	Average local minimum:      0.03762
+	Number of local minimums:   22
+Is init: True
+Profit was -0.3630962343096251%.
+Random---Twenty-four hours or ten percent now has $323.5076222256272
+---------------------------------------------------------------------------

@@ -5290,3 +5290,7 @@ Random---Twenty-four hours or ten percent now has $324.6865468505515
 Random---Twenty-four hours or ten percent has bought ANKR for $0.03824
 Random---Twenty-four hours or ten percent now has $324.6865468505515
 ---------------------------------------------------------------------------
+[2022-06-05 15:13:06] SOLD
+Random---Twenty-four hours or ten percent has sold ANKR for $0.0383. Profit was -0.3630962343096251%.
+Random---Twenty-four hours or ten percent now has $323.5076222256272
+---------------------------------------------------------------------------

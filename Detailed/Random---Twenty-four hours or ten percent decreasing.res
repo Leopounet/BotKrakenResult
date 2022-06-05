@@ -56887,3 +56887,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $367.52517757655676
 ---------------------------------------------------------------------------
+[2022-06-05 15:13:06] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: OXYUSD
+Altname: OXYUSD
+Wsname: OXY/USD
+Base:
+ 	Name: OXY
+	Altname: OXY
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (OXYUSD):
+	Current:                    0.0913
+	Maximum:                    11.614402
+	Minimum:                    10.857763
+	Variance:                   0.065147
+	Mean:                       11.385838
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.357143
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.818182
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.087964
+	Number of local maximums:   14
+	Average local minimum:      0.087991
+	Number of local minimums:   11
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $365.61404665315865
+---------------------------------------------------------------------------
