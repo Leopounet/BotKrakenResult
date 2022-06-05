@@ -4374,3 +4374,7 @@ Random---Twenty-four hours or ten percent now has $615.2689350561606
 Random---Twenty-four hours or ten percent has sold DAI for $0.99972. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $612.807859315936
 ---------------------------------------------------------------------------
+[2022-06-05 03:46:21] BUY
+Random---Twenty-four hours or ten percent has bought ENS for $10.86
+Random---Twenty-four hours or ten percent now has $612.807859315936
+---------------------------------------------------------------------------
