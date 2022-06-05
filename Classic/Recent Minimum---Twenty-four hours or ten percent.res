@@ -4098,3 +4098,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $702.2444908892923
 Recent Minimum---Twenty-four hours or ten percent has bought ZAUD for $0.72121
 Recent Minimum---Twenty-four hours or ten percent now has $702.2444908892923
 ---------------------------------------------------------------------------
+[2022-06-05 00:22:42] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold ZAUD for $0.72085. Profit was -0.4499161131986559%.
+Recent Minimum---Twenty-four hours or ten percent now has $699.0849797707315
+---------------------------------------------------------------------------
