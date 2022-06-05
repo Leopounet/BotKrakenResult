@@ -52544,3 +52544,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $423.8307886307753
 ---------------------------------------------------------------------------
+[2022-06-05 10:06:27] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: GARIUSD
+Altname: GARIUSD
+Wsname: GARI/USD
+Base:
+ 	Name: GARI
+	Altname: GARI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 15
+Data about this pair of assets (GARIUSD):
+	Current:                    0.6104
+	Maximum:                    1.652893
+	Minimum:                    1.603335
+	Variance:                   0.029982
+	Mean:                       1.626452
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.5
+	Is ascending:               True
+	Current ascension duration: 93
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.571429
+	Is falling:                 True
+	Current fall duration:      77
+	Trending downwards:         True
+	Average local maximum:      0.61135
+	Number of local maximums:   6
+	Average local minimum:      0.616486
+	Number of local minimums:   7
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $423.8307886307753
+---------------------------------------------------------------------------

@@ -4886,3 +4886,7 @@ Random---Twenty-four hours or ten percent decreasing now has $469.3815004772886
 Random---Twenty-four hours or ten percent decreasing has sold CRV for $1.166. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $466.9407166748067
 ---------------------------------------------------------------------------
+[2022-06-05 10:06:27] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ANT for $1.7705
+Random---Twenty-four hours or ten percent decreasing now has $466.9407166748067
+---------------------------------------------------------------------------
