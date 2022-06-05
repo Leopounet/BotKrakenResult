@@ -45105,3 +45105,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $698.4098341037966
 ---------------------------------------------------------------------------
+[2022-06-05 01:33:29] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: XXMRZUSD
+Altname: XMRUSD
+Wsname: XMR/USD
+Base:
+ 	Name: XXMR
+	Altname: XMR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (XXMRZUSD):
+	Current:                    189.08
+	Maximum:                    0.00532
+	Minimum:                    0.004923
+	Variance:                   0.074492
+	Mean:                       0.005122
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.590909
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.473684
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      195.724545
+	Number of local maximums:   22
+	Average local minimum:      194.894737
+	Number of local minimums:   19
+Is init: True
+Profit was -0.6363528665115266%.
+Random---Twenty-four hours or ten percent now has $693.9654831044787
+---------------------------------------------------------------------------
