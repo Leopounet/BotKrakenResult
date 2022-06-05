@@ -38096,3 +38096,46 @@ Is init: True
 Profit was -0.52%.
 Recent Minimum---Random now has $924.5035720131111
 ---------------------------------------------------------------------------
+[2022-06-05 13:30:29] BUY
+Recent Minimum---Random has bought: 
+Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base:
+ 	Name: ACH
+	Altname: ACH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (ACHUSD):
+	Current:                    0.01561
+	Maximum:                    70.028011
+	Minimum:                    53.475936
+	Variance:                   0.236364
+	Mean:                       63.12603
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.285714
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.73913
+	Is falling:                 True
+	Current fall duration:      11
+	Trending downwards:         True
+	Average local maximum:      0.015468
+	Number of local maximums:   21
+	Average local minimum:      0.015642
+	Number of local minimums:   23
+Is init: True
+
+Recent Minimum---Random now has $924.5035720131111
+---------------------------------------------------------------------------

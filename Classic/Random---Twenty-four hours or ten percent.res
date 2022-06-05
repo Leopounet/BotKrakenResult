@@ -5154,3 +5154,7 @@ Random---Twenty-four hours or ten percent now has $357.5717472690092
 Random---Twenty-four hours or ten percent has bought MULTI for $4.782
 Random---Twenty-four hours or ten percent now has $357.5717472690092
 ---------------------------------------------------------------------------
+[2022-06-05 13:30:29] SOLD
+Random---Twenty-four hours or ten percent has sold MULTI for $4.782. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $355.7123741832104
+---------------------------------------------------------------------------
