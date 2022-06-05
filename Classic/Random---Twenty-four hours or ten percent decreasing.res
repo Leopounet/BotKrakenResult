@@ -4870,3 +4870,7 @@ Random---Twenty-four hours or ten percent decreasing now has $474.3014100314889
 Random---Twenty-four hours or ten percent decreasing has sold CTSI for $0.1971. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $471.83504269932513
 ---------------------------------------------------------------------------
+[2022-06-05 09:54:36] BUY
+Random---Twenty-four hours or ten percent decreasing has bought UMA for $3.08
+Random---Twenty-four hours or ten percent decreasing now has $471.83504269932513
+---------------------------------------------------------------------------
