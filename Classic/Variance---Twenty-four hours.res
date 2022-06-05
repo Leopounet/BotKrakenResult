@@ -34,3 +34,7 @@ Variance---Twenty-four hours now has $10000
 Variance---Twenty-four hours has bought AAVE for $104.4
 Variance---Twenty-four hours now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:38:36] BUY
+Variance---Twenty-four hours has bought AAVE for $104.4
+Variance---Twenty-four hours now has $10000
+---------------------------------------------------------------------------

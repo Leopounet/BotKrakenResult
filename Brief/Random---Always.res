@@ -8056,3 +8056,51 @@ Random---Always has 2 losses
 Random---Always has -1.04 points
 Random---Always now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-05 15:38:05] BRIEF
+Random---Always has 0 wins
+Random---Always has 2 losses
+Random---Always has -1.04 points
+Random---Always now has $9896.2704
+---------------------------------------------------------------------------
+[2022-06-05 15:38:11] BRIEF
+Random---Always has 0 wins
+Random---Always has 3 losses
+Random---Always has -1.56 points
+Random---Always now has $9844.80979392
+---------------------------------------------------------------------------
+[2022-06-05 15:38:17] BRIEF
+Random---Always has 0 wins
+Random---Always has 3 losses
+Random---Always has -1.56 points
+Random---Always now has $9844.80979392
+---------------------------------------------------------------------------
+[2022-06-05 15:38:36] BRIEF
+Random---Always has 0 wins
+Random---Always has 0 losses
+Random---Always has 0 points
+Random---Always now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:38:42] BRIEF
+Random---Always has 0 wins
+Random---Always has 1 losses
+Random---Always has -0.52 points
+Random---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:38:48] BRIEF
+Random---Always has 0 wins
+Random---Always has 1 losses
+Random---Always has -0.52 points
+Random---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:38:54] BRIEF
+Random---Always has 0 wins
+Random---Always has 2 losses
+Random---Always has -1.04 points
+Random---Always now has $9896.2704
+---------------------------------------------------------------------------
+[2022-06-05 15:39:01] BRIEF
+Random---Always has 0 wins
+Random---Always has 2 losses
+Random---Always has -1.04 points
+Random---Always now has $9896.2704
+---------------------------------------------------------------------------

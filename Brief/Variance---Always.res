@@ -8056,3 +8056,51 @@ Variance---Always has 2 losses
 Variance---Always has -1.04 points
 Variance---Always now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-05 15:38:05] BRIEF
+Variance---Always has 0 wins
+Variance---Always has 2 losses
+Variance---Always has -1.04 points
+Variance---Always now has $9896.2704
+---------------------------------------------------------------------------
+[2022-06-05 15:38:11] BRIEF
+Variance---Always has 0 wins
+Variance---Always has 3 losses
+Variance---Always has -1.56 points
+Variance---Always now has $9844.80979392
+---------------------------------------------------------------------------
+[2022-06-05 15:38:17] BRIEF
+Variance---Always has 0 wins
+Variance---Always has 3 losses
+Variance---Always has -1.56 points
+Variance---Always now has $9844.80979392
+---------------------------------------------------------------------------
+[2022-06-05 15:38:36] BRIEF
+Variance---Always has 0 wins
+Variance---Always has 0 losses
+Variance---Always has 0 points
+Variance---Always now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:38:42] BRIEF
+Variance---Always has 0 wins
+Variance---Always has 1 losses
+Variance---Always has -0.52 points
+Variance---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:38:48] BRIEF
+Variance---Always has 0 wins
+Variance---Always has 1 losses
+Variance---Always has -0.52 points
+Variance---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:38:54] BRIEF
+Variance---Always has 0 wins
+Variance---Always has 2 losses
+Variance---Always has -1.04 points
+Variance---Always now has $9896.2704
+---------------------------------------------------------------------------
+[2022-06-05 15:39:01] BRIEF
+Variance---Always has 0 wins
+Variance---Always has 2 losses
+Variance---Always has -1.04 points
+Variance---Always now has $9896.2704
+---------------------------------------------------------------------------

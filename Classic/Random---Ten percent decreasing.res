@@ -18,3 +18,7 @@ Random---Ten percent decreasing now has $10000
 Random---Ten percent decreasing has bought 1INCH for $0.856
 Random---Ten percent decreasing now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:38:36] BUY
+Random---Ten percent decreasing has bought AAVE for $104.4
+Random---Ten percent decreasing now has $10000
+---------------------------------------------------------------------------

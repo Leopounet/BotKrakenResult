@@ -18,3 +18,7 @@ Recent Minimum---Never now has $10000
 Recent Minimum---Never has bought 1INCH for $0.856
 Recent Minimum---Never now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:38:36] BUY
+Recent Minimum---Never has bought 1INCH for $0.856
+Recent Minimum---Never now has $10000
+---------------------------------------------------------------------------

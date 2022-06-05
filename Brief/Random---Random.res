@@ -5362,3 +5362,45 @@ Random---Random has 2 losses
 Random---Random has -1.04 points
 Random---Random now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-05 15:38:05] BRIEF
+Random---Random has 0 wins
+Random---Random has 2 losses
+Random---Random has -1.04 points
+Random---Random now has $9896.2704
+---------------------------------------------------------------------------
+[2022-06-05 15:38:17] BRIEF
+Random---Random has 0 wins
+Random---Random has 3 losses
+Random---Random has -1.56 points
+Random---Random now has $9844.80979392
+---------------------------------------------------------------------------
+[2022-06-05 15:38:36] BRIEF
+Random---Random has 0 wins
+Random---Random has 0 losses
+Random---Random has 0 points
+Random---Random now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:38:42] BRIEF
+Random---Random has 0 wins
+Random---Random has 1 losses
+Random---Random has -0.52 points
+Random---Random now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:38:48] BRIEF
+Random---Random has 0 wins
+Random---Random has 1 losses
+Random---Random has -0.52 points
+Random---Random now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:38:54] BRIEF
+Random---Random has 0 wins
+Random---Random has 2 losses
+Random---Random has -1.04 points
+Random---Random now has $9896.2704
+---------------------------------------------------------------------------
+[2022-06-05 15:39:01] BRIEF
+Random---Random has 0 wins
+Random---Random has 2 losses
+Random---Random has -1.04 points
+Random---Random now has $9896.2704
+---------------------------------------------------------------------------
