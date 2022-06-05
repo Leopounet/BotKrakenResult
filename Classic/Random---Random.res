@@ -302,3 +302,7 @@ Random---Random now has $8290.008218573246
 Random---Random has sold MIR for $0.27. Profit was -0.52%.
 Random---Random now has $8246.900175836665
 ---------------------------------------------------------------------------
+[2022-06-05 20:30:58] BUY
+Random---Random has bought MULTI for $4.849
+Random---Random now has $8246.900175836665
+---------------------------------------------------------------------------
