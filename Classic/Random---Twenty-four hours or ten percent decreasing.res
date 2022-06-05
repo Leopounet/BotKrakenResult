@@ -4750,3 +4750,7 @@ Random---Twenty-four hours or ten percent decreasing now has $508.79336281830166
 Random---Twenty-four hours or ten percent decreasing has sold OXT for $0.13051. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $506.1476373316465
 ---------------------------------------------------------------------------
+[2022-06-05 08:25:27] BUY
+Random---Twenty-four hours or ten percent decreasing has bought TOKE for $3.26
+Random---Twenty-four hours or ten percent decreasing now has $506.1476373316465
+---------------------------------------------------------------------------

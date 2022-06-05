@@ -4750,3 +4750,7 @@ Random---Twenty-four hours or ten percent now has $461.992902754395
 Random---Twenty-four hours or ten percent has sold DAI for $0.99967. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $460.14493114337745
 ---------------------------------------------------------------------------
+[2022-06-05 08:25:27] BUY
+Random---Twenty-four hours or ten percent has bought SUSHI for $1.551
+Random---Twenty-four hours or ten percent now has $460.14493114337745
+---------------------------------------------------------------------------
