@@ -450,3 +450,7 @@ Random---Always now has $7176.4849477119615
 Random---Always has bought RNDR for $0.718
 Random---Always now has $7176.4849477119615
 ---------------------------------------------------------------------------
+[2022-06-05 20:13:06] SOLD
+Random---Always has sold RNDR for $0.718. Profit was -0.52%.
+Random---Always now has $7139.16722598386
+---------------------------------------------------------------------------
