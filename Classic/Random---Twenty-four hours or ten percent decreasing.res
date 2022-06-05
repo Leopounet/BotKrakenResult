@@ -4794,3 +4794,7 @@ Random---Twenty-four hours or ten percent decreasing now has $493.08431287092094
 Random---Twenty-four hours or ten percent decreasing has bought BOND for $3.446
 Random---Twenty-four hours or ten percent decreasing now has $493.08431287092094
 ---------------------------------------------------------------------------
+[2022-06-05 08:58:14] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold BOND for $3.446. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $490.52027444399215
+---------------------------------------------------------------------------

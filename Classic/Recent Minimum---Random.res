@@ -3298,3 +3298,7 @@ Recent Minimum---Random now has $1103.3220641976645
 Recent Minimum---Random has bought AXS for $20.108
 Recent Minimum---Random now has $1103.3220641976645
 ---------------------------------------------------------------------------
+[2022-06-05 08:58:14] SOLD
+Recent Minimum---Random has sold AXS for $20.108. Profit was -0.52%.
+Recent Minimum---Random now has $1097.5847894638366
+---------------------------------------------------------------------------

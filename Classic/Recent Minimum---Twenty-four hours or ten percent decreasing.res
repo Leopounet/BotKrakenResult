@@ -4794,3 +4794,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $436.283935
 Recent Minimum---Twenty-four hours or ten percent decreasing has bought AXS for $20.108
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $436.28393560850105
 ---------------------------------------------------------------------------
+[2022-06-05 08:58:14] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold AXS for $20.108. Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $434.01525914333683
+---------------------------------------------------------------------------

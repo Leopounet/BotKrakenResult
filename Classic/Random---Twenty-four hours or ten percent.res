@@ -4794,3 +4794,7 @@ Random---Twenty-four hours or ten percent now has $448.70996479716
 Random---Twenty-four hours or ten percent has bought CTSI for $0.1982
 Random---Twenty-four hours or ten percent now has $448.70996479716
 ---------------------------------------------------------------------------
+[2022-06-05 08:58:14] SOLD
+Random---Twenty-four hours or ten percent has sold CTSI for $0.1982. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $446.3766729802148
+---------------------------------------------------------------------------

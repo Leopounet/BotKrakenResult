@@ -51555,3 +51555,46 @@ Is init: True
 
 Recent Minimum---Twenty-four hours or ten percent now has $436.28393560850105
 ---------------------------------------------------------------------------
+[2022-06-05 08:58:14] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold: 
+Name: AXSUSD
+Altname: AXSUSD
+Wsname: AXS/USD
+Base:
+ 	Name: AXS
+	Altname: AXS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.25
+Data about this pair of assets (AXSUSD):
+	Current:                    20.108
+	Maximum:                    0.051414
+	Minimum:                    0.046419
+	Variance:                   0.097155
+	Mean:                       0.049162
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.4375
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.692308
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         True
+	Average local maximum:      20.254438
+	Number of local maximums:   32
+	Average local minimum:      20.154962
+	Number of local minimums:   26
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent now has $434.01525914333683
+---------------------------------------------------------------------------
