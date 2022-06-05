@@ -4150,3 +4150,7 @@ Random---Twenty-four hours or ten percent now has $725.2618331376278
 Random---Twenty-four hours or ten percent has sold BAT for $0.37785. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $721.4904716053122
 ---------------------------------------------------------------------------
+[2022-06-05 01:01:11] BUY
+Random---Twenty-four hours or ten percent has bought SCRT for $1.442
+Random---Twenty-four hours or ten percent now has $721.4904716053122
+---------------------------------------------------------------------------
