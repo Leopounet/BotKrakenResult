@@ -4438,3 +4438,7 @@ Random---Twenty-four hours or ten percent now has $588.6590236525265
 Random---Twenty-four hours or ten percent has sold DYDX for $1.698. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $585.5979967295333
 ---------------------------------------------------------------------------
+[2022-06-05 04:33:29] BUY
+Random---Twenty-four hours or ten percent has bought GST for $0.699
+Random---Twenty-four hours or ten percent now has $585.5979967295333
+---------------------------------------------------------------------------
