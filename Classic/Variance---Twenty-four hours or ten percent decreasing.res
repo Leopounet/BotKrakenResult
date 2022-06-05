@@ -4986,3 +4986,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $543.516558626389
 Variance---Twenty-four hours or ten percent decreasing has bought GST for $0.627
 Variance---Twenty-four hours or ten percent decreasing now has $543.5165586263897
 ---------------------------------------------------------------------------
+[2022-06-05 11:21:35] SOLD
+Variance---Twenty-four hours or ten percent decreasing has sold GST for $0.636. Profit was 0.9154066985645897%.
+Variance---Twenty-four hours or ten percent decreasing now has $548.4919456118635
+---------------------------------------------------------------------------

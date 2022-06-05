@@ -53619,3 +53619,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $449.76363767488374
 ---------------------------------------------------------------------------
+[2022-06-05 11:21:35] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: UNIUSD
+Altname: UNIUSD
+Wsname: UNI/USD
+Base:
+ 	Name: UNI
+	Altname: UNI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (UNIUSD):
+	Current:                    4.942
+	Maximum:                    0.203252
+	Minimum:                    0.187547
+	Variance:                   0.077269
+	Mean:                       0.196396
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.423077
+	Is ascending:               True
+	Current ascension duration: 6
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.714286
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      5.107346
+	Number of local maximums:   26
+	Average local minimum:      5.091714
+	Number of local minimums:   21
+Is init: True
+Profit was -0.540234722784307%.
+Random---Twenty-four hours or ten percent decreasing now has $447.3338583337062
+---------------------------------------------------------------------------
