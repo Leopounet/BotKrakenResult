@@ -4494,3 +4494,7 @@ Random---Twenty-four hours or ten percent decreasing now has $547.1808533693622
 Random---Twenty-four hours or ten percent decreasing has sold RARI for $2.72. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $544.3355129318415
 ---------------------------------------------------------------------------
+[2022-06-05 05:14:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SUPER for $0.1969
+Random---Twenty-four hours or ten percent decreasing now has $544.3355129318415
+---------------------------------------------------------------------------
