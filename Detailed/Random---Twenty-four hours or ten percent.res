@@ -55382,3 +55382,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $357.5717472690092
 ---------------------------------------------------------------------------
+[2022-06-05 13:27:21] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: MULTIUSD
+Altname: MULTIUSD
+Wsname: MULTI/USD
+Base:
+ 	Name: MULTI
+	Altname: MULTI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (MULTIUSD):
+	Current:                    4.782
+	Maximum:                    0.215657
+	Minimum:                    0.201979
+	Variance:                   0.063422
+	Mean:                       0.211143
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 30
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      33
+	Trending downwards:         True
+	Average local maximum:      4.8264
+	Number of local maximums:   5
+	Average local minimum:      4.7776
+	Number of local minimums:   5
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $357.5717472690092
+---------------------------------------------------------------------------

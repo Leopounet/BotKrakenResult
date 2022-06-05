@@ -5150,3 +5150,7 @@ Random---Twenty-four hours or ten percent decreasing now has $405.92898050472115
 Random---Twenty-four hours or ten percent decreasing has sold RLC for $0.8543. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $403.8181498060966
 ---------------------------------------------------------------------------
+[2022-06-05 13:27:21] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GHST for $1.482
+Random---Twenty-four hours or ten percent decreasing now has $403.8181498060966
+---------------------------------------------------------------------------
