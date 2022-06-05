@@ -5070,3 +5070,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold DAI for $0.99968. Profit was -0.3919967987194847%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $458.9996356468652
 ---------------------------------------------------------------------------
+[2022-06-05 12:26:04] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought LUNA for $8.188e-05
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $458.9996356468652
+---------------------------------------------------------------------------

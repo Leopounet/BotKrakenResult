@@ -5070,3 +5070,7 @@ Random---Twenty-four hours or ten percent now has $376.96649224971804
 Random---Twenty-four hours or ten percent has sold XETH for $1785.46. Profit was -0.4291846802403705%.
 Random---Twenty-four hours or ten percent now has $375.34860981534274
 ---------------------------------------------------------------------------
+[2022-06-05 12:26:04] BUY
+Random---Twenty-four hours or ten percent has bought POLIS for $0.556
+Random---Twenty-four hours or ten percent now has $375.34860981534274
+---------------------------------------------------------------------------
