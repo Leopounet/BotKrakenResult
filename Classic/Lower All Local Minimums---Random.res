@@ -118,3 +118,7 @@ Lower All Local Minimums---Random now has $9849.403468889184
 Lower All Local Minimums---Random has sold OGN for $0.2776. Profit was 0.27883805374003634%.
 Lower All Local Minimums---Random now has $9876.867353826838
 ---------------------------------------------------------------------------
+[2022-06-05 18:05:57] BUY
+Lower All Local Minimums---Random has bought ZUSD for $0.96131
+Lower All Local Minimums---Random now has $9876.867353826838
+---------------------------------------------------------------------------

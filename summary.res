@@ -1,4 +1,4 @@
-[2022-06-05 18:03:57] SUMMARY
+[2022-06-05 18:05:57] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,52 +8,15 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    28955.0
-		Maximum:                    33899.8
-		Minimum:                    28955.0
-		Variance:                   0.145865
-		Mean:                       29743.496528
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 341
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 True
-		Current fall duration:      344
-		Trending downwards:         True
-		Average local maximum:      31427.4
-		Number of local maximums:   2
-		Average local minimum:      31427.4
-		Number of local minimums:   2
-	Is init: True
+	None
 Wins: 0
-Losses: 24
-Total points: -12.479999999999993%
-Wallet: 8823.860597550924
+Losses: 25
+Total points: -12.999999999999993%
+Wallet: 8777.97652244366
 ---------------------------------------------------------------------------
 Most wins: 
-Name: Lower All Local Minimums---Random
-BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
+Name: Variance---Random
+BuyStrategy description: Looks for the asset which has the highest Variance.
 SellStrategy description: Random.
 Buy strategy cached data: 
 	{}
@@ -63,8 +26,8 @@ Bought asset pair:
 	None
 Wins: 3
 Losses: 12
-Total points: -1.106860812938545%
-Wallet: 9876.867353826838
+Total points: -6.886602950191179%
+Wallet: 9308.974765133917
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
