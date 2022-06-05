@@ -4982,3 +4982,7 @@ Random---Twenty-four hours or ten percent now has $399.4985003873922
 Random---Twenty-four hours or ten percent has sold EOS for $1.2633. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $397.42110818537776
 ---------------------------------------------------------------------------
+[2022-06-05 11:18:38] BUY
+Random---Twenty-four hours or ten percent has bought XETC for $21.771
+Random---Twenty-four hours or ten percent now has $397.42110818537776
+---------------------------------------------------------------------------
