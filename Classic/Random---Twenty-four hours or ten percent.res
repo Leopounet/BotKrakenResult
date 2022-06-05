@@ -4222,3 +4222,7 @@ Random---Twenty-four hours or ten percent now has $686.7670069068553
 Random---Twenty-four hours or ten percent has sold DYDX for $1.732. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $683.1958184709396
 ---------------------------------------------------------------------------
+[2022-06-05 01:54:02] BUY
+Random---Twenty-four hours or ten percent has bought XZEC for $89.08
+Random---Twenty-four hours or ten percent now has $683.1958184709396
+---------------------------------------------------------------------------
