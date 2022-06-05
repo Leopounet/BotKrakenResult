@@ -4102,3 +4102,7 @@ Random---Twenty-four hours or ten percent now has $742.1347419418662
 Random---Twenty-four hours or ten percent has sold ASTR for $0.062. Profit was -1.0015409309791408%.
 Random---Twenty-four hours or ten percent now has $734.701958738302
 ---------------------------------------------------------------------------
+[2022-06-05 00:25:38] BUY
+Random---Twenty-four hours or ten percent has bought WOO for $0.158
+Random---Twenty-four hours or ten percent now has $734.701958738302
+---------------------------------------------------------------------------

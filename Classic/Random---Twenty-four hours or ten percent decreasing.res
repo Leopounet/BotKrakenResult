@@ -4102,3 +4102,7 @@ Random---Twenty-four hours or ten percent decreasing now has $673.1708453790532
 Random---Twenty-four hours or ten percent decreasing has sold EOS for $1.2906. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $669.6703569830821
 ---------------------------------------------------------------------------
+[2022-06-05 00:25:38] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GARI for $0.6167
+Random---Twenty-four hours or ten percent decreasing now has $669.6703569830821
+---------------------------------------------------------------------------

@@ -4102,3 +4102,7 @@ Recent Minimum---Always now has $702.2444908892923
 Recent Minimum---Always has sold ZAUD for $0.72085. Profit was -0.4499161131986559%.
 Recent Minimum---Always now has $699.0849797707315
 ---------------------------------------------------------------------------
+[2022-06-05 00:25:38] BUY
+Recent Minimum---Always has bought ATOM for $9.2305
+Recent Minimum---Always now has $699.0849797707315
+---------------------------------------------------------------------------
