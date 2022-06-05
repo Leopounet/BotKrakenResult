@@ -4554,3 +4554,7 @@ Random---Twenty-four hours or ten percent decreasing now has $537.5101380721422
 Random---Twenty-four hours or ten percent decreasing has bought UNI for $5.066
 Random---Twenty-four hours or ten percent decreasing now has $537.5101380721422
 ---------------------------------------------------------------------------
+[2022-06-05 05:58:59] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold UNI for $5.066. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $534.7150853541671
+---------------------------------------------------------------------------
