@@ -4918,3 +4918,7 @@ Random---Always now has $357.74771891999086
 Random---Always has sold TRIBE for $0.22. Profit was -0.52%.
 Random---Always now has $355.8874307816069
 ---------------------------------------------------------------------------
+[2022-06-05 10:30:12] BUY
+Random---Always has bought RARI for $2.74
+Random---Always now has $355.8874307816069
+---------------------------------------------------------------------------

@@ -4918,3 +4918,7 @@ Random---Twenty-four hours or ten percent decreasing now has $459.65961818309887
 Random---Twenty-four hours or ten percent decreasing has sold RARI for $2.71. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $457.26938816854675
 ---------------------------------------------------------------------------
+[2022-06-05 10:30:12] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CQT for $0.1315
+Random---Twenty-four hours or ten percent decreasing now has $457.26938816854675
+---------------------------------------------------------------------------
