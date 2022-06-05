@@ -5294,3 +5294,7 @@ Random---Twenty-four hours or ten percent decreasing now has $367.52517757655676
 Random---Twenty-four hours or ten percent decreasing has sold OXY for $0.0913. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $365.61404665315865
 ---------------------------------------------------------------------------
+[2022-06-05 15:16:03] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZRX for $0.4
+Random---Twenty-four hours or ten percent decreasing now has $365.61404665315865
+---------------------------------------------------------------------------
