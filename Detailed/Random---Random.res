@@ -34828,3 +34828,46 @@ Is init: True
 Profit was -0.4426173275817177%.
 Random---Random now has $1286.6684281963387
 ---------------------------------------------------------------------------
+[2022-06-05 10:03:30] BUY
+Random---Random has bought: 
+Name: ACHUSD
+Altname: ACHUSD
+Wsname: ACH/USD
+Base:
+ 	Name: ACH
+	Altname: ACH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 250
+Data about this pair of assets (ACHUSD):
+	Current:                    0.0146
+	Maximum:                    70.028011
+	Minimum:                    53.475936
+	Variance:                   0.236364
+	Mean:                       62.649093
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 25
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         True
+	Average local maximum:      0.015505
+	Number of local maximums:   21
+	Average local minimum:      0.015645
+	Number of local minimums:   21
+Is init: True
+
+Random---Random now has $1286.6684281963387
+---------------------------------------------------------------------------
