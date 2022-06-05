@@ -30141,3 +30141,46 @@ Is init: True
 
 Random---Random now has $1646.011922963048
 ---------------------------------------------------------------------------
+[2022-06-05 02:23:43] SOLD
+Random---Random has sold: 
+Name: LUNA2USD
+Altname: LUNA2USD
+Wsname: LUNA2/USD
+Base:
+ 	Name: LUNA2
+	Altname: LUNA2
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (LUNA2USD):
+	Current:                    5.408
+	Maximum:                    0.190573
+	Minimum:                    0.136893
+	Variance:                   0.281679
+	Mean:                       0.152671
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.777778
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.24
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      6.586701
+	Number of local maximums:   27
+	Average local minimum:      6.56612
+	Number of local minimums:   25
+Is init: True
+Profit was -1.483202662721907%.
+Random---Random now has $1621.59823029294
+---------------------------------------------------------------------------

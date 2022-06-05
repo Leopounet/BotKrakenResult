@@ -4262,3 +4262,7 @@ Random---Twenty-four hours or ten percent decreasing now has $626.75044534992
 Random---Twenty-four hours or ten percent decreasing has sold GNO for $187.28. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $623.4913430341004
 ---------------------------------------------------------------------------
+[2022-06-05 02:23:43] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OGN for $0.2759
+Random---Twenty-four hours or ten percent decreasing now has $623.4913430341004
+---------------------------------------------------------------------------
