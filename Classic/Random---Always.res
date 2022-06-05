@@ -802,3 +802,7 @@ Random---Always now has $5695.487808402086
 Random---Always has bought XXRP for $0.3962
 Random---Always now has $5695.487808402086
 ---------------------------------------------------------------------------
+[2022-06-05 23:07:10] SOLD
+Random---Always has sold XXRP for $0.3962. Profit was -0.52%.
+Random---Always now has $5665.871271798394
+---------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-[2022-06-05 23:05:11] SUMMARY
+[2022-06-05 23:07:10] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: PAXGUSD
-	Altname: PAXGUSD
-	Wsname: PAXG/USD
-	Base:
-	 	Name: PAXG
-		Altname: PAXG
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.004
-	Data about this pair of assets (PAXGUSD):
-		Current:                    1851.91
-		Maximum:                    1868.12
-		Minimum:                    1850.0
-		Variance:                   0.0097
-		Mean:                       1857.037194
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.777778
-		Is ascending:               True
-		Current ascension duration: 6
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.24
-		Is falling:                 True
-		Current fall duration:      9
-		Trending downwards:         True
-		Average local maximum:      1857.781111
-		Number of local maximums:   27
-		Average local minimum:      1856.1824
-		Number of local minimums:   25
-	Is init: True
+	None
 Wins: 0
-Losses: 100
-Total points: -52.29397618540522%
-Wallet: 5919.525408909164
+Losses: 101
+Total points: -52.813976185405224%
+Wallet: 5888.743876782836
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GMTUSD
-	Altname: GMTUSD
-	Wsname: GMT/USD
-	Base:
-	 	Name: GMT
-		Altname: GMT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2.5
-	Data about this pair of assets (GMTUSD):
-		Current:                    0.939
-		Maximum:                    1.038
-		Minimum:                    0.912
-		Variance:                   0.121387
-		Mean:                       0.984549
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.535714
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.545455
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.986893
-		Number of local maximums:   28
-		Average local minimum:      0.985303
-		Number of local minimums:   33
-	Is init: True
+	None
 Wins: 8
-Losses: 56
-Total points: -11.25746699884649%
-Wallet: 8904.941079594313
+Losses: 57
+Total points: -11.670970726216028%
+Wallet: 8868.118816310129
 ---------------------------------------------------------------------------
 Best score: 
 Name: Mean---Five Percent
