@@ -49749,3 +49749,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $500.2596335973873
 ---------------------------------------------------------------------------
+[2022-06-05 06:52:00] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: USDCUSD
+Altname: USDCUSD
+Wsname: USDC/USD
+Base:
+ 	Name: USDC
+	Altname: USDC
+	decimals: 8
+	displayed_decimals: 4
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.2
+Min order: 5
+Data about this pair of assets (USDCUSD):
+	Current:                    0.9999
+	Maximum:                    1.0001
+	Minimum:                    1.0
+	Variance:                   0.0001
+	Mean:                       1.000042
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.83871
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.894737
+	Is falling:                 True
+	Current fall duration:      5
+	Trending downwards:         True
+	Average local maximum:      0.999992
+	Number of local maximums:   62
+	Average local minimum:      0.999968
+	Number of local minimums:   38
+Is init: True
+Profit was -0.4%.
+Random---Twenty-four hours or ten percent now has $498.25859506299776
+---------------------------------------------------------------------------
