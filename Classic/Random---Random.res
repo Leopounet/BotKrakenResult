@@ -134,3 +134,7 @@ Random---Random now has $9202.53909576893
 Random---Random has sold SCRT for $1.43. Profit was -0.52%.
 Random---Random now has $9154.685892470932
 ---------------------------------------------------------------------------
+[2022-06-05 18:11:58] BUY
+Random---Random has bought SPELL for $0.001267
+Random---Random now has $9154.685892470932
+---------------------------------------------------------------------------

@@ -206,3 +206,7 @@ Random---Always now has $8427.414254713309
 Random---Always has sold CHZ for $0.1263. Profit was -0.52%.
 Random---Always now has $8383.5917005888
 ---------------------------------------------------------------------------
+[2022-06-05 18:11:58] BUY
+Random---Always has bought COMP for $58.47
+Random---Always now has $8383.5917005888
+---------------------------------------------------------------------------
