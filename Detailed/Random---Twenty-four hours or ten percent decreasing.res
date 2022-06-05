@@ -43901,3 +43901,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $680.226810879231
 ---------------------------------------------------------------------------
+[2022-06-05 00:10:53] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: MNGOUSD
+Altname: MNGOUSD
+Wsname: MNGO/USD
+Base:
+ 	Name: MNGO
+	Altname: MNGO
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (MNGOUSD):
+	Current:                    0.0547
+	Maximum:                    18.621974
+	Minimum:                    17.699115
+	Variance:                   0.049558
+	Mean:                       18.174015
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.454545
+	Is ascending:               True
+	Current ascension duration: 101
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.666667
+	Is falling:                 True
+	Current fall duration:      118
+	Trending downwards:         True
+	Average local maximum:      0.054636
+	Number of local maximums:   11
+	Average local minimum:      0.055189
+	Number of local minimums:   9
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $676.689631462659
+---------------------------------------------------------------------------

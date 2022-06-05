@@ -1,4 +1,4 @@
-[2022-06-05 00:07:57] SUMMARY
+[2022-06-05 00:10:53] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.869
-		Maximum:                    1.17096
-		Minimum:                    1.074114
-		Variance:                   0.082707
-		Mean:                       1.134279
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.25
-		Is ascending:               True
-		Current ascension duration: 19
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.0
-		Is falling:                 True
-		Current fall duration:      65
-		Trending downwards:         True
-		Average local maximum:      0.885714
-		Number of local maximums:   28
-		Average local minimum:      0.880095
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 2
-Losses: 508
-Total points: -266.51772237928594%
-Wallet: 690.7377222760292
+Losses: 509
+Total points: -267.0377223792859%
+Wallet: 687.1458861201938
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KINTUSD
+	Altname: KINTUSD
+	Wsname: KINT/USD
+	Base:
+	 	Name: KINT
+		Altname: KINT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (KINTUSD):
+		Current:                    5.29
+		Maximum:                    0.278552
+		Minimum:                    0.162075
+		Variance:                   0.418152
+		Mean:                       0.241066
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.636364
+		Is ascending:               True
+		Current ascension duration: 11
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               5.5
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      4.119394
+		Number of local maximums:   33
+		Average local minimum:      4.172222
+		Number of local minimums:   18
+	Is init: True
 Wins: 24
 Losses: 331
 Total points: -160.89046262519463%
