@@ -5186,3 +5186,7 @@ Random---Twenty-four hours or ten percent decreasing now has $395.484020921761
 Random---Twenty-four hours or ten percent decreasing has bought LINK for $7.40108
 Random---Twenty-four hours or ten percent decreasing now has $395.484020921761
 ---------------------------------------------------------------------------
+[2022-06-05 13:55:14] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold LINK for $7.35562. Profit was -1.134234679263026%.
+Random---Twenty-four hours or ten percent decreasing now has $390.9983040055225
+---------------------------------------------------------------------------

@@ -55769,3 +55769,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $350.19206651774056
 ---------------------------------------------------------------------------
+[2022-06-05 13:55:14] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: DASHUSD
+Altname: DASHUSD
+Wsname: DASH/USD
+Base:
+ 	Name: DASH
+	Altname: DASH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.03
+Data about this pair of assets (DASHUSD):
+	Current:                    58.067
+	Maximum:                    0.017794
+	Minimum:                    0.016806
+	Variance:                   0.055542
+	Mean:                       0.017204
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.423077
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.714286
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      58.220769
+	Number of local maximums:   26
+	Average local minimum:      58.235238
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $348.3710677718483
+---------------------------------------------------------------------------
