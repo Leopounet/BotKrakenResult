@@ -5322,3 +5322,23 @@ Random---Always now has $9948.0
 Random---Always has bought AAVE for $104.79
 Random---Always now has $9948.0
 ---------------------------------------------------------------------------
+[2022-06-05 15:34:05] BUY
+Random---Always has bought AAVE for $104.79
+Random---Always now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:34:11] SOLD
+Random---Always has sold AAVE for $104.79. Profit was -0.52%.
+Random---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:34:17] BUY
+Random---Always has bought AAVE for $104.79
+Random---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:34:24] SOLD
+Random---Always has sold AAVE for $104.79. Profit was -0.52%.
+Random---Always now has $9896.2704
+---------------------------------------------------------------------------
+[2022-06-05 15:34:30] BUY
+Random---Always has bought 1INCH for $0.856
+Random---Always now has $9896.2704
+---------------------------------------------------------------------------

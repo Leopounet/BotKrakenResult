@@ -6,3 +6,7 @@ Random---Never now has $10000
 Random---Never has bought AAVE for $104.79
 Random---Never now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:34:05] BUY
+Random---Never has bought 1INCH for $0.856
+Random---Never now has $10000
+---------------------------------------------------------------------------

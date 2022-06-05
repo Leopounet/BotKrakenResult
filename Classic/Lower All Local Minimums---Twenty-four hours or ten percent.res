@@ -5314,3 +5314,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $399.9104244
 Lower All Local Minimums---Twenty-four hours or ten percent has bought AAVE for $104.79
 Lower All Local Minimums---Twenty-four hours or ten percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:34:05] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought AAVE for $104.79
+Lower All Local Minimums---Twenty-four hours or ten percent now has $10000
+---------------------------------------------------------------------------

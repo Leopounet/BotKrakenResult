@@ -5314,3 +5314,7 @@ Random---Twenty-four hours or ten percent now has $320.15189060058566
 Random---Twenty-four hours or ten percent has bought 1INCH for $0.856
 Random---Twenty-four hours or ten percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:34:05] BUY
+Random---Twenty-four hours or ten percent has bought AAVE for $104.79
+Random---Twenty-four hours or ten percent now has $10000
+---------------------------------------------------------------------------

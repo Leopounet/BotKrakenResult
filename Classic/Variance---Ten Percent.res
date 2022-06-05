@@ -14,3 +14,7 @@ Variance---Ten Percent now has $13570.448979591836
 Variance---Ten Percent has bought AAVE for $104.79
 Variance---Ten Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:34:05] BUY
+Variance---Ten Percent has bought AAVE for $104.79
+Variance---Ten Percent now has $10000
+---------------------------------------------------------------------------
