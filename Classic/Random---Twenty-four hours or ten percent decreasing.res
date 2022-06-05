@@ -4630,3 +4630,7 @@ Random---Twenty-four hours or ten percent decreasing now has $514.8238424822503
 Random---Twenty-four hours or ten percent decreasing has sold CVC for $0.1749. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $512.1467585013426
 ---------------------------------------------------------------------------
+[2022-06-05 06:54:57] BUY
+Random---Twenty-four hours or ten percent decreasing has bought SCRT for $1.427
+Random---Twenty-four hours or ten percent decreasing now has $512.1467585013426
+---------------------------------------------------------------------------

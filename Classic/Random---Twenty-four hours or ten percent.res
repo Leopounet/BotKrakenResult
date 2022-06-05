@@ -4630,3 +4630,7 @@ Random---Twenty-four hours or ten percent now has $500.2596335973873
 Random---Twenty-four hours or ten percent has sold USDC for $0.9999. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $498.25859506299776
 ---------------------------------------------------------------------------
+[2022-06-05 06:54:57] BUY
+Random---Twenty-four hours or ten percent has bought ZRX for $0.393
+Random---Twenty-four hours or ten percent now has $498.25859506299776
+---------------------------------------------------------------------------
