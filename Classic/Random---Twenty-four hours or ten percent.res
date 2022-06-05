@@ -5286,3 +5286,7 @@ Random---Twenty-four hours or ten percent now has $326.38374231056645
 Random---Twenty-four hours or ten percent has sold UMA for $3.079. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $324.6865468505515
 ---------------------------------------------------------------------------
+[2022-06-05 15:10:09] BUY
+Random---Twenty-four hours or ten percent has bought ANKR for $0.03824
+Random---Twenty-four hours or ten percent now has $324.6865468505515
+---------------------------------------------------------------------------

@@ -5286,3 +5286,7 @@ Random---Twenty-four hours or ten percent decreasing now has $369.44629832786165
 Random---Twenty-four hours or ten percent decreasing has sold RLC for $0.8543. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $367.52517757655676
 ---------------------------------------------------------------------------
+[2022-06-05 15:10:09] BUY
+Random---Twenty-four hours or ten percent decreasing has bought OXY for $0.0913
+Random---Twenty-four hours or ten percent decreasing now has $367.52517757655676
+---------------------------------------------------------------------------
