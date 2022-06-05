@@ -29840,3 +29840,46 @@ Is init: True
 Profit was -2.411921278677833%.
 Lower All Local Minimums---Random now has $1886.4858926257268
 ---------------------------------------------------------------------------
+[2022-06-05 01:10:02] BUY
+Lower All Local Minimums---Random has bought: 
+Name: LUNAUSD
+Altname: LUNAUSD
+Wsname: LUNA/USD
+Base:
+ 	Name: LUNA
+	Altname: LUNA
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50000
+Data about this pair of assets (LUNAUSD):
+	Current:                    9e-05
+	Maximum:                    11111.111111
+	Minimum:                    9523.809524
+	Variance:                   0.142857
+	Mean:                       10414.054969
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.68
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               1.923077
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      9.6e-05
+	Number of local maximums:   25
+	Average local minimum:      9.7e-05
+	Number of local minimums:   39
+Is init: True
+
+Lower All Local Minimums---Random now has $1886.4858926257268
+---------------------------------------------------------------------------
