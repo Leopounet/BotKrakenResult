@@ -4934,3 +4934,7 @@ Random---Twenty-four hours or ten percent now has $413.5279000870454
 Random---Twenty-four hours or ten percent has sold KSM for $67.92. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $411.3775550065928
 ---------------------------------------------------------------------------
+[2022-06-05 10:42:09] BUY
+Random---Twenty-four hours or ten percent has bought OXT for $0.12853
+Random---Twenty-four hours or ten percent now has $411.3775550065928
+---------------------------------------------------------------------------

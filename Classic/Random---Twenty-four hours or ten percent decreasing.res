@@ -4934,3 +4934,7 @@ Random---Twenty-four hours or ten percent decreasing now has $461.4985214756995
 Random---Twenty-four hours or ten percent decreasing has sold BADGER for $5.737. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $459.0987291640258
 ---------------------------------------------------------------------------
+[2022-06-05 10:42:09] BUY
+Random---Twenty-four hours or ten percent decreasing has bought RLC for $0.8559
+Random---Twenty-four hours or ten percent decreasing now has $459.0987291640258
+---------------------------------------------------------------------------

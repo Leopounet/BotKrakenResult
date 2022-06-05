@@ -53060,3 +53060,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $459.0987291640258
 ---------------------------------------------------------------------------
+[2022-06-05 10:42:09] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: RLCUSD
+Altname: RLCUSD
+Wsname: RLC/USD
+Base:
+ 	Name: RLC
+	Altname: RLC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (RLCUSD):
+	Current:                    0.8559
+	Maximum:                    1.203225
+	Minimum:                    1.109016
+	Variance:                   0.078297
+	Mean:                       1.143951
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.714286
+	Is ascending:               True
+	Current ascension duration: 43
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.25
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.866379
+	Number of local maximums:   14
+	Average local minimum:      0.878737
+	Number of local minimums:   8
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $459.0987291640258
+---------------------------------------------------------------------------
