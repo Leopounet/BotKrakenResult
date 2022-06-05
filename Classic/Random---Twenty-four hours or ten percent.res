@@ -5066,3 +5066,7 @@ Random---Twenty-four hours or ten percent now has $376.96649224971804
 Random---Twenty-four hours or ten percent has bought XETH for $1783.84
 Random---Twenty-four hours or ten percent now has $376.96649224971804
 ---------------------------------------------------------------------------
+[2022-06-05 12:22:55] SOLD
+Random---Twenty-four hours or ten percent has sold XETH for $1785.46. Profit was -0.4291846802403705%.
+Random---Twenty-four hours or ten percent now has $375.34860981534274
+---------------------------------------------------------------------------
