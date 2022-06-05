@@ -56199,3 +56199,46 @@ Is init: True
 
 Random---Always now has $302.93766996772075
 ---------------------------------------------------------------------------
+[2022-06-05 14:25:18] SOLD
+Random---Always has sold: 
+Name: AKTUSD
+Altname: AKTUSD
+Wsname: AKT/USD
+Base:
+ 	Name: AKT
+	Altname: AKT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 3
+Data about this pair of assets (AKTUSD):
+	Current:                    0.3838
+	Maximum:                    2.605524
+	Minimum:                    2.453386
+	Variance:                   0.058391
+	Mean:                       2.543539
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.076923
+	Is ascending:               True
+	Current ascension duration: 27
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.333333
+	Is falling:                 True
+	Current fall duration:      3
+	Trending downwards:         True
+	Average local maximum:      0.392423
+	Number of local maximums:   26
+	Average local minimum:      0.393322
+	Number of local minimums:   18
+Is init: True
+Profit was -0.52%.
+Random---Always now has $301.3623940838886
+---------------------------------------------------------------------------
