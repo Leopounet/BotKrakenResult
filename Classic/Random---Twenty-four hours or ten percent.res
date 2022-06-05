@@ -4998,3 +4998,7 @@ Random---Twenty-four hours or ten percent now has $394.3505148882864
 Random---Twenty-four hours or ten percent has sold MC for $0.987. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $392.2998922108673
 ---------------------------------------------------------------------------
+[2022-06-05 11:30:40] BUY
+Random---Twenty-four hours or ten percent has bought ATLAS for $0.00825
+Random---Twenty-four hours or ten percent now has $392.2998922108673
+---------------------------------------------------------------------------
