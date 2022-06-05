@@ -2846,3 +2846,7 @@ Recent Minimum---Random now has $1500.0809056392452
 Recent Minimum---Random has sold ATOM for $9.2305. Profit was -0.52%.
 Recent Minimum---Random now has $1492.2804849299212
 ---------------------------------------------------------------------------
+[2022-06-05 00:31:32] BUY
+Recent Minimum---Random has bought ALICE for $2.974
+Recent Minimum---Random now has $1492.2804849299212
+---------------------------------------------------------------------------

@@ -4110,3 +4110,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $699.0849797707315
 Recent Minimum---Twenty-four hours or ten percent has sold ATOM for $9.2305. Profit was -0.52%.
 Recent Minimum---Twenty-four hours or ten percent now has $695.4497378759237
 ---------------------------------------------------------------------------
+[2022-06-05 00:31:32] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought ALICE for $2.974
+Recent Minimum---Twenty-four hours or ten percent now has $695.4497378759237
+---------------------------------------------------------------------------

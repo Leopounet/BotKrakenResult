@@ -4110,3 +4110,7 @@ Random---Twenty-four hours or ten percent now has $734.701958738302
 Random---Twenty-four hours or ten percent has sold WOO for $0.1603. Profit was 0.9356962025316533%.
 Random---Twenty-four hours or ten percent now has $741.5765370661419
 ---------------------------------------------------------------------------
+[2022-06-05 00:31:32] BUY
+Random---Twenty-four hours or ten percent has bought CHZ for $0.1283
+Random---Twenty-four hours or ten percent now has $741.5765370661419
+---------------------------------------------------------------------------

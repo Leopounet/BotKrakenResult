@@ -4110,3 +4110,7 @@ Random---Twenty-four hours or ten percent decreasing now has $669.6703569830821
 Random---Twenty-four hours or ten percent decreasing has sold GARI for $0.6167. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $666.1880711267701
 ---------------------------------------------------------------------------
+[2022-06-05 00:31:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought GLMR for $1.319
+Random---Twenty-four hours or ten percent decreasing now has $666.1880711267701
+---------------------------------------------------------------------------
