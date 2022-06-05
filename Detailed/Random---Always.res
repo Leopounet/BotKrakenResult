@@ -52931,3 +52931,46 @@ Is init: True
 
 Random---Always now has $355.8874307816069
 ---------------------------------------------------------------------------
+[2022-06-05 10:33:09] SOLD
+Random---Always has sold: 
+Name: RARIUSD
+Altname: RARIUSD
+Wsname: RARI/USD
+Base:
+ 	Name: RARI
+	Altname: RARI
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.3
+Data about this pair of assets (RARIUSD):
+	Current:                    2.74
+	Maximum:                    0.398406
+	Minimum:                    0.327869
+	Variance:                   0.177049
+	Mean:                       0.356774
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.551724
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.8
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      2.782414
+	Number of local maximums:   29
+	Average local minimum:      2.835333
+	Number of local minimums:   15
+Is init: True
+Profit was -0.52%.
+Random---Always now has $354.03681614154254
+---------------------------------------------------------------------------
