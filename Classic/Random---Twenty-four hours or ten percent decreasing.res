@@ -4350,3 +4350,7 @@ Random---Twenty-four hours or ten percent decreasing now has $599.029124438604
 Random---Twenty-four hours or ten percent decreasing has sold SHIB for $1.078e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $595.9141729915232
 ---------------------------------------------------------------------------
+[2022-06-05 03:28:32] BUY
+Random---Twenty-four hours or ten percent decreasing has bought FIDA for $0.47
+Random---Twenty-four hours or ten percent decreasing now has $595.9141729915232
+---------------------------------------------------------------------------
