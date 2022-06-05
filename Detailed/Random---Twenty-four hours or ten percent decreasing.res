@@ -46567,3 +46567,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $602.3542869990509
 ---------------------------------------------------------------------------
+[2022-06-05 03:13:50] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: COMPUSD
+Altname: COMPUSD
+Wsname: COMP/USD
+Base:
+ 	Name: COMP
+	Altname: COMP
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (COMPUSD):
+	Current:                    57.33
+	Maximum:                    0.018182
+	Minimum:                    0.016889
+	Variance:                   0.071103
+	Mean:                       0.017561
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.8125
+	Is ascending:               True
+	Current ascension duration: 3
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.2
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      56.678438
+	Number of local maximums:   32
+	Average local minimum:      57.124667
+	Number of local minimums:   30
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $599.2220447066559
+---------------------------------------------------------------------------
