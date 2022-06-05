@@ -4278,3 +4278,7 @@ Random---Twenty-four hours or ten percent now has $659.6854364653337
 Random---Twenty-four hours or ten percent has sold PLA for $0.5583. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $656.255072195714
 ---------------------------------------------------------------------------
+[2022-06-05 02:35:31] BUY
+Random---Twenty-four hours or ten percent has bought IMX for $0.944
+Random---Twenty-four hours or ten percent now has $656.255072195714
+---------------------------------------------------------------------------
