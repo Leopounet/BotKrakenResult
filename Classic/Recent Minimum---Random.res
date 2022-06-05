@@ -3294,3 +3294,7 @@ Recent Minimum---Random now has $1105.2047766703702
 Recent Minimum---Random has sold 1INCH for $0.861. Profit was -0.17034965034964555%.
 Recent Minimum---Random now has $1103.3220641976645
 ---------------------------------------------------------------------------
+[2022-06-05 08:55:14] BUY
+Recent Minimum---Random has bought AXS for $20.108
+Recent Minimum---Random now has $1103.3220641976645
+---------------------------------------------------------------------------

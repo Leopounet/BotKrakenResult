@@ -4790,3 +4790,7 @@ Recent Minimum---Always now has $438.56447085695726
 Recent Minimum---Always has sold 1INCH for $0.861. Profit was -0.52%.
 Recent Minimum---Always now has $436.28393560850105
 ---------------------------------------------------------------------------
+[2022-06-05 08:55:14] BUY
+Recent Minimum---Always has bought AXS for $20.108
+Recent Minimum---Always now has $436.28393560850105
+---------------------------------------------------------------------------
