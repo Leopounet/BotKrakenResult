@@ -4302,3 +4302,7 @@ Random---Twenty-four hours or ten percent now has $649.4477645820307
 Random---Twenty-four hours or ten percent has sold SCRT for $1.43. Profit was -0.9378272980501441%.
 Random---Twenty-four hours or ten percent now has $643.357066159204
 ---------------------------------------------------------------------------
+[2022-06-05 02:53:05] BUY
+Random---Twenty-four hours or ten percent has bought OMG for $2.398894
+Random---Twenty-four hours or ten percent now has $643.357066159204
+---------------------------------------------------------------------------
