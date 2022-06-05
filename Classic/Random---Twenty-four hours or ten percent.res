@@ -4974,3 +4974,7 @@ Random---Twenty-four hours or ten percent now has $401.58675149516705
 Random---Twenty-four hours or ten percent has sold COMP for $57.64. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $399.4985003873922
 ---------------------------------------------------------------------------
+[2022-06-05 11:12:44] BUY
+Random---Twenty-four hours or ten percent has bought EOS for $1.2633
+Random---Twenty-four hours or ten percent now has $399.4985003873922
+---------------------------------------------------------------------------
