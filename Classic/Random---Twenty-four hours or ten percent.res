@@ -4774,3 +4774,7 @@ Random---Twenty-four hours or ten percent now has $455.37186617842445
 Random---Twenty-four hours or ten percent has sold XETH for $1792.97. Profit was -0.4301241514826599%.
 Random---Twenty-four hours or ten percent now has $453.41320180293377
 ---------------------------------------------------------------------------
+[2022-06-05 08:43:21] BUY
+Random---Twenty-four hours or ten percent has bought FTM for $0.353
+Random---Twenty-four hours or ten percent now has $453.41320180293377
+---------------------------------------------------------------------------

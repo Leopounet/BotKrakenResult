@@ -51340,3 +51340,46 @@ Is init: True
 Profit was -0.4301241514826599%.
 Random---Twenty-four hours or ten percent now has $453.41320180293377
 ---------------------------------------------------------------------------
+[2022-06-05 08:43:21] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: FTMUSD
+Altname: FTMUSD
+Wsname: FTM/USD
+Base:
+ 	Name: FTM
+	Altname: FTM
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (FTMUSD):
+	Current:                    0.353
+	Maximum:                    2.923977
+	Minimum:                    2.500625
+	Variance:                   0.144786
+	Mean:                       2.7966
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.387755
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.769231
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.359655
+	Number of local maximums:   49
+	Average local minimum:      0.361813
+	Number of local minimums:   39
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $453.41320180293377
+---------------------------------------------------------------------------
