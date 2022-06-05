@@ -51469,3 +51469,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $451.0554531535585
 ---------------------------------------------------------------------------
+[2022-06-05 08:52:16] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: LRCUSD
+Altname: LRCUSD
+Wsname: LRC/USD
+Base:
+ 	Name: LRC
+	Altname: LRC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 15
+Data about this pair of assets (LRCUSD):
+	Current:                    0.5109
+	Maximum:                    2.007629
+	Minimum:                    1.801153
+	Variance:                   0.102846
+	Mean:                       1.926247
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.129032
+	Is ascending:               True
+	Current ascension duration: 21
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.227273
+	Is falling:                 True
+	Current fall duration:      11
+	Trending downwards:         True
+	Average local maximum:      0.522777
+	Number of local maximums:   31
+	Average local minimum:      0.517582
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $448.70996479716
+---------------------------------------------------------------------------
