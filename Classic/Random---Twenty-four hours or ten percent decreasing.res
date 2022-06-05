@@ -4602,3 +4602,7 @@ Random---Twenty-four hours or ten percent decreasing now has $518.3716596758451
 Random---Twenty-four hours or ten percent decreasing has bought XTZ for $1.8888
 Random---Twenty-four hours or ten percent decreasing now has $518.3716596758451
 ---------------------------------------------------------------------------
+[2022-06-05 06:34:13] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XTZ for $1.8888. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $515.6761270455307
+---------------------------------------------------------------------------
