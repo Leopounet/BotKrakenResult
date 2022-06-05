@@ -46911,3 +46911,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $592.8154192919673
 ---------------------------------------------------------------------------
+[2022-06-05 03:37:32] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: KILTUSD
+Altname: KILTUSD
+Wsname: KILT/USD
+Base:
+ 	Name: KILT
+	Altname: KILT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2
+Data about this pair of assets (KILTUSD):
+	Current:                    0.72
+	Maximum:                    1.428571
+	Minimum:                    1.251564
+	Variance:                   0.123905
+	Mean:                       1.339361
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.129032
+	Is ascending:               True
+	Current ascension duration: 55
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.227273
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.744129
+	Number of local maximums:   31
+	Average local minimum:      0.75
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $589.732779111649
+---------------------------------------------------------------------------

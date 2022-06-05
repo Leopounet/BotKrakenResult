@@ -4362,3 +4362,7 @@ Random---Twenty-four hours or ten percent decreasing now has $592.8154192919673
 Random---Twenty-four hours or ten percent decreasing has bought KILT for $0.72
 Random---Twenty-four hours or ten percent decreasing now has $592.8154192919673
 ---------------------------------------------------------------------------
+[2022-06-05 03:37:32] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold KILT for $0.72. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $589.732779111649
+---------------------------------------------------------------------------
