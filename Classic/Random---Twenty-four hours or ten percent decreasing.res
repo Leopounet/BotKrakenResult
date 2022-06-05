@@ -4170,3 +4170,7 @@ Random---Twenty-four hours or ten percent decreasing now has $632.5110819657798
 Random---Twenty-four hours or ten percent decreasing has bought TRIBE for $0.23
 Random---Twenty-four hours or ten percent decreasing now has $632.5110819657798
 ---------------------------------------------------------------------------
+[2022-06-05 01:15:53] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold TRIBE for $0.23. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $629.2220243395577
+---------------------------------------------------------------------------
