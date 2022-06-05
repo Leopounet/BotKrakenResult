@@ -166,3 +166,9 @@ Mean---Random has 14 losses
 Mean---Random has -7.279999999999998 points
 Mean---Random now has $9296.101830280968
 ---------------------------------------------------------------------------
+[2022-06-05 18:13:57] BRIEF
+Mean---Random has 0 wins
+Mean---Random has 14 losses
+Mean---Random has -7.279999999999998 points
+Mean---Random now has $9296.101830280968
+---------------------------------------------------------------------------
