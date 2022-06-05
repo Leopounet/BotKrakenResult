@@ -5182,3 +5182,7 @@ Random---Twenty-four hours or ten percent now has $352.02258395430295
 Random---Twenty-four hours or ten percent has sold GST for $0.652. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $350.19206651774056
 ---------------------------------------------------------------------------
+[2022-06-05 13:52:16] BUY
+Random---Twenty-four hours or ten percent has bought DASH for $58.067
+Random---Twenty-four hours or ten percent now has $350.19206651774056
+---------------------------------------------------------------------------

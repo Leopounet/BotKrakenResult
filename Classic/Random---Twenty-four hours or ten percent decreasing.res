@@ -5182,3 +5182,7 @@ Random---Twenty-four hours or ten percent decreasing now has $397.5512876173713
 Random---Twenty-four hours or ten percent decreasing has sold GARI for $0.611. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $395.484020921761
 ---------------------------------------------------------------------------
+[2022-06-05 13:52:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought LINK for $7.40108
+Random---Twenty-four hours or ten percent decreasing now has $395.484020921761
+---------------------------------------------------------------------------

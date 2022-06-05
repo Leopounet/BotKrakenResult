@@ -55726,3 +55726,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $310.5000701610654
 ---------------------------------------------------------------------------
+[2022-06-05 13:52:16] BUY
+Random---Always has bought: 
+Name: PLAUSD
+Altname: PLAUSD
+Wsname: PLA/USD
+Base:
+ 	Name: PLA
+	Altname: PLA
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (PLAUSD):
+	Current:                    0.5399
+	Maximum:                    1.892506
+	Minimum:                    1.769598
+	Variance:                   0.064944
+	Mean:                       1.848781
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.714286
+	Is ascending:               True
+	Current ascension duration: 34
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.25
+	Is falling:                 True
+	Current fall duration:      31
+	Trending downwards:         True
+	Average local maximum:      0.544
+	Number of local maximums:   7
+	Average local minimum:      0.546875
+	Number of local minimums:   4
+Is init: True
+
+Random---Always now has $310.5000701610654
+---------------------------------------------------------------------------
