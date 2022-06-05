@@ -1,4 +1,4 @@
-[2022-06-05 21:44:23] SUMMARY
+[2022-06-05 21:46:20] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: BCHUSD
+	Altname: BCHUSD
+	Wsname: BCH/USD
+	Base:
+	 	Name: BCH
+		Altname: BCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.01
+	Data about this pair of assets (BCHUSD):
+		Current:                    181.12
+		Maximum:                    189.64
+		Minimum:                    178.97
+		Variance:                   0.056265
+		Mean:                       184.937847
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.454545
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.666667
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      185.010909
+		Number of local maximums:   22
+		Average local minimum:      184.866667
+		Number of local minimums:   18
+	Is init: True
 Wins: 0
 Losses: 80
 Total points: -41.684228386029254%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: USDCHF
+	Altname: USDCHF
+	Wsname: USD/CHF
+	Base:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: CHF
+		Altname: CHF
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (USDCHF):
+		Current:                    0.96091
+		Maximum:                    1.042481
+		Minimum:                    1.037129
+		Variance:                   0.005134
+		Mean:                       1.039257
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.1875
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.823529
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      0.962285
+		Number of local maximums:   32
+		Average local minimum:      0.962245
+		Number of local minimums:   34
+	Is init: True
 Wins: 6
 Losses: 49
 Total points: -8.535716158418408%
