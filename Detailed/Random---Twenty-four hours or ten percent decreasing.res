@@ -53189,3 +53189,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $461.32439517511926
 ---------------------------------------------------------------------------
+[2022-06-05 10:51:01] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: ATLASUSD
+Altname: ATLASUSD
+Wsname: ATLAS/USD
+Base:
+ 	Name: ATLAS
+	Altname: ATLAS
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 500
+Data about this pair of assets (ATLASUSD):
+	Current:                    0.00827
+	Maximum:                    122.100122
+	Minimum:                    114.416476
+	Variance:                   0.062929
+	Mean:                       119.098276
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.181818
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.125
+	Is falling:                 True
+	Current fall duration:      49
+	Trending downwards:         True
+	Average local maximum:      0.008333
+	Number of local maximums:   11
+	Average local minimum:      0.008493
+	Number of local minimums:   8
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $458.9255083202086
+---------------------------------------------------------------------------

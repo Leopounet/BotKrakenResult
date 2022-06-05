@@ -4946,3 +4946,7 @@ Random---Twenty-four hours or ten percent now has $409.2383917205585
 Random---Twenty-four hours or ten percent has bought 1INCH for $0.855
 Random---Twenty-four hours or ten percent now has $409.2383917205585
 ---------------------------------------------------------------------------
+[2022-06-05 10:51:01] SOLD
+Random---Twenty-four hours or ten percent has sold 1INCH for $0.855. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $407.11035208361164
+---------------------------------------------------------------------------
