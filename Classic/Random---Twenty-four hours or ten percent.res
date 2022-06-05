@@ -4534,3 +4534,7 @@ Random---Twenty-four hours or ten percent now has $534.0268855541337
 Random---Twenty-four hours or ten percent has sold SC for $0.00542. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $531.2499457492522
 ---------------------------------------------------------------------------
+[2022-06-05 05:44:17] BUY
+Random---Twenty-four hours or ten percent has bought FXS for $5.662
+Random---Twenty-four hours or ten percent now has $531.2499457492522
+---------------------------------------------------------------------------
