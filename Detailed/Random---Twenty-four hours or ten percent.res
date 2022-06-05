@@ -46825,3 +46825,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $621.7179909071205
 ---------------------------------------------------------------------------
+[2022-06-05 03:31:34] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: CRVUSD
+Altname: CRVUSD
+Wsname: CRV/USD
+Base:
+ 	Name: CRV
+	Altname: CRV
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (CRVUSD):
+	Current:                    1.161
+	Maximum:                    0.870322
+	Minimum:                    0.789266
+	Variance:                   0.093133
+	Mean:                       0.838118
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.28
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.947368
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      1.20088
+	Number of local maximums:   25
+	Average local minimum:      1.195053
+	Number of local minimums:   19
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $618.4850573544035
+---------------------------------------------------------------------------
