@@ -5166,3 +5166,7 @@ Random---Twenty-four hours or ten percent decreasing now has $401.71829542710486
 Random---Twenty-four hours or ten percent decreasing has sold XXDG for $0.0814854. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $399.62936029088394
 ---------------------------------------------------------------------------
+[2022-06-05 13:39:51] BUY
+Random---Twenty-four hours or ten percent decreasing has bought CFG for $0.3068
+Random---Twenty-four hours or ten percent decreasing now has $399.62936029088394
+---------------------------------------------------------------------------

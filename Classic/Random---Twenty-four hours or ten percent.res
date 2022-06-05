@@ -5166,3 +5166,7 @@ Random---Twenty-four hours or ten percent now has $355.7123741832104
 Random---Twenty-four hours or ten percent has sold SPELL for $0.00124. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $353.8626698374577
 ---------------------------------------------------------------------------
+[2022-06-05 13:39:51] BUY
+Random---Twenty-four hours or ten percent has bought SAMO for $0.005527
+Random---Twenty-four hours or ten percent now has $353.8626698374577
+---------------------------------------------------------------------------
