@@ -5126,3 +5126,7 @@ Random---Twenty-four hours or ten percent now has $364.07144329145166
 Random---Twenty-four hours or ten percent has sold LPT for $12.38. Profit was -0.35818770226535745%.
 Random---Twenty-four hours or ten percent now has $362.76738415412166
 ---------------------------------------------------------------------------
+[2022-06-05 13:08:56] BUY
+Random---Twenty-four hours or ten percent has bought GALA for $0.0736
+Random---Twenty-four hours or ten percent now has $362.76738415412166
+---------------------------------------------------------------------------

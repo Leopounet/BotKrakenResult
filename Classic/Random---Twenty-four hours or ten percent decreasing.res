@@ -5126,3 +5126,7 @@ Random---Twenty-four hours or ten percent decreasing now has $412.3279057716448
 Random---Twenty-four hours or ten percent decreasing has sold SHIB for $1.081e-05. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $410.18380066163223
 ---------------------------------------------------------------------------
+[2022-06-05 13:08:56] BUY
+Random---Twenty-four hours or ten percent decreasing has bought POWR for $0.2987
+Random---Twenty-four hours or ten percent decreasing now has $410.18380066163223
+---------------------------------------------------------------------------
