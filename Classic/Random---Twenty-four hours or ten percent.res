@@ -4454,3 +4454,7 @@ Random---Twenty-four hours or ten percent now has $562.446518160118
 Random---Twenty-four hours or ten percent has sold NANO for $1.152545. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $559.5217962656853
 ---------------------------------------------------------------------------
+[2022-06-05 04:45:15] BUY
+Random---Twenty-four hours or ten percent has bought DYDX for $1.698
+Random---Twenty-four hours or ten percent now has $559.5217962656853
+---------------------------------------------------------------------------
