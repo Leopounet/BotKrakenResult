@@ -54651,3 +54651,46 @@ Is init: True
 
 Random---Always now has $327.30069197446977
 ---------------------------------------------------------------------------
+[2022-06-05 12:35:19] SOLD
+Random---Always has sold: 
+Name: OXTUSD
+Altname: OXTUSD
+Wsname: OXT/USD
+Base:
+ 	Name: OXT
+	Altname: OXT
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (OXTUSD):
+	Current:                    0.12884
+	Maximum:                    7.92393
+	Minimum:                    7.458234
+	Variance:                   0.058771
+	Mean:                       7.711161
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.473684
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.590909
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.12891
+	Number of local maximums:   19
+	Average local minimum:      0.130419
+	Number of local minimums:   22
+Is init: True
+Profit was -0.11639863396461125%.
+Random---Always now has $326.9197184400548
+---------------------------------------------------------------------------
