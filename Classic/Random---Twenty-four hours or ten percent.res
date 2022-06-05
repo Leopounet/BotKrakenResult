@@ -5090,3 +5090,7 @@ Random---Twenty-four hours or ten percent now has $372.8310776777263
 Random---Twenty-four hours or ten percent has bought AVAX for $24.41
 Random---Twenty-four hours or ten percent now has $372.8310776777263
 ---------------------------------------------------------------------------
+[2022-06-05 12:41:33] SOLD
+Random---Twenty-four hours or ten percent has sold AVAX for $24.31. Profit was -0.9296681687832948%.
+Random---Twenty-four hours or ten percent now has $369.3649858252247
+---------------------------------------------------------------------------

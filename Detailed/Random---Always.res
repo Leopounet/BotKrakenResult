@@ -54737,3 +54737,46 @@ Is init: True
 
 Random---Always now has $326.9197184400548
 ---------------------------------------------------------------------------
+[2022-06-05 12:41:33] SOLD
+Random---Always has sold: 
+Name: NYMUSD
+Altname: NYMUSD
+Wsname: NYM/USD
+Base:
+ 	Name: NYM
+	Altname: NYM
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (NYMUSD):
+	Current:                    0.372
+	Maximum:                    2.801905
+	Minimum:                    2.558199
+	Variance:                   0.086979
+	Mean:                       2.688983
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.894737
+	Is ascending:               True
+	Current ascension duration: 8
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.75
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      0.373368
+	Number of local maximums:   19
+	Average local minimum:      0.374442
+	Number of local minimums:   12
+Is init: True
+Profit was -0.52%.
+Random---Always now has $325.2197359041665
+---------------------------------------------------------------------------

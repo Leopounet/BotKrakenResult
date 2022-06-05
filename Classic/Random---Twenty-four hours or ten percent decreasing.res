@@ -5090,3 +5090,7 @@ Random---Twenty-four hours or ten percent decreasing now has $420.84361139178543
 Random---Twenty-four hours or ten percent decreasing has bought TOKE for $3.25
 Random---Twenty-four hours or ten percent decreasing now has $420.84361139178543
 ---------------------------------------------------------------------------
+[2022-06-05 12:41:33] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold TOKE for $3.25. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $418.6552246125481
+---------------------------------------------------------------------------
