@@ -14,3 +14,7 @@ Mean---Always now has $9948.0
 Mean---Always has sold TBTC for $28955.0. Profit was -0.52%.
 Mean---Always now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-05 16:37:21] BUY
+Mean---Always has bought TBTC for $28955.0
+Mean---Always now has $9896.2704
+---------------------------------------------------------------------------
