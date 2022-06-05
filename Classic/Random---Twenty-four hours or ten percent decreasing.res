@@ -5110,3 +5110,7 @@ Random---Twenty-four hours or ten percent decreasing now has $416.47821744456286
 Random---Twenty-four hours or ten percent decreasing has sold FLOW for $2.441. Profit was -0.4790163934426235%.
 Random---Twenty-four hours or ten percent decreasing now has $414.4832185078858
 ---------------------------------------------------------------------------
+[2022-06-05 12:56:40] BUY
+Random---Twenty-four hours or ten percent decreasing has bought PHA for $0.1254
+Random---Twenty-four hours or ten percent decreasing now has $414.4832185078858
+---------------------------------------------------------------------------
