@@ -46868,3 +46868,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $618.4850573544035
 ---------------------------------------------------------------------------
+[2022-06-05 03:34:36] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: AGLDUSD
+Altname: AGLDUSD
+Wsname: AGLD/USD
+Base:
+ 	Name: AGLD
+	Altname: AGLD
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (AGLDUSD):
+	Current:                    0.5043
+	Maximum:                    2.079002
+	Minimum:                    1.937234
+	Variance:                   0.068191
+	Mean:                       2.011338
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.8
+	Is ascending:               True
+	Current ascension duration: 112
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.0
+	Is falling:                 True
+	Current fall duration:      120
+	Trending downwards:         True
+	Average local maximum:      0.49666
+	Number of local maximums:   5
+	Average local minimum:      0.510867
+	Number of local minimums:   3
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $618.4850573544035
+---------------------------------------------------------------------------
