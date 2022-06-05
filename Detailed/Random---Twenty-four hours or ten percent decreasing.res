@@ -48158,3 +48158,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $550.0410669173324
 ---------------------------------------------------------------------------
+[2022-06-05 05:02:58] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: STEPUSD
+Altname: STEPUSD
+Wsname: STEP/USD
+Base:
+ 	Name: STEP
+	Altname: STEP
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 15
+Data about this pair of assets (STEPUSD):
+	Current:                    0.0847
+	Maximum:                    11.904762
+	Minimum:                    9.65251
+	Variance:                   0.189189
+	Mean:                       10.436918
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.941176
+	Is ascending:               True
+	Current ascension duration: 7
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.636364
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         True
+	Average local maximum:      0.095556
+	Number of local maximums:   34
+	Average local minimum:      0.096786
+	Number of local minimums:   22
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $550.0410669173324
+---------------------------------------------------------------------------
