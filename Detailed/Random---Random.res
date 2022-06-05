@@ -34011,3 +34011,46 @@ Is init: True
 
 Random---Random now has $1313.6955323036668
 ---------------------------------------------------------------------------
+[2022-06-05 08:40:24] SOLD
+Random---Random has sold: 
+Name: FXSUSD
+Altname: FXSUSD
+Wsname: FXS/USD
+Base:
+ 	Name: FXS
+	Altname: FXS
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.3
+Data about this pair of assets (FXSUSD):
+	Current:                    5.55
+	Maximum:                    0.18018
+	Minimum:                    0.128535
+	Variance:                   0.286632
+	Mean:                       0.159309
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.347826
+	Is ascending:               True
+	Current ascension duration: 28
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.833333
+	Is falling:                 True
+	Current fall duration:      14
+	Trending downwards:         True
+	Average local maximum:      6.246826
+	Number of local maximums:   23
+	Average local minimum:      6.301333
+	Number of local minimums:   18
+Is init: True
+Profit was 0.25477477477476684%.
+Random---Random now has $1317.0424971373197
+---------------------------------------------------------------------------
