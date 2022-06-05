@@ -54608,3 +54608,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $423.04343726556635
 ---------------------------------------------------------------------------
+[2022-06-05 12:32:10] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: MSOLUSD
+Altname: MSOLUSD
+Wsname: MSOL/USD
+Base:
+ 	Name: MSOL
+	Altname: MSOL
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (MSOLUSD):
+	Current:                    41.12
+	Maximum:                    0.025471
+	Minimum:                    0.01904
+	Variance:                   0.252475
+	Mean:                       0.023543
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.6
+	Is ascending:               True
+	Current ascension duration: 25
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.5
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      42.418
+	Number of local maximums:   10
+	Average local minimum:      43.6025
+	Number of local minimums:   12
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $423.04343726556635
+---------------------------------------------------------------------------

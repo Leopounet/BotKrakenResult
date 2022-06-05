@@ -5078,3 +5078,7 @@ Random---Twenty-four hours or ten percent decreasing now has $425.25476202811257
 Random---Twenty-four hours or ten percent decreasing has sold WOO for $0.1539. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $423.04343726556635
 ---------------------------------------------------------------------------
+[2022-06-05 12:32:10] BUY
+Random---Twenty-four hours or ten percent decreasing has bought MSOL for $41.12
+Random---Twenty-four hours or ten percent decreasing now has $423.04343726556635
+---------------------------------------------------------------------------

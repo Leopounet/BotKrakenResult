@@ -5078,3 +5078,7 @@ Random---Twenty-four hours or ten percent now has $375.34860981534274
 Random---Twenty-four hours or ten percent has sold POLIS for $0.556. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $373.39679704430296
 ---------------------------------------------------------------------------
+[2022-06-05 12:32:10] BUY
+Random---Twenty-four hours or ten percent has bought QNT for $65.13
+Random---Twenty-four hours or ten percent now has $373.39679704430296
+---------------------------------------------------------------------------
