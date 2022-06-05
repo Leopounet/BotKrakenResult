@@ -5242,3 +5242,7 @@ Random---Twenty-four hours or ten percent now has $335.00372394477654
 Random---Twenty-four hours or ten percent has bought REQ for $0.1187
 Random---Twenty-four hours or ten percent now has $335.00372394477654
 ---------------------------------------------------------------------------
+[2022-06-05 14:37:29] SOLD
+Random---Twenty-four hours or ten percent has sold REQ for $0.1187. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $333.2617045802637
+---------------------------------------------------------------------------

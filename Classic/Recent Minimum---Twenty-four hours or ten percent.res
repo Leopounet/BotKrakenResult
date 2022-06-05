@@ -5242,3 +5242,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $302.5386430366258
 Recent Minimum---Twenty-four hours or ten percent has bought ACH for $0.01457
 Recent Minimum---Twenty-four hours or ten percent now has $302.5386430366258
 ---------------------------------------------------------------------------
+[2022-06-05 14:37:29] SOLD
+Recent Minimum---Twenty-four hours or ten percent has sold ACH for $0.01457. Profit was -0.52%.
+Recent Minimum---Twenty-four hours or ten percent now has $300.9654420928353
+---------------------------------------------------------------------------
