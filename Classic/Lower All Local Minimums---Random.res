@@ -430,3 +430,7 @@ Lower All Local Minimums---Random now has $9236.223790957702
 Lower All Local Minimums---Random has sold GMT for $0.945. Profit was -0.52%.
 Lower All Local Minimums---Random now has $9188.195427244722
 ---------------------------------------------------------------------------
+[2022-06-05 21:40:28] BUY
+Lower All Local Minimums---Random has bought ZUSD for $0.96091
+Lower All Local Minimums---Random now has $9188.195427244722
+---------------------------------------------------------------------------
