@@ -4346,3 +4346,7 @@ Random---Twenty-four hours or ten percent decreasing now has $599.029124438604
 Random---Twenty-four hours or ten percent decreasing has bought SHIB for $1.078e-05
 Random---Twenty-four hours or ten percent decreasing now has $599.029124438604
 ---------------------------------------------------------------------------
+[2022-06-05 03:25:37] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SHIB for $1.078e-05. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $595.9141729915232
+---------------------------------------------------------------------------
