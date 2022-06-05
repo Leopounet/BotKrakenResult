@@ -4206,3 +4206,7 @@ Random---Twenty-four hours or ten percent decreasing now has $650.0461867986818
 Random---Twenty-four hours or ten percent decreasing has sold ICX for $0.3785. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $646.6659466273286
 ---------------------------------------------------------------------------
+[2022-06-05 01:42:16] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BNT for $1.224
+Random---Twenty-four hours or ten percent decreasing now has $646.6659466273286
+---------------------------------------------------------------------------

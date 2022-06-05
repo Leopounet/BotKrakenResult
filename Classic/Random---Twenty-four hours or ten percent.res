@@ -4206,3 +4206,7 @@ Random---Twenty-four hours or ten percent now has $693.9654831044787
 Random---Twenty-four hours or ten percent has sold SRM for $1.014. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $690.3568625923355
 ---------------------------------------------------------------------------
+[2022-06-05 01:42:16] BUY
+Random---Twenty-four hours or ten percent has bought SAND for $1.2723
+Random---Twenty-four hours or ten percent now has $690.3568625923355
+---------------------------------------------------------------------------
