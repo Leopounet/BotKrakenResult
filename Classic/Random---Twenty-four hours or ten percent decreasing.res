@@ -4366,3 +4366,7 @@ Random---Twenty-four hours or ten percent decreasing now has $592.8154192919673
 Random---Twenty-four hours or ten percent decreasing has sold KILT for $0.72. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $589.732779111649
 ---------------------------------------------------------------------------
+[2022-06-05 03:40:29] BUY
+Random---Twenty-four hours or ten percent decreasing has bought ZUSD for $131.331
+Random---Twenty-four hours or ten percent decreasing now has $589.732779111649
+---------------------------------------------------------------------------
