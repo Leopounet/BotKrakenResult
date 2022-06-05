@@ -4314,3 +4314,7 @@ Random---Twenty-four hours or ten percent now has $640.0116094151762
 Random---Twenty-four hours or ten percent has bought UNI for $5.068
 Random---Twenty-four hours or ten percent now has $640.0116094151762
 ---------------------------------------------------------------------------
+[2022-06-05 03:01:57] SOLD
+Random---Twenty-four hours or ten percent has sold UNI for $5.068. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $636.6835490462172
+---------------------------------------------------------------------------

@@ -2870,3 +2870,7 @@ Lower All Local Minimums---Random now has $1743.9682648129847
 Lower All Local Minimums---Random has sold FTM for $0.347. Profit was 0.05971014492754767%.
 Lower All Local Minimums---Random now has $1745.0095907913949
 ---------------------------------------------------------------------------
+[2022-06-05 03:01:57] BUY
+Lower All Local Minimums---Random has bought LUNA for $8.543e-05
+Lower All Local Minimums---Random now has $1745.0095907913949
+---------------------------------------------------------------------------
