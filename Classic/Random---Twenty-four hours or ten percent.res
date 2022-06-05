@@ -5062,3 +5062,7 @@ Random---Twenty-four hours or ten percent now has $378.9369644649357
 Random---Twenty-four hours or ten percent has sold CTSI for $0.2007. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $376.96649224971804
 ---------------------------------------------------------------------------
+[2022-06-05 12:19:50] BUY
+Random---Twenty-four hours or ten percent has bought XETH for $1783.84
+Random---Twenty-four hours or ten percent now has $376.96649224971804
+---------------------------------------------------------------------------
