@@ -4134,3 +4134,7 @@ Recent Minimum---Always now has $685.5526192525346
 Recent Minimum---Always has sold ALICE for $2.974. Profit was -0.52%.
 Recent Minimum---Always now has $681.9877456324214
 ---------------------------------------------------------------------------
+[2022-06-05 00:49:22] BUY
+Recent Minimum---Always has bought ACA for $0.383
+Recent Minimum---Always now has $681.9877456324214
+---------------------------------------------------------------------------
