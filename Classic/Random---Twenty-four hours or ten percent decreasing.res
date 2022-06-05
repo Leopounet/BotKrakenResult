@@ -5030,3 +5030,7 @@ Random---Twenty-four hours or ten percent decreasing now has $438.767575332404
 Random---Twenty-four hours or ten percent decreasing has sold CHZ for $0.1236. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $436.4859839406755
 ---------------------------------------------------------------------------
+[2022-06-05 11:55:15] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WAVES for $8.2351
+Random---Twenty-four hours or ten percent decreasing now has $436.4859839406755
+---------------------------------------------------------------------------

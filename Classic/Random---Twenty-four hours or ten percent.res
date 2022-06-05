@@ -5030,3 +5030,7 @@ Random---Twenty-four hours or ten percent now has $386.2117820991307
 Random---Twenty-four hours or ten percent has sold GHST for $1.482. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $384.20348083221523
 ---------------------------------------------------------------------------
+[2022-06-05 11:55:15] BUY
+Random---Twenty-four hours or ten percent has bought XXRP for $0.39336
+Random---Twenty-four hours or ten percent now has $384.20348083221523
+---------------------------------------------------------------------------

@@ -54092,3 +54092,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $384.20348083221523
 ---------------------------------------------------------------------------
+[2022-06-05 11:55:15] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: XXRPZUSD
+Altname: XRPUSD
+Wsname: XRP/USD
+Base:
+ 	Name: XXRP
+	Altname: XRP
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (XXRPZUSD):
+	Current:                    0.39336
+	Maximum:                    2.604777
+	Minimum:                    2.444091
+	Variance:                   0.061689
+	Mean:                       2.546505
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.538462
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.545455
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.391495
+	Number of local maximums:   26
+	Average local minimum:      0.393009
+	Number of local minimums:   22
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $384.20348083221523
+---------------------------------------------------------------------------
