@@ -4538,3 +4538,7 @@ Random---Twenty-four hours or ten percent decreasing now has $530.3292145269489
 Random---Twenty-four hours or ten percent decreasing has bought ORCA for $0.82
 Random---Twenty-four hours or ten percent decreasing now has $530.3292145269489
 ---------------------------------------------------------------------------
+[2022-06-05 05:47:13] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold ORCA for $0.82. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $527.5715026114088
+---------------------------------------------------------------------------

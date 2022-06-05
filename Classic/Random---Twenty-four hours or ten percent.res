@@ -4538,3 +4538,7 @@ Random---Twenty-four hours or ten percent now has $531.2499457492522
 Random---Twenty-four hours or ten percent has bought FXS for $5.662
 Random---Twenty-four hours or ten percent now has $531.2499457492522
 ---------------------------------------------------------------------------
+[2022-06-05 05:47:13] SOLD
+Random---Twenty-four hours or ten percent has sold FXS for $5.662. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $528.4874460313561
+---------------------------------------------------------------------------

@@ -32291,3 +32291,46 @@ Is init: True
 
 Random---Random now has $1464.731399500585
 ---------------------------------------------------------------------------
+[2022-06-05 05:47:13] SOLD
+Random---Random has sold: 
+Name: IDEXUSD
+Altname: IDEXUSD
+Wsname: IDEX/USD
+Base:
+ 	Name: IDEX
+	Altname: IDEX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (IDEXUSD):
+	Current:                    0.0729
+	Maximum:                    15.559359
+	Minimum:                    11.764706
+	Variance:                   0.243882
+	Mean:                       13.512935
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          4.714286
+	Is ascending:               True
+	Current ascension duration: 73
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               1.909091
+	Is falling:                 True
+	Current fall duration:      95
+	Trending downwards:         True
+	Average local maximum:      0.07222
+	Number of local maximums:   7
+	Average local minimum:      0.077794
+	Number of local minimums:   11
+Is init: True
+Profit was -0.52%.
+Random---Random now has $1457.1147962231819
+---------------------------------------------------------------------------
