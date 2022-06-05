@@ -4402,3 +4402,7 @@ Random---Twenty-four hours or ten percent now has $601.063975338344
 Random---Twenty-four hours or ten percent has bought POLIS for $0.555
 Random---Twenty-four hours or ten percent now has $601.063975338344
 ---------------------------------------------------------------------------
+[2022-06-05 04:06:58] SOLD
+Random---Twenty-four hours or ten percent has sold POLIS for $0.555. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $597.9384426665846
+---------------------------------------------------------------------------

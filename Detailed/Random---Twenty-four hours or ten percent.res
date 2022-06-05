@@ -47341,3 +47341,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $601.063975338344
 ---------------------------------------------------------------------------
+[2022-06-05 04:06:58] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: POLISUSD
+Altname: POLISUSD
+Wsname: POLIS/USD
+Base:
+ 	Name: POLIS
+	Altname: POLIS
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (POLISUSD):
+	Current:                    0.555
+	Maximum:                    1.801802
+	Minimum:                    1.605136
+	Variance:                   0.109149
+	Mean:                       1.679726
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          0.923077
+	Is ascending:               True
+	Current ascension duration: 31
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               9.75
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.591615
+	Number of local maximums:   13
+	Average local minimum:      0.60275
+	Number of local minimums:   4
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $597.9384426665846
+---------------------------------------------------------------------------
