@@ -53963,3 +53963,46 @@ Is init: True
 
 Random---Always now has $334.8626259021015
 ---------------------------------------------------------------------------
+[2022-06-05 11:46:02] SOLD
+Random---Always has sold: 
+Name: RUNEUSD
+Altname: RUNEUSD
+Wsname: RUNE/USD
+Base:
+ 	Name: RUNE
+	Altname: RUNE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (RUNEUSD):
+	Current:                    2.761
+	Maximum:                    0.4
+	Minimum:                    0.350877
+	Variance:                   0.122807
+	Mean:                       0.370436
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.555556
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.521739
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      2.728148
+	Number of local maximums:   27
+	Average local minimum:      2.704217
+	Number of local minimums:   23
+Is init: True
+Profit was -0.52%.
+Random---Always now has $333.12134024741056
+---------------------------------------------------------------------------
