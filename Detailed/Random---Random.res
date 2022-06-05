@@ -37623,3 +37623,46 @@ Is init: True
 
 Random---Random now has $1074.0201734348357
 ---------------------------------------------------------------------------
+[2022-06-05 15:04:14] SOLD
+Random---Random has sold: 
+Name: ASTRUSD
+Altname: ASTRUSD
+Wsname: ASTR/USD
+Base:
+ 	Name: ASTR
+	Altname: ASTR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 100
+Data about this pair of assets (ASTRUSD):
+	Current:                    0.0598
+	Maximum:                    17.482517
+	Minimum:                    15.948963
+	Variance:                   0.087719
+	Mean:                       16.684261
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.7
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.333333
+	Is falling:                 True
+	Current fall duration:      39
+	Trending downwards:         True
+	Average local maximum:      0.059683
+	Number of local maximums:   30
+	Average local minimum:      0.060167
+	Number of local minimums:   27
+Is init: True
+Profit was -0.3527759197324305%.
+Random---Random now has $1070.2312888898891
+---------------------------------------------------------------------------
