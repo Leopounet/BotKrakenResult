@@ -4462,3 +4462,7 @@ Random---Twenty-four hours or ten percent decreasing now has $558.7117257024398
 Random---Twenty-four hours or ten percent decreasing has sold FXS for $5.712. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $555.8064247287871
 ---------------------------------------------------------------------------
+[2022-06-05 04:51:07] BUY
+Random---Twenty-four hours or ten percent decreasing has bought API3 for $1.496
+Random---Twenty-four hours or ten percent decreasing now has $555.8064247287871
+---------------------------------------------------------------------------
