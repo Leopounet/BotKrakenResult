@@ -4214,3 +4214,7 @@ Random---Twenty-four hours or ten percent now has $690.3568625923355
 Random---Twenty-four hours or ten percent has sold SAND for $1.2723. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $686.7670069068553
 ---------------------------------------------------------------------------
+[2022-06-05 01:48:10] BUY
+Random---Twenty-four hours or ten percent has bought DYDX for $1.732
+Random---Twenty-four hours or ten percent now has $686.7670069068553
+---------------------------------------------------------------------------
