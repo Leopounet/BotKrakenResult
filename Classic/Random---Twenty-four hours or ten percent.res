@@ -5102,3 +5102,7 @@ Random---Twenty-four hours or ten percent now has $369.3649858252247
 Random---Twenty-four hours or ten percent has sold USDT for $0.9991. Profit was -0.4%.
 Random---Twenty-four hours or ten percent now has $367.8875258819238
 ---------------------------------------------------------------------------
+[2022-06-05 12:50:42] BUY
+Random---Twenty-four hours or ten percent has bought RAD for $2.06
+Random---Twenty-four hours or ten percent now has $367.8875258819238
+---------------------------------------------------------------------------
