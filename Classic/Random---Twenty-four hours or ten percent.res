@@ -4482,3 +4482,7 @@ Random---Twenty-four hours or ten percent now has $550.8446119781131
 Random---Twenty-four hours or ten percent has bought SUSHI for $1.534
 Random---Twenty-four hours or ten percent now has $550.8446119781131
 ---------------------------------------------------------------------------
+[2022-06-05 05:05:53] SOLD
+Random---Twenty-four hours or ten percent has sold SUSHI for $1.534. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $547.9802199958269
+---------------------------------------------------------------------------
