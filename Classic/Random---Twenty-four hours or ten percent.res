@@ -5086,3 +5086,7 @@ Random---Twenty-four hours or ten percent now has $373.39679704430296
 Random---Twenty-four hours or ten percent has sold QNT for $65.37. Profit was -0.15150621833254396%.
 Random---Twenty-four hours or ten percent now has $372.8310776777263
 ---------------------------------------------------------------------------
+[2022-06-05 12:38:20] BUY
+Random---Twenty-four hours or ten percent has bought AVAX for $24.41
+Random---Twenty-four hours or ten percent now has $372.8310776777263
+---------------------------------------------------------------------------

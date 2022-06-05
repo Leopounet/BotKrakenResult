@@ -54694,3 +54694,46 @@ Is init: True
 Profit was -0.15150621833254396%.
 Random---Twenty-four hours or ten percent now has $372.8310776777263
 ---------------------------------------------------------------------------
+[2022-06-05 12:38:20] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: AVAXUSD
+Altname: AVAXUSD
+Wsname: AVAX/USD
+Base:
+ 	Name: AVAX
+	Altname: AVAX
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.1
+Data about this pair of assets (AVAXUSD):
+	Current:                    24.41
+	Maximum:                    0.045106
+	Minimum:                    0.039857
+	Variance:                   0.116381
+	Mean:                       0.042602
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.470588
+	Is ascending:               False
+	Current ascension duration: 1
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.642857
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      23.642941
+	Number of local maximums:   17
+	Average local minimum:      23.396429
+	Number of local minimums:   14
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $372.8310776777263
+---------------------------------------------------------------------------
