@@ -8110,3 +8110,21 @@ Mean---Always has 0 losses
 Mean---Always has 0 points
 Mean---Always now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:45:03] BRIEF
+Mean---Always has 0 wins
+Mean---Always has 1 losses
+Mean---Always has -0.52 points
+Mean---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:45:54] BRIEF
+Mean---Always has 0 wins
+Mean---Always has 0 losses
+Mean---Always has 0 points
+Mean---Always now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:46:01] BRIEF
+Mean---Always has 0 wins
+Mean---Always has 1 losses
+Mean---Always has -0.52 points
+Mean---Always now has $9948.0
+---------------------------------------------------------------------------

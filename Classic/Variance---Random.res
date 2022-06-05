@@ -3774,3 +3774,11 @@ Variance---Random now has $9896.2704
 Variance---Random has bought AAVE for $104.61
 Variance---Random now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:45:03] SOLD
+Variance---Random has sold AAVE for $104.61. Profit was -0.52%.
+Variance---Random now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:45:54] BUY
+Variance---Random has bought AAVE for $104.73
+Variance---Random now has $10000
+---------------------------------------------------------------------------

@@ -5334,3 +5334,7 @@ Mean---Twenty-four hours or ten percent now has $10000
 Mean---Twenty-four hours or ten percent has bought AAVE for $104.61
 Mean---Twenty-four hours or ten percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:45:54] BUY
+Mean---Twenty-four hours or ten percent has bought AAVE for $104.73
+Mean---Twenty-four hours or ten percent now has $10000
+---------------------------------------------------------------------------

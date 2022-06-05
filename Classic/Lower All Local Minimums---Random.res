@@ -3598,3 +3598,11 @@ Lower All Local Minimums---Random now has $9948.0
 Lower All Local Minimums---Random has bought AAVE for $104.61
 Lower All Local Minimums---Random now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:45:54] BUY
+Lower All Local Minimums---Random has bought AAVE for $104.73
+Lower All Local Minimums---Random now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:46:01] SOLD
+Lower All Local Minimums---Random has sold AAVE for $104.73. Profit was -0.52%.
+Lower All Local Minimums---Random now has $9948.0
+---------------------------------------------------------------------------

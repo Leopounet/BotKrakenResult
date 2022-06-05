@@ -38698,3 +38698,89 @@ Is init: True
 
 Lower All Local Minimums---Random now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:45:54] BUY
+Lower All Local Minimums---Random has bought: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    104.73
+	Maximum:                    111.89
+	Minimum:                    102.74
+	Variance:                   0.081777
+	Mean:                       105.904778
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.538462
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.545455
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      105.344231
+	Number of local maximums:   26
+	Average local minimum:      105.861364
+	Number of local minimums:   22
+Is init: True
+
+Lower All Local Minimums---Random now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:46:01] SOLD
+Lower All Local Minimums---Random has sold: 
+Name: AAVEUSD
+Altname: AAVEUSD
+Wsname: AAVE/USD
+Base:
+ 	Name: AAVE
+	Altname: AAVE
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.02
+Data about this pair of assets (AAVEUSD):
+	Current:                    104.73
+	Maximum:                    111.89
+	Minimum:                    102.74
+	Variance:                   0.081777
+	Mean:                       105.904778
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.538462
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.545455
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      105.344231
+	Number of local maximums:   26
+	Average local minimum:      105.861364
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Lower All Local Minimums---Random now has $9948.0
+---------------------------------------------------------------------------

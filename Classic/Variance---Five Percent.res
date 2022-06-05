@@ -34,3 +34,7 @@ Variance---Five Percent now has $10000
 Variance---Five Percent has bought AAVE for $104.61
 Variance---Five Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:45:54] BUY
+Variance---Five Percent has bought AAVE for $104.73
+Variance---Five Percent now has $10000
+---------------------------------------------------------------------------

@@ -52,3 +52,9 @@ Variance---Five Percent has 0 losses
 Variance---Five Percent has 0 points
 Variance---Five Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:45:54] BRIEF
+Variance---Five Percent has 0 wins
+Variance---Five Percent has 0 losses
+Variance---Five Percent has 0 points
+Variance---Five Percent now has $10000
+---------------------------------------------------------------------------

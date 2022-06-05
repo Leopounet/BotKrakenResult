@@ -26,3 +26,7 @@ Mean---Five Percent now has $10000
 Mean---Five Percent has bought AAVE for $104.61
 Mean---Five Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:45:54] BUY
+Mean---Five Percent has bought AAVE for $104.73
+Mean---Five Percent now has $10000
+---------------------------------------------------------------------------

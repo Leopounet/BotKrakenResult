@@ -26,3 +26,7 @@ Random---Never now has $10000
 Random---Never has bought AAVE for $104.61
 Random---Never now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:45:54] BUY
+Random---Never has bought AAVE for $104.73
+Random---Never now has $10000
+---------------------------------------------------------------------------
