@@ -5202,3 +5202,7 @@ Random---Twenty-four hours or ten percent now has $343.8513642327177
 Random---Twenty-four hours or ten percent has bought BADGER for $5.737
 Random---Twenty-four hours or ten percent now has $343.8513642327177
 ---------------------------------------------------------------------------
+[2022-06-05 14:07:25] SOLD
+Random---Twenty-four hours or ten percent has sold BADGER for $5.737. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $342.06333713870754
+---------------------------------------------------------------------------

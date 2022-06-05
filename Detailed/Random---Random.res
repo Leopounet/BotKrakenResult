@@ -36935,3 +36935,46 @@ Is init: True
 
 Random---Random now has $1128.58254893281
 ---------------------------------------------------------------------------
+[2022-06-05 14:07:25] SOLD
+Random---Random has sold: 
+Name: MOVRUSD
+Altname: MOVRUSD
+Wsname: MOVR/USD
+Base:
+ 	Name: MOVR
+	Altname: MOVR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (MOVRUSD):
+	Current:                    20.1574
+	Maximum:                    0.049949
+	Minimum:                    0.046392
+	Variance:                   0.071212
+	Mean:                       0.048551
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.681818
+	Is ascending:               True
+	Current ascension duration: 13
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.444444
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      20.710918
+	Number of local maximums:   22
+	Average local minimum:      20.555515
+	Number of local minimums:   27
+Is init: True
+Profit was -1.2973820036314216%.
+Random---Random now has $1113.940522046831
+---------------------------------------------------------------------------
