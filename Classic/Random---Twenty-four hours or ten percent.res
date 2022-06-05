@@ -4190,3 +4190,7 @@ Random---Twenty-four hours or ten percent now has $704.0981327710429
 Random---Twenty-four hours or ten percent has sold GRT for $0.16279. Profit was -0.8078843562415745%.
 Random---Twenty-four hours or ten percent now has $698.4098341037966
 ---------------------------------------------------------------------------
+[2022-06-05 01:30:32] BUY
+Random---Twenty-four hours or ten percent has bought XXMR for $189.08
+Random---Twenty-four hours or ten percent now has $698.4098341037966
+---------------------------------------------------------------------------

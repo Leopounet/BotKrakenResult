@@ -45062,3 +45062,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $585.749478523485
 ---------------------------------------------------------------------------
+[2022-06-05 01:30:32] BUY
+Random---Always has bought: 
+Name: SBRUSD
+Altname: SBRUSD
+Wsname: SBR/USD
+Base:
+ 	Name: SBR
+	Altname: SBR
+	decimals: 8
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 500
+Data about this pair of assets (SBRUSD):
+	Current:                    0.00849
+	Maximum:                    139.470014
+	Minimum:                    100.0
+	Variance:                   0.283
+	Mean:                       109.43031
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.9375
+	Is ascending:               True
+	Current ascension duration: 12
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.285714
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         True
+	Average local maximum:      0.00913
+	Number of local maximums:   16
+	Average local minimum:      0.00933
+	Number of local minimums:   21
+Is init: True
+
+Random---Always now has $585.749478523485
+---------------------------------------------------------------------------
