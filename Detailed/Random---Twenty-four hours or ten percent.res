@@ -48889,3 +48889,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $528.4874460313561
 ---------------------------------------------------------------------------
+[2022-06-05 05:53:06] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: BNCUSD
+Altname: BNCUSD
+Wsname: BNC/USD
+Base:
+ 	Name: BNC
+	Altname: BNC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 10
+Data about this pair of assets (BNCUSD):
+	Current:                    0.348
+	Maximum:                    3.144654
+	Minimum:                    2.695418
+	Variance:                   0.142857
+	Mean:                       2.900535
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.894737
+	Is ascending:               True
+	Current ascension duration: 95
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.75
+	Is falling:                 True
+	Current fall duration:      125
+	Trending downwards:         False
+	Average local maximum:      0.343105
+	Number of local maximums:   19
+	Average local minimum:      0.348917
+	Number of local minimums:   12
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $525.739311311993
+---------------------------------------------------------------------------
