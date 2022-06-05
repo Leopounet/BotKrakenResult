@@ -262,3 +262,7 @@ Random---Random now has $8496.273543911097
 Random---Random has sold PSTAKE for $0.2231. Profit was -0.52%.
 Random---Random now has $8452.09292148276
 ---------------------------------------------------------------------------
+[2022-06-05 20:05:11] BUY
+Random---Random has bought GLMR for $1.349
+Random---Random now has $8452.09292148276
+---------------------------------------------------------------------------
