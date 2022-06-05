@@ -5158,3 +5158,7 @@ Random---Twenty-four hours or ten percent now has $357.5717472690092
 Random---Twenty-four hours or ten percent has sold MULTI for $4.782. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $355.7123741832104
 ---------------------------------------------------------------------------
+[2022-06-05 13:33:45] BUY
+Random---Twenty-four hours or ten percent has bought SPELL for $0.00124
+Random---Twenty-four hours or ten percent now has $355.7123741832104
+---------------------------------------------------------------------------

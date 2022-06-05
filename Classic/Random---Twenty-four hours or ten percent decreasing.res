@@ -5158,3 +5158,7 @@ Random---Twenty-four hours or ten percent decreasing now has $403.8181498060966
 Random---Twenty-four hours or ten percent decreasing has sold GHST for $1.482. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $401.71829542710486
 ---------------------------------------------------------------------------
+[2022-06-05 13:33:45] BUY
+Random---Twenty-four hours or ten percent decreasing has bought XXDG for $0.0814854
+Random---Twenty-four hours or ten percent decreasing now has $401.71829542710486
+---------------------------------------------------------------------------
