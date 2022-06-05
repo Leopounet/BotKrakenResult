@@ -46309,3 +46309,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $611.8495934487789
 ---------------------------------------------------------------------------
+[2022-06-05 02:56:00] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: SUPERUSD
+Altname: SUPERUSD
+Wsname: SUPER/USD
+Base:
+ 	Name: SUPER
+	Altname: SUPER
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 25
+Data about this pair of assets (SUPERUSD):
+	Current:                    0.1916
+	Maximum:                    5.47046
+	Minimum:                    4.631774
+	Variance:                   0.153312
+	Mean:                       5.025969
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.473684
+	Is ascending:               True
+	Current ascension duration: 40
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.590909
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         True
+	Average local maximum:      0.196995
+	Number of local maximums:   19
+	Average local minimum:      0.199664
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $608.6679755628453
+---------------------------------------------------------------------------

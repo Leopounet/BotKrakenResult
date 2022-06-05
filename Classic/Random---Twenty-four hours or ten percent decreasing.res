@@ -4306,3 +4306,7 @@ Random---Twenty-four hours or ten percent decreasing now has $611.8495934487789
 Random---Twenty-four hours or ten percent decreasing has bought SUPER for $0.1916
 Random---Twenty-four hours or ten percent decreasing now has $611.8495934487789
 ---------------------------------------------------------------------------
+[2022-06-05 02:56:00] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SUPER for $0.1916. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $608.6679755628453
+---------------------------------------------------------------------------
