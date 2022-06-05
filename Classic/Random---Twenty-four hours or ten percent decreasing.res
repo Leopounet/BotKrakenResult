@@ -4070,3 +4070,7 @@ Random---Twenty-four hours or ten percent decreasing now has $687.3567347949901
 Random---Twenty-four hours or ten percent decreasing has sold ZRX for $0.395. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $683.7824797740561
 ---------------------------------------------------------------------------
+[2022-06-05 00:02:02] BUY
+Random---Twenty-four hours or ten percent decreasing has bought EWT for $2.694
+Random---Twenty-four hours or ten percent decreasing now has $683.7824797740561
+---------------------------------------------------------------------------

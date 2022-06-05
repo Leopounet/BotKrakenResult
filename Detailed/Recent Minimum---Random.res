@@ -30313,3 +30313,46 @@ Is init: True
 
 Recent Minimum---Random now has $1522.6549528140274
 ---------------------------------------------------------------------------
+[2022-06-05 00:02:02] SOLD
+Recent Minimum---Random has sold: 
+Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base:
+ 	Name: 1INCH
+	Altname: 1INCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (1INCHUSD):
+	Current:                    0.869
+	Maximum:                    1.17096
+	Minimum:                    1.074114
+	Variance:                   0.082707
+	Mean:                       1.134101
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.275862
+	Is ascending:               True
+	Current ascension duration: 17
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.954545
+	Is falling:                 True
+	Current fall duration:      63
+	Trending downwards:         True
+	Average local maximum:      0.886897
+	Number of local maximums:   29
+	Average local minimum:      0.881909
+	Number of local minimums:   22
+Is init: True
+Profit was -0.52%.
+Recent Minimum---Random now has $1514.7371470593944
+---------------------------------------------------------------------------

@@ -4070,3 +4070,7 @@ Random---Twenty-four hours or ten percent now has $753.7348747881521
 Random---Twenty-four hours or ten percent has sold RNDR for $0.7296. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $749.8154534392537
 ---------------------------------------------------------------------------
+[2022-06-05 00:02:02] BUY
+Random---Twenty-four hours or ten percent has bought FET for $0.1531
+Random---Twenty-four hours or ten percent now has $749.8154534392537
+---------------------------------------------------------------------------
