@@ -1,4 +1,4 @@
-[2022-06-05 17:18:36] SUMMARY
+[2022-06-05 17:20:37] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: TBTCUSD
+	Altname: TBTCUSD
+	Wsname: TBTC/USD
+	Base:
+	 	Name: TBTC
+		Altname: TBTC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (TBTCUSD):
+		Current:                    28955.0
+		Maximum:                    33899.8
+		Minimum:                    28955.0
+		Variance:                   0.145865
+		Mean:                       29798.43875
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               True
+		Current ascension duration: 333
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 True
+		Current fall duration:      336
+		Trending downwards:         True
+		Average local maximum:      31427.4
+		Number of local maximums:   2
+		Average local minimum:      31427.4
+		Number of local minimums:   2
+	Is init: True
 Wins: 0
 Losses: 13
 Total points: -6.759999999999998%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: GSTUSD
+	Altname: GSTUSD
+	Wsname: GST/USD
+	Base:
+	 	Name: GST
+		Altname: GST
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (GSTUSD):
+		Current:                    0.619
+		Maximum:                    1.0
+		Minimum:                    0.598
+		Variance:                   0.402
+		Mean:                       0.792238
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.914286
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.088235
+		Is falling:                 True
+		Current fall duration:      4
+		Trending downwards:         True
+		Average local maximum:      0.759857
+		Number of local maximums:   35
+		Average local minimum:      0.763176
+		Number of local minimums:   34
+	Is init: True
 Wins: 1
 Losses: 12
 Total points: -6.10459767106286%
