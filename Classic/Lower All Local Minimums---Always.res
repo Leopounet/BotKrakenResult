@@ -882,3 +882,7 @@ Lower All Local Minimums---Always now has $6478.489015397997
 Lower All Local Minimums---Always has bought GMT for $0.94
 Lower All Local Minimums---Always now has $6478.489015397997
 ---------------------------------------------------------------------------
+[2022-06-05 23:46:31] SOLD
+Lower All Local Minimums---Always has sold GMT for $0.94. Profit was -0.52%.
+Lower All Local Minimums---Always now has $6444.800872517927
+---------------------------------------------------------------------------

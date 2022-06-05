@@ -558,3 +558,7 @@ Lower All Local Minimums---Random now has $8685.095727297861
 Lower All Local Minimums---Random has sold GMT for $0.94. Profit was -0.52%.
 Lower All Local Minimums---Random now has $8639.933229515913
 ---------------------------------------------------------------------------
+[2022-06-05 23:46:31] BUY
+Lower All Local Minimums---Random has bought LUNA for $7.939e-05
+Lower All Local Minimums---Random now has $8639.933229515913
+---------------------------------------------------------------------------
