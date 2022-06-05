@@ -1,4 +1,4 @@
-[2022-06-05 16:37:21] SUMMARY
+[2022-06-05 16:39:20] SUMMARY
 Most losses: 
 Name: Variance---Always
 BuyStrategy description: Looks for the asset which has the highest Variance.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GSTUSD
-	Altname: GSTUSD
-	Wsname: GST/USD
-	Base:
-	 	Name: GST
-		Altname: GST
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (GSTUSD):
-		Current:                    0.615
-		Maximum:                    1.0
-		Minimum:                    0.598
-		Variance:                   0.402
-		Mean:                       0.796268
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.823529
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.1875
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      0.764147
-		Number of local maximums:   34
-		Average local minimum:      0.772062
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 0
-Losses: 2
-Total points: -1.04%
-Wallet: 9896.2704
+Losses: 3
+Total points: -1.7226016260162567%
+Wallet: 9828.718297334633
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Variance---Ten Percent

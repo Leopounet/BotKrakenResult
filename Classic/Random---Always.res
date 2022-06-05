@@ -18,3 +18,7 @@ Random---Always now has $9896.2704
 Random---Always has bought SAMO for $0.005484
 Random---Always now has $9896.2704
 ---------------------------------------------------------------------------
+[2022-06-05 16:39:20] SOLD
+Random---Always has sold SAMO for $0.005484. Profit was -0.52%.
+Random---Always now has $9844.80979392
+---------------------------------------------------------------------------
