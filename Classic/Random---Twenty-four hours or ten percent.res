@@ -4710,3 +4710,7 @@ Random---Twenty-four hours or ten percent now has $474.19440001245675
 Random---Twenty-four hours or ten percent has sold AIR for $0.02658. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $471.72858913239196
 ---------------------------------------------------------------------------
+[2022-06-05 07:55:49] BUY
+Random---Twenty-four hours or ten percent has bought KAR for $0.512
+Random---Twenty-four hours or ten percent now has $471.72858913239196
+---------------------------------------------------------------------------

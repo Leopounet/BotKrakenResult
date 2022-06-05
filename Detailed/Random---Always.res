@@ -50652,3 +50652,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $413.0259313958167
 ---------------------------------------------------------------------------
+[2022-06-05 07:55:49] BUY
+Random---Always has bought: 
+Name: GLMRUSD
+Altname: GLMRUSD
+Wsname: GLMR/USD
+Base:
+ 	Name: GLMR
+	Altname: GLMR
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (GLMRUSD):
+	Current:                    1.345
+	Maximum:                    0.798085
+	Minimum:                    0.723066
+	Variance:                   0.093999
+	Mean:                       0.76264
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.818182
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.95
+	Is falling:                 True
+	Current fall duration:      8
+	Trending downwards:         False
+	Average local maximum:      1.308727
+	Number of local maximums:   33
+	Average local minimum:      1.3096
+	Number of local minimums:   20
+Is init: True
+
+Random---Always now has $413.0259313958167
+---------------------------------------------------------------------------

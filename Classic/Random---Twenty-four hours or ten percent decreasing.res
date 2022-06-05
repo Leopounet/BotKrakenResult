@@ -4710,3 +4710,7 @@ Random---Twenty-four hours or ten percent decreasing now has $489.8013020538926
 Random---Twenty-four hours or ten percent decreasing has sold BCH for $188.16. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $487.25433528321236
 ---------------------------------------------------------------------------
+[2022-06-05 07:55:49] BUY
+Random---Twenty-four hours or ten percent decreasing has bought BADGER for $5.781
+Random---Twenty-four hours or ten percent decreasing now has $487.25433528321236
+---------------------------------------------------------------------------
