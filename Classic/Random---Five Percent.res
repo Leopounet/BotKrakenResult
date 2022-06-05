@@ -14,3 +14,7 @@ Random---Five Percent now has $10000
 Random---Five Percent has bought 1INCH for $0.856
 Random---Five Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:37:40] BUY
+Random---Five Percent has bought 1INCH for $0.856
+Random---Five Percent now has $10000
+---------------------------------------------------------------------------

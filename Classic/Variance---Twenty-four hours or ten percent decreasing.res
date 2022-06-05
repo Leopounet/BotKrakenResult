@@ -5322,3 +5322,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $10000
 Variance---Twenty-four hours or ten percent decreasing has bought AAVE for $104.4
 Variance---Twenty-four hours or ten percent decreasing now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:37:40] BUY
+Variance---Twenty-four hours or ten percent decreasing has bought AAVE for $104.4
+Variance---Twenty-four hours or ten percent decreasing now has $10000
+---------------------------------------------------------------------------

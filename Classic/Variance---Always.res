@@ -5354,3 +5354,19 @@ Variance---Always now has $9948.0
 Variance---Always has bought AAVE for $104.4
 Variance---Always now has $9948.0
 ---------------------------------------------------------------------------
+[2022-06-05 15:37:40] BUY
+Variance---Always has bought AAVE for $104.4
+Variance---Always now has $10000
+---------------------------------------------------------------------------
+[2022-06-05 15:37:46] SOLD
+Variance---Always has sold AAVE for $104.4. Profit was -0.52%.
+Variance---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:37:52] BUY
+Variance---Always has bought AAVE for $104.4
+Variance---Always now has $9948.0
+---------------------------------------------------------------------------
+[2022-06-05 15:37:59] SOLD
+Variance---Always has sold AAVE for $104.4. Profit was -0.52%.
+Variance---Always now has $9896.2704
+---------------------------------------------------------------------------

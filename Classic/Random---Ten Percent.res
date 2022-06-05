@@ -22,3 +22,7 @@ Random---Ten Percent now has $10000
 Random---Ten Percent has bought 1INCH for $0.856
 Random---Ten Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:37:40] BUY
+Random---Ten Percent has bought AAVE for $104.4
+Random---Ten Percent now has $10000
+---------------------------------------------------------------------------

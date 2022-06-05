@@ -5322,3 +5322,7 @@ Mean---Twenty-four hours or ten percent decreasing now has $10000
 Mean---Twenty-four hours or ten percent decreasing has bought AAVE for $104.4
 Mean---Twenty-four hours or ten percent decreasing now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:37:40] BUY
+Mean---Twenty-four hours or ten percent decreasing has bought AAVE for $104.4
+Mean---Twenty-four hours or ten percent decreasing now has $10000
+---------------------------------------------------------------------------

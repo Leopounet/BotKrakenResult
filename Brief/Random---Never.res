@@ -22,3 +22,9 @@ Random---Never has 0 losses
 Random---Never has 0 points
 Random---Never now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:37:40] BRIEF
+Random---Never has 0 wins
+Random---Never has 0 losses
+Random---Never has 0 points
+Random---Never now has $10000
+---------------------------------------------------------------------------

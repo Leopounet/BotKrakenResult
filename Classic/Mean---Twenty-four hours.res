@@ -30,3 +30,7 @@ Mean---Twenty-four hours now has $10000
 Mean---Twenty-four hours has bought AAVE for $104.4
 Mean---Twenty-four hours now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:37:40] BUY
+Mean---Twenty-four hours has bought AAVE for $104.4
+Mean---Twenty-four hours now has $10000
+---------------------------------------------------------------------------

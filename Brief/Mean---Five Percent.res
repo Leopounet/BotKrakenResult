@@ -22,3 +22,9 @@ Mean---Five Percent has 0 losses
 Mean---Five Percent has 0 points
 Mean---Five Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-05 15:37:40] BRIEF
+Mean---Five Percent has 0 wins
+Mean---Five Percent has 0 losses
+Mean---Five Percent has 0 points
+Mean---Five Percent now has $10000
+---------------------------------------------------------------------------
