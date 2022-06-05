@@ -35903,3 +35903,46 @@ Is init: True
 
 Variance---Random now has $1156.8842144894422
 ---------------------------------------------------------------------------
+[2022-06-05 09:21:57] SOLD
+Variance---Random has sold: 
+Name: GSTUSD
+Altname: GSTUSD
+Wsname: GST/USD
+Base:
+ 	Name: GST
+	Altname: GST
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 1
+Data about this pair of assets (GSTUSD):
+	Current:                    0.622
+	Maximum:                    1.607717
+	Minimum:                    1.0
+	Variance:                   0.378
+	Mean:                       1.213662
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.756098
+	Is ascending:               True
+	Current ascension duration: 4
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               5.125
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         True
+	Average local maximum:      0.84078
+	Number of local maximums:   41
+	Average local minimum:      0.827292
+	Number of local minimums:   24
+Is init: True
+Profit was -2.1277170418006492%.
+Variance---Random now has $1132.2689919038487
+---------------------------------------------------------------------------

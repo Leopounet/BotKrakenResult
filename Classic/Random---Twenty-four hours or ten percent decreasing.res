@@ -4826,3 +4826,7 @@ Random---Twenty-four hours or ten percent decreasing now has $485.6556092184691
 Random---Twenty-four hours or ten percent decreasing has bought SAMO for $0.005431
 Random---Twenty-four hours or ten percent decreasing now has $485.6556092184691
 ---------------------------------------------------------------------------
+[2022-06-05 09:21:57] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold SAMO for $0.005431. Profit was -0.52%.
+Random---Twenty-four hours or ten percent decreasing now has $483.13020005053306
+---------------------------------------------------------------------------
