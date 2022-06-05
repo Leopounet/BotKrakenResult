@@ -4382,3 +4382,7 @@ Random---Twenty-four hours or ten percent decreasing now has $587.3738479952025
 Random---Twenty-four hours or ten percent decreasing has sold NANO for $1.151741. Profit was -0.52%.
 Random---Twenty-four hours or ten percent decreasing now has $584.3195039856274
 ---------------------------------------------------------------------------
+[2022-06-05 03:52:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought REQ for $0.11919
+Random---Twenty-four hours or ten percent decreasing now has $584.3195039856274
+---------------------------------------------------------------------------

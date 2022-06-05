@@ -4382,3 +4382,7 @@ Random---Twenty-four hours or ten percent now has $612.807859315936
 Random---Twenty-four hours or ten percent has sold ENS for $10.82. Profit was -0.8883241252301906%.
 Random---Twenty-four hours or ten percent now has $607.3641392603258
 ---------------------------------------------------------------------------
+[2022-06-05 03:52:14] BUY
+Random---Twenty-four hours or ten percent has bought XMLN for $27.293
+Random---Twenty-four hours or ten percent now has $607.3641392603258
+---------------------------------------------------------------------------
