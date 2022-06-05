@@ -1,4 +1,4 @@
-[2022-06-05 23:56:27] SUMMARY
+[2022-06-05 23:58:24] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BCHUSD
-	Altname: BCHUSD
-	Wsname: BCH/USD
-	Base:
-	 	Name: BCH
-		Altname: BCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.01
-	Data about this pair of assets (BCHUSD):
-		Current:                    179.92
-		Maximum:                    189.64
-		Minimum:                    178.97
-		Variance:                   0.056265
-		Mean:                       184.830528
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.347826
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.833333
-		Is falling:                 True
-		Current fall duration:      5
-		Trending downwards:         True
-		Average local maximum:      184.831304
-		Number of local maximums:   23
-		Average local minimum:      184.819444
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 0
-Losses: 113
-Total points: -58.914832199208334%
-Wallet: 5539.352642865387
+Losses: 114
+Total points: -59.56822481815008%
+Wallet: 5503.1589215597505
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
