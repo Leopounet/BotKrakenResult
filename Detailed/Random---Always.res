@@ -44976,3 +44976,46 @@ Is init: True
 Profit was -0.4%.
 Random---Always now has $588.8112972692853
 ---------------------------------------------------------------------------
+[2022-06-05 01:24:41] BUY
+Random---Always has bought: 
+Name: JASMYUSD
+Altname: JASMYUSD
+Wsname: JASMY/USD
+Base:
+ 	Name: JASMY
+	Altname: JASMY
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 100
+Data about this pair of assets (JASMYUSD):
+	Current:                    0.01188
+	Maximum:                    87.873462
+	Minimum:                    79.365079
+	Variance:                   0.096825
+	Mean:                       84.110734
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.192308
+	Is ascending:               True
+	Current ascension duration: 11
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.105263
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.011894
+	Number of local maximums:   26
+	Average local minimum:      0.011975
+	Number of local minimums:   19
+Is init: True
+
+Random---Always now has $588.8112972692853
+---------------------------------------------------------------------------

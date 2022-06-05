@@ -44976,3 +44976,46 @@ Is init: True
 Profit was 4.39236731671194%.
 Random---Twenty-four hours or ten percent decreasing now has $656.8597668862017
 ---------------------------------------------------------------------------
+[2022-06-05 01:24:41] BUY
+Random---Twenty-four hours or ten percent decreasing has bought: 
+Name: AUDIOUSD
+Altname: AUDIOUSD
+Wsname: AUDIO/USD
+Base:
+ 	Name: AUDIO
+	Altname: AUDIO
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (AUDIOUSD):
+	Current:                    0.4031
+	Maximum:                    2.613696
+	Minimum:                    2.389486
+	Variance:                   0.085783
+	Mean:                       2.508978
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.15
+	Is ascending:               True
+	Current ascension duration: 35
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.857143
+	Is falling:                 True
+	Current fall duration:      22
+	Trending downwards:         True
+	Average local maximum:      0.397875
+	Number of local maximums:   20
+	Average local minimum:      0.400657
+	Number of local minimums:   21
+Is init: True
+
+Random---Twenty-four hours or ten percent decreasing now has $656.8597668862017
+---------------------------------------------------------------------------
