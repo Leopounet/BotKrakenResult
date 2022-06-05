@@ -49190,3 +49190,46 @@ Is init: True
 Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $516.6042060669099
 ---------------------------------------------------------------------------
+[2022-06-05 06:13:40] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: LINKUSD
+Altname: LINKUSD
+Wsname: LINK/USD
+Base:
+ 	Name: LINK
+	Altname: LINK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (LINKUSD):
+	Current:                    7.34618
+	Maximum:                    0.149208
+	Minimum:                    0.134293
+	Variance:                   0.099961
+	Mean:                       0.143149
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.428571
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.625
+	Is falling:                 False
+	Current fall duration:      1
+	Trending downwards:         False
+	Average local maximum:      6.968301
+	Number of local maximums:   21
+	Average local minimum:      6.921873
+	Number of local minimums:   24
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $516.6042060669099
+---------------------------------------------------------------------------
