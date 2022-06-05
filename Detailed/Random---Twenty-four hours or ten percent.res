@@ -49018,3 +49018,46 @@ Is init: True
 Profit was -0.7076172607879978%.
 Random---Twenty-four hours or ten percent now has $522.0190891984014
 ---------------------------------------------------------------------------
+[2022-06-05 06:01:55] BUY
+Random---Twenty-four hours or ten percent has bought: 
+Name: BADGERUSD
+Altname: BADGERUSD
+Wsname: BADGER/USD
+Base:
+ 	Name: BADGER
+	Altname: BADGER
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (BADGERUSD):
+	Current:                    5.781
+	Maximum:                    0.175531
+	Minimum:                    0.16742
+	Variance:                   0.046208
+	Mean:                       0.17164
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.0
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.0
+	Is falling:                 True
+	Current fall duration:      10
+	Trending downwards:         True
+	Average local maximum:      5.80075
+	Number of local maximums:   12
+	Average local minimum:      5.837333
+	Number of local minimums:   12
+Is init: True
+
+Random---Twenty-four hours or ten percent now has $522.0190891984014
+---------------------------------------------------------------------------

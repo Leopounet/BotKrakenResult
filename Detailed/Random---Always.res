@@ -49018,3 +49018,46 @@ Is init: True
 Profit was -1.0342743050763898%.
 Random---Always now has $454.4753035714167
 ---------------------------------------------------------------------------
+[2022-06-05 06:01:55] BUY
+Random---Always has bought: 
+Name: TUSD
+Altname: TUSD
+Wsname: T/USD
+Base:
+ 	Name: T
+	Altname: T
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 50
+Data about this pair of assets (TUSD):
+	Current:                    0.0532
+	Maximum:                    20.533881
+	Minimum:                    16.329197
+	Variance:                   0.204768
+	Mean:                       19.400328
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.5
+	Is ascending:               True
+	Current ascension duration: 5
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.6
+	Is falling:                 False
+	Current fall duration:      0
+	Trending downwards:         False
+	Average local maximum:      0.052011
+	Number of local maximums:   30
+	Average local minimum:      0.051706
+	Number of local minimums:   25
+Is init: True
+
+Random---Always now has $454.4753035714167
+---------------------------------------------------------------------------
