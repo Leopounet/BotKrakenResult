@@ -4646,3 +4646,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold FTM for $0.349. Profit was -0.52%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $605.6842229953814
 ---------------------------------------------------------------------------
+[2022-06-05 07:06:45] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought FTM for $0.349
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $605.6842229953814
+---------------------------------------------------------------------------

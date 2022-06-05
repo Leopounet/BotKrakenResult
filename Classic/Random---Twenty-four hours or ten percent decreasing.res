@@ -4646,3 +4646,7 @@ Random---Twenty-four hours or ten percent decreasing now has $509.4835953571356
 Random---Twenty-four hours or ten percent decreasing has sold USDC for $0.9999. Profit was -0.4099999999999989%.
 Random---Twenty-four hours or ten percent decreasing now has $507.3947126161713
 ---------------------------------------------------------------------------
+[2022-06-05 07:06:45] BUY
+Random---Twenty-four hours or ten percent decreasing has bought JASMY for $0.012
+Random---Twenty-four hours or ten percent decreasing now has $507.3947126161713
+---------------------------------------------------------------------------
