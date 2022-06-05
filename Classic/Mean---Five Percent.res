@@ -6,3 +6,7 @@ Mean---Five Percent now has $10000
 Mean---Five Percent has sold TBTC for $31568.0. Profit was 8.504348126403048%.
 Mean---Five Percent now has $10850.434812640306
 ---------------------------------------------------------------------------
+[2022-06-05 20:56:49] BUY
+Mean---Five Percent has bought XXMR for $187.77
+Mean---Five Percent now has $10850.434812640306
+---------------------------------------------------------------------------
