@@ -4286,3 +4286,7 @@ Random---Twenty-four hours or ten percent now has $656.255072195714
 Random---Twenty-four hours or ten percent has sold IMX for $0.944. Profit was -0.52%.
 Random---Twenty-four hours or ten percent now has $652.8425458202962
 ---------------------------------------------------------------------------
+[2022-06-05 02:41:20] BUY
+Random---Twenty-four hours or ten percent has bought AAVE for $105.17
+Random---Twenty-four hours or ten percent now has $652.8425458202962
+---------------------------------------------------------------------------

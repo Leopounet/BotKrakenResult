@@ -46094,3 +46094,46 @@ Is init: True
 Profit was -0.52%.
 Random---Always now has $551.5543999396652
 ---------------------------------------------------------------------------
+[2022-06-05 02:41:20] BUY
+Random---Always has bought: 
+Name: ROOKUSD
+Altname: ROOKUSD
+Wsname: ROOK/USD
+Base:
+ 	Name: ROOK
+	Altname: ROOK
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.05
+Data about this pair of assets (ROOKUSD):
+	Current:                    42.52
+	Maximum:                    0.028441
+	Minimum:                    0.023441
+	Variance:                   0.175809
+	Mean:                       0.025304
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          3.428571
+	Is ascending:               True
+	Current ascension duration: 37
+	Trending upwards:           True
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               2.625
+	Is falling:                 True
+	Current fall duration:      171
+	Trending downwards:         False
+	Average local maximum:      37.21
+	Number of local maximums:   7
+	Average local minimum:      41.52375
+	Number of local minimums:   8
+Is init: True
+
+Random---Always now has $551.5543999396652
+---------------------------------------------------------------------------
