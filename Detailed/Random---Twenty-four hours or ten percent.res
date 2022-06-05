@@ -45793,3 +45793,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $666.0512381095617
 ---------------------------------------------------------------------------
+[2022-06-05 02:20:47] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: MATICUSD
+Altname: MATICUSD
+Wsname: MATIC/USD
+Base:
+ 	Name: MATIC
+	Altname: MATIC
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 2.5
+Data about this pair of assets (MATICUSD):
+	Current:                    0.5901
+	Maximum:                    1.734605
+	Minimum:                    1.610306
+	Variance:                   0.071659
+	Mean:                       1.677484
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.222222
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.05
+	Is falling:                 True
+	Current fall duration:      4
+	Trending downwards:         True
+	Average local maximum:      0.598748
+	Number of local maximums:   27
+	Average local minimum:      0.5933
+	Number of local minimums:   20
+Is init: True
+Profit was -0.48610743941702905%.
+Random---Twenty-four hours or ten percent now has $662.8135134907819
+---------------------------------------------------------------------------
