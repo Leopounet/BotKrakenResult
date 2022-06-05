@@ -52759,3 +52759,46 @@ Is init: True
 
 Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $393.9521316623573
 ---------------------------------------------------------------------------
+[2022-06-05 10:21:16] SOLD
+Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold: 
+Name: 1INCHUSD
+Altname: 1INCHUSD
+Wsname: 1INCH/USD
+Base:
+ 	Name: 1INCH
+	Altname: 1INCH
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 5
+Data about this pair of assets (1INCHUSD):
+	Current:                    0.855
+	Maximum:                    1.176471
+	Minimum:                    1.074114
+	Variance:                   0.087003
+	Mean:                       1.145768
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.73913
+	Is ascending:               False
+	Current ascension duration: 2
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.285714
+	Is falling:                 True
+	Current fall duration:      6
+	Trending downwards:         True
+	Average local maximum:      0.879043
+	Number of local maximums:   23
+	Average local minimum:      0.875286
+	Number of local minimums:   21
+Is init: True
+Profit was -0.52%.
+Variance Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $391.90358057771306
+---------------------------------------------------------------------------

@@ -4906,3 +4906,7 @@ Random---Twenty-four hours or ten percent decreasing now has $462.0971592983676
 Random---Twenty-four hours or ten percent decreasing has bought DOT for $9.3391
 Random---Twenty-four hours or ten percent decreasing now has $462.0971592983676
 ---------------------------------------------------------------------------
+[2022-06-05 10:21:16] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold DOT for $9.3384. Profit was -0.5274953689327639%.
+Random---Twenty-four hours or ten percent decreasing now has $459.65961818309887
+---------------------------------------------------------------------------

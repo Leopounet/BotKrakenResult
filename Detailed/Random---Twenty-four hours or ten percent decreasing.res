@@ -52759,3 +52759,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent decreasing now has $462.0971592983676
 ---------------------------------------------------------------------------
+[2022-06-05 10:21:16] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold: 
+Name: DOTUSD
+Altname: DOTUSD
+Wsname: DOT/USD
+Base:
+ 	Name: DOT
+	Altname: DOT
+	decimals: 10
+	displayed_decimals: 8
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.2
+Data about this pair of assets (DOTUSD):
+	Current:                    9.3391
+	Maximum:                    0.109449
+	Minimum:                    0.100379
+	Variance:                   0.082863
+	Mean:                       0.105982
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          2.727273
+	Is ascending:               False
+	Current ascension duration: 0
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               3.3
+	Is falling:                 False
+	Current fall duration:      2
+	Trending downwards:         True
+	Average local maximum:      9.458741
+	Number of local maximums:   22
+	Average local minimum:      9.407525
+	Number of local minimums:   20
+Is init: True
+Profit was -0.5274953689327639%.
+Random---Twenty-four hours or ten percent decreasing now has $459.65961818309887
+---------------------------------------------------------------------------
