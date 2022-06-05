@@ -44503,3 +44503,46 @@ Is init: True
 
 Random---Twenty-four hours or ten percent now has $729.0529082605829
 ---------------------------------------------------------------------------
+[2022-06-05 00:52:20] SOLD
+Random---Twenty-four hours or ten percent has sold: 
+Name: BONDUSD
+Altname: BONDUSD
+Wsname: BOND/USD
+Base:
+ 	Name: BOND
+	Altname: BOND
+	decimals: 10
+	displayed_decimals: 5
+Quote:
+ 	Name: ZUSD
+	Altname: USD
+	decimals: 4
+	displayed_decimals: 2
+Fee: 0.26
+Min order: 0.5
+Data about this pair of assets (BONDUSD):
+	Current:                    3.428
+	Maximum:                    0.296121
+	Minimum:                    0.284252
+	Variance:                   0.04008
+	Mean:                       0.290399
+	Longest ascension:          3
+	Shortest ascension:         3
+	Average ascension:          1.875
+	Is ascending:               True
+	Current ascension duration: 228
+	Trending upwards:           False
+	Longest fall:               3
+	Shortest fall:              3
+	Average fall:               4.8
+	Is falling:                 True
+	Current fall duration:      126
+	Trending downwards:         True
+	Average local maximum:      3.44125
+	Number of local maximums:   8
+	Average local minimum:      3.4698
+	Number of local minimums:   5
+Is init: True
+Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $725.2618331376278
+---------------------------------------------------------------------------

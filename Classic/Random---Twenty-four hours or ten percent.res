@@ -4138,3 +4138,7 @@ Random---Twenty-four hours or ten percent now has $729.0529082605829
 Random---Twenty-four hours or ten percent has bought BOND for $3.428
 Random---Twenty-four hours or ten percent now has $729.0529082605829
 ---------------------------------------------------------------------------
+[2022-06-05 00:52:20] SOLD
+Random---Twenty-four hours or ten percent has sold BOND for $3.428. Profit was -0.52%.
+Random---Twenty-four hours or ten percent now has $725.2618331376278
+---------------------------------------------------------------------------
