@@ -2106,3 +2106,7 @@ Lower All Local Minimums---Random now has $3551.200427854709
 Lower All Local Minimums---Random has bought SCRT for $1.391
 Lower All Local Minimums---Random now has $3551.200427854709
 ---------------------------------------------------------------------------
+[2022-06-06 19:48:54] SOLD
+Lower All Local Minimums---Random has sold SCRT for $1.391. Profit was -0.52%.
+Lower All Local Minimums---Random now has $3532.7341856298644
+---------------------------------------------------------------------------
