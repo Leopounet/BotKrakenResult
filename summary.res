@@ -1,4 +1,4 @@
-[2022-06-06 19:38:51] SUMMARY
+[2022-06-06 19:40:51] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.862
-		Maximum:                    0.895
-		Minimum:                    0.85
-		Variance:                   0.050279
-		Mean:                       0.866164
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.647059
-		Is ascending:               True
-		Current ascension duration: 25
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.4
-		Is falling:                 True
-		Current fall duration:      41
-		Trending downwards:         True
-		Average local maximum:      0.872059
-		Number of local maximums:   17
-		Average local minimum:      0.8676
-		Number of local minimums:   15
-	Is init: True
+	None
 Wins: 4
-Losses: 406
-Total points: -214.30871611062756%
-Wallet: 1165.95653824457
+Losses: 407
+Total points: -214.82871611062757%
+Wallet: 1159.8935642456984
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: LUNAUSD
-	Altname: LUNAUSD
-	Wsname: LUNA/USD
-	Base:
-	 	Name: LUNA
-		Altname: LUNA
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 50000
-	Data about this pair of assets (LUNAUSD):
-		Current:                    8.1e-05
-		Maximum:                    9.5e-05
-		Minimum:                    7.9e-05
-		Variance:                   0.172043
-		Mean:                       8.6e-05
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.666667
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.454545
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      8.7e-05
-		Number of local maximums:   27
-		Average local minimum:      8.6e-05
-		Number of local minimums:   33
-	Is init: True
+	None
 Wins: 16
-Losses: 245
-Total points: -101.67719359035402%
-Wallet: 3592.447462198561
+Losses: 246
+Total points: -101.9867715084132%
+Wallet: 3581.3260381377168
 ---------------------------------------------------------------------------
 Best score: 
 Name: Recent Minimum---Ten Percent
