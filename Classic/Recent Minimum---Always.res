@@ -1166,3 +1166,7 @@ Recent Minimum---Always now has $4693.5091415964
 Recent Minimum---Always has sold 1INCH for $0.874. Profit was -0.52%.
 Recent Minimum---Always now has $4669.102894060098
 ---------------------------------------------------------------------------
+[2022-06-06 02:05:38] BUY
+Recent Minimum---Always has bought KAR for $0.505
+Recent Minimum---Always now has $4669.102894060098
+---------------------------------------------------------------------------
