@@ -1,4 +1,4 @@
-[2022-06-06 02:58:12] SUMMARY
+[2022-06-06 03:00:08] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: LUNA2USD
+	Altname: LUNA2USD
+	Wsname: LUNA2/USD
+	Base:
+	 	Name: LUNA2
+		Altname: LUNA2
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (LUNA2USD):
+		Current:                    4.93189
+		Maximum:                    6.62814
+		Minimum:                    4.61185
+		Variance:                   0.304201
+		Mean:                       5.863783
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.73913
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.285714
+		Is falling:                 True
+		Current fall duration:      4
+		Trending downwards:         True
+		Average local maximum:      6.105213
+		Number of local maximums:   23
+		Average local minimum:      5.902834
+		Number of local minimums:   21
+	Is init: True
 Wins: 1
 Losses: 159
 Total points: -84.06707528228553%
