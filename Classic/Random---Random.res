@@ -866,3 +866,7 @@ Random---Random now has $5930.8945130887
 Random---Random has bought ICP for $7.702
 Random---Random now has $5930.8945130887
 ---------------------------------------------------------------------------
+[2022-06-06 03:37:01] SOLD
+Random---Random has sold ICP for $7.702. Profit was -0.52%.
+Random---Random now has $5900.053861620639
+---------------------------------------------------------------------------
