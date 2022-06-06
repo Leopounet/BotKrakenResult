@@ -1,4 +1,4 @@
-[2022-06-06 00:51:19] SUMMARY
+[2022-06-06 00:53:15] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: PAXGUSD
-	Altname: PAXGUSD
-	Wsname: PAXG/USD
-	Base:
-	 	Name: PAXG
-		Altname: PAXG
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.004
-	Data about this pair of assets (PAXGUSD):
-		Current:                    1851.24
-		Maximum:                    1866.42
-		Minimum:                    1850.0
-		Variance:                   0.008798
-		Mean:                       1856.639806
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.884615
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.12
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         True
-		Average local maximum:      1856.908462
-		Number of local maximums:   26
-		Average local minimum:      1856.1824
-		Number of local minimums:   25
-	Is init: True
+	None
 Wins: 0
-Losses: 127
-Total points: -65.9729720541059%
-Wallet: 5160.901725082982
+Losses: 128
+Total points: -66.49297205410589%
+Wallet: 5134.065036112551
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: USDCHF
+	Altname: USDCHF
+	Wsname: USD/CHF
+	Base:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: CHF
+		Altname: CHF
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (USDCHF):
+		Current:                    0.96074
+		Maximum:                    1.041461
+		Minimum:                    1.037237
+		Variance:                   0.004056
+		Mean:                       1.039184
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.1875
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.823529
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      0.962327
+		Number of local maximums:   32
+		Average local minimum:      0.962245
+		Number of local minimums:   34
+	Is init: True
 Wins: 8
 Losses: 74
 Total points: -20.911889833473406%
