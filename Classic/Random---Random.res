@@ -790,3 +790,7 @@ Random---Random now has $6269.0352371315785
 Random---Random has sold KINT for $4.46. Profit was -0.52%.
 Random---Random now has $6236.436253898494
 ---------------------------------------------------------------------------
+[2022-06-06 02:40:43] BUY
+Random---Random has bought SUSHI for $1.632
+Random---Random now has $6236.436253898494
+---------------------------------------------------------------------------
