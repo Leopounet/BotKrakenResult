@@ -2774,3 +2774,7 @@ Recent Minimum---Always now has $1679.7288469062378
 Recent Minimum---Always has sold COMP for $58.86. Profit was -0.52%.
 Recent Minimum---Always now has $1670.9942569023253
 ---------------------------------------------------------------------------
+[2022-06-06 15:17:54] BUY
+Recent Minimum---Always has bought ACA for $0.388
+Recent Minimum---Always now has $1670.9942569023253
+---------------------------------------------------------------------------
