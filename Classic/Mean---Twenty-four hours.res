@@ -6,3 +6,7 @@ Mean---Twenty-four hours now has $10000
 Mean---Twenty-four hours has sold TBTC for $30287.1. Profit was 4.080587117941624%.
 Mean---Twenty-four hours now has $10408.058711794163
 ---------------------------------------------------------------------------
+[2022-06-06 16:28:29] BUY
+Mean---Twenty-four hours has bought PAXG for $1846.97
+Mean---Twenty-four hours now has $10408.058711794163
+---------------------------------------------------------------------------

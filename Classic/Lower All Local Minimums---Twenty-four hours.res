@@ -6,3 +6,7 @@ Lower All Local Minimums---Twenty-four hours now has $10000
 Lower All Local Minimums---Twenty-four hours has sold ZUSD for $0.96663. Profit was 0.22563760904414953%.
 Lower All Local Minimums---Twenty-four hours now has $10022.563760904415
 ---------------------------------------------------------------------------
+[2022-06-06 16:28:29] BUY
+Lower All Local Minimums---Twenty-four hours has bought SGB for $0.0354
+Lower All Local Minimums---Twenty-four hours now has $10022.563760904415
+---------------------------------------------------------------------------
