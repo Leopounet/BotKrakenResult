@@ -1170,3 +1170,7 @@ Recent Minimum---Always now has $4669.102894060098
 Recent Minimum---Always has bought KAR for $0.505
 Recent Minimum---Always now has $4669.102894060098
 ---------------------------------------------------------------------------
+[2022-06-06 02:07:45] SOLD
+Recent Minimum---Always has sold KAR for $0.505. Profit was -0.52%.
+Recent Minimum---Always now has $4644.823559010985
+---------------------------------------------------------------------------
