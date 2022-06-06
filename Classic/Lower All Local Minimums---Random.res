@@ -814,3 +814,7 @@ Lower All Local Minimums---Random now has $7456.566959444391
 Lower All Local Minimums---Random has sold GST for $0.595. Profit was -0.52%.
 Lower All Local Minimums---Random now has $7417.79281125528
 ---------------------------------------------------------------------------
+[2022-06-06 02:54:19] BUY
+Lower All Local Minimums---Random has bought ZUSD for $0.96062
+Lower All Local Minimums---Random now has $7417.79281125528
+---------------------------------------------------------------------------
