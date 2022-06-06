@@ -1742,3 +1742,7 @@ Lower All Local Minimums---Random now has $4684.72763670677
 Lower All Local Minimums---Random has sold ZEUR for $1.07038. Profit was -0.36448598130840415%.
 Lower All Local Minimums---Random now has $4667.652461208493
 ---------------------------------------------------------------------------
+[2022-06-06 14:47:49] BUY
+Lower All Local Minimums---Random has bought PAXG for $1849.42
+Lower All Local Minimums---Random now has $4667.652461208493
+---------------------------------------------------------------------------
