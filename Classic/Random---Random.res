@@ -802,3 +802,7 @@ Random---Random now has $6204.006785378222
 Random---Random has bought COMP for $59.58
 Random---Random now has $6204.006785378222
 ---------------------------------------------------------------------------
+[2022-06-06 02:46:34] SOLD
+Random---Random has sold COMP for $59.58. Profit was -0.52%.
+Random---Random now has $6171.745950094255
+---------------------------------------------------------------------------
