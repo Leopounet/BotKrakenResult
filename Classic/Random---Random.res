@@ -2254,3 +2254,7 @@ Random---Random now has $2757.9622598602737
 Random---Random has sold KINT for $4.08. Profit was -0.52%.
 Random---Random now has $2743.620856109
 ---------------------------------------------------------------------------
+[2022-06-06 21:40:06] BUY
+Random---Random has bought DYDX for $1.779
+Random---Random now has $2743.620856109
+---------------------------------------------------------------------------
