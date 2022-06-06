@@ -1,4 +1,4 @@
-[2022-06-06 14:09:38] SUMMARY
+[2022-06-06 14:11:39] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.879
-		Maximum:                    0.895
-		Minimum:                    0.85
-		Variance:                   0.050279
-		Mean:                       0.865421
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.117647
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.25
-		Is falling:                 True
-		Current fall duration:      40
-		Trending downwards:         False
-		Average local maximum:      0.870882
-		Number of local maximums:   17
-		Average local minimum:      0.866583
-		Number of local minimums:   12
-	Is init: True
+	None
 Wins: 3
-Losses: 327
-Total points: -172.14825996212758%
-Wallet: 1779.5997360530498
+Losses: 328
+Total points: -172.6682599621276%
+Wallet: 1770.3458174255738
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Mean---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: PAXGUSD
-	Altname: PAXGUSD
-	Wsname: PAXG/USD
-	Base:
-	 	Name: PAXG
-		Altname: PAXG
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.004
-	Data about this pair of assets (PAXGUSD):
-		Current:                    1853.84
-		Maximum:                    1864.92
-		Minimum:                    1850.0
-		Variance:                   0.008
-		Mean:                       1857.482097
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.888889
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.115385
-		Is falling:                 True
-		Current fall duration:      14
-		Trending downwards:         False
-		Average local maximum:      1857.645185
-		Number of local maximums:   27
-		Average local minimum:      1856.476538
-		Number of local minimums:   26
-	Is init: True
+	None
 Wins: 13
-Losses: 317
-Total points: -148.4800301442131%
-Wallet: 2233.0780810556093
+Losses: 318
+Total points: -149.0523539693544%
+Wallet: 2220.2976431637194
 ---------------------------------------------------------------------------
 Best score: 
 Name: Random---Five Percent
