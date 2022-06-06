@@ -1,4 +1,4 @@
-[2022-06-06 00:29:46] SUMMARY
+[2022-06-06 00:31:41] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: BCHUSD
+	Altname: BCHUSD
+	Wsname: BCH/USD
+	Base:
+	 	Name: BCH
+		Altname: BCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.01
+	Data about this pair of assets (BCHUSD):
+		Current:                    180.62
+		Maximum:                    189.64
+		Minimum:                    178.97
+		Variance:                   0.056265
+		Mean:                       184.809111
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.347826
+		Is ascending:               True
+		Current ascension duration: 5
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.833333
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      184.831304
+		Number of local maximums:   23
+		Average local minimum:      184.819444
+		Number of local minimums:   18
+	Is init: True
 Wins: 0
 Losses: 122
 Total points: -63.64367232067362%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GSTUSD
-	Altname: GSTUSD
-	Wsname: GST/USD
-	Base:
-	 	Name: GST
-		Altname: GST
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (GSTUSD):
-		Current:                    0.593
-		Maximum:                    0.911
-		Minimum:                    0.593
-		Variance:                   0.349067
-		Mean:                       0.756206
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.684211
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.352941
-		Is falling:                 True
-		Current fall duration:      11
-		Trending downwards:         True
-		Average local maximum:      0.734868
-		Number of local maximums:   38
-		Average local minimum:      0.7415
-		Number of local minimums:   34
-	Is init: True
+	None
 Wins: 8
-Losses: 68
-Total points: -18.39709442600587%
-Wallet: 8289.016889079001
+Losses: 69
+Total points: -18.91709442600587%
+Wallet: 8245.914001255791
 ---------------------------------------------------------------------------
 Best score: 
 Name: Mean---Five Percent
