@@ -1,4 +1,4 @@
-[2022-06-06 00:37:34] SUMMARY
+[2022-06-06 00:39:31] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: BCHUSD
+	Altname: BCHUSD
+	Wsname: BCH/USD
+	Base:
+	 	Name: BCH
+		Altname: BCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.01
+	Data about this pair of assets (BCHUSD):
+		Current:                    180.95
+		Maximum:                    189.64
+		Minimum:                    178.97
+		Variance:                   0.056265
+		Mean:                       184.807889
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.347826
+		Is ascending:               True
+		Current ascension duration: 6
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.833333
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      184.831304
+		Number of local maximums:   23
+		Average local minimum:      184.819444
+		Number of local minimums:   18
+	Is init: True
 Wins: 0
 Losses: 124
 Total points: -64.57857801236011%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: USDCHF
-	Altname: USDCHF
-	Wsname: USD/CHF
-	Base:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Quote:
-	 	Name: CHF
-		Altname: CHF
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 5
-	Data about this pair of assets (USDCHF):
-		Current:                    0.96051
-		Maximum:                    1.041461
-		Minimum:                    1.037129
-		Variance:                   0.004159
-		Mean:                       1.039171
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.1875
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.823529
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.962327
-		Number of local maximums:   32
-		Average local minimum:      0.962245
-		Number of local minimums:   34
-	Is init: True
+	None
 Wins: 8
-Losses: 70
-Total points: -19.31709442600587%
-Wallet: 8212.930345250768
+Losses: 71
+Total points: -19.71709442600587%
+Wallet: 8180.078623869766
 ---------------------------------------------------------------------------
 Best score: 
 Name: Random---Five Percent
@@ -75,7 +75,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: TBTCUSD
+	Altname: TBTCUSD
+	Wsname: TBTC/USD
+	Base:
+	 	Name: TBTC
+		Altname: TBTC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (TBTCUSD):
+		Current:                    31551.6
+		Maximum:                    31568.0
+		Minimum:                    28844.5
+		Variance:                   0.086274
+		Mean:                       29434.070833
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               True
+		Current ascension duration: 35
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      30261.5
+		Number of local maximums:   2
+		Average local minimum:      28899.75
+		Number of local minimums:   2
+	Is init: True
 Wins: 1
 Losses: 0
 Total points: 12.58262529832935%
@@ -90,7 +127,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: TBTCUSD
+	Altname: TBTCUSD
+	Wsname: TBTC/USD
+	Base:
+	 	Name: TBTC
+		Altname: TBTC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (TBTCUSD):
+		Current:                    31551.6
+		Maximum:                    31568.0
+		Minimum:                    28844.5
+		Variance:                   0.086274
+		Mean:                       29434.070833
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               True
+		Current ascension duration: 35
+		Trending upwards:           True
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         False
+		Average local maximum:      30261.5
+		Number of local maximums:   2
+		Average local minimum:      28899.75
+		Number of local minimums:   2
+	Is init: True
 Wins: 1
 Losses: 0
 Total points: 12.58262529832935%

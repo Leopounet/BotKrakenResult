@@ -6,3 +6,7 @@ Random---Five Percent now has $10000
 Random---Five Percent has sold MSOL for $47.39. Profit was 12.58262529832935%.
 Random---Five Percent now has $11258.262529832935
 ---------------------------------------------------------------------------
+[2022-06-06 00:39:31] BUY
+Random---Five Percent has bought TBTC for $31551.6
+Random---Five Percent now has $11258.262529832935
+---------------------------------------------------------------------------
