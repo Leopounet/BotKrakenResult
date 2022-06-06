@@ -1422,3 +1422,7 @@ Lower All Local Minimums---Always now has $4790.406648845269
 Lower All Local Minimums---Always has sold ZUSD for $0.96073. Profit was -0.4%.
 Lower All Local Minimums---Always now has $4771.245022249888
 ---------------------------------------------------------------------------
+[2022-06-06 04:10:03] BUY
+Lower All Local Minimums---Always has bought LUNA for $8.115e-05
+Lower All Local Minimums---Always now has $4771.245022249888
+---------------------------------------------------------------------------
