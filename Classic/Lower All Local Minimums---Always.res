@@ -3550,3 +3550,7 @@ Lower All Local Minimums---Always now has $1466.6913002951765
 Lower All Local Minimums---Always has sold LUNA for $8.079e-05. Profit was -0.4456781865477395%.
 Lower All Local Minimums---Always now has $1460.1545771057674
 ---------------------------------------------------------------------------
+[2022-06-06 21:56:03] BUY
+Lower All Local Minimums---Always has bought LUNA for $8.079e-05
+Lower All Local Minimums---Always now has $1460.1545771057674
+---------------------------------------------------------------------------
