@@ -1,4 +1,4 @@
-[2022-06-06 10:26:34] SUMMARY
+[2022-06-06 10:28:33] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.895
-		Maximum:                    0.895
-		Minimum:                    0.85
-		Variance:                   0.050279
-		Mean:                       0.864411
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.117647
-		Is ascending:               True
-		Current ascension duration: 43
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.25
-		Is falling:                 True
-		Current fall duration:      19
-		Trending downwards:         False
-		Average local maximum:      0.869353
-		Number of local maximums:   17
-		Average local minimum:      0.86325
-		Number of local minimums:   12
-	Is init: True
+	None
 Wins: 3
-Losses: 271
-Total points: -141.34305800908785%
-Wallet: 2423.78358275071
+Losses: 272
+Total points: -142.53344907054037%
+Wallet: 2394.931079632692
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Mean---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ROOKUSD
-	Altname: ROOKUSD
-	Wsname: ROOK/USD
-	Base:
-	 	Name: ROOK
-		Altname: ROOK
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.05
-	Data about this pair of assets (ROOKUSD):
-		Current:                    37.99
-		Maximum:                    42.65
-		Minimum:                    35.16
-		Variance:                   0.175615
-		Mean:                       39.985458
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.666667
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.375
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         False
-		Average local maximum:      40.787778
-		Number of local maximums:   9
-		Average local minimum:      37.29625
-		Number of local minimums:   8
-	Is init: True
+	None
 Wins: 13
-Losses: 261
-Total points: -119.63559909572847%
-Wallet: 2981.938036731521
+Losses: 262
+Total points: -120.15559909572846%
+Wallet: 2966.4319589405172
 ---------------------------------------------------------------------------
 Best score: 
 Name: Random---Five Percent
