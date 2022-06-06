@@ -3430,3 +3430,7 @@ Lower All Local Minimums---Always now has $1561.8066585916931
 Lower All Local Minimums---Always has sold SCRT for $1.374. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1553.6852639670162
 ---------------------------------------------------------------------------
+[2022-06-06 20:56:00] BUY
+Lower All Local Minimums---Always has bought SCRT for $1.374
+Lower All Local Minimums---Always now has $1553.6852639670162
+---------------------------------------------------------------------------
