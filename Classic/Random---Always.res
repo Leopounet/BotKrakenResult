@@ -962,3 +962,7 @@ Random---Always now has $5114.890926257106
 Random---Always has bought FIDA for $0.477
 Random---Always now has $5114.890926257106
 ---------------------------------------------------------------------------
+[2022-06-06 00:25:54] SOLD
+Random---Always has sold FIDA for $0.477. Profit was -0.52%.
+Random---Always now has $5088.293493440569
+---------------------------------------------------------------------------
