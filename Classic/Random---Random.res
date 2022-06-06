@@ -1078,3 +1078,7 @@ Random---Random now has $5734.749125768513
 Random---Random has sold BAND for $1.72. Profit was -0.52%.
 Random---Random now has $5704.928430314517
 ---------------------------------------------------------------------------
+[2022-06-06 06:10:31] BUY
+Random---Random has bought MATIC for $0.6191
+Random---Random now has $5704.928430314517
+---------------------------------------------------------------------------
