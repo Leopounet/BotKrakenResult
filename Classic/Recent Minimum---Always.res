@@ -2742,3 +2742,7 @@ Recent Minimum---Always now has $1715.1261726141768
 Recent Minimum---Always has sold DYDX for $1.824. Profit was -0.52%.
 Recent Minimum---Always now has $1706.2075165165832
 ---------------------------------------------------------------------------
+[2022-06-06 15:01:56] BUY
+Recent Minimum---Always has bought DYDX for $1.824
+Recent Minimum---Always now has $1706.2075165165832
+---------------------------------------------------------------------------

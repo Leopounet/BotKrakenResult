@@ -1766,3 +1766,7 @@ Lower All Local Minimums---Random now has $4614.489823141256
 Lower All Local Minimums---Random has sold DAI for $0.99981. Profit was -0.3839943980393109%.
 Lower All Local Minimums---Random now has $4596.7704407223
 ---------------------------------------------------------------------------
+[2022-06-06 15:01:56] BUY
+Lower All Local Minimums---Random has bought SGB for $0.0368
+Lower All Local Minimums---Random now has $4596.7704407223
+---------------------------------------------------------------------------
