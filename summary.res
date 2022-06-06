@@ -1,4 +1,4 @@
-[2022-06-06 17:36:59] SUMMARY
+[2022-06-06 17:38:58] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.862
+		Maximum:                    0.895
+		Minimum:                    0.85
+		Variance:                   0.050279
+		Mean:                       0.866264
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.470588
+		Is ascending:               False
+		Current ascension duration: 1
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.642857
+		Is falling:                 True
+		Current fall duration:      17
+		Trending downwards:         True
+		Average local maximum:      0.872059
+		Number of local maximums:   17
+		Average local minimum:      0.868
+		Number of local minimums:   14
+	Is init: True
 Wins: 4
 Losses: 377
 Total points: -199.22871611062726%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: LUNAUSD
-	Altname: LUNAUSD
-	Wsname: LUNA/USD
-	Base:
-	 	Name: LUNA
-		Altname: LUNA
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 50000
-	Data about this pair of assets (LUNAUSD):
-		Current:                    8e-05
-		Maximum:                    9.5e-05
-		Minimum:                    7.9e-05
-		Variance:                   0.172043
-		Mean:                       8.6e-05
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.857143
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.333333
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      8.7e-05
-		Number of local maximums:   28
-		Average local minimum:      8.6e-05
-		Number of local minimums:   36
-	Is init: True
+	None
 Wins: 14
-Losses: 227
-Total points: -91.9612494824584%
-Wallet: 3960.2836373223677
+Losses: 228
+Total points: -92.87975508644345%
+Wallet: 3923.9082101798585
 ---------------------------------------------------------------------------
 Best score: 
 Name: Recent Minimum---Ten Percent
