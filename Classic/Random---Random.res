@@ -618,3 +618,7 @@ Random---Random now has $6676.57123192832
 Random---Random has bought XRT for $3.52
 Random---Random now has $6676.57123192832
 ---------------------------------------------------------------------------
+[2022-06-06 00:29:46] SOLD
+Random---Random has sold XRT for $3.52. Profit was -0.52%.
+Random---Random now has $6641.853061522293
+---------------------------------------------------------------------------
