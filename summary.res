@@ -1,4 +1,4 @@
-[2022-06-06 02:50:26] SUMMARY
+[2022-06-06 02:52:22] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: LUNA2USD
+	Altname: LUNA2USD
+	Wsname: LUNA2/USD
+	Base:
+	 	Name: LUNA2
+		Altname: LUNA2
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (LUNA2USD):
+		Current:                    5.0682
+		Maximum:                    6.62814
+		Minimum:                    4.61185
+		Variance:                   0.304201
+		Mean:                       5.866088
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.73913
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.285714
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      6.105213
+		Number of local maximums:   23
+		Average local minimum:      5.902834
+		Number of local minimums:   21
+	Is init: True
 Wins: 1
 Losses: 157
 Total points: -82.07802658405905%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: GSTUSD
-	Altname: GSTUSD
-	Wsname: GST/USD
-	Base:
-	 	Name: GST
-		Altname: GST
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (GSTUSD):
-		Current:                    0.595
-		Maximum:                    0.903
-		Minimum:                    0.592
-		Variance:                   0.344408
-		Mean:                       0.744939
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.526316
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.5625
-		Is falling:                 True
-		Current fall duration:      9
-		Trending downwards:         True
-		Average local maximum:      0.726947
-		Number of local maximums:   38
-		Average local minimum:      0.731187
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 9
-Losses: 92
-Total points: -28.95621368173516%
-Wallet: 7456.566959444391
+Losses: 93
+Total points: -29.47621368173516%
+Wallet: 7417.79281125528
 ---------------------------------------------------------------------------
 Best score: 
 Name: Random---Five Percent

@@ -1262,3 +1262,7 @@ Lower All Local Minimums---Always now has $5255.784319607366
 Lower All Local Minimums---Always has sold GST for $0.595. Profit was -0.52%.
 Lower All Local Minimums---Always now has $5228.454241145408
 ---------------------------------------------------------------------------
+[2022-06-06 02:52:22] BUY
+Lower All Local Minimums---Always has bought ZUSD for $0.96062
+Lower All Local Minimums---Always now has $5228.454241145408
+---------------------------------------------------------------------------
