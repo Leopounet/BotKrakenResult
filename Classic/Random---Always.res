@@ -2362,3 +2362,7 @@ Random---Always now has $2103.534927029965
 Random---Always has bought BICO for $0.749
 Random---Always now has $2103.534927029965
 ---------------------------------------------------------------------------
+[2022-06-06 11:52:07] SOLD
+Random---Always has sold BICO for $0.749. Profit was -0.52%.
+Random---Always now has $2092.596545409409
+---------------------------------------------------------------------------
