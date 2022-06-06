@@ -2686,3 +2686,7 @@ Lower All Local Minimums---Always now has $2547.4964527400684
 Lower All Local Minimums---Always has sold PAXG for $1849.42. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2534.24947118582
 ---------------------------------------------------------------------------
+[2022-06-06 14:33:41] BUY
+Lower All Local Minimums---Always has bought ZEUR for $1.07043
+Lower All Local Minimums---Always now has $2534.24947118582
+---------------------------------------------------------------------------
