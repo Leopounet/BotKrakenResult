@@ -1814,3 +1814,7 @@ Recent Minimum---Random now has $3102.1099709265786
 Recent Minimum---Random has sold DYDX for $1.824. Profit was -0.52%.
 Recent Minimum---Random now has $3085.9789990777604
 ---------------------------------------------------------------------------
+[2022-06-06 15:05:56] BUY
+Recent Minimum---Random has bought COMP for $59.81
+Recent Minimum---Random now has $3085.9789990777604
+---------------------------------------------------------------------------

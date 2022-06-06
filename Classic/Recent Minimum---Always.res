@@ -2750,3 +2750,7 @@ Recent Minimum---Always now has $1706.2075165165832
 Recent Minimum---Always has sold DYDX for $1.824. Profit was -0.52%.
 Recent Minimum---Always now has $1697.335237430697
 ---------------------------------------------------------------------------
+[2022-06-06 15:05:56] BUY
+Recent Minimum---Always has bought COMP for $59.81
+Recent Minimum---Always now has $1697.335237430697
+---------------------------------------------------------------------------
