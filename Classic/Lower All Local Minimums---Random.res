@@ -1738,3 +1738,7 @@ Lower All Local Minimums---Random now has $4684.72763670677
 Lower All Local Minimums---Random has bought ZEUR for $1.07
 Lower All Local Minimums---Random now has $4684.72763670677
 ---------------------------------------------------------------------------
+[2022-06-06 14:45:48] SOLD
+Lower All Local Minimums---Random has sold ZEUR for $1.07038. Profit was -0.36448598130840415%.
+Lower All Local Minimums---Random now has $4667.652461208493
+---------------------------------------------------------------------------
