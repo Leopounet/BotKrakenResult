@@ -1050,3 +1050,7 @@ Random---Random now has $5825.149744701217
 Random---Random has bought 1INCH for $0.88
 Random---Random now has $5825.149744701217
 ---------------------------------------------------------------------------
+[2022-06-06 05:56:55] SOLD
+Random---Random has sold 1INCH for $0.88. Profit was -0.52%.
+Random---Random now has $5794.858966028771
+---------------------------------------------------------------------------
