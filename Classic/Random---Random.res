@@ -726,3 +726,7 @@ Random---Random now has $6468.943405912061
 Random---Random has sold NANO for $1.186. Profit was -0.52%.
 Random---Random now has $6435.304900201319
 ---------------------------------------------------------------------------
+[2022-06-06 01:50:06] BUY
+Random---Random has bought POLIS for $0.579
+Random---Random now has $6435.304900201319
+---------------------------------------------------------------------------
