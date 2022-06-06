@@ -1538,3 +1538,7 @@ Random---Random now has $4251.910863444698
 Random---Random has bought USDC for $0.9999
 Random---Random now has $4251.910863444698
 ---------------------------------------------------------------------------
+[2022-06-06 12:17:57] SOLD
+Random---Random has sold USDC for $0.9999. Profit was -0.4%.
+Random---Random now has $4234.90321999092
+---------------------------------------------------------------------------
