@@ -3422,3 +3422,7 @@ Lower All Local Minimums---Always now has $1566.8403985340808
 Lower All Local Minimums---Always has sold LUNA for $8.067e-05. Profit was -0.3212669233635519%.
 Lower All Local Minimums---Always now has $1561.8066585916931
 ---------------------------------------------------------------------------
+[2022-06-06 20:51:52] BUY
+Lower All Local Minimums---Always has bought SCRT for $1.374
+Lower All Local Minimums---Always now has $1561.8066585916931
+---------------------------------------------------------------------------
