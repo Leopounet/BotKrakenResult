@@ -2,3 +2,7 @@
 Random---Five Percent has bought MSOL for $41.9
 Random---Five Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-06 00:37:34] SOLD
+Random---Five Percent has sold MSOL for $47.39. Profit was 12.58262529832935%.
+Random---Five Percent now has $11258.262529832935
+---------------------------------------------------------------------------

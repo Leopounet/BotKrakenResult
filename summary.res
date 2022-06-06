@@ -1,4 +1,4 @@
-[2022-06-06 00:35:36] SUMMARY
+[2022-06-06 00:37:34] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BCHUSD
-	Altname: BCHUSD
-	Wsname: BCH/USD
-	Base:
-	 	Name: BCH
-		Altname: BCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.01
-	Data about this pair of assets (BCHUSD):
-		Current:                    180.79
-		Maximum:                    189.64
-		Minimum:                    178.97
-		Variance:                   0.056265
-		Mean:                       184.809347
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.347826
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.833333
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      184.831304
-		Number of local maximums:   23
-		Average local minimum:      184.819444
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 0
-Losses: 123
-Total points: -64.16367232067363%
-Wallet: 5255.345731196875
+Losses: 124
+Total points: -64.57857801236011%
+Wallet: 5233.541002640336
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,113 +23,76 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: USDCHF
+	Altname: USDCHF
+	Wsname: USD/CHF
+	Base:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Quote:
+	 	Name: CHF
+		Altname: CHF
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.2
+	Min order: 5
+	Data about this pair of assets (USDCHF):
+		Current:                    0.96051
+		Maximum:                    1.041461
+		Minimum:                    1.037129
+		Variance:                   0.004159
+		Mean:                       1.039171
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.1875
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.823529
+		Is falling:                 False
+		Current fall duration:      0
+		Trending downwards:         True
+		Average local maximum:      0.962327
+		Number of local maximums:   32
+		Average local minimum:      0.962245
+		Number of local minimums:   34
+	Is init: True
 Wins: 8
 Losses: 70
 Total points: -19.31709442600587%
 Wallet: 8212.930345250768
 ---------------------------------------------------------------------------
 Best score: 
-Name: Mean---Five Percent
-BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
+Name: Random---Five Percent
+BuyStrategy description: Random.
 SellStrategy description: Sells when the profit is 5%.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXMRZUSD
-	Altname: XMRUSD
-	Wsname: XMR/USD
-	Base:
-	 	Name: XXMR
-		Altname: XMR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.02
-	Data about this pair of assets (XXMRZUSD):
-		Current:                    187.77
-		Maximum:                    198.79
-		Minimum:                    185.87
-		Variance:                   0.064993
-		Mean:                       191.677583
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      191.805
-		Number of local maximums:   20
-		Average local minimum:      192.529
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 1
 Losses: 0
-Total points: 8.504348126403048%
-Wallet: 10850.434812640306
+Total points: 12.58262529832935%
+Wallet: 11258.262529832935
 ---------------------------------------------------------------------------
 Biggest wallet: 
-Name: Mean---Five Percent
-BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
+Name: Random---Five Percent
+BuyStrategy description: Random.
 SellStrategy description: Sells when the profit is 5%.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXMRZUSD
-	Altname: XMRUSD
-	Wsname: XMR/USD
-	Base:
-	 	Name: XXMR
-		Altname: XMR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.02
-	Data about this pair of assets (XXMRZUSD):
-		Current:                    187.77
-		Maximum:                    198.79
-		Minimum:                    185.87
-		Variance:                   0.064993
-		Mean:                       191.677583
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      191.805
-		Number of local maximums:   20
-		Average local minimum:      192.529
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 1
 Losses: 0
-Total points: 8.504348126403048%
-Wallet: 10850.434812640306
+Total points: 12.58262529832935%
+Wallet: 11258.262529832935
 ---------------------------------------------------------------------------
