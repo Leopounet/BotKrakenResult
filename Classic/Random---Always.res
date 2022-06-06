@@ -1390,3 +1390,7 @@ Random---Always now has $3889.356856668086
 Random---Always has sold KINT for $4.44. Profit was -0.52%.
 Random---Always now has $3869.132201013412
 ---------------------------------------------------------------------------
+[2022-06-06 03:54:27] BUY
+Random---Always has bought AUDIO for $0.4137
+Random---Always now has $3869.132201013412
+---------------------------------------------------------------------------
