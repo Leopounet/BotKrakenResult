@@ -734,3 +734,7 @@ Random---Random now has $6435.304900201319
 Random---Random has sold POLIS for $0.579. Profit was -0.52%.
 Random---Random now has $6401.841314720272
 ---------------------------------------------------------------------------
+[2022-06-06 01:57:50] BUY
+Random---Random has bought XXMR for $192.52
+Random---Random now has $6401.841314720272
+---------------------------------------------------------------------------
