@@ -770,3 +770,7 @@ Random---Random now has $6334.745296704483
 Random---Random has bought POWR for $0.301
 Random---Random now has $6334.745296704483
 ---------------------------------------------------------------------------
+[2022-06-06 02:31:01] SOLD
+Random---Random has sold POWR for $0.301. Profit was -0.52%.
+Random---Random now has $6301.804621161619
+---------------------------------------------------------------------------
