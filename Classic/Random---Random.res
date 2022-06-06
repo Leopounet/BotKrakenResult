@@ -786,3 +786,7 @@ Random---Random now has $6269.0352371315785
 Random---Random has bought KINT for $4.46
 Random---Random now has $6269.0352371315785
 ---------------------------------------------------------------------------
+[2022-06-06 02:38:47] SOLD
+Random---Random has sold KINT for $4.46. Profit was -0.52%.
+Random---Random now has $6236.436253898494
+---------------------------------------------------------------------------
