@@ -3370,3 +3370,7 @@ Random---Always now has $1221.22329032614
 Random---Always has bought MOVR for $20.518
 Random---Always now has $1221.22329032614
 ---------------------------------------------------------------------------
+[2022-06-06 20:26:06] SOLD
+Random---Always has sold MOVR for $20.518. Profit was -0.52%.
+Random---Always now has $1214.872929216444
+---------------------------------------------------------------------------
