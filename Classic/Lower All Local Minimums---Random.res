@@ -1030,3 +1030,7 @@ Lower All Local Minimums---Random now has $6644.614130037999
 Lower All Local Minimums---Random has sold ZUSD for $0.9605. Profit was -0.4135327857759937%.
 Lower All Local Minimums---Random now has $6617.136472121987
 ---------------------------------------------------------------------------
+[2022-06-06 05:33:40] BUY
+Lower All Local Minimums---Random has bought LUNA for $8.112e-05
+Lower All Local Minimums---Random now has $6617.136472121987
+---------------------------------------------------------------------------
