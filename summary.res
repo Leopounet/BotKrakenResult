@@ -1,4 +1,4 @@
-[2022-06-06 03:04:03] SUMMARY
+[2022-06-06 03:05:59] SUMMARY
 Most losses: 
 Name: Recent Minimum---Always
 BuyStrategy description: Looks for the asset which is closer to its previous local minimum.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AAVEUSD
-	Altname: AAVEUSD
-	Wsname: AAVE/USD
-	Base:
-	 	Name: AAVE
-		Altname: AAVE
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.02
-	Data about this pair of assets (AAVEUSD):
-		Current:                    109.29
-		Maximum:                    110.33
-		Minimum:                    102.74
-		Variance:                   0.068794
-		Mean:                       105.623014
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.28
-		Is ascending:               True
-		Current ascension duration: 6
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.947368
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         False
-		Average local maximum:      105.1604
-		Number of local maximums:   25
-		Average local minimum:      105.615263
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 1
-Losses: 160
-Total points: -83.28879681575837%
-Wallet: 4337.824129586213
+Losses: 161
+Total points: -83.45194806472901%
+Wallet: 4330.746915340644
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
