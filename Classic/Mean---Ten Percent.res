@@ -6,3 +6,7 @@ Mean---Ten Percent now has $10000
 Mean---Ten Percent has sold TBTC for $32668.2. Profit was 12.304037299257473%.
 Mean---Ten Percent now has $11230.403729925747
 ---------------------------------------------------------------------------
+[2022-06-06 04:13:55] BUY
+Mean---Ten Percent has bought LUNA2 for $5.02103
+Mean---Ten Percent now has $11230.403729925747
+---------------------------------------------------------------------------
