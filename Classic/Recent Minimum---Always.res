@@ -2734,3 +2734,7 @@ Recent Minimum---Always now has $1724.0914481445284
 Recent Minimum---Always has sold 1INCH for $0.886. Profit was -0.52%.
 Recent Minimum---Always now has $1715.1261726141768
 ---------------------------------------------------------------------------
+[2022-06-06 14:57:53] BUY
+Recent Minimum---Always has bought DYDX for $1.824
+Recent Minimum---Always now has $1715.1261726141768
+---------------------------------------------------------------------------

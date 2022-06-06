@@ -1798,3 +1798,7 @@ Recent Minimum---Random now has $3134.6253139228884
 Recent Minimum---Random has sold 1INCH for $0.886. Profit was -0.52%.
 Recent Minimum---Random now has $3118.3252622904893
 ---------------------------------------------------------------------------
+[2022-06-06 14:57:53] BUY
+Recent Minimum---Random has bought DYDX for $1.824
+Recent Minimum---Random now has $3118.3252622904893
+---------------------------------------------------------------------------
