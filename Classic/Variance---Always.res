@@ -3206,3 +3206,7 @@ Variance---Always now has $1164.6262759892468
 Variance---Always has sold MULTI for $4.915. Profit was -0.52%.
 Variance---Always now has $1158.5702193541026
 ---------------------------------------------------------------------------
+[2022-06-06 19:01:04] BUY
+Variance---Always has bought MULTI for $4.915
+Variance---Always now has $1158.5702193541026
+---------------------------------------------------------------------------
