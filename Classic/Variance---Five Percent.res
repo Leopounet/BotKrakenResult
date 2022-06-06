@@ -6,3 +6,7 @@ Variance---Five Percent now has $10000
 Variance---Five Percent has sold GST for $0.701. Profit was 7.659012345678994%.
 Variance---Five Percent now has $10765.9012345679
 ---------------------------------------------------------------------------
+[2022-06-06 07:15:33] BUY
+Variance---Five Percent has bought MULTI for $5.019
+Variance---Five Percent now has $10765.9012345679
+---------------------------------------------------------------------------
