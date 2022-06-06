@@ -2102,3 +2102,7 @@ Lower All Local Minimums---Random now has $3581.3260381377168
 Lower All Local Minimums---Random has sold LUNA for $8.069e-05. Profit was -0.841185917232858%.
 Lower All Local Minimums---Random now has $3551.200427854709
 ---------------------------------------------------------------------------
+[2022-06-06 19:46:54] BUY
+Lower All Local Minimums---Random has bought SCRT for $1.391
+Lower All Local Minimums---Random now has $3551.200427854709
+---------------------------------------------------------------------------
