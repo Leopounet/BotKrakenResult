@@ -1870,3 +1870,7 @@ Lower All Local Minimums---Always now has $3846.5657889411923
 Lower All Local Minimums---Always has sold ZUSD for $0.96071. Profit was -0.4031225930012369%.
 Lower All Local Minimums---Always now has $3831.059413191314
 ---------------------------------------------------------------------------
+[2022-06-06 07:48:37] BUY
+Lower All Local Minimums---Always has bought ZUSD for $0.96074
+Lower All Local Minimums---Always now has $3831.059413191314
+---------------------------------------------------------------------------
