@@ -1186,3 +1186,7 @@ Lower All Local Minimums---Always now has $5468.860709307747
 Lower All Local Minimums---Always has bought ZAUD for $0.71978
 Lower All Local Minimums---Always now has $5468.860709307747
 ---------------------------------------------------------------------------
+[2022-06-06 02:15:31] SOLD
+Lower All Local Minimums---Always has sold ZAUD for $0.71978. Profit was -0.4%.
+Lower All Local Minimums---Always now has $5446.985266470516
+---------------------------------------------------------------------------
