@@ -1,55 +1,18 @@
-[2022-06-06 03:00:08] SUMMARY
+[2022-06-06 03:02:05] SUMMARY
 Most losses: 
-Name: Mean---Always
-BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
+Name: Recent Minimum---Always
+BuyStrategy description: Looks for the asset which is closer to its previous local minimum.
 SellStrategy description: Always sells.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: LUNA2USD
-	Altname: LUNA2USD
-	Wsname: LUNA2/USD
-	Base:
-	 	Name: LUNA2
-		Altname: LUNA2
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (LUNA2USD):
-		Current:                    4.93189
-		Maximum:                    6.62814
-		Minimum:                    4.61185
-		Variance:                   0.304201
-		Mean:                       5.863783
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.73913
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.285714
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         True
-		Average local maximum:      6.105213
-		Number of local maximums:   23
-		Average local minimum:      5.902834
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 1
-Losses: 159
-Total points: -84.06707528228553%
-Wallet: 4303.853182300084
+Losses: 160
+Total points: -83.28879681575837%
+Wallet: 4337.824129586213
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: USDCHF
-	Altname: USDCHF
-	Wsname: USD/CHF
-	Base:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Quote:
-	 	Name: CHF
-		Altname: CHF
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 5
-	Data about this pair of assets (USDCHF):
-		Current:                    0.96062
-		Maximum:                    1.041461
-		Minimum:                    1.037237
-		Variance:                   0.004056
-		Mean:                       1.039223
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.096774
-		Is ascending:               True
-		Current ascension duration: 7
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.90625
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.96229
-		Number of local maximums:   31
-		Average local minimum:      0.962282
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 9
-Losses: 93
-Total points: -29.47621368173516%
-Wallet: 7417.79281125528
+Losses: 94
+Total points: -29.87621368173516%
+Wallet: 7388.1216400102585
 ---------------------------------------------------------------------------
 Best score: 
 Name: Random---Five Percent
