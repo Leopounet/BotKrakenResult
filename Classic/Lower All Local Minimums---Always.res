@@ -2790,3 +2790,7 @@ Lower All Local Minimums---Always now has $2337.4250814867505
 Lower All Local Minimums---Always has sold LUNA for $8.182e-05. Profit was 0.2311390222878944%.
 Lower All Local Minimums---Always now has $2342.827782966811
 ---------------------------------------------------------------------------
+[2022-06-06 15:26:08] BUY
+Lower All Local Minimums---Always has bought SGB for $0.035
+Lower All Local Minimums---Always now has $2342.827782966811
+---------------------------------------------------------------------------

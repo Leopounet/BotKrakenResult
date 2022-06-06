@@ -6,3 +6,7 @@ Recent Minimum---Ten Percent now has $10000
 Recent Minimum---Ten Percent has sold ACA for $0.417. Profit was 13.726575342465761%.
 Recent Minimum---Ten Percent now has $11372.657534246577
 ---------------------------------------------------------------------------
+[2022-06-06 15:26:08] BUY
+Recent Minimum---Ten Percent has bought ACA for $0.38
+Recent Minimum---Ten Percent now has $11372.657534246577
+---------------------------------------------------------------------------
