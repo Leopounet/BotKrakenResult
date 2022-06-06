@@ -722,3 +722,7 @@ Random---Random now has $6468.943405912061
 Random---Random has bought NANO for $1.186
 Random---Random now has $6468.943405912061
 ---------------------------------------------------------------------------
+[2022-06-06 01:48:10] SOLD
+Random---Random has sold NANO for $1.186. Profit was -0.52%.
+Random---Random now has $6435.304900201319
+---------------------------------------------------------------------------
