@@ -1114,3 +1114,7 @@ Random---Always now has $4672.252567307762
 Random---Always has bought PERP for $1.221
 Random---Always now has $4672.252567307762
 ---------------------------------------------------------------------------
+[2022-06-06 01:40:19] SOLD
+Random---Always has sold PERP for $1.221. Profit was -0.52%.
+Random---Always now has $4647.956853957761
+---------------------------------------------------------------------------
