@@ -2234,3 +2234,7 @@ Recent Minimum---Random now has $2087.256431102592
 Recent Minimum---Random has bought ACH for $0.01502
 Recent Minimum---Random now has $2087.256431102592
 ---------------------------------------------------------------------------
+[2022-06-06 20:07:25] SOLD
+Recent Minimum---Random has sold ACH for $0.0158. Profit was 4.673075898801603%.
+Recent Minimum---Random now has $2184.7955083306338
+---------------------------------------------------------------------------
