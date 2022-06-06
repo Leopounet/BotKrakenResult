@@ -1,4 +1,4 @@
-[2022-06-06 08:00:23] SUMMARY
+[2022-06-06 08:02:21] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.892
-		Maximum:                    0.892
-		Minimum:                    0.85
-		Variance:                   0.047085
-		Mean:                       0.86334
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.0625
-		Is ascending:               True
-		Current ascension duration: 13
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.363636
-		Is falling:                 True
-		Current fall duration:      7
-		Trending downwards:         False
-		Average local maximum:      0.86775
-		Number of local maximums:   16
-		Average local minimum:      0.862364
-		Number of local minimums:   11
-	Is init: True
+	None
 Wins: 3
-Losses: 234
-Total points: -122.43938087904277%
-Wallet: 2929.5729375845785
+Losses: 235
+Total points: -122.95938087904277%
+Wallet: 2914.339158309139
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Mean---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: LUNA2USD
-	Altname: LUNA2USD
-	Wsname: LUNA2/USD
-	Base:
-	 	Name: LUNA2
-		Altname: LUNA2
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (LUNA2USD):
-		Current:                    5.33593
-		Maximum:                    6.62814
-		Minimum:                    4.61185
-		Variance:                   0.304201
-		Mean:                       5.747476
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      6.021155
-		Number of local maximums:   19
-		Average local minimum:      5.844863
-		Number of local minimums:   19
-	Is init: True
-Wins: 11
+	None
+Wins: 12
 Losses: 226
-Total points: -115.05243296696847%
-Wallet: 3151.0443352829616
+Total points: -114.37957623908785%
+Wallet: 3172.246349091414
 ---------------------------------------------------------------------------
 Best score: 
 Name: Random---Five Percent
