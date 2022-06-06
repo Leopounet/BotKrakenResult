@@ -1902,3 +1902,7 @@ Lower All Local Minimums---Random now has $4092.4784939406627
 Lower All Local Minimums---Random has sold SGB for $0.0356. Profit was -0.52%.
 Lower All Local Minimums---Random now has $4071.1976057721713
 ---------------------------------------------------------------------------
+[2022-06-06 17:05:02] BUY
+Lower All Local Minimums---Random has bought LUNA for $8.12e-05
+Lower All Local Minimums---Random now has $4071.1976057721713
+---------------------------------------------------------------------------
