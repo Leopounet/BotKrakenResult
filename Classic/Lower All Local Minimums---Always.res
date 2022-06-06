@@ -2726,3 +2726,7 @@ Lower All Local Minimums---Always now has $2494.2675068678236
 Lower All Local Minimums---Always has sold ZUSD for $1.25474. Profit was -0.4589416000254861%.
 Lower All Local Minimums---Always now has $2482.8202756628884
 ---------------------------------------------------------------------------
+[2022-06-06 14:53:57] BUY
+Lower All Local Minimums---Always has bought PAXG for $1849.42
+Lower All Local Minimums---Always now has $2482.8202756628884
+---------------------------------------------------------------------------
