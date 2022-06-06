@@ -1,4 +1,4 @@
-[2022-06-06 20:01:05] SUMMARY
+[2022-06-06 20:03:05] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.862
+		Maximum:                    0.895
+		Minimum:                    0.85
+		Variance:                   0.050279
+		Mean:                       0.866143
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.647059
+		Is ascending:               True
+		Current ascension duration: 30
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.4
+		Is falling:                 True
+		Current fall duration:      46
+		Trending downwards:         True
+		Average local maximum:      0.872059
+		Number of local maximums:   17
+		Average local minimum:      0.8676
+		Number of local minimums:   15
+	Is init: True
 Wins: 4
 Losses: 412
 Total points: -217.42871611062762%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SCRTUSD
-	Altname: SCRTUSD
-	Wsname: SCRT/USD
-	Base:
-	 	Name: SCRT
-		Altname: SCRT
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (SCRTUSD):
-		Current:                    1.391
-		Maximum:                    1.503
-		Minimum:                    1.386
-		Variance:                   0.077844
-		Mean:                       1.442518
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.833333
-		Is ascending:               True
-		Current ascension duration: 4
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.176471
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      1.446472
-		Number of local maximums:   36
-		Average local minimum:      1.445029
-		Number of local minimums:   34
-	Is init: True
+	None
 Wins: 16
-Losses: 250
-Total points: -104.38795742564605%
-Wallet: 3496.089275231693
+Losses: 251
+Total points: -104.90795742564605%
+Wallet: 3477.9096110004884
 ---------------------------------------------------------------------------
 Best score: 
 Name: Recent Minimum---Ten Percent
