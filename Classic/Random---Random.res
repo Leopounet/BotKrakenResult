@@ -1434,3 +1434,7 @@ Random---Random now has $4558.860374872165
 Random---Random has bought STEP for $0.09
 Random---Random now has $4558.860374872165
 ---------------------------------------------------------------------------
+[2022-06-06 10:56:23] SOLD
+Random---Random has sold STEP for $0.09. Profit was -0.52%.
+Random---Random now has $4535.15430092283
+---------------------------------------------------------------------------
