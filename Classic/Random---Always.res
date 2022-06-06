@@ -1862,3 +1862,7 @@ Random---Always now has $2879.793372192918
 Random---Always has sold SUPER for $0.2131. Profit was -0.52%.
 Random---Always now has $2864.818446657515
 ---------------------------------------------------------------------------
+[2022-06-06 07:44:43] BUY
+Random---Always has bought XZEC for $94.5
+Random---Always now has $2864.818446657515
+---------------------------------------------------------------------------
