@@ -1826,3 +1826,7 @@ Recent Minimum---Random now has $3069.931908282556
 Recent Minimum---Random has bought COMP for $59.81
 Recent Minimum---Random now has $3069.931908282556
 ---------------------------------------------------------------------------
+[2022-06-06 15:13:57] SOLD
+Recent Minimum---Random has sold COMP for $58.86. Profit was -2.108363149974925%.
+Recent Minimum---Random now has $3005.2065951990044
+---------------------------------------------------------------------------

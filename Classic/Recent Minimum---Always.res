@@ -2766,3 +2766,7 @@ Recent Minimum---Always now has $1688.5090941960573
 Recent Minimum---Always has sold COMP for $59.81. Profit was -0.52%.
 Recent Minimum---Always now has $1679.7288469062378
 ---------------------------------------------------------------------------
+[2022-06-06 15:13:57] BUY
+Recent Minimum---Always has bought COMP for $58.86
+Recent Minimum---Always now has $1679.7288469062378
+---------------------------------------------------------------------------
