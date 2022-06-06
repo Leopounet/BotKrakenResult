@@ -3130,3 +3130,7 @@ Random---Always now has $1280.863961791166
 Random---Always has bought AGLD for $0.516
 Random---Always now has $1280.863961791166
 ---------------------------------------------------------------------------
+[2022-06-06 18:22:13] SOLD
+Random---Always has sold AGLD for $0.516. Profit was -0.52%.
+Random---Always now has $1274.203469189852
+---------------------------------------------------------------------------
