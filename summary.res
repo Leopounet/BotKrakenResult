@@ -1,55 +1,18 @@
-[2022-06-06 03:07:55] SUMMARY
+[2022-06-06 03:09:52] SUMMARY
 Most losses: 
-Name: Recent Minimum---Always
-BuyStrategy description: Looks for the asset which is closer to its previous local minimum.
+Name: Variance Lower All Local Minimums---Always
+BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
 SellStrategy description: Always sells.
 Buy strategy cached data: 
 	{}
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AAVEUSD
-	Altname: AAVEUSD
-	Wsname: AAVE/USD
-	Base:
-	 	Name: AAVE
-		Altname: AAVE
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.02
-	Data about this pair of assets (AAVEUSD):
-		Current:                    109.77
-		Maximum:                    110.33
-		Minimum:                    102.74
-		Variance:                   0.068794
-		Mean:                       105.629694
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.28
-		Is ascending:               True
-		Current ascension duration: 7
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.947368
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         False
-		Average local maximum:      105.1604
-		Number of local maximums:   25
-		Average local minimum:      105.615263
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 1
-Losses: 161
-Total points: -83.45194806472901%
-Wallet: 4330.746915340644
+Losses: 162
+Total points: -85.10105639963706%
+Wallet: 4259.82591769875
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: GSTUSD
+	Altname: GSTUSD
+	Wsname: GST/USD
+	Base:
+	 	Name: GST
+		Altname: GST
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (GSTUSD):
+		Current:                    0.594
+		Maximum:                    0.903
+		Minimum:                    0.592
+		Variance:                   0.344408
+		Mean:                       0.74341
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.684211
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.352941
+		Is falling:                 True
+		Current fall duration:      13
+		Trending downwards:         True
+		Average local maximum:      0.726947
+		Number of local maximums:   38
+		Average local minimum:      0.723176
+		Number of local minimums:   34
+	Is init: True
 Wins: 9
 Losses: 95
 Total points: -30.39621368173516%
