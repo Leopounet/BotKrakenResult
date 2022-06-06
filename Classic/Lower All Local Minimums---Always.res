@@ -2706,3 +2706,7 @@ Lower All Local Minimums---Always now has $2513.9889757221877
 Lower All Local Minimums---Always has bought ZEUR for $1.07
 Lower All Local Minimums---Always now has $2513.9889757221877
 ---------------------------------------------------------------------------
+[2022-06-06 14:43:48] SOLD
+Lower All Local Minimums---Always has sold ZEUR for $1.06965. Profit was -0.43271028037383774%.
+Lower All Local Minimums---Always now has $2503.1106869767727
+---------------------------------------------------------------------------
