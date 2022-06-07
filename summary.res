@@ -1,4 +1,4 @@
-[2022-06-07 07:49:38] SUMMARY
+[2022-06-07 07:51:37] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.837
-		Maximum:                    0.895
-		Minimum:                    0.836
-		Variance:                   0.065922
-		Mean:                       0.864438
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.647059
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.4
-		Is falling:                 True
-		Current fall duration:      49
-		Trending downwards:         True
-		Average local maximum:      0.871941
-		Number of local maximums:   17
-		Average local minimum:      0.866
-		Number of local minimums:   15
-	Is init: True
+	None
 Wins: 4
-Losses: 586
-Total points: -310.2338988877293%
-Wallet: 445.5532866442561
+Losses: 587
+Total points: -310.7538988877293%
+Wallet: 443.236409553706
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SGBUSD
-	Altname: SGBUSD
-	Wsname: SGB/USD
-	Base:
-	 	Name: SGB
-		Altname: SGB
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 150
-	Data about this pair of assets (SGBUSD):
-		Current:                    0.0347
-		Maximum:                    0.0381
-		Minimum:                    0.0347
-		Variance:                   0.089239
-		Mean:                       0.036795
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.763158
-		Is ascending:               True
-		Current ascension duration: 13
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.257143
-		Is falling:                 True
-		Current fall duration:      42
-		Trending downwards:         True
-		Average local maximum:      0.036771
-		Number of local maximums:   38
-		Average local minimum:      0.036846
-		Number of local minimums:   35
-	Is init: True
+	None
 Wins: 27
-Losses: 362
-Total points: -174.62172547140761%
-Wallet: 1726.4168443247236
+Losses: 363
+Total points: -175.14172547140763%
+Wallet: 1717.439476734235
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Five Percent
