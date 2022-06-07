@@ -4646,3 +4646,7 @@ Random---Always now has $538.4742027961084
 Random---Always has sold ORCA for $0.818. Profit was -0.52%.
 Random---Always now has $535.6741369415687
 ---------------------------------------------------------------------------
+[2022-06-07 07:14:18] BUY
+Random---Always has bought BADGER for $5.628
+Random---Always now has $535.6741369415687
+---------------------------------------------------------------------------
