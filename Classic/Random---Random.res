@@ -2546,3 +2546,7 @@ Random---Random now has $2230.06187982866
 Random---Random has bought USDT for $0.9992
 Random---Random now has $2230.06187982866
 ---------------------------------------------------------------------------
+[2022-06-07 01:34:52] SOLD
+Random---Random has sold USDT for $0.9992. Profit was -0.4%.
+Random---Random now has $2221.1416323093454
+---------------------------------------------------------------------------
