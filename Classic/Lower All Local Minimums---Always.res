@@ -5062,3 +5062,7 @@ Lower All Local Minimums---Always now has $529.0989842680573
 Lower All Local Minimums---Always has sold SGB for $0.0325. Profit was -0.8267484662576559%.
 Lower All Local Minimums---Always now has $524.7246665306362
 ---------------------------------------------------------------------------
+[2022-06-07 10:40:37] BUY
+Lower All Local Minimums---Always has bought GST for $0.608
+Lower All Local Minimums---Always now has $524.7246665306362
+---------------------------------------------------------------------------
