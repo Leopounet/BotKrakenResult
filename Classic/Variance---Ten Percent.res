@@ -2,3 +2,7 @@
 Variance---Ten Percent has bought GST for $0.648
 Variance---Ten Percent now has $10000
 ---------------------------------------------------------------------------
+[2022-06-07 09:16:54] SOLD
+Variance---Ten Percent has sold GST for $0.893. Profit was 37.28864197530864%.
+Variance---Ten Percent now has $13728.864197530864
+---------------------------------------------------------------------------
