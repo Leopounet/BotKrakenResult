@@ -14,3 +14,7 @@ Mean---Twenty-four hours now has $10408.058711794163
 Mean---Twenty-four hours has sold PAXG for $1850.47. Profit was -0.3305004412632502%.
 Mean---Twenty-four hours now has $10373.660031824746
 ---------------------------------------------------------------------------
+[2022-06-07 16:28:10] BUY
+Mean---Twenty-four hours has bought XXBT for $29808.2
+Mean---Twenty-four hours now has $10373.660031824746
+---------------------------------------------------------------------------

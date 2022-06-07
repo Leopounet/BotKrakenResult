@@ -14,3 +14,7 @@ Lower All Local Minimums---Twenty-four hours now has $10022.563760904415
 Lower All Local Minimums---Twenty-four hours has sold SGB for $0.0345. Profit was -3.0623728813559254%.
 Lower All Local Minimums---Twenty-four hours now has $9715.635486273872
 ---------------------------------------------------------------------------
+[2022-06-07 16:28:10] BUY
+Lower All Local Minimums---Twenty-four hours has bought UST for $0.01453
+Lower All Local Minimums---Twenty-four hours now has $9715.635486273872
+---------------------------------------------------------------------------

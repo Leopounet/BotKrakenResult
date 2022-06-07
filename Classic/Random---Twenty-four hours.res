@@ -14,3 +14,7 @@ Random---Twenty-four hours now has $10299.50512490124
 Random---Twenty-four hours has sold SUPER for $0.188. Profit was -7.817830374753456%.
 Random---Twenty-four hours now has $9494.307284797422
 ---------------------------------------------------------------------------
+[2022-06-07 16:28:10] BUY
+Random---Twenty-four hours has bought ZEUR for $1.07
+Random---Twenty-four hours now has $9494.307284797422
+---------------------------------------------------------------------------

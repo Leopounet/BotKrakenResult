@@ -14,3 +14,7 @@ Random---Twenty-four hours or ten percent decreasing now has $10157.442669506565
 Random---Twenty-four hours or ten percent decreasing has sold UNI for $5.094. Profit was -3.8779965850882077%.
 Random---Twenty-four hours or ten percent decreasing now has $9763.537389650808
 ---------------------------------------------------------------------------
+[2022-06-07 16:28:10] BUY
+Random---Twenty-four hours or ten percent decreasing has bought WAVES for $7.6833
+Random---Twenty-four hours or ten percent decreasing now has $9763.537389650808
+---------------------------------------------------------------------------

@@ -14,3 +14,7 @@ Variance---Twenty-four hours now has $10040.592592592593
 Variance---Twenty-four hours has sold MULTI for $4.718. Profit was -4.528138351983726%.
 Variance---Twenty-four hours now has $9585.940668640971
 ---------------------------------------------------------------------------
+[2022-06-07 16:28:10] BUY
+Variance---Twenty-four hours has bought IDEX for $0.07302
+Variance---Twenty-four hours now has $9585.940668640971
+---------------------------------------------------------------------------
