@@ -4338,3 +4338,7 @@ Random---Always now has $655.5860358358968
 Random---Always has bought FLOW for $2.374
 Random---Always now has $655.5860358358968
 ---------------------------------------------------------------------------
+[2022-06-07 04:43:48] SOLD
+Random---Always has sold FLOW for $2.374. Profit was -0.52%.
+Random---Always now has $652.1769884495502
+---------------------------------------------------------------------------
