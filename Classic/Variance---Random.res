@@ -3246,3 +3246,7 @@ Variance---Random now has $1150.8403410308786
 Variance---Random has sold KINT for $3.86. Profit was -0.52%.
 Variance---Random now has $1144.855971257518
 ---------------------------------------------------------------------------
+[2022-06-07 09:58:42] BUY
+Variance---Random has bought IDEX for $0.14899
+Variance---Random now has $1144.855971257518
+---------------------------------------------------------------------------
