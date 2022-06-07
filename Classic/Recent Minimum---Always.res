@@ -4262,3 +4262,7 @@ Recent Minimum---Always now has $639.2791403028598
 Recent Minimum---Always has sold FXS for $5.447. Profit was -0.52%.
 Recent Minimum---Always now has $635.9548887732849
 ---------------------------------------------------------------------------
+[2022-06-07 04:06:47] BUY
+Recent Minimum---Always has bought ZAUD for $0.71895
+Recent Minimum---Always now has $635.9548887732849
+---------------------------------------------------------------------------

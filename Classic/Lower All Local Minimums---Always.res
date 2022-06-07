@@ -4262,3 +4262,7 @@ Lower All Local Minimums---Always now has $880.7933204736219
 Lower All Local Minimums---Always has sold LUNA for $7.249e-05. Profit was -0.22946319867182163%.
 Lower All Local Minimums---Always now has $878.7722239467753
 ---------------------------------------------------------------------------
+[2022-06-07 04:06:47] BUY
+Lower All Local Minimums---Always has bought ICP for $6.957
+Lower All Local Minimums---Always now has $878.7722239467753
+---------------------------------------------------------------------------
