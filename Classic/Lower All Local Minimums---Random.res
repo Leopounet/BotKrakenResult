@@ -2758,3 +2758,7 @@ Lower All Local Minimums---Random now has $2227.875486385203
 Lower All Local Minimums---Random has sold SGB for $0.0347. Profit was -0.8073563218390718%.
 Lower All Local Minimums---Random now has $2209.888592803169
 ---------------------------------------------------------------------------
+[2022-06-07 03:22:11] BUY
+Lower All Local Minimums---Random has bought ICP for $6.9
+Lower All Local Minimums---Random now has $2209.888592803169
+---------------------------------------------------------------------------
