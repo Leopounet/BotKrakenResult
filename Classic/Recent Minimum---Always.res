@@ -6290,3 +6290,7 @@ Recent Minimum---Always now has $187.15726083315988
 Recent Minimum---Always has bought AUDIO for $0.4109
 Recent Minimum---Always now has $187.15726083315988
 ---------------------------------------------------------------------------
+[2022-06-07 21:09:00] SOLD
+Recent Minimum---Always has sold AUDIO for $0.4109. Profit was -0.52%.
+Recent Minimum---Always now has $186.18404307682744
+---------------------------------------------------------------------------
