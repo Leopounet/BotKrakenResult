@@ -5742,3 +5742,7 @@ Variance---Always now has $105.14947628151377
 Variance---Always has sold IDEX for $0.07302. Profit was -0.52%.
 Variance---Always now has $104.6026990048499
 ---------------------------------------------------------------------------
+[2022-06-07 16:23:44] BUY
+Variance---Always has bought IDEX for $0.07302
+Variance---Always now has $104.6026990048499
+---------------------------------------------------------------------------
