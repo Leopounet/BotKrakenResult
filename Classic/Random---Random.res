@@ -3030,3 +3030,7 @@ Random---Random now has $1654.4489697079905
 Random---Random has sold KINT for $3.8. Profit was -0.52%.
 Random---Random now has $1645.845835065509
 ---------------------------------------------------------------------------
+[2022-06-07 07:41:48] BUY
+Random---Random has bought LUNA for $7.3e-05
+Random---Random now has $1645.845835065509
+---------------------------------------------------------------------------
