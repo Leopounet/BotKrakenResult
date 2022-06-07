@@ -10,3 +10,7 @@ Random---Twenty-four hours now has $10299.50512490124
 Random---Twenty-four hours has bought SUPER for $0.2028
 Random---Twenty-four hours now has $10299.50512490124
 ---------------------------------------------------------------------------
+[2022-06-07 16:26:02] SOLD
+Random---Twenty-four hours has sold SUPER for $0.188. Profit was -7.817830374753456%.
+Random---Twenty-four hours now has $9494.307284797422
+---------------------------------------------------------------------------

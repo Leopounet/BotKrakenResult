@@ -10,3 +10,7 @@ Mean---Twenty-four hours or ten percent decreasing now has $10408.058711794163
 Mean---Twenty-four hours or ten percent decreasing has bought PAXG for $1846.97
 Mean---Twenty-four hours or ten percent decreasing now has $10408.058711794163
 ---------------------------------------------------------------------------
+[2022-06-07 16:26:02] SOLD
+Mean---Twenty-four hours or ten percent decreasing has sold PAXG for $1850.47. Profit was -0.3305004412632502%.
+Mean---Twenty-four hours or ten percent decreasing now has $10373.660031824746
+---------------------------------------------------------------------------

@@ -10,3 +10,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought SGB for $0.0354
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $10022.563760904415
 ---------------------------------------------------------------------------
+[2022-06-07 16:26:02] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold SGB for $0.0345. Profit was -3.0623728813559254%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $9715.635486273872
+---------------------------------------------------------------------------
