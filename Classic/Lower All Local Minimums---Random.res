@@ -3382,3 +3382,7 @@ Lower All Local Minimums---Random now has $1426.040417486044
 Lower All Local Minimums---Random has sold AXS for $19.113. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1418.6250073151166
 ---------------------------------------------------------------------------
+[2022-06-07 11:18:51] BUY
+Lower All Local Minimums---Random has bought ICP for $6.869
+Lower All Local Minimums---Random now has $1418.6250073151166
+---------------------------------------------------------------------------
