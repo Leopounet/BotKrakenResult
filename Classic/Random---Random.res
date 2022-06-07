@@ -2662,3 +2662,7 @@ Random---Random now has $2081.915752296242
 Random---Random has sold PSTAKE for $0.2203. Profit was -0.52%.
 Random---Random now has $2071.0897903843015
 ---------------------------------------------------------------------------
+[2022-06-07 02:53:07] BUY
+Random---Random has bought WAVES for $8.275
+Random---Random now has $2071.0897903843015
+---------------------------------------------------------------------------
