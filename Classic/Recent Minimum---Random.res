@@ -4278,3 +4278,7 @@ Recent Minimum---Random now has $542.7476143811504
 Recent Minimum---Random has sold LDO for $1.068. Profit was -0.52%.
 Recent Minimum---Random now has $539.9253267863684
 ---------------------------------------------------------------------------
+[2022-06-07 21:06:50] BUY
+Recent Minimum---Random has bought AUDIO for $0.4109
+Recent Minimum---Random now has $539.9253267863684
+---------------------------------------------------------------------------

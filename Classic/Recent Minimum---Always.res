@@ -6286,3 +6286,7 @@ Recent Minimum---Always now has $188.13556577519088
 Recent Minimum---Always has sold LDO for $1.068. Profit was -0.52%.
 Recent Minimum---Always now has $187.15726083315988
 ---------------------------------------------------------------------------
+[2022-06-07 21:06:50] BUY
+Recent Minimum---Always has bought AUDIO for $0.4109
+Recent Minimum---Always now has $187.15726083315988
+---------------------------------------------------------------------------
