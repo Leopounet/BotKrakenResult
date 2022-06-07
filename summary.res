@@ -1,4 +1,4 @@
-[2022-06-07 13:31:47] SUMMARY
+[2022-06-07 13:33:46] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.821
-		Maximum:                    0.895
-		Minimum:                    0.821
-		Variance:                   0.082682
-		Mean:                       0.861118
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.333333
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.857143
-		Is falling:                 True
-		Current fall duration:      21
-		Trending downwards:         True
-		Average local maximum:      0.868778
-		Number of local maximums:   18
-		Average local minimum:      0.866286
-		Number of local minimums:   14
-	Is init: True
+	None
 Wins: 4
-Losses: 672
-Total points: -354.8325396644268%
-Wallet: 284.90884199791964
+Losses: 673
+Total points: -355.3525396644268%
+Wallet: 283.42731601953045
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,7 +23,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: GSTUSD
+	Altname: GSTUSD
+	Wsname: GST/USD
+	Base:
+	 	Name: GST
+		Altname: GST
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1
+	Data about this pair of assets (GSTUSD):
+		Current:                    0.593
+		Maximum:                    0.728
+		Minimum:                    0.592
+		Variance:                   0.186813
+		Mean:                       0.635578
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.923077
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.078947
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      0.633462
+		Number of local maximums:   39
+		Average local minimum:      0.641105
+		Number of local minimums:   38
+	Is init: True
 Wins: 33
 Losses: 413
 Total points: -206.2235841821153%
