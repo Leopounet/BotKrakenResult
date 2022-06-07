@@ -3374,3 +3374,7 @@ Lower All Local Minimums---Random now has $1426.4426275383992
 Lower All Local Minimums---Random has sold ENJ for $0.613. Profit was -0.028196721311481543%.
 Lower All Local Minimums---Random now has $1426.040417486044
 ---------------------------------------------------------------------------
+[2022-06-07 11:14:50] BUY
+Lower All Local Minimums---Random has bought AXS for $19.113
+Lower All Local Minimums---Random now has $1426.040417486044
+---------------------------------------------------------------------------
