@@ -6434,3 +6434,7 @@ Random---Always now has $179.2484472688619
 Random---Always has bought SPELL for $0.00127
 Random---Always now has $179.2484472688619
 ---------------------------------------------------------------------------
+[2022-06-07 22:21:54] SOLD
+Random---Always has sold SPELL for $0.00127. Profit was -0.52%.
+Random---Always now has $178.3163553430638
+---------------------------------------------------------------------------
