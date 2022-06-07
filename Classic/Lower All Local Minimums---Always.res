@@ -5118,3 +5118,7 @@ Lower All Local Minimums---Always now has $512.5566315604498
 Lower All Local Minimums---Always has sold AXS for $19.16. Profit was -0.6867361400583545%.
 Lower All Local Minimums---Always now has $509.03671993325844
 ---------------------------------------------------------------------------
+[2022-06-07 11:08:57] BUY
+Lower All Local Minimums---Always has bought ENJ for $0.61
+Lower All Local Minimums---Always now has $509.03671993325844
+---------------------------------------------------------------------------

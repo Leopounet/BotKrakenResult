@@ -3366,3 +3366,7 @@ Lower All Local Minimums---Random now has $1433.8989018279042
 Lower All Local Minimums---Random has sold SGB for $0.0327. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1426.4426275383992
 ---------------------------------------------------------------------------
+[2022-06-07 11:08:57] BUY
+Lower All Local Minimums---Random has bought ENJ for $0.61
+Lower All Local Minimums---Random now has $1426.4426275383992
+---------------------------------------------------------------------------
