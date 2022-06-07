@@ -4766,3 +4766,7 @@ Recent Minimum---Always now has $461.40842264966335
 Recent Minimum---Always has sold BNC for $0.332. Profit was -0.52%.
 Recent Minimum---Always now has $459.0090988518851
 ---------------------------------------------------------------------------
+[2022-06-07 08:13:25] BUY
+Recent Minimum---Always has bought BNC for $0.332
+Recent Minimum---Always now has $459.0090988518851
+---------------------------------------------------------------------------
