@@ -4974,3 +4974,7 @@ Variance---Always now has $407.76557946149586
 Variance---Always has sold KINT for $3.86. Profit was -0.52%.
 Variance---Always now has $405.64519844829607
 ---------------------------------------------------------------------------
+[2022-06-07 09:56:44] BUY
+Variance---Always has bought IDEX for $0.14899
+Variance---Always now has $405.64519844829607
+---------------------------------------------------------------------------

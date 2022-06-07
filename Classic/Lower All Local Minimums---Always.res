@@ -4974,3 +4974,7 @@ Lower All Local Minimums---Always now has $552.7647311022437
 Lower All Local Minimums---Always has sold SGB for $0.0344. Profit was -0.52%.
 Lower All Local Minimums---Always now has $549.890354500512
 ---------------------------------------------------------------------------
+[2022-06-07 09:56:44] BUY
+Lower All Local Minimums---Always has bought SGB for $0.0344
+Lower All Local Minimums---Always now has $549.890354500512
+---------------------------------------------------------------------------
