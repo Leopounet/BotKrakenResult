@@ -4790,3 +4790,7 @@ Recent Minimum---Always now has $454.24781582985844
 Recent Minimum---Always has sold ALCX for $29.63. Profit was -0.52%.
 Recent Minimum---Always now has $451.8857271875432
 ---------------------------------------------------------------------------
+[2022-06-07 08:25:14] BUY
+Recent Minimum---Always has bought AAVE for $99.13
+Recent Minimum---Always now has $451.8857271875432
+---------------------------------------------------------------------------
