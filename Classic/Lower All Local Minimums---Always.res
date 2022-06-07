@@ -6090,3 +6090,7 @@ Lower All Local Minimums---Always now has $325.3726869394843
 Lower All Local Minimums---Always has bought GST for $0.583
 Lower All Local Minimums---Always now has $325.3726869394843
 ---------------------------------------------------------------------------
+[2022-06-07 19:23:40] SOLD
+Lower All Local Minimums---Always has sold GST for $0.583. Profit was -0.52%.
+Lower All Local Minimums---Always now has $323.680748967399
+---------------------------------------------------------------------------
