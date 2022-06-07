@@ -4918,3 +4918,7 @@ Random---Always now has $456.8548588235449
 Random---Always has sold TRIBE for $0.2241. Profit was -0.52%.
 Random---Always now has $454.47921355766243
 ---------------------------------------------------------------------------
+[2022-06-07 09:28:55] BUY
+Random---Always has bought BADGER for $5.64
+Random---Always now has $454.47921355766243
+---------------------------------------------------------------------------
