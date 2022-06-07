@@ -4742,3 +4742,7 @@ Lower All Local Minimums---Always now has $628.7223908282344
 Lower All Local Minimums---Always has sold ZGBP for $1.24798. Profit was -0.40080128847185226%.
 Lower All Local Minimums---Always now has $626.2024633848838
 ---------------------------------------------------------------------------
+[2022-06-07 08:01:32] BUY
+Lower All Local Minimums---Always has bought GST for $0.595
+Lower All Local Minimums---Always now has $626.2024633848838
+---------------------------------------------------------------------------
