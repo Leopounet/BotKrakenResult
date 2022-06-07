@@ -4758,3 +4758,7 @@ Recent Minimum---Always now has $463.8202881480331
 Recent Minimum---Always has sold 1INCH for $0.837. Profit was -0.52%.
 Recent Minimum---Always now has $461.40842264966335
 ---------------------------------------------------------------------------
+[2022-06-07 08:09:29] BUY
+Recent Minimum---Always has bought BNC for $0.332
+Recent Minimum---Always now has $461.40842264966335
+---------------------------------------------------------------------------
