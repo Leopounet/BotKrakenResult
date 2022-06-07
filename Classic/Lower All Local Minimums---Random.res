@@ -3246,3 +3246,7 @@ Lower All Local Minimums---Random now has $1609.034573900986
 Lower All Local Minimums---Random has sold SGB for $0.0345. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1600.667594116701
 ---------------------------------------------------------------------------
+[2022-06-07 09:32:49] BUY
+Lower All Local Minimums---Random has bought SGB for $0.0345
+Lower All Local Minimums---Random now has $1600.667594116701
+---------------------------------------------------------------------------

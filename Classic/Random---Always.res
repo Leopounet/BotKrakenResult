@@ -4926,3 +4926,7 @@ Random---Always now has $454.47921355766243
 Random---Always has sold BADGER for $5.64. Profit was -0.52%.
 Random---Always now has $452.11592164716257
 ---------------------------------------------------------------------------
+[2022-06-07 09:32:49] BUY
+Random---Always has bought AAVE for $98.73
+Random---Always now has $452.11592164716257
+---------------------------------------------------------------------------
