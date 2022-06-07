@@ -4922,3 +4922,7 @@ Random---Always now has $454.47921355766243
 Random---Always has bought BADGER for $5.64
 Random---Always now has $454.47921355766243
 ---------------------------------------------------------------------------
+[2022-06-07 09:30:52] SOLD
+Random---Always has sold BADGER for $5.64. Profit was -0.52%.
+Random---Always now has $452.11592164716257
+---------------------------------------------------------------------------
