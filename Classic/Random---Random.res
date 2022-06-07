@@ -3802,3 +3802,7 @@ Random---Random now has $999.7289511601379
 Random---Random has bought MSOL for $40.97
 Random---Random now has $999.7289511601379
 ---------------------------------------------------------------------------
+[2022-06-07 16:50:59] SOLD
+Random---Random has sold MSOL for $40.97. Profit was -0.52%.
+Random---Random now has $994.5303606141051
+---------------------------------------------------------------------------
