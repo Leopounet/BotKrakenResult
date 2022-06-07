@@ -6278,3 +6278,7 @@ Recent Minimum---Always now has $189.1189844945626
 Recent Minimum---Always has sold 1INCH for $0.856. Profit was -0.52%.
 Recent Minimum---Always now has $188.13556577519088
 ---------------------------------------------------------------------------
+[2022-06-07 21:02:45] BUY
+Recent Minimum---Always has bought LDO for $1.068
+Recent Minimum---Always now has $188.13556577519088
+---------------------------------------------------------------------------
