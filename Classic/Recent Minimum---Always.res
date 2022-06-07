@@ -5774,3 +5774,7 @@ Recent Minimum---Always now has $239.13677226228037
 Recent Minimum---Always has sold AAVE for $97.84. Profit was -0.52%.
 Recent Minimum---Always now has $237.89326104651653
 ---------------------------------------------------------------------------
+[2022-06-07 16:40:48] BUY
+Recent Minimum---Always has bought COMP for $56.53
+Recent Minimum---Always now has $237.89326104651653
+---------------------------------------------------------------------------
