@@ -2610,3 +2610,7 @@ Variance---Random now has $1476.5097678733644
 Variance---Random has bought MULTI for $4.775
 Variance---Random now has $1476.5097678733644
 ---------------------------------------------------------------------------
+[2022-06-07 02:13:59] SOLD
+Variance---Random has sold MULTI for $4.775. Profit was -0.52%.
+Variance---Random now has $1468.831917080423
+---------------------------------------------------------------------------
