@@ -3938,3 +3938,7 @@ Lower All Local Minimums---Always now has $1083.7300668566998
 Lower All Local Minimums---Always has bought ICP for $6.978
 Lower All Local Minimums---Always now has $1083.7300668566998
 ---------------------------------------------------------------------------
+[2022-06-07 01:29:02] SOLD
+Lower All Local Minimums---Always has sold ICP for $6.951. Profit was -0.9069303525365409%.
+Lower All Local Minimums---Always now has $1073.901389940812
+---------------------------------------------------------------------------

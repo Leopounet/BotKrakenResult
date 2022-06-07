@@ -1,4 +1,4 @@
-[2022-06-07 01:27:05] SUMMARY
+[2022-06-07 01:29:02] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.846
-		Maximum:                    0.895
-		Minimum:                    0.846
-		Variance:                   0.054749
-		Mean:                       0.86655
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.368421
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.8
-		Is falling:                 True
-		Current fall duration:      15
-		Trending downwards:         True
-		Average local maximum:      0.871211
-		Number of local maximums:   19
-		Average local minimum:      0.866467
-		Number of local minimums:   15
-	Is init: True
+	None
 Wins: 4
-Losses: 488
-Total points: -259.03974344375314%
-Wallet: 744.4351866627928
+Losses: 489
+Total points: -259.5597434437531%
+Wallet: 740.5641236921463
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ICPUSD
-	Altname: ICPUSD
-	Wsname: ICP/USD
-	Base:
-	 	Name: ICP
-		Altname: ICP
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.25
-	Data about this pair of assets (ICPUSD):
-		Current:                    6.978
-		Maximum:                    7.998
-		Minimum:                    6.978
-		Variance:                   0.127532
-		Mean:                       7.578068
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      7.598556
-		Number of local maximums:   36
-		Average local minimum:      7.585861
-		Number of local minimums:   36
-	Is init: True
+	None
 Wins: 18
-Losses: 305
-Total points: -136.84691318025497%
-Wallet: 2523.6463052039585
+Losses: 306
+Total points: -137.7538435327915%
+Wallet: 2500.758590871397
 ---------------------------------------------------------------------------
 Best score: 
 Name: Recent Minimum---Ten Percent
