@@ -4490,3 +4490,7 @@ Random---Always now has $591.7455974848825
 Random---Always has bought BAND for $1.582
 Random---Always now has $591.7455974848825
 ---------------------------------------------------------------------------
+[2022-06-07 05:57:51] SOLD
+Random---Always has sold BAND for $1.582. Profit was -0.52%.
+Random---Always now has $588.6685203779612
+---------------------------------------------------------------------------
