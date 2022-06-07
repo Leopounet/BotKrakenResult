@@ -1,4 +1,4 @@
-[2022-06-07 13:54:57] SUMMARY
+[2022-06-07 13:56:56] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.821
+		Maximum:                    0.895
+		Minimum:                    0.821
+		Variance:                   0.082682
+		Mean:                       0.860889
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.333333
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.857143
+		Is falling:                 True
+		Current fall duration:      26
+		Trending downwards:         True
+		Average local maximum:      0.868778
+		Number of local maximums:   18
+		Average local minimum:      0.866286
+		Number of local minimums:   14
+	Is init: True
 Wins: 4
 Losses: 678
 Total points: -357.9525396644267%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: USTUSD
-	Altname: USTUSD
-	Wsname: UST/USD
-	Base:
-	 	Name: UST
-		Altname: UST
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 100
-	Data about this pair of assets (USTUSD):
-		Current:                    0.01441
-		Maximum:                    0.01792
-		Minimum:                    0.0141
-		Variance:                   0.21317
-		Mean:                       0.015689
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.071429
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.210526
-		Is falling:                 True
-		Current fall duration:      5
-		Trending downwards:         True
-		Average local maximum:      0.015748
-		Number of local maximums:   28
-		Average local minimum:      0.015645
-		Number of local minimums:   38
-	Is init: True
-Wins: 33
+	None
+Wins: 34
 Losses: 415
-Total points: -206.80631605395342%
-Wallet: 1247.558723215656
+Total points: -206.02657975971331%
+Wallet: 1257.286391372527
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
