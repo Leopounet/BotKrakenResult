@@ -2894,3 +2894,7 @@ Recent Minimum---Random now has $1420.5265111764315
 Recent Minimum---Random has sold 1INCH for $0.846. Profit was -0.52%.
 Recent Minimum---Random now has $1413.1397733183142
 ---------------------------------------------------------------------------
+[2022-06-07 03:55:09] BUY
+Recent Minimum---Random has bought FXS for $5.447
+Recent Minimum---Random now has $1413.1397733183142
+---------------------------------------------------------------------------
