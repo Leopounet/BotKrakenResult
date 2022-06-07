@@ -3414,3 +3414,7 @@ Lower All Local Minimums---Random now has $1389.6955806435465
 Lower All Local Minimums---Random has sold KEEP for $0.23439. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1382.4691636242
 ---------------------------------------------------------------------------
+[2022-06-07 11:46:56] BUY
+Lower All Local Minimums---Random has bought ICP for $6.81
+Lower All Local Minimums---Random now has $1382.4691636242
+---------------------------------------------------------------------------
