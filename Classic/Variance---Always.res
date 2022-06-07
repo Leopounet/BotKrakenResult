@@ -4626,3 +4626,7 @@ Variance---Always now has $508.90850980090903
 Variance---Always has bought KINT for $3.8
 Variance---Always now has $508.90850980090903
 ---------------------------------------------------------------------------
+[2022-06-07 07:04:26] SOLD
+Variance---Always has sold KINT for $3.8. Profit was -0.52%.
+Variance---Always now has $506.2621855499443
+---------------------------------------------------------------------------
