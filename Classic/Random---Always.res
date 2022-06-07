@@ -3946,3 +3946,7 @@ Random---Always now has $847.1270101485321
 Random---Always has bought DYDX for $1.699
 Random---Always now has $847.1270101485321
 ---------------------------------------------------------------------------
+[2022-06-07 01:32:55] SOLD
+Random---Always has sold DYDX for $1.699. Profit was -0.52%.
+Random---Always now has $842.7219496957598
+---------------------------------------------------------------------------
