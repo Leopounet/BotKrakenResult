@@ -10,3 +10,7 @@ Variance---Five Percent now has $10765.9012345679
 Variance---Five Percent has bought MULTI for $5.019
 Variance---Five Percent now has $10765.9012345679
 ---------------------------------------------------------------------------
+[2022-06-07 04:57:26] SOLD
+Variance---Five Percent has sold MULTI for $5.444. Profit was 7.947822275353655%.
+Variance---Five Percent now has $11621.555931031462
+---------------------------------------------------------------------------
