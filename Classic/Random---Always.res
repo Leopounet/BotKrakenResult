@@ -5294,3 +5294,7 @@ Random---Always now has $360.50609612198434
 Random---Always has sold ALICE for $2.699. Profit was -0.52%.
 Random---Always now has $358.63146442215003
 ---------------------------------------------------------------------------
+[2022-06-07 12:36:08] BUY
+Random---Always has bought PSTAKE for $0.2188
+Random---Always now has $358.63146442215003
+---------------------------------------------------------------------------
