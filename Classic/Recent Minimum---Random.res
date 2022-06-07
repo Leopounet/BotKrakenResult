@@ -4314,3 +4314,7 @@ Recent Minimum---Random now has $528.7821741977209
 Recent Minimum---Random has bought AIR for $0.02621
 Recent Minimum---Random now has $528.7821741977209
 ---------------------------------------------------------------------------
+[2022-06-07 21:37:44] SOLD
+Recent Minimum---Random has sold AIR for $0.02621. Profit was -0.52%.
+Recent Minimum---Random now has $526.0325068918928
+---------------------------------------------------------------------------
