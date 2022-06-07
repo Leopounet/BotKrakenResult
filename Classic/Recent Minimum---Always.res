@@ -4714,3 +4714,7 @@ Recent Minimum---Always now has $476.0700477013313
 Recent Minimum---Always has bought 1INCH for $0.837
 Recent Minimum---Always now has $476.0700477013313
 ---------------------------------------------------------------------------
+[2022-06-07 07:47:41] SOLD
+Recent Minimum---Always has sold 1INCH for $0.837. Profit was -0.52%.
+Recent Minimum---Always now has $473.5944834532844
+---------------------------------------------------------------------------

@@ -3110,3 +3110,7 @@ Lower All Local Minimums---Random now has $1722.7149354891346
 Lower All Local Minimums---Random has sold KEEP for $0.23714. Profit was 0.21488806762669332%.
 Lower All Local Minimums---Random now has $1726.4168443247236
 ---------------------------------------------------------------------------
+[2022-06-07 07:47:41] BUY
+Lower All Local Minimums---Random has bought SGB for $0.0347
+Lower All Local Minimums---Random now has $1726.4168443247236
+---------------------------------------------------------------------------
