@@ -5022,3 +5022,7 @@ Lower All Local Minimums---Always now has $539.041994935723
 Lower All Local Minimums---Always has sold SGB for $0.0319. Profit was -0.20553459119497974%.
 Lower All Local Minimums---Always now has $537.9340771750626
 ---------------------------------------------------------------------------
+[2022-06-07 10:20:42] BUY
+Lower All Local Minimums---Always has bought UST for $0.0145
+Lower All Local Minimums---Always now has $537.9340771750626
+---------------------------------------------------------------------------
