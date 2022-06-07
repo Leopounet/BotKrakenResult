@@ -5122,3 +5122,7 @@ Lower All Local Minimums---Always now has $509.03671993325844
 Lower All Local Minimums---Always has bought ENJ for $0.61
 Lower All Local Minimums---Always now has $509.03671993325844
 ---------------------------------------------------------------------------
+[2022-06-07 11:10:56] SOLD
+Lower All Local Minimums---Always has sold ENJ for $0.61. Profit was -0.52%.
+Lower All Local Minimums---Always now has $506.3897289896055
+---------------------------------------------------------------------------
