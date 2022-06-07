@@ -4166,3 +4166,7 @@ Lower All Local Minimums---Always now has $938.7095396852851
 Lower All Local Minimums---Always has sold SGB for $0.0347. Profit was -0.52%.
 Lower All Local Minimums---Always now has $933.8282500789217
 ---------------------------------------------------------------------------
+[2022-06-07 03:20:13] BUY
+Lower All Local Minimums---Always has bought ICP for $6.873
+Lower All Local Minimums---Always now has $933.8282500789217
+---------------------------------------------------------------------------
