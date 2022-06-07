@@ -2686,3 +2686,7 @@ Random---Random now has $2057.6236561707105
 Random---Random has sold ZAUD for $0.71728. Profit was -0.4%.
 Random---Random now has $2049.393161546028
 ---------------------------------------------------------------------------
+[2022-06-07 03:08:37] BUY
+Random---Random has bought BADGER for $5.675
+Random---Random now has $2049.393161546028
+---------------------------------------------------------------------------
