@@ -1,4 +1,4 @@
-[2022-06-07 07:16:14] SUMMARY
+[2022-06-07 07:18:12] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.837
+		Maximum:                    0.895
+		Minimum:                    0.836
+		Variance:                   0.065922
+		Mean:                       0.864646
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.647059
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.4
+		Is falling:                 True
+		Current fall duration:      43
+		Trending downwards:         True
+		Average local maximum:      0.871941
+		Number of local maximums:   17
+		Average local minimum:      0.866
+		Number of local minimums:   15
+	Is init: True
 Wins: 4
 Losses: 578
 Total points: -306.07389888772946%
@@ -23,48 +60,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ICPUSD
-	Altname: ICPUSD
-	Wsname: ICP/USD
-	Base:
-	 	Name: ICP
-		Altname: ICP
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.25
-	Data about this pair of assets (ICPUSD):
-		Current:                    6.876
-		Maximum:                    7.998
-		Minimum:                    6.776
-		Variance:                   0.152788
-		Mean:                       7.502333
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      7.5088
-		Number of local maximums:   35
-		Average local minimum:      7.558943
-		Number of local minimums:   35
-	Is init: True
+	None
 Wins: 26
-Losses: 357
-Total points: -171.65585600469436%
-Wallet: 1778.5976431325828
+Losses: 358
+Total points: -172.17585600469437%
+Wallet: 1769.3489353882933
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Five Percent

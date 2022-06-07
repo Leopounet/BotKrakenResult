@@ -4654,3 +4654,7 @@ Random---Always now has $535.6741369415687
 Random---Always has sold BADGER for $5.628. Profit was -0.52%.
 Random---Always now has $532.8886314294725
 ---------------------------------------------------------------------------
+[2022-06-07 07:18:12] BUY
+Random---Always has bought PSTAKE for $0.2188
+Random---Always now has $532.8886314294725
+---------------------------------------------------------------------------
