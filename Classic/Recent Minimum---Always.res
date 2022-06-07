@@ -4234,3 +4234,7 @@ Recent Minimum---Always now has $649.3565174795643
 Recent Minimum---Always has bought FXS for $5.447
 Recent Minimum---Always now has $649.3565174795643
 ---------------------------------------------------------------------------
+[2022-06-07 03:53:12] SOLD
+Recent Minimum---Always has sold FXS for $5.447. Profit was -0.52%.
+Recent Minimum---Always now has $645.9798635886706
+---------------------------------------------------------------------------
