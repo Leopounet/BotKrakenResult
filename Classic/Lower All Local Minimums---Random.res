@@ -2854,3 +2854,7 @@ Lower All Local Minimums---Random now has $2052.6800729032216
 Lower All Local Minimums---Random has sold ICP for $6.861. Profit was -0.52%.
 Lower All Local Minimums---Random now has $2042.0061365241247
 ---------------------------------------------------------------------------
+[2022-06-07 04:51:32] BUY
+Lower All Local Minimums---Random has bought LUNA for $7.25e-05
+Lower All Local Minimums---Random now has $2042.0061365241247
+---------------------------------------------------------------------------
