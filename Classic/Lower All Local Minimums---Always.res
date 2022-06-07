@@ -6134,3 +6134,7 @@ Lower All Local Minimums---Always now has $319.91386188195753
 Lower All Local Minimums---Always has sold LUNA for $7.103e-05. Profit was -0.2376337710009797%.
 Lower All Local Minimums---Always now has $319.1536385080126
 ---------------------------------------------------------------------------
+[2022-06-07 19:46:42] BUY
+Lower All Local Minimums---Always has bought GST for $0.585
+Lower All Local Minimums---Always now has $319.1536385080126
+---------------------------------------------------------------------------
