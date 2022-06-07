@@ -6046,3 +6046,7 @@ Lower All Local Minimums---Always now has $335.91881582991783
 Lower All Local Minimums---Always has sold LUNA for $7.092e-05. Profit was -0.5763697857948076%.
 Lower All Local Minimums---Always now has $333.9826812706745
 ---------------------------------------------------------------------------
+[2022-06-07 19:00:44] BUY
+Lower All Local Minimums---Always has bought UST for $0.01446
+Lower All Local Minimums---Always now has $333.9826812706745
+---------------------------------------------------------------------------
