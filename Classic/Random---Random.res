@@ -4290,3 +4290,7 @@ Random---Random now has $775.3220787350756
 Random---Random has bought ATLAS for $0.00819
 Random---Random now has $775.3220787350756
 ---------------------------------------------------------------------------
+[2022-06-07 22:53:54] SOLD
+Random---Random has sold ATLAS for $0.00819. Profit was -0.52%.
+Random---Random now has $771.2904039256532
+---------------------------------------------------------------------------
