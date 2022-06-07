@@ -3262,3 +3262,7 @@ Recent Minimum---Random now has $1110.8247874640997
 Recent Minimum---Random has sold ALCX for $29.63. Profit was -0.52%.
 Recent Minimum---Random now has $1105.0484985692865
 ---------------------------------------------------------------------------
+[2022-06-07 08:27:11] BUY
+Recent Minimum---Random has bought AAVE for $99.13
+Recent Minimum---Random now has $1105.0484985692865
+---------------------------------------------------------------------------
