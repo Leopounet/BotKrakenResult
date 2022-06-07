@@ -14,3 +14,7 @@ Variance---Twenty-four hours or ten percent now has $10040.592592592593
 Variance---Twenty-four hours or ten percent has sold MULTI for $5.444. Profit was 10.242970498474056%.
 Variance---Twenty-four hours or ten percent now has $11069.047529723824
 ---------------------------------------------------------------------------
+[2022-06-07 04:59:23] BUY
+Variance---Twenty-four hours or ten percent has bought MULTI for $5.444
+Variance---Twenty-four hours or ten percent now has $11069.047529723824
+---------------------------------------------------------------------------
