@@ -3378,3 +3378,7 @@ Lower All Local Minimums---Random now has $1426.040417486044
 Lower All Local Minimums---Random has bought AXS for $19.113
 Lower All Local Minimums---Random now has $1426.040417486044
 ---------------------------------------------------------------------------
+[2022-06-07 11:16:48] SOLD
+Lower All Local Minimums---Random has sold AXS for $19.113. Profit was -0.52%.
+Lower All Local Minimums---Random now has $1418.6250073151166
+---------------------------------------------------------------------------
