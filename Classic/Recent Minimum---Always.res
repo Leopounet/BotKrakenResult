@@ -4230,3 +4230,7 @@ Recent Minimum---Always now has $652.7508217526782
 Recent Minimum---Always has sold 1INCH for $0.846. Profit was -0.52%.
 Recent Minimum---Always now has $649.3565174795643
 ---------------------------------------------------------------------------
+[2022-06-07 03:51:16] BUY
+Recent Minimum---Always has bought FXS for $5.447
+Recent Minimum---Always now has $649.3565174795643
+---------------------------------------------------------------------------
