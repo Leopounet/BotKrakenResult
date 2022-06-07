@@ -5114,3 +5114,7 @@ Lower All Local Minimums---Always now has $512.5566315604498
 Lower All Local Minimums---Always has bought AXS for $19.192
 Lower All Local Minimums---Always now has $512.5566315604498
 ---------------------------------------------------------------------------
+[2022-06-07 11:06:58] SOLD
+Lower All Local Minimums---Always has sold AXS for $19.16. Profit was -0.6867361400583545%.
+Lower All Local Minimums---Always now has $509.03671993325844
+---------------------------------------------------------------------------
