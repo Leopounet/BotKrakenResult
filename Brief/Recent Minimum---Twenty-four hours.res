@@ -22,3 +22,9 @@ Recent Minimum---Twenty-four hours has 1 losses
 Recent Minimum---Twenty-four hours has -2.6442514064862013 points
 Recent Minimum---Twenty-four hours now has $9720.596436747861
 ---------------------------------------------------------------------------
+[2022-06-07 16:30:25] BRIEF
+Recent Minimum---Twenty-four hours has 1 wins
+Recent Minimum---Twenty-four hours has 1 losses
+Recent Minimum---Twenty-four hours has -2.6442514064862013 points
+Recent Minimum---Twenty-four hours now has $9720.596436747861
+---------------------------------------------------------------------------
