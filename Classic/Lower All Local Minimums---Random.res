@@ -2826,3 +2826,7 @@ Lower All Local Minimums---Random now has $2111.9487748297515
 Lower All Local Minimums---Random has bought ICP for $6.931
 Lower All Local Minimums---Random now has $2111.9487748297515
 ---------------------------------------------------------------------------
+[2022-06-07 04:26:11] SOLD
+Lower All Local Minimums---Random has sold ICP for $6.931. Profit was -0.52%.
+Lower All Local Minimums---Random now has $2100.966641200637
+---------------------------------------------------------------------------
