@@ -6122,3 +6122,7 @@ Lower All Local Minimums---Always now has $319.42678016193156
 Lower All Local Minimums---Always has bought UST for $0.01448
 Lower All Local Minimums---Always now has $319.42678016193156
 ---------------------------------------------------------------------------
+[2022-06-07 19:40:21] SOLD
+Lower All Local Minimums---Always has sold UST for $0.01456. Profit was 0.15248618784531354%.
+Lower All Local Minimums---Always now has $319.91386188195753
+---------------------------------------------------------------------------
