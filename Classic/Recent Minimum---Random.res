@@ -2906,3 +2906,7 @@ Recent Minimum---Random now has $1405.7914464970588
 Recent Minimum---Random has bought FXS for $5.447
 Recent Minimum---Random now has $1405.7914464970588
 ---------------------------------------------------------------------------
+[2022-06-07 04:04:49] SOLD
+Recent Minimum---Random has sold FXS for $5.447. Profit was -0.52%.
+Recent Minimum---Random now has $1398.4813309752742
+---------------------------------------------------------------------------
