@@ -1,4 +1,4 @@
-[2022-06-07 02:29:41] SUMMARY
+[2022-06-07 02:31:39] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.836
-		Maximum:                    0.895
-		Minimum:                    0.836
-		Variance:                   0.065922
-		Mean:                       0.866289
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.470588
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.642857
-		Is falling:                 True
-		Current fall duration:      27
-		Trending downwards:         True
-		Average local maximum:      0.872882
-		Number of local maximums:   17
-		Average local minimum:      0.867286
-		Number of local minimums:   14
-	Is init: True
+	None
 Wins: 4
-Losses: 504
-Total points: -267.4792177567756%
-Wallet: 684.0335795039928
+Losses: 505
+Total points: -267.9992177567756%
+Wallet: 680.476604890572
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Random
