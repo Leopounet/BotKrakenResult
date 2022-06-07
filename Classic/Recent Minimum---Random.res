@@ -3242,3 +3242,7 @@ Recent Minimum---Random now has $1122.4681042103496
 Recent Minimum---Random has bought BNC for $0.332
 Recent Minimum---Random now has $1122.4681042103496
 ---------------------------------------------------------------------------
+[2022-06-07 08:17:23] SOLD
+Recent Minimum---Random has sold BNC for $0.332. Profit was -0.52%.
+Recent Minimum---Random now has $1116.6312700684557
+---------------------------------------------------------------------------

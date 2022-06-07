@@ -4774,3 +4774,7 @@ Recent Minimum---Always now has $459.0090988518851
 Recent Minimum---Always has sold BNC for $0.332. Profit was -0.52%.
 Recent Minimum---Always now has $456.6222515378553
 ---------------------------------------------------------------------------
+[2022-06-07 08:17:23] BUY
+Recent Minimum---Always has bought ALCX for $29.63
+Recent Minimum---Always now has $456.6222515378553
+---------------------------------------------------------------------------
