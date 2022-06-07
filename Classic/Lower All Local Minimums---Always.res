@@ -4430,3 +4430,7 @@ Lower All Local Minimums---Always now has $769.2735724640803
 Lower All Local Minimums---Always has sold LUNA for $7.102e-05. Profit was -1.0243429532081811%.
 Lower All Local Minimums---Always now has $761.3935728336517
 ---------------------------------------------------------------------------
+[2022-06-07 05:28:32] BUY
+Lower All Local Minimums---Always has bought OGN for $0.2539
+Lower All Local Minimums---Always now has $761.3935728336517
+---------------------------------------------------------------------------
