@@ -14,3 +14,7 @@ Mean---Twenty-four hours or ten percent now has $11230.403729925747
 Mean---Twenty-four hours or ten percent has sold LUNA2 for $4.30381. Profit was -14.80432014945139%.
 Mean---Twenty-four hours or ten percent now has $9567.818807671609
 ---------------------------------------------------------------------------
+[2022-06-07 04:12:36] BUY
+Mean---Twenty-four hours or ten percent has bought WBTC for $29428.0
+Mean---Twenty-four hours or ten percent now has $9567.818807671609
+---------------------------------------------------------------------------
