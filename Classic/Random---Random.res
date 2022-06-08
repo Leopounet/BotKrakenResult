@@ -5346,3 +5346,7 @@ Random---Random now has $376.4059383831637
 Random---Random has bought AAVE for $98.4
 Random---Random now has $376.4059383831637
 ---------------------------------------------------------------------------
+[2022-06-08 11:21:49] SOLD
+Random---Random has sold AAVE for $98.4. Profit was -0.52%.
+Random---Random now has $374.44862750357123
+---------------------------------------------------------------------------
