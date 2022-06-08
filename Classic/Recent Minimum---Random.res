@@ -5910,3 +5910,7 @@ Recent Minimum---Random now has $170.48690532517375
 Recent Minimum---Random has sold 1INCH for $0.829. Profit was -0.52%.
 Recent Minimum---Random now has $169.60037341748284
 ---------------------------------------------------------------------------
+[2022-06-08 18:30:21] BUY
+Recent Minimum---Random has bought SBR for $0.0076
+Recent Minimum---Random now has $169.60037341748284
+---------------------------------------------------------------------------

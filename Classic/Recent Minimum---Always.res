@@ -8854,3 +8854,7 @@ Recent Minimum---Always now has $35.242480090337985
 Recent Minimum---Always has sold 1INCH for $0.829. Profit was -0.52%.
 Recent Minimum---Always now has $35.05921919386823
 ---------------------------------------------------------------------------
+[2022-06-08 18:30:21] BUY
+Recent Minimum---Always has bought SBR for $0.0076
+Recent Minimum---Always now has $35.05921919386823
+---------------------------------------------------------------------------
