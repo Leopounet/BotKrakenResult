@@ -9390,3 +9390,7 @@ Lower All Local Minimums---Always now has $57.914632571134966
 Lower All Local Minimums---Always has sold KIN for $1.378e-05. Profit was -0.52%.
 Lower All Local Minimums---Always now has $57.61347648176506
 ---------------------------------------------------------------------------
+[2022-06-08 23:02:40] BUY
+Lower All Local Minimums---Always has bought ASTR for $0.0591
+Lower All Local Minimums---Always now has $57.61347648176506
+---------------------------------------------------------------------------
