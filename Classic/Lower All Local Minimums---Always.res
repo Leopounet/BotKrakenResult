@@ -7586,3 +7586,7 @@ Lower All Local Minimums---Always now has $145.6323130609492
 Lower All Local Minimums---Always has bought MIR for $0.245
 Lower All Local Minimums---Always now has $145.6323130609492
 ---------------------------------------------------------------------------
+[2022-06-08 07:49:38] SOLD
+Lower All Local Minimums---Always has sold MIR for $0.246. Profit was -0.11183673469387267%.
+Lower All Local Minimums---Always now has $145.46944263736268
+---------------------------------------------------------------------------
