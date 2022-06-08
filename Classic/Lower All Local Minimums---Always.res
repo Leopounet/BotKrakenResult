@@ -8510,3 +8510,7 @@ Lower All Local Minimums---Always now has $93.72727254938688
 Lower All Local Minimums---Always has sold KIN for $1.447e-05. Profit was -0.52%.
 Lower All Local Minimums---Always now has $93.23989073213006
 ---------------------------------------------------------------------------
+[2022-06-08 15:38:00] BUY
+Lower All Local Minimums---Always has bought LDO for $1.018
+Lower All Local Minimums---Always now has $93.23989073213006
+---------------------------------------------------------------------------
