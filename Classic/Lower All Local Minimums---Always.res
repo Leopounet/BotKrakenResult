@@ -8638,3 +8638,7 @@ Lower All Local Minimums---Always now has $95.90055020292324
 Lower All Local Minimums---Always has sold CRV for $1.169. Profit was -0.52%.
 Lower All Local Minimums---Always now has $95.40186734186804
 ---------------------------------------------------------------------------
+[2022-06-08 16:41:56] BUY
+Lower All Local Minimums---Always has bought UST for $0.01201
+Lower All Local Minimums---Always now has $95.40186734186804
+---------------------------------------------------------------------------

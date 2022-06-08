@@ -5738,3 +5738,7 @@ Lower All Local Minimums---Random now has $503.69131267329396
 Lower All Local Minimums---Random has bought CRV for $1.169
 Lower All Local Minimums---Random now has $503.69131267329396
 ---------------------------------------------------------------------------
+[2022-06-08 16:41:56] SOLD
+Lower All Local Minimums---Random has sold CRV for $1.167. Profit was -0.6910863986313038%.
+Lower All Local Minimums---Random now has $500.21037052032136
+---------------------------------------------------------------------------
