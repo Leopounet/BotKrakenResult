@@ -5714,3 +5714,7 @@ Lower All Local Minimums---Random now has $501.4201705474572
 Lower All Local Minimums---Random has bought KIN for $1.434e-05
 Lower All Local Minimums---Random now has $501.4201705474572
 ---------------------------------------------------------------------------
+[2022-06-08 16:23:56] SOLD
+Lower All Local Minimums---Random has sold KIN for $1.432e-05. Profit was -0.6594700139469962%.
+Lower All Local Minimums---Random now has $498.1134548788148
+---------------------------------------------------------------------------
