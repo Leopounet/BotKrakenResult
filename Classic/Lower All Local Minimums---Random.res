@@ -5006,3 +5006,7 @@ Lower All Local Minimums---Random now has $622.8144039968477
 Lower All Local Minimums---Random has sold MIR for $0.245. Profit was -0.52%.
 Lower All Local Minimums---Random now has $619.575769096064
 ---------------------------------------------------------------------------
+[2022-06-08 07:45:40] BUY
+Lower All Local Minimums---Random has bought MIR for $0.245
+Lower All Local Minimums---Random now has $619.575769096064
+---------------------------------------------------------------------------
