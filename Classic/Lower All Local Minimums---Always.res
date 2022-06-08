@@ -8494,3 +8494,7 @@ Lower All Local Minimums---Always now has $95.46405375959812
 Lower All Local Minimums---Always has sold UST for $0.01203. Profit was -1.306095551894559%.
 Lower All Local Minimums---Always now has $94.21720199978577
 ---------------------------------------------------------------------------
+[2022-06-08 15:30:01] BUY
+Lower All Local Minimums---Always has bought KIN for $1.447e-05
+Lower All Local Minimums---Always now has $94.21720199978577
+---------------------------------------------------------------------------
