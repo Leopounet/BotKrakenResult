@@ -8054,3 +8054,7 @@ Lower All Local Minimums---Always now has $113.86919975130255
 Lower All Local Minimums---Always has sold MIR for $0.246. Profit was 0.2996721311475308%.
 Lower All Local Minimums---Always now has $114.21043400891791
 ---------------------------------------------------------------------------
+[2022-06-08 11:46:18] BUY
+Lower All Local Minimums---Always has bought KIN for $1.46e-05
+Lower All Local Minimums---Always now has $114.21043400891791
+---------------------------------------------------------------------------
