@@ -7478,3 +7478,7 @@ Recent Minimum---Always now has $86.17899231283246
 Recent Minimum---Always has sold ALCX for $30.09. Profit was -0.52%.
 Recent Minimum---Always now has $85.73086155280573
 ---------------------------------------------------------------------------
+[2022-06-08 06:56:31] BUY
+Recent Minimum---Always has bought ADA for $0.638667
+Recent Minimum---Always now has $85.73086155280573
+---------------------------------------------------------------------------
