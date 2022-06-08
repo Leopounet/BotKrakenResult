@@ -7590,3 +7590,7 @@ Lower All Local Minimums---Always now has $145.6323130609492
 Lower All Local Minimums---Always has sold MIR for $0.246. Profit was -0.11183673469387267%.
 Lower All Local Minimums---Always now has $145.46944263736268
 ---------------------------------------------------------------------------
+[2022-06-08 07:51:36] BUY
+Lower All Local Minimums---Always has bought UST for $0.01228
+Lower All Local Minimums---Always now has $145.46944263736268
+---------------------------------------------------------------------------
