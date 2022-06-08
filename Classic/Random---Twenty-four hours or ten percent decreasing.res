@@ -22,3 +22,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9763.537389650808
 Random---Twenty-four hours or ten percent decreasing has sold WAVES for $7.9369. Profit was 2.7806650788072855%.
 Random---Twenty-four hours or ten percent decreasing now has $10035.02866430112
 ---------------------------------------------------------------------------
+[2022-06-08 16:27:56] BUY
+Random---Twenty-four hours or ten percent decreasing has bought EWT for $3.304
+Random---Twenty-four hours or ten percent decreasing now has $10035.02866430112
+---------------------------------------------------------------------------

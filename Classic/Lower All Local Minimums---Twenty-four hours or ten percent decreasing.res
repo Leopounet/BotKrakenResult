@@ -22,3 +22,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold UST for $0.01195. Profit was -18.156366139022705%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $7951.629134653169
 ---------------------------------------------------------------------------
+[2022-06-08 16:27:56] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought UST for $0.01195
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $7951.629134653169
+---------------------------------------------------------------------------

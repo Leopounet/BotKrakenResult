@@ -22,3 +22,7 @@ Random---Twenty-four hours now has $9494.307284797422
 Random---Twenty-four hours has sold ZEUR for $1.0739. Profit was -0.03551401869159554%.
 Random---Twenty-four hours now has $9490.935474733662
 ---------------------------------------------------------------------------
+[2022-06-08 16:27:56] BUY
+Random---Twenty-four hours has bought T for $0.0534
+Random---Twenty-four hours now has $9490.935474733662
+---------------------------------------------------------------------------

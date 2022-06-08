@@ -22,3 +22,7 @@ Variance---Twenty-four hours now has $9585.940668640971
 Variance---Twenty-four hours has sold IDEX for $0.07788. Profit was 6.135710764174194%.
 Variance---Twenty-four hours now has $10174.106262094127
 ---------------------------------------------------------------------------
+[2022-06-08 16:27:56] BUY
+Variance---Twenty-four hours has bought IDEX for $0.07788
+Variance---Twenty-four hours now has $10174.106262094127
+---------------------------------------------------------------------------

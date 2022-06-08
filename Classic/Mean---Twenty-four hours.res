@@ -22,3 +22,7 @@ Mean---Twenty-four hours now has $10373.660031824746
 Mean---Twenty-four hours has sold XXBT for $30420.1. Profit was 1.5327908427882213%.
 Mean---Twenty-four hours now has $10532.666542854537
 ---------------------------------------------------------------------------
+[2022-06-08 16:27:56] BUY
+Mean---Twenty-four hours has bought XXBT for $30390.8
+Mean---Twenty-four hours now has $10532.666542854537
+---------------------------------------------------------------------------
