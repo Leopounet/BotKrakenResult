@@ -5734,3 +5734,7 @@ Lower All Local Minimums---Random now has $498.6219891172684
 Lower All Local Minimums---Random has sold UST for $0.01217. Profit was 1.0166666666666662%.
 Lower All Local Minimums---Random now has $503.69131267329396
 ---------------------------------------------------------------------------
+[2022-06-08 16:37:56] BUY
+Lower All Local Minimums---Random has bought CRV for $1.169
+Lower All Local Minimums---Random now has $503.69131267329396
+---------------------------------------------------------------------------
