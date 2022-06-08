@@ -6282,3 +6282,7 @@ Recent Minimum---Random now has $133.04766329881483
 Recent Minimum---Random has bought ASTR for $0.06
 Recent Minimum---Random now has $133.04766329881483
 ---------------------------------------------------------------------------
+[2022-06-08 22:50:35] SOLD
+Recent Minimum---Random has sold ASTR for $0.06. Profit was -0.52%.
+Recent Minimum---Random now has $132.35581544966098
+---------------------------------------------------------------------------
