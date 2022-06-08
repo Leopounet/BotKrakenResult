@@ -8534,3 +8534,7 @@ Lower All Local Minimums---Always now has $95.32126616496525
 Lower All Local Minimums---Always has sold LDO for $1.027. Profit was 0.36408644400785883%.
 Lower All Local Minimums---Always now has $95.66831797332854
 ---------------------------------------------------------------------------
+[2022-06-08 15:49:58] BUY
+Lower All Local Minimums---Always has bought UST for $0.012
+Lower All Local Minimums---Always now has $95.66831797332854
+---------------------------------------------------------------------------
