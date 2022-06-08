@@ -9158,3 +9158,7 @@ Lower All Local Minimums---Always now has $65.21876853773226
 Lower All Local Minimums---Always has sold ICP for $6.62. Profit was -0.52%.
 Lower All Local Minimums---Always now has $64.87963094133605
 ---------------------------------------------------------------------------
+[2022-06-08 21:05:57] BUY
+Lower All Local Minimums---Always has bought UST for $0.01028
+Lower All Local Minimums---Always now has $64.87963094133605
+---------------------------------------------------------------------------
