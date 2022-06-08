@@ -4926,3 +4926,7 @@ Recent Minimum---Random now has $338.7961495253387
 Recent Minimum---Random has sold ANKR for $0.0385. Profit was -0.52%.
 Recent Minimum---Random now has $337.03440954780694
 ---------------------------------------------------------------------------
+[2022-06-08 05:41:55] BUY
+Recent Minimum---Random has bought CFG for $0.2869
+Recent Minimum---Random now has $337.03440954780694
+---------------------------------------------------------------------------
