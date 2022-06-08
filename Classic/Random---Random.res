@@ -4946,3 +4946,7 @@ Random---Random now has $472.40729165
 Random---Random has bought ZRX for $0.404
 Random---Random now has $472.40729165
 ---------------------------------------------------------------------------
+[2022-06-08 06:48:44] SOLD
+Random---Random has sold ZRX for $0.404. Profit was -0.52%.
+Random---Random now has $469.95077373341996
+---------------------------------------------------------------------------
