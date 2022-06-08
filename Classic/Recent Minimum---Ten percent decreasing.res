@@ -2,3 +2,7 @@
 Recent Minimum---Ten percent decreasing has bought ACA for $0.365
 Recent Minimum---Ten percent decreasing now has $10000
 ---------------------------------------------------------------------------
+[2022-06-08 10:51:29] SOLD
+Recent Minimum---Ten percent decreasing has sold ACA for $0.412. Profit was 12.356712328767127%.
+Recent Minimum---Ten percent decreasing now has $11235.671232876713
+---------------------------------------------------------------------------
