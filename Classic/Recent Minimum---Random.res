@@ -6278,3 +6278,7 @@ Recent Minimum---Random now has $133.74312756213794
 Recent Minimum---Random has sold 1INCH for $0.821. Profit was -0.52%.
 Recent Minimum---Random now has $133.04766329881483
 ---------------------------------------------------------------------------
+[2022-06-08 22:48:35] BUY
+Recent Minimum---Random has bought ASTR for $0.06
+Recent Minimum---Random now has $133.04766329881483
+---------------------------------------------------------------------------
