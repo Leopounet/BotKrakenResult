@@ -8862,3 +8862,7 @@ Recent Minimum---Always now has $35.05921919386823
 Recent Minimum---Always has sold SBR for $0.0076. Profit was -0.52%.
 Recent Minimum---Always now has $34.87691125406012
 ---------------------------------------------------------------------------
+[2022-06-08 18:34:20] BUY
+Recent Minimum---Always has bought ALICE for $2.898
+Recent Minimum---Always now has $34.87691125406012
+---------------------------------------------------------------------------
