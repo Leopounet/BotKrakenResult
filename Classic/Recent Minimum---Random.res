@@ -5914,3 +5914,7 @@ Recent Minimum---Random now has $169.60037341748284
 Recent Minimum---Random has bought SBR for $0.0076
 Recent Minimum---Random now has $169.60037341748284
 ---------------------------------------------------------------------------
+[2022-06-08 18:40:31] SOLD
+Recent Minimum---Random has sold SBR for $0.0076. Profit was -0.52%.
+Recent Minimum---Random now has $168.71845147571193
+---------------------------------------------------------------------------
