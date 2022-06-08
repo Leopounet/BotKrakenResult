@@ -8722,3 +8722,7 @@ Lower All Local Minimums---Always now has $90.7740609881551
 Lower All Local Minimums---Always has bought LDO for $1.011
 Lower All Local Minimums---Always now has $90.7740609881551
 ---------------------------------------------------------------------------
+[2022-06-08 17:23:54] SOLD
+Lower All Local Minimums---Always has sold LDO for $1.011. Profit was -0.52%.
+Lower All Local Minimums---Always now has $90.3020358710167
+---------------------------------------------------------------------------
