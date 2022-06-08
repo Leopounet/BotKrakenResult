@@ -7318,3 +7318,7 @@ Recent Minimum---Always now has $93.92774954001926
 Recent Minimum---Always has sold 1INCH for $0.827. Profit was -0.52%.
 Recent Minimum---Always now has $93.43932524241116
 ---------------------------------------------------------------------------
+[2022-06-08 05:38:01] BUY
+Recent Minimum---Always has bought ANKR for $0.0385
+Recent Minimum---Always now has $93.43932524241116
+---------------------------------------------------------------------------
