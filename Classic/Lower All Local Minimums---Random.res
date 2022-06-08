@@ -5762,3 +5762,7 @@ Lower All Local Minimums---Random now has $489.40390264385724
 Lower All Local Minimums---Random has bought UST for $0.01186
 Lower All Local Minimums---Random now has $489.40390264385724
 ---------------------------------------------------------------------------
+[2022-06-08 16:57:55] SOLD
+Lower All Local Minimums---Random has sold UST for $0.01217. Profit was 2.213827993254625%.
+Lower All Local Minimums---Random now has $500.23846324066756
+---------------------------------------------------------------------------
