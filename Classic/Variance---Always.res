@@ -9150,3 +9150,7 @@ Variance---Always now has $15.10117950012484
 Variance---Always has sold IDEX for $0.07999. Profit was -0.52%.
 Variance---Always now has $15.02265336672419
 ---------------------------------------------------------------------------
+[2022-06-08 21:01:41] BUY
+Variance---Always has bought LUNA2 for $2.6695
+Variance---Always now has $15.02265336672419
+---------------------------------------------------------------------------

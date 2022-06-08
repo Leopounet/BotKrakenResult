@@ -6118,3 +6118,7 @@ Variance---Random now has $98.71929739771456
 Variance---Random has sold IDEX for $0.07999. Profit was -0.52%.
 Variance---Random now has $98.20595705124644
 ---------------------------------------------------------------------------
+[2022-06-08 21:01:41] BUY
+Variance---Random has bought LUNA2 for $2.6695
+Variance---Random now has $98.20595705124644
+---------------------------------------------------------------------------
