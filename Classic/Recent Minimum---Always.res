@@ -7854,3 +7854,7 @@ Recent Minimum---Always now has $67.95040567185688
 Recent Minimum---Always has sold CFG for $0.2831. Profit was -0.52%.
 Recent Minimum---Always now has $67.59706356236323
 ---------------------------------------------------------------------------
+[2022-06-08 10:04:18] BUY
+Recent Minimum---Always has bought BAL for $7.54
+Recent Minimum---Always now has $67.59706356236323
+---------------------------------------------------------------------------

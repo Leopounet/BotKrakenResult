@@ -5310,3 +5310,7 @@ Recent Minimum---Random now has $259.8457695391035
 Recent Minimum---Random has sold CFG for $0.2831. Profit was -0.52%.
 Recent Minimum---Random now has $258.4945715375002
 ---------------------------------------------------------------------------
+[2022-06-08 10:04:18] BUY
+Recent Minimum---Random has bought BAL for $7.54
+Recent Minimum---Random now has $258.4945715375002
+---------------------------------------------------------------------------
