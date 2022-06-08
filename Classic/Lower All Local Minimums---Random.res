@@ -5782,3 +5782,7 @@ Lower All Local Minimums---Random now has $497.6372232318161
 Lower All Local Minimums---Random has sold UST for $0.01182. Profit was -0.4%.
 Lower All Local Minimums---Random now has $495.64667433888883
 ---------------------------------------------------------------------------
+[2022-06-08 17:09:55] BUY
+Lower All Local Minimums---Random has bought ICP for $6.698
+Lower All Local Minimums---Random now has $495.64667433888883
+---------------------------------------------------------------------------
