@@ -7998,3 +7998,7 @@ Recent Minimum---Always now has $61.86372015716122
 Recent Minimum---Always has sold AIR for $0.0315. Profit was -0.52%.
 Recent Minimum---Always now has $61.54202881234398
 ---------------------------------------------------------------------------
+[2022-06-08 11:17:41] BUY
+Recent Minimum---Always has bought ACA for $0.373
+Recent Minimum---Always now has $61.54202881234398
+---------------------------------------------------------------------------
