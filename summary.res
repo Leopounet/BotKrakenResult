@@ -1,4 +1,4 @@
-[2022-06-08 10:00:18] SUMMARY
+[2022-06-08 10:02:19] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.838
-		Maximum:                    0.895
-		Minimum:                    0.809
-		Variance:                   0.096089
-		Mean:                       0.853964
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.181818
-		Is ascending:               True
-		Current ascension duration: 4
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.125
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      0.859136
-		Number of local maximums:   22
-		Average local minimum:      0.86325
-		Number of local minimums:   16
-	Is init: True
+	None
 Wins: 12
-Losses: 969
-Total points: -511.71721453589845%
-Wallet: 59.06011219244823
+Losses: 970
+Total points: -512.2372145358985%
+Wallet: 58.7529996090475
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: KINUSD
-	Altname: KINUSD
-	Wsname: KIN/USD
-	Base:
-	 	Name: KIN
-		Altname: KIN
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 250000
-	Data about this pair of assets (KINUSD):
-		Current:                    1.5e-05
-		Maximum:                    1.8e-05
-		Minimum:                    1.5e-05
-		Variance:                   0.210526
-		Mean:                       1.6e-05
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.9
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.103448
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      1.6e-05
-		Number of local maximums:   30
-		Average local minimum:      1.6e-05
-		Number of local minimums:   29
-	Is init: True
+	None
 Wins: 91
-Losses: 890
-Total points: -432.23322757098464%
-Wallet: 129.4201432168552
+Losses: 891
+Total points: -432.7532275709846%
+Wallet: 128.74715847212755
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent

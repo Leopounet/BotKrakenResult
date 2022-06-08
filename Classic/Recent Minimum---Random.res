@@ -5306,3 +5306,7 @@ Recent Minimum---Random now has $259.8457695391035
 Recent Minimum---Random has bought CFG for $0.2831
 Recent Minimum---Random now has $259.8457695391035
 ---------------------------------------------------------------------------
+[2022-06-08 10:02:19] SOLD
+Recent Minimum---Random has sold CFG for $0.2831. Profit was -0.52%.
+Recent Minimum---Random now has $258.4945715375002
+---------------------------------------------------------------------------
