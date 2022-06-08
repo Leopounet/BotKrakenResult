@@ -22,3 +22,7 @@ Recent Minimum---Twenty-four hours now has $9720.596436747861
 Recent Minimum---Twenty-four hours has sold AAVE for $98.86. Profit was 0.30610912799592205%.
 Recent Minimum---Twenty-four hours now has $9750.352069736393
 ---------------------------------------------------------------------------
+[2022-06-08 16:29:56] BUY
+Recent Minimum---Twenty-four hours has bought 1INCH for $0.834
+Recent Minimum---Twenty-four hours now has $9750.352069736393
+---------------------------------------------------------------------------
