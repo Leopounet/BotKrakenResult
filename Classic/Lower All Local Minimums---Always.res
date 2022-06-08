@@ -7142,3 +7142,7 @@ Lower All Local Minimums---Always now has $193.15260958127578
 Lower All Local Minimums---Always has sold UST for $0.0121. Profit was -0.4%.
 Lower All Local Minimums---Always now has $192.37999914295068
 ---------------------------------------------------------------------------
+[2022-06-08 04:11:33] BUY
+Lower All Local Minimums---Always has bought MINA for $0.832
+Lower All Local Minimums---Always now has $192.37999914295068
+---------------------------------------------------------------------------
