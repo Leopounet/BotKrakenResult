@@ -7342,3 +7342,7 @@ Recent Minimum---Always now has $92.47008285924464
 Recent Minimum---Always has sold BAL for $7.56. Profit was 1.0929032258064502%.
 Recent Minimum---Always now has $93.48069137771922
 ---------------------------------------------------------------------------
+[2022-06-08 05:49:52] BUY
+Recent Minimum---Always has bought BAND for $1.684
+Recent Minimum---Always now has $93.48069137771922
+---------------------------------------------------------------------------
