@@ -7566,3 +7566,7 @@ Random---Always now has $84.66407684551761
 Random---Always has sold XZEC for $90.86. Profit was -0.52%.
 Random---Always now has $84.22382364592092
 ---------------------------------------------------------------------------
+[2022-06-08 07:39:43] BUY
+Random---Always has bought TRIBE for $0.235
+Random---Always now has $84.22382364592092
+---------------------------------------------------------------------------

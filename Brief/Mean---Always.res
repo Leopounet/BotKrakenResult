@@ -11350,3 +11350,9 @@ Mean---Always has 925 losses
 Mean---Always has -464.7339073798523 points
 Mean---Always now has $93.64696860790701
 ---------------------------------------------------------------------------
+[2022-06-08 07:39:44] BRIEF
+Mean---Always has 21 wins
+Mean---Always has 925 losses
+Mean---Always has -464.7339073798523 points
+Mean---Always now has $93.64696860790701
+---------------------------------------------------------------------------
