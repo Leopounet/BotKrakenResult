@@ -5818,3 +5818,7 @@ Lower All Local Minimums---Random now has $485.41735882393215
 Lower All Local Minimums---Random has bought LDO for $1.011
 Lower All Local Minimums---Random now has $485.41735882393215
 ---------------------------------------------------------------------------
+[2022-06-08 17:27:53] SOLD
+Lower All Local Minimums---Random has sold LDO for $1.015. Profit was -0.12435212660732065%.
+Lower All Local Minimums---Random now has $484.8137320153135
+---------------------------------------------------------------------------
