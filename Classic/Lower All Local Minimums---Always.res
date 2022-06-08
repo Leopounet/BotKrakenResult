@@ -8634,3 +8634,7 @@ Lower All Local Minimums---Always now has $95.90055020292324
 Lower All Local Minimums---Always has bought CRV for $1.169
 Lower All Local Minimums---Always now has $95.90055020292324
 ---------------------------------------------------------------------------
+[2022-06-08 16:39:57] SOLD
+Lower All Local Minimums---Always has sold CRV for $1.169. Profit was -0.52%.
+Lower All Local Minimums---Always now has $95.40186734186804
+---------------------------------------------------------------------------
