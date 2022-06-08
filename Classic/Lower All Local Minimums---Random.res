@@ -5798,3 +5798,7 @@ Lower All Local Minimums---Random now has $493.0693116323266
 Lower All Local Minimums---Random has sold ICP for $6.698. Profit was -0.52%.
 Lower All Local Minimums---Random now has $490.5053512118385
 ---------------------------------------------------------------------------
+[2022-06-08 17:17:54] BUY
+Lower All Local Minimums---Random has bought LDO for $1.011
+Lower All Local Minimums---Random now has $490.5053512118385
+---------------------------------------------------------------------------
