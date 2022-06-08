@@ -7962,3 +7962,7 @@ Random---Always now has $67.90306816292065
 Random---Always has bought MULTI for $4.797
 Random---Always now has $67.90306816292065
 ---------------------------------------------------------------------------
+[2022-06-08 10:59:34] SOLD
+Random---Always has sold MULTI for $4.797. Profit was -0.52%.
+Random---Always now has $67.54997220847346
+---------------------------------------------------------------------------
