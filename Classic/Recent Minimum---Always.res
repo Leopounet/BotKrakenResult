@@ -7350,3 +7350,7 @@ Recent Minimum---Always now has $93.48069137771922
 Recent Minimum---Always has sold BAND for $1.684. Profit was -0.52%.
 Recent Minimum---Always now has $92.99459178255509
 ---------------------------------------------------------------------------
+[2022-06-08 05:53:48] BUY
+Recent Minimum---Always has bought ALGO for $0.4144
+Recent Minimum---Always now has $92.99459178255509
+---------------------------------------------------------------------------
