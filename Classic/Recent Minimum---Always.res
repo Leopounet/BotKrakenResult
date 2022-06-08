@@ -7858,3 +7858,7 @@ Recent Minimum---Always now has $67.59706356236323
 Recent Minimum---Always has bought BAL for $7.54
 Recent Minimum---Always now has $67.59706356236323
 ---------------------------------------------------------------------------
+[2022-06-08 10:06:18] SOLD
+Recent Minimum---Always has sold BAL for $7.54. Profit was -0.52%.
+Recent Minimum---Always now has $67.24555883183895
+---------------------------------------------------------------------------
