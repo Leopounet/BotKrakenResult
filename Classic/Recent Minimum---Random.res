@@ -5302,3 +5302,7 @@ Recent Minimum---Random now has $261.2040304976915
 Recent Minimum---Random has sold 1INCH for $0.838. Profit was -0.52%.
 Recent Minimum---Random now has $259.8457695391035
 ---------------------------------------------------------------------------
+[2022-06-08 09:56:16] BUY
+Recent Minimum---Random has bought CFG for $0.2831
+Recent Minimum---Random now has $259.8457695391035
+---------------------------------------------------------------------------
