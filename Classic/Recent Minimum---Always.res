@@ -7862,3 +7862,7 @@ Recent Minimum---Always now has $67.59706356236323
 Recent Minimum---Always has sold BAL for $7.54. Profit was -0.52%.
 Recent Minimum---Always now has $67.24555883183895
 ---------------------------------------------------------------------------
+[2022-06-08 10:08:27] BUY
+Recent Minimum---Always has bought ALICE for $2.892
+Recent Minimum---Always now has $67.24555883183895
+---------------------------------------------------------------------------

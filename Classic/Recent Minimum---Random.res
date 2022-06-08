@@ -5314,3 +5314,7 @@ Recent Minimum---Random now has $258.4945715375002
 Recent Minimum---Random has bought BAL for $7.54
 Recent Minimum---Random now has $258.4945715375002
 ---------------------------------------------------------------------------
+[2022-06-08 10:08:27] SOLD
+Recent Minimum---Random has sold BAL for $7.54. Profit was -0.52%.
+Recent Minimum---Random now has $257.1503997655052
+---------------------------------------------------------------------------
