@@ -7974,3 +7974,7 @@ Random---Always now has $67.54997220847346
 Random---Always has sold SUSHI for $1.535. Profit was -0.52%.
 Random---Always now has $67.1987123529894
 ---------------------------------------------------------------------------
+[2022-06-08 11:05:42] BUY
+Random---Always has bought MOVR for $20.2645
+Random---Always now has $67.1987123529894
+---------------------------------------------------------------------------
