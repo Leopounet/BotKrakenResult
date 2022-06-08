@@ -7902,3 +7902,7 @@ Recent Minimum---Always now has $65.8577233557148
 Recent Minimum---Always has sold AIR for $0.0329. Profit was -0.52%.
 Recent Minimum---Always now has $65.51526319426507
 ---------------------------------------------------------------------------
+[2022-06-08 10:29:16] BUY
+Recent Minimum---Always has bought AIR for $0.0329
+Recent Minimum---Always now has $65.51526319426507
+---------------------------------------------------------------------------
