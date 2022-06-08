@@ -7966,3 +7966,7 @@ Random---Always now has $67.90306816292065
 Random---Always has sold MULTI for $4.797. Profit was -0.52%.
 Random---Always now has $67.54997220847346
 ---------------------------------------------------------------------------
+[2022-06-08 11:01:36] BUY
+Random---Always has bought SUSHI for $1.535
+Random---Always now has $67.54997220847346
+---------------------------------------------------------------------------
