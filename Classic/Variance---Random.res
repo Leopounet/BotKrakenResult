@@ -4910,3 +4910,7 @@ Variance---Random now has $193.6914232852354
 Variance---Random has sold IDEX for $0.07794. Profit was -0.52%.
 Variance---Random now has $192.68422788415216
 ---------------------------------------------------------------------------
+[2022-06-08 06:27:13] BUY
+Variance---Random has bought IDEX for $0.07794
+Variance---Random now has $192.68422788415216
+---------------------------------------------------------------------------
