@@ -7842,3 +7842,7 @@ Recent Minimum---Always now has $68.30559476463297
 Recent Minimum---Always has bought CFG for $0.2831
 Recent Minimum---Always now has $68.30559476463297
 ---------------------------------------------------------------------------
+[2022-06-08 09:58:18] SOLD
+Recent Minimum---Always has sold CFG for $0.2831. Profit was -0.52%.
+Recent Minimum---Always now has $67.95040567185688
+---------------------------------------------------------------------------
