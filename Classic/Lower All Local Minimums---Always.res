@@ -9894,3 +9894,7 @@ Lower All Local Minimums---Always now has $42.08958720532024
 Lower All Local Minimums---Always has sold KIN for $1.349e-05. Profit was -0.52%.
 Lower All Local Minimums---Always now has $41.87072135185258
 ---------------------------------------------------------------------------
+[2022-06-09 03:14:12] BUY
+Lower All Local Minimums---Always has bought SPELL for $0.001174
+Lower All Local Minimums---Always now has $41.87072135185258
+---------------------------------------------------------------------------
