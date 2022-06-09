@@ -7394,3 +7394,7 @@ Variance---Random now has $38.76128677277031
 Variance---Random has bought REQ for $0.1215
 Variance---Random now has $38.76128677277031
 ---------------------------------------------------------------------------
+[2022-06-09 12:34:37] SOLD
+Variance---Random has sold REQ for $0.1215. Profit was -0.52%.
+Variance---Random now has $38.5597280815519
+---------------------------------------------------------------------------
