@@ -7078,3 +7078,7 @@ Lower All Local Minimums---Random now has $215.95896121664435
 Lower All Local Minimums---Random has sold SPELL for $0.001191. Profit was -0.52%.
 Lower All Local Minimums---Random now has $214.8359746183178
 ---------------------------------------------------------------------------
+[2022-06-09 09:22:03] BUY
+Lower All Local Minimums---Random has bought KIN for $1.377e-05
+Lower All Local Minimums---Random now has $214.8359746183178
+---------------------------------------------------------------------------
