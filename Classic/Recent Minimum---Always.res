@@ -10390,3 +10390,7 @@ Recent Minimum---Always now has $12.936221197453706
 Recent Minimum---Always has sold 1INCH for $0.819. Profit was -0.52%.
 Recent Minimum---Always now has $12.868952847226947
 ---------------------------------------------------------------------------
+[2022-06-09 07:20:54] BUY
+Recent Minimum---Always has bought ALICE for $2.82
+Recent Minimum---Always now has $12.868952847226947
+---------------------------------------------------------------------------
