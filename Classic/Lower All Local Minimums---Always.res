@@ -10510,3 +10510,7 @@ Lower All Local Minimums---Always now has $29.011187464157153
 Lower All Local Minimums---Always has sold KIN for $1.375e-05. Profit was -0.4472197962154385%.
 Lower All Local Minimums---Always now has $28.88144369070027
 ---------------------------------------------------------------------------
+[2022-06-09 08:22:34] BUY
+Lower All Local Minimums---Always has bought USDT for $0.9991
+Lower All Local Minimums---Always now has $28.88144369070027
+---------------------------------------------------------------------------
