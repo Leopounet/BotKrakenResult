@@ -7502,3 +7502,7 @@ Lower All Local Minimums---Random now has $175.2215826857594
 Lower All Local Minimums---Random has sold MINA for $0.834. Profit was -0.52%.
 Lower All Local Minimums---Random now has $174.31043045579344
 ---------------------------------------------------------------------------
+[2022-06-09 14:26:26] BUY
+Lower All Local Minimums---Random has bought MINA for $0.834
+Lower All Local Minimums---Random now has $174.31043045579344
+---------------------------------------------------------------------------
