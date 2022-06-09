@@ -10438,3 +10438,7 @@ Recent Minimum---Always now has $12.537821790269208
 Recent Minimum---Always has sold ALGO for $0.40939. Profit was -0.52%.
 Recent Minimum---Always now has $12.472625116959808
 ---------------------------------------------------------------------------
+[2022-06-09 07:45:31] BUY
+Recent Minimum---Always has bought ALICE for $2.82
+Recent Minimum---Always now has $12.472625116959808
+---------------------------------------------------------------------------
