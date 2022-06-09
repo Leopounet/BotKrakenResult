@@ -11030,3 +11030,7 @@ Recent Minimum---Always now has $8.574792698679602
 Recent Minimum---Always has sold AKT for $0.3488. Profit was -0.52%.
 Recent Minimum---Always now has $8.530203776646468
 ---------------------------------------------------------------------------
+[2022-06-09 12:42:36] BUY
+Recent Minimum---Always has bought 1INCH for $0.805
+Recent Minimum---Always now has $8.530203776646468
+---------------------------------------------------------------------------
