@@ -22,3 +22,9 @@ Random---Five Percent has 0 losses
 Random---Five Percent has 18.13331584968016 points
 Random---Five Percent now has $11883.17384432264
 ---------------------------------------------------------------------------
+[2022-06-09 14:56:51] BRIEF
+Random---Five Percent has 2 wins
+Random---Five Percent has 0 losses
+Random---Five Percent has 18.13331584968016 points
+Random---Five Percent now has $11883.17384432264
+---------------------------------------------------------------------------

@@ -7534,3 +7534,7 @@ Lower All Local Minimums---Random now has $172.84632714467782
 Lower All Local Minimums---Random has sold GST for $0.533. Profit was -0.52%.
 Lower All Local Minimums---Random now has $171.9475262435255
 ---------------------------------------------------------------------------
+[2022-06-09 14:56:51] BUY
+Lower All Local Minimums---Random has bought MINA for $0.832
+Lower All Local Minimums---Random now has $171.9475262435255
+---------------------------------------------------------------------------
