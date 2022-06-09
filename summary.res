@@ -1,4 +1,4 @@
-[2022-06-09 03:14:12] SUMMARY
+[2022-06-09 03:16:09] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.815
-		Maximum:                    0.879
-		Minimum:                    0.809
-		Variance:                   0.079636
-		Mean:                       0.83891
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.454545
-		Is ascending:               True
-		Current ascension duration: 30
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.666667
-		Is falling:                 True
-		Current fall duration:      24
-		Trending downwards:         True
-		Average local maximum:      0.841909
-		Number of local maximums:   22
-		Average local minimum:      0.842722
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 14
-Losses: 1223
-Total points: -645.2966366696675%
-Wallet: 15.473605725864875
+Losses: 1224
+Total points: -645.8166366696674%
+Wallet: 15.393142976090378
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SPELLUSD
-	Altname: SPELLUSD
-	Wsname: SPELL/USD
-	Base:
-	 	Name: SPELL
-		Altname: SPELL
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1000
-	Data about this pair of assets (SPELLUSD):
-		Current:                    0.001174
-		Maximum:                    0.001277
-		Minimum:                    0.001165
-		Variance:                   0.087706
-		Mean:                       0.001232
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.555556
-		Is ascending:               True
-		Current ascension duration: 3
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.53125
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.001233
-		Number of local maximums:   27
-		Average local minimum:      0.001228
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 119
-Losses: 1118
-Total points: -544.2452194803936%
-Wallet: 41.87072135185258
+Losses: 1119
+Total points: -544.7652194803936%
+Wallet: 41.652993600822946
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
