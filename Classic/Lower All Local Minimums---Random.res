@@ -7934,3 +7934,7 @@ Lower All Local Minimums---Random now has $136.35034078151955
 Lower All Local Minimums---Random has sold GST for $0.51. Profit was -0.52%.
 Lower All Local Minimums---Random now has $135.64131900945566
 ---------------------------------------------------------------------------
+[2022-06-09 19:29:14] BUY
+Lower All Local Minimums---Random has bought BADGER for $5.063
+Lower All Local Minimums---Random now has $135.64131900945566
+---------------------------------------------------------------------------
