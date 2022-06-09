@@ -9590,3 +9590,7 @@ Variance---Always now has $11.200091309965803
 Variance---Always has sold LUNA2 for $2.16262. Profit was 2.36832538024939%.
 Variance---Always now has $11.465345915070829
 ---------------------------------------------------------------------------
+[2022-06-09 00:43:10] BUY
+Variance---Always has bought LUNA2 for $2.20034
+Variance---Always now has $11.465345915070829
+---------------------------------------------------------------------------
