@@ -7446,3 +7446,7 @@ Lower All Local Minimums---Random now has $180.86346811513678
 Lower All Local Minimums---Random has sold MINA for $0.832. Profit was -0.52%.
 Lower All Local Minimums---Random now has $179.92297808093807
 ---------------------------------------------------------------------------
+[2022-06-09 13:52:44] BUY
+Lower All Local Minimums---Random has bought ICP for $6.51
+Lower All Local Minimums---Random now has $179.92297808093807
+---------------------------------------------------------------------------
