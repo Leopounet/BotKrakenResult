@@ -17452,3 +17452,9 @@ Variance---Always has 1383 losses
 Variance---Always has -788.2626280678107 points
 Variance---Always now has $2.56707526016742
 ---------------------------------------------------------------------------
+[2022-06-09 18:02:36] BRIEF
+Variance---Always has 71 wins
+Variance---Always has 1384 losses
+Variance---Always has -788.7826280678107 points
+Variance---Always now has $2.5537264688145496
+---------------------------------------------------------------------------
