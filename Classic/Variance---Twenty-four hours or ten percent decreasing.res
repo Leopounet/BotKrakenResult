@@ -38,3 +38,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $12355.5901077281
 Variance---Twenty-four hours or ten percent decreasing has sold LUNA2 for $3.26301. Profit was 12.62927127654042%.
 Variance---Twenty-four hours or ten percent decreasing now has $13916.01110025056
 ---------------------------------------------------------------------------
+[2022-06-09 23:13:03] BUY
+Variance---Twenty-four hours or ten percent decreasing has bought MV for $0.6006
+Variance---Twenty-four hours or ten percent decreasing now has $13916.01110025056
+---------------------------------------------------------------------------
