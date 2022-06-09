@@ -7206,3 +7206,7 @@ Lower All Local Minimums---Random now has $206.87255602545397
 Lower All Local Minimums---Random has sold USDT for $0.9991. Profit was -0.4%.
 Lower All Local Minimums---Random now has $206.04506580135217
 ---------------------------------------------------------------------------
+[2022-06-09 10:44:13] BUY
+Lower All Local Minimums---Random has bought SPELL for $0.001199
+Lower All Local Minimums---Random now has $206.04506580135217
+---------------------------------------------------------------------------
