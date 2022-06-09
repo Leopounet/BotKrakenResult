@@ -7906,3 +7906,7 @@ Recent Minimum---Random now has $45.69100757231445
 Recent Minimum---Random has bought 1INCH for $0.805
 Recent Minimum---Random now has $45.69100757231445
 ---------------------------------------------------------------------------
+[2022-06-09 20:02:56] SOLD
+Recent Minimum---Random has sold 1INCH for $0.8. Profit was -1.1411180124223614%.
+Recent Minimum---Random now has $45.1696192548495
+---------------------------------------------------------------------------
