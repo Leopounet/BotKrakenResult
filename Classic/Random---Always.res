@@ -11082,3 +11082,7 @@ Random---Always now has $9.78867758883383
 Random---Always has bought XLTC for $60.92
 Random---Always now has $9.78867758883383
 ---------------------------------------------------------------------------
+[2022-06-09 13:08:58] SOLD
+Random---Always has sold XLTC for $60.92. Profit was -0.52%.
+Random---Always now has $9.737776465371894
+---------------------------------------------------------------------------
