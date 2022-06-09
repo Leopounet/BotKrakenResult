@@ -7214,3 +7214,7 @@ Lower All Local Minimums---Random now has $206.04506580135217
 Lower All Local Minimums---Random has sold SPELL for $0.001199. Profit was -0.52%.
 Lower All Local Minimums---Random now has $204.97363145918513
 ---------------------------------------------------------------------------
+[2022-06-09 10:52:18] BUY
+Lower All Local Minimums---Random has bought UST for $0.01052
+Lower All Local Minimums---Random now has $204.97363145918513
+---------------------------------------------------------------------------
