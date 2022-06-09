@@ -10134,3 +10134,7 @@ Lower All Local Minimums---Always now has $36.24162881291966
 Lower All Local Minimums---Always has sold KIN for $1.372e-05. Profit was 0.6599410029498469%.
 Lower All Local Minimums---Always now has $36.480802181593
 ---------------------------------------------------------------------------
+[2022-06-09 05:13:11] BUY
+Lower All Local Minimums---Always has bought KIN for $1.372e-05
+Lower All Local Minimums---Always now has $36.480802181593
+---------------------------------------------------------------------------
