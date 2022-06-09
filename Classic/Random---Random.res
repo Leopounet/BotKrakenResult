@@ -7778,3 +7778,7 @@ Random---Random now has $70.5839689480016
 Random---Random has bought SAND for $1.2993
 Random---Random now has $70.5839689480016
 ---------------------------------------------------------------------------
+[2022-06-09 18:18:53] SOLD
+Random---Random has sold SAND for $1.2993. Profit was -0.52%.
+Random---Random now has $70.21693230947199
+---------------------------------------------------------------------------
