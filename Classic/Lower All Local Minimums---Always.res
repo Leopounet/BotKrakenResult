@@ -10566,3 +10566,7 @@ Lower All Local Minimums---Always now has $28.010192405715905
 Lower All Local Minimums---Always has sold UST for $0.0109. Profit was 0.7131725417439675%.
 Lower All Local Minimums---Always now has $28.209953406843127
 ---------------------------------------------------------------------------
+[2022-06-09 08:50:22] BUY
+Lower All Local Minimums---Always has bought SPELL for $0.001191
+Lower All Local Minimums---Always now has $28.209953406843127
+---------------------------------------------------------------------------
