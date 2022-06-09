@@ -10918,3 +10918,7 @@ Recent Minimum---Always now has $9.224073547417705
 Recent Minimum---Always has sold AIR for $0.0253. Profit was -0.52%.
 Recent Minimum---Always now has $9.176108364971133
 ---------------------------------------------------------------------------
+[2022-06-09 11:46:11] BUY
+Recent Minimum---Always has bought API3 for $1.463
+Recent Minimum---Always now has $9.176108364971133
+---------------------------------------------------------------------------

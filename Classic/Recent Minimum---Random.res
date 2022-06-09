@@ -7310,3 +7310,7 @@ Recent Minimum---Random now has $67.3012596075138
 Recent Minimum---Random has sold AIR for $0.0253. Profit was -0.52%.
 Recent Minimum---Random now has $66.95129305755472
 ---------------------------------------------------------------------------
+[2022-06-09 11:46:11] BUY
+Recent Minimum---Random has bought API3 for $1.463
+Recent Minimum---Random now has $66.95129305755472
+---------------------------------------------------------------------------
