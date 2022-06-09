@@ -11734,3 +11734,7 @@ Lower All Local Minimums---Always now has $15.35034258292373
 Lower All Local Minimums---Always has sold MINA for $0.836. Profit was -0.52%.
 Lower All Local Minimums---Always now has $15.270520801492527
 ---------------------------------------------------------------------------
+[2022-06-09 18:54:07] BUY
+Lower All Local Minimums---Always has bought USDT for $0.9991
+Lower All Local Minimums---Always now has $15.270520801492527
+---------------------------------------------------------------------------
