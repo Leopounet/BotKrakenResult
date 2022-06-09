@@ -10,3 +10,7 @@ Random---Five Percent now has $11258.262529832935
 Random---Five Percent has bought TBTC for $31551.6
 Random---Five Percent now has $11258.262529832935
 ---------------------------------------------------------------------------
+[2022-06-09 14:54:48] SOLD
+Random---Five Percent has sold TBTC for $33467.0. Profit was 5.55069055135081%.
+Random---Five Percent now has $11883.17384432264
+---------------------------------------------------------------------------
