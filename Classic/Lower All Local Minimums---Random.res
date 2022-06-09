@@ -7326,3 +7326,7 @@ Lower All Local Minimums---Random now has $191.3015735345193
 Lower All Local Minimums---Random has sold LSK for $1.338797. Profit was -0.52%.
 Lower All Local Minimums---Random now has $190.3068053521398
 ---------------------------------------------------------------------------
+[2022-06-09 12:40:36] BUY
+Lower All Local Minimums---Random has bought USDT for $0.9991
+Lower All Local Minimums---Random now has $190.3068053521398
+---------------------------------------------------------------------------
