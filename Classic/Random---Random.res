@@ -7914,3 +7914,7 @@ Random---Random now has $64.36453593617098
 Random---Random has bought DASH for $57.94
 Random---Random now has $64.36453593617098
 ---------------------------------------------------------------------------
+[2022-06-09 19:58:44] SOLD
+Random---Random has sold DASH for $57.94. Profit was -0.52%.
+Random---Random now has $64.02984034930289
+---------------------------------------------------------------------------
