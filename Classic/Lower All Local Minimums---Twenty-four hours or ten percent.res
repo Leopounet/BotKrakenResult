@@ -30,3 +30,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $7951.629134
 Lower All Local Minimums---Twenty-four hours or ten percent has sold UST for $0.0102. Profit was -15.044351464435147%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $6755.358100487523
 ---------------------------------------------------------------------------
+[2022-06-09 16:28:08] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought GST for $0.51
+Lower All Local Minimums---Twenty-four hours or ten percent now has $6755.358100487523
+---------------------------------------------------------------------------

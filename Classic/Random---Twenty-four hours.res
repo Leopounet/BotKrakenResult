@@ -30,3 +30,7 @@ Random---Twenty-four hours now has $9490.935474733662
 Random---Twenty-four hours has sold T for $0.05111. Profit was -4.808389513108615%.
 Random---Twenty-four hours now has $9034.574328670664
 ---------------------------------------------------------------------------
+[2022-06-09 16:28:08] BUY
+Random---Twenty-four hours has bought ICX for $0.3886
+Random---Twenty-four hours now has $9034.574328670664
+---------------------------------------------------------------------------
