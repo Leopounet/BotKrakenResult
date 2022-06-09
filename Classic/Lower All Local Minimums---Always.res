@@ -11950,3 +11950,7 @@ Lower All Local Minimums---Always now has $14.429580506828875
 Lower All Local Minimums---Always has sold MINA for $0.829. Profit was -0.52%.
 Lower All Local Minimums---Always now has $14.354546688193365
 ---------------------------------------------------------------------------
+[2022-06-09 20:46:29] BUY
+Lower All Local Minimums---Always has bought GST for $0.503
+Lower All Local Minimums---Always now has $14.354546688193365
+---------------------------------------------------------------------------
