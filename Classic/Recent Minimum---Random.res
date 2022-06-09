@@ -7314,3 +7314,7 @@ Recent Minimum---Random now has $66.95129305755472
 Recent Minimum---Random has bought API3 for $1.463
 Recent Minimum---Random now has $66.95129305755472
 ---------------------------------------------------------------------------
+[2022-06-09 11:52:25] SOLD
+Recent Minimum---Random has sold API3 for $1.463. Profit was -0.52%.
+Recent Minimum---Random now has $66.60314633365543
+---------------------------------------------------------------------------

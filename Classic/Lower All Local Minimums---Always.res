@@ -10930,3 +10930,7 @@ Lower All Local Minimums---Always now has $24.10487518483073
 Lower All Local Minimums---Always has bought USDT for $0.9991
 Lower All Local Minimums---Always now has $24.10487518483073
 ---------------------------------------------------------------------------
+[2022-06-09 11:52:25] SOLD
+Lower All Local Minimums---Always has sold USDT for $0.9992. Profit was -0.3899909918926966%.
+Lower All Local Minimums---Always now has $24.01086834300291
+---------------------------------------------------------------------------
