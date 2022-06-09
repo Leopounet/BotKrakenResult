@@ -10910,3 +10910,7 @@ Recent Minimum---Always now has $9.272289452571075
 Recent Minimum---Always has sold 1INCH for $0.813. Profit was -0.52%.
 Recent Minimum---Always now has $9.224073547417705
 ---------------------------------------------------------------------------
+[2022-06-09 11:42:11] BUY
+Recent Minimum---Always has bought AIR for $0.0253
+Recent Minimum---Always now has $9.224073547417705
+---------------------------------------------------------------------------
