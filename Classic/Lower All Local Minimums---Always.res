@@ -11242,3 +11242,7 @@ Lower All Local Minimums---Always now has $20.536380500322426
 Lower All Local Minimums---Always has bought MINA for $0.834
 Lower All Local Minimums---Always now has $20.536380500322426
 ---------------------------------------------------------------------------
+[2022-06-09 14:28:30] SOLD
+Lower All Local Minimums---Always has sold MINA for $0.834. Profit was -0.52%.
+Lower All Local Minimums---Always now has $20.42959132172075
+---------------------------------------------------------------------------
