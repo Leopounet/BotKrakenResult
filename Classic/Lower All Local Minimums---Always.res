@@ -9582,3 +9582,7 @@ Lower All Local Minimums---Always now has $51.10306429089447
 Lower All Local Minimums---Always has sold MINA for $0.837. Profit was -0.03980792316925674%.
 Lower All Local Minimums---Always now has $51.082721222324416
 ---------------------------------------------------------------------------
+[2022-06-09 00:39:09] BUY
+Lower All Local Minimums---Always has bought KIN for $1.348e-05
+Lower All Local Minimums---Always now has $51.082721222324416
+---------------------------------------------------------------------------
