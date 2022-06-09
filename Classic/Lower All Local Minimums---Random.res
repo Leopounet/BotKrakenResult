@@ -7394,3 +7394,7 @@ Lower All Local Minimums---Random now has $184.76478549279213
 Lower All Local Minimums---Random has bought SPELL for $0.001188
 Lower All Local Minimums---Random now has $184.76478549279213
 ---------------------------------------------------------------------------
+[2022-06-09 13:23:02] SOLD
+Lower All Local Minimums---Random has sold SPELL for $0.001188. Profit was -0.52%.
+Lower All Local Minimums---Random now has $183.80400860822962
+---------------------------------------------------------------------------
