@@ -6982,3 +6982,7 @@ Lower All Local Minimums---Random now has $226.9788891778189
 Lower All Local Minimums---Random has sold KIN for $1.374e-05. Profit was -0.5927272727272688%.
 Lower All Local Minimums---Random now has $225.63352339832858
 ---------------------------------------------------------------------------
+[2022-06-09 08:20:30] BUY
+Lower All Local Minimums---Random has bought USDT for $0.9991
+Lower All Local Minimums---Random now has $225.63352339832858
+---------------------------------------------------------------------------
