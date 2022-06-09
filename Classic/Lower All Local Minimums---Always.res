@@ -11182,3 +11182,7 @@ Lower All Local Minimums---Always now has $21.411036390526547
 Lower All Local Minimums---Always has sold ICP for $6.51. Profit was -0.52%.
 Lower All Local Minimums---Always now has $21.29969900129581
 ---------------------------------------------------------------------------
+[2022-06-09 13:58:40] BUY
+Lower All Local Minimums---Always has bought MINA for $0.835
+Lower All Local Minimums---Always now has $21.29969900129581
+---------------------------------------------------------------------------
