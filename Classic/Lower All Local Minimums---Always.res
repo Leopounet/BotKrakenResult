@@ -9502,3 +9502,7 @@ Lower All Local Minimums---Always now has $53.83803218445777
 Lower All Local Minimums---Always has sold ASTR for $0.0591. Profit was -0.52%.
 Lower All Local Minimums---Always now has $53.55807441709859
 ---------------------------------------------------------------------------
+[2022-06-08 23:59:15] BUY
+Lower All Local Minimums---Always has bought SPELL for $0.001195
+Lower All Local Minimums---Always now has $53.55807441709859
+---------------------------------------------------------------------------
