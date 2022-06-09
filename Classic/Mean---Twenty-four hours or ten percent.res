@@ -30,3 +30,7 @@ Mean---Twenty-four hours or ten percent now has $9789.286567479427
 Mean---Twenty-four hours or ten percent has sold XXBT for $30250.2. Profit was -0.5893728692618745%.
 Mean---Twenty-four hours or ten percent now has $9731.591168356406
 ---------------------------------------------------------------------------
+[2022-06-09 04:13:31] BUY
+Mean---Twenty-four hours or ten percent has bought WBTC for $30133.2
+Mean---Twenty-four hours or ten percent now has $9731.591168356406
+---------------------------------------------------------------------------
