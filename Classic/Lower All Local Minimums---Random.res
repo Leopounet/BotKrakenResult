@@ -7950,3 +7950,7 @@ Lower All Local Minimums---Random now has $134.9359841506065
 Lower All Local Minimums---Random has sold ICP for $6.411. Profit was 0.21852922690131882%.
 Lower All Local Minimums---Random now has $135.2308587135825
 ---------------------------------------------------------------------------
+[2022-06-09 19:45:36] BUY
+Lower All Local Minimums---Random has bought GST for $0.51
+Lower All Local Minimums---Random now has $135.2308587135825
+---------------------------------------------------------------------------
