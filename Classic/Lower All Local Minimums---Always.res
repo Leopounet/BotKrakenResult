@@ -11078,3 +11078,7 @@ Lower All Local Minimums---Always now has $22.495264442348613
 Lower All Local Minimums---Always has sold USDT for $0.9991. Profit was -0.4%.
 Lower All Local Minimums---Always now has $22.40528338457922
 ---------------------------------------------------------------------------
+[2022-06-09 13:06:59] BUY
+Lower All Local Minimums---Always has bought LSK for $1.333672
+Lower All Local Minimums---Always now has $22.40528338457922
+---------------------------------------------------------------------------
