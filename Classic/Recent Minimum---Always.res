@@ -10694,3 +10694,7 @@ Recent Minimum---Always now has $10.728481441978595
 Recent Minimum---Always has sold AAVE for $99.02. Profit was -0.52%.
 Recent Minimum---Always now has $10.672693338480306
 ---------------------------------------------------------------------------
+[2022-06-09 09:54:21] BUY
+Recent Minimum---Always has bought AAVE for $99.02
+Recent Minimum---Always now has $10.672693338480306
+---------------------------------------------------------------------------
