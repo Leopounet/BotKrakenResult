@@ -6362,3 +6362,7 @@ Variance---Random now has $88.14275959078824
 Variance---Random has bought LUNA2 for $2.20431
 Variance---Random now has $88.14275959078824
 ---------------------------------------------------------------------------
+[2022-06-09 00:11:15] SOLD
+Variance---Random has sold LUNA2 for $2.193. Profit was -1.0330857275065681%.
+Variance---Random now has $87.23216932162538
+---------------------------------------------------------------------------
