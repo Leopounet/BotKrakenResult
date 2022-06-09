@@ -26,3 +26,7 @@ Mean---Twenty-four hours or ten percent now has $9789.286567479427
 Mean---Twenty-four hours or ten percent has bought XXBT for $30271.2
 Mean---Twenty-four hours or ten percent now has $9789.286567479427
 ---------------------------------------------------------------------------
+[2022-06-09 04:11:34] SOLD
+Mean---Twenty-four hours or ten percent has sold XXBT for $30250.2. Profit was -0.5893728692618745%.
+Mean---Twenty-four hours or ten percent now has $9731.591168356406
+---------------------------------------------------------------------------
