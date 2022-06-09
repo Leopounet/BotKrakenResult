@@ -10998,3 +10998,7 @@ Recent Minimum---Always now has $8.755491345721508
 Recent Minimum---Always has sold ALICE for $2.842. Profit was -0.52%.
 Recent Minimum---Always now has $8.709962790723756
 ---------------------------------------------------------------------------
+[2022-06-09 12:26:43] BUY
+Recent Minimum---Always has bought AKT for $0.3488
+Recent Minimum---Always now has $8.709962790723756
+---------------------------------------------------------------------------
