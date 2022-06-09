@@ -10990,3 +10990,7 @@ Recent Minimum---Always now has $8.801257886732516
 Recent Minimum---Always has sold API3 for $1.463. Profit was -0.52%.
 Recent Minimum---Always now has $8.755491345721508
 ---------------------------------------------------------------------------
+[2022-06-09 12:22:44] BUY
+Recent Minimum---Always has bought ALICE for $2.842
+Recent Minimum---Always now has $8.755491345721508
+---------------------------------------------------------------------------
