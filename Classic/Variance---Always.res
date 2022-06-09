@@ -11054,3 +11054,7 @@ Variance---Always now has $3.6631202429259107
 Variance---Always has sold REQ for $0.11982. Profit was -0.52%.
 Variance---Always now has $3.6440720176626957
 ---------------------------------------------------------------------------
+[2022-06-09 12:54:25] BUY
+Variance---Always has bought REQ for $0.11982
+Variance---Always now has $3.6440720176626957
+---------------------------------------------------------------------------
