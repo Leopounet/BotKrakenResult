@@ -38,3 +38,7 @@ Mean---Twenty-four hours or ten percent decreasing now has $10407.160887007252
 Mean---Twenty-four hours or ten percent decreasing has sold WBTC for $30115.5. Profit was 13.339084000635157%.
 Mean---Twenty-four hours or ten percent decreasing now has $11795.380819806396
 ---------------------------------------------------------------------------
+[2022-06-09 16:53:09] BUY
+Mean---Twenty-four hours or ten percent decreasing has bought WBTC for $30115.5
+Mean---Twenty-four hours or ten percent decreasing now has $11795.380819806396
+---------------------------------------------------------------------------
