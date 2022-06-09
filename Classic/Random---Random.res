@@ -8042,3 +8042,7 @@ Random---Random now has $61.0716886895603
 Random---Random has bought LUNA for $7.921e-05
 Random---Random now has $61.0716886895603
 ---------------------------------------------------------------------------
+[2022-06-09 22:08:13] SOLD
+Random---Random has sold LUNA for $7.921e-05. Profit was -0.52%.
+Random---Random now has $60.75411590837459
+---------------------------------------------------------------------------
