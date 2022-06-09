@@ -12214,3 +12214,7 @@ Random---Always now has $4.790709271310453
 Random---Always has sold DYDX for $1.702. Profit was -0.52%.
 Random---Always now has $4.765797583099639
 ---------------------------------------------------------------------------
+[2022-06-09 23:02:59] BUY
+Random---Always has bought POLIS for $0.5
+Random---Always now has $4.765797583099639
+---------------------------------------------------------------------------
