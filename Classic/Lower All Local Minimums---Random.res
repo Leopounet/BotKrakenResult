@@ -7878,3 +7878,7 @@ Lower All Local Minimums---Random now has $141.2479748131497
 Lower All Local Minimums---Random has sold USDT for $0.9991. Profit was -0.4%.
 Lower All Local Minimums---Random now has $140.68298291389712
 ---------------------------------------------------------------------------
+[2022-06-09 18:56:14] BUY
+Lower All Local Minimums---Random has bought MINA for $0.836
+Lower All Local Minimums---Random now has $140.68298291389712
+---------------------------------------------------------------------------
