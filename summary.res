@@ -1,4 +1,4 @@
-[2022-06-09 13:02:58] SUMMARY
+[2022-06-09 13:04:57] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.804
-		Maximum:                    0.864
-		Minimum:                    0.804
-		Variance:                   0.069444
-		Mean:                       0.830614
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.086957
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.3125
-		Is falling:                 True
-		Current fall duration:      31
-		Trending downwards:         True
-		Average local maximum:      0.832478
-		Number of local maximums:   23
-		Average local minimum:      0.832875
-		Number of local minimums:   16
-	Is init: True
+	None
 Wins: 14
-Losses: 1370
-Total points: -721.7393499107433%
-Wallet: 7.189968575814003
+Losses: 1371
+Total points: -722.2593499107433%
+Wallet: 7.15258073921977
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: USDTZUSD
-	Altname: USDTUSD
-	Wsname: USDT/USD
-	Base:
-	 	Name: USDT
-		Altname: USDT
-		decimals: 8
-		displayed_decimals: 4
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 5
-	Data about this pair of assets (USDTZUSD):
-		Current:                    0.9991
-		Maximum:                    0.9994
-		Minimum:                    0.999
-		Variance:                   0.0004
-		Mean:                       0.999249
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.52
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.571429
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      0.999216
-		Number of local maximums:   50
-		Average local minimum:      0.99926
-		Number of local minimums:   42
-	Is init: True
+	None
 Wins: 129
-Losses: 1255
-Total points: -606.1732637421402%
-Wallet: 22.495264442348613
+Losses: 1256
+Total points: -606.5732637421402%
+Wallet: 22.40528338457922
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
