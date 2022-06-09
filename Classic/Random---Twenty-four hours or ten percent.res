@@ -26,3 +26,7 @@ Random---Twenty-four hours or ten percent now has $9306.819356665505
 Random---Twenty-four hours or ten percent has bought IDEX for $0.07788
 Random---Twenty-four hours or ten percent now has $9306.819356665505
 ---------------------------------------------------------------------------
+[2022-06-09 16:32:17] SOLD
+Random---Twenty-four hours or ten percent has sold IDEX for $0.07005. Profit was -10.573929121725735%.
+Random---Twenty-four hours or ten percent now has $8322.722874404642
+---------------------------------------------------------------------------
