@@ -6874,3 +6874,7 @@ Random---Random now has $128.4047893455688
 Random---Random has bought GHST for $1.47
 Random---Random now has $128.4047893455688
 ---------------------------------------------------------------------------
+[2022-06-09 06:45:09] SOLD
+Random---Random has sold GHST for $1.47. Profit was -0.52%.
+Random---Random now has $127.73708444097183
+---------------------------------------------------------------------------
