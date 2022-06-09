@@ -26,3 +26,7 @@ Mean---Twenty-four hours or ten percent decreasing now has $10532.666542854537
 Mean---Twenty-four hours or ten percent decreasing has bought XXBT for $30390.8
 Mean---Twenty-four hours or ten percent decreasing now has $10532.666542854537
 ---------------------------------------------------------------------------
+[2022-06-09 16:26:06] SOLD
+Mean---Twenty-four hours or ten percent decreasing has sold XXBT for $30186.7. Profit was -1.1915848217223597%.
+Mean---Twenty-four hours or ten percent decreasing now has $10407.160887007252
+---------------------------------------------------------------------------

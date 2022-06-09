@@ -26,3 +26,7 @@ Random---Twenty-four hours now has $9490.935474733662
 Random---Twenty-four hours has bought T for $0.0534
 Random---Twenty-four hours now has $9490.935474733662
 ---------------------------------------------------------------------------
+[2022-06-09 16:26:06] SOLD
+Random---Twenty-four hours has sold T for $0.05111. Profit was -4.808389513108615%.
+Random---Twenty-four hours now has $9034.574328670664
+---------------------------------------------------------------------------

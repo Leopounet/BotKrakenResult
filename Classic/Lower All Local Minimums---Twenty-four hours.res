@@ -26,3 +26,7 @@ Lower All Local Minimums---Twenty-four hours now has $7951.629134653169
 Lower All Local Minimums---Twenty-four hours has bought UST for $0.01195
 Lower All Local Minimums---Twenty-four hours now has $7951.629134653169
 ---------------------------------------------------------------------------
+[2022-06-09 16:26:06] SOLD
+Lower All Local Minimums---Twenty-four hours has sold UST for $0.0102. Profit was -15.044351464435147%.
+Lower All Local Minimums---Twenty-four hours now has $6755.358100487523
+---------------------------------------------------------------------------
