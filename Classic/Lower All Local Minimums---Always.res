@@ -11806,3 +11806,7 @@ Lower All Local Minimums---Always now has $14.664377214723395
 Lower All Local Minimums---Always has sold GST for $0.549. Profit was 7.127058823529429%.
 Lower All Local Minimums---Always now has $15.709516004920978
 ---------------------------------------------------------------------------
+[2022-06-09 19:31:22] BUY
+Lower All Local Minimums---Always has bought ICP for $6.364
+Lower All Local Minimums---Always now has $15.709516004920978
+---------------------------------------------------------------------------
