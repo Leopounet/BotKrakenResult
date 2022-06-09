@@ -30,3 +30,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $12100.2472559847
 Variance---Twenty-four hours or ten percent decreasing has sold IDEX for $0.07999. Profit was 2.1102283808057547%.
 Variance---Twenty-four hours or ten percent decreasing now has $12355.590107728176
 ---------------------------------------------------------------------------
+[2022-06-09 05:23:12] BUY
+Variance---Twenty-four hours or ten percent decreasing has bought LUNA2 for $2.88381
+Variance---Twenty-four hours or ten percent decreasing now has $12355.590107728176
+---------------------------------------------------------------------------
