@@ -11842,3 +11842,7 @@ Variance Lower All Local Minimums---Always now has $4.3804613196256135
 Variance Lower All Local Minimums---Always has bought 1INCH for $0.809
 Variance Lower All Local Minimums---Always now has $4.3804613196256135
 ---------------------------------------------------------------------------
+[2022-06-09 19:50:20] SOLD
+Variance Lower All Local Minimums---Always has sold 1INCH for $0.805. Profit was -1.0144375772558685%.
+Variance Lower All Local Minimums---Always now has $4.336024273942173
+---------------------------------------------------------------------------
