@@ -11022,3 +11022,7 @@ Lower All Local Minimums---Always now has $23.18652022256777
 Lower All Local Minimums---Always has sold LSK for $1.338797. Profit was -0.52%.
 Lower All Local Minimums---Always now has $23.065950317410415
 ---------------------------------------------------------------------------
+[2022-06-09 12:38:39] BUY
+Lower All Local Minimums---Always has bought LSK for $1.338797
+Lower All Local Minimums---Always now has $23.065950317410415
+---------------------------------------------------------------------------
