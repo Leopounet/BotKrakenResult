@@ -1,4 +1,4 @@
-[2022-06-09 19:22:59] SUMMARY
+[2022-06-09 19:25:04] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.809
-		Maximum:                    0.864
-		Minimum:                    0.804
-		Variance:                   0.069444
-		Mean:                       0.827367
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.181818
-		Is ascending:               True
-		Current ascension duration: 8
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.125
-		Is falling:                 True
-		Current fall duration:      13
-		Trending downwards:         True
-		Average local maximum:      0.830091
-		Number of local maximums:   22
-		Average local minimum:      0.828125
-		Number of local minimums:   16
-	Is init: True
+	None
 Wins: 15
-Losses: 1459
-Total points: -768.0344125757144%
-Wallet: 4.519654013709677
+Losses: 1460
+Total points: -768.5544125757144%
+Wallet: 4.496151812838387
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MINAUSD
-	Altname: MINAUSD
-	Wsname: MINA/USD
-	Base:
-	 	Name: MINA
-		Altname: MINA
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (MINAUSD):
-		Current:                    0.836
-		Maximum:                    0.887
-		Minimum:                    0.83
-		Variance:                   0.064262
-		Mean:                       0.850057
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.833333
-		Is ascending:               True
-		Current ascension duration: 8
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.176471
-		Is falling:                 True
-		Current fall duration:      5
-		Trending downwards:         True
-		Average local maximum:      0.846222
-		Number of local maximums:   36
-		Average local minimum:      0.847941
-		Number of local minimums:   34
-	Is init: True
+	None
 Wins: 132
-Losses: 1342
-Total points: -648.3264334881865%
-Wallet: 14.74103057370667
+Losses: 1343
+Total points: -648.8464334881864%
+Wallet: 14.664377214723395
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
