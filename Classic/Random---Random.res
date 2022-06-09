@@ -7674,3 +7674,7 @@ Random---Random now has $75.31363320273712
 Random---Random has bought TRIBE for $0.2011
 Random---Random now has $75.31363320273712
 ---------------------------------------------------------------------------
+[2022-06-09 16:44:49] SOLD
+Random---Random has sold TRIBE for $0.2011. Profit was -0.52%.
+Random---Random now has $74.92200231008289
+---------------------------------------------------------------------------
