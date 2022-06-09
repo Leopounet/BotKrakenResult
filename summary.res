@@ -1,4 +1,4 @@
-[2022-06-09 07:03:04] SUMMARY
+[2022-06-09 07:05:02] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.819
+		Maximum:                    0.873
+		Minimum:                    0.809
+		Variance:                   0.07331
+		Mean:                       0.835631
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          1.875
+		Is ascending:               True
+		Current ascension duration: 41
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               4.8
+		Is falling:                 True
+		Current fall duration:      21
+		Trending downwards:         True
+		Average local maximum:      0.836625
+		Number of local maximums:   24
+		Average local minimum:      0.837467
+		Number of local minimums:   15
+	Is init: True
 Wins: 14
 Losses: 1281
 Total points: -675.4570877703521%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: KINUSD
+	Altname: KINUSD
+	Wsname: KIN/USD
+	Base:
+	 	Name: KIN
+		Altname: KIN
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 250000
+	Data about this pair of assets (KINUSD):
+		Current:                    1.4e-05
+		Maximum:                    1.8e-05
+		Minimum:                    1.3e-05
+		Variance:                   0.269126
+		Mean:                       1.5e-05
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.428571
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.625
+		Is falling:                 True
+		Current fall duration:      19
+		Trending downwards:         True
+		Average local maximum:      1.5e-05
+		Number of local maximums:   28
+		Average local minimum:      1.5e-05
+		Number of local minimums:   32
+	Is init: True
 Wins: 121
 Losses: 1174
 Total points: -571.9363152892387%
