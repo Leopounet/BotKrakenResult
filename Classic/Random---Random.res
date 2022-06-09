@@ -7850,3 +7850,7 @@ Random---Random now has $67.3894332736657
 Random---Random has bought COTI for $0.1336
 Random---Random now has $67.3894332736657
 ---------------------------------------------------------------------------
+[2022-06-09 19:08:34] SOLD
+Random---Random has sold COTI for $0.1336. Profit was -0.52%.
+Random---Random now has $67.03900822064264
+---------------------------------------------------------------------------
