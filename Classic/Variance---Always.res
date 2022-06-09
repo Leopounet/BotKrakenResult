@@ -12218,3 +12218,7 @@ Variance---Always now has $1.7536071207274235
 Variance---Always has bought MV for $0.6006
 Variance---Always now has $1.7536071207274235
 ---------------------------------------------------------------------------
+[2022-06-09 23:05:01] SOLD
+Variance---Always has sold MV for $0.6006. Profit was -0.52%.
+Variance---Always now has $1.7444883636996409
+---------------------------------------------------------------------------
