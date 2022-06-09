@@ -10922,3 +10922,7 @@ Recent Minimum---Always now has $9.176108364971133
 Recent Minimum---Always has bought API3 for $1.463
 Recent Minimum---Always now has $9.176108364971133
 ---------------------------------------------------------------------------
+[2022-06-09 11:48:17] SOLD
+Recent Minimum---Always has sold API3 for $1.463. Profit was -0.52%.
+Recent Minimum---Always now has $9.128392601473283
+---------------------------------------------------------------------------
