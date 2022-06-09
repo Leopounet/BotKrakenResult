@@ -11526,3 +11526,7 @@ Lower All Local Minimums---Always now has $17.417728021982153
 Lower All Local Minimums---Always has sold LSK for $1.34045. Profit was -0.52%.
 Lower All Local Minimums---Always now has $17.327155836267846
 ---------------------------------------------------------------------------
+[2022-06-09 17:07:34] BUY
+Lower All Local Minimums---Always has bought GST for $0.538
+Lower All Local Minimums---Always now has $17.327155836267846
+---------------------------------------------------------------------------
