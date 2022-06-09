@@ -7942,3 +7942,7 @@ Lower All Local Minimums---Random now has $135.64131900945566
 Lower All Local Minimums---Random has sold BADGER for $5.063. Profit was -0.52%.
 Lower All Local Minimums---Random now has $134.9359841506065
 ---------------------------------------------------------------------------
+[2022-06-09 19:33:25] BUY
+Lower All Local Minimums---Random has bought ICP for $6.364
+Lower All Local Minimums---Random now has $134.9359841506065
+---------------------------------------------------------------------------
