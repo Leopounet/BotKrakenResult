@@ -1,4 +1,4 @@
-[2022-06-09 17:19:55] SUMMARY
+[2022-06-09 17:22:02] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.817
-		Maximum:                    0.864
-		Minimum:                    0.804
-		Variance:                   0.069444
-		Mean:                       0.828219
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.045455
-		Is ascending:               True
-		Current ascension duration: 10
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.4
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.830091
-		Number of local maximums:   22
-		Average local minimum:      0.8294
-		Number of local minimums:   15
-	Is init: True
+	None
 Wins: 15
-Losses: 1429
-Total points: -751.700018450868%
-Wallet: 5.324145187137503
+Losses: 1430
+Total points: -752.220018450868%
+Wallet: 5.296459632164388
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: USTUSD
-	Altname: USTUSD
-	Wsname: UST/USD
-	Base:
-	 	Name: UST
-		Altname: UST
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 100
-	Data about this pair of assets (USTUSD):
-		Current:                    0.01028
-		Maximum:                    0.01495
-		Minimum:                    0.0074
-		Variance:                   0.505017
-		Mean:                       0.012262
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.857143
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.333333
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      0.01234
-		Number of local maximums:   21
-		Average local minimum:      0.012293
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 132
-Losses: 1312
-Total points: -632.8518262083143%
-Wallet: 17.21532283892372
+Losses: 1313
+Total points: -633.2518262083142%
+Wallet: 17.146461547568023
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
