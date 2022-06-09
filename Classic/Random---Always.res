@@ -11402,3 +11402,7 @@ Random---Always now has $7.978698384435892
 Random---Always has bought STORJ for $0.5666
 Random---Always now has $7.978698384435892
 ---------------------------------------------------------------------------
+[2022-06-09 16:03:28] SOLD
+Random---Always has sold STORJ for $0.5666. Profit was -0.52%.
+Random---Always now has $7.937209152836825
+---------------------------------------------------------------------------
