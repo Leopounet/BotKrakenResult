@@ -8910,3 +8910,7 @@ Lower All Local Minimums---Random now has $84.02969430032367
 Lower All Local Minimums---Random has sold DASH for $56.993. Profit was -0.52%.
 Lower All Local Minimums---Random now has $83.59273988996199
 ---------------------------------------------------------------------------
+[2022-06-10 08:15:27] BUY
+Lower All Local Minimums---Random has bought MOVR for $19.9372
+Lower All Local Minimums---Random now has $83.59273988996199
+---------------------------------------------------------------------------
