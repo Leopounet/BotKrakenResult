@@ -12358,3 +12358,7 @@ Lower All Local Minimums---Always now has $12.474093727351276
 Lower All Local Minimums---Always has sold EOS for $1.2404. Profit was -0.52%.
 Lower All Local Minimums---Always now has $12.409228439969048
 ---------------------------------------------------------------------------
+[2022-06-10 00:15:40] BUY
+Lower All Local Minimums---Always has bought SHIB for $1.049e-05
+Lower All Local Minimums---Always now has $12.409228439969048
+---------------------------------------------------------------------------
