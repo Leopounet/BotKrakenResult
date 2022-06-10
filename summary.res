@@ -1,4 +1,4 @@
-[2022-06-10 08:05:29] SUMMARY
+[2022-06-10 08:07:29] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.801
+		Maximum:                    0.864
+		Minimum:                    0.786
+		Variance:                   0.090278
+		Mean:                       0.819821
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.863636
+		Is ascending:               True
+		Current ascension duration: 16
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.142857
+		Is falling:                 False
+		Current fall duration:      2
+		Trending downwards:         True
+		Average local maximum:      0.825045
+		Number of local maximums:   22
+		Average local minimum:      0.821048
+		Number of local minimums:   21
+	Is init: True
 Wins: 17
 Losses: 1645
 Total points: -866.6446919227589%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: DASHUSD
+	Altname: DASHUSD
+	Wsname: DASH/USD
+	Base:
+	 	Name: DASH
+		Altname: DASH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.03
+	Data about this pair of assets (DASHUSD):
+		Current:                    56.993
+		Maximum:                    60.573
+		Minimum:                    56.45
+		Variance:                   0.068067
+		Mean:                       58.052015
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               False
+		Current ascension duration: 2
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 True
+		Current fall duration:      20
+		Trending downwards:         True
+		Average local maximum:      57.99
+		Number of local maximums:   32
+		Average local minimum:      58.142406
+		Number of local minimums:   32
+	Is init: True
 Wins: 137
 Losses: 1525
 Total points: -724.2905639204471%

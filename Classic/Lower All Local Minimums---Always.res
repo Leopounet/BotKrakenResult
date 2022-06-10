@@ -13294,3 +13294,7 @@ Lower All Local Minimums---Always now has $6.848973478481253
 Lower All Local Minimums---Always has sold USDT for $0.9991. Profit was -0.38998998998998025%.
 Lower All Local Minimums---Always now has $6.822263167498107
 ---------------------------------------------------------------------------
+[2022-06-10 08:07:29] BUY
+Lower All Local Minimums---Always has bought DASH for $56.993
+Lower All Local Minimums---Always now has $6.822263167498107
+---------------------------------------------------------------------------
