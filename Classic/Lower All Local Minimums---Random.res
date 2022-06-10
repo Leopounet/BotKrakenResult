@@ -9854,3 +9854,7 @@ Lower All Local Minimums---Random now has $45.70411966890996
 Lower All Local Minimums---Random has sold USDT for $0.9989. Profit was -0.38998798558269565%.
 Lower All Local Minimums---Random now has $45.52587909328487
 ---------------------------------------------------------------------------
+[2022-06-10 20:16:29] BUY
+Lower All Local Minimums---Random has bought NANO for $1.06555
+Lower All Local Minimums---Random now has $45.52587909328487
+---------------------------------------------------------------------------
