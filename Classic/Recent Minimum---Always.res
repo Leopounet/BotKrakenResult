@@ -13930,3 +13930,7 @@ Recent Minimum---Always now has $1.2445353407776354
 Recent Minimum---Always has bought BICO for $0.647
 Recent Minimum---Always now has $1.2445353407776354
 ---------------------------------------------------------------------------
+[2022-06-10 13:28:06] SOLD
+Recent Minimum---Always has sold BICO for $0.63. Profit was -3.1475115919629055%.
+Recent Minimum---Always now has $1.2053634466605843
+---------------------------------------------------------------------------
