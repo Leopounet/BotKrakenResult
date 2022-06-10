@@ -8270,3 +8270,7 @@ Lower All Local Minimums---Random now has $114.1623495565543
 Lower All Local Minimums---Random has sold MOVR for $19.9579. Profit was -0.28042430513003547%.
 Lower All Local Minimums---Random now has $113.84221058109021
 ---------------------------------------------------------------------------
+[2022-06-10 00:27:44] BUY
+Lower All Local Minimums---Random has bought CTSI for $0.221
+Lower All Local Minimums---Random now has $113.84221058109021
+---------------------------------------------------------------------------
