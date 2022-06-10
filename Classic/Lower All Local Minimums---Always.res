@@ -13610,3 +13610,7 @@ Lower All Local Minimums---Always now has $5.510278853002789
 Lower All Local Minimums---Always has bought NANO for $1.136618
 Lower All Local Minimums---Always now has $5.510278853002789
 ---------------------------------------------------------------------------
+[2022-06-10 10:46:44] SOLD
+Lower All Local Minimums---Always has sold NANO for $1.136618. Profit was -0.52%.
+Lower All Local Minimums---Always now has $5.4816254029671745
+---------------------------------------------------------------------------
