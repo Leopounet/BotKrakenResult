@@ -13686,3 +13686,7 @@ Lower All Local Minimums---Always now has $5.305961018370929
 Lower All Local Minimums---Always has sold MOVR for $19.7225. Profit was -0.52%.
 Lower All Local Minimums---Always now has $5.2783700210754
 ---------------------------------------------------------------------------
+[2022-06-10 11:25:00] BUY
+Lower All Local Minimums---Always has bought USDT for $0.999
+Lower All Local Minimums---Always now has $5.2783700210754
+---------------------------------------------------------------------------
