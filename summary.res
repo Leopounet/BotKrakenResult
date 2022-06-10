@@ -1,4 +1,4 @@
-[2022-06-10 02:56:47] SUMMARY
+[2022-06-10 02:58:48] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.797
-		Maximum:                    0.864
-		Minimum:                    0.786
-		Variance:                   0.090278
-		Mean:                       0.823194
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.727273
-		Is ascending:               True
-		Current ascension duration: 18
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.3
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.828545
-		Number of local maximums:   22
-		Average local minimum:      0.82295
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 16
-Losses: 1569
-Total points: -827.4878838825084%
-Wallet: 2.489411490165752
+Losses: 1570
+Total points: -828.0078838825084%
+Wallet: 2.47646655041689
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CHZUSD
-	Altname: CHZUSD
-	Wsname: CHZ/USD
-	Base:
-	 	Name: CHZ
-		Altname: CHZ
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (CHZUSD):
-		Current:                    0.1188
-		Maximum:                    0.1266
-		Minimum:                    0.1169
-		Variance:                   0.076619
-		Mean:                       0.121273
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.444444
-		Is ascending:               True
-		Current ascension duration: 13
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.612903
-		Is falling:                 True
-		Current fall duration:      5
-		Trending downwards:         True
-		Average local maximum:      0.121181
-		Number of local maximums:   27
-		Average local minimum:      0.121442
-		Number of local minimums:   31
-	Is init: True
+	None
 Wins: 137
-Losses: 1448
-Total points: -684.4251057635479%
-Wallet: 10.174760400642132
+Losses: 1449
+Total points: -684.9451057635479%
+Wallet: 10.121851646558794
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
