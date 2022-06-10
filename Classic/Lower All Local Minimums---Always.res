@@ -12342,3 +12342,7 @@ Lower All Local Minimums---Always now has $11.801852374320227
 Lower All Local Minimums---Always has sold GST for $0.489. Profit was 6.248558951965064%.
 Lower All Local Minimums---Always now has $12.539298077353514
 ---------------------------------------------------------------------------
+[2022-06-10 00:07:35] BUY
+Lower All Local Minimums---Always has bought BADGER for $5.059
+Lower All Local Minimums---Always now has $12.539298077353514
+---------------------------------------------------------------------------
