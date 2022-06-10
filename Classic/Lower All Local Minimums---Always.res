@@ -12550,3 +12550,7 @@ Lower All Local Minimums---Always now has $11.016480347342968
 Lower All Local Minimums---Always has sold CHZ for $0.1182. Profit was -0.52%.
 Lower All Local Minimums---Always now has $10.959194649536785
 ---------------------------------------------------------------------------
+[2022-06-10 01:52:28] BUY
+Lower All Local Minimums---Always has bought SHIB for $1.046e-05
+Lower All Local Minimums---Always now has $10.959194649536785
+---------------------------------------------------------------------------
