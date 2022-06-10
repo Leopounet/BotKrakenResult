@@ -14486,3 +14486,7 @@ Lower All Local Minimums---Always now has $3.15446557604653
 Lower All Local Minimums---Always has sold NANO for $1.054. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3.138062355051088
 ---------------------------------------------------------------------------
+[2022-06-10 18:14:04] BUY
+Lower All Local Minimums---Always has bought SNX for $2.473
+Lower All Local Minimums---Always now has $3.138062355051088
+---------------------------------------------------------------------------
