@@ -14478,3 +14478,7 @@ Recent Minimum---Always now has $0.8338942862407299
 Recent Minimum---Always has sold ANT for $1.7. Profit was -0.52%.
 Recent Minimum---Always now has $0.8295580359522782
 ---------------------------------------------------------------------------
+[2022-06-10 18:09:43] BUY
+Recent Minimum---Always has bought ANKR for $0.03507
+Recent Minimum---Always now has $0.8295580359522782
+---------------------------------------------------------------------------
