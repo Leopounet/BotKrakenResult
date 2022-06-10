@@ -38,3 +38,7 @@ Random---Twenty-four hours or ten percent now has $8322.722874404642
 Random---Twenty-four hours or ten percent has sold GLMR for $1.198. Profit was -7.145097427903348%.
 Random---Twenty-four hours or ten percent now has $7728.056216374032
 ---------------------------------------------------------------------------
+[2022-06-10 16:33:11] BUY
+Random---Twenty-four hours or ten percent has bought GMT for $0.914
+Random---Twenty-four hours or ten percent now has $7728.056216374032
+---------------------------------------------------------------------------
