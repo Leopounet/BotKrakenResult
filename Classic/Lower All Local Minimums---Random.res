@@ -8422,3 +8422,7 @@ Lower All Local Minimums---Random now has $113.74482660200182
 Lower All Local Minimums---Random has sold CHZ for $0.1185. Profit was -0.52%.
 Lower All Local Minimums---Random now has $113.15335350367141
 ---------------------------------------------------------------------------
+[2022-06-10 02:12:38] BUY
+Lower All Local Minimums---Random has bought CHZ for $0.1185
+Lower All Local Minimums---Random now has $113.15335350367141
+---------------------------------------------------------------------------
