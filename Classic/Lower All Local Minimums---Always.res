@@ -14494,3 +14494,7 @@ Lower All Local Minimums---Always now has $3.138062355051088
 Lower All Local Minimums---Always has sold SNX for $2.473. Profit was -0.52%.
 Lower All Local Minimums---Always now has $3.1217444308048226
 ---------------------------------------------------------------------------
+[2022-06-10 18:18:33] BUY
+Lower All Local Minimums---Always has bought USDT for $0.9989
+Lower All Local Minimums---Always now has $3.1217444308048226
+---------------------------------------------------------------------------
