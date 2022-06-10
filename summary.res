@@ -1,4 +1,4 @@
-[2022-06-10 00:07:35] SUMMARY
+[2022-06-10 00:09:37] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.797
-		Maximum:                    0.864
-		Minimum:                    0.797
-		Variance:                   0.077546
-		Mean:                       0.824717
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.428571
-		Is ascending:               True
-		Current ascension duration: 8
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.705882
-		Is falling:                 True
-		Current fall duration:      70
-		Trending downwards:         True
-		Average local maximum:      0.830429
-		Number of local maximums:   21
-		Average local minimum:      0.826294
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 15
-Losses: 1528
-Total points: -805.0299681653914%
-Wallet: 3.118816131896056
+Losses: 1529
+Total points: -805.5499681653914%
+Wallet: 3.1025982880101965
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BADGERUSD
-	Altname: BADGERUSD
-	Wsname: BADGER/USD
-	Base:
-	 	Name: BADGER
-		Altname: BADGER
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (BADGERUSD):
-		Current:                    5.059
-		Maximum:                    5.879
-		Minimum:                    5.023
-		Variance:                   0.145603
-		Mean:                       5.50131
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.521739
-		Is ascending:               True
-		Current ascension duration: 12
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.555556
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         True
-		Average local maximum:      5.419217
-		Number of local maximums:   23
-		Average local minimum:      5.489519
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 136
-Losses: 1407
-Total points: -663.5921456373308%
-Wallet: 12.539298077353514
+Losses: 1408
+Total points: -664.1121456373307%
+Wallet: 12.474093727351276
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent

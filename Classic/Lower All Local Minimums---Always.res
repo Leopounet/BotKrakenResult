@@ -12346,3 +12346,7 @@ Lower All Local Minimums---Always now has $12.539298077353514
 Lower All Local Minimums---Always has bought BADGER for $5.059
 Lower All Local Minimums---Always now has $12.539298077353514
 ---------------------------------------------------------------------------
+[2022-06-10 00:09:37] SOLD
+Lower All Local Minimums---Always has sold BADGER for $5.059. Profit was -0.52%.
+Lower All Local Minimums---Always now has $12.474093727351276
+---------------------------------------------------------------------------
