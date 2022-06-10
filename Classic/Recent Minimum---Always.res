@@ -14438,3 +14438,7 @@ Recent Minimum---Always now has $0.864304225829373
 Recent Minimum---Always has sold 1INCH for $0.753. Profit was -0.52%.
 Recent Minimum---Always now has $0.8598098438550603
 ---------------------------------------------------------------------------
+[2022-06-10 17:49:01] BUY
+Recent Minimum---Always has bought CFG for $0.2741
+Recent Minimum---Always now has $0.8598098438550603
+---------------------------------------------------------------------------
