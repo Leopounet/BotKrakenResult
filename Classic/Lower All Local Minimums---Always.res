@@ -12858,3 +12858,7 @@ Lower All Local Minimums---Always now has $9.072172016313093
 Lower All Local Minimums---Always has bought CHZ for $0.1193
 Lower All Local Minimums---Always now has $9.072172016313093
 ---------------------------------------------------------------------------
+[2022-06-10 04:27:30] SOLD
+Lower All Local Minimums---Always has sold CHZ for $0.1193. Profit was -0.52%.
+Lower All Local Minimums---Always now has $9.024996721828265
+---------------------------------------------------------------------------
