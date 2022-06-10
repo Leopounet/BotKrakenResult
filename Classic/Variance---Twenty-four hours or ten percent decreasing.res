@@ -42,3 +42,7 @@ Variance---Twenty-four hours or ten percent decreasing now has $13916.0111002505
 Variance---Twenty-four hours or ten percent decreasing has bought MV for $0.6006
 Variance---Twenty-four hours or ten percent decreasing now has $13916.01110025056
 ---------------------------------------------------------------------------
+[2022-06-10 23:11:16] SOLD
+Variance---Twenty-four hours or ten percent decreasing has sold MV for $0.5753. Profit was -4.732454212454208%.
+Variance---Twenty-four hours or ten percent decreasing now has $13257.442246731158
+---------------------------------------------------------------------------
