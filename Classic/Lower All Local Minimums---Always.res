@@ -12374,3 +12374,7 @@ Lower All Local Minimums---Always now has $12.202745503292242
 Lower All Local Minimums---Always has sold MOVR for $19.9579. Profit was -0.28042430513003547%.
 Lower All Local Minimums---Always now has $12.168526039007848
 ---------------------------------------------------------------------------
+[2022-06-10 00:23:41] BUY
+Lower All Local Minimums---Always has bought YFI for $7328.0
+Lower All Local Minimums---Always now has $12.168526039007848
+---------------------------------------------------------------------------
