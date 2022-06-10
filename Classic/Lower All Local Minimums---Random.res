@@ -8406,3 +8406,7 @@ Lower All Local Minimums---Random now has $114.18019959284246
 Lower All Local Minimums---Random has sold SHIB for $1.05e-05. Profit was -0.13759082217973573%.
 Lower All Local Minimums---Random now has $114.0230981174562
 ---------------------------------------------------------------------------
+[2022-06-10 02:04:42] BUY
+Lower All Local Minimums---Random has bought EOS for $1.2321
+Lower All Local Minimums---Random now has $114.0230981174562
+---------------------------------------------------------------------------
