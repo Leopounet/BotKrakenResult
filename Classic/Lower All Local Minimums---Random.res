@@ -8974,3 +8974,7 @@ Lower All Local Minimums---Random now has $80.18294836269693
 Lower All Local Minimums---Random has sold MOVR for $19.8506. Profit was -0.5013572900553727%.
 Lower All Local Minimums---Random now has $79.78094530569922
 ---------------------------------------------------------------------------
+[2022-06-10 09:21:58] BUY
+Lower All Local Minimums---Random has bought NANO for $1.13835
+Lower All Local Minimums---Random now has $79.78094530569922
+---------------------------------------------------------------------------
