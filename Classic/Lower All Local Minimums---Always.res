@@ -12918,3 +12918,7 @@ Lower All Local Minimums---Always now has $8.748470614448438
 Lower All Local Minimums---Always has sold DASH for $57.233. Profit was -0.52%.
 Lower All Local Minimums---Always now has $8.702978567253306
 ---------------------------------------------------------------------------
+[2022-06-10 04:57:39] BUY
+Lower All Local Minimums---Always has bought NANO for $1.158092
+Lower All Local Minimums---Always now has $8.702978567253306
+---------------------------------------------------------------------------
