@@ -13790,3 +13790,7 @@ Lower All Local Minimums---Always now has $5.001784996658721
 Lower All Local Minimums---Always has sold NANO for $1.14161. Profit was -0.52%.
 Lower All Local Minimums---Always now has $4.975775714676096
 ---------------------------------------------------------------------------
+[2022-06-10 12:17:25] BUY
+Lower All Local Minimums---Always has bought EOS for $1.238
+Lower All Local Minimums---Always now has $4.975775714676096
+---------------------------------------------------------------------------
