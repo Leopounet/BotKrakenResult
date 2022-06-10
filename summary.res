@@ -1,4 +1,4 @@
-[2022-06-10 10:18:28] SUMMARY
+[2022-06-10 10:20:28] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.785
+		Maximum:                    0.864
+		Minimum:                    0.785
+		Variance:                   0.091435
+		Mean:                       0.817492
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.590909
+		Is ascending:               True
+		Current ascension duration: 10
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.473684
+		Is falling:                 True
+		Current fall duration:      28
+		Trending downwards:         True
+		Average local maximum:      0.822591
+		Number of local maximums:   22
+		Average local minimum:      0.813263
+		Number of local minimums:   19
+	Is init: True
 Wins: 17
 Losses: 1678
 Total points: -885.3104143324838%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: NANOUSD
+	Altname: NANOUSD
+	Wsname: NANO/USD
+	Base:
+	 	Name: NANO
+		Altname: NANO
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1.5
+	Data about this pair of assets (NANOUSD):
+		Current:                    1.136618
+		Maximum:                    1.217291
+		Minimum:                    1.136618
+		Variance:                   0.066273
+		Mean:                       1.174528
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.342857
+		Is ascending:               True
+		Current ascension duration: 3
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.692308
+		Is falling:                 True
+		Current fall duration:      6
+		Trending downwards:         True
+		Average local maximum:      1.17591
+		Number of local maximums:   35
+		Average local minimum:      1.175682
+		Number of local minimums:   39
+	Is init: True
 Wins: 137
 Losses: 1558
 Total points: -742.4660558533567%
