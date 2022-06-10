@@ -12702,3 +12702,7 @@ Lower All Local Minimums---Always now has $10.069218017996688
 Lower All Local Minimums---Always has sold YFI for $7392.0. Profit was -0.52%.
 Lower All Local Minimums---Always now has $10.016858084303106
 ---------------------------------------------------------------------------
+[2022-06-10 03:08:47] BUY
+Lower All Local Minimums---Always has bought ASTR for $0.0593
+Lower All Local Minimums---Always now has $10.016858084303106
+---------------------------------------------------------------------------

@@ -8502,3 +8502,7 @@ Lower All Local Minimums---Random now has $109.30235716444443
 Lower All Local Minimums---Random has sold YFI for $7392.0. Profit was -0.52%.
 Lower All Local Minimums---Random now has $108.73398490718932
 ---------------------------------------------------------------------------
+[2022-06-10 03:08:47] BUY
+Lower All Local Minimums---Random has bought ASTR for $0.0593
+Lower All Local Minimums---Random now has $108.73398490718932
+---------------------------------------------------------------------------
