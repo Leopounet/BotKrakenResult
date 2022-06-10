@@ -12366,3 +12366,7 @@ Lower All Local Minimums---Always now has $12.409228439969048
 Lower All Local Minimums---Always has sold SHIB for $1.037e-05. Profit was -1.663946615824587%.
 Lower All Local Minimums---Always now has $12.202745503292242
 ---------------------------------------------------------------------------
+[2022-06-10 00:19:40] BUY
+Lower All Local Minimums---Always has bought MOVR for $19.9102
+Lower All Local Minimums---Always now has $12.202745503292242
+---------------------------------------------------------------------------
