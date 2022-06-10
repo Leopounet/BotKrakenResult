@@ -8362,3 +8362,7 @@ Variance---Random now has $21.158007929752074
 Variance---Random has bought MV for $0.596
 Variance---Random now has $21.158007929752074
 ---------------------------------------------------------------------------
+[2022-06-10 01:56:28] SOLD
+Variance---Random has sold MV for $0.596. Profit was -0.52%.
+Variance---Random now has $21.047986288517365
+---------------------------------------------------------------------------
