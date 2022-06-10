@@ -14638,3 +14638,7 @@ Lower All Local Minimums---Always now has $2.8742421698053713
 Lower All Local Minimums---Always has sold NANO for $1.054. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2.8592961105223833
 ---------------------------------------------------------------------------
+[2022-06-10 19:31:54] BUY
+Lower All Local Minimums---Always has bought YFI for $7021.0
+Lower All Local Minimums---Always now has $2.8592961105223833
+---------------------------------------------------------------------------
