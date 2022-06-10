@@ -1,4 +1,4 @@
-[2022-06-10 09:11:54] SUMMARY
+[2022-06-10 09:13:53] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.789
-		Maximum:                    0.864
-		Minimum:                    0.786
-		Variance:                   0.090278
-		Mean:                       0.818814
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.608696
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.45
-		Is falling:                 True
-		Current fall duration:      15
-		Trending downwards:         True
-		Average local maximum:      0.824
-		Number of local maximums:   23
-		Average local minimum:      0.8193
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 17
-Losses: 1661
-Total points: -875.9634434833079%
-Wallet: 1.5310183703318396
+Losses: 1662
+Total points: -876.4834434833078%
+Wallet: 1.523057074806114
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MOVRUSD
-	Altname: MOVRUSD
-	Wsname: MOVR/USD
-	Base:
-	 	Name: MOVR
-		Altname: MOVR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (MOVRUSD):
-		Current:                    19.8169
-		Maximum:                    20.9912
-		Minimum:                    19.8169
-		Variance:                   0.055942
-		Mean:                       20.353407
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.08
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.205882
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      20.354528
-		Number of local maximums:   25
-		Average local minimum:      20.358197
-		Number of local minimums:   34
-	Is init: True
+	None
 Wins: 137
-Losses: 1541
-Total points: -733.2864812400652%
-Wallet: 6.233636175539556
+Losses: 1542
+Total points: -733.8064812400652%
+Wallet: 6.20122126742675
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
