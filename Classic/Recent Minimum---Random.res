@@ -9174,3 +9174,7 @@ Recent Minimum---Random now has $18.808669018036657
 Recent Minimum---Random has sold 1INCH for $0.762. Profit was -1.430273081924573%.
 Recent Minimum---Random now has $18.53965368800339
 ---------------------------------------------------------------------------
+[2022-06-10 13:26:04] BUY
+Recent Minimum---Random has bought BICO for $0.647
+Recent Minimum---Random now has $18.53965368800339
+---------------------------------------------------------------------------

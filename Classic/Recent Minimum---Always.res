@@ -13926,3 +13926,7 @@ Recent Minimum---Always now has $1.2625938811943853
 Recent Minimum---Always has sold 1INCH for $0.762. Profit was -1.430273081924573%.
 Recent Minimum---Always now has $1.2445353407776354
 ---------------------------------------------------------------------------
+[2022-06-10 13:26:04] BUY
+Recent Minimum---Always has bought BICO for $0.647
+Recent Minimum---Always now has $1.2445353407776354
+---------------------------------------------------------------------------
