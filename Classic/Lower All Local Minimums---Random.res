@@ -8350,3 +8350,7 @@ Lower All Local Minimums---Random now has $109.61203948829962
 Lower All Local Minimums---Random has sold CTSI for $0.223. Profit was -0.52%.
 Lower All Local Minimums---Random now has $109.04205688296045
 ---------------------------------------------------------------------------
+[2022-06-10 01:22:23] BUY
+Lower All Local Minimums---Random has bought EOS for $1.2303
+Lower All Local Minimums---Random now has $109.04205688296045
+---------------------------------------------------------------------------
