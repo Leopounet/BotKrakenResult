@@ -13302,3 +13302,7 @@ Lower All Local Minimums---Always now has $6.822263167498107
 Lower All Local Minimums---Always has sold DASH for $56.993. Profit was -0.52%.
 Lower All Local Minimums---Always now has $6.7867873990271175
 ---------------------------------------------------------------------------
+[2022-06-10 08:11:27] BUY
+Lower All Local Minimums---Always has bought MOVR for $19.9371
+Lower All Local Minimums---Always now has $6.7867873990271175
+---------------------------------------------------------------------------
