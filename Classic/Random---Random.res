@@ -8434,3 +8434,7 @@ Random---Random now has $46.38329830572001
 Random---Random has bought QTUM for $3.922
 Random---Random now has $46.38329830572001
 ---------------------------------------------------------------------------
+[2022-06-10 03:22:57] SOLD
+Random---Random has sold QTUM for $3.922. Profit was -0.52%.
+Random---Random now has $46.14210515453027
+---------------------------------------------------------------------------
