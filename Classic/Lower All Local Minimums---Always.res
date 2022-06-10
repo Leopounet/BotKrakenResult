@@ -13794,3 +13794,7 @@ Lower All Local Minimums---Always now has $4.975775714676096
 Lower All Local Minimums---Always has bought EOS for $1.238
 Lower All Local Minimums---Always now has $4.975775714676096
 ---------------------------------------------------------------------------
+[2022-06-10 12:19:26] SOLD
+Lower All Local Minimums---Always has sold EOS for $1.238. Profit was -0.52%.
+Lower All Local Minimums---Always now has $4.94990168095978
+---------------------------------------------------------------------------
