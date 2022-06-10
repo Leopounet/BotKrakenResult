@@ -13494,3 +13494,7 @@ Lower All Local Minimums---Always now has $5.987457571413409
 Lower All Local Minimums---Always has sold MOVR for $19.7635. Profit was -0.52%.
 Lower All Local Minimums---Always now has $5.95632279204206
 ---------------------------------------------------------------------------
+[2022-06-10 09:48:13] BUY
+Lower All Local Minimums---Always has bought NANO for $1.142113
+Lower All Local Minimums---Always now has $5.95632279204206
+---------------------------------------------------------------------------
