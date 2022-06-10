@@ -9874,3 +9874,7 @@ Lower All Local Minimums---Random now has $45.05364097048539
 Lower All Local Minimums---Random has bought USDT for $0.9988
 Lower All Local Minimums---Random now has $45.05364097048539
 ---------------------------------------------------------------------------
+[2022-06-10 20:32:52] SOLD
+Lower All Local Minimums---Random has sold USDT for $0.9989. Profit was -0.38998798558269565%.
+Lower All Local Minimums---Random now has $44.87793718363293
+---------------------------------------------------------------------------
