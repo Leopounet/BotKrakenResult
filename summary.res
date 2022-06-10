@@ -1,4 +1,4 @@
-[2022-06-10 02:52:45] SUMMARY
+[2022-06-10 02:54:47] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.797
-		Maximum:                    0.864
-		Minimum:                    0.786
-		Variance:                   0.090278
-		Mean:                       0.823249
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.727273
-		Is ascending:               True
-		Current ascension duration: 17
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.3
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.828545
-		Number of local maximums:   22
-		Average local minimum:      0.82295
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 16
-Losses: 1568
-Total points: -826.9678838825084%
-Wallet: 2.502424095462155
+Losses: 1569
+Total points: -827.4878838825084%
+Wallet: 2.489411490165752
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: EOSUSD
-	Altname: EOSUSD
-	Wsname: EOS/USD
-	Base:
-	 	Name: EOS
-		Altname: EOS
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (EOSUSD):
-		Current:                    1.2391
-		Maximum:                    1.3165
-		Minimum:                    1.2186
-		Variance:                   0.074364
-		Mean:                       1.262065
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.230769
-		Is ascending:               True
-		Current ascension duration: 10
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               4.034483
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      1.25919
-		Number of local maximums:   39
-		Average local minimum:      1.260252
-		Number of local minimums:   29
-	Is init: True
+	None
 Wins: 137
-Losses: 1447
-Total points: -683.9051057635479%
-Wallet: 10.227945718377695
+Losses: 1448
+Total points: -684.4251057635479%
+Wallet: 10.174760400642132
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
