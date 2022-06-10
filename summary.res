@@ -1,4 +1,4 @@
-[2022-06-10 18:35:04] SUMMARY
+[2022-06-10 18:37:05] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.76
-		Maximum:                    0.846
-		Minimum:                    0.747
-		Variance:                   0.117021
-		Mean:                       0.8082
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.409091
-		Is ascending:               True
-		Current ascension duration: 23
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.64
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.807818
-		Number of local maximums:   22
-		Average local minimum:      0.8006
-		Number of local minimums:   25
-	Is init: True
+	None
 Wins: 19
-Losses: 1797
-Total points: -949.506655571006%
-Wallet: 0.7321539317688633
+Losses: 1798
+Total points: -950.026655571006%
+Wallet: 0.7283467313236652
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: NANOUSD
-	Altname: NANOUSD
-	Wsname: NANO/USD
-	Base:
-	 	Name: NANO
-		Altname: NANO
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1.5
-	Data about this pair of assets (NANOUSD):
-		Current:                    1.05811
-		Maximum:                    1.217291
-		Minimum:                    1.05
-		Variance:                   0.137429
-		Mean:                       1.163197
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.085714
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.916667
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      1.162853
-		Number of local maximums:   35
-		Average local minimum:      1.167995
-		Number of local minimums:   36
-	Is init: True
+	None
 Wins: 141
-Losses: 1675
-Total points: -803.9359051098187%
-Wallet: 3.0683940892400035
+Losses: 1676
+Total points: -804.4559051098187%
+Wallet: 3.0524384399759557
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
