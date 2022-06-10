@@ -1,4 +1,4 @@
-[2022-06-10 03:57:17] SUMMARY
+[2022-06-10 03:59:22] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.798
-		Maximum:                    0.864
-		Minimum:                    0.786
-		Variance:                   0.090278
-		Mean:                       0.822565
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.608696
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.45
-		Is falling:                 True
-		Current fall duration:      9
-		Trending downwards:         True
-		Average local maximum:      0.827261
-		Number of local maximums:   23
-		Average local minimum:      0.82295
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 17
-Losses: 1583
-Total points: -834.5312634537565%
-Wallet: 2.3196580990169773
+Losses: 1584
+Total points: -835.0512634537565%
+Wallet: 2.307595876902089
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ASTRUSD
-	Altname: ASTRUSD
-	Wsname: ASTR/USD
-	Base:
-	 	Name: ASTR
-		Altname: ASTR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 100
-	Data about this pair of assets (ASTRUSD):
-		Current:                    0.0593
-		Maximum:                    0.0645
-		Minimum:                    0.058
-		Variance:                   0.100775
-		Mean:                       0.061063
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.896552
-		Is ascending:               True
-		Current ascension duration: 13
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.107143
-		Is falling:                 True
-		Current fall duration:      10
-		Trending downwards:         True
-		Average local maximum:      0.061372
-		Number of local maximums:   29
-		Average local minimum:      0.061207
-		Number of local minimums:   28
-	Is init: True
+	None
 Wins: 137
-Losses: 1463
-Total points: -692.2251057635476%
-Wallet: 9.409376361740764
+Losses: 1464
+Total points: -692.7451057635476%
+Wallet: 9.360447604659711
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
