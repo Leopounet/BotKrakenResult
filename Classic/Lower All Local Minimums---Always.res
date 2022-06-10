@@ -12454,3 +12454,7 @@ Lower All Local Minimums---Always now has $11.610741742265285
 Lower All Local Minimums---Always has sold MOVR for $20.002. Profit was 0.10076806213717804%.
 Lower All Local Minimums---Always now has $11.622441661718717
 ---------------------------------------------------------------------------
+[2022-06-10 01:04:07] BUY
+Lower All Local Minimums---Always has bought CTSI for $0.221
+Lower All Local Minimums---Always now has $11.622441661718717
+---------------------------------------------------------------------------
