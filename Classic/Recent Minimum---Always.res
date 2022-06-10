@@ -14458,3 +14458,7 @@ Recent Minimum---Always now has $0.8508910707371455
 Recent Minimum---Always has bought BOND for $3.626
 Recent Minimum---Always now has $0.8508910707371455
 ---------------------------------------------------------------------------
+[2022-06-10 17:59:00] SOLD
+Recent Minimum---Always has sold BOND for $3.591. Profit was -1.4852509652509522%.
+Recent Minimum---Always now has $0.838253202895788
+---------------------------------------------------------------------------
