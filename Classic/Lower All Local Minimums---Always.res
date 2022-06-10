@@ -14918,3 +14918,7 @@ Lower All Local Minimums---Always now has $2.4498178024506108
 Lower All Local Minimums---Always has sold COMP for $51.4. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2.4370787498778674
 ---------------------------------------------------------------------------
+[2022-06-10 21:54:22] BUY
+Lower All Local Minimums---Always has bought USDT for $0.9988
+Lower All Local Minimums---Always now has $2.4370787498778674
+---------------------------------------------------------------------------
