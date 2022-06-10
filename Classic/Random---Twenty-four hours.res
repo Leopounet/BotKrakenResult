@@ -34,3 +34,7 @@ Random---Twenty-four hours now has $9034.574328670664
 Random---Twenty-four hours has bought ICX for $0.3886
 Random---Twenty-four hours now has $9034.574328670664
 ---------------------------------------------------------------------------
+[2022-06-10 16:26:52] SOLD
+Random---Twenty-four hours has sold ICX for $0.3501. Profit was -10.427359752959333%.
+Random---Twenty-four hours now has $8092.506761271663
+---------------------------------------------------------------------------
