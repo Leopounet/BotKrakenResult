@@ -1,4 +1,4 @@
-[2022-06-10 19:48:10] SUMMARY
+[2022-06-10 19:50:10] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.764
-		Maximum:                    0.846
-		Minimum:                    0.747
-		Variance:                   0.117021
-		Mean:                       0.806807
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.681818
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.444444
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.807818
-		Number of local maximums:   22
-		Average local minimum:      0.80037
-		Number of local minimums:   27
-	Is init: True
+	None
 Wins: 19
-Losses: 1815
-Total points: -958.6028033282616%
-Wallet: 0.6683388981769117
+Losses: 1816
+Total points: -959.1228033282616%
+Wallet: 0.6648635359063918
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: KEEPUSD
-	Altname: KEEPUSD
-	Wsname: KEEP/USD
-	Base:
-	 	Name: KEEP
-		Altname: KEEP
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (KEEPUSD):
-		Current:                    0.22608
-		Maximum:                    0.25322
-		Minimum:                    0.22528
-		Variance:                   0.110339
-		Mean:                       0.242614
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.666667
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.454545
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.242578
-		Number of local maximums:   27
-		Average local minimum:      0.242858
-		Number of local minimums:   33
-	Is init: True
+	None
 Wins: 142
-Losses: 1692
-Total points: -812.4292137553105%
-Wallet: 2.8179259143467195
+Losses: 1693
+Total points: -812.9492137553104%
+Wallet: 2.8032726995921164
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
