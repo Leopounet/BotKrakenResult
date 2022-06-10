@@ -14590,3 +14590,7 @@ Lower All Local Minimums---Always now has $2.9620005545093697
 Lower All Local Minimums---Always has sold YFI for $7021.0. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2.946598151625921
 ---------------------------------------------------------------------------
+[2022-06-10 19:07:22] BUY
+Lower All Local Minimums---Always has bought USDT for $0.9988
+Lower All Local Minimums---Always now has $2.946598151625921
+---------------------------------------------------------------------------
