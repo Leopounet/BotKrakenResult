@@ -12854,3 +12854,7 @@ Lower All Local Minimums---Always now has $9.119593904617101
 Lower All Local Minimums---Always has sold MOVR for $20.0387. Profit was -0.52%.
 Lower All Local Minimums---Always now has $9.072172016313093
 ---------------------------------------------------------------------------
+[2022-06-10 04:25:30] BUY
+Lower All Local Minimums---Always has bought CHZ for $0.1193
+Lower All Local Minimums---Always now has $9.072172016313093
+---------------------------------------------------------------------------
