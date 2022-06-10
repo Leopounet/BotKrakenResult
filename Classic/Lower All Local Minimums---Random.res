@@ -8438,3 +8438,7 @@ Lower All Local Minimums---Random now has $112.56495606545232
 Lower All Local Minimums---Random has sold CHZ for $0.1185. Profit was -0.52%.
 Lower All Local Minimums---Random now has $111.97961829391197
 ---------------------------------------------------------------------------
+[2022-06-10 02:26:37] BUY
+Lower All Local Minimums---Random has bought DASH for $57.067
+Lower All Local Minimums---Random now has $111.97961829391197
+---------------------------------------------------------------------------
