@@ -12534,3 +12534,7 @@ Lower All Local Minimums---Always now has $11.089688933250892
 Lower All Local Minimums---Always has sold EOS for $1.2322. Profit was -0.52%.
 Lower All Local Minimums---Always now has $11.032022550797988
 ---------------------------------------------------------------------------
+[2022-06-10 01:44:28] BUY
+Lower All Local Minimums---Always has bought MOVR for $19.8883
+Lower All Local Minimums---Always now has $11.032022550797988
+---------------------------------------------------------------------------
