@@ -12410,3 +12410,7 @@ Recent Minimum---Always now has $3.392119107151194
 Recent Minimum---Always has bought SRM for $1.023
 Recent Minimum---Always now has $3.392119107151194
 ---------------------------------------------------------------------------
+[2022-06-10 00:41:54] SOLD
+Recent Minimum---Always has sold SRM for $1.023. Profit was -0.52%.
+Recent Minimum---Always now has $3.3744800877940078
+---------------------------------------------------------------------------
