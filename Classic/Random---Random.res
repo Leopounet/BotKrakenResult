@@ -8626,3 +8626,7 @@ Random---Random now has $41.5357352695295
 Random---Random has bought KILT for $0.654
 Random---Random now has $41.5357352695295
 ---------------------------------------------------------------------------
+[2022-06-10 05:31:56] SOLD
+Random---Random has sold KILT for $0.654. Profit was -0.52%.
+Random---Random now has $41.31974944612795
+---------------------------------------------------------------------------
