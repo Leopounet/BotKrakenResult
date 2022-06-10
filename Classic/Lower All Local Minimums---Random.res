@@ -8626,3 +8626,7 @@ Lower All Local Minimums---Random now has $101.1254537465824
 Lower All Local Minimums---Random has bought EOS for $1.2406
 Lower All Local Minimums---Random now has $101.1254537465824
 ---------------------------------------------------------------------------
+[2022-06-10 04:41:36] SOLD
+Lower All Local Minimums---Random has sold EOS for $1.2406. Profit was -0.52%.
+Lower All Local Minimums---Random now has $100.59960138710017
+---------------------------------------------------------------------------
