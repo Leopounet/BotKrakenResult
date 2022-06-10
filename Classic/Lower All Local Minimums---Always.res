@@ -13758,3 +13758,7 @@ Lower All Local Minimums---Always now has $5.100522949312605
 Lower All Local Minimums---Always has sold KEEP for $0.2368. Profit was -0.52%.
 Lower All Local Minimums---Always now has $5.074000229976179
 ---------------------------------------------------------------------------
+[2022-06-10 12:01:19] BUY
+Lower All Local Minimums---Always has bought USDT for $0.999
+Lower All Local Minimums---Always now has $5.074000229976179
+---------------------------------------------------------------------------
