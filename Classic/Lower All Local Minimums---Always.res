@@ -14286,3 +14286,7 @@ Lower All Local Minimums---Always now has $3.518765220706211
 Lower All Local Minimums---Always has sold NANO for $1.070452. Profit was -1.8426401179941005%.
 Lower All Local Minimums---Always now has $3.4539270410914544
 ---------------------------------------------------------------------------
+[2022-06-10 16:30:56] BUY
+Lower All Local Minimums---Always has bought OGN for $0.2418
+Lower All Local Minimums---Always now has $3.4539270410914544
+---------------------------------------------------------------------------
