@@ -14750,3 +14750,7 @@ Lower All Local Minimums---Always now has $2.692515479232553
 Lower All Local Minimums---Always has sold USDT for $0.9988. Profit was -0.4%.
 Lower All Local Minimums---Always now has $2.6817454173156228
 ---------------------------------------------------------------------------
+[2022-06-10 20:28:47] BUY
+Lower All Local Minimums---Always has bought GST for $0.384
+Lower All Local Minimums---Always now has $2.6817454173156228
+---------------------------------------------------------------------------
