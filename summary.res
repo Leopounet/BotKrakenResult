@@ -1,4 +1,4 @@
-[2022-06-10 04:45:37] SUMMARY
+[2022-06-10 04:47:38] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.796
-		Maximum:                    0.864
-		Minimum:                    0.786
-		Variance:                   0.090278
-		Mean:                       0.822076
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.727273
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.3
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.826864
-		Number of local maximums:   22
-		Average local minimum:      0.82105
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 17
-Losses: 1595
-Total points: -840.7712634537563%
-Wallet: 2.178980265120665
+Losses: 1596
+Total points: -841.2912634537563%
+Wallet: 2.1676495677420378
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: DASHUSD
-	Altname: DASHUSD
-	Wsname: DASH/USD
-	Base:
-	 	Name: DASH
-		Altname: DASH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.03
-	Data about this pair of assets (DASHUSD):
-		Current:                    57.233
-		Maximum:                    60.573
-		Minimum:                    56.45
-		Variance:                   0.068067
-		Mean:                       58.184681
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.625
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.428571
-		Is falling:                 True
-		Current fall duration:      14
-		Trending downwards:         True
-		Average local maximum:      57.99
-		Number of local maximums:   32
-		Average local minimum:      58.167321
-		Number of local minimums:   28
-	Is init: True
+	None
 Wins: 137
-Losses: 1475
-Total points: -698.4489728281599%
-Wallet: 8.84016933737829
+Losses: 1476
+Total points: -698.9689728281598%
+Wallet: 8.794200456823923
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
