@@ -12902,3 +12902,7 @@ Lower All Local Minimums---Always now has $8.84016933737829
 Lower All Local Minimums---Always has sold DASH for $57.233. Profit was -0.52%.
 Lower All Local Minimums---Always now has $8.794200456823923
 ---------------------------------------------------------------------------
+[2022-06-10 04:49:43] BUY
+Lower All Local Minimums---Always has bought DASH for $57.233
+Lower All Local Minimums---Always now has $8.794200456823923
+---------------------------------------------------------------------------
