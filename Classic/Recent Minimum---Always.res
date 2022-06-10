@@ -14454,3 +14454,7 @@ Recent Minimum---Always now has $0.855338832667014
 Recent Minimum---Always has sold CFG for $0.2741. Profit was -0.52%.
 Recent Minimum---Always now has $0.8508910707371455
 ---------------------------------------------------------------------------
+[2022-06-10 17:57:00] BUY
+Recent Minimum---Always has bought BOND for $3.626
+Recent Minimum---Always now has $0.8508910707371455
+---------------------------------------------------------------------------
