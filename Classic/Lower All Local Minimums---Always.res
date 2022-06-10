@@ -12462,3 +12462,7 @@ Lower All Local Minimums---Always now has $11.622441661718717
 Lower All Local Minimums---Always has sold CTSI for $0.221. Profit was -0.52%.
 Lower All Local Minimums---Always now has $11.56200496507778
 ---------------------------------------------------------------------------
+[2022-06-10 01:08:16] BUY
+Lower All Local Minimums---Always has bought SHIB for $1.046e-05
+Lower All Local Minimums---Always now has $11.56200496507778
+---------------------------------------------------------------------------
