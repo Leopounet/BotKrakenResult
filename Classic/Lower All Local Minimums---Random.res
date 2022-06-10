@@ -9726,3 +9726,7 @@ Lower All Local Minimums---Random now has $48.60546991047711
 Lower All Local Minimums---Random has sold NANO for $1.05811. Profit was -0.52%.
 Lower All Local Minimums---Random now has $48.35272146694263
 ---------------------------------------------------------------------------
+[2022-06-10 18:41:05] BUY
+Lower All Local Minimums---Random has bought YFI for $7021.0
+Lower All Local Minimums---Random now has $48.35272146694263
+---------------------------------------------------------------------------
