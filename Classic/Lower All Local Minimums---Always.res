@@ -14350,3 +14350,7 @@ Lower All Local Minimums---Always now has $3.36777043979728
 Lower All Local Minimums---Always has sold USDT for $0.9989. Profit was -0.4%.
 Lower All Local Minimums---Always now has $3.354299358038091
 ---------------------------------------------------------------------------
+[2022-06-10 17:03:56] BUY
+Lower All Local Minimums---Always has bought OGN for $0.2421
+Lower All Local Minimums---Always now has $3.354299358038091
+---------------------------------------------------------------------------
