@@ -9794,3 +9794,7 @@ Lower All Local Minimums---Random now has $47.053267443082014
 Lower All Local Minimums---Random has bought YFI for $7021.0
 Lower All Local Minimums---Random now has $47.053267443082014
 ---------------------------------------------------------------------------
+[2022-06-10 19:36:00] SOLD
+Lower All Local Minimums---Random has sold YFI for $7021.0. Profit was -0.52%.
+Lower All Local Minimums---Random now has $46.808590452377985
+---------------------------------------------------------------------------
