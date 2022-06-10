@@ -9798,3 +9798,7 @@ Lower All Local Minimums---Random now has $47.053267443082014
 Lower All Local Minimums---Random has sold YFI for $7021.0. Profit was -0.52%.
 Lower All Local Minimums---Random now has $46.808590452377985
 ---------------------------------------------------------------------------
+[2022-06-10 19:38:01] BUY
+Lower All Local Minimums---Random has bought USDT for $0.9988
+Lower All Local Minimums---Random now has $46.808590452377985
+---------------------------------------------------------------------------
