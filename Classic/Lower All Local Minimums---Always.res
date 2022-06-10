@@ -12878,3 +12878,7 @@ Lower All Local Minimums---Always now has $8.979522735764624
 Lower All Local Minimums---Always has sold GST for $0.459. Profit was -0.52%.
 Lower All Local Minimums---Always now has $8.932829217538648
 ---------------------------------------------------------------------------
+[2022-06-10 04:37:37] BUY
+Lower All Local Minimums---Always has bought EOS for $1.2406
+Lower All Local Minimums---Always now has $8.932829217538648
+---------------------------------------------------------------------------
