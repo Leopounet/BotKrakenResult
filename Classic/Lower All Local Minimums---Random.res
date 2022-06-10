@@ -8390,3 +8390,7 @@ Lower All Local Minimums---Random now has $114.93896924406708
 Lower All Local Minimums---Random has sold MOVR for $19.9637. Profit was -0.1408826294856964%.
 Lower All Local Minimums---Random now has $114.77704020189229
 ---------------------------------------------------------------------------
+[2022-06-10 01:48:29] BUY
+Lower All Local Minimums---Random has bought CHZ for $0.1182
+Lower All Local Minimums---Random now has $114.77704020189229
+---------------------------------------------------------------------------
