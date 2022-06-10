@@ -8650,3 +8650,7 @@ Random---Random now has $40.89114133791325
 Random---Random has bought XXMR for $184.5
 Random---Random now has $40.89114133791325
 ---------------------------------------------------------------------------
+[2022-06-10 05:44:11] SOLD
+Random---Random has sold XXMR for $184.5. Profit was -0.52%.
+Random---Random now has $40.6785074029561
+---------------------------------------------------------------------------
