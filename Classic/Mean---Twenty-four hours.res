@@ -38,3 +38,7 @@ Mean---Twenty-four hours now has $10407.160887007252
 Mean---Twenty-four hours has sold WBTC for $29413.1. Profit was 10.683487360963039%.
 Mean---Twenty-four hours now has $11519.008605005762
 ---------------------------------------------------------------------------
+[2022-06-10 16:28:54] BUY
+Mean---Twenty-four hours has bought XXBT for $28911.1
+Mean---Twenty-four hours now has $11519.008605005762
+---------------------------------------------------------------------------

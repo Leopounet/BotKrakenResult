@@ -38,3 +38,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold GST for $0.415. Profit was -19.147450980392158%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $5461.879219646724
 ---------------------------------------------------------------------------
+[2022-06-10 16:28:54] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought NANO for $1.070452
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $5461.879219646724
+---------------------------------------------------------------------------

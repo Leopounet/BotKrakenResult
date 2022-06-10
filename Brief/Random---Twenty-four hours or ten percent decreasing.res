@@ -58,3 +58,9 @@ Random---Twenty-four hours or ten percent decreasing has 3 losses
 Random---Twenty-four hours or ten percent decreasing has -7.527780624028388 points
 Random---Twenty-four hours or ten percent decreasing now has $9246.87489459291
 ---------------------------------------------------------------------------
+[2022-06-10 16:28:54] BRIEF
+Random---Twenty-four hours or ten percent decreasing has 2 wins
+Random---Twenty-four hours or ten percent decreasing has 3 losses
+Random---Twenty-four hours or ten percent decreasing has -7.527780624028388 points
+Random---Twenty-four hours or ten percent decreasing now has $9246.87489459291
+---------------------------------------------------------------------------
