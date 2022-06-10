@@ -1,4 +1,4 @@
-[2022-06-10 18:41:05] SUMMARY
+[2022-06-10 18:43:06] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: 1INCHUSD
+	Altname: 1INCHUSD
+	Wsname: 1INCH/USD
+	Base:
+	 	Name: 1INCH
+		Altname: 1INCH
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (1INCHUSD):
+		Current:                    0.76
+		Maximum:                    0.846
+		Minimum:                    0.747
+		Variance:                   0.117021
+		Mean:                       0.808019
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.409091
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.64
+		Is falling:                 False
+		Current fall duration:      1
+		Trending downwards:         True
+		Average local maximum:      0.807818
+		Number of local maximums:   22
+		Average local minimum:      0.8006
+		Number of local minimums:   25
+	Is init: True
 Wins: 19
 Losses: 1799
 Total points: -950.546655571006%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: YFIUSD
+	Altname: YFIUSD
+	Wsname: YFI/USD
+	Base:
+	 	Name: YFI
+		Altname: YFI
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.00015
+	Data about this pair of assets (YFIUSD):
+		Current:                    7021.0
+		Maximum:                    7729.0
+		Minimum:                    7021.0
+		Variance:                   0.091603
+		Mean:                       7482.2125
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          5.55
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               1.621622
+		Is falling:                 True
+		Current fall duration:      15
+		Trending downwards:         True
+		Average local maximum:      7514.35
+		Number of local maximums:   20
+		Average local minimum:      7459.135135
+		Number of local minimums:   37
+	Is init: True
 Wins: 141
 Losses: 1677
 Total points: -804.9759051098187%
