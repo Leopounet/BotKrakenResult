@@ -12766,3 +12766,7 @@ Lower All Local Minimums---Always now has $9.65788338250529
 Lower All Local Minimums---Always has sold GST for $0.459. Profit was -0.52%.
 Lower All Local Minimums---Always now has $9.607662388916262
 ---------------------------------------------------------------------------
+[2022-06-10 03:41:07] BUY
+Lower All Local Minimums---Always has bought ASTR for $0.0593
+Lower All Local Minimums---Always now has $9.607662388916262
+---------------------------------------------------------------------------
