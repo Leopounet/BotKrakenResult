@@ -12894,3 +12894,7 @@ Lower All Local Minimums---Always now has $8.886378505607448
 Lower All Local Minimums---Always has sold CHZ for $0.1189. Profit was -0.52%.
 Lower All Local Minimums---Always now has $8.84016933737829
 ---------------------------------------------------------------------------
+[2022-06-10 04:45:37] BUY
+Lower All Local Minimums---Always has bought DASH for $57.233
+Lower All Local Minimums---Always now has $8.84016933737829
+---------------------------------------------------------------------------
