@@ -14462,3 +14462,7 @@ Recent Minimum---Always now has $0.8508910707371455
 Recent Minimum---Always has sold BOND for $3.591. Profit was -1.4852509652509522%.
 Recent Minimum---Always now has $0.838253202895788
 ---------------------------------------------------------------------------
+[2022-06-10 18:01:26] BUY
+Recent Minimum---Always has bought ANT for $1.7
+Recent Minimum---Always now has $0.838253202895788
+---------------------------------------------------------------------------
