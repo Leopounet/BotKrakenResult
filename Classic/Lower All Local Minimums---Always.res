@@ -12350,3 +12350,7 @@ Lower All Local Minimums---Always now has $12.539298077353514
 Lower All Local Minimums---Always has sold BADGER for $5.059. Profit was -0.52%.
 Lower All Local Minimums---Always now has $12.474093727351276
 ---------------------------------------------------------------------------
+[2022-06-10 00:11:39] BUY
+Lower All Local Minimums---Always has bought EOS for $1.2404
+Lower All Local Minimums---Always now has $12.474093727351276
+---------------------------------------------------------------------------
