@@ -8494,3 +8494,7 @@ Lower All Local Minimums---Random now has $109.41081016954179
 Lower All Local Minimums---Random has sold CHZ for $0.1193. Profit was -0.09912457912458938%.
 Lower All Local Minimums---Random now has $109.30235716444443
 ---------------------------------------------------------------------------
+[2022-06-10 03:04:49] BUY
+Lower All Local Minimums---Random has bought YFI for $7392.0
+Lower All Local Minimums---Random now has $109.30235716444443
+---------------------------------------------------------------------------

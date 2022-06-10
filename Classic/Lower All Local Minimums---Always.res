@@ -12694,3 +12694,7 @@ Lower All Local Minimums---Always now has $10.121851646558794
 Lower All Local Minimums---Always has sold DASH for $57.067. Profit was -0.52%.
 Lower All Local Minimums---Always now has $10.069218017996688
 ---------------------------------------------------------------------------
+[2022-06-10 03:04:49] BUY
+Lower All Local Minimums---Always has bought YFI for $7392.0
+Lower All Local Minimums---Always now has $10.069218017996688
+---------------------------------------------------------------------------
