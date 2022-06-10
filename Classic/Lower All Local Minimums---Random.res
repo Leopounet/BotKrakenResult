@@ -8486,3 +8486,7 @@ Lower All Local Minimums---Random now has $109.6615183238579
 Lower All Local Minimums---Random has sold EOS for $1.2391. Profit was -0.22861999190610005%.
 Lower All Local Minimums---Random now has $109.41081016954179
 ---------------------------------------------------------------------------
+[2022-06-10 02:56:47] BUY
+Lower All Local Minimums---Random has bought CHZ for $0.1188
+Lower All Local Minimums---Random now has $109.41081016954179
+---------------------------------------------------------------------------
