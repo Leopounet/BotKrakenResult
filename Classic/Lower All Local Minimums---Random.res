@@ -8790,3 +8790,7 @@ Lower All Local Minimums---Random now has $90.59765901334916
 Lower All Local Minimums---Random has sold USDT for $0.9991. Profit was -0.38998998998998025%.
 Lower All Local Minimums---Random now has $90.24433721203184
 ---------------------------------------------------------------------------
+[2022-06-10 07:02:53] BUY
+Lower All Local Minimums---Random has bought MOVR for $19.9145
+Lower All Local Minimums---Random now has $90.24433721203184
+---------------------------------------------------------------------------
