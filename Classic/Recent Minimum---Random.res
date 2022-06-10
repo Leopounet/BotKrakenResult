@@ -9178,3 +9178,7 @@ Recent Minimum---Random now has $18.53965368800339
 Recent Minimum---Random has bought BICO for $0.647
 Recent Minimum---Random now has $18.53965368800339
 ---------------------------------------------------------------------------
+[2022-06-10 13:30:07] SOLD
+Recent Minimum---Random has sold BICO for $0.63. Profit was -3.1475115919629055%.
+Recent Minimum---Random now has $17.956115939063707
+---------------------------------------------------------------------------

@@ -13934,3 +13934,7 @@ Recent Minimum---Always now has $1.2445353407776354
 Recent Minimum---Always has sold BICO for $0.63. Profit was -3.1475115919629055%.
 Recent Minimum---Always now has $1.2053634466605843
 ---------------------------------------------------------------------------
+[2022-06-10 13:30:07] BUY
+Recent Minimum---Always has bought ANKR for $0.03501
+Recent Minimum---Always now has $1.2053634466605843
+---------------------------------------------------------------------------
