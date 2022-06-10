@@ -8558,3 +8558,7 @@ Lower All Local Minimums---Random now has $105.38528249505376
 Lower All Local Minimums---Random has sold DAI for $0.99992. Profit was -0.36798719487796083%.
 Lower All Local Minimums---Random now has $104.997478150186
 ---------------------------------------------------------------------------
+[2022-06-10 04:01:21] BUY
+Lower All Local Minimums---Random has bought ASTR for $0.0593
+Lower All Local Minimums---Random now has $104.997478150186
+---------------------------------------------------------------------------
