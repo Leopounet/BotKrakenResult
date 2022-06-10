@@ -12494,3 +12494,7 @@ Lower All Local Minimums---Always now has $11.382573971754939
 Lower All Local Minimums---Always has sold CTSI for $0.223. Profit was -0.52%.
 Lower All Local Minimums---Always now has $11.323384587101813
 ---------------------------------------------------------------------------
+[2022-06-10 01:24:23] BUY
+Lower All Local Minimums---Always has bought EOS for $1.2322
+Lower All Local Minimums---Always now has $11.323384587101813
+---------------------------------------------------------------------------
