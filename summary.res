@@ -1,4 +1,4 @@
-[2022-06-10 00:15:40] SUMMARY
+[2022-06-10 00:17:40] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.795
-		Maximum:                    0.864
-		Minimum:                    0.795
-		Variance:                   0.079861
-		Mean:                       0.824681
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.428571
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.705882
-		Is falling:                 True
-		Current fall duration:      71
-		Trending downwards:         True
-		Average local maximum:      0.830429
-		Number of local maximums:   21
-		Average local minimum:      0.826294
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 15
-Losses: 1530
-Total points: -806.0699681653914%
-Wallet: 3.0864647769125435
+Losses: 1531
+Total points: -808.4767606182215%
+Wallet: 3.0121799756025505
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SHIBUSD
-	Altname: SHIBUSD
-	Wsname: SHIB/USD
-	Base:
-	 	Name: SHIB
-		Altname: SHIB
-		decimals: 5
-		displayed_decimals: 0
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 500000
-	Data about this pair of assets (SHIBUSD):
-		Current:                    1e-05
-		Maximum:                    1.1e-05
-		Minimum:                    1e-05
-		Variance:                   0.057658
-		Mean:                       1.1e-05
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.75
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           True
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.4
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         False
-		Average local maximum:      1.1e-05
-		Number of local maximums:   24
-		Average local minimum:      1.1e-05
-		Number of local minimums:   30
-	Is init: True
+	None
 Wins: 136
-Losses: 1409
-Total points: -664.6321456373307%
-Wallet: 12.409228439969048
+Losses: 1410
+Total points: -666.2960922531553%
+Wallet: 12.202745503292242
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
