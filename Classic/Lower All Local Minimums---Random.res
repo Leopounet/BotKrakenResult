@@ -8402,3 +8402,7 @@ Lower All Local Minimums---Random now has $114.18019959284246
 Lower All Local Minimums---Random has bought SHIB for $1.046e-05
 Lower All Local Minimums---Random now has $114.18019959284246
 ---------------------------------------------------------------------------
+[2022-06-10 02:02:40] SOLD
+Lower All Local Minimums---Random has sold SHIB for $1.05e-05. Profit was -0.13759082217973573%.
+Lower All Local Minimums---Random now has $114.0230981174562
+---------------------------------------------------------------------------
