@@ -8666,3 +8666,7 @@ Lower All Local Minimums---Random now has $98.52339445069708
 Lower All Local Minimums---Random has bought NANO for $1.158092
 Lower All Local Minimums---Random now has $98.52339445069708
 ---------------------------------------------------------------------------
+[2022-06-10 05:19:51] SOLD
+Lower All Local Minimums---Random has sold NANO for $1.15861. Profit was -0.47527125651502145%.
+Lower All Local Minimums---Random now has $98.05514107593001
+---------------------------------------------------------------------------
