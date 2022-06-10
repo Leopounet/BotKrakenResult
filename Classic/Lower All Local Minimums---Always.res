@@ -15126,3 +15126,7 @@ Lower All Local Minimums---Always now has $2.090843402639165
 Lower All Local Minimums---Always has sold COMP for $50.94. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2.0799710169454415
 ---------------------------------------------------------------------------
+[2022-06-10 23:39:33] BUY
+Lower All Local Minimums---Always has bought NANO for $1.05246
+Lower All Local Minimums---Always now has $2.0799710169454415
+---------------------------------------------------------------------------
