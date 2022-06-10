@@ -8366,3 +8366,7 @@ Lower All Local Minimums---Random now has $108.64343606417275
 Lower All Local Minimums---Random has sold EOS for $1.2322. Profit was -0.52%.
 Lower All Local Minimums---Random now has $108.07849019663905
 ---------------------------------------------------------------------------
+[2022-06-10 01:32:28] BUY
+Lower All Local Minimums---Random has bought GST for $0.458
+Lower All Local Minimums---Random now has $108.07849019663905
+---------------------------------------------------------------------------
