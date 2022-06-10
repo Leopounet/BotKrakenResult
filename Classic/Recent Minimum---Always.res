@@ -12398,3 +12398,7 @@ Recent Minimum---Always now has $3.43205239777357
 Recent Minimum---Always has sold 1INCH for $0.787. Profit was -0.6469035532994956%.
 Recent Minimum---Always now has $3.4098503288612725
 ---------------------------------------------------------------------------
+[2022-06-10 00:35:52] BUY
+Recent Minimum---Always has bought SRM for $1.023
+Recent Minimum---Always now has $3.4098503288612725
+---------------------------------------------------------------------------
