@@ -8938,3 +8938,7 @@ Random---Random now has $33.64233739674556
 Random---Random has bought GALA for $0.073
 Random---Random now has $33.64233739674556
 ---------------------------------------------------------------------------
+[2022-06-10 10:00:19] SOLD
+Random---Random has sold GALA for $0.073. Profit was -0.52%.
+Random---Random now has $33.46739724228248
+---------------------------------------------------------------------------
