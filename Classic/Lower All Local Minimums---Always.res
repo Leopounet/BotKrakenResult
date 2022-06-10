@@ -14662,3 +14662,7 @@ Lower All Local Minimums---Always now has $2.829636746339779
 Lower All Local Minimums---Always has sold YFI for $7021.0. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2.8149226352588124
 ---------------------------------------------------------------------------
+[2022-06-10 19:44:07] BUY
+Lower All Local Minimums---Always has bought YFI for $7021.0
+Lower All Local Minimums---Always now has $2.8149226352588124
+---------------------------------------------------------------------------
