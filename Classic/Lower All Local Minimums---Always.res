@@ -12862,3 +12862,7 @@ Lower All Local Minimums---Always now has $9.072172016313093
 Lower All Local Minimums---Always has sold CHZ for $0.1193. Profit was -0.52%.
 Lower All Local Minimums---Always now has $9.024996721828265
 ---------------------------------------------------------------------------
+[2022-06-10 04:29:30] BUY
+Lower All Local Minimums---Always has bought EOS for $1.2397
+Lower All Local Minimums---Always now has $9.024996721828265
+---------------------------------------------------------------------------
