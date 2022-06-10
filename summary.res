@@ -1,4 +1,4 @@
-[2022-06-10 18:59:11] SUMMARY
+[2022-06-10 19:01:15] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.758
-		Maximum:                    0.846
-		Minimum:                    0.747
-		Variance:                   0.117021
-		Mean:                       0.807743
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.409091
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.64
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         True
-		Average local maximum:      0.807818
-		Number of local maximums:   22
-		Average local minimum:      0.8006
-		Number of local minimums:   25
-	Is init: True
+	None
 Wins: 19
-Losses: 1803
-Total points: -952.6266555710059%
-Wallet: 0.7096056398115546
+Losses: 1804
+Total points: -953.1466555710059%
+Wallet: 0.7059156904845345
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: YFIUSD
-	Altname: YFIUSD
-	Wsname: YFI/USD
-	Base:
-	 	Name: YFI
-		Altname: YFI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.00015
-	Data about this pair of assets (YFIUSD):
-		Current:                    7021.0
-		Maximum:                    7729.0
-		Minimum:                    7021.0
-		Variance:                   0.091603
-		Mean:                       7480.2625
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          5.4
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.666667
-		Is falling:                 True
-		Current fall duration:      18
-		Trending downwards:         True
-		Average local maximum:      7514.35
-		Number of local maximums:   20
-		Average local minimum:      7458.305556
-		Number of local minimums:   36
-	Is init: True
+	None
 Wins: 141
-Losses: 1681
-Total points: -806.9359051098186%
-Wallet: 2.977483468545808
+Losses: 1682
+Total points: -807.4559051098186%
+Wallet: 2.9620005545093697
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
