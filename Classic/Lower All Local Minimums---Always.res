@@ -14270,3 +14270,7 @@ Lower All Local Minimums---Always now has $3.551363900219102
 Lower All Local Minimums---Always has sold USDT for $0.9989. Profit was -0.4%.
 Lower All Local Minimums---Always now has $3.5371584446182256
 ---------------------------------------------------------------------------
+[2022-06-10 16:22:40] BUY
+Lower All Local Minimums---Always has bought NANO for $1.0848
+Lower All Local Minimums---Always now has $3.5371584446182256
+---------------------------------------------------------------------------
