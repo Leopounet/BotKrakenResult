@@ -12466,3 +12466,7 @@ Lower All Local Minimums---Always now has $11.56200496507778
 Lower All Local Minimums---Always has bought SHIB for $1.046e-05
 Lower All Local Minimums---Always now has $11.56200496507778
 ---------------------------------------------------------------------------
+[2022-06-10 01:10:18] SOLD
+Lower All Local Minimums---Always has sold SHIB for $1.046e-05. Profit was -0.52%.
+Lower All Local Minimums---Always now has $11.501882539259375
+---------------------------------------------------------------------------
