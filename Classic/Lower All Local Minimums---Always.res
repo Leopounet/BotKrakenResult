@@ -15174,3 +15174,7 @@ Lower All Local Minimums---Always now has $2.0248254532733383
 Lower All Local Minimums---Always has sold OGN for $0.2453. Profit was -0.02839819746006844%.
 Lower All Local Minimums---Always now has $2.024250439342896
 ---------------------------------------------------------------------------
+[2022-06-11 00:03:37] BUY
+Lower All Local Minimums---Always has bought GST for $0.383
+Lower All Local Minimums---Always now has $2.024250439342896
+---------------------------------------------------------------------------
