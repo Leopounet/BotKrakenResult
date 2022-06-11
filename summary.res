@@ -1,4 +1,4 @@
-[2022-06-11 23:26:51] SUMMARY
+[2022-06-11 23:28:53] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    29166.3
-		Maximum:                    33467.0
-		Minimum:                    29017.0
-		Variance:                   0.132967
-		Mean:                       31270.582639
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 260
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 True
-		Current fall duration:      388
-		Trending downwards:         True
-		Average local maximum:      32757.35
-		Number of local maximums:   2
-		Average local minimum:      29091.65
-		Number of local minimums:   2
-	Is init: True
+	None
 Wins: 26
-Losses: 2215
-Total points: -1136.4264596436017%
-Wallet: 0.10984534128580861
+Losses: 2216
+Total points: -1136.9464596436017%
+Wallet: 0.10927414551112241
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: KEEPUSD
-	Altname: KEEPUSD
-	Wsname: KEEP/USD
-	Base:
-	 	Name: KEEP
-		Altname: KEEP
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (KEEPUSD):
-		Current:                    0.20923
-		Maximum:                    0.24705
-		Minimum:                    0.20572
-		Variance:                   0.167294
-		Mean:                       0.229982
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.32
-		Is ascending:               True
-		Current ascension duration: 8
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.083333
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.231153
-		Number of local maximums:   25
-		Average local minimum:      0.232167
-		Number of local minimums:   36
-	Is init: True
+	None
 Wins: 158
-Losses: 2083
-Total points: -988.1458898934517%
-Wallet: 0.4675141343243981
+Losses: 2084
+Total points: -988.5941984534096%
+Wallet: 0.46541822844120856
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
