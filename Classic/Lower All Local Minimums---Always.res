@@ -15214,3 +15214,7 @@ Lower All Local Minimums---Always now has $1.9876765348704781
 Lower All Local Minimums---Always has sold SNX for $2.479. Profit was 0.8705930470347716%.
 Lower All Local Minimums---Always now has $2.004981108580602
 ---------------------------------------------------------------------------
+[2022-06-11 00:25:06] BUY
+Lower All Local Minimums---Always has bought GST for $0.384
+Lower All Local Minimums---Always now has $2.004981108580602
+---------------------------------------------------------------------------
