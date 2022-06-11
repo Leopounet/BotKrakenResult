@@ -42,3 +42,7 @@ Random---Twenty-four hours now has $8092.506761271663
 Random---Twenty-four hours has bought GARI for $0.607
 Random---Twenty-four hours now has $8092.506761271663
 ---------------------------------------------------------------------------
+[2022-06-11 16:25:48] SOLD
+Random---Twenty-four hours has sold GARI for $0.6268. Profit was 2.741943986820426%.
+Random---Twenty-four hours now has $8314.398763795387
+---------------------------------------------------------------------------

@@ -42,3 +42,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9246.87489459291
 Random---Twenty-four hours or ten percent decreasing has bought POWR for $0.2818
 Random---Twenty-four hours or ten percent decreasing now has $9246.87489459291
 ---------------------------------------------------------------------------
+[2022-06-11 16:25:48] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold POWR for $0.25. Profit was -11.804599006387507%.
+Random---Twenty-four hours or ten percent decreasing now has $8155.3183926638985
+---------------------------------------------------------------------------

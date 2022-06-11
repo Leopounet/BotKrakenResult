@@ -42,3 +42,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought NANO for $1.070452
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $5461.879219646724
 ---------------------------------------------------------------------------
+[2022-06-11 16:25:48] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold NANO for $0.991183. Profit was -7.925189583465665%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $5029.014936669806
+---------------------------------------------------------------------------
