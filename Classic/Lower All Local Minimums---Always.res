@@ -17870,3 +17870,7 @@ Lower All Local Minimums---Always now has $0.4874258218456775
 Lower All Local Minimums---Always has sold KEEP for $0.20903. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.48489120757208
 ---------------------------------------------------------------------------
+[2022-06-11 22:58:02] BUY
+Lower All Local Minimums---Always has bought KEEP for $0.20903
+Lower All Local Minimums---Always now has $0.48489120757208
+---------------------------------------------------------------------------
