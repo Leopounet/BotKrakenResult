@@ -11530,3 +11530,7 @@ Recent Minimum---Random now has $3.603168126796385
 Recent Minimum---Random has bought MINA for $0.734
 Recent Minimum---Random now has $3.603168126796385
 ---------------------------------------------------------------------------
+[2022-06-11 19:41:42] SOLD
+Recent Minimum---Random has sold MINA for $0.734. Profit was -0.52%.
+Recent Minimum---Random now has $3.584431652537044
+---------------------------------------------------------------------------
