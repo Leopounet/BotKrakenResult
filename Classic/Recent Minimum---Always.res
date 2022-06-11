@@ -17518,3 +17518,7 @@ Recent Minimum---Always now has $0.11912101875975707
 Recent Minimum---Always has sold ZAUD for $0.70391. Profit was -0.4%.
 Recent Minimum---Always now has $0.11864453468471804
 ---------------------------------------------------------------------------
+[2022-06-11 19:55:42] BUY
+Recent Minimum---Always has bought ZAUD for $0.70391
+Recent Minimum---Always now has $0.11864453468471804
+---------------------------------------------------------------------------
