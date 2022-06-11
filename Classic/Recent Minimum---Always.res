@@ -17534,3 +17534,7 @@ Recent Minimum---Always now has $0.11816995654597917
 Recent Minimum---Always has sold ZAUD for $0.70391. Profit was -0.4%.
 Recent Minimum---Always now has $0.11769727671979525
 ---------------------------------------------------------------------------
+[2022-06-11 20:03:52] BUY
+Recent Minimum---Always has bought ALCX for $26.55
+Recent Minimum---Always now has $0.11769727671979525
+---------------------------------------------------------------------------
