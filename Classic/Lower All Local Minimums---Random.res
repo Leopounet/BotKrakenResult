@@ -10254,3 +10254,7 @@ Lower All Local Minimums---Random now has $40.01444683932447
 Lower All Local Minimums---Random has sold PERP for $0.945. Profit was -0.52%.
 Lower All Local Minimums---Random now has $39.80637171575999
 ---------------------------------------------------------------------------
+[2022-06-11 01:27:44] BUY
+Lower All Local Minimums---Random has bought NANO for $1.064282
+Lower All Local Minimums---Random now has $39.80637171575999
+---------------------------------------------------------------------------
