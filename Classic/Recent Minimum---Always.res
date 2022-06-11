@@ -17494,3 +17494,7 @@ Recent Minimum---Always now has $0.120707413919307
 Recent Minimum---Always has sold MINA for $0.734. Profit was -0.52%.
 Recent Minimum---Always now has $0.12007973536692661
 ---------------------------------------------------------------------------
+[2022-06-11 19:43:42] BUY
+Recent Minimum---Always has bought ZAUD for $0.70391
+Recent Minimum---Always now has $0.12007973536692661
+---------------------------------------------------------------------------
