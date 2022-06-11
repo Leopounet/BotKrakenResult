@@ -11746,3 +11746,7 @@ Recent Minimum---Random now has $2.9522453110163434
 Recent Minimum---Random has bought ACA for $0.313
 Recent Minimum---Random now has $2.9522453110163434
 ---------------------------------------------------------------------------
+[2022-06-11 22:40:22] SOLD
+Recent Minimum---Random has sold ACA for $0.316. Profit was 0.43846645367412274%.
+Recent Minimum---Random now has $2.9651899163353175
+---------------------------------------------------------------------------
