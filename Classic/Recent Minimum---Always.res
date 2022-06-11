@@ -15966,3 +15966,7 @@ Recent Minimum---Always now has $0.32299317861607096
 Recent Minimum---Always has sold ASTR for $0.0539. Profit was -0.52%.
 Recent Minimum---Always now has $0.3213136140872674
 ---------------------------------------------------------------------------
+[2022-06-11 06:42:24] BUY
+Recent Minimum---Always has bought ASTR for $0.0539
+Recent Minimum---Always now has $0.3213136140872674
+---------------------------------------------------------------------------
