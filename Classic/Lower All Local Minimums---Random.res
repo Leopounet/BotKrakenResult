@@ -10178,3 +10178,7 @@ Lower All Local Minimums---Random now has $39.30102082111734
 Lower All Local Minimums---Random has bought SNX for $2.445
 Lower All Local Minimums---Random now has $39.30102082111734
 ---------------------------------------------------------------------------
+[2022-06-11 00:33:11] SOLD
+Lower All Local Minimums---Random has sold SNX for $2.479. Profit was 0.8705930470347716%.
+Lower All Local Minimums---Random now has $39.64317277579968
+---------------------------------------------------------------------------
