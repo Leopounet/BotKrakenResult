@@ -17650,3 +17650,7 @@ Recent Minimum---Always now has $0.10906231782477767
 Recent Minimum---Always has bought ACH for $0.01283
 Recent Minimum---Always now has $0.10906231782477767
 ---------------------------------------------------------------------------
+[2022-06-11 21:03:26] SOLD
+Recent Minimum---Always has sold ACH for $0.01283. Profit was -0.52%.
+Recent Minimum---Always now has $0.10849519377208883
+---------------------------------------------------------------------------
