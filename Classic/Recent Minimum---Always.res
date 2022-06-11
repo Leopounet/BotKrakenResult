@@ -15958,3 +15958,7 @@ Recent Minimum---Always now has $0.32468152253324384
 Recent Minimum---Always has sold AAVE for $87.54. Profit was -0.52%.
 Recent Minimum---Always now has $0.32299317861607096
 ---------------------------------------------------------------------------
+[2022-06-11 06:38:23] BUY
+Recent Minimum---Always has bought ASTR for $0.0539
+Recent Minimum---Always now has $0.32299317861607096
+---------------------------------------------------------------------------
