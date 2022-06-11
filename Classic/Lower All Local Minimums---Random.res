@@ -10202,3 +10202,7 @@ Lower All Local Minimums---Random now has $41.28593818497232
 Lower All Local Minimums---Random has bought PERP for $0.945
 Lower All Local Minimums---Random now has $41.28593818497232
 ---------------------------------------------------------------------------
+[2022-06-11 00:53:38] SOLD
+Lower All Local Minimums---Random has sold PERP for $0.945. Profit was -0.52%.
+Lower All Local Minimums---Random now has $41.07125130641047
+---------------------------------------------------------------------------
