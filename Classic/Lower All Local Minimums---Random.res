@@ -10734,3 +10734,7 @@ Lower All Local Minimums---Random now has $38.968477724207396
 Lower All Local Minimums---Random has sold GST for $0.343. Profit was -0.8106976744185941%.
 Lower All Local Minimums---Random now has $38.65256118154092
 ---------------------------------------------------------------------------
+[2022-06-11 07:49:02] BUY
+Lower All Local Minimums---Random has bought MOVR for $18.5542
+Lower All Local Minimums---Random now has $38.65256118154092
+---------------------------------------------------------------------------
