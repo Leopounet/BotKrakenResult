@@ -17582,3 +17582,7 @@ Recent Minimum---Always now has $0.11466880780674993
 Recent Minimum---Always has sold ACA for $0.313. Profit was -0.8384713375796178%.
 Recent Minimum---Always now has $0.11370734272014607
 ---------------------------------------------------------------------------
+[2022-06-11 20:28:59] BUY
+Recent Minimum---Always has bought ALCX for $26.55
+Recent Minimum---Always now has $0.11370734272014607
+---------------------------------------------------------------------------
