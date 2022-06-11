@@ -11214,3 +11214,7 @@ Random---Random now has $7.794567106404498
 Random---Random has sold KINT for $3.25. Profit was -0.52%.
 Random---Random now has $7.754035357451195
 ---------------------------------------------------------------------------
+[2022-06-11 13:50:08] BUY
+Random---Random has bought BADGER for $4.462
+Random---Random now has $7.754035357451195
+---------------------------------------------------------------------------
