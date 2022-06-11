@@ -11222,3 +11222,7 @@ Random---Random now has $7.754035357451195
 Random---Random has sold BADGER for $4.462. Profit was -0.52%.
 Random---Random now has $7.713714373592449
 ---------------------------------------------------------------------------
+[2022-06-11 13:54:44] BUY
+Random---Random has bought USDC for $1.0
+Random---Random now has $7.713714373592449
+---------------------------------------------------------------------------
