@@ -46,3 +46,7 @@ Random---Twenty-four hours or ten percent decreasing now has $9246.87489459291
 Random---Twenty-four hours or ten percent decreasing has sold POWR for $0.25. Profit was -11.804599006387507%.
 Random---Twenty-four hours or ten percent decreasing now has $8155.3183926638985
 ---------------------------------------------------------------------------
+[2022-06-11 16:27:49] BUY
+Random---Twenty-four hours or ten percent decreasing has bought EWT for $2.75
+Random---Twenty-four hours or ten percent decreasing now has $8155.3183926638985
+---------------------------------------------------------------------------

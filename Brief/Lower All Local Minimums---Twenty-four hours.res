@@ -70,3 +70,9 @@ Lower All Local Minimums---Twenty-four hours has 5 losses
 Lower All Local Minimums---Twenty-four hours has -63.11009343962745 points
 Lower All Local Minimums---Twenty-four hours now has $5029.014936669806
 ---------------------------------------------------------------------------
+[2022-06-11 16:27:49] BRIEF
+Lower All Local Minimums---Twenty-four hours has 1 wins
+Lower All Local Minimums---Twenty-four hours has 5 losses
+Lower All Local Minimums---Twenty-four hours has -63.11009343962745 points
+Lower All Local Minimums---Twenty-four hours now has $5029.014936669806
+---------------------------------------------------------------------------

@@ -46,3 +46,7 @@ Lower All Local Minimums---Twenty-four hours now has $5461.879219646724
 Lower All Local Minimums---Twenty-four hours has sold NANO for $0.991183. Profit was -7.925189583465665%.
 Lower All Local Minimums---Twenty-four hours now has $5029.014936669806
 ---------------------------------------------------------------------------
+[2022-06-11 16:27:49] BUY
+Lower All Local Minimums---Twenty-four hours has bought COMP for $45.31
+Lower All Local Minimums---Twenty-four hours now has $5029.014936669806
+---------------------------------------------------------------------------
