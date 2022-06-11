@@ -16094,3 +16094,7 @@ Lower All Local Minimums---Always now has $1.5783934050970865
 Lower All Local Minimums---Always has sold MOVR for $18.5542. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1.5701857593905817
 ---------------------------------------------------------------------------
+[2022-06-11 07:46:56] BUY
+Lower All Local Minimums---Always has bought DAI for $0.99966
+Lower All Local Minimums---Always now has $1.5701857593905817
+---------------------------------------------------------------------------
