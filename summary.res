@@ -1,4 +1,4 @@
-[2022-06-11 01:21:46] SUMMARY
+[2022-06-11 01:23:45] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.76
-		Maximum:                    0.839
-		Minimum:                    0.747
-		Variance:                   0.109654
-		Mean:                       0.800053
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.571429
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.52
-		Is falling:                 True
-		Current fall duration:      12
-		Trending downwards:         True
-		Average local maximum:      0.796762
-		Number of local maximums:   21
-		Average local minimum:      0.79204
-		Number of local minimums:   25
-	Is init: True
+	None
 Wins: 22
-Losses: 1894
-Total points: -1000.4240618829592%
-Wallet: 0.43939203362003815
+Losses: 1895
+Total points: -1000.9440618829592%
+Wallet: 0.43710719504521395
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: PERPUSD
-	Altname: PERPUSD
-	Wsname: PERP/USD
-	Base:
-	 	Name: PERP
-		Altname: PERP
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (PERPUSD):
-		Current:                    0.945
-		Maximum:                    1.155
-		Minimum:                    0.94
-		Variance:                   0.186147
-		Mean:                       1.047279
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.181818
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.828571
-		Is falling:                 True
-		Current fall duration:      8
-		Trending downwards:         True
-		Average local maximum:      1.052727
-		Number of local maximums:   33
-		Average local minimum:      1.039
-		Number of local minimums:   35
-	Is init: True
+	None
 Wins: 144
-Losses: 1772
-Total points: -846.4431709806821%
-Wallet: 1.997469615454473
+Losses: 1773
+Total points: -846.9631709806821%
+Wallet: 1.9870827734541099
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
