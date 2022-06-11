@@ -12014,3 +12014,7 @@ Lower All Local Minimums---Random now has $16.13529770997525
 Lower All Local Minimums---Random has sold KEEP for $0.20938. Profit was -0.4483085599579346%.
 Lower All Local Minimums---Random now has $16.062961789166735
 ---------------------------------------------------------------------------
+[2022-06-11 23:30:57] BUY
+Lower All Local Minimums---Random has bought MOVR for $17.7447
+Lower All Local Minimums---Random now has $16.062961789166735
+---------------------------------------------------------------------------
