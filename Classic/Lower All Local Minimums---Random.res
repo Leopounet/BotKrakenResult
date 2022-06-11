@@ -11898,3 +11898,7 @@ Lower All Local Minimums---Random now has $17.22533723973279
 Lower All Local Minimums---Random has bought COMP for $46.01
 Lower All Local Minimums---Random now has $17.22533723973279
 ---------------------------------------------------------------------------
+[2022-06-11 22:13:32] SOLD
+Lower All Local Minimums---Random has sold COMP for $46.14. Profit was -0.23745272766789904%.
+Lower All Local Minimums---Random now has $17.184435206607052
+---------------------------------------------------------------------------
