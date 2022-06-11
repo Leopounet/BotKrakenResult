@@ -10150,3 +10150,7 @@ Lower All Local Minimums---Random now has $40.024172579445924
 Lower All Local Minimums---Random has sold OGN for $0.2441. Profit was -0.52%.
 Lower All Local Minimums---Random now has $39.81604688203281
 ---------------------------------------------------------------------------
+[2022-06-11 00:01:37] BUY
+Lower All Local Minimums---Random has bought GST for $0.383
+Lower All Local Minimums---Random now has $39.81604688203281
+---------------------------------------------------------------------------
