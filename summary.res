@@ -1,4 +1,4 @@
-[2022-06-11 11:45:20] SUMMARY
+[2022-06-11 11:47:19] SUMMARY
 Most losses: 
 Name: Variance Lower All Local Minimums---Always
 BuyStrategy description: Looks for the asset for which the current price is lower than all previous local minimums.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: 1INCHUSD
-	Altname: 1INCHUSD
-	Wsname: 1INCH/USD
-	Base:
-	 	Name: 1INCH
-		Altname: 1INCH
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (1INCHUSD):
-		Current:                    0.725
-		Maximum:                    0.821
-		Minimum:                    0.725
-		Variance:                   0.116931
-		Mean:                       0.787907
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.315789
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.714286
-		Is falling:                 True
-		Current fall duration:      13
-		Trending downwards:         True
-		Average local maximum:      0.789368
-		Number of local maximums:   19
-		Average local minimum:      0.784143
-		Number of local minimums:   21
-	Is init: True
-Wins: 22
+	None
+Wins: 23
 Losses: 2049
-Total points: -1083.27515622896%
-Wallet: 0.19142016304837103
+Total points: -1083.1055010565462%
+Wallet: 0.19174491725602552
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: COMPUSD
-	Altname: COMPUSD
-	Wsname: COMP/USD
-	Base:
-	 	Name: COMP
-		Altname: COMP
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.1
-	Data about this pair of assets (COMPUSD):
-		Current:                    47.43
-		Maximum:                    56.59
-		Minimum:                    47.43
-		Variance:                   0.161866
-		Mean:                       53.903125
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.333333
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.076923
-		Is falling:                 True
-		Current fall duration:      5
-		Trending downwards:         True
-		Average local maximum:      53.915556
-		Number of local maximums:   27
-		Average local minimum:      53.342051
-		Number of local minimums:   39
-	Is init: True
-Wins: 150
+	None
+Wins: 151
 Losses: 1921
-Total points: -905.2316227637072%
-Wallet: 1.0740755447882953
+Total points: -905.224530206254%
+Wallet: 1.0741517242133989
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
