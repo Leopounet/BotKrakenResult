@@ -16966,3 +16966,7 @@ Recent Minimum---Always now has $0.16112279720759234
 Recent Minimum---Always has sold AAVE for $78.21. Profit was -0.4047926267281139%.
 Recent Minimum---Always now has $0.1604705840045179
 ---------------------------------------------------------------------------
+[2022-06-11 15:17:04] BUY
+Recent Minimum---Always has bought AGLD for $0.3975
+Recent Minimum---Always now has $0.1604705840045179
+---------------------------------------------------------------------------
