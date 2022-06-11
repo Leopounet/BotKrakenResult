@@ -15990,3 +15990,7 @@ Recent Minimum---Always now has $0.31798064082088473
 Recent Minimum---Always has sold ASTR for $0.0539. Profit was -0.52%.
 Recent Minimum---Always now has $0.3163271414886161
 ---------------------------------------------------------------------------
+[2022-06-11 06:54:38] BUY
+Recent Minimum---Always has bought ADA for $0.593892
+Recent Minimum---Always now has $0.3163271414886161
+---------------------------------------------------------------------------
