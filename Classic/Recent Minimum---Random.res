@@ -11174,3 +11174,7 @@ Recent Minimum---Random now has $4.454092889089919
 Recent Minimum---Random has sold AGLD for $0.3975. Profit was -0.52%.
 Recent Minimum---Random now has $4.430931606066651
 ---------------------------------------------------------------------------
+[2022-06-11 15:21:02] BUY
+Recent Minimum---Random has bought AGLD for $0.3975
+Recent Minimum---Random now has $4.430931606066651
+---------------------------------------------------------------------------
