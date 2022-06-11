@@ -17478,3 +17478,7 @@ Recent Minimum---Always now has $0.12282677464545863
 Recent Minimum---Always has sold USDT for $0.9988. Profit was -0.4%.
 Recent Minimum---Always now has $0.1223354675468768
 ---------------------------------------------------------------------------
+[2022-06-11 19:35:34] BUY
+Recent Minimum---Always has bought MINA for $0.74
+Recent Minimum---Always now has $0.1223354675468768
+---------------------------------------------------------------------------
