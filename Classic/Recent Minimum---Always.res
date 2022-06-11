@@ -17470,3 +17470,7 @@ Recent Minimum---Always now has $0.12346881247030421
 Recent Minimum---Always has sold 1INCH for $0.712. Profit was -0.52%.
 Recent Minimum---Always now has $0.12282677464545863
 ---------------------------------------------------------------------------
+[2022-06-11 19:31:25] BUY
+Recent Minimum---Always has bought USDT for $0.9988
+Recent Minimum---Always now has $0.12282677464545863
+---------------------------------------------------------------------------
