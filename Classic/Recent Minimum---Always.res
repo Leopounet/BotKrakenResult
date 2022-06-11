@@ -17474,3 +17474,7 @@ Recent Minimum---Always now has $0.12282677464545863
 Recent Minimum---Always has bought USDT for $0.9988
 Recent Minimum---Always now has $0.12282677464545863
 ---------------------------------------------------------------------------
+[2022-06-11 19:33:33] SOLD
+Recent Minimum---Always has sold USDT for $0.9988. Profit was -0.4%.
+Recent Minimum---Always now has $0.1223354675468768
+---------------------------------------------------------------------------
