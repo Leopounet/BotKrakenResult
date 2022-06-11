@@ -15918,3 +15918,7 @@ Recent Minimum---Always now has $0.33325654756785733
 Recent Minimum---Always has sold ACA for $0.338. Profit was -0.52%.
 Recent Minimum---Always now has $0.33152361352050447
 ---------------------------------------------------------------------------
+[2022-06-11 06:18:13] BUY
+Recent Minimum---Always has bought AAVE for $87.54
+Recent Minimum---Always now has $0.33152361352050447
+---------------------------------------------------------------------------
