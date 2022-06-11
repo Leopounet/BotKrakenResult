@@ -17634,3 +17634,7 @@ Recent Minimum---Always now has $0.11020547480672888
 Recent Minimum---Always has bought ALCX for $26.55
 Recent Minimum---Always now has $0.11020547480672888
 ---------------------------------------------------------------------------
+[2022-06-11 20:55:13] SOLD
+Recent Minimum---Always has sold ALCX for $26.55. Profit was -0.52%.
+Recent Minimum---Always now has $0.10963240633773388
+---------------------------------------------------------------------------
