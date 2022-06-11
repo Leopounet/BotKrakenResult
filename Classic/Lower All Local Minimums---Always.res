@@ -15210,3 +15210,7 @@ Lower All Local Minimums---Always now has $1.9876765348704781
 Lower All Local Minimums---Always has bought SNX for $2.445
 Lower All Local Minimums---Always now has $1.9876765348704781
 ---------------------------------------------------------------------------
+[2022-06-11 00:23:02] SOLD
+Lower All Local Minimums---Always has sold SNX for $2.479. Profit was 0.8705930470347716%.
+Lower All Local Minimums---Always now has $2.004981108580602
+---------------------------------------------------------------------------
