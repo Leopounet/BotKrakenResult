@@ -15318,3 +15318,7 @@ Lower All Local Minimums---Always now has $2.018406464979446
 Lower All Local Minimums---Always has sold PERP for $0.945. Profit was -0.52%.
 Lower All Local Minimums---Always now has $2.0079107513615533
 ---------------------------------------------------------------------------
+[2022-06-11 01:17:44] BUY
+Lower All Local Minimums---Always has bought PERP for $0.945
+Lower All Local Minimums---Always now has $2.0079107513615533
+---------------------------------------------------------------------------
