@@ -15334,3 +15334,7 @@ Lower All Local Minimums---Always now has $1.997469615454473
 Lower All Local Minimums---Always has sold PERP for $0.945. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1.9870827734541099
 ---------------------------------------------------------------------------
+[2022-06-11 01:25:44] BUY
+Lower All Local Minimums---Always has bought NANO for $1.062834
+Lower All Local Minimums---Always now has $1.9870827734541099
+---------------------------------------------------------------------------
