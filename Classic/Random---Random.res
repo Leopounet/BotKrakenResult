@@ -10958,3 +10958,7 @@ Random---Random now has $9.224739493250976
 Random---Random has sold USDC for $1.0. Profit was -0.4%.
 Random---Random now has $9.187840535277973
 ---------------------------------------------------------------------------
+[2022-06-11 10:37:03] BUY
+Random---Random has bought ALICE for $2.603
+Random---Random now has $9.187840535277973
+---------------------------------------------------------------------------
