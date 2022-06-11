@@ -17482,3 +17482,7 @@ Recent Minimum---Always now has $0.1223354675468768
 Recent Minimum---Always has bought MINA for $0.74
 Recent Minimum---Always now has $0.1223354675468768
 ---------------------------------------------------------------------------
+[2022-06-11 19:37:36] SOLD
+Recent Minimum---Always has sold MINA for $0.734. Profit was -1.3308108108108136%.
+Recent Minimum---Always now has $0.120707413919307
+---------------------------------------------------------------------------
