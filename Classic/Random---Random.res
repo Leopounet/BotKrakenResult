@@ -11550,3 +11550,7 @@ Random---Random now has $6.310352263788922
 Random---Random has sold ALICE for $2.352. Profit was -0.52%.
 Random---Random now has $6.27753843201722
 ---------------------------------------------------------------------------
+[2022-06-11 17:32:28] BUY
+Random---Random has bought XZEC for $79.52
+Random---Random now has $6.27753843201722
+---------------------------------------------------------------------------
