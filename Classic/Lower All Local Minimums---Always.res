@@ -15934,3 +15934,7 @@ Lower All Local Minimums---Always now has $1.8191278776095756
 Lower All Local Minimums---Always has sold NANO for $1.054579. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1.8096684126460059
 ---------------------------------------------------------------------------
+[2022-06-11 06:26:17] BUY
+Lower All Local Minimums---Always has bought GST for $0.353
+Lower All Local Minimums---Always now has $1.8096684126460059
+---------------------------------------------------------------------------
