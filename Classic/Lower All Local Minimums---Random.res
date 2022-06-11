@@ -10374,3 +10374,7 @@ Lower All Local Minimums---Random now has $37.25158274627252
 Lower All Local Minimums---Random has sold GST for $0.384. Profit was -0.52%.
 Lower All Local Minimums---Random now has $37.0578745159919
 ---------------------------------------------------------------------------
+[2022-06-11 03:11:47] BUY
+Lower All Local Minimums---Random has bought PERP for $0.953
+Lower All Local Minimums---Random now has $37.0578745159919
+---------------------------------------------------------------------------
