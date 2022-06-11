@@ -17638,3 +17638,7 @@ Recent Minimum---Always now has $0.11020547480672888
 Recent Minimum---Always has sold ALCX for $26.55. Profit was -0.52%.
 Recent Minimum---Always now has $0.10963240633773388
 ---------------------------------------------------------------------------
+[2022-06-11 20:57:18] BUY
+Recent Minimum---Always has bought AIR for $0.02481
+Recent Minimum---Always now has $0.10963240633773388
+---------------------------------------------------------------------------
