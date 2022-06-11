@@ -11818,3 +11818,7 @@ Random---Random now has $5.091052498706694
 Random---Random has bought WAVES for $6.1429
 Random---Random now has $5.091052498706694
 ---------------------------------------------------------------------------
+[2022-06-11 21:17:57] SOLD
+Random---Random has sold WAVES for $6.1429. Profit was -0.52%.
+Random---Random now has $5.064579025713419
+---------------------------------------------------------------------------
