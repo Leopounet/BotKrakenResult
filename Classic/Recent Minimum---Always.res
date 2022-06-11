@@ -16982,3 +16982,7 @@ Recent Minimum---Always now has $0.1596361369676944
 Recent Minimum---Always has sold AGLD for $0.3975. Profit was -0.52%.
 Recent Minimum---Always now has $0.1588060290554624
 ---------------------------------------------------------------------------
+[2022-06-11 15:25:03] BUY
+Recent Minimum---Always has bought AGLD for $0.3975
+Recent Minimum---Always now has $0.1588060290554624
+---------------------------------------------------------------------------
