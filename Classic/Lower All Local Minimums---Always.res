@@ -15286,3 +15286,7 @@ Lower All Local Minimums---Always now has $1.9108734836432795
 Lower All Local Minimums---Always has sold PERP for $0.945. Profit was -0.52%.
 Lower All Local Minimums---Always now has $1.9009369415283344
 ---------------------------------------------------------------------------
+[2022-06-11 01:01:35] BUY
+Lower All Local Minimums---Always has bought GST for $0.384
+Lower All Local Minimums---Always now has $1.9009369415283344
+---------------------------------------------------------------------------
