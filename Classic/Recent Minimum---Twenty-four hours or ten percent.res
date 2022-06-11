@@ -46,3 +46,7 @@ Recent Minimum---Twenty-four hours or ten percent now has $9826.31658017176
 Recent Minimum---Twenty-four hours or ten percent has sold 1INCH for $0.708. Profit was -8.212307692307698%.
 Recent Minimum---Twenty-four hours or ten percent now has $9019.349227787809
 ---------------------------------------------------------------------------
+[2022-06-11 15:29:17] BUY
+Recent Minimum---Twenty-four hours or ten percent has bought ACA for $0.308
+Recent Minimum---Twenty-four hours or ten percent now has $9019.349227787809
+---------------------------------------------------------------------------
