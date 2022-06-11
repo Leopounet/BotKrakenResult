@@ -16838,3 +16838,7 @@ Lower All Local Minimums---Always now has $0.889321189795853
 Lower All Local Minimums---Always has sold KEEP for $0.21438. Profit was -0.8222834023159615%.
 Lower All Local Minimums---Always now has $0.8820084492588828
 ---------------------------------------------------------------------------
+[2022-06-11 14:08:31] BUY
+Lower All Local Minimums---Always has bought MOVR for $17.7232
+Lower All Local Minimums---Always now has $0.8820084492588828
+---------------------------------------------------------------------------
