@@ -19002,3 +19002,7 @@ Recent Minimum---Always now has $0.044047985258690144
 Recent Minimum---Always has bought IMX for $0.787
 Recent Minimum---Always now has $0.044047985258690144
 ---------------------------------------------------------------------------
+[2022-06-12 08:33:53] SOLD
+Recent Minimum---Always has sold IMX for $0.787. Profit was -0.52%.
+Recent Minimum---Always now has $0.043818935735344955
+---------------------------------------------------------------------------
