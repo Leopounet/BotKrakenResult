@@ -20166,3 +20166,7 @@ Recent Minimum---Always now has $0.02076801995275545
 Recent Minimum---Always has sold ALICE for $2.308. Profit was -2.3072340425531985%.
 Recent Minimum---Always now has $0.020288853126441235
 ---------------------------------------------------------------------------
+[2022-06-12 18:27:37] BUY
+Recent Minimum---Always has bought ACH for $0.01231
+Recent Minimum---Always now has $0.020288853126441235
+---------------------------------------------------------------------------
