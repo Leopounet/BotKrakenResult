@@ -20482,3 +20482,7 @@ Recent Minimum---Always now has $0.017265727838215762
 Recent Minimum---Always has bought SHIB for $8.99e-06
 Recent Minimum---Always now has $0.017265727838215762
 ---------------------------------------------------------------------------
+[2022-06-12 21:17:53] SOLD
+Recent Minimum---Always has sold SHIB for $8.99e-06. Profit was -0.52%.
+Recent Minimum---Always now has $0.017175946053457042
+---------------------------------------------------------------------------
