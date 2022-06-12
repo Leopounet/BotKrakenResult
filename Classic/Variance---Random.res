@@ -13714,3 +13714,7 @@ Variance---Random now has $0.6294557086521869
 Variance---Random has bought ADX for $0.16011
 Variance---Random now has $0.6294557086521869
 ---------------------------------------------------------------------------
+[2022-06-12 21:11:01] SOLD
+Variance---Random has sold ADX for $0.16011. Profit was -0.52%.
+Variance---Random now has $0.6261825389671956
+---------------------------------------------------------------------------
