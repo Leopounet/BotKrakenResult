@@ -20650,3 +20650,7 @@ Lower All Local Minimums---Always now has $0.09151386427370209
 Lower All Local Minimums---Always has bought OGN for $0.2088
 Lower All Local Minimums---Always now has $0.09151386427370209
 ---------------------------------------------------------------------------
+[2022-06-12 22:45:35] SOLD
+Lower All Local Minimums---Always has sold OGN for $0.2088. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.09103799217947883
+---------------------------------------------------------------------------

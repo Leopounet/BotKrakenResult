@@ -13718,3 +13718,7 @@ Lower All Local Minimums---Random now has $6.052598606521605
 Lower All Local Minimums---Random has sold FET for $0.1181. Profit was -0.8575527426160319%.
 Lower All Local Minimums---Random now has $6.000694381171839
 ---------------------------------------------------------------------------
+[2022-06-12 22:45:35] BUY
+Lower All Local Minimums---Random has bought OGN for $0.2088
+Lower All Local Minimums---Random now has $6.000694381171839
+---------------------------------------------------------------------------
