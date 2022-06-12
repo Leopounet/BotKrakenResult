@@ -1,4 +1,4 @@
-[2022-06-12 22:19:13] SUMMARY
+[2022-06-12 22:21:14] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    27345.1
-		Maximum:                    30614.0
-		Minimum:                    27281.8
-		Variance:                   0.108846
-		Mean:                       28576.442222
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      28683.508333
-		Number of local maximums:   12
-		Average local minimum:      28663.35
-		Number of local minimums:   12
-	Is init: True
+	None
 Wins: 27
-Losses: 2548
-Total points: -1307.5421129675947%
-Wallet: 0.019754547373742763
+Losses: 2549
+Total points: -1308.0621129675947%
+Wallet: 0.0196518237273993
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BANDUSD
-	Altname: BANDUSD
-	Wsname: BAND/USD
-	Base:
-	 	Name: BAND
-		Altname: BAND
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (BANDUSD):
-		Current:                    1.504
-		Maximum:                    2.126
-		Minimum:                    1.443
-		Variance:                   0.321261
-		Mean:                       1.791965
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.304348
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.090909
-		Is falling:                 True
-		Current fall duration:      30
-		Trending downwards:         True
-		Average local maximum:      1.824783
-		Number of local maximums:   23
-		Average local minimum:      1.822121
-		Number of local minimums:   33
-	Is init: True
+	None
 Wins: 172
-Losses: 2403
-Total points: -1146.0461828284356%
-Wallet: 0.09554227761057246
+Losses: 2404
+Total points: -1146.5661828284356%
+Wallet: 0.09504545776699748
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
