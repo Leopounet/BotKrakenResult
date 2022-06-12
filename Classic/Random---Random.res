@@ -13034,3 +13034,7 @@ Random---Random now has $2.2047173766766486
 Random---Random has bought PSTAKE for $0.1924
 Random---Random now has $2.2047173766766486
 ---------------------------------------------------------------------------
+[2022-06-12 12:36:25] SOLD
+Random---Random has sold PSTAKE for $0.1924. Profit was -0.52%.
+Random---Random now has $2.19325284631793
+---------------------------------------------------------------------------
