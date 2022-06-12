@@ -20746,3 +20746,7 @@ Variance---Always now has $0.0031163968540265197
 Variance---Always has bought ADX for $0.16011
 Variance---Always now has $0.0031163968540265197
 ---------------------------------------------------------------------------
+[2022-06-12 23:33:33] SOLD
+Variance---Always has sold ADX for $0.16011. Profit was -0.52%.
+Variance---Always now has $0.0031001915903855815
+---------------------------------------------------------------------------
