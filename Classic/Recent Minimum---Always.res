@@ -20082,3 +20082,7 @@ Recent Minimum---Always now has $0.02187949663979348
 Recent Minimum---Always has bought ANT for $1.517
 Recent Minimum---Always now has $0.02187949663979348
 ---------------------------------------------------------------------------
+[2022-06-12 17:45:00] SOLD
+Recent Minimum---Always has sold ANT for $1.517. Profit was -0.52%.
+Recent Minimum---Always now has $0.021765723257266556
+---------------------------------------------------------------------------
