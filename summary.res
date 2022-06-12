@@ -1,4 +1,4 @@
-[2022-06-12 17:40:58] SUMMARY
+[2022-06-12 17:42:59] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: TBTCUSD
+	Altname: TBTCUSD
+	Wsname: TBTC/USD
+	Base:
+	 	Name: TBTC
+		Altname: TBTC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (TBTCUSD):
+		Current:                    29166.3
+		Maximum:                    33467.0
+		Minimum:                    29017.0
+		Variance:                   0.132967
+		Mean:                       30156.364167
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          4.5
+		Is ascending:               True
+		Current ascension duration: 479
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.0
+		Is falling:                 True
+		Current fall duration:      607
+		Trending downwards:         True
+		Average local maximum:      32757.35
+		Number of local maximums:   2
+		Average local minimum:      30550.1
+		Number of local minimums:   3
+	Is init: True
 Wins: 27
 Losses: 2483
 Total points: -1273.9893876487395%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: MOVRUSD
+	Altname: MOVRUSD
+	Wsname: MOVR/USD
+	Base:
+	 	Name: MOVR
+		Altname: MOVR
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.2
+	Data about this pair of assets (MOVRUSD):
+		Current:                    16.46
+		Maximum:                    20.0488
+		Minimum:                    15.7347
+		Variance:                   0.21518
+		Mean:                       18.010718
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.818182
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.193548
+		Is falling:                 True
+		Current fall duration:      4
+		Trending downwards:         True
+		Average local maximum:      18.137303
+		Number of local maximums:   33
+		Average local minimum:      18.485177
+		Number of local minimums:   31
+	Is init: True
 Wins: 170
 Losses: 2340
 Total points: -1119.1044785083134%
