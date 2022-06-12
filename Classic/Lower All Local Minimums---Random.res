@@ -13366,3 +13366,7 @@ Lower All Local Minimums---Random now has $7.490815416377987
 Lower All Local Minimums---Random has sold KEEP for $0.21499. Profit was 0.8999452778564048%.
 Lower All Local Minimums---Random now has $7.55822865599062
 ---------------------------------------------------------------------------
+[2022-06-12 17:30:51] BUY
+Lower All Local Minimums---Random has bought SPELL for $0.000906
+Lower All Local Minimums---Random now has $7.55822865599062
+---------------------------------------------------------------------------

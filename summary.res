@@ -1,4 +1,4 @@
-[2022-06-12 17:28:51] SUMMARY
+[2022-06-12 17:30:51] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: TBTCUSD
+	Altname: TBTCUSD
+	Wsname: TBTC/USD
+	Base:
+	 	Name: TBTC
+		Altname: TBTC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (TBTCUSD):
+		Current:                    29166.3
+		Maximum:                    33467.0
+		Minimum:                    29017.0
+		Variance:                   0.132967
+		Mean:                       30168.310556
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          4.5
+		Is ascending:               True
+		Current ascension duration: 477
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.0
+		Is falling:                 True
+		Current fall duration:      605
+		Trending downwards:         True
+		Average local maximum:      32757.35
+		Number of local maximums:   2
+		Average local minimum:      30550.1
+		Number of local minimums:   3
+	Is init: True
 Wins: 27
 Losses: 2480
 Total points: -1272.4293876487395%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: SPELLUSD
+	Altname: SPELLUSD
+	Wsname: SPELL/USD
+	Base:
+	 	Name: SPELL
+		Altname: SPELL
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 1000
+	Data about this pair of assets (SPELLUSD):
+		Current:                    0.000906
+		Maximum:                    0.001194
+		Minimum:                    0.000691
+		Variance:                   0.421273
+		Mean:                       0.00104
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          4.111111
+		Is ascending:               True
+		Current ascension duration: 16
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.189189
+		Is falling:                 True
+		Current fall duration:      13
+		Trending downwards:         True
+		Average local maximum:      0.00105
+		Number of local maximums:   27
+		Average local minimum:      0.001051
+		Number of local minimums:   37
+	Is init: True
 Wins: 170
 Losses: 2337
 Total points: -1117.6744925279409%
