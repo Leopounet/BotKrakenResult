@@ -12630,3 +12630,7 @@ Lower All Local Minimums---Random now has $10.609371690550537
 Lower All Local Minimums---Random has sold BAND for $1.506. Profit was -0.4535548172757493%.
 Lower All Local Minimums---Random now has $10.561252374165356
 ---------------------------------------------------------------------------
+[2022-06-12 07:27:18] BUY
+Lower All Local Minimums---Random has bought OGN for $0.207
+Lower All Local Minimums---Random now has $10.561252374165356
+---------------------------------------------------------------------------
