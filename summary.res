@@ -1,4 +1,4 @@
-[2022-06-12 20:23:45] SUMMARY
+[2022-06-12 20:25:46] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    27471.3
-		Maximum:                    30614.0
-		Minimum:                    27281.8
-		Variance:                   0.108846
-		Mean:                       28658.203333
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.5
-		Is ascending:               True
-		Current ascension duration: 4
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.571429
-		Is falling:                 True
-		Current fall duration:      48
-		Trending downwards:         True
-		Average local maximum:      28702.083333
-		Number of local maximums:   12
-		Average local minimum:      28865.392857
-		Number of local minimums:   14
-	Is init: True
+	None
 Wins: 27
-Losses: 2521
-Total points: -1293.9312740092792%
-Wallet: 0.022643022015483658
+Losses: 2522
+Total points: -1294.4512740092791%
+Wallet: 0.022525278301003142
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: FETUSD
-	Altname: FETUSD
-	Wsname: FET/USD
-	Base:
-	 	Name: FET
-		Altname: FET
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 20
-	Data about this pair of assets (FETUSD):
-		Current:                    0.1231
-		Maximum:                    0.1644
-		Minimum:                    0.121
-		Variance:                   0.26399
-		Mean:                       0.139444
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.08
-		Is ascending:               True
-		Current ascension duration: 6
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.205882
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      0.139636
-		Number of local maximums:   25
-		Average local minimum:      0.136435
-		Number of local minimums:   34
-	Is init: True
+	None
 Wins: 171
-Losses: 2377
-Total points: -1133.272350764573%
-Wallet: 0.10860574720429862
+Losses: 2378
+Total points: -1133.792350764573%
+Wallet: 0.10804099731883626
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
