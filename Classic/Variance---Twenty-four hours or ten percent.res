@@ -62,3 +62,7 @@ Variance---Twenty-four hours or ten percent now has $8022.870477172351
 Variance---Twenty-four hours or ten percent has sold MV for $0.5099. Profit was -3.5255164542514557%.
 Variance---Twenty-four hours or ten percent now has $7740.022858396357
 ---------------------------------------------------------------------------
+[2022-06-12 20:23:45] BUY
+Variance---Twenty-four hours or ten percent has bought ADX for $0.16011
+Variance---Twenty-four hours or ten percent now has $7740.022858396357
+---------------------------------------------------------------------------
