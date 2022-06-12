@@ -12978,3 +12978,7 @@ Lower All Local Minimums---Random now has $8.82885277096159
 Lower All Local Minimums---Random has bought MOVR for $16.2996
 Lower All Local Minimums---Random now has $8.82885277096159
 ---------------------------------------------------------------------------
+[2022-06-12 12:46:29] SOLD
+Lower All Local Minimums---Random has sold MOVR for $16.1923. Profit was -1.178298363150034%.
+Lower All Local Minimums---Random now has $8.724822543276423
+---------------------------------------------------------------------------
