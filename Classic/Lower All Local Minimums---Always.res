@@ -19478,3 +19478,7 @@ Lower All Local Minimums---Always now has $0.17293121273044748
 Lower All Local Minimums---Always has sold MOVR for $16.3185. Profit was -0.3130585576734197%.
 Lower All Local Minimums---Always now has $0.17238983677010639
 ---------------------------------------------------------------------------
+[2022-06-12 12:38:27] BUY
+Lower All Local Minimums---Always has bought MOVR for $16.3095
+Lower All Local Minimums---Always now has $0.17238983677010639
+---------------------------------------------------------------------------

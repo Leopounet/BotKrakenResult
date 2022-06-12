@@ -13038,3 +13038,7 @@ Random---Random now has $2.2047173766766486
 Random---Random has sold PSTAKE for $0.1924. Profit was -0.52%.
 Random---Random now has $2.19325284631793
 ---------------------------------------------------------------------------
+[2022-06-12 12:38:27] BUY
+Random---Random has bought JASMY for $0.00987
+Random---Random now has $2.19325284631793
+---------------------------------------------------------------------------
