@@ -18502,3 +18502,7 @@ Recent Minimum---Always now has $0.06116491356710795
 Recent Minimum---Always has sold COMP for $42.49. Profit was -0.52%.
 Recent Minimum---Always now has $0.06084685601655899
 ---------------------------------------------------------------------------
+[2022-06-12 04:17:52] BUY
+Recent Minimum---Always has bought ALGO for $0.33381
+Recent Minimum---Always now has $0.06084685601655899
+---------------------------------------------------------------------------
