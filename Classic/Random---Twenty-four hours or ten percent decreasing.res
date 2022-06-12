@@ -54,3 +54,7 @@ Random---Twenty-four hours or ten percent decreasing now has $8155.3183926638985
 Random---Twenty-four hours or ten percent decreasing has sold EWT for $2.711. Profit was -1.9381818181818184%.
 Random---Twenty-four hours or ten percent decreasing now has $7997.253494362449
 ---------------------------------------------------------------------------
+[2022-06-12 16:29:51] BUY
+Random---Twenty-four hours or ten percent decreasing has bought APE for $4.3636
+Random---Twenty-four hours or ten percent decreasing now has $7997.253494362449
+---------------------------------------------------------------------------

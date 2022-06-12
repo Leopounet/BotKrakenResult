@@ -54,3 +54,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $5029.014936
 Lower All Local Minimums---Twenty-four hours or ten percent has sold COMP for $44.57. Profit was -2.153193555506518%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $4920.730511147972
 ---------------------------------------------------------------------------
+[2022-06-12 16:29:51] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought MOVR for $16.4434
+Lower All Local Minimums---Twenty-four hours or ten percent now has $4920.730511147972
+---------------------------------------------------------------------------
