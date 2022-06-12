@@ -18862,3 +18862,7 @@ Lower All Local Minimums---Always now has $0.2554576304147288
 Lower All Local Minimums---Always has sold OGN for $0.207. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.2541292507365722
 ---------------------------------------------------------------------------
+[2022-06-12 07:21:05] BUY
+Lower All Local Minimums---Always has bought BAND for $1.505
+Lower All Local Minimums---Always now has $0.2541292507365722
+---------------------------------------------------------------------------
