@@ -50,3 +50,7 @@ Random---Twenty-four hours or ten percent now has $6622.514653082664
 Random---Twenty-four hours or ten percent has bought CVC for $0.1578
 Random---Twenty-four hours or ten percent now has $6622.514653082664
 ---------------------------------------------------------------------------
+[2022-06-12 16:31:51] SOLD
+Random---Twenty-four hours or ten percent has sold CVC for $0.1536. Profit was -3.1815969581749055%.
+Random---Twenty-four hours or ten percent now has $6411.812928325498
+---------------------------------------------------------------------------
