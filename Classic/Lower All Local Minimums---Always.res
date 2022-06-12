@@ -20230,3 +20230,7 @@ Lower All Local Minimums---Always now has $0.12034652559539605
 Lower All Local Minimums---Always has sold SPELL for $0.000887. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.1197207236623
 ---------------------------------------------------------------------------
+[2022-06-12 19:01:53] BUY
+Lower All Local Minimums---Always has bought FET for $0.1238
+Lower All Local Minimums---Always now has $0.1197207236623
+---------------------------------------------------------------------------
