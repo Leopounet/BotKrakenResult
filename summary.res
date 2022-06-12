@@ -1,4 +1,4 @@
-[2022-06-12 11:16:24] SUMMARY
+[2022-06-12 11:18:26] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXBTZUSD
-	Altname: XBTUSD
-	Wsname: XBT/USD
-	Base:
-	 	Name: XXBT
-		Altname: XBT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (XXBTZUSD):
-		Current:                    27416.4
-		Maximum:                    30311.4
-		Minimum:                    27248.2
-		Variance:                   0.101058
-		Mean:                       28947.987222
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      28975.0
-		Number of local maximums:   19
-		Average local minimum:      28854.721053
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 26
-Losses: 2389
-Total points: -1226.3962425685168%
-Wallet: 0.04456861958824992
+Losses: 2390
+Total points: -1227.0099820820926%
+Wallet: 0.04429508435918154
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: COMPUSD
-	Altname: COMPUSD
-	Wsname: COMP/USD
-	Base:
-	 	Name: COMP
-		Altname: COMP
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.1
-	Data about this pair of assets (COMPUSD):
-		Current:                    42.34
-		Maximum:                    55.59
-		Minimum:                    40.73
-		Variance:                   0.267314
-		Mean:                       49.501097
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.9375
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.285714
-		Is falling:                 True
-		Current fall duration:      12
-		Trending downwards:         True
-		Average local maximum:      49.487187
-		Number of local maximums:   32
-		Average local minimum:      49.609524
-		Number of local minimums:   42
-	Is init: True
+	None
 Wins: 164
-Losses: 2251
-Total points: -1077.3965400182674%
-Wallet: 0.19093855508388996
+Losses: 2252
+Total points: -1077.9165400182674%
+Wallet: 0.18994567459745373
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
