@@ -20478,3 +20478,7 @@ Recent Minimum---Always now has $0.017355978928644714
 Recent Minimum---Always has sold 1INCH for $0.672. Profit was -0.52%.
 Recent Minimum---Always now has $0.017265727838215762
 ---------------------------------------------------------------------------
+[2022-06-12 21:15:29] BUY
+Recent Minimum---Always has bought SHIB for $8.99e-06
+Recent Minimum---Always now has $0.017265727838215762
+---------------------------------------------------------------------------
