@@ -19874,3 +19874,7 @@ Lower All Local Minimums---Always now has $0.13973522825505597
 Lower All Local Minimums---Always has bought SPELL for $0.0009
 Lower All Local Minimums---Always now has $0.13973522825505597
 ---------------------------------------------------------------------------
+[2022-06-12 15:59:18] SOLD
+Lower All Local Minimums---Always has sold SPELL for $0.0009. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.13900860506812968
+---------------------------------------------------------------------------
