@@ -20486,3 +20486,7 @@ Recent Minimum---Always now has $0.017265727838215762
 Recent Minimum---Always has sold SHIB for $8.99e-06. Profit was -0.52%.
 Recent Minimum---Always now has $0.017175946053457042
 ---------------------------------------------------------------------------
+[2022-06-12 21:19:58] BUY
+Recent Minimum---Always has bought ASTR for $0.0496
+Recent Minimum---Always now has $0.017175946053457042
+---------------------------------------------------------------------------
