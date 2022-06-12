@@ -13222,3 +13222,7 @@ Recent Minimum---Random now has $1.1280807514844138
 Recent Minimum---Random has sold ANKR for $0.03117. Profit was -0.8716624040920791%.
 Recent Minimum---Random now has $1.1182476956859246
 ---------------------------------------------------------------------------
+[2022-06-12 18:11:25] BUY
+Recent Minimum---Random has bought ALICE for $2.35
+Recent Minimum---Random now has $1.1182476956859246
+---------------------------------------------------------------------------
