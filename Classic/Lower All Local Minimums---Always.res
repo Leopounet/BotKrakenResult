@@ -20670,3 +20670,7 @@ Lower All Local Minimums---Always now has $0.09056459462014554
 Lower All Local Minimums---Always has sold FET for $0.1181. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.09009365872812079
 ---------------------------------------------------------------------------
+[2022-06-12 22:55:32] BUY
+Lower All Local Minimums---Always has bought COMP for $42.31
+Lower All Local Minimums---Always now has $0.09009365872812079
+---------------------------------------------------------------------------
