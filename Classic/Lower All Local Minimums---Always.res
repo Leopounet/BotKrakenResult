@@ -20242,3 +20242,7 @@ Lower All Local Minimums---Always now has $0.11909817589925603
 Lower All Local Minimums---Always has bought FET for $0.1222
 Lower All Local Minimums---Always now has $0.11909817589925603
 ---------------------------------------------------------------------------
+[2022-06-12 19:08:14] SOLD
+Lower All Local Minimums---Always has sold FET for $0.1221. Profit was -0.6018330605564688%.
+Lower All Local Minimums---Always now has $0.1183814037021746
+---------------------------------------------------------------------------
