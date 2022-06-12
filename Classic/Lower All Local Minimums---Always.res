@@ -19750,3 +19750,7 @@ Lower All Local Minimums---Always now has $0.1538716923645627
 Lower All Local Minimums---Always has sold MOVR for $16.4694. Profit was 0.3824574043781319%.
 Lower All Local Minimums---Always now has $0.1544601860452529
 ---------------------------------------------------------------------------
+[2022-06-12 14:55:31] BUY
+Lower All Local Minimums---Always has bought GST for $0.234
+Lower All Local Minimums---Always now has $0.1544601860452529
+---------------------------------------------------------------------------
