@@ -13450,3 +13450,7 @@ Lower All Local Minimums---Random now has $7.258536359308163
 Lower All Local Minimums---Random has bought KILT for $0.551
 Lower All Local Minimums---Random now has $7.258536359308163
 ---------------------------------------------------------------------------
+[2022-06-12 18:48:33] SOLD
+Lower All Local Minimums---Random has sold KILT for $0.551. Profit was -0.52%.
+Lower All Local Minimums---Random now has $7.220791970239761
+---------------------------------------------------------------------------
