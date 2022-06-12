@@ -12486,3 +12486,7 @@ Recent Minimum---Random now has $1.8108289883880944
 Recent Minimum---Random has sold 1INCH for $0.672. Profit was -0.52%.
 Recent Minimum---Random now has $1.8014126776484762
 ---------------------------------------------------------------------------
+[2022-06-12 08:25:25] BUY
+Recent Minimum---Random has bought RBC for $0.06962
+Recent Minimum---Random now has $1.8014126776484762
+---------------------------------------------------------------------------
