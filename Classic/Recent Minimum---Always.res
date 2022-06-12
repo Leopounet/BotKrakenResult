@@ -20162,3 +20162,7 @@ Recent Minimum---Always now has $0.02076801995275545
 Recent Minimum---Always has bought ALICE for $2.35
 Recent Minimum---Always now has $0.02076801995275545
 ---------------------------------------------------------------------------
+[2022-06-12 18:25:35] SOLD
+Recent Minimum---Always has sold ALICE for $2.308. Profit was -2.3072340425531985%.
+Recent Minimum---Always now has $0.020288853126441235
+---------------------------------------------------------------------------
