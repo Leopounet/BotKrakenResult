@@ -1,4 +1,4 @@
-[2022-06-12 18:31:40] SUMMARY
+[2022-06-12 18:33:48] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    29166.3
-		Maximum:                    33467.0
-		Minimum:                    29017.0
-		Variance:                   0.132967
-		Mean:                       30096.632222
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.5
-		Is ascending:               True
-		Current ascension duration: 489
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.0
-		Is falling:                 True
-		Current fall duration:      617
-		Trending downwards:         True
-		Average local maximum:      32757.35
-		Number of local maximums:   2
-		Average local minimum:      30550.1
-		Number of local minimums:   3
-	Is init: True
+	None
 Wins: 27
-Losses: 2495
-Total points: -1280.2293876487392%
-Wallet: 0.02597759903789483
+Losses: 2496
+Total points: -1280.7493876487392%
+Wallet: 0.025842515522897777
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SPELLUSD
-	Altname: SPELLUSD
-	Wsname: SPELL/USD
-	Base:
-	 	Name: SPELL
-		Altname: SPELL
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1000
-	Data about this pair of assets (SPELLUSD):
-		Current:                    0.00089
-		Maximum:                    0.001189
-		Minimum:                    0.000691
-		Variance:                   0.418839
-		Mean:                       0.001035
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.0
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.25
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.001049
-		Number of local maximums:   27
-		Average local minimum:      0.001047
-		Number of local minimums:   36
-	Is init: True
+	None
 Wins: 171
-Losses: 2351
-Total points: -1119.9145478827943%
-Wallet: 0.12417063358288805
+Losses: 2352
+Total points: -1120.4345478827943%
+Wallet: 0.12352494628825703
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
