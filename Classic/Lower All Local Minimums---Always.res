@@ -20614,3 +20614,7 @@ Lower All Local Minimums---Always now has $0.09504545776699748
 Lower All Local Minimums---Always has sold FET for $0.1203. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0945512213866091
 ---------------------------------------------------------------------------
+[2022-06-12 22:27:28] BUY
+Lower All Local Minimums---Always has bought BAND for $1.504
+Lower All Local Minimums---Always now has $0.0945512213866091
+---------------------------------------------------------------------------
