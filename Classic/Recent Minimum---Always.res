@@ -20126,3 +20126,7 @@ Recent Minimum---Always now has $0.02131651525863167
 Recent Minimum---Always has sold ANKR for $0.03128. Profit was -0.52%.
 Recent Minimum---Always now has $0.021205669379286786
 ---------------------------------------------------------------------------
+[2022-06-12 18:07:21] BUY
+Recent Minimum---Always has bought ALICE for $2.35
+Recent Minimum---Always now has $0.021205669379286786
+---------------------------------------------------------------------------
