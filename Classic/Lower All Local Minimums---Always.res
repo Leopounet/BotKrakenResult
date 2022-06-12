@@ -20062,3 +20062,7 @@ Lower All Local Minimums---Always now has $0.1272525575033059
 Lower All Local Minimums---Always has sold SPELL for $0.000906. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.12659084420428873
 ---------------------------------------------------------------------------
+[2022-06-12 17:34:55] BUY
+Lower All Local Minimums---Always has bought USDT for $0.9986
+Lower All Local Minimums---Always now has $0.12659084420428873
+---------------------------------------------------------------------------
