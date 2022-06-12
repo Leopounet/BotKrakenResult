@@ -12494,3 +12494,7 @@ Recent Minimum---Random now has $1.8014126776484762
 Recent Minimum---Random has sold RBC for $0.06962. Profit was -0.52%.
 Recent Minimum---Random now has $1.7920453317247043
 ---------------------------------------------------------------------------
+[2022-06-12 08:29:38] BUY
+Recent Minimum---Random has bought IMX for $0.787
+Recent Minimum---Random now has $1.7920453317247043
+---------------------------------------------------------------------------
