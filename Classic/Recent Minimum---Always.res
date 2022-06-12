@@ -20494,3 +20494,7 @@ Recent Minimum---Always now has $0.017175946053457042
 Recent Minimum---Always has sold ASTR for $0.0496. Profit was -0.52%.
 Recent Minimum---Always now has $0.017086631133979065
 ---------------------------------------------------------------------------
+[2022-06-12 21:24:18] BUY
+Recent Minimum---Always has bought 1INCH for $0.672
+Recent Minimum---Always now has $0.017086631133979065
+---------------------------------------------------------------------------
