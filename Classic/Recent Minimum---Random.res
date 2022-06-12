@@ -13130,3 +13130,7 @@ Recent Minimum---Random now has $1.1963056023637022
 Recent Minimum---Random has bought ANT for $1.4935
 Recent Minimum---Random now has $1.1963056023637022
 ---------------------------------------------------------------------------
+[2022-06-12 17:10:35] SOLD
+Recent Minimum---Random has sold ANT for $1.4935. Profit was -0.52%.
+Recent Minimum---Random now has $1.190084813231411
+---------------------------------------------------------------------------
