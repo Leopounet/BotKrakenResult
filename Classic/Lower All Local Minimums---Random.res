@@ -13190,3 +13190,7 @@ Lower All Local Minimums---Random now has $8.482162603001026
 Lower All Local Minimums---Random has sold SPELL for $0.000927. Profit was -0.52%.
 Lower All Local Minimums---Random now has $8.438055357465421
 ---------------------------------------------------------------------------
+[2022-06-12 15:32:52] BUY
+Lower All Local Minimums---Random has bought MOVR for $16.4693
+Lower All Local Minimums---Random now has $8.438055357465421
+---------------------------------------------------------------------------

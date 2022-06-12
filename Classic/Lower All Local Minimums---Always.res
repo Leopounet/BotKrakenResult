@@ -19822,3 +19822,7 @@ Lower All Local Minimums---Always now has $0.1483287297183322
 Lower All Local Minimums---Always has sold SPELL for $0.000927. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.14755742032379687
 ---------------------------------------------------------------------------
+[2022-06-12 15:32:52] BUY
+Lower All Local Minimums---Always has bought MOVR for $16.4693
+Lower All Local Minimums---Always now has $0.14755742032379687
+---------------------------------------------------------------------------
