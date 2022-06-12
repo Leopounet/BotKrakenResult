@@ -18646,3 +18646,7 @@ Recent Minimum---Always now has $0.055403211559358324
 Recent Minimum---Always has sold 1INCH for $0.651. Profit was -0.9787155963302725%.
 Recent Minimum---Always now has $0.054860971686959026
 ---------------------------------------------------------------------------
+[2022-06-12 05:30:43] BUY
+Recent Minimum---Always has bought ALGO for $0.3245
+Recent Minimum---Always now has $0.054860971686959026
+---------------------------------------------------------------------------
