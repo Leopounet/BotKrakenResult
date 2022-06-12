@@ -20118,3 +20118,7 @@ Recent Minimum---Always now has $0.021427940549489013
 Recent Minimum---Always has sold ANKR for $0.0313. Profit was -0.52%.
 Recent Minimum---Always now has $0.02131651525863167
 ---------------------------------------------------------------------------
+[2022-06-12 18:03:19] BUY
+Recent Minimum---Always has bought ANKR for $0.03128
+Recent Minimum---Always now has $0.02131651525863167
+---------------------------------------------------------------------------
