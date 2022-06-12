@@ -12502,3 +12502,7 @@ Recent Minimum---Random now has $1.7920453317247043
 Recent Minimum---Random has sold IMX for $0.789. Profit was -0.26587039390088174%.
 Recent Minimum---Random now has $1.7872808137423655
 ---------------------------------------------------------------------------
+[2022-06-12 08:44:17] BUY
+Recent Minimum---Random has bought AAVE for $74.15
+Recent Minimum---Random now has $1.7872808137423655
+---------------------------------------------------------------------------
