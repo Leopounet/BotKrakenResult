@@ -13226,3 +13226,7 @@ Recent Minimum---Random now has $1.1182476956859246
 Recent Minimum---Random has bought ALICE for $2.35
 Recent Minimum---Random now has $1.1182476956859246
 ---------------------------------------------------------------------------
+[2022-06-12 18:15:29] SOLD
+Recent Minimum---Random has sold ALICE for $2.35. Profit was -0.52%.
+Recent Minimum---Random now has $1.1124328076683578
+---------------------------------------------------------------------------
