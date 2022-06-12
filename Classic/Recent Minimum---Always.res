@@ -19998,3 +19998,7 @@ Recent Minimum---Always now has $0.023187836497497488
 Recent Minimum---Always has sold 1INCH for $0.682. Profit was -0.52%.
 Recent Minimum---Always now has $0.0230672597477105
 ---------------------------------------------------------------------------
+[2022-06-12 17:02:30] BUY
+Recent Minimum---Always has bought ANT for $1.4935
+Recent Minimum---Always now has $0.0230672597477105
+---------------------------------------------------------------------------
