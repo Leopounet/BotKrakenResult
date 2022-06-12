@@ -19798,3 +19798,9 @@ Lower All Local Minimums---Random has 1499 losses
 Lower All Local Minimums---Random has -698.7786245997945 points
 Lower All Local Minimums---Random now has $8.394177469606602
 ---------------------------------------------------------------------------
+[2022-06-12 15:36:57] BRIEF
+Lower All Local Minimums---Random has 151 wins
+Lower All Local Minimums---Random has 1499 losses
+Lower All Local Minimums---Random has -698.7786245997945 points
+Lower All Local Minimums---Random now has $8.394177469606602
+---------------------------------------------------------------------------
