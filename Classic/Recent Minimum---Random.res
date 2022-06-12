@@ -13206,3 +13206,7 @@ Recent Minimum---Random now has $1.1406375915294253
 Recent Minimum---Random has sold ANKR for $0.0313. Profit was -0.52%.
 Recent Minimum---Random now has $1.1347062760534723
 ---------------------------------------------------------------------------
+[2022-06-12 18:01:13] BUY
+Recent Minimum---Random has bought ANKR for $0.0313
+Recent Minimum---Random now has $1.1347062760534723
+---------------------------------------------------------------------------
