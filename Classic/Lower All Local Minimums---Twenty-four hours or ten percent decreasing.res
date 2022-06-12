@@ -50,3 +50,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought COMP for $45.31
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $5029.014936669806
 ---------------------------------------------------------------------------
+[2022-06-12 16:27:45] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold COMP for $44.57. Profit was -2.153193555506518%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $4920.730511147972
+---------------------------------------------------------------------------
