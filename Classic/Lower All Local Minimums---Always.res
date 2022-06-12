@@ -20574,3 +20574,7 @@ Lower All Local Minimums---Always now has $0.09609713445709275
 Lower All Local Minimums---Always has sold SPELL for $0.000874. Profit was 0.9898722415795684%.
 Lower All Local Minimums---Always now has $0.09704837331603691
 ---------------------------------------------------------------------------
+[2022-06-12 22:06:43] BUY
+Lower All Local Minimums---Always has bought BAND for $1.504
+Lower All Local Minimums---Always now has $0.09704837331603691
+---------------------------------------------------------------------------
