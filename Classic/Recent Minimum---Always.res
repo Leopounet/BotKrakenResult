@@ -18654,3 +18654,7 @@ Recent Minimum---Always now has $0.054860971686959026
 Recent Minimum---Always has sold ALGO for $0.32481. Profit was -0.42446841294300386%.
 Recent Minimum---Always now has $0.05462810419111428
 ---------------------------------------------------------------------------
+[2022-06-12 05:34:41] BUY
+Recent Minimum---Always has bought AKT for $0.3464
+Recent Minimum---Always now has $0.05462810419111428
+---------------------------------------------------------------------------
