@@ -13590,3 +13590,7 @@ Lower All Local Minimums---Random now has $6.59005538465872
 Lower All Local Minimums---Random has sold FET for $0.1228. Profit was -0.52%.
 Lower All Local Minimums---Random now has $6.555787096658495
 ---------------------------------------------------------------------------
+[2022-06-12 21:08:51] BUY
+Lower All Local Minimums---Random has bought FET for $0.1228
+Lower All Local Minimums---Random now has $6.555787096658495
+---------------------------------------------------------------------------
