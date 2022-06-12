@@ -13150,3 +13150,7 @@ Lower All Local Minimums---Random now has $8.581985380841507
 Lower All Local Minimums---Random has sold SPELL for $0.000916. Profit was 0.919645625692143%.
 Lower All Local Minimums---Random now has $8.660909233993955
 ---------------------------------------------------------------------------
+[2022-06-12 14:59:31] BUY
+Lower All Local Minimums---Random has bought GST for $0.234
+Lower All Local Minimums---Random now has $8.660909233993955
+---------------------------------------------------------------------------
