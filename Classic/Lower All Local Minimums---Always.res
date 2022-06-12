@@ -20182,3 +20182,7 @@ Lower All Local Minimums---Always now has $0.12417063358288805
 Lower All Local Minimums---Always has sold SPELL for $0.00089. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.12352494628825703
 ---------------------------------------------------------------------------
+[2022-06-12 18:35:49] BUY
+Lower All Local Minimums---Always has bought KILT for $0.551
+Lower All Local Minimums---Always now has $0.12352494628825703
+---------------------------------------------------------------------------
