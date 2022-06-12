@@ -12770,3 +12770,7 @@ Random---Random now has $2.6585609625732
 Random---Random has bought MNGO for $0.0487
 Random---Random now has $2.6585609625732
 ---------------------------------------------------------------------------
+[2022-06-12 09:09:22] SOLD
+Random---Random has sold MNGO for $0.0487. Profit was -0.52%.
+Random---Random now has $2.644736445567819
+---------------------------------------------------------------------------
