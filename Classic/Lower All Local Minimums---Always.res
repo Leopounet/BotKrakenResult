@@ -19722,3 +19722,7 @@ Lower All Local Minimums---Always now has $0.15462194641215785
 Lower All Local Minimums---Always has bought BAND for $1.5
 Lower All Local Minimums---Always now has $0.15462194641215785
 ---------------------------------------------------------------------------
+[2022-06-12 14:41:27] SOLD
+Lower All Local Minimums---Always has sold BAND for $1.517. Profit was 0.6133333333333195%.
+Lower All Local Minimums---Always now has $0.1555702943501524
+---------------------------------------------------------------------------
