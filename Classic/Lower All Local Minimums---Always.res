@@ -19558,3 +19558,7 @@ Lower All Local Minimums---Always now has $0.16438741592153217
 Lower All Local Minimums---Always has sold BAND for $1.528. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.1635326013587402
 ---------------------------------------------------------------------------
+[2022-06-12 13:18:47] BUY
+Lower All Local Minimums---Always has bought MOVR for $16.0996
+Lower All Local Minimums---Always now has $0.1635326013587402
+---------------------------------------------------------------------------
