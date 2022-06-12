@@ -12318,3 +12318,7 @@ Variance---Random now has $1.4713631009527273
 Variance---Random has sold MV for $0.5257. Profit was -0.52%.
 Variance---Random now has $1.4637120128277732
 ---------------------------------------------------------------------------
+[2022-06-12 02:35:28] BUY
+Variance---Random has bought ADX for $0.3
+Variance---Random now has $1.4637120128277732
+---------------------------------------------------------------------------
