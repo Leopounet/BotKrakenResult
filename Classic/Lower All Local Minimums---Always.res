@@ -20662,3 +20662,7 @@ Lower All Local Minimums---Always now has $0.09103799217947883
 Lower All Local Minimums---Always has sold OGN for $0.2088. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.09056459462014554
 ---------------------------------------------------------------------------
+[2022-06-12 22:51:33] BUY
+Lower All Local Minimums---Always has bought FET for $0.1181
+Lower All Local Minimums---Always now has $0.09056459462014554
+---------------------------------------------------------------------------
