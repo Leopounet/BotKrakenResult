@@ -12490,3 +12490,7 @@ Recent Minimum---Random now has $1.8014126776484762
 Recent Minimum---Random has bought RBC for $0.06962
 Recent Minimum---Random now has $1.8014126776484762
 ---------------------------------------------------------------------------
+[2022-06-12 08:27:39] SOLD
+Recent Minimum---Random has sold RBC for $0.06962. Profit was -0.52%.
+Recent Minimum---Random now has $1.7920453317247043
+---------------------------------------------------------------------------
