@@ -1,4 +1,4 @@
-[2022-06-12 22:35:37] SUMMARY
+[2022-06-12 22:37:35] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXBTZUSD
-	Altname: XBTUSD
-	Wsname: XBT/USD
-	Base:
-	 	Name: XXBT
-		Altname: XBT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (XXBTZUSD):
-		Current:                    27194.6
-		Maximum:                    30105.4
-		Minimum:                    26939.9
-		Variance:                   0.105147
-		Mean:                       28496.705694
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.15
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.857143
-		Is falling:                 True
-		Current fall duration:      5
-		Trending downwards:         True
-		Average local maximum:      28503.48
-		Number of local maximums:   20
-		Average local minimum:      28507.347619
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 27
-Losses: 2552
-Total points: -1309.763450421827%
-Wallet: 0.01931926296334729
+Losses: 2553
+Total points: -1310.4831224155316%
+Wallet: 0.01918022763840993
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: FETUSD
-	Altname: FETUSD
-	Wsname: FET/USD
-	Base:
-	 	Name: FET
-		Altname: FET
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 20
-	Data about this pair of assets (FETUSD):
-		Current:                    0.12
-		Maximum:                    0.159
-		Minimum:                    0.12
-		Variance:                   0.245283
-		Mean:                       0.138051
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.807692
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.363636
-		Is falling:                 True
-		Current fall duration:      7
-		Trending downwards:         True
-		Average local maximum:      0.137304
-		Number of local maximums:   26
-		Average local minimum:      0.134588
-		Number of local minimums:   33
-	Is init: True
+	None
 Wins: 172
-Losses: 2407
-Total points: -1148.1261828284355%
-Wallet: 0.09357044534921466
+Losses: 2408
+Total points: -1149.8128494951022%
+Wallet: 0.09199222383765791
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Ten Percent
