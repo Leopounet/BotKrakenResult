@@ -19006,3 +19006,7 @@ Recent Minimum---Always now has $0.044047985258690144
 Recent Minimum---Always has sold IMX for $0.787. Profit was -0.52%.
 Recent Minimum---Always now has $0.043818935735344955
 ---------------------------------------------------------------------------
+[2022-06-12 08:35:52] BUY
+Recent Minimum---Always has bought AAVE for $74.23
+Recent Minimum---Always now has $0.043818935735344955
+---------------------------------------------------------------------------
