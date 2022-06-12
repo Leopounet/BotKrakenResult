@@ -12498,3 +12498,7 @@ Recent Minimum---Random now has $1.7920453317247043
 Recent Minimum---Random has bought IMX for $0.787
 Recent Minimum---Random now has $1.7920453317247043
 ---------------------------------------------------------------------------
+[2022-06-12 08:42:04] SOLD
+Recent Minimum---Random has sold IMX for $0.789. Profit was -0.26587039390088174%.
+Recent Minimum---Random now has $1.7872808137423655
+---------------------------------------------------------------------------
