@@ -15170,3 +15170,7 @@ Lower All Local Minimums---Random now has $2.168464971242932
 Lower All Local Minimums---Random has bought BADGER for $3.528
 Lower All Local Minimums---Random now has $2.168464971242932
 ---------------------------------------------------------------------------
+[2022-06-13 16:48:55] SOLD
+Lower All Local Minimums---Random has sold BADGER for $3.591. Profit was 1.2657142857142794%.
+Lower All Local Minimums---Random now has $2.195911542164664
+---------------------------------------------------------------------------
