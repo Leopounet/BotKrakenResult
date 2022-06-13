@@ -74,3 +74,7 @@ Variance---Twenty-four hours or ten percent now has $18281.334938610697
 Variance---Twenty-four hours or ten percent has bought ADX for $0.379
 Variance---Twenty-four hours or ten percent now has $18281.334938610697
 ---------------------------------------------------------------------------
+[2022-06-13 23:51:11] SOLD
+Variance---Twenty-four hours or ten percent has sold ADX for $0.16511. Profit was -56.95535620052771%.
+Variance---Twenty-four hours or ten percent now has $7869.135506113451
+---------------------------------------------------------------------------
