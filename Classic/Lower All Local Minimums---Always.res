@@ -23198,3 +23198,7 @@ Lower All Local Minimums---Always now has $0.017501318328529344
 Lower All Local Minimums---Always has sold PAXG for $1831.37. Profit was -0.41669195618426924%.
 Lower All Local Minimums---Always now has $0.017428391742828158
 ---------------------------------------------------------------------------
+[2022-06-13 20:29:52] BUY
+Lower All Local Minimums---Always has bought ZAUD for $0.69261
+Lower All Local Minimums---Always now has $0.017428391742828158
+---------------------------------------------------------------------------
