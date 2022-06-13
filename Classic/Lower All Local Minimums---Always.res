@@ -23334,3 +23334,7 @@ Lower All Local Minimums---Always now has $0.01613927836077984
 Lower All Local Minimums---Always has sold BADGER for $3.487. Profit was -2.4327988748241953%.
 Lower All Local Minimums---Always now has $0.015746642178414042
 ---------------------------------------------------------------------------
+[2022-06-13 21:46:50] BUY
+Lower All Local Minimums---Always has bought OGN for $0.1882
+Lower All Local Minimums---Always now has $0.015746642178414042
+---------------------------------------------------------------------------
