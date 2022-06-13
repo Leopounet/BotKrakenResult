@@ -15166,3 +15166,7 @@ Lower All Local Minimums---Random now has $2.1797999308835263
 Lower All Local Minimums---Random has sold MIR for $0.191. Profit was -0.52%.
 Lower All Local Minimums---Random now has $2.168464971242932
 ---------------------------------------------------------------------------
+[2022-06-13 16:42:46] BUY
+Lower All Local Minimums---Random has bought BADGER for $3.528
+Lower All Local Minimums---Random now has $2.168464971242932
+---------------------------------------------------------------------------
