@@ -62,3 +62,7 @@ Random---Twenty-four hours now has $7855.443952033881
 Random---Twenty-four hours has sold RAD for $1.636. Profit was -7.7236301758366395%.
 Random---Twenty-four hours now has $7248.718512508658
 ---------------------------------------------------------------------------
+[2022-06-13 16:28:19] BUY
+Random---Twenty-four hours has bought XETC for $15.108
+Random---Twenty-four hours now has $7248.718512508658
+---------------------------------------------------------------------------

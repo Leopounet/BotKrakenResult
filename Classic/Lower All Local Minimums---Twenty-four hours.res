@@ -62,3 +62,7 @@ Lower All Local Minimums---Twenty-four hours now has $4920.730511147972
 Lower All Local Minimums---Twenty-four hours has sold MOVR for $15.1997. Profit was -8.083520926329104%.
 Lower All Local Minimums---Twenty-four hours now has $4522.962230551065
 ---------------------------------------------------------------------------
+[2022-06-13 16:28:18] BUY
+Lower All Local Minimums---Twenty-four hours has bought MIR for $0.191
+Lower All Local Minimums---Twenty-four hours now has $4522.962230551065
+---------------------------------------------------------------------------

@@ -62,3 +62,7 @@ Mean---Twenty-four hours now has $11137.451303539961
 Mean---Twenty-four hours has sold TBTC for $24001.0. Profit was -18.2298226377703%.
 Mean---Twenty-four hours now has $9107.11368453659
 ---------------------------------------------------------------------------
+[2022-06-13 16:28:19] BUY
+Mean---Twenty-four hours has bought TBTC for $24001.0
+Mean---Twenty-four hours now has $9107.11368453659
+---------------------------------------------------------------------------

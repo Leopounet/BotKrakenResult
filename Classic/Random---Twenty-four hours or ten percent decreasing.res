@@ -62,3 +62,7 @@ Random---Twenty-four hours or ten percent decreasing now has $7997.253494362449
 Random---Twenty-four hours or ten percent decreasing has sold APE for $3.6212. Profit was -17.533475112292596%.
 Random---Twenty-four hours or ten percent decreasing now has $6595.057043261459
 ---------------------------------------------------------------------------
+[2022-06-13 16:28:19] BUY
+Random---Twenty-four hours or ten percent decreasing has bought NANO for $0.898899
+Random---Twenty-four hours or ten percent decreasing now has $6595.057043261459
+---------------------------------------------------------------------------
