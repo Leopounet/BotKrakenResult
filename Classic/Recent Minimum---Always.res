@@ -21526,3 +21526,7 @@ Recent Minimum---Always now has $0.00827384889264829
 Recent Minimum---Always has sold AKT for $0.2926. Profit was -0.52%.
 Recent Minimum---Always now has $0.008230824878406519
 ---------------------------------------------------------------------------
+[2022-06-13 06:06:09] BUY
+Recent Minimum---Always has bought ACA for $0.266
+Recent Minimum---Always now has $0.008230824878406519
+---------------------------------------------------------------------------
