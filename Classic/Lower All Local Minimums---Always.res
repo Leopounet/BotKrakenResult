@@ -23174,3 +23174,7 @@ Lower All Local Minimums---Always now has $0.01726443752002461
 Lower All Local Minimums---Always has sold OGN for $0.198. Profit was 2.9823523261892286%.
 Lower All Local Minimums---Always now has $0.01777932387400655
 ---------------------------------------------------------------------------
+[2022-06-13 20:16:47] BUY
+Lower All Local Minimums---Always has bought MIR for $0.189
+Lower All Local Minimums---Always now has $0.01777932387400655
+---------------------------------------------------------------------------
