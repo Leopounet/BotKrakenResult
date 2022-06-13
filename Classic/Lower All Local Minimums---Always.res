@@ -22774,3 +22774,7 @@ Lower All Local Minimums---Always now has $0.021989867077034087
 Lower All Local Minimums---Always has sold KILT for $0.49. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.02187551976823351
 ---------------------------------------------------------------------------
+[2022-06-13 16:40:42] BUY
+Lower All Local Minimums---Always has bought BADGER for $3.528
+Lower All Local Minimums---Always now has $0.02187551976823351
+---------------------------------------------------------------------------
