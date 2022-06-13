@@ -15278,3 +15278,7 @@ Lower All Local Minimums---Random now has $2.0901870536829836
 Lower All Local Minimums---Random has sold OGN for $0.193. Profit was -0.20814968814967427%.
 Lower All Local Minimums---Random now has $2.0858363358489975
 ---------------------------------------------------------------------------
+[2022-06-13 17:53:22] BUY
+Lower All Local Minimums---Random has bought MIR for $0.183
+Lower All Local Minimums---Random now has $2.0858363358489975
+---------------------------------------------------------------------------
