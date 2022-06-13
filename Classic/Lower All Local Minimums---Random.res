@@ -15218,3 +15218,7 @@ Lower All Local Minimums---Random now has $2.1770003983101756
 Lower All Local Minimums---Random has bought GLMR for $0.847
 Lower All Local Minimums---Random now has $2.1770003983101756
 ---------------------------------------------------------------------------
+[2022-06-13 17:20:16] SOLD
+Lower All Local Minimums---Random has sold GLMR for $0.847. Profit was -0.52%.
+Lower All Local Minimums---Random now has $2.165679996238963
+---------------------------------------------------------------------------
