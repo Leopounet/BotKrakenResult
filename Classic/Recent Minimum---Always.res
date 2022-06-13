@@ -21506,3 +21506,7 @@ Recent Minimum---Always now has $0.008360572779668883
 Recent Minimum---Always has bought RARI for $2.25
 Recent Minimum---Always now has $0.008360572779668883
 ---------------------------------------------------------------------------
+[2022-06-13 05:56:04] SOLD
+Recent Minimum---Always has sold RARI for $2.25. Profit was -0.52%.
+Recent Minimum---Always now has $0.008317097801214606
+---------------------------------------------------------------------------
