@@ -15102,3 +15102,7 @@ Lower All Local Minimums---Random now has $2.065132261636488
 Lower All Local Minimums---Random has sold OGN for $0.1911. Profit was -0.52%.
 Lower All Local Minimums---Random now has $2.0543935738759784
 ---------------------------------------------------------------------------
+[2022-06-13 15:46:50] BUY
+Lower All Local Minimums---Random has bought SAMO for $0.004265
+Lower All Local Minimums---Random now has $2.0543935738759784
+---------------------------------------------------------------------------

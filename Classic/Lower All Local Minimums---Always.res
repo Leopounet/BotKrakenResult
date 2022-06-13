@@ -22670,3 +22670,7 @@ Lower All Local Minimums---Always now has $0.022907498136380895
 Lower All Local Minimums---Always has sold OGN for $0.1911. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.022788379146071715
 ---------------------------------------------------------------------------
+[2022-06-13 15:46:50] BUY
+Lower All Local Minimums---Always has bought SAMO for $0.004265
+Lower All Local Minimums---Always now has $0.022788379146071715
+---------------------------------------------------------------------------
