@@ -22126,3 +22126,7 @@ Lower All Local Minimums---Always now has $0.03143605504918796
 Lower All Local Minimums---Always has sold COMP for $34.41. Profit was -1.4413936078318441%.
 Lower All Local Minimums---Always now has $0.03098293776115446
 ---------------------------------------------------------------------------
+[2022-06-13 11:11:07] BUY
+Lower All Local Minimums---Always has bought OGN for $0.1863
+Lower All Local Minimums---Always now has $0.03098293776115446
+---------------------------------------------------------------------------
