@@ -23190,3 +23190,7 @@ Lower All Local Minimums---Always now has $0.01759280089317385
 Lower All Local Minimums---Always has sold MIR for $0.188. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.017501318328529344
 ---------------------------------------------------------------------------
+[2022-06-13 20:25:37] BUY
+Lower All Local Minimums---Always has bought PAXG for $1829.48
+Lower All Local Minimums---Always now has $0.017501318328529344
+---------------------------------------------------------------------------
