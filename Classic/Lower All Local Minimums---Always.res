@@ -23246,3 +23246,7 @@ Lower All Local Minimums---Always now has $0.01699884953149949
 Lower All Local Minimums---Always has sold ZAUD for $0.69291. Profit was -0.4%.
 Lower All Local Minimums---Always now has $0.01693085413337349
 ---------------------------------------------------------------------------
+[2022-06-13 20:56:45] BUY
+Lower All Local Minimums---Always has bought MIR for $0.19
+Lower All Local Minimums---Always now has $0.01693085413337349
+---------------------------------------------------------------------------
