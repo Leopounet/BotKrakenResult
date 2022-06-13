@@ -15486,3 +15486,7 @@ Lower All Local Minimums---Random now has $1.9181052402482879
 Lower All Local Minimums---Random has sold ZAUD for $0.69327. Profit was -0.3480452006754172%.
 Lower All Local Minimums---Random now has $1.9114293670157
 ---------------------------------------------------------------------------
+[2022-06-13 20:58:58] BUY
+Lower All Local Minimums---Random has bought MIR for $0.19
+Lower All Local Minimums---Random now has $1.9114293670157
+---------------------------------------------------------------------------
