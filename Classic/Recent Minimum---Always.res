@@ -21502,3 +21502,7 @@ Recent Minimum---Always now has $0.008404275009719424
 Recent Minimum---Always has sold 1INCH for $0.615. Profit was -0.52%.
 Recent Minimum---Always now has $0.008360572779668883
 ---------------------------------------------------------------------------
+[2022-06-13 05:54:04] BUY
+Recent Minimum---Always has bought RARI for $2.25
+Recent Minimum---Always now has $0.008360572779668883
+---------------------------------------------------------------------------
