@@ -15134,3 +15134,7 @@ Lower All Local Minimums---Random now has $2.022511397666054
 Lower All Local Minimums---Random has sold MIR for $0.194. Profit was 3.223315508021383%.
 Lower All Local Minimums---Random now has $2.087703321198524
 ---------------------------------------------------------------------------
+[2022-06-13 16:18:01] BUY
+Lower All Local Minimums---Random has bought SAMO for $0.004265
+Lower All Local Minimums---Random now has $2.087703321198524
+---------------------------------------------------------------------------
