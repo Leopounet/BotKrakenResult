@@ -15510,3 +15510,7 @@ Lower All Local Minimums---Random now has $1.8916021866488208
 Lower All Local Minimums---Random has sold PAXG for $1830.16. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1.881765855278247
 ---------------------------------------------------------------------------
+[2022-06-13 21:16:57] BUY
+Lower All Local Minimums---Random has bought ZAUD for $0.69264
+Lower All Local Minimums---Random now has $1.881765855278247
+---------------------------------------------------------------------------
