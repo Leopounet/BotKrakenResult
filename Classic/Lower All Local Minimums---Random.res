@@ -15626,3 +15626,7 @@ Lower All Local Minimums---Random now has $1.6922554079205727
 Lower All Local Minimums---Random has bought OGN for $0.1844
 Lower All Local Minimums---Random now has $1.6922554079205727
 ---------------------------------------------------------------------------
+[2022-06-13 22:58:58] SOLD
+Lower All Local Minimums---Random has sold OGN for $0.1844. Profit was -0.52%.
+Lower All Local Minimums---Random now has $1.6834556797993858
+---------------------------------------------------------------------------
