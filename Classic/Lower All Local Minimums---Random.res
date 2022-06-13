@@ -15238,3 +15238,7 @@ Lower All Local Minimums---Random now has $2.1544184602585204
 Lower All Local Minimums---Random has sold GLMR for $0.85. Profit was -0.52%.
 Lower All Local Minimums---Random now has $2.143215484265176
 ---------------------------------------------------------------------------
+[2022-06-13 17:30:44] BUY
+Lower All Local Minimums---Random has bought OGN for $0.1919
+Lower All Local Minimums---Random now has $2.143215484265176
+---------------------------------------------------------------------------

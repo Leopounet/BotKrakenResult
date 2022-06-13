@@ -22870,3 +22870,7 @@ Lower All Local Minimums---Always now has $0.02082729282748875
 Lower All Local Minimums---Always has sold GLMR for $0.85. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.02071899090478581
 ---------------------------------------------------------------------------
+[2022-06-13 17:30:44] BUY
+Lower All Local Minimums---Always has bought OGN for $0.1919
+Lower All Local Minimums---Always now has $0.02071899090478581
+---------------------------------------------------------------------------
