@@ -15526,3 +15526,7 @@ Lower All Local Minimums---Random now has $1.874238791857134
 Lower All Local Minimums---Random has sold ZAUD for $0.69264. Profit was -0.4%.
 Lower All Local Minimums---Random now has $1.8667418366897055
 ---------------------------------------------------------------------------
+[2022-06-13 21:28:02] BUY
+Lower All Local Minimums---Random has bought BADGER for $3.555
+Lower All Local Minimums---Random now has $1.8667418366897055
+---------------------------------------------------------------------------
