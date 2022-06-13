@@ -22838,3 +22838,7 @@ Lower All Local Minimums---Always now has $0.02124056940815469
 Lower All Local Minimums---Always has sold ZAUD for $0.69463. Profit was -0.4%.
 Lower All Local Minimums---Always now has $0.021155607130522072
 ---------------------------------------------------------------------------
+[2022-06-13 17:14:08] BUY
+Lower All Local Minimums---Always has bought GLMR for $0.847
+Lower All Local Minimums---Always now has $0.021155607130522072
+---------------------------------------------------------------------------
