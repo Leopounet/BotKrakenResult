@@ -1,4 +1,4 @@
-[2022-06-13 18:39:27] SUMMARY
+[2022-06-13 18:41:48] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    24001.0
-		Maximum:                    29166.3
-		Minimum:                    24001.0
-		Variance:                   0.177098
-		Mean:                       28124.825139
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          9.0
-		Is ascending:               True
-		Current ascension duration: 86
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.0
-		Is falling:                 True
-		Current fall duration:      719
-		Trending downwards:         True
-		Average local maximum:      29166.3
-		Number of local maximums:   1
-		Average local minimum:      26722.766667
-		Number of local minimums:   3
-	Is init: True
+	None
 Wins: 34
-Losses: 2841
-Total points: -1443.0466501481442%
-Wallet: 0.004990593587433613
+Losses: 2842
+Total points: -1443.5666501481442%
+Wallet: 0.004964642500778958
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: KILTUSD
-	Altname: KILTUSD
-	Wsname: KILT/USD
-	Base:
-	 	Name: KILT
-		Altname: KILT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2
-	Data about this pair of assets (KILTUSD):
-		Current:                    0.501
-		Maximum:                    0.642
-		Minimum:                    0.483
-		Variance:                   0.247664
-		Mean:                       0.568243
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.28125
-		Is ascending:               False
-		Current ascension duration: 2
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.742857
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      0.560625
-		Number of local maximums:   32
-		Average local minimum:      0.576543
-		Number of local minimums:   35
-	Is init: True
+	None
 Wins: 193
-Losses: 2682
-Total points: -1305.7801656286474%
-Wallet: 0.01919113871057523
+Losses: 2683
+Total points: -1306.3001656286474%
+Wallet: 0.019091344789280238
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
