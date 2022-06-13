@@ -21638,3 +21638,7 @@ Lower All Local Minimums---Always now has $0.04419496768458635
 Lower All Local Minimums---Always has sold COMP for $36.72. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0439651538526265
 ---------------------------------------------------------------------------
+[2022-06-13 07:02:45] BUY
+Lower All Local Minimums---Always has bought COMP for $36.72
+Lower All Local Minimums---Always now has $0.0439651538526265
+---------------------------------------------------------------------------
