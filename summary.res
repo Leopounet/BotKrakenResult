@@ -1,4 +1,4 @@
-[2022-06-13 21:37:28] SUMMARY
+[2022-06-13 21:39:55] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    24001.0
-		Maximum:                    29166.3
-		Minimum:                    24001.0
-		Variance:                   0.177098
-		Mean:                       27866.560139
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          9.0
-		Is ascending:               True
-		Current ascension duration: 122
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.0
-		Is falling:                 True
-		Current fall duration:      719
-		Trending downwards:         True
-		Average local maximum:      29166.3
-		Number of local maximums:   1
-		Average local minimum:      26722.766667
-		Number of local minimums:   3
-	Is init: True
+	None
 Wins: 34
-Losses: 2881
-Total points: -1463.8466501481435%
-Wallet: 0.004051196120747547
+Losses: 2882
+Total points: -1464.3666501481434%
+Wallet: 0.00403012990091966
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: BADGERUSD
-	Altname: BADGERUSD
-	Wsname: BADGER/USD
-	Base:
-	 	Name: BADGER
-		Altname: BADGER
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (BADGERUSD):
-		Current:                    3.555
-		Maximum:                    4.654
-		Minimum:                    3.422
-		Variance:                   0.264719
-		Mean:                       4.144376
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.304348
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.090909
-		Is falling:                 True
-		Current fall duration:      12
-		Trending downwards:         True
-		Average local maximum:      4.145739
-		Number of local maximums:   23
-		Average local minimum:      4.193515
-		Number of local minimums:   33
-	Is init: True
+	None
 Wins: 194
-Losses: 2721
-Total points: -1322.4821619818304%
-Wallet: 0.016223641295516525
+Losses: 2722
+Total points: -1323.0021619818303%
+Wallet: 0.01613927836077984
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
