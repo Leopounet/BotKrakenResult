@@ -22702,3 +22702,7 @@ Lower All Local Minimums---Always now has $0.02243472582048091
 Lower All Local Minimums---Always has sold SAMO for $0.004265. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.02231806524621441
 ---------------------------------------------------------------------------
+[2022-06-13 16:03:34] BUY
+Lower All Local Minimums---Always has bought MIR for $0.184
+Lower All Local Minimums---Always now has $0.02231806524621441
+---------------------------------------------------------------------------
