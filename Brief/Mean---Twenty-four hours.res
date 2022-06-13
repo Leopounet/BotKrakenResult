@@ -88,3 +88,9 @@ Mean---Twenty-four hours has 4 losses
 Mean---Twenty-four hours has 11.447769187450218 points
 Mean---Twenty-four hours now has $11137.451303539961
 ---------------------------------------------------------------------------
+[2022-06-13 16:26:16] BRIEF
+Mean---Twenty-four hours has 3 wins
+Mean---Twenty-four hours has 5 losses
+Mean---Twenty-four hours has -6.782053450320083 points
+Mean---Twenty-four hours now has $9107.11368453659
+---------------------------------------------------------------------------
