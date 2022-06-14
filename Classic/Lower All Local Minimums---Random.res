@@ -16590,3 +16590,7 @@ Lower All Local Minimums---Random now has $1.0564444647005085
 Lower All Local Minimums---Random has sold SAMO for $0.004229. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1.0509509534840658
 ---------------------------------------------------------------------------
+[2022-06-14 11:00:06] BUY
+Lower All Local Minimums---Random has bought ZGBP for $1.21036
+Lower All Local Minimums---Random now has $1.0509509534840658
+---------------------------------------------------------------------------
