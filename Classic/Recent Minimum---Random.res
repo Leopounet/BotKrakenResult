@@ -16818,3 +16818,7 @@ Recent Minimum---Random now has $0.11136102252171592
 Recent Minimum---Random has bought FIDA for $0.343
 Recent Minimum---Random now has $0.11136102252171592
 ---------------------------------------------------------------------------
+[2022-06-14 16:41:50] SOLD
+Recent Minimum---Random has sold FIDA for $0.344. Profit was -0.2284548104956392%.
+Recent Minimum---Random now has $0.11110661290874793
+---------------------------------------------------------------------------

@@ -25502,3 +25502,7 @@ Recent Minimum---Always now has $0.000628596658015475
 Recent Minimum---Always has sold BADGER for $3.456. Profit was -0.52%.
 Recent Minimum---Always now has $0.0006253279553937945
 ---------------------------------------------------------------------------
+[2022-06-14 16:41:50] BUY
+Recent Minimum---Always has bought ACA for $0.284
+Recent Minimum---Always now has $0.0006253279553937945
+---------------------------------------------------------------------------
