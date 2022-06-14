@@ -24466,3 +24466,7 @@ Lower All Local Minimums---Always now has $0.007376045216752712
 Lower All Local Minimums---Always has bought FXS for $4.766
 Lower All Local Minimums---Always now has $0.007376045216752712
 ---------------------------------------------------------------------------
+[2022-06-14 07:19:12] SOLD
+Lower All Local Minimums---Always has sold FXS for $4.766. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.007337689781625597
+---------------------------------------------------------------------------

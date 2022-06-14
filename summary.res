@@ -1,4 +1,4 @@
-[2022-06-14 07:17:07] SUMMARY
+[2022-06-14 07:19:12] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXBTZUSD
-	Altname: XBTUSD
-	Wsname: XBT/USD
-	Base:
-	 	Name: XXBT
-		Altname: XBT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (XXBTZUSD):
-		Current:                    22216.6
-		Maximum:                    28655.2
-		Minimum:                    20832.9
-		Variance:                   0.27298
-		Mean:                       25630.362917
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.85
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.157895
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         True
-		Average local maximum:      24798.855
-		Number of local maximums:   20
-		Average local minimum:      25866.173684
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 37
-Losses: 3021
-Total points: -1525.7139259963049%
-Wallet: 0.0021603915143866147
+Losses: 3022
+Total points: -1525.7950649644638%
+Wallet: 0.002158638595003648
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: FXSUSD
-	Altname: FXSUSD
-	Wsname: FXS/USD
-	Base:
-	 	Name: FXS
-		Altname: FXS
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.3
-	Data about this pair of assets (FXSUSD):
-		Current:                    4.766
-		Maximum:                    5.509
-		Minimum:                    4.607
-		Variance:                   0.163732
-		Mean:                       5.150742
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.555556
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.53125
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      5.120444
-		Number of local maximums:   27
-		Average local minimum:      5.141125
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 197
-Losses: 2861
-Total points: -1401.0188923277183%
-Wallet: 0.007376045216752712
+Losses: 2862
+Total points: -1401.5388923277183%
+Wallet: 0.007337689781625597
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
