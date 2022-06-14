@@ -24734,3 +24734,7 @@ Lower All Local Minimums---Always now has $0.006179935678209607
 Lower All Local Minimums---Always has sold ZGBP for $1.2145. Profit was -0.3942359790189528%.
 Lower All Local Minimums---Always now has $0.0061555721482858755
 ---------------------------------------------------------------------------
+[2022-06-14 09:40:07] BUY
+Lower All Local Minimums---Always has bought ZAUD for $0.69291
+Lower All Local Minimums---Always now has $0.0061555721482858755
+---------------------------------------------------------------------------
