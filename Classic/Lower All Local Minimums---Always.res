@@ -25302,3 +25302,7 @@ Lower All Local Minimums---Always now has $0.004372257834574024
 Lower All Local Minimums---Always has sold ZRX for $0.244. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.004349522093834239
 ---------------------------------------------------------------------------
+[2022-06-14 14:48:05] BUY
+Lower All Local Minimums---Always has bought COMP for $34.48
+Lower All Local Minimums---Always now has $0.004349522093834239
+---------------------------------------------------------------------------
