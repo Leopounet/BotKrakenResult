@@ -16806,3 +16806,7 @@ Lower All Local Minimums---Random now has $0.9423167219474606
 Lower All Local Minimums---Random has sold PAXG for $1826.55. Profit was -0.2867782472699383%.
 Lower All Local Minimums---Random now has $0.9396143625685281
 ---------------------------------------------------------------------------
+[2022-06-14 13:39:06] BUY
+Lower All Local Minimums---Random has bought DAI for $1.00005
+Lower All Local Minimums---Random now has $0.9396143625685281
+---------------------------------------------------------------------------
