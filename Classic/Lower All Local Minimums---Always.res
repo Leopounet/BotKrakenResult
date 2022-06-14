@@ -24646,3 +24646,7 @@ Lower All Local Minimums---Always now has $0.00655513831797212
 Lower All Local Minimums---Always has sold RARI for $1.92. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.006521051598718665
 ---------------------------------------------------------------------------
+[2022-06-14 08:54:15] BUY
+Lower All Local Minimums---Always has bought LSK for $0.945175
+Lower All Local Minimums---Always now has $0.006521051598718665
+---------------------------------------------------------------------------

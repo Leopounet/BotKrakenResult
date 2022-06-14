@@ -16426,3 +16426,7 @@ Lower All Local Minimums---Random now has $1.1718908747128298
 Lower All Local Minimums---Random has bought LSK for $0.945175
 Lower All Local Minimums---Random now has $1.1718908747128298
 ---------------------------------------------------------------------------
+[2022-06-14 08:54:15] SOLD
+Lower All Local Minimums---Random has sold LSK for $0.945175. Profit was -0.52%.
+Lower All Local Minimums---Random now has $1.1657970421643231
+---------------------------------------------------------------------------
