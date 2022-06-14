@@ -16846,3 +16846,7 @@ Lower All Local Minimums---Random now has $0.9213970870759072
 Lower All Local Minimums---Random has sold PAXG for $1819.4. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.9166058222231125
 ---------------------------------------------------------------------------
+[2022-06-14 14:01:59] BUY
+Lower All Local Minimums---Random has bought ZRX for $0.246
+Lower All Local Minimums---Random now has $0.9166058222231125
+---------------------------------------------------------------------------
