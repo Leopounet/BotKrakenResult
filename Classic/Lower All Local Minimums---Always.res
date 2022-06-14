@@ -24518,3 +24518,7 @@ Lower All Local Minimums---Always now has $0.007148883668038722
 Lower All Local Minimums---Always has sold USDT for $0.9985. Profit was -0.3899839743589647%.
 Lower All Local Minimums---Always now has $0.007121004167387806
 ---------------------------------------------------------------------------
+[2022-06-14 07:45:23] BUY
+Lower All Local Minimums---Always has bought MIR for $0.186
+Lower All Local Minimums---Always now has $0.007121004167387806
+---------------------------------------------------------------------------
