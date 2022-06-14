@@ -24614,3 +24614,7 @@ Lower All Local Minimums---Always now has $0.006728503781029645
 Lower All Local Minimums---Always has sold FXS for $4.776. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.006693515561368291
 ---------------------------------------------------------------------------
+[2022-06-14 08:37:25] BUY
+Lower All Local Minimums---Always has bought RARI for $1.92
+Lower All Local Minimums---Always now has $0.006693515561368291
+---------------------------------------------------------------------------
