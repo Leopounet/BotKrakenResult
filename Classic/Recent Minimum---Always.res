@@ -25470,3 +25470,7 @@ Recent Minimum---Always now has $0.0006394944433659734
 Recent Minimum---Always has sold RBC for $0.0597. Profit was -0.08258411843874613%.
 Recent Minimum---Always now has $0.0006389663225174548
 ---------------------------------------------------------------------------
+[2022-06-14 16:22:55] BUY
+Recent Minimum---Always has bought 1INCH for $0.595
+Recent Minimum---Always now has $0.0006389663225174548
+---------------------------------------------------------------------------
