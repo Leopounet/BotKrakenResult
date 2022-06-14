@@ -25626,3 +25626,7 @@ Variance---Always now has $0.0001265842485722097
 Variance---Always has bought BIT for $0.4665
 Variance---Always now has $0.0001265842485722097
 ---------------------------------------------------------------------------
+[2022-06-14 17:54:00] SOLD
+Variance---Always has sold BIT for $0.4665. Profit was -0.52%.
+Variance---Always now has $0.0001259260104796342
+---------------------------------------------------------------------------
