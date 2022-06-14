@@ -16382,3 +16382,7 @@ Lower All Local Minimums---Random now has $1.219218912916785
 Lower All Local Minimums---Random has sold FXS for $4.776. Profit was -0.31018044481746676%.
 Lower All Local Minimums---Random now has $1.215437134269401
 ---------------------------------------------------------------------------
+[2022-06-14 08:27:23] BUY
+Lower All Local Minimums---Random has bought RARI for $1.94
+Lower All Local Minimums---Random now has $1.215437134269401
+---------------------------------------------------------------------------
