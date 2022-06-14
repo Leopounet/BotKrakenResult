@@ -25490,3 +25490,7 @@ Recent Minimum---Always now has $0.0006318824467385153
 Recent Minimum---Always has bought FIDA for $0.343
 Recent Minimum---Always now has $0.0006318824467385153
 ---------------------------------------------------------------------------
+[2022-06-14 16:34:49] SOLD
+Recent Minimum---Always has sold FIDA for $0.343. Profit was -0.52%.
+Recent Minimum---Always now has $0.000628596658015475
+---------------------------------------------------------------------------

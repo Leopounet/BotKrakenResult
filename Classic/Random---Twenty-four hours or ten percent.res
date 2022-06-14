@@ -70,3 +70,7 @@ Random---Twenty-four hours or ten percent now has $5190.834949253411
 Random---Twenty-four hours or ten percent has sold RAY for $0.713. Profit was 2.366002886002892%.
 Random---Twenty-four hours or ten percent now has $5313.6502539603935
 ---------------------------------------------------------------------------
+[2022-06-14 16:34:49] BUY
+Random---Twenty-four hours or ten percent has bought AUDIO for $0.307
+Random---Twenty-four hours or ten percent now has $5313.6502539603935
+---------------------------------------------------------------------------
