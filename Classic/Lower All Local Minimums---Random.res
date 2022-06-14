@@ -16558,3 +16558,7 @@ Lower All Local Minimums---Random now has $1.0787071703022062
 Lower All Local Minimums---Random has sold SAMO for $0.004229. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1.0730978930166348
 ---------------------------------------------------------------------------
+[2022-06-14 10:41:50] BUY
+Lower All Local Minimums---Random has bought ZRX for $0.247
+Lower All Local Minimums---Random now has $1.0730978930166348
+---------------------------------------------------------------------------
