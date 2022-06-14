@@ -25430,3 +25430,7 @@ Lower All Local Minimums---Always now has $0.0040487958064963836
 Lower All Local Minimums---Always has sold DAI for $1.00003. Profit was -0.39900001999959545%.
 Lower All Local Minimums---Always now has $0.00403264111041872
 ---------------------------------------------------------------------------
+[2022-06-14 16:00:01] BUY
+Lower All Local Minimums---Always has bought PAXG for $1813.0
+Lower All Local Minimums---Always now has $0.00403264111041872
+---------------------------------------------------------------------------
