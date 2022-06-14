@@ -24726,3 +24726,7 @@ Lower All Local Minimums---Always now has $0.00620413079405469
 Lower All Local Minimums---Always has sold USDT for $0.9985. Profit was -0.3899839743589647%.
 Lower All Local Minimums---Always now has $0.006179935678209607
 ---------------------------------------------------------------------------
+[2022-06-14 09:35:53] BUY
+Lower All Local Minimums---Always has bought ZGBP for $1.21443
+Lower All Local Minimums---Always now has $0.006179935678209607
+---------------------------------------------------------------------------
