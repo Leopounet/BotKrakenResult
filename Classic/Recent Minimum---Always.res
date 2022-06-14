@@ -25494,3 +25494,7 @@ Recent Minimum---Always now has $0.0006318824467385153
 Recent Minimum---Always has sold FIDA for $0.343. Profit was -0.52%.
 Recent Minimum---Always now has $0.000628596658015475
 ---------------------------------------------------------------------------
+[2022-06-14 16:37:24] BUY
+Recent Minimum---Always has bought BADGER for $3.456
+Recent Minimum---Always now has $0.000628596658015475
+---------------------------------------------------------------------------
