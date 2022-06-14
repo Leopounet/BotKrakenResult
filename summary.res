@@ -1,4 +1,4 @@
-[2022-06-14 09:40:07] SUMMARY
+[2022-06-14 09:42:14] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXBTZUSD
-	Altname: XBTUSD
-	Wsname: XBT/USD
-	Base:
-	 	Name: XXBT
-		Altname: XBT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (XXBTZUSD):
-		Current:                    22429.7
-		Maximum:                    28649.9
-		Minimum:                    20832.9
-		Variance:                   0.272846
-		Mean:                       25402.315417
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.7
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.333333
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      24495.62
-		Number of local maximums:   20
-		Average local minimum:      25716.716667
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 38
-Losses: 3054
-Total points: -1539.6654470031494%
-Wallet: 0.001878277532497864
+Losses: 3055
+Total points: -1540.1199088996527%
+Wallet: 0.0018697414768020788
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AUDUSD
-	Altname: AUDUSD
-	Wsname: AUD/USD
-	Base:
-	 	Name: ZAUD
-		Altname: AUD
-		decimals: 4
-		displayed_decimals: 2
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 10
-	Data about this pair of assets (AUDUSD):
-		Current:                    0.69291
-		Maximum:                    0.70569
-		Minimum:                    0.69229
-		Variance:                   0.018989
-		Mean:                       0.700375
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          5.117647
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.758621
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      0.700888
-		Number of local maximums:   17
-		Average local minimum:      0.701006
-		Number of local minimums:   29
-	Is init: True
+	None
 Wins: 199
-Losses: 2893
-Total points: -1419.0426111959525%
-Wallet: 0.0061555721482858755
+Losses: 2894
+Total points: -1419.4440543848227%
+Wallet: 0.0061308610231605954
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
