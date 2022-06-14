@@ -24422,3 +24422,7 @@ Lower All Local Minimums---Always now has $0.007589025828168486
 Lower All Local Minimums---Always has sold KILT for $0.49. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.00754956289386201
 ---------------------------------------------------------------------------
+[2022-06-14 06:56:54] BUY
+Lower All Local Minimums---Always has bought USDT for $0.9984
+Lower All Local Minimums---Always now has $0.00754956289386201
+---------------------------------------------------------------------------
