@@ -16886,3 +16886,7 @@ Lower All Local Minimums---Random now has $0.8989068361524443
 Lower All Local Minimums---Random has sold COMP for $34.67. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.8942325206044516
 ---------------------------------------------------------------------------
+[2022-06-14 14:37:08] BUY
+Lower All Local Minimums---Random has bought ZRX for $0.244
+Lower All Local Minimums---Random now has $0.8942325206044516
+---------------------------------------------------------------------------
