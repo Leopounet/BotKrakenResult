@@ -16910,3 +16910,7 @@ Lower All Local Minimums---Random now has $0.8849566824375223
 Lower All Local Minimums---Random has sold COMP for $34.48. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.8803549076888473
 ---------------------------------------------------------------------------
+[2022-06-14 14:50:16] BUY
+Lower All Local Minimums---Random has bought DAI for $1.00002
+Lower All Local Minimums---Random now has $0.8803549076888473
+---------------------------------------------------------------------------
