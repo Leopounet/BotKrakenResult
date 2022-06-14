@@ -1,4 +1,4 @@
-[2022-06-14 15:15:25] SUMMARY
+[2022-06-14 15:17:37] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    22374.5
-		Maximum:                    30614.0
-		Minimum:                    21018.2
-		Variance:                   0.313445
-		Mean:                       24945.123056
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.842105
-		Is ascending:               True
-		Current ascension duration: 17
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.166667
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      24283.278947
-		Number of local maximums:   19
-		Average local minimum:      24499.427778
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 39
-Losses: 3130
-Total points: -1578.3899314017046%
-Wallet: 0.0012736947176011238
+Losses: 3131
+Total points: -1578.9099314017046%
+Wallet: 0.001267071505069598
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CVXUSD
-	Altname: CVXUSD
-	Wsname: CVX/USD
-	Base:
-	 	Name: CVX
-		Altname: CVX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.2
-	Data about this pair of assets (CVXUSD):
-		Current:                    3.86
-		Maximum:                    5.92
-		Minimum:                    3.84
-		Variance:                   0.351351
-		Mean:                       5.041625
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.84
-		Is ascending:               True
-		Current ascension duration: 6
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.34375
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      5.2
-		Number of local maximums:   25
-		Average local minimum:      5.032188
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 201
-Losses: 2968
-Total points: -1456.4321200513507%
-Wallet: 0.004231105043170723
+Losses: 2969
+Total points: -1456.9521200513507%
+Wallet: 0.0042091032969462355
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
