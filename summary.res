@@ -1,4 +1,4 @@
-[2022-06-14 21:26:08] SUMMARY
+[2022-06-14 21:28:17] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: WBTCUSD
+	Altname: WBTCUSD
+	Wsname: WBTC/USD
+	Base:
+	 	Name: WBTC
+		Altname: WBTC
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (WBTCUSD):
+		Current:                    21615.2
+		Maximum:                    28085.2
+		Minimum:                    21018.2
+		Variance:                   0.251627
+		Mean:                       24352.499028
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.5
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.571429
+		Is falling:                 True
+		Current fall duration:      60
+		Trending downwards:         True
+		Average local maximum:      23657.222222
+		Number of local maximums:   18
+		Average local minimum:      24199.866667
+		Number of local minimums:   21
+	Is init: True
 Wins: 41
 Losses: 3211
 Total points: -1621.007312978351%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: ZRXUSD
+	Altname: ZRXUSD
+	Wsname: ZRX/USD
+	Base:
+	 	Name: ZRX
+		Altname: ZRX
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 5
+	Data about this pair of assets (ZRXUSD):
+		Current:                    0.242
+		Maximum:                    0.327
+		Minimum:                    0.226
+		Variance:                   0.308869
+		Mean:                       0.267775
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          6.3
+		Is ascending:               True
+		Current ascension duration: 11
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               1.428571
+		Is falling:                 True
+		Current fall duration:      31
+		Trending downwards:         True
+		Average local maximum:      0.26395
+		Number of local maximums:   20
+		Average local minimum:      0.265333
+		Number of local minimums:   42
+	Is init: True
 Wins: 201
 Losses: 3051
 Total points: -1492.6005335934274%
