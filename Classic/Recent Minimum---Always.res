@@ -25486,3 +25486,7 @@ Recent Minimum---Always now has $0.0006356436976403641
 Recent Minimum---Always has sold FIL for $5.573. Profit was -0.5917231486462189%.
 Recent Minimum---Always now has $0.0006318824467385153
 ---------------------------------------------------------------------------
+[2022-06-14 16:32:42] BUY
+Recent Minimum---Always has bought FIDA for $0.343
+Recent Minimum---Always now has $0.0006318824467385153
+---------------------------------------------------------------------------
