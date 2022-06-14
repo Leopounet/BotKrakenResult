@@ -24654,3 +24654,7 @@ Lower All Local Minimums---Always now has $0.006521051598718665
 Lower All Local Minimums---Always has sold LSK for $0.942454. Profit was -0.807883196233496%.
 Lower All Local Minimums---Always now has $0.006468369118634901
 ---------------------------------------------------------------------------
+[2022-06-14 08:58:23] BUY
+Lower All Local Minimums---Always has bought MIR for $0.185
+Lower All Local Minimums---Always now has $0.006468369118634901
+---------------------------------------------------------------------------
