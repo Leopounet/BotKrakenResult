@@ -24854,3 +24854,7 @@ Lower All Local Minimums---Always now has $0.005752795199397383
 Lower All Local Minimums---Always has sold ZRX for $0.247. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.005722880664360517
 ---------------------------------------------------------------------------
+[2022-06-14 10:46:22] BUY
+Lower All Local Minimums---Always has bought SAMO for $0.004229
+Lower All Local Minimums---Always now has $0.005722880664360517
+---------------------------------------------------------------------------
