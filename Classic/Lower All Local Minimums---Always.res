@@ -24366,3 +24366,7 @@ Lower All Local Minimums---Always now has $0.00787110298479864
 Lower All Local Minimums---Always has sold KILT for $0.49. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.007830173249277686
 ---------------------------------------------------------------------------
+[2022-06-14 06:28:26] BUY
+Lower All Local Minimums---Always has bought FXS for $4.607
+Lower All Local Minimums---Always now has $0.007830173249277686
+---------------------------------------------------------------------------
