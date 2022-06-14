@@ -16594,3 +16594,7 @@ Lower All Local Minimums---Random now has $1.0509509534840658
 Lower All Local Minimums---Random has bought ZGBP for $1.21036
 Lower All Local Minimums---Random now has $1.0509509534840658
 ---------------------------------------------------------------------------
+[2022-06-14 11:02:30] SOLD
+Lower All Local Minimums---Random has sold ZGBP for $1.20972. Profit was -0.4528768300340543%.
+Lower All Local Minimums---Random now has $1.0461914401207144
+---------------------------------------------------------------------------
