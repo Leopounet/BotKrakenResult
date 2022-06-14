@@ -1,4 +1,4 @@
-[2022-06-14 08:37:25] SUMMARY
+[2022-06-14 08:39:43] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    22874.9
-		Maximum:                    30614.0
-		Minimum:                    21018.2
-		Variance:                   0.313445
-		Mean:                       25610.343056
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.833333
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.176471
-		Is falling:                 True
-		Current fall duration:      9
-		Trending downwards:         True
-		Average local maximum:      24767.161111
-		Number of local maximums:   18
-		Average local minimum:      25022.341176
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 38
-Losses: 3039
-Total points: -1532.4342540946104%
-Wallet: 0.0020195332984856993
+Losses: 3040
+Total points: -1532.9542540946104%
+Wallet: 0.0020090317253335737
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: RARIUSD
-	Altname: RARIUSD
-	Wsname: RARI/USD
-	Base:
-	 	Name: RARI
-		Altname: RARI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.3
-	Data about this pair of assets (RARIUSD):
-		Current:                    1.92
-		Maximum:                    2.71
-		Minimum:                    1.82
-		Variance:                   0.328413
-		Mean:                       2.274194
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.666667
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.375
-		Is falling:                 True
-		Current fall duration:      17
-		Trending downwards:         True
-		Average local maximum:      2.287222
-		Number of local maximums:   36
-		Average local minimum:      2.250312
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 198
-Losses: 2879
-Total points: -1410.6924302930577%
-Wallet: 0.006693515561368291
+Losses: 2880
+Total points: -1411.2124302930577%
+Wallet: 0.006658709280449176
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
