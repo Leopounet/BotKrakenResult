@@ -16142,3 +16142,7 @@ Lower All Local Minimums---Random now has $1.2804142890588777
 Lower All Local Minimums---Random has sold KILT for $0.49. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1.2737561347557715
 ---------------------------------------------------------------------------
+[2022-06-14 05:27:59] BUY
+Lower All Local Minimums---Random has bought SAMO for $0.004219
+Lower All Local Minimums---Random now has $1.2737561347557715
+---------------------------------------------------------------------------

@@ -24246,3 +24246,7 @@ Lower All Local Minimums---Always now has $0.00851135972036823
 Lower All Local Minimums---Always has sold KILT for $0.49. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.008467100649822316
 ---------------------------------------------------------------------------
+[2022-06-14 05:27:59] BUY
+Lower All Local Minimums---Always has bought SAMO for $0.004219
+Lower All Local Minimums---Always now has $0.008467100649822316
+---------------------------------------------------------------------------
