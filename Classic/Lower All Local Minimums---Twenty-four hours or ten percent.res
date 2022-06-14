@@ -66,3 +66,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $4522.962230
 Lower All Local Minimums---Twenty-four hours or ten percent has bought MIR for $0.191
 Lower All Local Minimums---Twenty-four hours or ten percent now has $4522.962230551065
 ---------------------------------------------------------------------------
+[2022-06-14 16:27:10] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold MIR for $0.185. Profit was -3.661361256544506%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $4357.360243793527
+---------------------------------------------------------------------------

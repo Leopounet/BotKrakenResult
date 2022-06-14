@@ -100,3 +100,9 @@ Variance---Twenty-four hours has 5 losses
 Variance---Twenty-four hours has -5.059672912067526 points
 Variance---Twenty-four hours now has $9203.971427133763
 ---------------------------------------------------------------------------
+[2022-06-14 16:27:10] BRIEF
+Variance---Twenty-four hours has 3 wins
+Variance---Twenty-four hours has 6 losses
+Variance---Twenty-four hours has -14.469788870101766 points
+Variance---Twenty-four hours now has $8337.867043096137
+---------------------------------------------------------------------------

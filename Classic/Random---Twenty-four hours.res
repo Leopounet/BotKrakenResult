@@ -66,3 +66,7 @@ Random---Twenty-four hours now has $7248.718512508658
 Random---Twenty-four hours has bought XETC for $15.108
 Random---Twenty-four hours now has $7248.718512508658
 ---------------------------------------------------------------------------
+[2022-06-14 16:27:10] SOLD
+Random---Twenty-four hours has sold XETC for $14.765. Profit was -2.7903203600741295%.
+Random---Twenty-four hours now has $7046.456044009667
+---------------------------------------------------------------------------

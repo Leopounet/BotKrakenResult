@@ -66,3 +66,7 @@ Variance---Twenty-four hours now has $9203.971427133763
 Variance---Twenty-four hours has bought ADX for $0.1811
 Variance---Twenty-four hours now has $9203.971427133763
 ---------------------------------------------------------------------------
+[2022-06-14 16:27:10] SOLD
+Variance---Twenty-four hours has sold ADX for $0.165. Profit was -9.41011595803424%.
+Variance---Twenty-four hours now has $8337.867043096137
+---------------------------------------------------------------------------
