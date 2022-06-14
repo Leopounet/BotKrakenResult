@@ -1,4 +1,4 @@
-[2022-06-14 14:19:22] SUMMARY
+[2022-06-14 14:21:31] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: XXBTZUSD
+	Altname: XBTUSD
+	Wsname: XBT/USD
+	Base:
+	 	Name: XXBT
+		Altname: XBT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (XXBTZUSD):
+		Current:                    22083.3
+		Maximum:                    28277.2
+		Minimum:                    20832.9
+		Variance:                   0.263262
+		Mean:                       24908.236667
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.454545
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.666667
+		Is falling:                 True
+		Current fall duration:      4
+		Trending downwards:         True
+		Average local maximum:      24271.759091
+		Number of local maximums:   22
+		Average local minimum:      25022.244444
+		Number of local minimums:   18
+	Is init: True
 Wins: 39
 Losses: 3118
 Total points: -1572.754827314799%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: PAXGUSD
+	Altname: PAXGUSD
+	Wsname: PAXG/USD
+	Base:
+	 	Name: PAXG
+		Altname: PAXG
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.004
+	Data about this pair of assets (PAXGUSD):
+		Current:                    1819.4
+		Maximum:                    1921.04
+		Minimum:                    1818.6
+		Variance:                   0.053325
+		Mean:                       1857.286319
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.0
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.0
+		Is falling:                 True
+		Current fall duration:      3
+		Trending downwards:         True
+		Average local maximum:      1855.994516
+		Number of local maximums:   31
+		Average local minimum:      1857.699032
+		Number of local minimums:   31
+	Is init: True
 Wins: 200
 Losses: 2957
 Total points: -1451.1086368992846%
