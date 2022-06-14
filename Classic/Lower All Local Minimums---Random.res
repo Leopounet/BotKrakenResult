@@ -16342,3 +16342,7 @@ Lower All Local Minimums---Random now has $1.2381081670907668
 Lower All Local Minimums---Random has sold MIR for $0.189. Profit was 0.5495187165775444%.
 Lower All Local Minimums---Random now has $1.2449118032004056
 ---------------------------------------------------------------------------
+[2022-06-14 08:02:12] BUY
+Lower All Local Minimums---Random has bought FXS for $4.766
+Lower All Local Minimums---Random now has $1.2449118032004056
+---------------------------------------------------------------------------

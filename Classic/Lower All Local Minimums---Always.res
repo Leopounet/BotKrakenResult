@@ -24550,3 +24550,7 @@ Lower All Local Minimums---Always now has $0.007010493156964461
 Lower All Local Minimums---Always has sold MIR for $0.189. Profit was 0.5495187165775444%.
 Lower All Local Minimums---Always now has $0.007049017128986369
 ---------------------------------------------------------------------------
+[2022-06-14 08:02:12] BUY
+Lower All Local Minimums---Always has bought FXS for $4.766
+Lower All Local Minimums---Always now has $0.007049017128986369
+---------------------------------------------------------------------------
