@@ -1,4 +1,4 @@
-[2022-06-14 19:48:19] SUMMARY
+[2022-06-14 19:50:41] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    22215.7
-		Maximum:                    28085.2
-		Minimum:                    21018.2
-		Variance:                   0.251627
-		Mean:                       24500.124722
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.166667
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.842105
-		Is falling:                 True
-		Current fall duration:      40
-		Trending downwards:         True
-		Average local maximum:      23657.222222
-		Number of local maximums:   18
-		Average local minimum:      24130.884211
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 40
-Losses: 3189
-Total points: -1609.085055766468%
-Wallet: 0.0009362592226455428
+Losses: 3190
+Total points: -1609.605055766468%
+Wallet: 0.0009313906746877859
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: DAIUSD
-	Altname: DAIUSD
-	Wsname: DAI/USD
-	Base:
-	 	Name: DAI
-		Altname: DAI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 5
-	Data about this pair of assets (DAIUSD):
-		Current:                    0.9999
-		Maximum:                    1.00275
-		Minimum:                    0.99984
-		Variance:                   0.002902
-		Mean:                       1.000196
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.0
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.25
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      1.000162
-		Number of local maximums:   30
-		Average local minimum:      1.000276
-		Number of local minimums:   40
-	Is init: True
+	None
 Wins: 201
-Losses: 3028
-Total points: -1481.6005336634394%
-Wallet: 0.0032878806107345697
+Losses: 3029
+Total points: -1481.9995335634294%
+Wallet: 0.0032747619703859484
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
