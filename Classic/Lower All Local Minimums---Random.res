@@ -16622,3 +16622,7 @@ Lower All Local Minimums---Random now has $1.0364249225329343
 Lower All Local Minimums---Random has sold RARI for $1.91. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1.0310355129357631
 ---------------------------------------------------------------------------
+[2022-06-14 11:23:54] BUY
+Lower All Local Minimums---Random has bought ZGBP for $1.20804
+Lower All Local Minimums---Random now has $1.0310355129357631
+---------------------------------------------------------------------------
