@@ -24894,3 +24894,7 @@ Lower All Local Minimums---Always now has $0.005608551776630674
 Lower All Local Minimums---Always has sold ZGBP for $1.21073. Profit was -0.40495544231451375%.
 Lower All Local Minimums---Always now has $0.0055858396409761805
 ---------------------------------------------------------------------------
+[2022-06-14 11:09:19] BUY
+Lower All Local Minimums---Always has bought SAMO for $0.004229
+Lower All Local Minimums---Always now has $0.0055858396409761805
+---------------------------------------------------------------------------
