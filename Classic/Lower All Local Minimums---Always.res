@@ -24774,3 +24774,7 @@ Lower All Local Minimums---Always now has $0.006045947593797221
 Lower All Local Minimums---Always has sold ZGBP for $1.21158. Profit was -0.47752449444132783%.
 Lower All Local Minimums---Always now has $0.006017076713115753
 ---------------------------------------------------------------------------
+[2022-06-14 10:02:45] BUY
+Lower All Local Minimums---Always has bought ZRX for $0.248
+Lower All Local Minimums---Always now has $0.006017076713115753
+---------------------------------------------------------------------------
