@@ -16278,3 +16278,7 @@ Lower All Local Minimums---Random now has $1.2850589633782654
 Lower All Local Minimums---Random has sold USDT for $0.9984. Profit was -0.4%.
 Lower All Local Minimums---Random now has $1.2799187275247523
 ---------------------------------------------------------------------------
+[2022-06-14 07:13:01] BUY
+Lower All Local Minimums---Random has bought FXS for $4.776
+Lower All Local Minimums---Random now has $1.2799187275247523
+---------------------------------------------------------------------------

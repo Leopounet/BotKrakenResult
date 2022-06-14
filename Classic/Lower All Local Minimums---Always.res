@@ -24454,3 +24454,7 @@ Lower All Local Minimums---Always now has $0.0074600802390478275
 Lower All Local Minimums---Always has sold USDT for $0.9984. Profit was -0.4%.
 Lower All Local Minimums---Always now has $0.0074302399180916365
 ---------------------------------------------------------------------------
+[2022-06-14 07:13:01] BUY
+Lower All Local Minimums---Always has bought FXS for $4.776
+Lower All Local Minimums---Always now has $0.0074302399180916365
+---------------------------------------------------------------------------
