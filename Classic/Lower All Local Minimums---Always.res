@@ -24330,3 +24330,7 @@ Lower All Local Minimums---Always now has $0.008036972611046238
 Lower All Local Minimums---Always has bought KILT for $0.49
 Lower All Local Minimums---Always now has $0.008036972611046238
 ---------------------------------------------------------------------------
+[2022-06-14 06:10:18] SOLD
+Lower All Local Minimums---Always has sold KILT for $0.49. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.007995180353468797
+---------------------------------------------------------------------------
