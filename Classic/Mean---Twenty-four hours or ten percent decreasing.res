@@ -78,3 +78,7 @@ Mean---Twenty-four hours or ten percent decreasing now has $9099.054409951385
 Mean---Twenty-four hours or ten percent decreasing has sold TBTC for $24998.9. Profit was 3.6377434273571967%.
 Mean---Twenty-four hours or ten percent decreasing now has $9430.054663701047
 ---------------------------------------------------------------------------
+[2022-06-14 16:53:32] BUY
+Mean---Twenty-four hours or ten percent decreasing has bought WBTC for $22465.7
+Mean---Twenty-four hours or ten percent decreasing now has $9430.054663701047
+---------------------------------------------------------------------------
