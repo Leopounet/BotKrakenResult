@@ -24982,3 +24982,7 @@ Recent Minimum---Always now has $0.0008776442655261539
 Recent Minimum---Always has sold 1INCH for $0.579. Profit was -0.52%.
 Recent Minimum---Always now has $0.000873080515345418
 ---------------------------------------------------------------------------
+[2022-06-14 11:58:04] BUY
+Recent Minimum---Always has bought ALCX for $20.5
+Recent Minimum---Always now has $0.000873080515345418
+---------------------------------------------------------------------------
