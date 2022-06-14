@@ -1,4 +1,4 @@
-[2022-06-14 08:54:15] SUMMARY
+[2022-06-14 08:56:20] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXBTZUSD
-	Altname: XBTUSD
-	Wsname: XBT/USD
-	Base:
-	 	Name: XXBT
-		Altname: XBT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (XXBTZUSD):
-		Current:                    22575.8
-		Maximum:                    28649.9
-		Minimum:                    20832.9
-		Variance:                   0.272846
-		Mean:                       25476.782222
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.714286
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.315789
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      24688.319048
-		Number of local maximums:   21
-		Average local minimum:      25866.173684
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 38
-Losses: 3043
-Total points: -1534.0758656104138%
-Wallet: 0.001986580736667835
+Losses: 3044
+Total points: -1534.4333021575128%
+Wallet: 0.0019794799710773536
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: LSKUSD
-	Altname: LSKUSD
-	Wsname: LSK/USD
-	Base:
-	 	Name: LSK
-		Altname: LSK
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 1
-	Data about this pair of assets (LSKUSD):
-		Current:                    0.945175
-		Maximum:                    1.180743
-		Minimum:                    0.86399
-		Variance:                   0.268266
-		Mean:                       1.03924
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.5
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.571429
-		Is falling:                 True
-		Current fall duration:      3
-		Trending downwards:         True
-		Average local maximum:      1.024423
-		Number of local maximums:   24
-		Average local minimum:      1.08707
-		Number of local minimums:   28
-	Is init: True
+	None
 Wins: 198
-Losses: 2883
-Total points: -1413.2932636263909%
-Wallet: 0.006521051598718665
+Losses: 2884
+Total points: -1414.1011468226243%
+Wallet: 0.006468369118634901
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing

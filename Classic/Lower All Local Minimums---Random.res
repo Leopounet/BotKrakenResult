@@ -16430,3 +16430,7 @@ Lower All Local Minimums---Random now has $1.1718908747128298
 Lower All Local Minimums---Random has sold LSK for $0.945175. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1.1657970421643231
 ---------------------------------------------------------------------------
+[2022-06-14 08:56:20] BUY
+Lower All Local Minimums---Random has bought MIR for $0.186
+Lower All Local Minimums---Random now has $1.1657970421643231
+---------------------------------------------------------------------------
