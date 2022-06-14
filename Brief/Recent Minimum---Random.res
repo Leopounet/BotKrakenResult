@@ -24562,3 +24562,9 @@ Recent Minimum---Random has 1964 losses
 Recent Minimum---Random has -1100.8507498810052 points
 Recent Minimum---Random now has $0.15691087941502704
 ---------------------------------------------------------------------------
+[2022-06-14 10:53:10] BRIEF
+Recent Minimum---Random has 83 wins
+Recent Minimum---Random has 1964 losses
+Recent Minimum---Random has -1100.8507498810052 points
+Recent Minimum---Random now has $0.15691087941502704
+---------------------------------------------------------------------------
