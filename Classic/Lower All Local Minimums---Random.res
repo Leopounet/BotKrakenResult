@@ -16422,3 +16422,7 @@ Lower All Local Minimums---Random now has $1.171849154428798
 Lower All Local Minimums---Random has sold RARI for $1.92. Profit was 0.003560209424078753%.
 Lower All Local Minimums---Random now has $1.1718908747128298
 ---------------------------------------------------------------------------
+[2022-06-14 08:52:11] BUY
+Lower All Local Minimums---Random has bought LSK for $0.945175
+Lower All Local Minimums---Random now has $1.1718908747128298
+---------------------------------------------------------------------------
