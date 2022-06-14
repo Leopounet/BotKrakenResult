@@ -16102,3 +16102,7 @@ Lower All Local Minimums---Random now has $1.3142307640393178
 Lower All Local Minimums---Random has sold KILT for $0.491. Profit was -0.52%.
 Lower All Local Minimums---Random now has $1.3073967640663133
 ---------------------------------------------------------------------------
+[2022-06-14 04:59:09] BUY
+Lower All Local Minimums---Random has bought OGN for $0.1874
+Lower All Local Minimums---Random now has $1.3073967640663133
+---------------------------------------------------------------------------

@@ -24190,3 +24190,7 @@ Lower All Local Minimums---Always now has $0.008827719185118833
 Lower All Local Minimums---Always has sold KILT for $0.491. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.008781815045356215
 ---------------------------------------------------------------------------
+[2022-06-14 04:59:09] BUY
+Lower All Local Minimums---Always has bought OGN for $0.1874
+Lower All Local Minimums---Always now has $0.008781815045356215
+---------------------------------------------------------------------------
