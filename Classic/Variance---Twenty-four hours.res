@@ -70,3 +70,7 @@ Variance---Twenty-four hours now has $9203.971427133763
 Variance---Twenty-four hours has sold ADX for $0.165. Profit was -9.41011595803424%.
 Variance---Twenty-four hours now has $8337.867043096137
 ---------------------------------------------------------------------------
+[2022-06-14 16:30:22] BUY
+Variance---Twenty-four hours has bought BIT for $0.4709
+Variance---Twenty-four hours now has $8337.867043096137
+---------------------------------------------------------------------------

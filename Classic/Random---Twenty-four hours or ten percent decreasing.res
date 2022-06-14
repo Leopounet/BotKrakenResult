@@ -70,3 +70,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6595.057043261459
 Random---Twenty-four hours or ten percent decreasing has sold NANO for $0.861671. Profit was -4.66151089276994%.
 Random---Twenty-four hours or ten percent decreasing now has $6287.627740805435
 ---------------------------------------------------------------------------
+[2022-06-14 16:30:22] BUY
+Random---Twenty-four hours or ten percent decreasing has bought COTI for $0.0971
+Random---Twenty-four hours or ten percent decreasing now has $6287.627740805435
+---------------------------------------------------------------------------

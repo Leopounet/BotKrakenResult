@@ -70,3 +70,7 @@ Random---Twenty-four hours now has $7248.718512508658
 Random---Twenty-four hours has sold XETC for $14.765. Profit was -2.7903203600741295%.
 Random---Twenty-four hours now has $7046.456044009667
 ---------------------------------------------------------------------------
+[2022-06-14 16:30:22] BUY
+Random---Twenty-four hours has bought XRT for $4.58
+Random---Twenty-four hours now has $7046.456044009667
+---------------------------------------------------------------------------

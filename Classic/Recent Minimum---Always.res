@@ -25482,3 +25482,7 @@ Recent Minimum---Always now has $0.0006356436976403641
 Recent Minimum---Always has bought FIL for $5.577
 Recent Minimum---Always now has $0.0006356436976403641
 ---------------------------------------------------------------------------
+[2022-06-14 16:30:22] SOLD
+Recent Minimum---Always has sold FIL for $5.573. Profit was -0.5917231486462189%.
+Recent Minimum---Always now has $0.0006318824467385153
+---------------------------------------------------------------------------

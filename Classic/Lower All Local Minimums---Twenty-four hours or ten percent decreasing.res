@@ -70,3 +70,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold MIR for $0.185. Profit was -3.661361256544506%.
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $4357.360243793527
 ---------------------------------------------------------------------------
+[2022-06-14 16:30:22] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought DAI for $0.99993
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $4357.360243793527
+---------------------------------------------------------------------------
