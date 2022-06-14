@@ -25030,3 +25030,7 @@ Lower All Local Minimums---Always now has $0.005141928162524567
 Lower All Local Minimums---Always has sold COMP for $34.14. Profit was -0.8702626970227629%.
 Lower All Local Minimums---Always now has $0.005097179879818408
 ---------------------------------------------------------------------------
+[2022-06-14 12:23:25] BUY
+Lower All Local Minimums---Always has bought DAI for $1.00003
+Lower All Local Minimums---Always now has $0.005097179879818408
+---------------------------------------------------------------------------
