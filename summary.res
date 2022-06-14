@@ -1,4 +1,4 @@
-[2022-06-14 00:33:51] SUMMARY
+[2022-06-14 00:35:48] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXBTZUSD
-	Altname: XBTUSD
-	Wsname: XBT/USD
-	Base:
-	 	Name: XXBT
-		Altname: XBT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (XXBTZUSD):
-		Current:                    22372.2
-		Maximum:                    28750.3
-		Minimum:                    22110.9
-		Variance:                   0.230933
-		Mean:                       26366.42875
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.85
-		Is ascending:               False
-		Current ascension duration: 1
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.157895
-		Is falling:                 False
-		Current fall duration:      0
-		Trending downwards:         True
-		Average local maximum:      25822.73
-		Number of local maximums:   20
-		Average local minimum:      26844.642105
-		Number of local minimums:   19
-	Is init: True
+	None
 Wins: 36
-Losses: 2922
-Total points: -1485.3700813787266%
-Wallet: 0.0032646816608871048
+Losses: 2923
+Total points: -1485.7975558336304%
+Wallet: 0.003250725980752882
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: OGNUSD
-	Altname: OGNUSD
-	Wsname: OGN/USD
-	Base:
-	 	Name: OGN
-		Altname: OGN
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (OGNUSD):
-		Current:                    0.1888
-		Maximum:                    0.2329
-		Minimum:                    0.1832
-		Variance:                   0.213396
-		Mean:                       0.206793
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.3125
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.086957
-		Is falling:                 False
-		Current fall duration:      2
-		Trending downwards:         True
-		Average local maximum:      0.209462
-		Number of local maximums:   32
-		Average local minimum:      0.209363
-		Number of local minimums:   46
-	Is init: True
+	None
 Wins: 195
-Losses: 2763
-Total points: -1348.387611235417%
-Wallet: 0.012506347059508227
+Losses: 2764
+Total points: -1348.9076112354169%
+Wallet: 0.012441314054798785
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
