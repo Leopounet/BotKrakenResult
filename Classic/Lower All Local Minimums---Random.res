@@ -16034,3 +16034,7 @@ Lower All Local Minimums---Random now has $1.3316645071704005
 Lower All Local Minimums---Random has bought SAMO for $0.004168
 Lower All Local Minimums---Random now has $1.3316645071704005
 ---------------------------------------------------------------------------
+[2022-06-14 04:13:30] SOLD
+Lower All Local Minimums---Random has sold SAMO for $0.004168. Profit was -0.52%.
+Lower All Local Minimums---Random now has $1.3247398517331144
+---------------------------------------------------------------------------
