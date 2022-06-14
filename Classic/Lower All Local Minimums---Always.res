@@ -24898,3 +24898,7 @@ Lower All Local Minimums---Always now has $0.0055858396409761805
 Lower All Local Minimums---Always has bought SAMO for $0.004229
 Lower All Local Minimums---Always now has $0.0055858396409761805
 ---------------------------------------------------------------------------
+[2022-06-14 11:11:20] SOLD
+Lower All Local Minimums---Always has sold SAMO for $0.004229. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.005556793274843104
+---------------------------------------------------------------------------
