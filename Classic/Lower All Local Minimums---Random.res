@@ -16226,3 +16226,7 @@ Lower All Local Minimums---Random now has $1.2706965067528126
 Lower All Local Minimums---Random has bought FXS for $4.607
 Lower All Local Minimums---Random now has $1.2706965067528126
 ---------------------------------------------------------------------------
+[2022-06-14 06:38:27] SOLD
+Lower All Local Minimums---Random has sold FXS for $4.607. Profit was -0.52%.
+Lower All Local Minimums---Random now has $1.264088884917698
+---------------------------------------------------------------------------
