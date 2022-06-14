@@ -25094,3 +25094,7 @@ Lower All Local Minimums---Always now has $0.004932318145671287
 Lower All Local Minimums---Always has sold SAMO for $0.004229. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.004906670091313797
 ---------------------------------------------------------------------------
+[2022-06-14 12:56:48] BUY
+Lower All Local Minimums---Always has bought CVX for $4.0
+Lower All Local Minimums---Always now has $0.004906670091313797
+---------------------------------------------------------------------------
