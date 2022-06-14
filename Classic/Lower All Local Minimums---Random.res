@@ -16470,3 +16470,7 @@ Lower All Local Minimums---Random now has $1.1295900388600875
 Lower All Local Minimums---Random has sold RARI for $1.91. Profit was 0.006315789473685829%.
 Lower All Local Minimums---Random now has $1.1296613813888576
 ---------------------------------------------------------------------------
+[2022-06-14 09:31:48] BUY
+Lower All Local Minimums---Random has bought USDT for $0.9984
+Lower All Local Minimums---Random now has $1.1296613813888576
+---------------------------------------------------------------------------

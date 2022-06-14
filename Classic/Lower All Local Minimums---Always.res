@@ -24718,3 +24718,7 @@ Lower All Local Minimums---Always now has $0.006203738978961281
 Lower All Local Minimums---Always has sold RARI for $1.91. Profit was 0.006315789473685829%.
 Lower All Local Minimums---Always now has $0.00620413079405469
 ---------------------------------------------------------------------------
+[2022-06-14 09:31:48] BUY
+Lower All Local Minimums---Always has bought USDT for $0.9984
+Lower All Local Minimums---Always now has $0.00620413079405469
+---------------------------------------------------------------------------
