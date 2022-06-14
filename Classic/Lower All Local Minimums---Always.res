@@ -24910,3 +24910,7 @@ Lower All Local Minimums---Always now has $0.005556793274843104
 Lower All Local Minimums---Always has sold SAMO for $0.004229. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.00552789794981392
 ---------------------------------------------------------------------------
+[2022-06-14 11:17:37] BUY
+Lower All Local Minimums---Always has bought RARI for $1.91
+Lower All Local Minimums---Always now has $0.00552789794981392
+---------------------------------------------------------------------------
