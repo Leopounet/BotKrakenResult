@@ -24678,3 +24678,7 @@ Lower All Local Minimums---Always now has $0.006401272984502066
 Lower All Local Minimums---Always has sold MIR for $0.185. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.006367986364982655
 ---------------------------------------------------------------------------
+[2022-06-14 09:11:01] BUY
+Lower All Local Minimums---Always has bought RARI for $1.91
+Lower All Local Minimums---Always now has $0.006367986364982655
+---------------------------------------------------------------------------
