@@ -1,4 +1,4 @@
-[2022-06-14 10:24:21] SUMMARY
+[2022-06-14 10:26:33] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    22371.7
-		Maximum:                    30614.0
-		Minimum:                    21018.2
-		Variance:                   0.313445
-		Mean:                       25441.715
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.0
-		Is ascending:               True
-		Current ascension duration: 4
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.0
-		Is falling:                 True
-		Current fall duration:      30
-		Trending downwards:         True
-		Average local maximum:      24767.161111
-		Number of local maximums:   18
-		Average local minimum:      24875.083333
-		Number of local minimums:   18
-	Is init: True
+	None
 Wins: 38
-Losses: 3064
-Total points: -1545.0107350578944%
-Wallet: 0.0017802364947591357
+Losses: 3065
+Total points: -1545.5307350578944%
+Wallet: 0.0017709792649863883
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: SAMOUSD
-	Altname: SAMOUSD
-	Wsname: SAMO/USD
-	Base:
-	 	Name: SAMO
-		Altname: SAMO
-		decimals: 8
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 200
-	Data about this pair of assets (SAMOUSD):
-		Current:                    0.004229
-		Maximum:                    0.005196
-		Minimum:                    0.0041
-		Variance:                   0.210931
-		Mean:                       0.004671
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.153846
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.166667
-		Is falling:                 True
-		Current fall duration:      18
-		Trending downwards:         True
-		Average local maximum:      0.004661
-		Number of local maximums:   26
-		Average local minimum:      0.004686
-		Number of local minimums:   36
-	Is init: True
+	None
 Wins: 199
-Losses: 2903
-Total points: -1423.7132363773214%
-Wallet: 0.0058740252215995934
+Losses: 2904
+Total points: -1424.2332363773214%
+Wallet: 0.0058434802904472755
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
