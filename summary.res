@@ -1,4 +1,4 @@
-[2022-06-14 09:06:55] SUMMARY
+[2022-06-14 09:08:59] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXBTZUSD
-	Altname: XBTUSD
-	Wsname: XBT/USD
-	Base:
-	 	Name: XXBT
-		Altname: XBT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (XXBTZUSD):
-		Current:                    22522.3
-		Maximum:                    28649.9
-		Minimum:                    20832.9
-		Variance:                   0.272846
-		Mean:                       25452.404722
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.857143
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.15
-		Is falling:                 True
-		Current fall duration:      6
-		Trending downwards:         True
-		Average local maximum:      24688.319048
-		Number of local maximums:   21
-		Average local minimum:      25998.395
-		Number of local minimums:   20
-	Is init: True
+	None
 Wins: 38
-Losses: 3046
-Total points: -1535.585988378503%
-Wallet: 0.0019567263642902783
+Losses: 3047
+Total points: -1535.9230585711566%
+Wallet: 0.0019501308229644635
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: MIRUSD
-	Altname: MIRUSD
-	Wsname: MIR/USD
-	Base:
-	 	Name: MIR
-		Altname: MIR
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (MIRUSD):
-		Current:                    0.185
-		Maximum:                    0.24
-		Minimum:                    0.168
-		Variance:                   0.3
-		Mean:                       0.200528
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.090909
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.2
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         True
-		Average local maximum:      0.202545
-		Number of local maximums:   22
-		Average local minimum:      0.2077
-		Number of local minimums:   30
-	Is init: True
+	None
 Wins: 198
-Losses: 2886
-Total points: -1415.1411468226243%
-Wallet: 0.006401272984502066
+Losses: 2887
+Total points: -1415.6611468226242%
+Wallet: 0.006367986364982655
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
