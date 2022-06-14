@@ -16526,3 +16526,7 @@ Lower All Local Minimums---Random now has $1.100111988229092
 Lower All Local Minimums---Random has sold USDT for $0.9984. Profit was -0.4%.
 Lower All Local Minimums---Random now has $1.0957115402761757
 ---------------------------------------------------------------------------
+[2022-06-14 10:15:49] BUY
+Lower All Local Minimums---Random has bought SAMO for $0.004229
+Lower All Local Minimums---Random now has $1.0957115402761757
+---------------------------------------------------------------------------
