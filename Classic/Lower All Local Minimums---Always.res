@@ -25070,3 +25070,7 @@ Lower All Local Minimums---Always now has $0.005004033289430338
 Lower All Local Minimums---Always has sold DAI for $0.99993. Profit was -0.4%.
 Lower All Local Minimums---Always now has $0.004984017156272617
 ---------------------------------------------------------------------------
+[2022-06-14 12:44:34] BUY
+Lower All Local Minimums---Always has bought RARI for $1.88
+Lower All Local Minimums---Always now has $0.004984017156272617
+---------------------------------------------------------------------------
