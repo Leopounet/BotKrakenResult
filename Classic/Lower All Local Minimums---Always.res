@@ -25334,3 +25334,7 @@ Lower All Local Minimums---Always now has $0.004292875714080445
 Lower All Local Minimums---Always has sold ZRX for $0.244. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.004270552760367226
 ---------------------------------------------------------------------------
+[2022-06-14 15:05:53] BUY
+Lower All Local Minimums---Always has bought PAXG for $1823.02
+Lower All Local Minimums---Always now has $0.004270552760367226
+---------------------------------------------------------------------------
