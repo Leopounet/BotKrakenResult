@@ -1,4 +1,4 @@
-[2022-06-14 09:58:23] SUMMARY
+[2022-06-14 10:00:27] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    22371.7
-		Maximum:                    30614.0
-		Minimum:                    21018.2
-		Variance:                   0.313445
-		Mean:                       25484.194167
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.833333
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.176471
-		Is falling:                 True
-		Current fall duration:      25
-		Trending downwards:         True
-		Average local maximum:      24767.161111
-		Number of local maximums:   18
-		Average local minimum:      25022.341176
-		Number of local minimums:   17
-	Is init: True
+	None
 Wins: 38
-Losses: 3058
-Total points: -1541.8907350578945%
-Wallet: 0.0018368049462832035
+Losses: 3059
+Total points: -1542.4107350578945%
+Wallet: 0.001827253560562531
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ZGBPZUSD
-	Altname: GBPUSD
-	Wsname: GBP/USD
-	Base:
-	 	Name: ZGBP
-		Altname: GBP
-		decimals: 4
-		displayed_decimals: 2
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 5
-	Data about this pair of assets (ZGBPZUSD):
-		Current:                    1.21252
-		Maximum:                    1.23278
-		Minimum:                    1.21229
-		Variance:                   0.016621
-		Mean:                       1.224967
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.735294
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.290323
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      1.226416
-		Number of local maximums:   34
-		Average local minimum:      1.225143
-		Number of local minimums:   31
-	Is init: True
+	None
 Wins: 199
-Losses: 2897
-Total points: -1420.8354194600008%
-Wallet: 0.006045947593797221
+Losses: 2898
+Total points: -1421.312943954442%
+Wallet: 0.006017076713115753
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
