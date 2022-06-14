@@ -16486,3 +16486,7 @@ Lower All Local Minimums---Random now has $1.1253690302105357
 Lower All Local Minimums---Random has sold USDT for $0.9985. Profit was -0.3899839743589647%.
 Lower All Local Minimums---Random now has $1.1209802713403156
 ---------------------------------------------------------------------------
+[2022-06-14 09:44:21] BUY
+Lower All Local Minimums---Random has bought ZGBP for $1.21312
+Lower All Local Minimums---Random now has $1.1209802713403156
+---------------------------------------------------------------------------
