@@ -1,4 +1,4 @@
-[2022-06-15 00:44:03] SUMMARY
+[2022-06-15 00:46:04] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: WBTCUSD
-	Altname: WBTCUSD
-	Wsname: WBTC/USD
-	Base:
-	 	Name: WBTC
-		Altname: WBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (WBTCUSD):
-		Current:                    22063.6
-		Maximum:                    28085.2
-		Minimum:                    21018.2
-		Variance:                   0.251627
-		Mean:                       24041.056111
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.15
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.857143
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      23451.94
-		Number of local maximums:   20
-		Average local minimum:      24199.866667
-		Number of local minimums:   21
-	Is init: True
+	None
 Wins: 43
-Losses: 3255
-Total points: -1642.372620808842%
-Wallet: 0.0006705524910000174
+Losses: 3256
+Total points: -1642.892620808842%
+Wallet: 0.0006670656180468173
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: RBCUSD
-	Altname: RBCUSD
-	Wsname: RBC/USD
-	Base:
-	 	Name: RBC
-		Altname: RBC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 50
-	Data about this pair of assets (RBCUSD):
-		Current:                    0.05513
-		Maximum:                    0.07613
-		Minimum:                    0.05373
-		Variance:                   0.294234
-		Mean:                       0.063771
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.666667
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.375
-		Is falling:                 True
-		Current fall duration:      9
-		Trending downwards:         True
-		Average local maximum:      0.062956
-		Number of local maximums:   36
-		Average local minimum:      0.06312
-		Number of local minimums:   32
-	Is init: True
+	None
 Wins: 201
-Losses: 3097
-Total points: -1512.7770311315007%
-Wallet: 0.0024054813917930213
+Losses: 3098
+Total points: -1513.2970311315007%
+Wallet: 0.0023929728885556975
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing

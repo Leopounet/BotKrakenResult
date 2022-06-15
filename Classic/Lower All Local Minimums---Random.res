@@ -17634,3 +17634,7 @@ Lower All Local Minimums---Random now has $0.5930197394667582
 Lower All Local Minimums---Random has bought RBC for $0.05513
 Lower All Local Minimums---Random now has $0.5930197394667582
 ---------------------------------------------------------------------------
+[2022-06-15 00:46:04] SOLD
+Lower All Local Minimums---Random has sold RBC for $0.05513. Profit was -0.52%.
+Lower All Local Minimums---Random now has $0.5899360368215311
+---------------------------------------------------------------------------
