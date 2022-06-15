@@ -18714,3 +18714,7 @@ Recent Minimum---Random now has $0.03582027140828616
 Recent Minimum---Random has bought AUDIO for $0.2926
 Recent Minimum---Random now has $0.03582027140828616
 ---------------------------------------------------------------------------
+[2022-06-15 18:33:27] SOLD
+Recent Minimum---Random has sold AUDIO for $0.2949. Profit was 0.26605604921393455%.
+Recent Minimum---Random now has $0.035915573407212756
+---------------------------------------------------------------------------
