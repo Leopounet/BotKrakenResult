@@ -28350,3 +28350,7 @@ Recent Minimum---Always now has $9.77681659562771e-05
 Recent Minimum---Always has sold 1INCH for $0.571. Profit was -1.2156521739130417%.
 Recent Minimum---Always now has $9.65796451214347e-05
 ---------------------------------------------------------------------------
+[2022-06-15 18:02:17] BUY
+Recent Minimum---Always has bought BCH for $115.59
+Recent Minimum---Always now has $9.65796451214347e-05
+---------------------------------------------------------------------------
