@@ -28366,3 +28366,7 @@ Lower All Local Minimums---Always now has $0.0007881950188924825
 Lower All Local Minimums---Always has sold DAI for $0.99961. Profit was -0.4%.
 Lower All Local Minimums---Always now has $0.0007850422388169125
 ---------------------------------------------------------------------------
+[2022-06-15 18:12:03] BUY
+Lower All Local Minimums---Always has bought ZRX for $0.23
+Lower All Local Minimums---Always now has $0.0007850422388169125
+---------------------------------------------------------------------------
