@@ -82,3 +82,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6054.194218710848
 Random---Twenty-four hours or ten percent decreasing has bought XREP for $6.316
 Random---Twenty-four hours or ten percent decreasing now has $6054.194218710848
 ---------------------------------------------------------------------------
+[2022-06-15 22:00:11] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold XREP for $6.953. Profit was 9.565497150095013%.
+Random---Twenty-four hours or ten percent decreasing now has $6633.307994162851
+---------------------------------------------------------------------------
