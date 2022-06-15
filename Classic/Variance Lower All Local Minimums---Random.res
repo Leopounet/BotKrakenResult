@@ -18594,3 +18594,7 @@ Variance Lower All Local Minimums---Random now has $0.04636280226548905
 Variance Lower All Local Minimums---Random has bought 1INCH for $0.565
 Variance Lower All Local Minimums---Random now has $0.04636280226548905
 ---------------------------------------------------------------------------
+[2022-06-15 11:45:31] SOLD
+Variance Lower All Local Minimums---Random has sold 1INCH for $0.565. Profit was -0.52%.
+Variance Lower All Local Minimums---Random now has $0.04612171569370851
+---------------------------------------------------------------------------
