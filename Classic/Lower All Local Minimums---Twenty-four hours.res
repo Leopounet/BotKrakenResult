@@ -78,3 +78,7 @@ Lower All Local Minimums---Twenty-four hours now has $4357.360243793527
 Lower All Local Minimums---Twenty-four hours has sold DAI for $0.99993. Profit was -0.4%.
 Lower All Local Minimums---Twenty-four hours now has $4339.930802818353
 ---------------------------------------------------------------------------
+[2022-06-15 16:28:10] BUY
+Lower All Local Minimums---Twenty-four hours has bought FXS for $4.287
+Lower All Local Minimums---Twenty-four hours now has $4339.930802818353
+---------------------------------------------------------------------------

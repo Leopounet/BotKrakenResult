@@ -78,3 +78,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $6531.03969
 Recent Minimum---Twenty-four hours or ten percent decreasing has sold FIL for $5.315. Profit was -5.149463484658169%.
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $6194.726188992023
 ---------------------------------------------------------------------------
+[2022-06-15 16:28:10] BUY
+Recent Minimum---Twenty-four hours or ten percent decreasing has bought 1INCH for $0.563
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $6194.726188992023
+---------------------------------------------------------------------------

@@ -28174,3 +28174,7 @@ Lower All Local Minimums---Always now has $0.0008726496628872497
 Lower All Local Minimums---Always has sold ZRX for $0.238. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.000868111884640236
 ---------------------------------------------------------------------------
+[2022-06-15 16:28:10] BUY
+Lower All Local Minimums---Always has bought FXS for $4.287
+Lower All Local Minimums---Always now has $0.000868111884640236
+---------------------------------------------------------------------------
