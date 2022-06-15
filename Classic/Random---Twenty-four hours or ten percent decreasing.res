@@ -86,3 +86,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6054.194218710848
 Random---Twenty-four hours or ten percent decreasing has sold XREP for $6.953. Profit was 9.565497150095013%.
 Random---Twenty-four hours or ten percent decreasing now has $6633.307994162851
 ---------------------------------------------------------------------------
+[2022-06-15 22:02:14] BUY
+Random---Twenty-four hours or ten percent decreasing has bought STORJ for $0.38472
+Random---Twenty-four hours or ten percent decreasing now has $6633.307994162851
+---------------------------------------------------------------------------
