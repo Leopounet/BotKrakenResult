@@ -26626,3 +26626,7 @@ Lower All Local Minimums---Always now has $0.0021053027050099574
 Lower All Local Minimums---Always has bought GLMR for $0.845
 Lower All Local Minimums---Always now has $0.0021053027050099574
 ---------------------------------------------------------------------------
+[2022-06-15 02:46:53] SOLD
+Lower All Local Minimums---Always has sold GLMR for $0.845. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.0020943551309439055
+---------------------------------------------------------------------------
