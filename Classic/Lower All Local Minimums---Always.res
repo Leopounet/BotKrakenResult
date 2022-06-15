@@ -28166,3 +28166,7 @@ Lower All Local Minimums---Always now has $0.0009012906777582336
 Lower All Local Minimums---Always has sold UST for $0.007. Profit was -3.177777777777768%.
 Lower All Local Minimums---Always now has $0.0008726496628872497
 ---------------------------------------------------------------------------
+[2022-06-15 16:23:43] BUY
+Lower All Local Minimums---Always has bought ZRX for $0.238
+Lower All Local Minimums---Always now has $0.0008726496628872497
+---------------------------------------------------------------------------
