@@ -82,3 +82,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing has bought FXS for $4.287
 Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $4339.930802818353
 ---------------------------------------------------------------------------
+[2022-06-15 17:36:49] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing has sold FXS for $4.838. Profit was 12.332810823419647%.
+Lower All Local Minimums---Twenty-four hours or ten percent decreasing now has $4875.166258597258
+---------------------------------------------------------------------------

@@ -28302,3 +28302,7 @@ Lower All Local Minimums---Always now has $0.0008094986429735862
 Lower All Local Minimums---Always has sold CTSI for $0.1475. Profit was 0.23136612021857728%.
 Lower All Local Minimums---Always now has $0.0008113715485770563
 ---------------------------------------------------------------------------
+[2022-06-15 17:36:49] BUY
+Lower All Local Minimums---Always has bought DAI for $0.99983
+Lower All Local Minimums---Always now has $0.0008113715485770563
+---------------------------------------------------------------------------
