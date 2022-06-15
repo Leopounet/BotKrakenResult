@@ -1,4 +1,4 @@
-[2022-06-15 03:32:13] SUMMARY
+[2022-06-15 03:34:14] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,7 +8,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: XXBTZUSD
+	Altname: XBTUSD
+	Wsname: XBT/USD
+	Base:
+	 	Name: XXBT
+		Altname: XBT
+		decimals: 10
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 0.0001
+	Data about this pair of assets (XXBTZUSD):
+		Current:                    21619.7
+		Maximum:                    28179.3
+		Minimum:                    20832.9
+		Variance:                   0.260702
+		Mean:                       23726.7425
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          2.526316
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               3.5625
+		Is falling:                 True
+		Current fall duration:      6
+		Trending downwards:         True
+		Average local maximum:      23251.7
+		Number of local maximums:   19
+		Average local minimum:      23667.55
+		Number of local minimums:   16
+	Is init: True
 Wins: 44
 Losses: 3296
 Total points: -1663.476332963454%
@@ -23,7 +60,44 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	None
+	Name: STEPUSD
+	Altname: STEPUSD
+	Wsname: STEP/USD
+	Base:
+	 	Name: STEP
+		Altname: STEP
+		decimals: 8
+		displayed_decimals: 5
+	Quote:
+	 	Name: ZUSD
+		Altname: USD
+		decimals: 4
+		displayed_decimals: 2
+	Fee: 0.26
+	Min order: 15
+	Data about this pair of assets (STEPUSD):
+		Current:                    0.0674
+		Maximum:                    0.0899
+		Minimum:                    0.067
+		Variance:                   0.254727
+		Mean:                       0.077303
+		Longest ascension:          3
+		Shortest ascension:         3
+		Average ascension:          3.625
+		Is ascending:               False
+		Current ascension duration: 0
+		Trending upwards:           False
+		Longest fall:               3
+		Shortest fall:              3
+		Average fall:               2.482759
+		Is falling:                 True
+		Current fall duration:      30
+		Trending downwards:         True
+		Average local maximum:      0.076575
+		Number of local maximums:   24
+		Average local minimum:      0.076824
+		Number of local minimums:   29
+	Is init: True
 Wins: 201
 Losses: 3139
 Total points: -1532.4147793369718%
