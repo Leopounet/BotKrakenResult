@@ -41056,3 +41056,9 @@ Lower All Local Minimums---Always has 3217 losses
 Lower All Local Minimums---Always has -1572.8259710674079 points
 Lower All Local Minimums---Always now has $0.001316719588733131
 ---------------------------------------------------------------------------
+[2022-06-15 09:06:01] BRIEF
+Lower All Local Minimums---Always has 204 wins
+Lower All Local Minimums---Always has 3218 losses
+Lower All Local Minimums---Always has -1573.3459710674078 points
+Lower All Local Minimums---Always now has $0.0013098726468717189
+---------------------------------------------------------------------------
