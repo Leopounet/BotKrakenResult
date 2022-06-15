@@ -18414,3 +18414,7 @@ Lower All Local Minimums---Random now has $0.36207794917134833
 Lower All Local Minimums---Random has sold USDT for $0.9981. Profit was -0.3799579116144033%.
 Lower All Local Minimums---Random now has $0.3607022053572606
 ---------------------------------------------------------------------------
+[2022-06-15 10:26:51] BUY
+Lower All Local Minimums---Random has bought ZRX for $0.229
+Lower All Local Minimums---Random now has $0.3607022053572606
+---------------------------------------------------------------------------
