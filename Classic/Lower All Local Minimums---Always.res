@@ -27206,3 +27206,7 @@ Lower All Local Minimums---Always now has $0.001449401399693572
 Lower All Local Minimums---Always has sold YFI for $4517.0. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0014418645124151654
 ---------------------------------------------------------------------------
+[2022-06-15 07:41:28] BUY
+Lower All Local Minimums---Always has bought DAI for $0.99985
+Lower All Local Minimums---Always now has $0.0014418645124151654
+---------------------------------------------------------------------------
