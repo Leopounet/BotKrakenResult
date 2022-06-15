@@ -28214,3 +28214,7 @@ Lower All Local Minimums---Always now has $0.0008489237271165008
 Lower All Local Minimums---Always has sold IMX for $0.657. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.000844509323735495
 ---------------------------------------------------------------------------
+[2022-06-15 16:49:37] BUY
+Lower All Local Minimums---Always has bought DAI for $0.99983
+Lower All Local Minimums---Always now has $0.000844509323735495
+---------------------------------------------------------------------------
