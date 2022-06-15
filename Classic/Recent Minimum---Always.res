@@ -26406,3 +26406,7 @@ Recent Minimum---Always now has $0.00034696550267942003
 Recent Minimum---Always has sold DASH for $43.179. Profit was -0.52%.
 Recent Minimum---Always now has $0.00034516128206548704
 ---------------------------------------------------------------------------
+[2022-06-15 00:56:02] BUY
+Recent Minimum---Always has bought AKT for $0.27
+Recent Minimum---Always now has $0.00034516128206548704
+---------------------------------------------------------------------------
