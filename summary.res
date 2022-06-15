@@ -1,4 +1,4 @@
-[2022-06-15 16:45:25] SUMMARY
+[2022-06-15 16:47:31] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    21552.0
-		Maximum:                    27001.0
-		Minimum:                    21552.0
-		Variance:                   0.201807
-		Mean:                       24640.689444
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          12.0
-		Is ascending:               True
-		Current ascension duration: 5
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               0.75
-		Is falling:                 True
-		Current fall duration:      401
-		Trending downwards:         True
-		Average local maximum:      27001.0
-		Number of local maximums:   1
-		Average local minimum:      23638.75
-		Number of local minimums:   4
-	Is init: True
+	None
 Wins: 53
-Losses: 3473
-Total points: -1750.9244639836922%
-Wallet: 0.000225577383406677
+Losses: 3474
+Total points: -1751.4444639836922%
+Wallet: 0.0002244043810129623
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: IMXUSD
-	Altname: IMXUSD
-	Wsname: IMX/USD
-	Base:
-	 	Name: IMX
-		Altname: IMX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 2
-	Data about this pair of assets (IMXUSD):
-		Current:                    0.657
-		Maximum:                    0.739
-		Minimum:                    0.643
-		Variance:                   0.129905
-		Mean:                       0.692667
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          4.428571
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.032258
-		Is falling:                 True
-		Current fall duration:      38
-		Trending downwards:         True
-		Average local maximum:      0.680952
-		Number of local maximums:   21
-		Average local minimum:      0.691484
-		Number of local minimums:   31
-	Is init: True
+	None
 Wins: 207
-Losses: 3319
-Total points: -1616.5129518670333%
-Wallet: 0.0008489237271165008
+Losses: 3320
+Total points: -1617.0329518670333%
+Wallet: 0.000844509323735495
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing

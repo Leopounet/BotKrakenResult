@@ -18894,3 +18894,7 @@ Lower All Local Minimums---Random now has $0.28086826002374177
 Lower All Local Minimums---Random has sold IMX for $0.657. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.2794077450716183
 ---------------------------------------------------------------------------
+[2022-06-15 16:47:31] BUY
+Lower All Local Minimums---Random has bought DAI for $0.99982
+Lower All Local Minimums---Random now has $0.2794077450716183
+---------------------------------------------------------------------------

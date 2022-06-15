@@ -28210,3 +28210,7 @@ Lower All Local Minimums---Always now has $0.0008489237271165008
 Lower All Local Minimums---Always has bought IMX for $0.657
 Lower All Local Minimums---Always now has $0.0008489237271165008
 ---------------------------------------------------------------------------
+[2022-06-15 16:47:31] SOLD
+Lower All Local Minimums---Always has sold IMX for $0.657. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.000844509323735495
+---------------------------------------------------------------------------
