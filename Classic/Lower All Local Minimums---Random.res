@@ -18238,3 +18238,7 @@ Lower All Local Minimums---Random now has $0.4236824905466604
 Lower All Local Minimums---Random has sold DAI for $0.99982. Profit was -0.3989998099638955%.
 Lower All Local Minimums---Random now has $0.42199199821452893
 ---------------------------------------------------------------------------
+[2022-06-15 08:03:40] BUY
+Lower All Local Minimums---Random has bought CTSI for $0.1466
+Lower All Local Minimums---Random now has $0.42199199821452893
+---------------------------------------------------------------------------
