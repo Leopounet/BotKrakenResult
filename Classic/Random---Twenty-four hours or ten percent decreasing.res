@@ -74,3 +74,7 @@ Random---Twenty-four hours or ten percent decreasing now has $6287.627740805435
 Random---Twenty-four hours or ten percent decreasing has bought COTI for $0.0971
 Random---Twenty-four hours or ten percent decreasing now has $6287.627740805435
 ---------------------------------------------------------------------------
+[2022-06-15 16:30:28] SOLD
+Random---Twenty-four hours or ten percent decreasing has sold COTI for $0.094. Profit was -3.712584963954692%.
+Random---Twenty-four hours or ten percent decreasing now has $6054.194218710848
+---------------------------------------------------------------------------

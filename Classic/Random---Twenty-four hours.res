@@ -74,3 +74,7 @@ Random---Twenty-four hours now has $7046.456044009667
 Random---Twenty-four hours has bought XRT for $4.58
 Random---Twenty-four hours now has $7046.456044009667
 ---------------------------------------------------------------------------
+[2022-06-15 16:30:28] SOLD
+Random---Twenty-four hours has sold XRT for $4.29. Profit was -6.851877729257639%.
+Random---Twenty-four hours now has $6563.641491628239
+---------------------------------------------------------------------------
