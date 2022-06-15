@@ -78,3 +78,7 @@ Random---Twenty-four hours or ten percent now has $5313.6502539603935
 Random---Twenty-four hours or ten percent has sold AUDIO for $0.2954. Profit was -4.298501628664499%.
 Random---Twenty-four hours or ten percent now has $5085.2429112523705
 ---------------------------------------------------------------------------
+[2022-06-15 16:34:49] BUY
+Random---Twenty-four hours or ten percent has bought TBTC for $21552.0
+Random---Twenty-four hours or ten percent now has $5085.2429112523705
+---------------------------------------------------------------------------
