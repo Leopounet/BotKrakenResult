@@ -18674,3 +18674,7 @@ Recent Minimum---Random now has $0.03679492243050304
 Recent Minimum---Random has bought DASH for $41.219
 Recent Minimum---Random now has $0.03679492243050304
 ---------------------------------------------------------------------------
+[2022-06-15 18:07:19] SOLD
+Recent Minimum---Random has sold DASH for $40.981. Profit was -1.0974036245420833%.
+Recent Minimum---Random now has $0.03639113361810325
+---------------------------------------------------------------------------
