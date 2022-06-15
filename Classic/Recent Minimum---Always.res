@@ -26402,3 +26402,7 @@ Recent Minimum---Always now has $0.00034696550267942003
 Recent Minimum---Always has bought DASH for $43.179
 Recent Minimum---Always now has $0.00034696550267942003
 ---------------------------------------------------------------------------
+[2022-06-15 00:54:04] SOLD
+Recent Minimum---Always has sold DASH for $43.179. Profit was -0.52%.
+Recent Minimum---Always now has $0.00034516128206548704
+---------------------------------------------------------------------------

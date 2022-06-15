@@ -17422,3 +17422,7 @@ Recent Minimum---Random now has $0.08420755870969351
 Recent Minimum---Random has sold 1INCH for $0.589. Profit was -1.5284033613445343%.
 Recent Minimum---Random now has $0.08292052755186839
 ---------------------------------------------------------------------------
+[2022-06-15 00:54:04] BUY
+Recent Minimum---Random has bought DASH for $43.179
+Recent Minimum---Random now has $0.08292052755186839
+---------------------------------------------------------------------------
