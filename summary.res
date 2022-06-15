@@ -1,4 +1,4 @@
-[2022-06-15 04:58:36] SUMMARY
+[2022-06-15 05:00:35] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: XXBTZUSD
-	Altname: XBTUSD
-	Wsname: XBT/USD
-	Base:
-	 	Name: XXBT
-		Altname: XBT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (XXBTZUSD):
-		Current:                    21112.8
-		Maximum:                    28179.3
-		Minimum:                    20832.9
-		Variance:                   0.260702
-		Mean:                       23566.8325
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.368421
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.8
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      23251.7
-		Number of local maximums:   19
-		Average local minimum:      23372.58
-		Number of local minimums:   15
-	Is init: True
+	None
 Wins: 45
-Losses: 3316
-Total points: -1674.6598072489037%
-Wallet: 0.00048506999145751025
+Losses: 3317
+Total points: -1675.0741841198067%
+Wallet: 0.0004830599736052193
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ZRXUSD
-	Altname: ZRXUSD
-	Wsname: ZRX/USD
-	Base:
-	 	Name: ZRX
-		Altname: ZRX
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 5
-	Data about this pair of assets (ZRXUSD):
-		Current:                    0.238
-		Maximum:                    0.322
-		Minimum:                    0.226
-		Variance:                   0.298137
-		Mean:                       0.259576
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          6.136364
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.466667
-		Is falling:                 True
-		Current fall duration:      37
-		Trending downwards:         True
-		Average local maximum:      0.257091
-		Number of local maximums:   22
-		Average local minimum:      0.264111
-		Number of local minimums:   45
-	Is init: True
+	None
 Wins: 201
-Losses: 3160
-Total points: -1544.6323332729025%
-Wallet: 0.0017473428381847846
+Losses: 3161
+Total points: -1545.1523332729025%
+Wallet: 0.0017382566554262238
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
