@@ -26482,3 +26482,7 @@ Lower All Local Minimums---Always now has $0.0022845238948495227
 Lower All Local Minimums---Always has bought RBC for $0.05576
 Lower All Local Minimums---Always now has $0.0022845238948495227
 ---------------------------------------------------------------------------
+[2022-06-15 01:34:24] SOLD
+Lower All Local Minimums---Always has sold RBC for $0.05576. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.0022726443705963053
+---------------------------------------------------------------------------
