@@ -18718,3 +18718,7 @@ Recent Minimum---Random now has $0.03582027140828616
 Recent Minimum---Random has sold AUDIO for $0.2949. Profit was 0.26605604921393455%.
 Recent Minimum---Random now has $0.035915573407212756
 ---------------------------------------------------------------------------
+[2022-06-15 18:35:45] BUY
+Recent Minimum---Random has bought AKT for $0.2661
+Recent Minimum---Random now has $0.035915573407212756
+---------------------------------------------------------------------------

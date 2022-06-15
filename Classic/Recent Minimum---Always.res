@@ -28406,3 +28406,7 @@ Recent Minimum---Always now has $0.00010067387352814914
 Recent Minimum---Always has sold AUDIO for $0.2949. Profit was 0.26605604921393455%.
 Recent Minimum---Always now has $0.00010094172245864877
 ---------------------------------------------------------------------------
+[2022-06-15 18:35:45] BUY
+Recent Minimum---Always has bought AKT for $0.2661
+Recent Minimum---Always now has $0.00010094172245864877
+---------------------------------------------------------------------------
