@@ -17838,3 +17838,7 @@ Lower All Local Minimums---Random now has $0.5297056381605104
 Lower All Local Minimums---Random has sold GLMR for $0.849. Profit was -0.0466272189349044%.
 Lower All Local Minimums---Random now has $0.5294586511528948
 ---------------------------------------------------------------------------
+[2022-06-15 03:01:03] BUY
+Lower All Local Minimums---Random has bought DAI for $0.99971
+Lower All Local Minimums---Random now has $0.5294586511528948
+---------------------------------------------------------------------------
