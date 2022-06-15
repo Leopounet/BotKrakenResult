@@ -27190,3 +27190,7 @@ Lower All Local Minimums---Always now has $0.001440656592270982
 Lower All Local Minimums---Always has sold ZRX for $0.246. Profit was 1.1328925619834656%.
 Lower All Local Minimums---Always now has $0.0014569776836485444
 ---------------------------------------------------------------------------
+[2022-06-15 07:33:21] BUY
+Lower All Local Minimums---Always has bought YFI for $4517.0
+Lower All Local Minimums---Always now has $0.0014569776836485444
+---------------------------------------------------------------------------
