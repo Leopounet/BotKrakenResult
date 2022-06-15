@@ -17798,3 +17798,7 @@ Lower All Local Minimums---Random now has $0.5441911698937754
 Lower All Local Minimums---Random has sold COMP for $34.33. Profit was -0.3741423570595166%.
 Lower All Local Minimums---Random now has $0.5421551202238251
 ---------------------------------------------------------------------------
+[2022-06-15 02:30:58] BUY
+Lower All Local Minimums---Random has bought BADGER for $3.318
+Lower All Local Minimums---Random now has $0.5421551202238251
+---------------------------------------------------------------------------
