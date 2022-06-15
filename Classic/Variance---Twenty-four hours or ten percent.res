@@ -90,3 +90,7 @@ Variance---Twenty-four hours or ten percent now has $9359.053821458429
 Variance---Twenty-four hours or ten percent has bought BIT for $0.4692
 Variance---Twenty-four hours or ten percent now has $9359.053821458429
 ---------------------------------------------------------------------------
+[2022-06-15 17:30:30] SOLD
+Variance---Twenty-four hours or ten percent has sold BIT for $0.4272. Profit was -9.471406649616366%.
+Variance---Twenty-four hours or ten percent now has $8472.61977547164
+---------------------------------------------------------------------------
