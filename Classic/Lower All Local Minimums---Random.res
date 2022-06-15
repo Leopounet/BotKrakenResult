@@ -18506,3 +18506,7 @@ Lower All Local Minimums---Random now has $0.34345005689744723
 Lower All Local Minimums---Random has bought ZRX for $0.234
 Lower All Local Minimums---Random now has $0.34345005689744723
 ---------------------------------------------------------------------------
+[2022-06-15 11:39:02] SOLD
+Lower All Local Minimums---Random has sold ZRX for $0.234. Profit was -0.52%.
+Lower All Local Minimums---Random now has $0.3416641166015805
+---------------------------------------------------------------------------
