@@ -17882,3 +17882,7 @@ Lower All Local Minimums---Random now has $0.5178288996133519
 Lower All Local Minimums---Random has bought STEP for $0.0674
 Lower All Local Minimums---Random now has $0.5178288996133519
 ---------------------------------------------------------------------------
+[2022-06-15 03:38:15] SOLD
+Lower All Local Minimums---Random has sold STEP for $0.067. Profit was -1.113471810089019%.
+Lower All Local Minimums---Random now has $0.512063020791663
+---------------------------------------------------------------------------
