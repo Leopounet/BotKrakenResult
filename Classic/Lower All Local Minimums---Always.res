@@ -28182,3 +28182,7 @@ Lower All Local Minimums---Always now has $0.000868111884640236
 Lower All Local Minimums---Always has sold FXS for $4.287. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0008635977028401068
 ---------------------------------------------------------------------------
+[2022-06-15 16:32:41] BUY
+Lower All Local Minimums---Always has bought STEP for $0.0672
+Lower All Local Minimums---Always now has $0.0008635977028401068
+---------------------------------------------------------------------------

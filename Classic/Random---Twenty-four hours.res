@@ -78,3 +78,7 @@ Random---Twenty-four hours now has $7046.456044009667
 Random---Twenty-four hours has sold XRT for $4.29. Profit was -6.851877729257639%.
 Random---Twenty-four hours now has $6563.641491628239
 ---------------------------------------------------------------------------
+[2022-06-15 16:32:41] BUY
+Random---Twenty-four hours has bought RBC for $0.05428
+Random---Twenty-four hours now has $6563.641491628239
+---------------------------------------------------------------------------

@@ -78,3 +78,7 @@ Mean---Twenty-four hours now has $9438.40711401777
 Mean---Twenty-four hours has sold WBTC for $21399.3. Profit was -5.423834189523081%.
 Mean---Twenty-four hours now has $8926.483562021294
 ---------------------------------------------------------------------------
+[2022-06-15 16:32:41] BUY
+Mean---Twenty-four hours has bought TBTC for $21552.0
+Mean---Twenty-four hours now has $8926.483562021294
+---------------------------------------------------------------------------

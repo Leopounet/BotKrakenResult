@@ -74,3 +74,7 @@ Random---Twenty-four hours or ten percent now has $5313.6502539603935
 Random---Twenty-four hours or ten percent has bought AUDIO for $0.307
 Random---Twenty-four hours or ten percent now has $5313.6502539603935
 ---------------------------------------------------------------------------
+[2022-06-15 16:32:41] SOLD
+Random---Twenty-four hours or ten percent has sold AUDIO for $0.2954. Profit was -4.298501628664499%.
+Random---Twenty-four hours or ten percent now has $5085.2429112523705
+---------------------------------------------------------------------------

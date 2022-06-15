@@ -18870,3 +18870,7 @@ Lower All Local Minimums---Random now has $0.28572317678183373
 Lower All Local Minimums---Random has sold FXS for $4.287. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.2842374162625682
 ---------------------------------------------------------------------------
+[2022-06-15 16:32:41] BUY
+Lower All Local Minimums---Random has bought STEP for $0.0672
+Lower All Local Minimums---Random now has $0.2842374162625682
+---------------------------------------------------------------------------
