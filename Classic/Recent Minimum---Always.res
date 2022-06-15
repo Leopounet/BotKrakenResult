@@ -28382,3 +28382,7 @@ Recent Minimum---Always now has $0.00010102841764374555
 Recent Minimum---Always has sold AXS for $13.261. Profit was 0.6935551824148827%.
 Recent Minimum---Always now has $0.0001017291054700255
 ---------------------------------------------------------------------------
+[2022-06-15 18:21:33] BUY
+Recent Minimum---Always has bought AUDIO for $0.2926
+Recent Minimum---Always now has $0.0001017291054700255
+---------------------------------------------------------------------------
