@@ -28414,3 +28414,7 @@ Recent Minimum---Always now has $0.00010094172245864877
 Recent Minimum---Always has sold AKT for $0.2661. Profit was -0.52%.
 Recent Minimum---Always now has $0.00010041682550186379
 ---------------------------------------------------------------------------
+[2022-06-15 18:40:34] BUY
+Recent Minimum---Always has bought AIR for $0.01561
+Recent Minimum---Always now has $0.00010041682550186379
+---------------------------------------------------------------------------
