@@ -18658,3 +18658,7 @@ Variance---Random now has $0.10118586940353479
 Variance---Random has bought BIT for $0.4334
 Variance---Random now has $0.10118586940353479
 ---------------------------------------------------------------------------
+[2022-06-15 13:23:22] SOLD
+Variance---Random has sold BIT for $0.4334. Profit was -0.52%.
+Variance---Random now has $0.10065970288263641
+---------------------------------------------------------------------------
