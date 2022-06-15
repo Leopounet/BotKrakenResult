@@ -26398,3 +26398,7 @@ Recent Minimum---Always now has $0.0003487791542816848
 Recent Minimum---Always has sold 1INCH for $0.595. Profit was -0.52%.
 Recent Minimum---Always now has $0.00034696550267942003
 ---------------------------------------------------------------------------
+[2022-06-15 00:52:03] BUY
+Recent Minimum---Always has bought DASH for $43.179
+Recent Minimum---Always now has $0.00034696550267942003
+---------------------------------------------------------------------------
