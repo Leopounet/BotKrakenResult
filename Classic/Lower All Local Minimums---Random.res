@@ -17870,3 +17870,7 @@ Lower All Local Minimums---Random now has $0.523256619598179
 Lower All Local Minimums---Random has sold GLMR for $0.846. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.5205356851762685
 ---------------------------------------------------------------------------
+[2022-06-15 03:30:08] BUY
+Lower All Local Minimums---Random has bought STEP for $0.0674
+Lower All Local Minimums---Random now has $0.5205356851762685
+---------------------------------------------------------------------------
