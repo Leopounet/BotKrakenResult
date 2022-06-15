@@ -27750,3 +27750,7 @@ Lower All Local Minimums---Always now has $0.0010864327016671222
 Lower All Local Minimums---Always has sold DAI for $0.99986. Profit was -0.4010001300169038%.
 Lower All Local Minimums---Always now has $0.001082076105120891
 ---------------------------------------------------------------------------
+[2022-06-15 12:32:57] BUY
+Lower All Local Minimums---Always has bought USDT for $0.9983
+Lower All Local Minimums---Always now has $0.001082076105120891
+---------------------------------------------------------------------------
