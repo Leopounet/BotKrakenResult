@@ -28206,3 +28206,7 @@ Lower All Local Minimums---Always now has $0.0008533612053845002
 Lower All Local Minimums---Always has sold STEP for $0.0671. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0008489237271165008
 ---------------------------------------------------------------------------
+[2022-06-15 16:45:25] BUY
+Lower All Local Minimums---Always has bought IMX for $0.657
+Lower All Local Minimums---Always now has $0.0008489237271165008
+---------------------------------------------------------------------------

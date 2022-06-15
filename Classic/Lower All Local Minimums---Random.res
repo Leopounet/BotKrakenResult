@@ -18890,3 +18890,7 @@ Lower All Local Minimums---Random now has $0.28086826002374177
 Lower All Local Minimums---Random has bought IMX for $0.657
 Lower All Local Minimums---Random now has $0.28086826002374177
 ---------------------------------------------------------------------------
+[2022-06-15 16:45:25] SOLD
+Lower All Local Minimums---Random has sold IMX for $0.657. Profit was -0.52%.
+Lower All Local Minimums---Random now has $0.2794077450716183
+---------------------------------------------------------------------------
