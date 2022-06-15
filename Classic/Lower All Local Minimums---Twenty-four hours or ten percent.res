@@ -94,3 +94,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $4875.166258
 Lower All Local Minimums---Twenty-four hours or ten percent has sold CTSI for $0.162. Profit was 10.135737704918034%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $5369.300323247342
 ---------------------------------------------------------------------------
+[2022-06-15 19:35:42] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought RBC for $0.05365
+Lower All Local Minimums---Twenty-four hours or ten percent now has $5369.300323247342
+---------------------------------------------------------------------------
