@@ -17694,3 +17694,7 @@ Lower All Local Minimums---Random now has $0.5759588847789254
 Lower All Local Minimums---Random has sold DAI for $0.99996. Profit was -0.3959996799744122%.
 Lower All Local Minimums---Random now has $0.5736780894384167
 ---------------------------------------------------------------------------
+[2022-06-15 01:30:24] BUY
+Lower All Local Minimums---Random has bought RBC for $0.05576
+Lower All Local Minimums---Random now has $0.5736780894384167
+---------------------------------------------------------------------------
