@@ -18886,3 +18886,7 @@ Lower All Local Minimums---Random now has $0.2823364093523741
 Lower All Local Minimums---Random has sold STEP for $0.0671. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.28086826002374177
 ---------------------------------------------------------------------------
+[2022-06-15 16:43:20] BUY
+Lower All Local Minimums---Random has bought IMX for $0.657
+Lower All Local Minimums---Random now has $0.28086826002374177
+---------------------------------------------------------------------------
