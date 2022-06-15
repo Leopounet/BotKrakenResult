@@ -17902,3 +17902,7 @@ Lower All Local Minimums---Random now has $0.506769567379872
 Lower All Local Minimums---Random has sold BADGER for $3.292. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.5041343656294967
 ---------------------------------------------------------------------------
+[2022-06-15 03:50:29] BUY
+Lower All Local Minimums---Random has bought DAI for $0.99985
+Lower All Local Minimums---Random now has $0.5041343656294967
+---------------------------------------------------------------------------
