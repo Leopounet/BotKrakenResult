@@ -18510,3 +18510,7 @@ Lower All Local Minimums---Random now has $0.34345005689744723
 Lower All Local Minimums---Random has sold ZRX for $0.234. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.3416641166015805
 ---------------------------------------------------------------------------
+[2022-06-15 11:41:08] BUY
+Lower All Local Minimums---Random has bought DAI for $0.9998
+Lower All Local Minimums---Random now has $0.3416641166015805
+---------------------------------------------------------------------------
