@@ -26606,3 +26606,7 @@ Lower All Local Minimums---Always now has $0.002138489975002015
 Lower All Local Minimums---Always has sold BADGER for $3.318. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0021273698271320044
 ---------------------------------------------------------------------------
+[2022-06-15 02:37:01] BUY
+Lower All Local Minimums---Always has bought GLMR for $0.845
+Lower All Local Minimums---Always now has $0.0021273698271320044
+---------------------------------------------------------------------------
