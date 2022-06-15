@@ -26478,3 +26478,7 @@ Lower All Local Minimums---Always now has $0.00229646551553028
 Lower All Local Minimums---Always has sold COMP for $34.86. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0022845238948495227
 ---------------------------------------------------------------------------
+[2022-06-15 01:32:25] BUY
+Lower All Local Minimums---Always has bought RBC for $0.05576
+Lower All Local Minimums---Always now has $0.0022845238948495227
+---------------------------------------------------------------------------
