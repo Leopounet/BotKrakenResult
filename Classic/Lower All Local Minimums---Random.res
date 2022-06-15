@@ -18638,3 +18638,7 @@ Lower All Local Minimums---Random now has $0.321373077680405
 Lower All Local Minimums---Random has sold USDT for $0.9983. Profit was -0.4%.
 Lower All Local Minimums---Random now has $0.3200875853696834
 ---------------------------------------------------------------------------
+[2022-06-15 13:25:44] BUY
+Lower All Local Minimums---Random has bought DAI for $0.99983
+Lower All Local Minimums---Random now has $0.3200875853696834
+---------------------------------------------------------------------------
