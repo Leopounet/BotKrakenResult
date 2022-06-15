@@ -27378,3 +27378,7 @@ Lower All Local Minimums---Always now has $0.0013098726468717189
 Lower All Local Minimums---Always has bought ZRX for $0.227
 Lower All Local Minimums---Always now has $0.0013098726468717189
 ---------------------------------------------------------------------------
+[2022-06-15 09:10:20] SOLD
+Lower All Local Minimums---Always has sold ZRX for $0.227. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.0013030613091079858
+---------------------------------------------------------------------------
