@@ -26742,3 +26742,7 @@ Lower All Local Minimums---Always now has $0.0019130813422891906
 Lower All Local Minimums---Always has sold BADGER for $3.292. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0019031333193092867
 ---------------------------------------------------------------------------
+[2022-06-15 03:46:23] BUY
+Lower All Local Minimums---Always has bought DAI for $0.99985
+Lower All Local Minimums---Always now has $0.0019031333193092867
+---------------------------------------------------------------------------
