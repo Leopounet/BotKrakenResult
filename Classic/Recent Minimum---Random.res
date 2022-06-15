@@ -18366,3 +18366,7 @@ Recent Minimum---Random now has $0.044781319895926
 Recent Minimum---Random has sold AKT for $0.2754. Profit was -0.52%.
 Recent Minimum---Random now has $0.04454845703246719
 ---------------------------------------------------------------------------
+[2022-06-15 13:58:52] BUY
+Recent Minimum---Random has bought AKT for $0.2754
+Recent Minimum---Random now has $0.04454845703246719
+---------------------------------------------------------------------------
