@@ -27910,3 +27910,7 @@ Recent Minimum---Always now has $0.00012785209863510304
 Recent Minimum---Always has sold AKT for $0.2754. Profit was -0.52%.
 Recent Minimum---Always now has $0.0001271872677222005
 ---------------------------------------------------------------------------
+[2022-06-15 14:03:19] BUY
+Recent Minimum---Always has bought ADA for $0.481981
+Recent Minimum---Always now has $0.0001271872677222005
+---------------------------------------------------------------------------
