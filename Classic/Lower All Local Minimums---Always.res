@@ -26350,3 +26350,7 @@ Lower All Local Minimums---Always now has $0.002457971182356692
 Lower All Local Minimums---Always has sold COMP for $34.88. Profit was -0.4339167862266753%.
 Lower All Local Minimums---Always now has $0.002447305632795832
 ---------------------------------------------------------------------------
+[2022-06-15 00:27:54] BUY
+Lower All Local Minimums---Always has bought PAXG for $1811.43
+Lower All Local Minimums---Always now has $0.002447305632795832
+---------------------------------------------------------------------------
