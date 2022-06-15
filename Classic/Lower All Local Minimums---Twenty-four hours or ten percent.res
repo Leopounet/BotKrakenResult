@@ -90,3 +90,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $4875.166258
 Lower All Local Minimums---Twenty-four hours or ten percent has bought CTSI for $0.1464
 Lower All Local Minimums---Twenty-four hours or ten percent now has $4875.166258597258
 ---------------------------------------------------------------------------
+[2022-06-15 19:33:35] SOLD
+Lower All Local Minimums---Twenty-four hours or ten percent has sold CTSI for $0.162. Profit was 10.135737704918034%.
+Lower All Local Minimums---Twenty-four hours or ten percent now has $5369.300323247342
+---------------------------------------------------------------------------
