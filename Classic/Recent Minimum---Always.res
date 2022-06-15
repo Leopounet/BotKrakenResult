@@ -28354,3 +28354,7 @@ Recent Minimum---Always now has $9.65796451214347e-05
 Recent Minimum---Always has bought BCH for $115.59
 Recent Minimum---Always now has $9.65796451214347e-05
 ---------------------------------------------------------------------------
+[2022-06-15 18:05:03] SOLD
+Recent Minimum---Always has sold BCH for $116.15. Profit was -0.03552902500215849%.
+Recent Minimum---Always now has $9.654533131517251e-05
+---------------------------------------------------------------------------
