@@ -18738,3 +18738,7 @@ Lower All Local Minimums---Random now has $0.3048791514284025
 Lower All Local Minimums---Random has bought DAI for $0.99982
 Lower All Local Minimums---Random now has $0.3048791514284025
 ---------------------------------------------------------------------------
+[2022-06-15 14:56:32] SOLD
+Lower All Local Minimums---Random has sold DAI for $0.99992. Profit was -0.3899981996759335%.
+Lower All Local Minimums---Random now has $0.3036901282266445
+---------------------------------------------------------------------------
