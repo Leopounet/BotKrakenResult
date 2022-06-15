@@ -1,4 +1,4 @@
-[2022-06-15 20:27:19] SUMMARY
+[2022-06-15 20:29:26] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    21552.0
-		Maximum:                    27001.0
-		Minimum:                    21552.0
-		Variance:                   0.201807
-		Mean:                       24307.695
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          12.0
-		Is ascending:               True
-		Current ascension duration: 49
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               0.75
-		Is falling:                 True
-		Current fall duration:      445
-		Trending downwards:         True
-		Average local maximum:      27001.0
-		Number of local maximums:   1
-		Average local minimum:      23638.75
-		Number of local minimums:   4
-	Is init: True
+	None
 Wins: 53
-Losses: 3523
-Total points: -1776.9244639836913%
-Wallet: 0.00017381385211059352
+Losses: 3524
+Total points: -1777.4444639836913%
+Wallet: 0.00017291002007961844
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: ZUSDZCAD
-	Altname: USDCAD
-	Wsname: USD/CAD
-	Base:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Quote:
-	 	Name: ZCAD
-		Altname: CAD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.2
-	Min order: 5
-	Data about this pair of assets (ZUSDZCAD):
-		Current:                    1.2812
-		Maximum:                    0.784812
-		Minimum:                    0.773808
-		Variance:                   0.014021
-		Mean:                       0.776552
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.289474
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.931034
-		Is falling:                 False
-		Current fall duration:      1
-		Trending downwards:         True
-		Average local maximum:      1.288843
-		Number of local maximums:   38
-		Average local minimum:      1.288411
-		Number of local minimums:   29
-	Is init: True
+	None
 Wins: 208
-Losses: 3368
-Total points: -1636.2780940037655%
-Wallet: 0.0006963847428364936
+Losses: 3369
+Total points: -1636.6780940037656%
+Wallet: 0.0006935992038651476
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
