@@ -26382,3 +26382,7 @@ Lower All Local Minimums---Always now has $0.0024151419596315474
 Lower All Local Minimums---Always has sold DAI for $0.99989. Profit was -0.4%.
 Lower All Local Minimums---Always now has $0.0024054813917930213
 ---------------------------------------------------------------------------
+[2022-06-15 00:44:03] BUY
+Lower All Local Minimums---Always has bought RBC for $0.05513
+Lower All Local Minimums---Always now has $0.0024054813917930213
+---------------------------------------------------------------------------
