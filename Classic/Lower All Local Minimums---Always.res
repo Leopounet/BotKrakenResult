@@ -26630,3 +26630,7 @@ Lower All Local Minimums---Always now has $0.0021053027050099574
 Lower All Local Minimums---Always has sold GLMR for $0.845. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0020943551309439055
 ---------------------------------------------------------------------------
+[2022-06-15 02:48:56] BUY
+Lower All Local Minimums---Always has bought DAI for $0.99991
+Lower All Local Minimums---Always now has $0.0020943551309439055
+---------------------------------------------------------------------------
