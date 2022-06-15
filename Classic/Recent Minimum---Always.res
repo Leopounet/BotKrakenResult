@@ -28378,3 +28378,7 @@ Recent Minimum---Always now has $0.00010102841764374555
 Recent Minimum---Always has bought AXS for $13.102
 Recent Minimum---Always now has $0.00010102841764374555
 ---------------------------------------------------------------------------
+[2022-06-15 18:19:18] SOLD
+Recent Minimum---Always has sold AXS for $13.261. Profit was 0.6935551824148827%.
+Recent Minimum---Always now has $0.0001017291054700255
+---------------------------------------------------------------------------
