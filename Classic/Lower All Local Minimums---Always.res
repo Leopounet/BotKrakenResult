@@ -27494,3 +27494,7 @@ Lower All Local Minimums---Always now has $0.0012176704499146668
 Lower All Local Minimums---Always has sold USDT for $0.998. Profit was -0.4%.
 Lower All Local Minimums---Always now has $0.001212799768115008
 ---------------------------------------------------------------------------
+[2022-06-15 10:14:08] BUY
+Lower All Local Minimums---Always has bought ZRX for $0.225
+Lower All Local Minimums---Always now has $0.001212799768115008
+---------------------------------------------------------------------------
