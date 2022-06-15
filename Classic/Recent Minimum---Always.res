@@ -26418,3 +26418,7 @@ Recent Minimum---Always now has $0.0003433664433987465
 Recent Minimum---Always has bought AKT for $0.27
 Recent Minimum---Always now has $0.0003433664433987465
 ---------------------------------------------------------------------------
+[2022-06-15 01:02:02] SOLD
+Recent Minimum---Always has sold AKT for $0.27. Profit was -0.52%.
+Recent Minimum---Always now has $0.000341580937893073
+---------------------------------------------------------------------------
