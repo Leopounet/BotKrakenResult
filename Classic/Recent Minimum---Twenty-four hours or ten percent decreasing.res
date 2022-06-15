@@ -74,3 +74,7 @@ Recent Minimum---Twenty-four hours or ten percent decreasing now has $6531.03969
 Recent Minimum---Twenty-four hours or ten percent decreasing has bought FIL for $5.573
 Recent Minimum---Twenty-four hours or ten percent decreasing now has $6531.039693159819
 ---------------------------------------------------------------------------
+[2022-06-15 16:25:55] SOLD
+Recent Minimum---Twenty-four hours or ten percent decreasing has sold FIL for $5.315. Profit was -5.149463484658169%.
+Recent Minimum---Twenty-four hours or ten percent decreasing now has $6194.726188992023
+---------------------------------------------------------------------------
