@@ -17886,3 +17886,7 @@ Lower All Local Minimums---Random now has $0.5178288996133519
 Lower All Local Minimums---Random has sold STEP for $0.067. Profit was -1.113471810089019%.
 Lower All Local Minimums---Random now has $0.512063020791663
 ---------------------------------------------------------------------------
+[2022-06-15 03:40:19] BUY
+Lower All Local Minimums---Random has bought BADGER for $3.309
+Lower All Local Minimums---Random now has $0.512063020791663
+---------------------------------------------------------------------------
