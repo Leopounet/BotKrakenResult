@@ -86,3 +86,7 @@ Lower All Local Minimums---Twenty-four hours or ten percent now has $4339.930802
 Lower All Local Minimums---Twenty-four hours or ten percent has sold FXS for $4.838. Profit was 12.332810823419647%.
 Lower All Local Minimums---Twenty-four hours or ten percent now has $4875.166258597258
 ---------------------------------------------------------------------------
+[2022-06-15 17:17:20] BUY
+Lower All Local Minimums---Twenty-four hours or ten percent has bought CTSI for $0.1464
+Lower All Local Minimums---Twenty-four hours or ten percent now has $4875.166258597258
+---------------------------------------------------------------------------
