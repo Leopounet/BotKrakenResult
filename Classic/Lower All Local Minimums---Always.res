@@ -26702,3 +26702,7 @@ Lower All Local Minimums---Always now has $0.002006700029005101
 Lower All Local Minimums---Always has sold GLMR for $0.846. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0019962651888542743
 ---------------------------------------------------------------------------
+[2022-06-15 03:26:09] BUY
+Lower All Local Minimums---Always has bought STEP for $0.0674
+Lower All Local Minimums---Always now has $0.0019962651888542743
+---------------------------------------------------------------------------
