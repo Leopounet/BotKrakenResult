@@ -27710,3 +27710,7 @@ Lower All Local Minimums---Always now has $0.0011111560787410665
 Lower All Local Minimums---Always has sold RBC for $0.05365. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.001105378067131613
 ---------------------------------------------------------------------------
+[2022-06-15 12:09:37] BUY
+Lower All Local Minimums---Always has bought ZRX for $0.236
+Lower All Local Minimums---Always now has $0.001105378067131613
+---------------------------------------------------------------------------
