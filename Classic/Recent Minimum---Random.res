@@ -19442,3 +19442,7 @@ Recent Minimum---Random now has $0.023597488884090412
 Recent Minimum---Random has bought AAVE for $64.86
 Recent Minimum---Random now has $0.023597488884090412
 ---------------------------------------------------------------------------
+[2022-06-16 03:45:39] SOLD
+Recent Minimum---Random has sold AAVE for $64.86. Profit was -0.52%.
+Recent Minimum---Random now has $0.02347478194189314
+---------------------------------------------------------------------------
