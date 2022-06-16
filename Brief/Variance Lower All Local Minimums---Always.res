@@ -45118,3 +45118,9 @@ Variance Lower All Local Minimums---Always has 3668 losses
 Variance Lower All Local Minimums---Always has -1967.1801052591109 points
 Variance Lower All Local Minimums---Always now has $2.6862934825129254e-05
 ---------------------------------------------------------------------------
+[2022-06-16 09:16:46] BRIEF
+Variance Lower All Local Minimums---Always has 92 wins
+Variance Lower All Local Minimums---Always has 3668 losses
+Variance Lower All Local Minimums---Always has -1967.1801052591109 points
+Variance Lower All Local Minimums---Always now has $2.6862934825129254e-05
+---------------------------------------------------------------------------
