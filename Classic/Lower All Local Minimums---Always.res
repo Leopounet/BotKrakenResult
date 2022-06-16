@@ -30122,3 +30122,7 @@ Lower All Local Minimums---Always now has $0.0003222414733138806
 Lower All Local Minimums---Always has bought DAI for $0.99974
 Lower All Local Minimums---Always now has $0.0003222414733138806
 ---------------------------------------------------------------------------
+[2022-06-16 09:39:51] SOLD
+Lower All Local Minimums---Always has sold DAI for $0.99974. Profit was -0.4%.
+Lower All Local Minimums---Always now has $0.0003209525074206251
+---------------------------------------------------------------------------
