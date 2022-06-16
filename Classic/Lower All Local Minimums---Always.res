@@ -29174,3 +29174,7 @@ Lower All Local Minimums---Always now has $0.0005258285572246525
 Lower All Local Minimums---Always has sold DAI for $0.99986. Profit was -0.4%.
 Lower All Local Minimums---Always now has $0.0005237252429957539
 ---------------------------------------------------------------------------
+[2022-06-16 01:24:48] BUY
+Lower All Local Minimums---Always has bought AKT for $0.2584
+Lower All Local Minimums---Always now has $0.0005237252429957539
+---------------------------------------------------------------------------
