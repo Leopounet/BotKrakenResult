@@ -1,4 +1,4 @@
-[2022-06-16 09:08:24] SUMMARY
+[2022-06-16 09:10:28] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    21552.0
-		Maximum:                    24998.9
-		Minimum:                    21552.0
-		Variance:                   0.137882
-		Mean:                       23653.183889
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          9.0
-		Is ascending:               True
-		Current ascension duration: 201
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.0
-		Is falling:                 True
-		Current fall duration:      597
-		Trending downwards:         True
-		Average local maximum:      24001.0
-		Number of local maximums:   1
-		Average local minimum:      22518.0
-		Number of local minimums:   3
-	Is init: True
+	None
 Wins: 53
-Losses: 3705
-Total points: -1871.564463983688%
-Wallet: 6.729700325297191e-05
+Losses: 3706
+Total points: -1872.084463983688%
+Wallet: 6.694705883605645e-05
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: CTSIUSD
-	Altname: CTSIUSD
-	Wsname: CTSI/USD
-	Base:
-	 	Name: CTSI
-		Altname: CTSI
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 10
-	Data about this pair of assets (CTSIUSD):
-		Current:                    0.1496
-		Maximum:                    0.1718
-		Minimum:                    0.1419
-		Variance:                   0.17404
-		Mean:                       0.157998
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          3.8
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               2.368421
-		Is falling:                 True
-		Current fall duration:      54
-		Trending downwards:         True
-		Average local maximum:      0.15708
-		Number of local maximums:   30
-		Average local minimum:      0.157345
-		Number of local minimums:   38
-	Is init: True
+	None
 Wins: 208
-Losses: 3550
-Total points: -1709.9054186180672%
-Wallet: 0.0003329956083417931
+Losses: 3551
+Total points: -1710.4254186180672%
+Wallet: 0.0003312640311784158
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing

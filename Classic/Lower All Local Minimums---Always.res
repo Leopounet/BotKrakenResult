@@ -30066,3 +30066,7 @@ Lower All Local Minimums---Always now has $0.0003329956083417931
 Lower All Local Minimums---Always has bought CTSI for $0.1496
 Lower All Local Minimums---Always now has $0.0003329956083417931
 ---------------------------------------------------------------------------
+[2022-06-16 09:10:28] SOLD
+Lower All Local Minimums---Always has sold CTSI for $0.1496. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.0003312640311784158
+---------------------------------------------------------------------------
