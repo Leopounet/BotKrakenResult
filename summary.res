@@ -1,4 +1,4 @@
-[2022-06-16 07:15:28] SUMMARY
+[2022-06-16 07:17:33] SUMMARY
 Most losses: 
 Name: Mean---Always
 BuyStrategy description: Looks for the asset for which the current price is the lowest compared to the mean of all previous prices.
@@ -8,48 +8,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: TBTCUSD
-	Altname: TBTCUSD
-	Wsname: TBTC/USD
-	Base:
-	 	Name: TBTC
-		Altname: TBTC
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 0.0001
-	Data about this pair of assets (TBTCUSD):
-		Current:                    21552.0
-		Maximum:                    24998.9
-		Minimum:                    21552.0
-		Variance:                   0.137882
-		Mean:                       23728.014444
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          9.0
-		Is ascending:               True
-		Current ascension duration: 179
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               1.0
-		Is falling:                 True
-		Current fall duration:      575
-		Trending downwards:         True
-		Average local maximum:      24001.0
-		Number of local maximums:   1
-		Average local minimum:      22518.0
-		Number of local minimums:   3
-	Is init: True
+	None
 Wins: 53
-Losses: 3678
-Total points: -1857.5244639836885%
-Wallet: 7.746932239268904e-05
+Losses: 3679
+Total points: -1858.0444639836885%
+Wallet: 7.706648191624706e-05
 ---------------------------------------------------------------------------
 Most wins: 
 Name: Lower All Local Minimums---Always
@@ -60,48 +23,11 @@ Buy strategy cached data:
 Sell strategy cached data: 
 	{}
 Bought asset pair: 
-	Name: AKTUSD
-	Altname: AKTUSD
-	Wsname: AKT/USD
-	Base:
-	 	Name: AKT
-		Altname: AKT
-		decimals: 10
-		displayed_decimals: 5
-	Quote:
-	 	Name: ZUSD
-		Altname: USD
-		decimals: 4
-		displayed_decimals: 2
-	Fee: 0.26
-	Min order: 3
-	Data about this pair of assets (AKTUSD):
-		Current:                    0.2595
-		Maximum:                    0.2981
-		Minimum:                    0.2563
-		Variance:                   0.140221
-		Mean:                       0.273467
-		Longest ascension:          3
-		Shortest ascension:         3
-		Average ascension:          2.558824
-		Is ascending:               False
-		Current ascension duration: 0
-		Trending upwards:           False
-		Longest fall:               3
-		Shortest fall:              3
-		Average fall:               3.517241
-		Is falling:                 True
-		Current fall duration:      4
-		Trending downwards:         True
-		Average local maximum:      0.274209
-		Number of local maximums:   34
-		Average local minimum:      0.271762
-		Number of local minimums:   29
-	Is init: True
+	None
 Wins: 208
-Losses: 3523
-Total points: -1699.0043442075223%
-Wallet: 0.0003714303750801281
+Losses: 3524
+Total points: -1699.5243442075223%
+Wallet: 0.00036949893712971146
 ---------------------------------------------------------------------------
 Best score: 
 Name: Variance---Twenty-four hours or ten percent decreasing
