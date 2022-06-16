@@ -30390,3 +30390,7 @@ Lower All Local Minimums---Always now has $0.0002716447225290481
 Lower All Local Minimums---Always has sold CTSI for $0.1452. Profit was -0.52%.
 Lower All Local Minimums---Always now has $0.0002702321699718971
 ---------------------------------------------------------------------------
+[2022-06-16 12:04:55] BUY
+Lower All Local Minimums---Always has bought RBC for $0.05041
+Lower All Local Minimums---Always now has $0.0002702321699718971
+---------------------------------------------------------------------------
