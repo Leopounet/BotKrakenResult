@@ -19654,3 +19654,7 @@ Lower All Local Minimums---Random now has $0.19198069049890895
 Lower All Local Minimums---Random has sold STEP for $0.067. Profit was -0.52%.
 Lower All Local Minimums---Random now has $0.19098239090831462
 ---------------------------------------------------------------------------
+[2022-06-16 02:45:49] BUY
+Lower All Local Minimums---Random has bought DAI for $0.99981
+Lower All Local Minimums---Random now has $0.19098239090831462
+---------------------------------------------------------------------------
