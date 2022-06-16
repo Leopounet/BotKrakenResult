@@ -29318,3 +29318,7 @@ Lower All Local Minimums---Always now has $0.0004885611410517166
 Lower All Local Minimums---Always has sold DAI for $0.99991. Profit was -0.3899980996389326%.
 Lower All Local Minimums---Always now has $0.00048665576188604065
 ---------------------------------------------------------------------------
+[2022-06-16 02:39:44] BUY
+Lower All Local Minimums---Always has bought STEP for $0.067
+Lower All Local Minimums---Always now has $0.00048665576188604065
+---------------------------------------------------------------------------
