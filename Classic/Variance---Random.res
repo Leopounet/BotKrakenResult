@@ -20070,3 +20070,7 @@ Variance---Random now has $0.03751529162421688
 Variance---Random has sold ANT for $1.8641. Profit was -0.52%.
 Variance---Random now has $0.03732021210777095
 ---------------------------------------------------------------------------
+[2022-06-16 08:43:19] BUY
+Variance---Random has bought ANT for $1.8463
+Variance---Random now has $0.03732021210777095
+---------------------------------------------------------------------------
