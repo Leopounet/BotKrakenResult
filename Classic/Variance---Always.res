@@ -30194,3 +30194,7 @@ Variance---Always now has $6.054717822577949e-06
 Variance---Always has bought ANT for $1.782
 Variance---Always now has $6.054717822577949e-06
 ---------------------------------------------------------------------------
+[2022-06-16 10:17:18] SOLD
+Variance---Always has sold ANT for $1.7969. Profit was 0.316139169472494%.
+Variance---Always now has $6.07385915721615e-06
+---------------------------------------------------------------------------
