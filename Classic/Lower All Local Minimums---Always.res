@@ -29178,3 +29178,7 @@ Lower All Local Minimums---Always now has $0.0005237252429957539
 Lower All Local Minimums---Always has bought AKT for $0.2584
 Lower All Local Minimums---Always now has $0.0005237252429957539
 ---------------------------------------------------------------------------
+[2022-06-16 01:26:50] SOLD
+Lower All Local Minimums---Always has sold AKT for $0.2584. Profit was -0.52%.
+Lower All Local Minimums---Always now has $0.000521001871732176
+---------------------------------------------------------------------------
