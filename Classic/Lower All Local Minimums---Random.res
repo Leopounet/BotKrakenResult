@@ -19682,3 +19682,7 @@ Lower All Local Minimums---Random now has $0.18847240804430626
 Lower All Local Minimums---Random has bought AKT for $0.2584
 Lower All Local Minimums---Random now has $0.18847240804430626
 ---------------------------------------------------------------------------
+[2022-06-16 03:10:23] SOLD
+Lower All Local Minimums---Random has sold AKT for $0.2584. Profit was -0.52%.
+Lower All Local Minimums---Random now has $0.18749235152247587
+---------------------------------------------------------------------------
