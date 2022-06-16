@@ -29314,3 +29314,7 @@ Recent Minimum---Always now has $5.6740512600828506e-05
 Recent Minimum---Always has bought GNO for $126.17
 Recent Minimum---Always now has $5.6740512600828506e-05
 ---------------------------------------------------------------------------
+[2022-06-16 02:37:42] SOLD
+Recent Minimum---Always has sold GNO for $126.17. Profit was -0.52%.
+Recent Minimum---Always now has $5.6445461935304196e-05
+---------------------------------------------------------------------------
